@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "Intelligence",
+  "DisplayName": "Zambia National Intelligence Service",
+  "Country": "Zambia",
+  "Headquarters": "Lusaka, Zambia",
+  "Mandate": "Provide strategic intelligence to the cabinet, monitor threats to national security, and underpin law enforcement investigations.",
+  "TopPriorities": [
+    "Monitor cross-border illicit flows that fund organized crime and tax evasion.",
+    "Deliver intelligence briefs to the Ministry of Finance and ZRA on mining-linked money laundering.",
+    "Support regional intelligence fusion with COMESA partners."
+  ],
+  "ActiveOperations": [
+    "Signal intelligence cell that tags suspicious transactions by mining conglomerates and shares them with the ZRA.",
+    "Open-source intelligence unit that analyzes media reporting (Times of Zambia, Radio Phoenix) for reputational threats.",
+    "Counterintelligence oversight for telecom infrastructure in partnership with MTN Zambia and ZAMTEL."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Delivered special briefing on Chinese infrastructure firms",
+      "Date": "2025-12-29T00:00:00Z",
+      "Summary": "Identified front companies supplying fake invoices to Tanzanian port operators and shared indicators with partner FICs."
+    },
+    {
+      "Title": "Mapped profit shifting cluster through social media monitoring",
+      "Date": "2025-12-14T00:00:00Z",
+      "Summary": "Linked Mineral Junxion and Taurus Mining Resources to offshore accounts using network analytics, surfacing potential shell owners."
+    }
+  ],
+  "KeyPartnerships": [
+    "Zambia Revenue Authority",
+    "Anti-Corruption Commission",
+    "Southern African Regional Police Chiefs Cooperation Organisation (SARPCCO)"
+  ],
+  "Metrics": {
+    "StrategicBriefings": "9 per quarter",
+    "Open Source Alerts": "211 media signals monitored",
+    "InteragencyOperations": "6 joint task forces"
+  }
+}

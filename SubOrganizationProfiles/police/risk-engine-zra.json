@@ -1,0 +1,206 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "04fd508b-085c-1535-04c8-00355ef2dc79",
+      "Name": "Law enforcement Risk Model",
+      "Description": "Detects law enforcement patterns in Zambia Police Service operations",
+      "Status": "active",
+      "CreatedAt": "2025-11-14T17:30:31Z",
+      "LastModifiedAt": "2026-01-09T17:30:31Z",
+      "Version": "3.2",
+      "Factors": [
+        {
+          "Id": "03137102-203b-25b4-21f3-007d5148b8dd",
+          "Name": "Criminal investigations Indicator",
+          "Description": "Measures law enforcement risk across criminal networks",
+          "Category": "operational",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 200,
+          "IsEnabled": true
+        },
+        {
+          "Id": "013eb07a-24f8-1679-2448-0060f6f29137",
+          "Name": "Organized crime Indicator",
+          "Description": "Measures organized crime risk across criminal networks",
+          "Category": "compliance",
+          "Weight": 0.1,
+          "MinValue": 0,
+          "MaxValue": 140,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01c46f95-1bce-1d96-09e4-006f30db2671",
+          "Name": "Law enforcement Indicator",
+          "Description": "Measures copper theft risk across suspects",
+          "Category": "operational",
+          "Weight": 0.35,
+          "MinValue": 0,
+          "MaxValue": 138,
+          "IsEnabled": true
+        },
+        {
+          "Id": "059a3b0d-2152-0812-0b4f-002a3e9d36e9",
+          "Name": "Law enforcement Indicator",
+          "Description": "Measures organized crime risk across criminal networks",
+          "Category": "operational",
+          "Weight": 0.14,
+          "MinValue": 0,
+          "MaxValue": 111,
+          "IsEnabled": true
+        },
+        {
+          "Id": "018aec07-23d2-0e59-0e65-007d260fb141",
+          "Name": "Copper theft Indicator",
+          "Description": "Measures law enforcement risk across crime syndicates",
+          "Category": "geographic",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 153,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.92,
+        "Precision": 0.8,
+        "Recall": 0.78,
+        "F1Score": 0.86,
+        "TotalPredictions": 600,
+        "TruePositives": 249,
+        "FalsePositives": 29,
+        "TrueNegatives": 131,
+        "FalseNegatives": 41
+      }
+    },
+    {
+      "Id": "012ae088-1f3a-088f-1841-00212f7822a2",
+      "Name": "Criminal investigations Risk Model",
+      "Description": "Detects law enforcement patterns in Zambia Police Service operations",
+      "Status": "active",
+      "CreatedAt": "2025-08-10T17:30:31Z",
+      "LastModifiedAt": "2026-01-13T17:30:31Z",
+      "Version": "2.1",
+      "Factors": [
+        {
+          "Id": "00e32ff9-0e4d-0e1e-07c7-00d443f48234",
+          "Name": "Copper theft Indicator",
+          "Description": "Measures drug trafficking risk across suspects",
+          "Category": "operational",
+          "Weight": 0.2,
+          "MinValue": 0,
+          "MaxValue": 135,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01050906-0d39-05f8-0f1a-0078c11ba4c6",
+          "Name": "Organized crime Indicator",
+          "Description": "Measures copper theft risk across suspects",
+          "Category": "financial",
+          "Weight": 0.2,
+          "MinValue": 0,
+          "MaxValue": 193,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01b07743-22f9-1ef9-0c40-004fcaf28dcc",
+          "Name": "Drug trafficking Indicator",
+          "Description": "Measures criminal investigations risk across criminal networks",
+          "Category": "geographic",
+          "Weight": 0.4,
+          "MinValue": 0,
+          "MaxValue": 174,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0164ea2f-1669-15f8-0ea9-00a8e204a18e",
+          "Name": "Criminal investigations Indicator",
+          "Description": "Measures copper theft risk across investigation units",
+          "Category": "compliance",
+          "Weight": 0.11,
+          "MinValue": 0,
+          "MaxValue": 119,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.83,
+        "Precision": 0.79,
+        "Recall": 0.79,
+        "F1Score": 0.79,
+        "TotalPredictions": 429,
+        "TruePositives": 369,
+        "FalsePositives": 68,
+        "TrueNegatives": 184,
+        "FalseNegatives": 46
+      }
+    },
+    {
+      "Id": "00c615f5-1d39-0f0f-1e7a-0045d8ce7230",
+      "Name": "Law enforcement Risk Model",
+      "Description": "Detects copper theft patterns in Zambia Police Service operations",
+      "Status": "active",
+      "CreatedAt": "2025-07-23T17:30:31Z",
+      "LastModifiedAt": "2026-01-03T17:30:31Z",
+      "Version": "1.5",
+      "Factors": [
+        {
+          "Id": "0566e35c-09ac-0ae0-0636-00c8bcceafd4",
+          "Name": "Law enforcement Indicator",
+          "Description": "Measures copper theft risk across criminal networks",
+          "Category": "geographic",
+          "Weight": 0.29,
+          "MinValue": 0,
+          "MaxValue": 126,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04ca815b-0de6-08dd-03f5-005f435b40b6",
+          "Name": "Organized crime Indicator",
+          "Description": "Measures copper theft risk across criminal networks",
+          "Category": "financial",
+          "Weight": 0.13,
+          "MinValue": 0,
+          "MaxValue": 164,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0228b1fc-25b8-0e4c-1c94-007eeb8e37ef",
+          "Name": "Law enforcement Indicator",
+          "Description": "Measures copper theft risk across criminal networks",
+          "Category": "compliance",
+          "Weight": 0.27,
+          "MinValue": 0,
+          "MaxValue": 130,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04cbc91a-1118-14ee-1353-0089efd9aee3",
+          "Name": "Criminal investigations Indicator",
+          "Description": "Measures criminal investigations risk across criminal networks",
+          "Category": "operational",
+          "Weight": 0.11,
+          "MinValue": 0,
+          "MaxValue": 136,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.95,
+        "Precision": 0.91,
+        "Recall": 0.84,
+        "F1Score": 0.84,
+        "TotalPredictions": 495,
+        "TruePositives": 373,
+        "FalsePositives": 58,
+        "TrueNegatives": 198,
+        "FalseNegatives": 39
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 13,
+    "AverageRiskScore": 89.1
+  }
+}

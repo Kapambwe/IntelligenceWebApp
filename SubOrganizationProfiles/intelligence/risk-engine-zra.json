@@ -1,0 +1,196 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "00bb1481-1b65-0ce6-1950-00d2405be706",
+      "Name": "Strategic intelligence Risk Model",
+      "Description": "Detects strategic intelligence patterns in Zambia Intelligence Service operations",
+      "Status": "active",
+      "CreatedAt": "2025-11-14T17:30:30Z",
+      "LastModifiedAt": "2025-12-29T17:30:30Z",
+      "Version": "1.8",
+      "Factors": [
+        {
+          "Id": "02790519-0408-2514-1705-00d85f530c4c",
+          "Name": "National security Indicator",
+          "Description": "Measures surveillance risk across foreign entities",
+          "Category": "operational",
+          "Weight": 0.22,
+          "MinValue": 0,
+          "MaxValue": 165,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04bd1da9-1baf-0a21-193a-0090e233a78b",
+          "Name": "National security Indicator",
+          "Description": "Measures counter-intelligence risk across intelligence targets",
+          "Category": "operational",
+          "Weight": 0.11,
+          "MinValue": 0,
+          "MaxValue": 126,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00e249d9-1bdf-1861-0876-00aa40ef53d3",
+          "Name": "National security Indicator",
+          "Description": "Measures national security risk across security threats",
+          "Category": "compliance",
+          "Weight": 0.19,
+          "MinValue": 0,
+          "MaxValue": 117,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.87,
+        "Precision": 0.88,
+        "Recall": 0.74,
+        "F1Score": 0.85,
+        "TotalPredictions": 618,
+        "TruePositives": 245,
+        "FalsePositives": 43,
+        "TrueNegatives": 196,
+        "FalseNegatives": 60
+      }
+    },
+    {
+      "Id": "03539e97-1cbc-0950-15d4-005a3c377bd6",
+      "Name": "Surveillance Risk Model",
+      "Description": "Detects counter-intelligence patterns in Zambia Intelligence Service operations",
+      "Status": "active",
+      "CreatedAt": "2025-09-07T17:30:30Z",
+      "LastModifiedAt": "2026-01-17T17:30:30Z",
+      "Version": "3.4",
+      "Factors": [
+        {
+          "Id": "02891735-2513-1eec-0b49-009a212c7211",
+          "Name": "Strategic intelligence Indicator",
+          "Description": "Measures threat assessment risk across persons of interest",
+          "Category": "compliance",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 168,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0551addd-1651-1927-12ca-00a47ecf0022",
+          "Name": "National security Indicator",
+          "Description": "Measures surveillance risk across security threats",
+          "Category": "compliance",
+          "Weight": 0.13,
+          "MinValue": 0,
+          "MaxValue": 140,
+          "IsEnabled": true
+        },
+        {
+          "Id": "015181bd-232d-0f0a-0e35-001fc4444cf7",
+          "Name": "National security Indicator",
+          "Description": "Measures surveillance risk across foreign entities",
+          "Category": "operational",
+          "Weight": 0.13,
+          "MinValue": 0,
+          "MaxValue": 135,
+          "IsEnabled": true
+        },
+        {
+          "Id": "026866f5-0d8d-086b-0f58-004cc7e98c47",
+          "Name": "Strategic intelligence Indicator",
+          "Description": "Measures strategic intelligence risk across foreign entities",
+          "Category": "geographic",
+          "Weight": 0.35,
+          "MinValue": 0,
+          "MaxValue": 122,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04b1a7e6-0923-2026-1cdf-005d8e4f9166",
+          "Name": "Counter-intelligence Indicator",
+          "Description": "Measures national security risk across persons of interest",
+          "Category": "operational",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 172,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.84,
+        "Precision": 0.77,
+        "Recall": 0.72,
+        "F1Score": 0.76,
+        "TotalPredictions": 580,
+        "TruePositives": 354,
+        "FalsePositives": 64,
+        "TrueNegatives": 112,
+        "FalseNegatives": 48
+      }
+    },
+    {
+      "Id": "05af95db-0d1a-1102-0e28-005793203a49",
+      "Name": "Strategic intelligence Risk Model",
+      "Description": "Detects national security patterns in Zambia Intelligence Service operations",
+      "Status": "active",
+      "CreatedAt": "2025-09-18T17:30:30Z",
+      "LastModifiedAt": "2026-01-07T17:30:30Z",
+      "Version": "1.4",
+      "Factors": [
+        {
+          "Id": "02f385ea-11f5-0b3f-1f20-007275b375c8",
+          "Name": "Surveillance Indicator",
+          "Description": "Measures surveillance risk across persons of interest",
+          "Category": "operational",
+          "Weight": 0.39,
+          "MinValue": 0,
+          "MaxValue": 182,
+          "IsEnabled": true
+        },
+        {
+          "Id": "047796a3-1594-2531-1e30-00ae6812b56a",
+          "Name": "Counter-intelligence Indicator",
+          "Description": "Measures surveillance risk across intelligence targets",
+          "Category": "operational",
+          "Weight": 0.31,
+          "MinValue": 0,
+          "MaxValue": 117,
+          "IsEnabled": true
+        },
+        {
+          "Id": "020f55e6-0e49-1bc5-06d5-00923dceec4a",
+          "Name": "National security Indicator",
+          "Description": "Measures surveillance risk across intelligence targets",
+          "Category": "compliance",
+          "Weight": 0.39,
+          "MinValue": 0,
+          "MaxValue": 148,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02c80a7b-13b7-0d84-0bc8-0086e6d0a171",
+          "Name": "Threat assessment Indicator",
+          "Description": "Measures national security risk across persons of interest",
+          "Category": "operational",
+          "Weight": 0.32,
+          "MinValue": 0,
+          "MaxValue": 167,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.83,
+        "Precision": 0.9,
+        "Recall": 0.84,
+        "F1Score": 0.79,
+        "TotalPredictions": 575,
+        "TruePositives": 282,
+        "FalsePositives": 63,
+        "TrueNegatives": 163,
+        "FalseNegatives": 55
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 12,
+    "AverageRiskScore": 83.0
+  }
+}

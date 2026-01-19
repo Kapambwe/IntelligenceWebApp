@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "0195d538-1be2-122c-1a53-001b821febd1",
+      "Name": "Community leaders - Kitwe",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 51.6,
+      "IsCritical": false,
+      "Products": [
+        "investigative reporting"
+      ],
+      "AnnualSpend": 7059348.97
+    },
+    {
+      "Id": "0527bd6c-170f-1b67-2366-00425058e123",
+      "Name": "Corporations - nationwide broadcast",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 54.7,
+      "IsCritical": true,
+      "Products": [
+        "accountability"
+      ],
+      "AnnualSpend": 5439715.02
+    },
+    {
+      "Id": "02e87b8c-1166-19c5-0a7a-00d550d3d0dd",
+      "Name": "News subjects - nationwide broadcast",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 70.0,
+      "IsCritical": false,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 5637869.0
+    },
+    {
+      "Id": "021e94ae-17b7-0b68-18a6-00d141662cad",
+      "Name": "News subjects - Kitwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 62.9,
+      "IsCritical": false,
+      "Products": [
+        "investigative reporting"
+      ],
+      "AnnualSpend": 8824231.51
+    },
+    {
+      "Id": "05a1efaa-1c17-1891-06ed-0035f680981f",
+      "Name": "News subjects - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 94.9,
+      "IsCritical": false,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 7634890.14
+    },
+    {
+      "Id": "035836c4-1ce6-096a-0d27-0022d6def144",
+      "Name": "Community leaders - Chipata",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 72.8,
+      "IsCritical": false,
+      "Products": [
+        "investigative reporting"
+      ],
+      "AnnualSpend": 1263518.92
+    },
+    {
+      "Id": "030a5482-1f49-2416-0559-00882f5c3cc7",
+      "Name": "Public officials - Mongu",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 47.3,
+      "IsCritical": false,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 1314761.31
+    },
+    {
+      "Id": "03fff76a-226f-04ef-044b-00ab0ceb85eb",
+      "Name": "Public officials - Kitwe",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 43.3,
+      "IsCritical": false,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 873656.42
+    },
+    {
+      "Id": "05c7e818-043c-233e-04b6-003dd2a15422",
+      "Name": "News subjects - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 90.6,
+      "IsCritical": false,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 9895982.55
+    },
+    {
+      "Id": "0324e689-20dc-1ca9-1df8-007f647dea7c",
+      "Name": "Community leaders - Mongu",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 57.9,
+      "IsCritical": true,
+      "Products": [
+        "community engagement"
+      ],
+      "AnnualSpend": 6354552.86
+    },
+    {
+      "Id": "033816d9-223a-0509-25af-003aecc98e79",
+      "Name": "Corporations - Mongu",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 46.5,
+      "IsCritical": true,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 8287111.33
+    },
+    {
+      "Id": "04c828a6-1f62-09d5-1757-0084fdc31ea9",
+      "Name": "Corporations - Chipata",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 61.1,
+      "IsCritical": false,
+      "Products": [
+        "investigative reporting"
+      ],
+      "AnnualSpend": 961502.68
+    },
+    {
+      "Id": "00dea513-1ea2-069f-1180-00237c047744",
+      "Name": "Public officials - Chipata",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 72.7,
+      "IsCritical": false,
+      "Products": [
+        "public awareness"
+      ],
+      "AnnualSpend": 2709398.17
+    },
+    {
+      "Id": "04980d3c-17ea-2548-0c67-00c9231ea220",
+      "Name": "Community leaders - nationwide broadcast",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 64.7,
+      "IsCritical": false,
+      "Products": [
+        "public awareness"
+      ],
+      "AnnualSpend": 2337547.53
+    },
+    {
+      "Id": "04ca5bfa-04bc-14a2-1e05-007bd022834f",
+      "Name": "News subjects - Kitwe",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 51.8,
+      "IsCritical": true,
+      "Products": [
+        "accountability"
+      ],
+      "AnnualSpend": 2646196.54
+    },
+    {
+      "Id": "056d071b-08d0-2585-18e6-0097de45cfc1",
+      "Name": "Corporations - Mongu",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 84.3,
+      "IsCritical": false,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 4333817.82
+    },
+    {
+      "Id": "0413aece-0e52-1e6f-04d1-00e8be649fa9",
+      "Name": "Corporations - Mongu",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 88.4,
+      "IsCritical": true,
+      "Products": [
+        "public awareness"
+      ],
+      "AnnualSpend": 5305658.43
+    },
+    {
+      "Id": "00b1a5ca-06a7-1661-1998-0047e8ea0761",
+      "Name": "Community leaders - Mongu",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 47.8,
+      "IsCritical": true,
+      "Products": [
+        "public awareness"
+      ],
+      "AnnualSpend": 1187186.24
+    },
+    {
+      "Id": "02e66d31-1422-1a87-1d43-0042e6c93311",
+      "Name": "Community leaders - Mongu",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 90.5,
+      "IsCritical": false,
+      "Products": [
+        "accountability"
+      ],
+      "AnnualSpend": 7000835.77
+    },
+    {
+      "Id": "01ebf874-070c-06a2-202e-00aba5992020",
+      "Name": "Corporations - Chipata",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 75.5,
+      "IsCritical": false,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 2321657.46
+    },
+    {
+      "Id": "0433f3c4-1630-0e4a-1343-0018121ba437",
+      "Name": "Corporations - Lusaka",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 79.5,
+      "IsCritical": false,
+      "Products": [
+        "accountability"
+      ],
+      "AnnualSpend": 5888227.35
+    },
+    {
+      "Id": "00d856d3-20b1-208d-044b-004058902b14",
+      "Name": "Community leaders - nationwide broadcast",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 73.8,
+      "IsCritical": true,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 2324461.05
+    },
+    {
+      "Id": "01ca4d3c-18b9-17ba-18c4-00a65903ca3f",
+      "Name": "Corporations - Kitwe",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 55.3,
+      "IsCritical": true,
+      "Products": [
+        "investigative reporting"
+      ],
+      "AnnualSpend": 1957286.24
+    },
+    {
+      "Id": "025ac951-1341-088d-1762-009fb01ded83",
+      "Name": "Corporations - nationwide broadcast",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 91.4,
+      "IsCritical": false,
+      "Products": [
+        "investigative reporting"
+      ],
+      "AnnualSpend": 8453986.14
+    },
+    {
+      "Id": "03d70c65-121c-2184-0adb-001c61b5be9f",
+      "Name": "News subjects - nationwide broadcast",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 83.5,
+      "IsCritical": false,
+      "Products": [
+        "community engagement"
+      ],
+      "AnnualSpend": 3523702.06
+    },
+    {
+      "Id": "049c6b21-1771-0f0f-22af-00900e0c3d36",
+      "Name": "Community leaders - Lusaka",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 44.2,
+      "IsCritical": false,
+      "Products": [
+        "public awareness"
+      ],
+      "AnnualSpend": 2743152.75
+    },
+    {
+      "Id": "03643f2a-205c-1e03-1656-00531fd4910a",
+      "Name": "Community leaders - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 89.1,
+      "IsCritical": true,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 7184409.38
+    },
+    {
+      "Id": "03bace36-1b4c-22a7-1413-0022cfcbce2e",
+      "Name": "Public officials - Kitwe",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 89.4,
+      "IsCritical": false,
+      "Products": [
+        "public awareness"
+      ],
+      "AnnualSpend": 8239560.17
+    },
+    {
+      "Id": "03bfdb01-2425-10b0-2067-007f8362d2d8",
+      "Name": "Community leaders - Chipata",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 79.5,
+      "IsCritical": true,
+      "Products": [
+        "accountability"
+      ],
+      "AnnualSpend": 1878717.71
+    },
+    {
+      "Id": "050de4e8-0d72-22f6-0dc9-007212951ee7",
+      "Name": "News subjects - Mongu",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 60.3,
+      "IsCritical": false,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 9807412.8
+    },
+    {
+      "Id": "052a1690-07e2-2294-061a-006a494a4088",
+      "Name": "Corporations - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 81.0,
+      "IsCritical": true,
+      "Products": [
+        "investigative reporting"
+      ],
+      "AnnualSpend": 1299587.42
+    },
+    {
+      "Id": "0573905d-1089-10d6-1db6-009b9ee21b1c",
+      "Name": "News subjects - Kitwe",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 57.2,
+      "IsCritical": true,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 2567128.81
+    },
+    {
+      "Id": "04cdd962-13c3-1914-1951-00a74f58780a",
+      "Name": "Public officials - nationwide broadcast",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 81.6,
+      "IsCritical": false,
+      "Products": [
+        "investigative reporting"
+      ],
+      "AnnualSpend": 2997870.45
+    },
+    {
+      "Id": "04d1d336-0bf1-246b-1501-00c139c09ede",
+      "Name": "Community leaders - nationwide broadcast",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 49.0,
+      "IsCritical": false,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 9590006.23
+    },
+    {
+      "Id": "03186bfe-23ff-1031-1ae4-0029c55bc62b",
+      "Name": "Public officials - nationwide broadcast",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 50.4,
+      "IsCritical": false,
+      "Products": [
+        "public awareness"
+      ],
+      "AnnualSpend": 7758809.37
+    },
+    {
+      "Id": "03b3d8ac-26ec-1ea0-15c7-00d3209a77b8",
+      "Name": "Public officials - nationwide broadcast",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 84.4,
+      "IsCritical": true,
+      "Products": [
+        "public awareness"
+      ],
+      "AnnualSpend": 7234983.14
+    },
+    {
+      "Id": "03641bfa-1804-20d3-1bce-00cb2e432f94",
+      "Name": "News subjects - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 64.0,
+      "IsCritical": true,
+      "Products": [
+        "community engagement"
+      ],
+      "AnnualSpend": 9700155.14
+    },
+    {
+      "Id": "01940e79-2484-20ca-17f3-003cf7ed1c77",
+      "Name": "Public officials - nationwide broadcast",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 60.9,
+      "IsCritical": true,
+      "Products": [
+        "community engagement"
+      ],
+      "AnnualSpend": 6184099.1
+    },
+    {
+      "Id": "02d7bd28-08b9-1474-0df6-00c45ddb6e18",
+      "Name": "Corporations - Chipata",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 57.1,
+      "IsCritical": true,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 1958852.6
+    },
+    {
+      "Id": "04c22964-0ecb-12a3-1ab8-006f79350aa0",
+      "Name": "Corporations - Lusaka",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 55.8,
+      "IsCritical": true,
+      "Products": [
+        "public awareness"
+      ],
+      "AnnualSpend": 9550182.45
+    },
+    {
+      "Id": "05f17290-25bb-139b-0f6b-00984252413a",
+      "Name": "Community leaders - Chipata",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 93.7,
+      "IsCritical": false,
+      "Products": [
+        "investigative reporting"
+      ],
+      "AnnualSpend": 8719774.03
+    },
+    {
+      "Id": "01299a9f-10e8-092d-1878-001c1eb5872b",
+      "Name": "Public officials - Mongu",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 46.2,
+      "IsCritical": true,
+      "Products": [
+        "investigative reporting"
+      ],
+      "AnnualSpend": 1765820.9
+    },
+    {
+      "Id": "01754ee9-2515-1841-1e85-0072c91260f8",
+      "Name": "Corporations - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 94.1,
+      "IsCritical": false,
+      "Products": [
+        "community engagement"
+      ],
+      "AnnualSpend": 8347651.61
+    },
+    {
+      "Id": "031d0d97-1d72-0633-1160-00d0fe27a568",
+      "Name": "Community leaders - Kitwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 71.2,
+      "IsCritical": true,
+      "Products": [
+        "investigative reporting"
+      ],
+      "AnnualSpend": 1123305.99
+    },
+    {
+      "Id": "036bb58d-1380-09bb-1278-007656145168",
+      "Name": "Corporations - nationwide broadcast",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 42.4,
+      "IsCritical": true,
+      "Products": [
+        "investigative reporting"
+      ],
+      "AnnualSpend": 6255358.65
+    },
+    {
+      "Id": "03d96cb9-0db8-14c4-0ad6-008d99e3d77d",
+      "Name": "News subjects - Mongu",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 58.2,
+      "IsCritical": true,
+      "Products": [
+        "community engagement"
+      ],
+      "AnnualSpend": 1787321.07
+    },
+    {
+      "Id": "04114398-0ae9-0ea3-15da-003573b1cc70",
+      "Name": "News subjects - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 93.1,
+      "IsCritical": true,
+      "Products": [
+        "investigative reporting"
+      ],
+      "AnnualSpend": 8201007.96
+    },
+    {
+      "Id": "030e0a0a-2149-0f5c-1dca-005d962389a9",
+      "Name": "Corporations - nationwide broadcast",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 71.5,
+      "IsCritical": false,
+      "Products": [
+        "public awareness"
+      ],
+      "AnnualSpend": 1618463.03
+    },
+    {
+      "Id": "00ce2157-23b5-0cd8-1ebe-0093bdb0fe04",
+      "Name": "Corporations - nationwide broadcast",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 77.8,
+      "IsCritical": true,
+      "Products": [
+        "news broadcasting"
+      ],
+      "AnnualSpend": 5445837.37
+    },
+    {
+      "Id": "042a449e-10ef-238d-1690-002bcc1e71d8",
+      "Name": "News subjects - Mongu",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 43.4,
+      "IsCritical": false,
+      "Products": [
+        "accountability"
+      ],
+      "AnnualSpend": 2956370.45
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "0368b946-1e81-0af2-1498-00603dccefae",
+      "FromSupplierId": "021e94ae-17b7-0b68-18a6-00d141662cad",
+      "ToSupplierId": "02e87b8c-1166-19c5-0a7a-00d550d3d0dd",
+      "Type": "partnership",
+      "DependencyLevel": 0.78,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03d0f00d-20d1-1cef-193c-0058fffb43cc",
+      "FromSupplierId": "03d70c65-121c-2184-0adb-001c61b5be9f",
+      "ToSupplierId": "035836c4-1ce6-096a-0d27-0022d6def144",
+      "Type": "supplies",
+      "DependencyLevel": 0.46,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04b03e6d-12f0-1178-1fbb-009682bf7326",
+      "FromSupplierId": "0195d538-1be2-122c-1a53-001b821febd1",
+      "ToSupplierId": "01ebf874-070c-06a2-202e-00aba5992020",
+      "Type": "partnership",
+      "DependencyLevel": 0.58,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "021908ba-07b5-0ce9-2024-009d84981be6",
+      "FromSupplierId": "049c6b21-1771-0f0f-22af-00900e0c3d36",
+      "ToSupplierId": "01754ee9-2515-1841-1e85-0072c91260f8",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.45,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04763099-0bbd-1262-1689-0087091049c1",
+      "FromSupplierId": "050de4e8-0d72-22f6-0dc9-007212951ee7",
+      "ToSupplierId": "05f17290-25bb-139b-0f6b-00984252413a",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.88,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03172d78-1d43-103a-2125-00d34da49e7d",
+      "FromSupplierId": "056d071b-08d0-2585-18e6-0097de45cfc1",
+      "ToSupplierId": "03b3d8ac-26ec-1ea0-15c7-00d3209a77b8",
+      "Type": "supplies",
+      "DependencyLevel": 0.79,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00c1b27d-1dde-1c7a-0f01-003eb809eb58",
+      "FromSupplierId": "025ac951-1341-088d-1762-009fb01ded83",
+      "ToSupplierId": "00b1a5ca-06a7-1661-1998-0047e8ea0761",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.62,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "01f87957-1f93-124b-12d4-006e8f72831a",
+      "FromSupplierId": "03b3d8ac-26ec-1ea0-15c7-00d3209a77b8",
+      "ToSupplierId": "04d1d336-0bf1-246b-1501-00c139c09ede",
+      "Type": "supplies",
+      "DependencyLevel": 0.56,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "021bf37e-13a6-2327-04a3-0063b42bb80c",
+      "FromSupplierId": "03d96cb9-0db8-14c4-0ad6-008d99e3d77d",
+      "ToSupplierId": "05c7e818-043c-233e-04b6-003dd2a15422",
+      "Type": "partnership",
+      "DependencyLevel": 0.56,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04c13c11-0a9b-074c-11ca-0055ef536bb2",
+      "FromSupplierId": "0413aece-0e52-1e6f-04d1-00e8be649fa9",
+      "ToSupplierId": "05f17290-25bb-139b-0f6b-00984252413a",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.56,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "05534de4-0c21-1351-18b4-00516b97aa81",
+      "FromSupplierId": "01940e79-2484-20ca-17f3-003cf7ed1c77",
+      "ToSupplierId": "03d96cb9-0db8-14c4-0ad6-008d99e3d77d",
+      "Type": "partnership",
+      "DependencyLevel": 0.72,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03cb3b83-11a5-18fe-0b14-0077dded6c6d",
+      "FromSupplierId": "02d7bd28-08b9-1474-0df6-00c45ddb6e18",
+      "ToSupplierId": "01299a9f-10e8-092d-1878-001c1eb5872b",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.76,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01410bf9-227d-0f07-1fc3-009910359c49",
+      "FromSupplierId": "035836c4-1ce6-096a-0d27-0022d6def144",
+      "ToSupplierId": "04ca5bfa-04bc-14a2-1e05-007bd022834f",
+      "Type": "supplies",
+      "DependencyLevel": 0.61,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "019e2837-1e51-1e3c-0bd2-00a348f7a4b3",
+      "FromSupplierId": "04980d3c-17ea-2548-0c67-00c9231ea220",
+      "ToSupplierId": "049c6b21-1771-0f0f-22af-00900e0c3d36",
+      "Type": "supplies",
+      "DependencyLevel": 0.72,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03362d52-1b66-21b5-21df-00521230d505",
+      "FromSupplierId": "030a5482-1f49-2416-0559-00882f5c3cc7",
+      "ToSupplierId": "0433f3c4-1630-0e4a-1343-0018121ba437",
+      "Type": "partnership",
+      "DependencyLevel": 0.76,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0203f784-10b2-2263-0f77-0041aa65b681",
+      "FromSupplierId": "01ca4d3c-18b9-17ba-18c4-00a65903ca3f",
+      "ToSupplierId": "04c828a6-1f62-09d5-1757-0084fdc31ea9",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.68,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "01650f31-13dd-1402-20cb-00e2524ca8e3",
+      "FromSupplierId": "03bace36-1b4c-22a7-1413-0022cfcbce2e",
+      "ToSupplierId": "050de4e8-0d72-22f6-0dc9-007212951ee7",
+      "Type": "supplies",
+      "DependencyLevel": 0.49,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0103eba7-1e2f-2102-1b4f-00a1367862a8",
+      "FromSupplierId": "052a1690-07e2-2294-061a-006a494a4088",
+      "ToSupplierId": "0433f3c4-1630-0e4a-1343-0018121ba437",
+      "Type": "partnership",
+      "DependencyLevel": 0.73,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "019a68b8-18ff-23e5-198f-006e31fd8f0a",
+      "FromSupplierId": "03186bfe-23ff-1031-1ae4-0029c55bc62b",
+      "ToSupplierId": "05f17290-25bb-139b-0f6b-00984252413a",
+      "Type": "partnership",
+      "DependencyLevel": 0.68,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "038e91bf-055a-12b0-233e-00e4cc985dae",
+      "FromSupplierId": "04cdd962-13c3-1914-1951-00a74f58780a",
+      "ToSupplierId": "03d70c65-121c-2184-0adb-001c61b5be9f",
+      "Type": "supplies",
+      "DependencyLevel": 0.55,
+      "IsCriticalPath": true
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "geographic",
+      "Description": "Concentration of investigative reporting in nationwide broadcast",
+      "ConcentrationLevel": 58.6,
+      "AffectedSuppliers": [
+        "Community leaders - nationwide broadcast",
+        "Community leaders - Kitwe",
+        "Community leaders - Mongu"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "0173bcaa-0af7-09e9-082b-004432ff3399",
+      "SupplierId": "0195d538-1be2-122c-1a53-001b821febd1",
+      "SupplierName": "Community leaders - Kitwe",
+      "RiskType": "financial",
+      "Severity": "medium",
+      "Description": "Risk detected in news broadcasting operations",
+      "DetectedAt": "2025-12-31T17:30:31Z",
+      "IsAcknowledged": false,
+      "AffectedDownstreamSuppliers": [
+        "02e66d31-1422-1a87-1d43-0042e6c93311",
+        "01ebf874-070c-06a2-202e-00aba5992020"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 23,
+    "HighRiskSuppliers": 15,
+    "AverageRiskScore": 68.2,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "News reportingPath",
+      "Summary": "Identified 3-step pattern linking government officials to public interest stories in Lusaka",
+      "HighlightedNodes": [
+        "05e2dafe-0fb8-0748-1d4f-007f460048ae",
+        "057ba5c9-1500-1a3a-1f65-0073e951c0e0",
+        "01bc0952-203b-1772-076b-0035ed2b50d3"
+      ]
+    },
+    {
+      "Name": "Corruption exposurePath",
+      "Summary": "Identified 5-step pattern linking corporations to public interest stories in Kitwe",
+      "HighlightedNodes": [
+        "03291e06-231c-1a31-0cca-00ce70b9f8a0",
+        "01edabfe-0582-0672-10f8-00793c5a8f28",
+        "0362a05a-1fed-16d7-0f30-00cea2d189d5",
+        "055adbb7-1063-1957-1a51-00a821e1ad44",
+        "02a899b4-1764-1b3e-0c46-006609fd3739"
+      ]
+    },
+    {
+      "Name": "Investigative journalismPath",
+      "Summary": "Identified 6-step pattern linking news sources to investigative journalism in Lusaka",
+      "HighlightedNodes": [
+        "03118383-1406-25ea-0c3b-0099e33fb683",
+        "0476bbbf-1afa-1b4a-0dc5-00c31dda804b",
+        "00b3744b-1b82-25d1-1887-0018ab9612c4",
+        "03268600-190a-1511-188f-00db5bfcfb0f",
+        "024356e8-170e-0794-219b-007759f33769",
+        "013252b4-0e6d-2478-0ac4-0053459133d8"
+      ]
+    },
+    {
+      "Name": "Government accountabilityPath",
+      "Summary": "Identified 4-step pattern linking corporations to investigative journalism in Copperbelt",
+      "HighlightedNodes": [
+        "025c776a-0458-0b19-191a-00a5d664d8ef",
+        "05c14dd2-2165-16c6-133d-004d9e6e7c27",
+        "05276a42-1510-0c64-225f-008db6f387ea",
+        "05b86ff1-071c-1655-0a1a-00641530e8d8"
+      ]
+    },
+    {
+      "Name": "News reportingPath",
+      "Summary": "Identified 4-step pattern linking public figures to government accountability in Lusaka",
+      "HighlightedNodes": [
+        "04141d5f-1d6a-0964-0fc9-00c65c43e111",
+        "038e6e70-23d6-0fc1-131f-007f16b2c0f0",
+        "03c6739e-0985-1087-1252-0036889b6867",
+        "042f0668-2693-0b27-180e-00c6f58e7918"
+      ]
+    }
+  ]
+}

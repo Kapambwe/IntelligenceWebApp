@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "CentralBank",
+  "DisplayName": "Bank of Zambia",
+  "Country": "Zambia",
+  "Headquarters": "Lusaka, Zambia",
+  "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+  "TopPriorities": [
+    "Ensure liquidity in the banking system during mining revenue volatility.",
+    "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+    "Spread cybersecurity best practices to banks, insurance firms, and microfinance lenders."
+  ],
+  "ActiveOperations": [
+    "RTGS monitoring cell that flags foreign exchange trades tied to flagged mining exporters.",
+    "Open banking data-sharing initiative with selected commercial banks for AML screening.",
+    "Financial stability reports that cite revenue leaks uncovered by revenue collection and intelligence partners."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Published the January 2026 financial stability update",
+      "Date": "2026-01-07T00:00:00Z",
+      "Summary": "The report highlighted increased prepayments for copper exports and recommended deeper coordination with ZRA tax audits."
+    },
+    {
+      "Title": "Launched joint cyber response with ZRA and MTN",
+      "Date": "2025-12-18T00:00:00Z",
+      "Summary": "The shared command center now tracks suspicious login attempts to payment settlement servers."
+    }
+  ],
+  "KeyPartnerships": [
+    "Zambia Revenue Authority",
+    "Commercial banking sector",
+    "Reserve Bank of South Africa"
+  ],
+  "Metrics": {
+    "ReservesCoverage": "4.6 months of imports",
+    "PaymentsMonitor": "1,200 high-value trades daily",
+    "ProblemAssets": "0.9% of banking assets"
+  }
+}

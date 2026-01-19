@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "Telecom",
+  "DisplayName": "MTN Zambia",
+  "Country": "Zambia",
+  "Headquarters": "Lusaka, Zambia",
+  "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance and safety efforts.",
+  "TopPriorities": [
+    "Collaborate with security institutions to block SIM swaps used in money laundering.",
+    "Enable mobile money transaction tagging for suspicious VAT refund payments.",
+    "Invest in rural connectivity to support remote audit teams."
+  ],
+  "ActiveOperations": [
+    "Dedicated compliance liaison with the Financial Intelligence Centre on high-volume airtime transfers.",
+    "Network integrity team tracking unusual traffic to copper export coordination centers.",
+    "CSR programs that fund community reporting hotlines for fraud."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Reported a botnet pushing fake invoices",
+      "Date": "2025-12-29T00:00:00Z",
+      "Summary": "Blocked malicious SMS campaigns tied to a cluster of suspicious exporters within minutes."
+    },
+    {
+      "Title": "Deployed SIM registration updates for rural auditors",
+      "Date": "2025-12-05T00:00:00Z",
+      "Summary": "Ensured field agents working with ZRA and ACC could authenticate their devices."
+    }
+  ],
+  "KeyPartnerships": [
+    "Financial Intelligence Centre",
+    "Zambia Revenue Authority",
+    "Zambia Police Service digital forensics unit"
+  ],
+  "Metrics": {
+    "ComplianceTickets": "312 tickets resolved",
+    "SuspiciousTransfers": "48 flagged air-time transfers",
+    "RuralConnectivity": "19 new towers supporting audit teams"
+  }
+}

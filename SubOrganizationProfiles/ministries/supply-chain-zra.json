@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "0246d59c-0df9-16eb-0dfa-0053f30188db",
+      "Name": "Government departments - Lusaka",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 75.7,
+      "IsCritical": false,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 5629680.64
+    },
+    {
+      "Id": "0443b376-2358-1b2d-04c1-00bd8e29ea14",
+      "Name": "Beneficiaries - Northern Province",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 72.0,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 777787.55
+    },
+    {
+      "Id": "05c36629-1824-0dd7-0e8b-00a3b524967c",
+      "Name": "Suppliers - provincial offices",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 44.7,
+      "IsCritical": true,
+      "Products": [
+        "policy compliance"
+      ],
+      "AnnualSpend": 7643909.38
+    },
+    {
+      "Id": "02476a8a-0417-1af5-05bc-00a57acd3069",
+      "Name": "Contractors - Northern Province",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 62.7,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 3142329.37
+    },
+    {
+      "Id": "014e569f-0a39-093b-0f52-0093e8f242b8",
+      "Name": "Government departments - Northern Province",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 94.1,
+      "IsCritical": true,
+      "Products": [
+        "budget execution"
+      ],
+      "AnnualSpend": 4582044.5
+    },
+    {
+      "Id": "03f6e1d3-242b-0665-1542-003a3765ebd5",
+      "Name": "Suppliers - Copperbelt",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 87.8,
+      "IsCritical": false,
+      "Products": [
+        "policy compliance"
+      ],
+      "AnnualSpend": 596610.03
+    },
+    {
+      "Id": "00a84e8c-0602-2670-0c24-00c0ddaeaac1",
+      "Name": "Government departments - Western Province",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 53.2,
+      "IsCritical": true,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 9108031.92
+    },
+    {
+      "Id": "04c5dd32-1a92-1ca9-199e-00b2a304bcd9",
+      "Name": "Suppliers - Copperbelt",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 42.0,
+      "IsCritical": true,
+      "Products": [
+        "policy compliance"
+      ],
+      "AnnualSpend": 5702668.77
+    },
+    {
+      "Id": "015e730c-1501-187a-1428-0050ae5e1961",
+      "Name": "Suppliers - Western Province",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 42.2,
+      "IsCritical": true,
+      "Products": [
+        "budget execution"
+      ],
+      "AnnualSpend": 3803518.68
+    },
+    {
+      "Id": "02101b03-09d2-075d-1801-0068f2b4932c",
+      "Name": "Beneficiaries - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 40.6,
+      "IsCritical": false,
+      "Products": [
+        "public procurement"
+      ],
+      "AnnualSpend": 5423544.28
+    },
+    {
+      "Id": "016bac2d-252c-186d-266d-0017bf4bc70e",
+      "Name": "Suppliers - Lusaka",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 51.8,
+      "IsCritical": true,
+      "Products": [
+        "budget execution"
+      ],
+      "AnnualSpend": 1034744.22
+    },
+    {
+      "Id": "042192dd-138d-0462-1c45-00e3e92a1ec3",
+      "Name": "Government departments - provincial offices",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 52.7,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 9167736.19
+    },
+    {
+      "Id": "03265102-11e5-15ce-0a06-00ab4d637c94",
+      "Name": "Contractors - Northern Province",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 65.2,
+      "IsCritical": false,
+      "Products": [
+        "budget execution"
+      ],
+      "AnnualSpend": 2928997.65
+    },
+    {
+      "Id": "01a72957-2605-09bf-2204-00d5511588ed",
+      "Name": "Government departments - Copperbelt",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 56.2,
+      "IsCritical": false,
+      "Products": [
+        "public procurement"
+      ],
+      "AnnualSpend": 1250174.62
+    },
+    {
+      "Id": "0131ef90-0bbf-075e-0baa-003651dcbe3b",
+      "Name": "Government departments - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 72.0,
+      "IsCritical": true,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 6859266.31
+    },
+    {
+      "Id": "0344227c-12fb-2209-1792-00296b08ab5c",
+      "Name": "Contractors - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 84.1,
+      "IsCritical": false,
+      "Products": [
+        "policy compliance"
+      ],
+      "AnnualSpend": 8797628.25
+    },
+    {
+      "Id": "05ec8741-2019-22da-20a1-005a97a50491",
+      "Name": "Government departments - Western Province",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 49.7,
+      "IsCritical": true,
+      "Products": [
+        "budget execution"
+      ],
+      "AnnualSpend": 3210381.55
+    },
+    {
+      "Id": "025e2052-066f-14b5-0d6e-00e289d19f5e",
+      "Name": "Suppliers - provincial offices",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 89.4,
+      "IsCritical": true,
+      "Products": [
+        "public procurement"
+      ],
+      "AnnualSpend": 5843529.35
+    },
+    {
+      "Id": "036e740b-04dc-0d6e-1b79-0050bca2f189",
+      "Name": "Contractors - Western Province",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 53.1,
+      "IsCritical": false,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 3780630.26
+    },
+    {
+      "Id": "01065f03-0f1e-08f8-1081-0070c791ddd2",
+      "Name": "Suppliers - Western Province",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 89.7,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 8438298.62
+    },
+    {
+      "Id": "03e2f0e2-18df-0c55-0b9a-00acfb2a7eab",
+      "Name": "Contractors - provincial offices",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 86.7,
+      "IsCritical": true,
+      "Products": [
+        "budget execution"
+      ],
+      "AnnualSpend": 3574715.98
+    },
+    {
+      "Id": "04004141-1340-13b6-1f25-00b7016b102c",
+      "Name": "Suppliers - provincial offices",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 55.7,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 9827114.82
+    },
+    {
+      "Id": "016132a4-05cc-147d-1fe9-00e57abc399b",
+      "Name": "Suppliers - provincial offices",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 89.8,
+      "IsCritical": true,
+      "Products": [
+        "public procurement"
+      ],
+      "AnnualSpend": 8117669.44
+    },
+    {
+      "Id": "01b8088a-0a45-062a-0eff-008eb2f0c2d0",
+      "Name": "Contractors - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 89.2,
+      "IsCritical": true,
+      "Products": [
+        "policy compliance"
+      ],
+      "AnnualSpend": 5418518.22
+    },
+    {
+      "Id": "0118a136-12b9-1a0b-0f3e-0086e53c71b2",
+      "Name": "Beneficiaries - Northern Province",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 91.8,
+      "IsCritical": false,
+      "Products": [
+        "public procurement"
+      ],
+      "AnnualSpend": 6042241.37
+    },
+    {
+      "Id": "01a856eb-0e54-04b9-102e-005f27f0eb03",
+      "Name": "Contractors - provincial offices",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 60.7,
+      "IsCritical": false,
+      "Products": [
+        "budget execution"
+      ],
+      "AnnualSpend": 8878684.68
+    },
+    {
+      "Id": "02da2cc5-114f-1a37-13ac-00a45c58080b",
+      "Name": "Contractors - provincial offices",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 69.8,
+      "IsCritical": true,
+      "Products": [
+        "public procurement"
+      ],
+      "AnnualSpend": 1709398.76
+    },
+    {
+      "Id": "02860dcd-1ad1-191f-1401-00d50b4711c7",
+      "Name": "Contractors - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 44.5,
+      "IsCritical": false,
+      "Products": [
+        "policy compliance"
+      ],
+      "AnnualSpend": 2595562.34
+    },
+    {
+      "Id": "03094741-0437-1269-08c0-00352b59405b",
+      "Name": "Contractors - Western Province",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 87.0,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 7002235.76
+    },
+    {
+      "Id": "0246c595-0a6b-0918-2115-0083c0860ce3",
+      "Name": "Beneficiaries - Northern Province",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 68.1,
+      "IsCritical": true,
+      "Products": [
+        "public procurement"
+      ],
+      "AnnualSpend": 9768081.81
+    },
+    {
+      "Id": "013367be-08a7-21c2-1214-0021bba130e9",
+      "Name": "Government departments - Copperbelt",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 84.5,
+      "IsCritical": false,
+      "Products": [
+        "public procurement"
+      ],
+      "AnnualSpend": 3191113.42
+    },
+    {
+      "Id": "0419c570-0dd6-1f2d-187e-004bb57f6ffc",
+      "Name": "Government departments - Northern Province",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 42.5,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 6220492.21
+    },
+    {
+      "Id": "00e929be-1e84-24c0-194d-008df7e5bd80",
+      "Name": "Government departments - Western Province",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 86.3,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 6477683.86
+    },
+    {
+      "Id": "05bd83dc-0991-247e-0bce-00abc89be5c6",
+      "Name": "Suppliers - Northern Province",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 51.1,
+      "IsCritical": false,
+      "Products": [
+        "policy compliance"
+      ],
+      "AnnualSpend": 5174587.9
+    },
+    {
+      "Id": "0519bdf3-21eb-192f-206d-00667d7bf5e2",
+      "Name": "Government departments - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 93.8,
+      "IsCritical": true,
+      "Products": [
+        "public procurement"
+      ],
+      "AnnualSpend": 6602896.12
+    },
+    {
+      "Id": "015cffd3-1fa2-26a3-0cf3-00e32181d376",
+      "Name": "Government departments - Northern Province",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 86.2,
+      "IsCritical": false,
+      "Products": [
+        "policy compliance"
+      ],
+      "AnnualSpend": 4429829.64
+    },
+    {
+      "Id": "01d8491b-1f4a-17d0-246f-00775e98a25b",
+      "Name": "Government departments - provincial offices",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 75.1,
+      "IsCritical": false,
+      "Products": [
+        "budget execution"
+      ],
+      "AnnualSpend": 920364.06
+    },
+    {
+      "Id": "02d9d4f3-0f83-1753-100d-002d4f241633",
+      "Name": "Suppliers - Northern Province",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 57.3,
+      "IsCritical": false,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 1217451.73
+    },
+    {
+      "Id": "040d095e-0e66-1d97-2217-002952080078",
+      "Name": "Contractors - Copperbelt",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 63.3,
+      "IsCritical": false,
+      "Products": [
+        "budget execution"
+      ],
+      "AnnualSpend": 4443140.88
+    },
+    {
+      "Id": "04077f9e-0517-1625-05b2-00472857fcd3",
+      "Name": "Contractors - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 79.6,
+      "IsCritical": false,
+      "Products": [
+        "policy compliance"
+      ],
+      "AnnualSpend": 2258130.73
+    },
+    {
+      "Id": "045ad2bf-204c-196f-08a2-002dd0ff9bac",
+      "Name": "Government departments - provincial offices",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 63.5,
+      "IsCritical": false,
+      "Products": [
+        "budget execution"
+      ],
+      "AnnualSpend": 2108990.77
+    },
+    {
+      "Id": "00a40220-0d49-26de-0a65-00aeaeba64cc",
+      "Name": "Beneficiaries - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 61.0,
+      "IsCritical": false,
+      "Products": [
+        "budget execution"
+      ],
+      "AnnualSpend": 9270396.89
+    },
+    {
+      "Id": "044d7f40-1260-23ee-1c96-00a09f87c369",
+      "Name": "Suppliers - provincial offices",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 69.3,
+      "IsCritical": false,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 3320593.68
+    },
+    {
+      "Id": "02bfc756-0c49-0675-0893-0078eede65cc",
+      "Name": "Beneficiaries - Northern Province",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 82.2,
+      "IsCritical": false,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 5209166.13
+    },
+    {
+      "Id": "024afd24-205e-0e78-17c8-008c17fea863",
+      "Name": "Government departments - Western Province",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 76.9,
+      "IsCritical": false,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 7722937.48
+    },
+    {
+      "Id": "029d0a8a-1168-20bf-08ad-00a47f3e8553",
+      "Name": "Government departments - Lusaka",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 68.2,
+      "IsCritical": true,
+      "Products": [
+        "public procurement"
+      ],
+      "AnnualSpend": 9446365.36
+    },
+    {
+      "Id": "0311b9e6-08de-0840-05b1-005d5578194e",
+      "Name": "Suppliers - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 51.1,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 1050212.18
+    },
+    {
+      "Id": "00ff40b8-22ba-15a4-0baf-00cd95000349",
+      "Name": "Contractors - provincial offices",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 76.8,
+      "IsCritical": false,
+      "Products": [
+        "public procurement"
+      ],
+      "AnnualSpend": 2569472.82
+    },
+    {
+      "Id": "009ba8c0-24a0-208f-12c4-005aaffa5b6d",
+      "Name": "Contractors - Copperbelt",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 76.4,
+      "IsCritical": true,
+      "Products": [
+        "policy compliance"
+      ],
+      "AnnualSpend": 6830245.62
+    },
+    {
+      "Id": "01b0a1da-1328-2352-1f51-00e79bca7fc2",
+      "Name": "Government departments - Northern Province",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 49.4,
+      "IsCritical": true,
+      "Products": [
+        "public procurement"
+      ],
+      "AnnualSpend": 7948658.51
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "02bcc605-1c1e-061f-0be8-0055424ed43d",
+      "FromSupplierId": "00e929be-1e84-24c0-194d-008df7e5bd80",
+      "ToSupplierId": "036e740b-04dc-0d6e-1b79-0050bca2f189",
+      "Type": "partnership",
+      "DependencyLevel": 0.8,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02d69f37-06d2-1046-208e-0023ee9303de",
+      "FromSupplierId": "00ff40b8-22ba-15a4-0baf-00cd95000349",
+      "ToSupplierId": "01a856eb-0e54-04b9-102e-005f27f0eb03",
+      "Type": "partnership",
+      "DependencyLevel": 0.82,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "023d771b-2603-1567-2620-00e1d3245592",
+      "FromSupplierId": "02bfc756-0c49-0675-0893-0078eede65cc",
+      "ToSupplierId": "03e2f0e2-18df-0c55-0b9a-00acfb2a7eab",
+      "Type": "supplies",
+      "DependencyLevel": 0.58,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0363a3c4-0608-05e1-231d-00e4960a28c5",
+      "FromSupplierId": "0131ef90-0bbf-075e-0baa-003651dcbe3b",
+      "ToSupplierId": "025e2052-066f-14b5-0d6e-00e289d19f5e",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.86,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "05455bc8-0e6a-061c-12a4-007129a96e14",
+      "FromSupplierId": "024afd24-205e-0e78-17c8-008c17fea863",
+      "ToSupplierId": "02101b03-09d2-075d-1801-0068f2b4932c",
+      "Type": "partnership",
+      "DependencyLevel": 0.84,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "033e4fec-2473-04bf-0ecc-00340cf21f0a",
+      "FromSupplierId": "02476a8a-0417-1af5-05bc-00a57acd3069",
+      "ToSupplierId": "042192dd-138d-0462-1c45-00e3e92a1ec3",
+      "Type": "supplies",
+      "DependencyLevel": 0.49,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "042ddc63-112a-1b8c-13d3-0085c2e3a6de",
+      "FromSupplierId": "045ad2bf-204c-196f-08a2-002dd0ff9bac",
+      "ToSupplierId": "00a84e8c-0602-2670-0c24-00c0ddaeaac1",
+      "Type": "partnership",
+      "DependencyLevel": 0.56,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04374cdc-0659-17b7-178c-009664580df4",
+      "FromSupplierId": "02476a8a-0417-1af5-05bc-00a57acd3069",
+      "ToSupplierId": "03f6e1d3-242b-0665-1542-003a3765ebd5",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.43,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02d7e0d6-160e-14b1-0bd1-00637f35d82c",
+      "FromSupplierId": "01a856eb-0e54-04b9-102e-005f27f0eb03",
+      "ToSupplierId": "05ec8741-2019-22da-20a1-005a97a50491",
+      "Type": "supplies",
+      "DependencyLevel": 0.64,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04f65227-0ff6-1d55-2033-00c2aaaad79b",
+      "FromSupplierId": "03094741-0437-1269-08c0-00352b59405b",
+      "ToSupplierId": "00a40220-0d49-26de-0a65-00aeaeba64cc",
+      "Type": "supplies",
+      "DependencyLevel": 0.43,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03d151d3-105e-1aee-19fd-0094a074fa98",
+      "FromSupplierId": "009ba8c0-24a0-208f-12c4-005aaffa5b6d",
+      "ToSupplierId": "0118a136-12b9-1a0b-0f3e-0086e53c71b2",
+      "Type": "supplies",
+      "DependencyLevel": 0.54,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03ca2674-1c08-061e-18ca-0038bd7a95b5",
+      "FromSupplierId": "013367be-08a7-21c2-1214-0021bba130e9",
+      "ToSupplierId": "016bac2d-252c-186d-266d-0017bf4bc70e",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.42,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "052eefa9-05f5-0bf1-0c54-007ee3ce55e5",
+      "FromSupplierId": "02101b03-09d2-075d-1801-0068f2b4932c",
+      "ToSupplierId": "0118a136-12b9-1a0b-0f3e-0086e53c71b2",
+      "Type": "supplies",
+      "DependencyLevel": 0.76,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0472041f-1112-1e06-0c2f-0038885d37f5",
+      "FromSupplierId": "01b0a1da-1328-2352-1f51-00e79bca7fc2",
+      "ToSupplierId": "00e929be-1e84-24c0-194d-008df7e5bd80",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.41,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04487e9d-2431-17cb-1965-00d2958918dc",
+      "FromSupplierId": "0246d59c-0df9-16eb-0dfa-0053f30188db",
+      "ToSupplierId": "05bd83dc-0991-247e-0bce-00abc89be5c6",
+      "Type": "partnership",
+      "DependencyLevel": 0.44,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "021b2e7d-0f52-0b7a-0eb9-00983cd887ca",
+      "FromSupplierId": "016132a4-05cc-147d-1fe9-00e57abc399b",
+      "ToSupplierId": "014e569f-0a39-093b-0f52-0093e8f242b8",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.46,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "05438eb7-146a-20fa-11be-00e831b8e1d3",
+      "FromSupplierId": "015e730c-1501-187a-1428-0050ae5e1961",
+      "ToSupplierId": "013367be-08a7-21c2-1214-0021bba130e9",
+      "Type": "supplies",
+      "DependencyLevel": 0.82,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01907b3c-06cf-25cc-2480-00a10bdd92a8",
+      "FromSupplierId": "04004141-1340-13b6-1f25-00b7016b102c",
+      "ToSupplierId": "016bac2d-252c-186d-266d-0017bf4bc70e",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.43,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "011c35b9-0f91-0d1a-105e-00609094ebc5",
+      "FromSupplierId": "0419c570-0dd6-1f2d-187e-004bb57f6ffc",
+      "ToSupplierId": "05bd83dc-0991-247e-0bce-00abc89be5c6",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.66,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "05787673-0ae4-2674-2264-0034578655f1",
+      "FromSupplierId": "05c36629-1824-0dd7-0e8b-00a3b524967c",
+      "ToSupplierId": "045ad2bf-204c-196f-08a2-002dd0ff9bac",
+      "Type": "partnership",
+      "DependencyLevel": 0.47,
+      "IsCriticalPath": true
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "operational",
+      "Description": "Concentration of budget execution in Western Province",
+      "ConcentrationLevel": 76.8,
+      "AffectedSuppliers": [
+        "Contractors - provincial offices",
+        "Government departments - Northern Province",
+        "Contractors - Northern Province"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "0317c50e-13db-0924-1571-008e298ff0db",
+      "SupplierId": "0246d59c-0df9-16eb-0dfa-0053f30188db",
+      "SupplierName": "Government departments - Lusaka",
+      "RiskType": "compliance",
+      "Severity": "medium",
+      "Description": "Risk detected in service delivery operations",
+      "DetectedAt": "2025-12-21T17:30:31Z",
+      "IsAcknowledged": true,
+      "AffectedDownstreamSuppliers": [
+        "05ec8741-2019-22da-20a1-005a97a50491",
+        "00ff40b8-22ba-15a4-0baf-00cd95000349"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 27,
+    "HighRiskSuppliers": 15,
+    "AverageRiskScore": 68.3,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

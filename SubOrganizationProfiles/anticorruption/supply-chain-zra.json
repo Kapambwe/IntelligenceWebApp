@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "036510fc-07e3-06fd-1816-006a02c5e910",
+      "Name": "Political figures - Livingstone",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 65.4,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 4191484.1
+    },
+    {
+      "Id": "05bc31f9-1d17-0abb-21de-00812b763013",
+      "Name": "Political figures - Kitwe",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 90.7,
+      "IsCritical": true,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 1982997.08
+    },
+    {
+      "Id": "01f2fad0-250f-1ed9-265c-009167a4f7fb",
+      "Name": "Contractors - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 59.3,
+      "IsCritical": false,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 6863918.77
+    },
+    {
+      "Id": "04d7e770-1112-0e34-2232-00c60d4c7569",
+      "Name": "Political figures - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 44.6,
+      "IsCritical": false,
+      "Products": [
+        "graft"
+      ],
+      "AnnualSpend": 2324388.38
+    },
+    {
+      "Id": "00ea8847-0c13-0ef6-25df-0098fa2d7d6b",
+      "Name": "Political figures - Livingstone",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 77.2,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 8306866.43
+    },
+    {
+      "Id": "0575efe2-0a3e-0d78-0c8c-004283d0b39f",
+      "Name": "Political figures - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 57.8,
+      "IsCritical": false,
+      "Products": [
+        "corruption"
+      ],
+      "AnnualSpend": 8407343.16
+    },
+    {
+      "Id": "04c122a5-0a25-21d2-2302-00b591c4832a",
+      "Name": "Government departments - Kitwe",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 54.7,
+      "IsCritical": true,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 8725267.61
+    },
+    {
+      "Id": "01925f80-1557-1c2d-230a-005f399a47b3",
+      "Name": "Political figures - Kitwe",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 46.8,
+      "IsCritical": true,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 4127924.91
+    },
+    {
+      "Id": "027083e1-091e-1086-1f22-00278d91bda2",
+      "Name": "Political figures - Ndola",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 51.3,
+      "IsCritical": true,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 5882989.02
+    },
+    {
+      "Id": "05d1bf54-1e0d-0a76-08aa-002e3233c991",
+      "Name": "Contractors - Livingstone",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 56.8,
+      "IsCritical": false,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 7924568.57
+    },
+    {
+      "Id": "040b6c4f-0c20-1652-23bc-0089f7069f1b",
+      "Name": "Public officials - Kabwe",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 90.2,
+      "IsCritical": false,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 9278111.02
+    },
+    {
+      "Id": "00efda50-186e-163a-2191-006f7b4a126d",
+      "Name": "Political figures - Livingstone",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 48.7,
+      "IsCritical": false,
+      "Products": [
+        "corruption"
+      ],
+      "AnnualSpend": 6968746.88
+    },
+    {
+      "Id": "021826f6-078b-0f63-1746-00672b563de1",
+      "Name": "Government departments - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 55.1,
+      "IsCritical": true,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 7416076.57
+    },
+    {
+      "Id": "02e70bb2-0548-0a9b-0723-003b1bf7261a",
+      "Name": "Contractors - Ndola",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 82.1,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 4710989.81
+    },
+    {
+      "Id": "04e05d24-0561-0a40-03f9-006e7a16bc1e",
+      "Name": "Political figures - Kabwe",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 50.1,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 3811447.11
+    },
+    {
+      "Id": "014f3f88-24b7-157b-1475-001c96f4adef",
+      "Name": "Public officials - Lusaka",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 60.6,
+      "IsCritical": true,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 2176558.27
+    },
+    {
+      "Id": "01bf8c8b-0f14-174e-18ec-00346aa81461",
+      "Name": "Political figures - Kitwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 61.0,
+      "IsCritical": false,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 2537652.38
+    },
+    {
+      "Id": "03c141c9-237c-1a8e-1251-0070562f5df8",
+      "Name": "Government departments - Kabwe",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 56.3,
+      "IsCritical": true,
+      "Products": [
+        "bribery"
+      ],
+      "AnnualSpend": 2658377.87
+    },
+    {
+      "Id": "05da4815-07c7-1000-20f4-0054b550fc21",
+      "Name": "Public officials - Ndola",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 52.5,
+      "IsCritical": true,
+      "Products": [
+        "corruption"
+      ],
+      "AnnualSpend": 5312840.09
+    },
+    {
+      "Id": "029c128a-1ca7-0e66-09fa-0057bed4e415",
+      "Name": "Public officials - Lusaka",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 88.8,
+      "IsCritical": true,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 5420356.38
+    },
+    {
+      "Id": "030635da-1632-1cfe-1ced-00b2ac842faa",
+      "Name": "Public officials - Kabwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 44.7,
+      "IsCritical": false,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 3463426.12
+    },
+    {
+      "Id": "02fa2201-07b9-1c63-05e3-00cecff772a7",
+      "Name": "Contractors - Kitwe",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 68.2,
+      "IsCritical": true,
+      "Products": [
+        "bribery"
+      ],
+      "AnnualSpend": 6221950.61
+    },
+    {
+      "Id": "054aedc5-1c8a-0aa3-05aa-0090340cb037",
+      "Name": "Public officials - Kabwe",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 80.5,
+      "IsCritical": false,
+      "Products": [
+        "graft"
+      ],
+      "AnnualSpend": 8798567.04
+    },
+    {
+      "Id": "04de82ce-1521-062c-12c3-005872890194",
+      "Name": "Political figures - Ndola",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 79.7,
+      "IsCritical": true,
+      "Products": [
+        "corruption"
+      ],
+      "AnnualSpend": 2911589.09
+    },
+    {
+      "Id": "05cf1006-08d5-0962-06d4-00c787652d60",
+      "Name": "Political figures - Livingstone",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 71.4,
+      "IsCritical": true,
+      "Products": [
+        "bribery"
+      ],
+      "AnnualSpend": 8971678.99
+    },
+    {
+      "Id": "05f372ff-2101-0faa-1b0e-005247eb14b8",
+      "Name": "Contractors - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 90.2,
+      "IsCritical": true,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 3537149.59
+    },
+    {
+      "Id": "01f8bf93-2086-1699-090a-0056f640af1e",
+      "Name": "Political figures - Lusaka",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 55.0,
+      "IsCritical": true,
+      "Products": [
+        "graft"
+      ],
+      "AnnualSpend": 5830750.65
+    },
+    {
+      "Id": "03f7872e-1531-13c3-1c90-00cd8a7472ce",
+      "Name": "Political figures - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 77.6,
+      "IsCritical": true,
+      "Products": [
+        "corruption"
+      ],
+      "AnnualSpend": 3811838.88
+    },
+    {
+      "Id": "0175d15e-0eab-09e0-0ce5-00d32653bd2a",
+      "Name": "Government departments - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 73.9,
+      "IsCritical": true,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 7056910.15
+    },
+    {
+      "Id": "03c19754-19d0-15b0-0dc6-009748a0f759",
+      "Name": "Contractors - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 81.7,
+      "IsCritical": true,
+      "Products": [
+        "corruption"
+      ],
+      "AnnualSpend": 7331969.63
+    },
+    {
+      "Id": "02b37528-1baf-0c8d-22e5-00cb6d3353ec",
+      "Name": "Political figures - Ndola",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 59.8,
+      "IsCritical": false,
+      "Products": [
+        "corruption"
+      ],
+      "AnnualSpend": 6418474.19
+    },
+    {
+      "Id": "043b5c70-0514-23b6-1439-00882a1a8260",
+      "Name": "Public officials - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 79.0,
+      "IsCritical": false,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 9391849.07
+    },
+    {
+      "Id": "022d3243-08ca-1320-1745-002d9f081a24",
+      "Name": "Government departments - Lusaka",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 94.8,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 6715506.81
+    },
+    {
+      "Id": "00a442a3-0a16-206b-2227-008e93df9484",
+      "Name": "Government departments - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 88.3,
+      "IsCritical": true,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 8814329.34
+    },
+    {
+      "Id": "01c42f72-094f-0a7f-0eeb-0023a4037a44",
+      "Name": "Contractors - Ndola",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 93.2,
+      "IsCritical": true,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 3282292.14
+    },
+    {
+      "Id": "01f446aa-1816-12ed-096a-007fe8e8191e",
+      "Name": "Government departments - Kabwe",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 90.0,
+      "IsCritical": true,
+      "Products": [
+        "bribery"
+      ],
+      "AnnualSpend": 9471903.84
+    },
+    {
+      "Id": "03c227fa-06de-2041-1ecb-00b49aa98527",
+      "Name": "Contractors - Kabwe",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 41.5,
+      "IsCritical": true,
+      "Products": [
+        "corruption"
+      ],
+      "AnnualSpend": 3061562.1
+    },
+    {
+      "Id": "054f6a43-1d4d-1b02-1494-00d029848741",
+      "Name": "Contractors - Ndola",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 93.1,
+      "IsCritical": false,
+      "Products": [
+        "graft"
+      ],
+      "AnnualSpend": 7029876.46
+    },
+    {
+      "Id": "048c9571-168f-1dcf-1764-00333a684dbf",
+      "Name": "Contractors - Kabwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 90.1,
+      "IsCritical": true,
+      "Products": [
+        "graft"
+      ],
+      "AnnualSpend": 2655794.52
+    },
+    {
+      "Id": "0115b417-26cf-06bf-1ea3-00875350ae8f",
+      "Name": "Political figures - Kabwe",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 84.9,
+      "IsCritical": false,
+      "Products": [
+        "bribery"
+      ],
+      "AnnualSpend": 3315811.19
+    },
+    {
+      "Id": "02654b35-1448-1673-20a5-0060e7aae2bb",
+      "Name": "Government departments - Ndola",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 74.2,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 9369904.47
+    },
+    {
+      "Id": "00d98de5-140e-197c-1341-00cd7cafea67",
+      "Name": "Public officials - Kabwe",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 73.6,
+      "IsCritical": true,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 4900720.72
+    },
+    {
+      "Id": "049f2ee5-0d27-2171-2672-00a22a0a60fe",
+      "Name": "Government departments - Kabwe",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 87.6,
+      "IsCritical": true,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 4440542.51
+    },
+    {
+      "Id": "026c74d2-0ccc-2558-163c-006bd6b07ad9",
+      "Name": "Contractors - Kabwe",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 55.8,
+      "IsCritical": false,
+      "Products": [
+        "corruption"
+      ],
+      "AnnualSpend": 507311.87
+    },
+    {
+      "Id": "03128271-04ff-0a72-1217-009b042031de",
+      "Name": "Government departments - Ndola",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 76.4,
+      "IsCritical": true,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 8607487.81
+    },
+    {
+      "Id": "010a55c6-0ce9-1919-237d-003034a108bb",
+      "Name": "Contractors - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 70.8,
+      "IsCritical": true,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 6242088.12
+    },
+    {
+      "Id": "00ca37eb-12f6-1f64-134f-00b186913e95",
+      "Name": "Political figures - Lusaka",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 71.7,
+      "IsCritical": true,
+      "Products": [
+        "graft"
+      ],
+      "AnnualSpend": 3063266.04
+    },
+    {
+      "Id": "034f363c-1757-251a-161a-0088edf8e48d",
+      "Name": "Political figures - Ndola",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 40.8,
+      "IsCritical": true,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 907239.33
+    },
+    {
+      "Id": "00e6e245-2256-0b81-147a-00d8b853b3f6",
+      "Name": "Contractors - Lusaka",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 94.3,
+      "IsCritical": false,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 1958836.12
+    },
+    {
+      "Id": "021b03a7-0d02-0f92-23ae-00ca22babc77",
+      "Name": "Public officials - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 54.0,
+      "IsCritical": true,
+      "Products": [
+        "illicit enrichment"
+      ],
+      "AnnualSpend": 530424.9
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "02f4aff1-1480-1a75-1acb-00af379b03c3",
+      "FromSupplierId": "05da4815-07c7-1000-20f4-0054b550fc21",
+      "ToSupplierId": "04e05d24-0561-0a40-03f9-006e7a16bc1e",
+      "Type": "supplies",
+      "DependencyLevel": 0.62,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0123d8fc-20ac-07b7-13b3-00b54dcf2563",
+      "FromSupplierId": "010a55c6-0ce9-1919-237d-003034a108bb",
+      "ToSupplierId": "03c141c9-237c-1a8e-1251-0070562f5df8",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.87,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "01f89e4f-099d-11af-223d-00c43c2d8be3",
+      "FromSupplierId": "00efda50-186e-163a-2191-006f7b4a126d",
+      "ToSupplierId": "03128271-04ff-0a72-1217-009b042031de",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.79,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03c872c1-103b-163c-0a96-008a6b3881f8",
+      "FromSupplierId": "02fa2201-07b9-1c63-05e3-00cecff772a7",
+      "ToSupplierId": "021826f6-078b-0f63-1746-00672b563de1",
+      "Type": "partnership",
+      "DependencyLevel": 0.79,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0565d997-0907-0ff2-0f47-0068230f7924",
+      "FromSupplierId": "01925f80-1557-1c2d-230a-005f399a47b3",
+      "ToSupplierId": "054f6a43-1d4d-1b02-1494-00d029848741",
+      "Type": "supplies",
+      "DependencyLevel": 0.46,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01a232ff-07da-1931-204d-007d8b74c3aa",
+      "FromSupplierId": "00efda50-186e-163a-2191-006f7b4a126d",
+      "ToSupplierId": "02e70bb2-0548-0a9b-0723-003b1bf7261a",
+      "Type": "supplies",
+      "DependencyLevel": 0.67,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04c8b102-21ac-06d5-1a44-00c848facede",
+      "FromSupplierId": "021b03a7-0d02-0f92-23ae-00ca22babc77",
+      "ToSupplierId": "03128271-04ff-0a72-1217-009b042031de",
+      "Type": "partnership",
+      "DependencyLevel": 0.67,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0310d1eb-09c2-179e-1328-00d2b6cdde76",
+      "FromSupplierId": "0575efe2-0a3e-0d78-0c8c-004283d0b39f",
+      "ToSupplierId": "00ea8847-0c13-0ef6-25df-0098fa2d7d6b",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.65,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01fe582c-05d0-1266-0a7d-00614eee7eaf",
+      "FromSupplierId": "00a442a3-0a16-206b-2227-008e93df9484",
+      "ToSupplierId": "030635da-1632-1cfe-1ced-00b2ac842faa",
+      "Type": "supplies",
+      "DependencyLevel": 0.79,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0121fea1-1033-1052-1dfd-0054f6279b2a",
+      "FromSupplierId": "040b6c4f-0c20-1652-23bc-0089f7069f1b",
+      "ToSupplierId": "00d98de5-140e-197c-1341-00cd7cafea67",
+      "Type": "supplies",
+      "DependencyLevel": 0.48,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "013d89cf-0434-2035-158f-0045bc6f1638",
+      "FromSupplierId": "029c128a-1ca7-0e66-09fa-0057bed4e415",
+      "ToSupplierId": "04de82ce-1521-062c-12c3-005872890194",
+      "Type": "supplies",
+      "DependencyLevel": 0.44,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03937faa-14cf-057d-26d5-00c27aa9f0a1",
+      "FromSupplierId": "021826f6-078b-0f63-1746-00672b563de1",
+      "ToSupplierId": "014f3f88-24b7-157b-1475-001c96f4adef",
+      "Type": "partnership",
+      "DependencyLevel": 0.5,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "044e2902-150c-1442-0463-00c9198093d9",
+      "FromSupplierId": "01bf8c8b-0f14-174e-18ec-00346aa81461",
+      "ToSupplierId": "05da4815-07c7-1000-20f4-0054b550fc21",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.81,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03d655ed-0fe1-1adc-1e13-0028cee5968e",
+      "FromSupplierId": "05bc31f9-1d17-0abb-21de-00812b763013",
+      "ToSupplierId": "01bf8c8b-0f14-174e-18ec-00346aa81461",
+      "Type": "supplies",
+      "DependencyLevel": 0.71,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0518e97b-184a-06ce-1bd2-0043fe1632f6",
+      "FromSupplierId": "00d98de5-140e-197c-1341-00cd7cafea67",
+      "ToSupplierId": "00d98de5-140e-197c-1341-00cd7cafea67",
+      "Type": "partnership",
+      "DependencyLevel": 0.87,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "043628e8-172f-230f-0ac7-00a4fb442509",
+      "FromSupplierId": "01bf8c8b-0f14-174e-18ec-00346aa81461",
+      "ToSupplierId": "02654b35-1448-1673-20a5-0060e7aae2bb",
+      "Type": "partnership",
+      "DependencyLevel": 0.61,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "00a0a9c2-15bd-089c-1694-00255a22c506",
+      "FromSupplierId": "01f8bf93-2086-1699-090a-0056f640af1e",
+      "ToSupplierId": "048c9571-168f-1dcf-1764-00333a684dbf",
+      "Type": "partnership",
+      "DependencyLevel": 0.68,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00dae224-1abb-17f1-1aa8-0060003227dc",
+      "FromSupplierId": "01bf8c8b-0f14-174e-18ec-00346aa81461",
+      "ToSupplierId": "010a55c6-0ce9-1919-237d-003034a108bb",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.88,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "02c2fc81-09ba-174c-088c-00228a916362",
+      "FromSupplierId": "030635da-1632-1cfe-1ced-00b2ac842faa",
+      "ToSupplierId": "00a442a3-0a16-206b-2227-008e93df9484",
+      "Type": "supplies",
+      "DependencyLevel": 0.45,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "05cfe303-20a7-15f9-0867-002a04e192a9",
+      "FromSupplierId": "04de82ce-1521-062c-12c3-005872890194",
+      "ToSupplierId": "021826f6-078b-0f63-1746-00672b563de1",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.48,
+      "IsCriticalPath": false
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "operational",
+      "Description": "Concentration of corruption in Ndola",
+      "ConcentrationLevel": 54.0,
+      "AffectedSuppliers": [
+        "Government departments - Livingstone",
+        "Public officials - Lusaka",
+        "Contractors - Ndola"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "0536f5a2-1589-115b-1b8a-0093c5346019",
+      "SupplierId": "036510fc-07e3-06fd-1816-006a02c5e910",
+      "SupplierName": "Political figures - Livingstone",
+      "RiskType": "operational",
+      "Severity": "high",
+      "Description": "Risk detected in graft operations",
+      "DetectedAt": "2026-01-17T17:30:30Z",
+      "IsAcknowledged": true,
+      "AffectedDownstreamSuppliers": [
+        "029c128a-1ca7-0e66-09fa-0057bed4e415",
+        "04d7e770-1112-0e34-2232-00c60d4c7569"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 29,
+    "HighRiskSuppliers": 16,
+    "AverageRiskScore": 69.7,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

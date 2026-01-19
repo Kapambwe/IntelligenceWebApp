@@ -1,0 +1,345 @@
+/* Quantexa-Style Network Analysis Styles */
+
+/* ===== TIMELINE STYLES ===== */
+.timeline-container {
+    background: linear-gradient(to bottom, #f8fafc 0%, #ffffff 100%);
+    border-top: 1px solid #e2e8f0;
+}
+
+.timeline-event {
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.timeline-event:hover {
+    transform: translateY(-2px);
+}
+
+.timeline-event-transaction {
+    stroke: #f59e0b;
+}
+
+.timeline-event-alert {
+    stroke: #ef4444;
+}
+
+.timeline-event-relationship {
+    stroke: #8b5cf6;
+}
+
+.timeline-event-activity {
+    stroke: #3b82f6;
+}
+
+.timeline-event-default {
+    stroke: #6b7280;
+}
+
+/* ===== ENTITY TYPE COLORS ===== */
+:root {
+    --entity-person: #3b82f6;
+    --entity-org: #8b5cf6;
+    --entity-account: #10b981;
+    --entity-transaction: #f59e0b;
+    
+    /* Risk Colors */
+    --risk-critical: #dc2626;
+    --risk-high: #ea580c;
+    --risk-medium: #f59e0b;
+    --risk-low: #84cc16;
+    --risk-minimal: #10b981;
+    
+    /* Badge Colors */
+    --badge-alert: #ef4444;
+    --badge-flag: #f59e0b;
+    --badge-watchlist: #eab308;
+    --badge-locked: #64748b;
+    --badge-pep: #8b5cf6;
+    --badge-sanction: #dc2626;
+}
+
+/* ===== NODE STYLES ===== */
+.network-node {
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.network-node:hover {
+    filter: brightness(1.1);
+}
+
+.network-node.selected {
+    stroke-width: 3px;
+    stroke: #3b82f6;
+}
+
+.network-node.highlighted {
+    filter: drop-shadow(0 0 8px rgba(59, 130, 246, 0.8));
+}
+
+/* Node Badges */
+.node-badge {
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+    cursor: pointer;
+}
+
+.node-badge:hover {
+    transform: scale(1.1);
+}
+
+/* Risk Ring Animation */
+@keyframes pulse-ring {
+    0% { 
+        stroke-opacity: 1;
+        r: attr(r);
+    }
+    50% { 
+        stroke-opacity: 0.3;
+        r: calc(attr(r) + 2);
+    }
+    100% { 
+        stroke-opacity: 1;
+        r: attr(r);
+    }
+}
+
+.risk-ring {
+    animation: pulse-ring 2s infinite;
+}
+
+.risk-ring-critical {
+    stroke: var(--risk-critical);
+}
+
+.risk-ring-high {
+    stroke: var(--risk-high);
+}
+
+.risk-ring-medium {
+    stroke: var(--risk-medium);
+}
+
+/* ===== HEAT MAP STYLES ===== */
+.heat-map-circle {
+    mix-blend-mode: multiply;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+}
+
+.heat-map-enabled .heat-map-circle {
+    opacity: 1;
+}
+
+.heat-map-disabled .heat-map-circle {
+    opacity: 0;
+}
+
+.heat-map-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+/* ===== LEGEND STYLES ===== */
+.graph-legend {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+.legend-item {
+    padding: 4px 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.legend-color-box {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.legend-risk-bar {
+    width: 24px;
+    height: 4px;
+    border-radius: 2px;
+    flex-shrink: 0;
+}
+
+/* ===== EDGE STYLES ===== */
+.network-edge {
+    stroke: #cbd5e1;
+    fill: none;
+}
+
+.network-edge.selected {
+    stroke: #3b82f6;
+    stroke-width: 3px;
+}
+
+.network-edge.highlighted {
+    stroke: #f59e0b;
+    stroke-width: 2px;
+}
+
+.network-edge-label {
+    font-size: 10px;
+    fill: #64748b;
+    pointer-events: none;
+}
+
+/* ===== PATH HIGHLIGHTING ===== */
+@keyframes path-highlight {
+    0% {
+        stroke-dashoffset: 1000;
+    }
+    100% {
+        stroke-dashoffset: 0;
+    }
+}
+
+.path-highlight {
+    stroke: #3b82f6;
+    stroke-width: 3px;
+    stroke-dasharray: 5, 5;
+    animation: path-highlight 2s linear infinite;
+}
+
+/* ===== CLUSTER STYLES ===== */
+.cluster-boundary {
+    fill: none;
+    stroke: #94a3b8;
+    stroke-width: 2px;
+    stroke-dasharray: 5, 5;
+    opacity: 0.5;
+}
+
+.cluster-boundary:hover {
+    opacity: 0.8;
+    stroke-width: 3px;
+}
+
+.cluster-label {
+    font-size: 12px;
+    font-weight: 600;
+    fill: #475569;
+    text-anchor: middle;
+}
+
+/* ===== CONTEXT MENU STYLES ===== */
+.network-context-menu {
+    position: absolute;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    padding: 4px 0;
+    min-width: 180px;
+    z-index: 1000;
+}
+
+.context-menu-item {
+    padding: 8px 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 14px;
+    color: #334155;
+    transition: all 0.15s ease;
+}
+
+.context-menu-item:hover {
+    background: #f1f5f9;
+}
+
+.context-menu-item .icon {
+    width: 16px;
+    height: 16px;
+    color: #64748b;
+}
+
+.context-menu-divider {
+    height: 1px;
+    background: #e2e8f0;
+    margin: 4px 0;
+}
+
+/* ===== MULTI-SELECT STYLES ===== */
+.selection-box {
+    position: absolute;
+    border: 2px dashed #3b82f6;
+    background: rgba(59, 130, 246, 0.1);
+    pointer-events: none;
+}
+
+.selected-count {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: #3b82f6;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 16px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+/* ===== RESPONSIVE STYLES ===== */
+@media (max-width: 768px) {
+    .graph-legend {
+        width: 100% !important;
+        position: relative !important;
+        top: auto !important;
+        right: auto !important;
+    }
+    
+    .timeline-container {
+        height: 150px !important;
+    }
+}
+
+/* ===== UTILITY CLASSES ===== */
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.no-select {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+}
+
+.fade-in {
+    animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.slide-up {
+    animation: slideUp 0.3s ease-out;
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(10px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}

@@ -1,0 +1,1553 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "05c16728-1787-099f-15f6-00ac3c662a23",
+      "Title": "Radio Broadcasting broadcasting public awareness",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/2185",
+      "PublishedDate": "2025-12-01T17:30:31Z",
+      "PublishedAt": "2025-12-04T17:30:31Z",
+      "DiscoveredAt": "2025-11-02T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Interview reveals public awareness in Mongu",
+      "RelatedEntities": [
+        "Community leaders - Kitwe"
+      ],
+      "Entities": [
+        "Community leaders - Kitwe"
+      ],
+      "Keywords": [
+        "community engagement",
+        "investigative reporting",
+        "accountability"
+      ],
+      "RelevanceScore": 94.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "041f4666-0b6a-2563-0d41-0089e0feefc3",
+      "Title": "Radio Broadcasting broadcasting public awareness",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/3564",
+      "PublishedDate": "2025-12-24T17:30:31Z",
+      "PublishedAt": "2026-01-05T17:30:31Z",
+      "DiscoveredAt": "2025-12-04T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Fact verification reveals investigative reporting in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Kitwe"
+      ],
+      "Entities": [
+        "Corporations - Kitwe"
+      ],
+      "Keywords": [
+        "community engagement",
+        "investigative reporting",
+        "news broadcasting"
+      ],
+      "RelevanceScore": 67.1,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02900918-07cd-1dd4-1d21-009f16203f26",
+      "Title": "Radio Broadcasting fact verification community engagement",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/6185",
+      "PublishedDate": "2025-11-30T17:30:31Z",
+      "PublishedAt": "2025-12-03T17:30:31Z",
+      "DiscoveredAt": "2026-01-18T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Investigation reveals accountability in nationwide broadcast",
+      "RelatedEntities": [
+        "Corporations - Kitwe"
+      ],
+      "Entities": [
+        "Corporations - Kitwe"
+      ],
+      "Keywords": [
+        "accountability",
+        "public awareness",
+        "news broadcasting"
+      ],
+      "RelevanceScore": 90.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "056d8cf5-26a8-1276-0982-0057d682ebfe",
+      "Title": "Radio Broadcasting fact verification community engagement",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/6214",
+      "PublishedDate": "2025-12-09T17:30:31Z",
+      "PublishedAt": "2025-12-21T17:30:31Z",
+      "DiscoveredAt": "2026-01-06T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Investigation reveals news broadcasting in Mongu",
+      "RelatedEntities": [
+        "Public officials - Chipata"
+      ],
+      "Entities": [
+        "Public officials - Chipata"
+      ],
+      "Keywords": [
+        "accountability",
+        "news broadcasting",
+        "community engagement"
+      ],
+      "RelevanceScore": 88.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03a7dd85-131d-155a-1808-009f17c344c1",
+      "Title": "Radio Broadcasting broadcasting community engagement",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/7873",
+      "PublishedDate": "2025-11-27T17:30:31Z",
+      "PublishedAt": "2025-11-05T17:30:31Z",
+      "DiscoveredAt": "2025-12-30T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Program production reveals public awareness in nationwide broadcast",
+      "RelatedEntities": [
+        "Corporations - Chipata"
+      ],
+      "Entities": [
+        "Corporations - Chipata"
+      ],
+      "Keywords": [
+        "public awareness",
+        "investigative reporting",
+        "news broadcasting"
+      ],
+      "RelevanceScore": 81.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0591f968-0f72-20ad-1904-007304c6d276",
+      "Title": "Radio Broadcasting fact verification investigative reporting",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/3277",
+      "PublishedDate": "2025-11-28T17:30:31Z",
+      "PublishedAt": "2025-10-29T17:30:31Z",
+      "DiscoveredAt": "2025-10-29T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Broadcasting reveals investigative reporting in Kitwe",
+      "RelatedEntities": [
+        "Public officials - nationwide broadcast"
+      ],
+      "Entities": [
+        "Public officials - nationwide broadcast"
+      ],
+      "Keywords": [
+        "news broadcasting",
+        "community engagement",
+        "public awareness"
+      ],
+      "RelevanceScore": 85.1,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01e46e32-0824-0bf9-1eb6-002906b1369f",
+      "Title": "Radio Broadcasting broadcasting news broadcasting",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/8444",
+      "PublishedDate": "2025-12-04T17:30:31Z",
+      "PublishedAt": "2025-11-05T17:30:31Z",
+      "DiscoveredAt": "2025-11-28T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Investigation reveals investigative reporting in nationwide broadcast",
+      "RelatedEntities": [
+        "Public officials - Kitwe"
+      ],
+      "Entities": [
+        "Public officials - Kitwe"
+      ],
+      "Keywords": [
+        "community engagement",
+        "accountability",
+        "public awareness"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0168565a-0e59-0e3b-16a5-00ca7f55b4ad",
+      "Title": "Radio Broadcasting broadcasting community engagement",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/7898",
+      "PublishedDate": "2025-12-05T17:30:31Z",
+      "PublishedAt": "2025-12-19T17:30:31Z",
+      "DiscoveredAt": "2025-12-15T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Program production reveals accountability in nationwide broadcast",
+      "RelatedEntities": [
+        "Community leaders - Mongu"
+      ],
+      "Entities": [
+        "Community leaders - Mongu"
+      ],
+      "Keywords": [
+        "community engagement",
+        "accountability",
+        "news broadcasting"
+      ],
+      "RelevanceScore": 62.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "020e19ab-12eb-2219-21a1-0037ba59da34",
+      "Title": "Radio Broadcasting program production community engagement",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/7621",
+      "PublishedDate": "2025-11-25T17:30:31Z",
+      "PublishedAt": "2026-01-16T17:30:31Z",
+      "DiscoveredAt": "2025-11-01T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Investigation reveals accountability in Kitwe",
+      "RelatedEntities": [
+        "Public officials - Lusaka"
+      ],
+      "Entities": [
+        "Public officials - Lusaka"
+      ],
+      "Keywords": [
+        "news broadcasting",
+        "community engagement",
+        "investigative reporting"
+      ],
+      "RelevanceScore": 65.5,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "026c1a85-11a8-0ee9-049b-00ac8253b239",
+      "Title": "Radio Broadcasting interview investigative reporting",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/1063",
+      "PublishedDate": "2025-11-05T17:30:31Z",
+      "PublishedAt": "2025-11-28T17:30:31Z",
+      "DiscoveredAt": "2025-10-26T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Fact verification reveals public awareness in nationwide broadcast",
+      "RelatedEntities": [
+        "News subjects - Mongu"
+      ],
+      "Entities": [
+        "News subjects - Mongu"
+      ],
+      "Keywords": [
+        "community engagement",
+        "investigative reporting",
+        "news broadcasting"
+      ],
+      "RelevanceScore": 78.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02e821cd-137f-041f-0a4f-005be1921ec1",
+      "Title": "Radio Broadcasting fact verification community engagement",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/3109",
+      "PublishedDate": "2025-11-28T17:30:31Z",
+      "PublishedAt": "2025-12-07T17:30:31Z",
+      "DiscoveredAt": "2025-12-15T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Broadcasting reveals public awareness in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Chipata"
+      ],
+      "Entities": [
+        "Corporations - Chipata"
+      ],
+      "Keywords": [
+        "accountability",
+        "community engagement",
+        "investigative reporting"
+      ],
+      "RelevanceScore": 93.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0329ff28-0adc-1c75-2433-003edf68d6bf",
+      "Title": "Radio Broadcasting fact verification news broadcasting",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/8686",
+      "PublishedDate": "2026-01-07T17:30:31Z",
+      "PublishedAt": "2025-12-09T17:30:31Z",
+      "DiscoveredAt": "2025-12-03T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Program production reveals accountability in nationwide broadcast",
+      "RelatedEntities": [
+        "Public officials - Lusaka"
+      ],
+      "Entities": [
+        "Public officials - Lusaka"
+      ],
+      "Keywords": [
+        "accountability",
+        "community engagement",
+        "news broadcasting"
+      ],
+      "RelevanceScore": 76.8,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "025e8b11-0ba2-1506-0f9b-005f14007bf2",
+      "Title": "Radio Broadcasting investigation public awareness",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/3031",
+      "PublishedDate": "2025-11-17T17:30:31Z",
+      "PublishedAt": "2026-01-15T17:30:31Z",
+      "DiscoveredAt": "2025-12-27T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Broadcasting reveals news broadcasting in Chipata",
+      "RelatedEntities": [
+        "Public officials - Chipata"
+      ],
+      "Entities": [
+        "Public officials - Chipata"
+      ],
+      "Keywords": [
+        "community engagement",
+        "accountability",
+        "investigative reporting"
+      ],
+      "RelevanceScore": 66.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0258ded2-0653-088b-20f1-00a53a7e8b09",
+      "Title": "Radio Broadcasting interview public awareness",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/8714",
+      "PublishedDate": "2026-01-12T17:30:31Z",
+      "PublishedAt": "2026-01-01T17:30:31Z",
+      "DiscoveredAt": "2025-12-02T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Fact verification reveals community engagement in Chipata",
+      "RelatedEntities": [
+        "Public officials - Lusaka"
+      ],
+      "Entities": [
+        "Public officials - Lusaka"
+      ],
+      "Keywords": [
+        "community engagement",
+        "public awareness",
+        "investigative reporting"
+      ],
+      "RelevanceScore": 78.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "052cb72e-1216-1abd-1202-00336d7535cd",
+      "Title": "Radio Broadcasting broadcasting accountability",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/9161",
+      "PublishedDate": "2025-10-22T17:30:31Z",
+      "PublishedAt": "2025-11-23T17:30:31Z",
+      "DiscoveredAt": "2025-12-10T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Program production reveals public awareness in Lusaka",
+      "RelatedEntities": [
+        "News subjects - Mongu"
+      ],
+      "Entities": [
+        "News subjects - Mongu"
+      ],
+      "Keywords": [
+        "public awareness",
+        "news broadcasting",
+        "community engagement"
+      ],
+      "RelevanceScore": 61.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02549ff0-0a2a-2066-0c9c-005fd5cc79cb",
+      "Title": "Radio Broadcasting investigation news broadcasting",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/5646",
+      "PublishedDate": "2026-01-13T17:30:31Z",
+      "PublishedAt": "2025-11-02T17:30:31Z",
+      "DiscoveredAt": "2025-10-31T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Investigation reveals community engagement in Mongu",
+      "RelatedEntities": [
+        "Public officials - Chipata"
+      ],
+      "Entities": [
+        "Public officials - Chipata"
+      ],
+      "Keywords": [
+        "news broadcasting",
+        "investigative reporting",
+        "accountability"
+      ],
+      "RelevanceScore": 85.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0551184d-1c99-19eb-0b3e-005fd8f24001",
+      "Title": "Radio Broadcasting fact verification news broadcasting",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/7992",
+      "PublishedDate": "2025-11-25T17:30:31Z",
+      "PublishedAt": "2025-11-14T17:30:31Z",
+      "DiscoveredAt": "2025-11-12T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Broadcasting reveals investigative reporting in Chipata",
+      "RelatedEntities": [
+        "Public officials - Lusaka"
+      ],
+      "Entities": [
+        "Public officials - Lusaka"
+      ],
+      "Keywords": [
+        "news broadcasting",
+        "investigative reporting",
+        "community engagement"
+      ],
+      "RelevanceScore": 82.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0495fb27-17c4-11d9-0613-009a1a674ea6",
+      "Title": "Radio Broadcasting fact verification community engagement",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/9969",
+      "PublishedDate": "2025-12-15T17:30:31Z",
+      "PublishedAt": "2025-10-23T17:30:31Z",
+      "DiscoveredAt": "2025-11-23T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Broadcasting reveals community engagement in Chipata",
+      "RelatedEntities": [
+        "News subjects - Chipata"
+      ],
+      "Entities": [
+        "News subjects - Chipata"
+      ],
+      "Keywords": [
+        "accountability",
+        "news broadcasting",
+        "community engagement"
+      ],
+      "RelevanceScore": 69.8,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05b812dc-2531-1d38-0a66-00e4537cf48a",
+      "Title": "Radio Broadcasting broadcasting public awareness",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/6236",
+      "PublishedDate": "2025-11-29T17:30:31Z",
+      "PublishedAt": "2025-10-29T17:30:31Z",
+      "DiscoveredAt": "2025-12-01T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Interview reveals public awareness in Kitwe",
+      "RelatedEntities": [
+        "Corporations - Lusaka"
+      ],
+      "Entities": [
+        "Corporations - Lusaka"
+      ],
+      "Keywords": [
+        "public awareness",
+        "news broadcasting",
+        "community engagement"
+      ],
+      "RelevanceScore": 60.1,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03375aea-26e9-2618-1e6a-0066cbcf3d09",
+      "Title": "Radio Broadcasting interview news broadcasting",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/3006",
+      "PublishedDate": "2025-12-28T17:30:31Z",
+      "PublishedAt": "2025-11-14T17:30:31Z",
+      "DiscoveredAt": "2025-10-22T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Investigation reveals community engagement in Kitwe",
+      "RelatedEntities": [
+        "Public officials - Kitwe"
+      ],
+      "Entities": [
+        "Public officials - Kitwe"
+      ],
+      "Keywords": [
+        "investigative reporting",
+        "accountability",
+        "public awareness"
+      ],
+      "RelevanceScore": 90.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02140be6-0634-0c7a-03fd-004fd63cfc45",
+      "Title": "Radio Broadcasting interview news broadcasting",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/1383",
+      "PublishedDate": "2025-11-28T17:30:31Z",
+      "PublishedAt": "2026-01-12T17:30:31Z",
+      "DiscoveredAt": "2026-01-04T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Fact verification reveals accountability in Mongu",
+      "RelatedEntities": [
+        "Community leaders - Mongu"
+      ],
+      "Entities": [
+        "Community leaders - Mongu"
+      ],
+      "Keywords": [
+        "investigative reporting",
+        "accountability",
+        "news broadcasting"
+      ],
+      "RelevanceScore": 74.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "020b4b2c-2026-0f90-10a8-00512684650d",
+      "Title": "Radio Broadcasting fact verification community engagement",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/4212",
+      "PublishedDate": "2026-01-04T17:30:31Z",
+      "PublishedAt": "2025-12-06T17:30:31Z",
+      "DiscoveredAt": "2025-10-25T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Interview reveals news broadcasting in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Kitwe"
+      ],
+      "Entities": [
+        "Corporations - Kitwe"
+      ],
+      "Keywords": [
+        "news broadcasting",
+        "investigative reporting",
+        "accountability"
+      ],
+      "RelevanceScore": 90.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03bc61ea-18fa-1036-049e-0058d8644319",
+      "Title": "Radio Broadcasting broadcasting public awareness",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/2282",
+      "PublishedDate": "2025-12-02T17:30:31Z",
+      "PublishedAt": "2026-01-05T17:30:31Z",
+      "DiscoveredAt": "2025-11-15T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Fact verification reveals investigative reporting in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Mongu"
+      ],
+      "Entities": [
+        "Corporations - Mongu"
+      ],
+      "Keywords": [
+        "community engagement",
+        "public awareness",
+        "accountability"
+      ],
+      "RelevanceScore": 74.8,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "032d91d7-0c8a-18a0-03ee-001c5b6046b0",
+      "Title": "Radio Broadcasting interview public awareness",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/3031",
+      "PublishedDate": "2025-11-01T17:30:31Z",
+      "PublishedAt": "2025-11-05T17:30:31Z",
+      "DiscoveredAt": "2025-12-05T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Broadcasting reveals public awareness in Mongu",
+      "RelatedEntities": [
+        "Corporations - Lusaka"
+      ],
+      "Entities": [
+        "Corporations - Lusaka"
+      ],
+      "Keywords": [
+        "news broadcasting",
+        "community engagement",
+        "investigative reporting"
+      ],
+      "RelevanceScore": 71.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00dc4490-0b45-0b3f-06bd-008953ff170e",
+      "Title": "Radio Broadcasting broadcasting investigative reporting",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/1677",
+      "PublishedDate": "2025-11-05T17:30:31Z",
+      "PublishedAt": "2025-11-22T17:30:31Z",
+      "DiscoveredAt": "2025-11-08T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Fact verification reveals accountability in Kitwe",
+      "RelatedEntities": [
+        "News subjects - Mongu"
+      ],
+      "Entities": [
+        "News subjects - Mongu"
+      ],
+      "Keywords": [
+        "community engagement",
+        "news broadcasting",
+        "investigative reporting"
+      ],
+      "RelevanceScore": 68.1,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02ac9a41-24f4-0656-04fe-00ac0d5e8572",
+      "Title": "Radio Broadcasting broadcasting community engagement",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/5638",
+      "PublishedDate": "2025-12-04T17:30:31Z",
+      "PublishedAt": "2026-01-15T17:30:31Z",
+      "DiscoveredAt": "2025-12-15T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Fact verification reveals community engagement in Chipata",
+      "RelatedEntities": [
+        "Corporations - Mongu"
+      ],
+      "Entities": [
+        "Corporations - Mongu"
+      ],
+      "Keywords": [
+        "public awareness",
+        "investigative reporting",
+        "accountability"
+      ],
+      "RelevanceScore": 66.2,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02106fd6-0f78-18ce-14d5-00883bef8449",
+      "Title": "Radio Broadcasting program production accountability",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/6525",
+      "PublishedDate": "2025-10-25T17:30:31Z",
+      "PublishedAt": "2025-11-26T17:30:31Z",
+      "DiscoveredAt": "2025-10-30T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Broadcasting reveals accountability in Kitwe",
+      "RelatedEntities": [
+        "Corporations - Chipata"
+      ],
+      "Entities": [
+        "Corporations - Chipata"
+      ],
+      "Keywords": [
+        "news broadcasting",
+        "accountability",
+        "investigative reporting"
+      ],
+      "RelevanceScore": 73.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00dd1623-0b00-15f1-087a-004014ba1a7f",
+      "Title": "Radio Broadcasting program production public awareness",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/1294",
+      "PublishedDate": "2025-12-16T17:30:31Z",
+      "PublishedAt": "2025-11-20T17:30:31Z",
+      "DiscoveredAt": "2025-12-06T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Broadcasting reveals news broadcasting in Mongu",
+      "RelatedEntities": [
+        "Public officials - nationwide broadcast"
+      ],
+      "Entities": [
+        "Public officials - nationwide broadcast"
+      ],
+      "Keywords": [
+        "news broadcasting",
+        "accountability",
+        "community engagement"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02a90acc-108b-1043-1abe-001a536ecaa5",
+      "Title": "Radio Broadcasting fact verification investigative reporting",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/8609",
+      "PublishedDate": "2026-01-16T17:30:31Z",
+      "PublishedAt": "2025-11-09T17:30:31Z",
+      "DiscoveredAt": "2026-01-07T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Interview reveals news broadcasting in Mongu",
+      "RelatedEntities": [
+        "News subjects - nationwide broadcast"
+      ],
+      "Entities": [
+        "News subjects - nationwide broadcast"
+      ],
+      "Keywords": [
+        "investigative reporting",
+        "news broadcasting",
+        "public awareness"
+      ],
+      "RelevanceScore": 70.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05b11ff2-0e95-163d-1907-001b77a8852e",
+      "Title": "Radio Broadcasting fact verification accountability",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/1189",
+      "PublishedDate": "2025-11-04T17:30:31Z",
+      "PublishedAt": "2025-12-30T17:30:31Z",
+      "DiscoveredAt": "2025-12-23T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Program production reveals news broadcasting in Kitwe",
+      "RelatedEntities": [
+        "Public officials - Kitwe"
+      ],
+      "Entities": [
+        "Public officials - Kitwe"
+      ],
+      "Keywords": [
+        "investigative reporting",
+        "news broadcasting",
+        "community engagement"
+      ],
+      "RelevanceScore": 78.1,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05cabf11-122e-22dc-0c3a-00c57f632de6",
+      "Title": "Radio Broadcasting fact verification investigative reporting",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/5940",
+      "PublishedDate": "2026-01-08T17:30:31Z",
+      "PublishedAt": "2025-10-31T17:30:31Z",
+      "DiscoveredAt": "2025-10-30T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Broadcasting reveals community engagement in Mongu",
+      "RelatedEntities": [
+        "Corporations - Chipata"
+      ],
+      "Entities": [
+        "Corporations - Chipata"
+      ],
+      "Keywords": [
+        "accountability",
+        "community engagement",
+        "public awareness"
+      ],
+      "RelevanceScore": 65.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04dc4405-19d0-1539-1c50-001f7182dcfa",
+      "Title": "Radio Broadcasting program production investigative reporting",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/7837",
+      "PublishedDate": "2025-12-28T17:30:31Z",
+      "PublishedAt": "2025-11-23T17:30:31Z",
+      "DiscoveredAt": "2025-12-22T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Program production reveals community engagement in Mongu",
+      "RelatedEntities": [
+        "Corporations - Mongu"
+      ],
+      "Entities": [
+        "Corporations - Mongu"
+      ],
+      "Keywords": [
+        "community engagement",
+        "investigative reporting",
+        "public awareness"
+      ],
+      "RelevanceScore": 74.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "038cecfd-1560-1926-1e69-0055a8be94c4",
+      "Title": "Radio Broadcasting broadcasting public awareness",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/1506",
+      "PublishedDate": "2025-10-23T17:30:31Z",
+      "PublishedAt": "2026-01-17T17:30:31Z",
+      "DiscoveredAt": "2025-11-23T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Interview reveals public awareness in Mongu",
+      "RelatedEntities": [
+        "Public officials - Lusaka"
+      ],
+      "Entities": [
+        "Public officials - Lusaka"
+      ],
+      "Keywords": [
+        "accountability",
+        "public awareness",
+        "community engagement"
+      ],
+      "RelevanceScore": 91.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "031731e0-1137-05e6-16f9-00d675055022",
+      "Title": "Radio Broadcasting broadcasting investigative reporting",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/1920",
+      "PublishedDate": "2025-12-19T17:30:31Z",
+      "PublishedAt": "2025-12-18T17:30:31Z",
+      "DiscoveredAt": "2025-11-22T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Interview reveals accountability in nationwide broadcast",
+      "RelatedEntities": [
+        "Public officials - Chipata"
+      ],
+      "Entities": [
+        "Public officials - Chipata"
+      ],
+      "Keywords": [
+        "accountability",
+        "investigative reporting",
+        "community engagement"
+      ],
+      "RelevanceScore": 71.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04c9f9ba-207b-2303-1d44-0028e3ffed98",
+      "Title": "Radio Broadcasting broadcasting news broadcasting",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/3856",
+      "PublishedDate": "2025-11-22T17:30:31Z",
+      "PublishedAt": "2025-11-03T17:30:31Z",
+      "DiscoveredAt": "2025-11-14T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Interview reveals community engagement in Lusaka",
+      "RelatedEntities": [
+        "Public officials - Chipata"
+      ],
+      "Entities": [
+        "Public officials - Chipata"
+      ],
+      "Keywords": [
+        "investigative reporting",
+        "news broadcasting",
+        "community engagement"
+      ],
+      "RelevanceScore": 70.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02428fdd-10d5-26a1-0533-006406fb04a2",
+      "Title": "Radio Broadcasting interview news broadcasting",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/7377",
+      "PublishedDate": "2025-12-09T17:30:31Z",
+      "PublishedAt": "2026-01-02T17:30:31Z",
+      "DiscoveredAt": "2025-12-15T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Broadcasting reveals news broadcasting in Mongu",
+      "RelatedEntities": [
+        "Public officials - Mongu"
+      ],
+      "Entities": [
+        "Public officials - Mongu"
+      ],
+      "Keywords": [
+        "news broadcasting",
+        "public awareness",
+        "investigative reporting"
+      ],
+      "RelevanceScore": 87.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "017c4649-0787-25f9-230a-009251c54430",
+      "Title": "Radio Broadcasting program production community engagement",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/8908",
+      "PublishedDate": "2026-01-01T17:30:31Z",
+      "PublishedAt": "2025-11-01T17:30:31Z",
+      "DiscoveredAt": "2025-12-11T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Investigation reveals investigative reporting in Kitwe",
+      "RelatedEntities": [
+        "Community leaders - Chipata"
+      ],
+      "Entities": [
+        "Community leaders - Chipata"
+      ],
+      "Keywords": [
+        "accountability",
+        "investigative reporting",
+        "community engagement"
+      ],
+      "RelevanceScore": 68.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00cbf54a-2321-0472-1699-00b83df7b189",
+      "Title": "Radio Broadcasting broadcasting investigative reporting",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/7651",
+      "PublishedDate": "2025-12-08T17:30:31Z",
+      "PublishedAt": "2025-11-27T17:30:31Z",
+      "DiscoveredAt": "2025-11-03T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Program production reveals investigative reporting in Mongu",
+      "RelatedEntities": [
+        "Community leaders - Mongu"
+      ],
+      "Entities": [
+        "Community leaders - Mongu"
+      ],
+      "Keywords": [
+        "public awareness",
+        "news broadcasting",
+        "investigative reporting"
+      ],
+      "RelevanceScore": 65.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "054b5388-0bdd-091e-1ed3-002c4013788f",
+      "Title": "Radio Broadcasting interview accountability",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/8799",
+      "PublishedDate": "2025-11-15T17:30:31Z",
+      "PublishedAt": "2025-10-25T17:30:31Z",
+      "DiscoveredAt": "2025-11-08T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Investigation reveals accountability in Lusaka",
+      "RelatedEntities": [
+        "Community leaders - Chipata"
+      ],
+      "Entities": [
+        "Community leaders - Chipata"
+      ],
+      "Keywords": [
+        "news broadcasting",
+        "public awareness",
+        "accountability"
+      ],
+      "RelevanceScore": 71.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03f49d82-1e9e-08f2-13ed-00b522de989b",
+      "Title": "Radio Broadcasting fact verification public awareness",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/7977",
+      "PublishedDate": "2025-10-24T17:30:31Z",
+      "PublishedAt": "2026-01-16T17:30:31Z",
+      "DiscoveredAt": "2025-12-12T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Interview reveals accountability in Lusaka",
+      "RelatedEntities": [
+        "Community leaders - Chipata"
+      ],
+      "Entities": [
+        "Community leaders - Chipata"
+      ],
+      "Keywords": [
+        "investigative reporting",
+        "community engagement",
+        "public awareness"
+      ],
+      "RelevanceScore": 94.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04ed0ae9-13bd-1514-20e4-006b8d9d484b",
+      "Title": "Radio Broadcasting fact verification news broadcasting",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/2081",
+      "PublishedDate": "2026-01-08T17:30:31Z",
+      "PublishedAt": "2025-10-29T17:30:31Z",
+      "DiscoveredAt": "2025-12-24T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Program production reveals public awareness in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Lusaka"
+      ],
+      "Entities": [
+        "Corporations - Lusaka"
+      ],
+      "Keywords": [
+        "public awareness",
+        "accountability",
+        "community engagement"
+      ],
+      "RelevanceScore": 69.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03f4ec01-20dc-0419-0a68-009d9a2f3aad",
+      "Title": "Radio Broadcasting program production public awareness",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/5774",
+      "PublishedDate": "2025-12-05T17:30:31Z",
+      "PublishedAt": "2026-01-14T17:30:31Z",
+      "DiscoveredAt": "2025-12-18T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Investigation reveals investigative reporting in nationwide broadcast",
+      "RelatedEntities": [
+        "Community leaders - Chipata"
+      ],
+      "Entities": [
+        "Community leaders - Chipata"
+      ],
+      "Keywords": [
+        "news broadcasting",
+        "investigative reporting",
+        "public awareness"
+      ],
+      "RelevanceScore": 68.4,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02d42d6a-0fb1-19f7-1161-007d7a0637f6",
+      "Title": "Radio Broadcasting broadcasting public awareness",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/2047",
+      "PublishedDate": "2026-01-09T17:30:31Z",
+      "PublishedAt": "2025-12-25T17:30:31Z",
+      "DiscoveredAt": "2025-10-27T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Program production reveals investigative reporting in nationwide broadcast",
+      "RelatedEntities": [
+        "News subjects - Kitwe"
+      ],
+      "Entities": [
+        "News subjects - Kitwe"
+      ],
+      "Keywords": [
+        "investigative reporting",
+        "accountability",
+        "community engagement"
+      ],
+      "RelevanceScore": 89.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00ff08f1-2090-26db-1510-0067abb0f97f",
+      "Title": "Radio Broadcasting broadcasting investigative reporting",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/4760",
+      "PublishedDate": "2025-12-13T17:30:31Z",
+      "PublishedAt": "2025-11-20T17:30:31Z",
+      "DiscoveredAt": "2025-12-30T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Fact verification reveals news broadcasting in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Lusaka"
+      ],
+      "Entities": [
+        "Corporations - Lusaka"
+      ],
+      "Keywords": [
+        "public awareness",
+        "community engagement",
+        "accountability"
+      ],
+      "RelevanceScore": 61.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "012d971b-19ab-1b34-1dba-00645ed7d520",
+      "Title": "Radio Broadcasting program production accountability",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/7476",
+      "PublishedDate": "2025-11-01T17:30:31Z",
+      "PublishedAt": "2026-01-09T17:30:31Z",
+      "DiscoveredAt": "2026-01-08T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Fact verification reveals news broadcasting in Lusaka",
+      "RelatedEntities": [
+        "Public officials - nationwide broadcast"
+      ],
+      "Entities": [
+        "Public officials - nationwide broadcast"
+      ],
+      "Keywords": [
+        "news broadcasting",
+        "public awareness",
+        "investigative reporting"
+      ],
+      "RelevanceScore": 69.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03051d92-177b-1f54-1b32-00cea9d6574b",
+      "Title": "Radio Broadcasting broadcasting public awareness",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/7625",
+      "PublishedDate": "2025-12-06T17:30:31Z",
+      "PublishedAt": "2026-01-18T17:30:31Z",
+      "DiscoveredAt": "2025-11-20T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Fact verification reveals community engagement in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Lusaka"
+      ],
+      "Entities": [
+        "Corporations - Lusaka"
+      ],
+      "Keywords": [
+        "investigative reporting",
+        "accountability",
+        "public awareness"
+      ],
+      "RelevanceScore": 68.1,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02094317-1f5d-1d20-1cbd-005e0270bd14",
+      "Title": "Radio Broadcasting interview news broadcasting",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/4680",
+      "PublishedDate": "2025-12-07T17:30:31Z",
+      "PublishedAt": "2025-11-29T17:30:31Z",
+      "DiscoveredAt": "2025-12-03T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Fact verification reveals news broadcasting in Mongu",
+      "RelatedEntities": [
+        "Community leaders - Lusaka"
+      ],
+      "Entities": [
+        "Community leaders - Lusaka"
+      ],
+      "Keywords": [
+        "accountability",
+        "investigative reporting",
+        "news broadcasting"
+      ],
+      "RelevanceScore": 92.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "043cace5-0534-2082-12bf-00e39aafdc91",
+      "Title": "Radio Broadcasting investigation investigative reporting",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/6396",
+      "PublishedDate": "2025-11-23T17:30:31Z",
+      "PublishedAt": "2025-11-19T17:30:31Z",
+      "DiscoveredAt": "2025-12-02T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Broadcasting reveals community engagement in Kitwe",
+      "RelatedEntities": [
+        "Public officials - Chipata"
+      ],
+      "Entities": [
+        "Public officials - Chipata"
+      ],
+      "Keywords": [
+        "investigative reporting",
+        "accountability",
+        "community engagement"
+      ],
+      "RelevanceScore": 70.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05402d75-25a2-1081-0deb-006bc4944e8d",
+      "Title": "Radio Broadcasting program production public awareness",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/3693",
+      "PublishedDate": "2026-01-15T17:30:31Z",
+      "PublishedAt": "2025-12-24T17:30:31Z",
+      "DiscoveredAt": "2025-12-07T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Program production reveals community engagement in Lusaka",
+      "RelatedEntities": [
+        "Community leaders - Lusaka"
+      ],
+      "Entities": [
+        "Community leaders - Lusaka"
+      ],
+      "Keywords": [
+        "public awareness",
+        "community engagement",
+        "news broadcasting"
+      ],
+      "RelevanceScore": 86.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03d284e5-1b92-237b-1f1f-00c6524cc864",
+      "Title": "Radio Broadcasting investigation investigative reporting",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/4703",
+      "PublishedDate": "2025-10-25T17:30:31Z",
+      "PublishedAt": "2025-12-16T17:30:31Z",
+      "DiscoveredAt": "2026-01-19T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Broadcasting reveals public awareness in Kitwe",
+      "RelatedEntities": [
+        "Public officials - nationwide broadcast"
+      ],
+      "Entities": [
+        "Public officials - nationwide broadcast"
+      ],
+      "Keywords": [
+        "community engagement",
+        "accountability",
+        "investigative reporting"
+      ],
+      "RelevanceScore": 78.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "03427dd4-145f-1869-26c3-00a76d804798",
+      "ArticleId": "056d8cf5-26a8-1276-0982-0057d682ebfe",
+      "EntityId": "0280c9ad-0d07-1e77-0dd3-00652ae83042",
+      "EntityName": "Public officials - Chipata",
+      "AlertReason": "Adverse media on community engagement",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-22T17:30:31Z",
+      "TriggeredAt": "2025-12-18T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "036bc4df-1867-1f99-1f2c-0067109ac051",
+      "ArticleId": "0591f968-0f72-20ad-1904-007304c6d276",
+      "EntityId": "03dd0181-0728-268f-1b3e-00493312fd40",
+      "EntityName": "Public officials - nationwide broadcast",
+      "AlertReason": "Adverse media on accountability",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-31T17:30:31Z",
+      "TriggeredAt": "2025-10-22T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01bb41ec-1b37-1538-147f-0021438fe060",
+      "ArticleId": "01e46e32-0824-0bf9-1eb6-002906b1369f",
+      "EntityId": "02f7a896-168c-0d1b-1f55-0035fcd55b16",
+      "EntityName": "Public officials - Kitwe",
+      "AlertReason": "Adverse media on community engagement",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-10T17:30:31Z",
+      "TriggeredAt": "2025-11-30T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "049cd30a-0c2f-24c0-0528-0054d66e247e",
+      "ArticleId": "0168565a-0e59-0e3b-16a5-00ca7f55b4ad",
+      "EntityId": "01d00d77-1238-1db1-2038-00744a8fe37b",
+      "EntityName": "Community leaders - Mongu",
+      "AlertReason": "Adverse media on accountability",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-09T17:30:31Z",
+      "TriggeredAt": "2025-11-08T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04c56dc0-11b0-1446-1a08-003b29830c88",
+      "ArticleId": "0329ff28-0adc-1c75-2433-003edf68d6bf",
+      "EntityId": "034dbdb0-2231-0684-0ab2-00e2db0b551e",
+      "EntityName": "Public officials - Lusaka",
+      "AlertReason": "Adverse media on accountability",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-06T17:30:31Z",
+      "TriggeredAt": "2025-12-26T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04f50184-23b9-0e41-21b2-006e34ead5cd",
+      "ArticleId": "0495fb27-17c4-11d9-0613-009a1a674ea6",
+      "EntityId": "01b27a18-07fd-05d6-04bd-003401248fc9",
+      "EntityName": "News subjects - Chipata",
+      "AlertReason": "Adverse media on public awareness",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-20T17:30:31Z",
+      "TriggeredAt": "2025-12-17T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02474e8f-2453-0a70-16f2-00abde5df0d6",
+      "ArticleId": "03375aea-26e9-2618-1e6a-0066cbcf3d09",
+      "EntityId": "01233589-095b-1762-0bde-0084a75d8751",
+      "EntityName": "Public officials - Kitwe",
+      "AlertReason": "Adverse media on investigative reporting",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-01T17:30:31Z",
+      "TriggeredAt": "2025-12-04T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "03270cee-21e9-1557-0de7-00419cf1f9de",
+      "ArticleId": "02140be6-0634-0c7a-03fd-004fd63cfc45",
+      "EntityId": "00ca2fbb-1582-1ef4-1150-007674ad907c",
+      "EntityName": "Community leaders - Mongu",
+      "AlertReason": "Adverse media on public awareness",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-10-23T17:30:31Z",
+      "TriggeredAt": "2025-12-06T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0418e7c1-1404-1433-232a-00d3f1dbc80d",
+      "ArticleId": "02ac9a41-24f4-0656-04fe-00ac0d5e8572",
+      "EntityId": "04b52b58-213c-1829-225f-006aed9db04f",
+      "EntityName": "Corporations - Mongu",
+      "AlertReason": "Adverse media on public awareness",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-16T17:30:31Z",
+      "TriggeredAt": "2025-11-16T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "032e1352-196e-0746-13f7-004772eb1185",
+      "ArticleId": "05cabf11-122e-22dc-0c3a-00c57f632de6",
+      "EntityId": "053f1cd1-2030-04de-22bc-00596c4d3fdd",
+      "EntityName": "Corporations - Chipata",
+      "AlertReason": "Adverse media on public awareness",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-05T17:30:31Z",
+      "TriggeredAt": "2026-01-09T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "05629f6c-09c4-0e25-25fd-007855fb7954",
+      "ArticleId": "038cecfd-1560-1926-1e69-0055a8be94c4",
+      "EntityId": "0203bfca-13dd-18b8-1bf8-00c57e2eec0e",
+      "EntityName": "Public officials - Lusaka",
+      "AlertReason": "Adverse media on accountability",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-23T17:30:31Z",
+      "TriggeredAt": "2026-01-09T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04712edf-2700-0ace-2323-007f6a97536f",
+      "ArticleId": "031731e0-1137-05e6-16f9-00d675055022",
+      "EntityId": "046822e8-127f-1963-07e1-0068111dcf56",
+      "EntityName": "Public officials - Chipata",
+      "AlertReason": "Adverse media on investigative reporting",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-31T17:30:31Z",
+      "TriggeredAt": "2026-01-09T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "00fa0326-1f73-22a1-073e-00ddfc796edb",
+      "ArticleId": "02428fdd-10d5-26a1-0533-006406fb04a2",
+      "EntityId": "0303577d-12a5-0744-21cf-001c89bbc5d5",
+      "EntityName": "Public officials - Mongu",
+      "AlertReason": "Adverse media on news broadcasting",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-03T17:30:31Z",
+      "TriggeredAt": "2025-10-22T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "00fc2688-24b5-24c0-1434-002ec5a6f1d8",
+      "ArticleId": "00cbf54a-2321-0472-1699-00b83df7b189",
+      "EntityId": "04e6795d-2407-2319-0f6e-007a20a02ffb",
+      "EntityName": "Community leaders - Mongu",
+      "AlertReason": "Adverse media on accountability",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-01T17:30:31Z",
+      "TriggeredAt": "2025-10-27T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0115b71d-1a3d-0a20-15a2-00a087c38fd6",
+      "ArticleId": "03f49d82-1e9e-08f2-13ed-00b522de989b",
+      "EntityId": "025971e7-0b56-1627-17eb-00c91b0bb35d",
+      "EntityName": "Community leaders - Chipata",
+      "AlertReason": "Adverse media on investigative reporting",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-21T17:30:31Z",
+      "TriggeredAt": "2025-11-02T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04a9fad1-069a-0af9-2508-00a14f91845f",
+      "ArticleId": "04ed0ae9-13bd-1514-20e4-006b8d9d484b",
+      "EntityId": "02ec47c8-1935-0546-1079-002fa30384bd",
+      "EntityName": "Corporations - Lusaka",
+      "AlertReason": "Adverse media on investigative reporting",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-11T17:30:31Z",
+      "TriggeredAt": "2025-11-01T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0481d1fa-07b2-03fe-1753-00db406e0c13",
+      "ArticleId": "00ff08f1-2090-26db-1510-0067abb0f97f",
+      "EntityId": "051d2e40-1755-0f75-215b-00610251e10f",
+      "EntityName": "Corporations - Lusaka",
+      "AlertReason": "Adverse media on news broadcasting",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-23T17:30:31Z",
+      "TriggeredAt": "2025-10-27T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "058786aa-2364-1411-1757-0058252f27c6",
+      "ArticleId": "043cace5-0534-2082-12bf-00e39aafdc91",
+      "EntityId": "03485188-228c-0ed8-0b26-00e2435865d6",
+      "EntityName": "Public officials - Chipata",
+      "AlertReason": "Adverse media on accountability",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-06T17:30:31Z",
+      "TriggeredAt": "2025-12-03T17:30:31Z",
+      "IsAcknowledged": true
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "055d3b88-10ac-1a55-1f12-00825772bee9",
+      "EntityName": "Radio Broadcasting",
+      "Keywords": [
+        "investigative reporting",
+        "community engagement",
+        "accountability"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 22,
+    "HighRiskArticles": 17,
+    "ActiveAlerts": 18,
+    "MonitoredEntities": 13,
+    "ArticlesByCategory": {
+      "regulatory": 9,
+      "criminal": 5,
+      "financial": 7,
+      "political": 12
+    },
+    "ArticlesBySeverity": {
+      "high": 10,
+      "medium": 18,
+      "low": 17
+    }
+  }
+}

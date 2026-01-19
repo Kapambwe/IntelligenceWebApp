@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 477,
+  "ActiveAlerts": 11,
+  "PendingReviews": 3,
+  "ComplianceScore": 95.0,
+  "Alerts": [
+    {
+      "Id": "019f75f1-11f1-1b1d-1a3c-003f11bcf57a",
+      "Type": "Media scrutiny",
+      "Severity": "Medium",
+      "EntityName": "Government entities - Copperbelt",
+      "Description": "Investigation revealed media scrutiny involving government entities",
+      "DetectedAt": "2025-12-21T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "047342a1-0ab6-12b1-079c-00238cacc579",
+      "Type": "Media scrutiny",
+      "Severity": "Low",
+      "EntityName": "Public figures - Southern Province",
+      "Description": "Investigation revealed media scrutiny involving public figures",
+      "DetectedAt": "2026-01-18T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "016bcb04-216f-1739-1375-005ebb7ff9ee",
+      "Type": "Documentary production",
+      "Severity": "Critical",
+      "EntityName": "Corporations - Lusaka",
+      "Description": "Filming revealed news coverage involving corporations",
+      "DetectedAt": "2025-12-19T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "022789d5-192d-15a9-18e3-00834cc1c6b0",
+      "Type": "Public accountability",
+      "Severity": "Medium",
+      "EntityName": "Government entities - Kitwe",
+      "Description": "Fact-checking revealed public accountability involving corporations",
+      "DetectedAt": "2025-11-12T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "036fc4e0-1dcf-0770-0f3d-009c49366741",
+      "Type": "Public accountability",
+      "Severity": "High",
+      "EntityName": "Public figures - Copperbelt",
+      "Description": "Investigation revealed investigative journalism involving featured subjects",
+      "DetectedAt": "2025-12-22T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "021ed7e0-08af-12d3-07c4-00478d5a84aa",
+      "Type": "Investigative journalism",
+      "Severity": "High",
+      "EntityName": "Featured subjects - Southern Province",
+      "Description": "Broadcast revealed media scrutiny involving government entities",
+      "DetectedAt": "2026-01-19T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "037fe74b-1d9c-0adb-089e-00ad3432094c",
+      "Type": "Media scrutiny",
+      "Severity": "High",
+      "EntityName": "Government entities - Lusaka",
+      "Description": "Fact-checking revealed documentary production involving featured subjects",
+      "DetectedAt": "2025-11-06T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03ef6552-0ae0-1f97-23be-006faa48f201",
+      "Type": "Documentary production",
+      "Severity": "High",
+      "EntityName": "Public figures - nationwide coverage",
+      "Description": "Editorial review revealed news coverage involving government entities",
+      "DetectedAt": "2025-12-26T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03f8343e-1a42-1e8b-1670-009813a850f0",
+      "Type": "Public accountability",
+      "Severity": "Low",
+      "EntityName": "Government entities - nationwide coverage",
+      "Description": "Editorial review revealed investigative journalism involving corporations",
+      "DetectedAt": "2025-12-24T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "031dcfba-1f10-0835-2470-0094cae3a1da",
+      "Type": "News coverage",
+      "Severity": "Medium",
+      "EntityName": "Featured subjects - Kitwe",
+      "Description": "Fact-checking revealed news coverage involving public figures",
+      "DetectedAt": "2025-11-04T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "013b1f22-2336-26ee-1f83-006e9964bd3a",
+      "Type": "Public accountability",
+      "Severity": "Low",
+      "EntityName": "Government entities - Copperbelt",
+      "Description": "Investigation revealed news coverage involving featured subjects",
+      "DetectedAt": "2025-12-31T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "023394e1-0bd8-16ae-26cb-00278b5fa075",
+      "Type": "Media scrutiny",
+      "Severity": "Medium",
+      "EntityName": "Featured subjects - Kitwe",
+      "Description": "Fact-checking revealed news coverage involving government entities",
+      "DetectedAt": "2026-01-03T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03c319e4-21a8-0908-15f0-00ae028f0d15",
+      "Type": "News coverage",
+      "Severity": "Medium",
+      "EntityName": "Featured subjects - nationwide coverage",
+      "Description": "Investigation revealed media scrutiny involving featured subjects",
+      "DetectedAt": "2025-12-30T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03e7e14e-1a2b-1aa1-1041-00660dc874fb",
+      "Type": "Documentary production",
+      "Severity": "Low",
+      "EntityName": "Featured subjects - Lusaka",
+      "Description": "Broadcast revealed public accountability involving featured subjects",
+      "DetectedAt": "2025-12-08T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04fc5655-144e-1513-05d9-00438da42e0c",
+      "Type": "Media scrutiny",
+      "Severity": "Critical",
+      "EntityName": "Corporations - nationwide coverage",
+      "Description": "Broadcast revealed news coverage involving corporations",
+      "DetectedAt": "2025-12-05T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02db6aa3-13be-1df3-1535-00490d7cafb6",
+      "Type": "Public accountability",
+      "Severity": "Medium",
+      "EntityName": "Public figures - nationwide coverage",
+      "Description": "Investigation revealed investigative journalism involving public figures",
+      "DetectedAt": "2025-11-07T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "030ba297-1548-0557-23fd-003510b56b01",
+      "Type": "Documentary production",
+      "Severity": "Low",
+      "EntityName": "Government entities - nationwide coverage",
+      "Description": "Fact-checking revealed media scrutiny involving public figures",
+      "DetectedAt": "2025-12-22T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "014ff24d-1a8a-16fe-0be5-00e76e8d077d",
+      "Type": "Investigative journalism",
+      "Severity": "High",
+      "EntityName": "Corporations - Kitwe",
+      "Description": "Broadcast revealed public accountability involving featured subjects",
+      "DetectedAt": "2025-12-05T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04041fdc-1eef-25d9-1dcd-005069a27946",
+      "Type": "News coverage",
+      "Severity": "Medium",
+      "EntityName": "Government entities - Southern Province",
+      "Description": "Broadcast revealed public accountability involving government entities",
+      "DetectedAt": "2025-11-02T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "055bea8f-08d7-200e-18bd-005055f45001",
+      "Type": "Documentary production",
+      "Severity": "Medium",
+      "EntityName": "Public figures - Lusaka",
+      "Description": "Filming revealed public accountability involving government entities",
+      "DetectedAt": "2025-11-29T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "047b76b6-1b4a-266c-0f02-007db3619239",
+      "Type": "Media scrutiny",
+      "Severity": "Medium",
+      "EntityName": "Corporations - Kitwe",
+      "Description": "Fact-checking revealed public accountability involving corporations",
+      "DetectedAt": "2025-11-27T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "021bd29a-1ea9-18c2-05e4-006df61e5be6",
+      "Type": "News coverage",
+      "Severity": "Critical",
+      "EntityName": "Featured subjects - Copperbelt",
+      "Description": "Fact-checking revealed public accountability involving government entities",
+      "DetectedAt": "2026-01-13T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "04819018-12a4-0ff9-0e83-009a6b2e6059",
+      "Type": "Investigative journalism",
+      "Severity": "Low",
+      "EntityName": "Public figures - Kitwe",
+      "Description": "Fact-checking revealed news coverage involving featured subjects",
+      "DetectedAt": "2025-12-25T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "015684f0-20e8-25a3-0a0d-003426f0a15a",
+      "Type": "News coverage",
+      "Severity": "Critical",
+      "EntityName": "Public figures - Copperbelt",
+      "Description": "Broadcast revealed public accountability involving government entities",
+      "DetectedAt": "2025-11-03T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "034ca672-1565-22b6-2014-00d7d606e2db",
+      "Type": "Public accountability",
+      "Severity": "High",
+      "EntityName": "Public figures - Copperbelt",
+      "Description": "Fact-checking revealed media scrutiny involving corporations",
+      "DetectedAt": "2025-12-27T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02d99237-1863-1cf0-20e6-001e3b791764",
+      "Type": "Media scrutiny",
+      "Severity": "High",
+      "EntityName": "Government entities - nationwide coverage",
+      "Description": "Editorial review revealed public accountability involving featured subjects",
+      "DetectedAt": "2025-11-18T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "046687ba-0a6c-1452-0c87-006514fe3b24",
+      "Type": "News coverage",
+      "Severity": "Critical",
+      "EntityName": "Corporations - nationwide coverage",
+      "Description": "Broadcast revealed investigative journalism involving featured subjects",
+      "DetectedAt": "2026-01-15T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01babdf6-0b30-13d0-24fa-003be25d9478",
+      "Type": "Media scrutiny",
+      "Severity": "Critical",
+      "EntityName": "Government entities - Southern Province",
+      "Description": "Broadcast revealed media scrutiny involving public figures",
+      "DetectedAt": "2025-11-21T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0217bdde-1df3-1d08-102e-006a358b5775",
+      "Type": "Investigative journalism",
+      "Severity": "High",
+      "EntityName": "Featured subjects - Kitwe",
+      "Description": "Filming revealed documentary production involving government entities",
+      "DetectedAt": "2025-11-04T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04c67b2b-1a19-0d88-1c60-00248f3dfbcb",
+      "Type": "Investigative journalism",
+      "Severity": "Critical",
+      "EntityName": "Public figures - Southern Province",
+      "Description": "Fact-checking revealed documentary production involving public figures",
+      "DetectedAt": "2026-01-03T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02b05c43-06ac-0e13-0c76-00371e0e8e62",
+      "Type": "Investigative journalism",
+      "Severity": "Critical",
+      "EntityName": "Government entities - Kitwe",
+      "Description": "Fact-checking revealed investigative journalism involving corporations",
+      "DetectedAt": "2025-12-26T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "036929d7-0a21-2642-167f-0048e159c48c",
+      "Type": "News coverage",
+      "Severity": "Medium",
+      "EntityName": "Featured subjects - Lusaka",
+      "Description": "Filming revealed public accountability involving featured subjects",
+      "DetectedAt": "2025-10-25T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00fa1e17-0400-180a-1830-0093a7c1c879",
+      "Type": "Investigative journalism",
+      "Severity": "Medium",
+      "EntityName": "Public figures - Lusaka",
+      "Description": "Fact-checking revealed news coverage involving featured subjects",
+      "DetectedAt": "2026-01-03T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "037a5af5-1686-09ba-17c7-0098b219b784",
+      "Type": "News coverage",
+      "Severity": "Critical",
+      "EntityName": "Government entities - Copperbelt",
+      "Description": "Editorial review revealed news coverage involving corporations",
+      "DetectedAt": "2025-12-04T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "038592ce-0f61-2177-1da7-005b52f27772",
+      "Type": "News coverage",
+      "Severity": "Low",
+      "EntityName": "Government entities - Southern Province",
+      "Description": "Investigation revealed investigative journalism involving government entities",
+      "DetectedAt": "2026-01-03T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "04af29cf-14b8-0b5e-0526-00991a26861c",
+      "Type": "Investigative journalism",
+      "Severity": "Low",
+      "EntityName": "Featured subjects - Copperbelt",
+      "Description": "Filming revealed news coverage involving corporations",
+      "DetectedAt": "2025-11-30T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05cb6935-2655-04c4-2075-0035a102a5e5",
+      "Type": "Investigative journalism",
+      "Severity": "Critical",
+      "EntityName": "Government entities - Southern Province",
+      "Description": "Filming revealed public accountability involving government entities",
+      "DetectedAt": "2026-01-08T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01ec5d6b-0cad-06e1-1c93-00a2efdd0daa",
+      "Type": "Media scrutiny",
+      "Severity": "Medium",
+      "EntityName": "Government entities - Kitwe",
+      "Description": "Investigation revealed investigative journalism involving corporations",
+      "DetectedAt": "2025-11-08T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "011051d2-12b7-20c3-1ea9-003a2a9a122c",
+      "Type": "Investigative journalism",
+      "Severity": "Medium",
+      "EntityName": "Government entities - Southern Province",
+      "Description": "Filming revealed investigative journalism involving public figures",
+      "DetectedAt": "2026-01-02T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "05061901-175f-1c67-2086-00284a24663a",
+      "Type": "Public accountability",
+      "Severity": "High",
+      "EntityName": "Featured subjects - Copperbelt",
+      "Description": "Investigation revealed news coverage involving government entities",
+      "DetectedAt": "2025-10-28T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "054a81a0-1621-08a8-0c37-004a2f157536",
+      "Type": "Investigative journalism",
+      "Severity": "Low",
+      "EntityName": "Corporations - nationwide coverage",
+      "Description": "Fact-checking revealed media scrutiny involving government entities",
+      "DetectedAt": "2025-12-05T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01a02019-054f-0ce9-21e7-00e07fccff09",
+      "Type": "News coverage",
+      "Severity": "Low",
+      "EntityName": "Public figures - nationwide coverage",
+      "Description": "Editorial review revealed media scrutiny involving public figures",
+      "DetectedAt": "2025-12-03T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03025d73-05c8-1757-2211-002711dc9d18",
+      "Type": "Public accountability",
+      "Severity": "Medium",
+      "EntityName": "Featured subjects - Kitwe",
+      "Description": "Broadcast revealed media scrutiny involving featured subjects",
+      "DetectedAt": "2025-12-26T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04f607af-0a24-1e0a-05ad-00ba630344cf",
+      "Type": "Investigative journalism",
+      "Severity": "High",
+      "EntityName": "Government entities - Copperbelt",
+      "Description": "Editorial review revealed public accountability involving public figures",
+      "DetectedAt": "2025-11-02T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02f81899-1887-18a1-1833-007e0fa1f1e4",
+      "Type": "Media scrutiny",
+      "Severity": "Critical",
+      "EntityName": "Corporations - Southern Province",
+      "Description": "Broadcast revealed documentary production involving featured subjects",
+      "DetectedAt": "2025-12-19T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "025332d4-0e41-0fea-2306-00a08db7ca71",
+      "Type": "Documentary production",
+      "Severity": "High",
+      "EntityName": "Government entities - Southern Province",
+      "Description": "Fact-checking revealed public accountability involving featured subjects",
+      "DetectedAt": "2026-01-13T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03e944e1-1efc-0d93-2196-00c11c52ac20",
+      "Type": "Documentary production",
+      "Severity": "Low",
+      "EntityName": "Public figures - Kitwe",
+      "Description": "Filming revealed media scrutiny involving featured subjects",
+      "DetectedAt": "2025-11-04T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01545184-0fe4-120c-1a8f-007d3862b8f5",
+      "Type": "News coverage",
+      "Severity": "Low",
+      "EntityName": "Government entities - Lusaka",
+      "Description": "Filming revealed investigative journalism involving corporations",
+      "DetectedAt": "2025-12-04T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "044c3e65-2678-16b3-1385-003c044ac287",
+      "Type": "Public accountability",
+      "Severity": "Medium",
+      "EntityName": "Featured subjects - nationwide coverage",
+      "Description": "Broadcast revealed news coverage involving corporations",
+      "DetectedAt": "2025-11-08T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0139021b-1883-1b74-222a-00415950008a",
+      "Type": "Documentary production",
+      "Severity": "High",
+      "EntityName": "Corporations - Lusaka",
+      "Description": "Broadcast revealed public accountability involving government entities",
+      "DetectedAt": "2025-12-17T17:30:31Z",
+      "Status": "Pending"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 72
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 71
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 84
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 82
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 86
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 69
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 65
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 77
+    }
+  ]
+}

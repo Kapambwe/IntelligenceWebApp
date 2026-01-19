@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "Ministries",
+  "DisplayName": "Ministry of Finance, Economic Development and National Planning",
+  "Country": "Zambia",
+  "Headquarters": "Lusaka, Zambia",
+  "Mandate": "Set fiscal policy, manage the national budget, and coordinate multi-sector responses to revenue and security challenges.",
+  "TopPriorities": [
+    "Prioritize expenditures in health, education, and copper royalties while improving budget transparency.",
+    "Coordinate with ZRA and the Bank of Zambia to horizon-scan revenue vulnerabilities.",
+    "Sustain the public-private dialogue on mining reform launched at the 2025 Copperbelt conference."
+  ],
+  "ActiveOperations": [
+    "Budget performance committee that reviews monthly revenue-and-expenditure data shared by ministries and ZRA.",
+    "Macro-financial risk cell that models public debt scenarios using data from the Ministry of Mines and the Zambia Chamber of Mines.",
+    "Oversight of the Infrastructure Transparency Initiative, which publishes contractor registers online."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Announced tighter disclosures for mining revenue sharing",
+      "Date": "2026-01-09T00:00:00Z",
+      "Summary": "The Ministry required all mining companies to report export prices directly to ZRA and the Ministry of Finance, enabling monthly reconciliations."
+    },
+    {
+      "Title": "Launched the Strategic Revenue-Expenditure Outlook",
+      "Date": "2025-12-15T00:00:00Z",
+      "Summary": "The cabinet paper linked five-year revenue forecasts to climate-resilient agriculture programs."
+    }
+  ],
+  "KeyPartnerships": [
+    "Zambia Revenue Authority",
+    "Ministry of Mines and Minerals Development",
+    "African Development Bank"
+  ],
+  "Metrics": {
+    "BudgetCoverage": "90% of planned capital projects",
+    "RevenueForecastAccuracy": "+/- 2% over the past two quarters",
+    "PublicExpenditureReviews": "12 peer reviews completed"
+  }
+}

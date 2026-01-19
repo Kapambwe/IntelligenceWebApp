@@ -1,0 +1,59 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "CorruptionPath",
+      "Summary": "Identified 4-step pattern linking government departments to bribery in Lusaka",
+      "HighlightedNodes": [
+        "0465c76e-1da8-26a6-1e51-00d3b297b612",
+        "010a3621-094d-2618-230d-00e3dc29fbf1",
+        "04cc0f74-1aea-1864-1721-00c5436961a9",
+        "03bfcc8a-04cf-1528-1e23-00410b270ea3"
+      ]
+    },
+    {
+      "Name": "CorruptionPath",
+      "Summary": "Identified 3-step pattern linking government departments to abuse of office in Livingstone",
+      "HighlightedNodes": [
+        "016ec863-08cb-0ee0-219e-00939a972754",
+        "03dcc151-0a24-1292-1fdb-007f510ed2ce",
+        "02cbe57b-181b-13d9-2027-0025803686bf"
+      ]
+    },
+    {
+      "Name": "Abuse of officePath",
+      "Summary": "Identified 6-step pattern linking political figures to graft in Livingstone",
+      "HighlightedNodes": [
+        "03a653a3-07a9-06d7-1456-00cc2bef267e",
+        "025fb574-1012-0d9a-1608-006d3e68c000",
+        "05f5d092-245a-0990-138c-007901d85cc2",
+        "0491c906-0f6f-06b8-068f-00608cba9914",
+        "03182199-15d6-245a-1dfa-0023f02419a4",
+        "051e4e96-1171-2491-1dc3-002a70a34b7f"
+      ]
+    },
+    {
+      "Name": "GraftPath",
+      "Summary": "Identified 5-step pattern linking contractors to corruption in Kabwe",
+      "HighlightedNodes": [
+        "0114f939-14aa-167d-1ca5-00b1c6075609",
+        "01819cc4-18a4-0c55-0e20-00939e5a0309",
+        "013c7b39-158a-147c-1424-00b57f1a1d22",
+        "02d9d211-24d2-20ca-0682-007400f5c3a3",
+        "05d182bf-11f3-0e62-2529-00ae04c11f1a"
+      ]
+    },
+    {
+      "Name": "Illicit enrichmentPath",
+      "Summary": "Identified 6-step pattern linking government departments to corruption in Livingstone",
+      "HighlightedNodes": [
+        "00da2cac-2571-216c-17b4-008024e2163f",
+        "02b4b86f-226d-23bb-0a8f-005f671e54e4",
+        "057dc38a-2241-12c8-1da1-002bf9841392",
+        "056fc057-25fa-10b9-0be8-00729d24121a",
+        "012d5f2e-1973-24fb-0610-00a5460c3c49",
+        "043eb254-112a-2547-156f-00daa36737a6"
+      ]
+    }
+  ]
+}

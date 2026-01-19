@@ -1,0 +1,186 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "055a2523-17a5-09d6-1fdb-00e6a368c0d3",
+      "Name": "Budget execution Risk Model",
+      "Description": "Detects service delivery patterns in Government Ministries operations",
+      "Status": "active",
+      "CreatedAt": "2025-08-07T17:30:31Z",
+      "LastModifiedAt": "2026-01-13T17:30:31Z",
+      "Version": "3.4",
+      "Factors": [
+        {
+          "Id": "0174d0d4-0bff-1ff0-21fa-00e3fd7e369f",
+          "Name": "Budget execution Indicator",
+          "Description": "Measures policy compliance risk across contractors",
+          "Category": "compliance",
+          "Weight": 0.2,
+          "MinValue": 0,
+          "MaxValue": 158,
+          "IsEnabled": true
+        },
+        {
+          "Id": "058aeaa8-0509-0bf8-1902-005c3d6718dc",
+          "Name": "Service delivery Indicator",
+          "Description": "Measures program implementation risk across contractors",
+          "Category": "geographic",
+          "Weight": 0.28,
+          "MinValue": 0,
+          "MaxValue": 191,
+          "IsEnabled": true
+        },
+        {
+          "Id": "041c44e3-0658-0587-0a5a-009ca698c56f",
+          "Name": "Service delivery Indicator",
+          "Description": "Measures budget execution risk across beneficiaries",
+          "Category": "compliance",
+          "Weight": 0.21,
+          "MinValue": 0,
+          "MaxValue": 179,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.89,
+        "Precision": 0.85,
+        "Recall": 0.89,
+        "F1Score": 0.86,
+        "TotalPredictions": 536,
+        "TruePositives": 234,
+        "FalsePositives": 25,
+        "TrueNegatives": 107,
+        "FalseNegatives": 50
+      }
+    },
+    {
+      "Id": "012e67de-22d9-1787-16dd-004b3976f987",
+      "Name": "Policy compliance Risk Model",
+      "Description": "Detects budget execution patterns in Government Ministries operations",
+      "Status": "active",
+      "CreatedAt": "2025-10-06T17:30:31Z",
+      "LastModifiedAt": "2026-01-07T17:30:31Z",
+      "Version": "1.6",
+      "Factors": [
+        {
+          "Id": "04dec881-1955-0a30-266d-002da99d02cb",
+          "Name": "Budget execution Indicator",
+          "Description": "Measures policy compliance risk across contractors",
+          "Category": "geographic",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 133,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0202103a-0eec-1594-2425-007d629524ec",
+          "Name": "Budget execution Indicator",
+          "Description": "Measures budget execution risk across suppliers",
+          "Category": "compliance",
+          "Weight": 0.17,
+          "MinValue": 0,
+          "MaxValue": 163,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0373c29b-175a-0d7a-2288-00bbd064b51a",
+          "Name": "Budget execution Indicator",
+          "Description": "Measures program implementation risk across beneficiaries",
+          "Category": "geographic",
+          "Weight": 0.17,
+          "MinValue": 0,
+          "MaxValue": 116,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0154af22-0474-232b-0848-002c0a1f36e4",
+          "Name": "Public procurement Indicator",
+          "Description": "Measures policy compliance risk across contractors",
+          "Category": "geographic",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 129,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.82,
+        "Precision": 0.87,
+        "Recall": 0.86,
+        "F1Score": 0.88,
+        "TotalPredictions": 374,
+        "TruePositives": 266,
+        "FalsePositives": 57,
+        "TrueNegatives": 102,
+        "FalseNegatives": 47
+      }
+    },
+    {
+      "Id": "018d1cb0-26d1-131d-0eae-009377013fdc",
+      "Name": "Program implementation Risk Model",
+      "Description": "Detects program implementation patterns in Government Ministries operations",
+      "Status": "active",
+      "CreatedAt": "2025-11-18T17:30:31Z",
+      "LastModifiedAt": "2026-01-05T17:30:31Z",
+      "Version": "2.9",
+      "Factors": [
+        {
+          "Id": "04ddcddc-03ee-1e35-082e-00b2b7e01500",
+          "Name": "Budget execution Indicator",
+          "Description": "Measures service delivery risk across contractors",
+          "Category": "operational",
+          "Weight": 0.22,
+          "MinValue": 0,
+          "MaxValue": 172,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03d3d640-11c3-0e0b-204b-009176c5e565",
+          "Name": "Budget execution Indicator",
+          "Description": "Measures policy compliance risk across beneficiaries",
+          "Category": "geographic",
+          "Weight": 0.21,
+          "MinValue": 0,
+          "MaxValue": 111,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03c546f5-094b-0b3f-1a60-009ba03e3c81",
+          "Name": "Public procurement Indicator",
+          "Description": "Measures public procurement risk across beneficiaries",
+          "Category": "operational",
+          "Weight": 0.35,
+          "MinValue": 0,
+          "MaxValue": 120,
+          "IsEnabled": true
+        },
+        {
+          "Id": "040676c3-069d-144d-1f3b-002731a62728",
+          "Name": "Budget execution Indicator",
+          "Description": "Measures service delivery risk across contractors",
+          "Category": "compliance",
+          "Weight": 0.26,
+          "MinValue": 0,
+          "MaxValue": 191,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.92,
+        "Precision": 0.85,
+        "Recall": 0.8,
+        "F1Score": 0.75,
+        "TotalPredictions": 459,
+        "TruePositives": 450,
+        "FalsePositives": 51,
+        "TrueNegatives": 194,
+        "FalseNegatives": 54
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 11,
+    "AverageRiskScore": 76.4
+  }
+}

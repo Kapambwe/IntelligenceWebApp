@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "0498b869-137b-0d0b-20d7-00ccbede10f8",
+      "Name": "Investigation units - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 88.0,
+      "IsCritical": true,
+      "Products": [
+        "criminal investigations"
+      ],
+      "AnnualSpend": 1237339.77
+    },
+    {
+      "Id": "0389a115-1034-18bf-1465-00e200c69c3a",
+      "Name": "Suspects - Lusaka",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 72.5,
+      "IsCritical": false,
+      "Products": [
+        "copper theft"
+      ],
+      "AnnualSpend": 9784211.3
+    },
+    {
+      "Id": "02bce09d-0f4c-1533-1dcc-00c5544d4a5b",
+      "Name": "Crime syndicates - Ndola",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 90.7,
+      "IsCritical": false,
+      "Products": [
+        "criminal investigations"
+      ],
+      "AnnualSpend": 7856009.61
+    },
+    {
+      "Id": "04221ac8-26ab-0c9a-0406-009bd7308ebc",
+      "Name": "Suspects - Livingstone",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 69.8,
+      "IsCritical": false,
+      "Products": [
+        "copper theft"
+      ],
+      "AnnualSpend": 6379113.26
+    },
+    {
+      "Id": "036a5142-1aee-0eb3-25cc-0086565547ae",
+      "Name": "Suspects - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 91.4,
+      "IsCritical": false,
+      "Products": [
+        "criminal investigations"
+      ],
+      "AnnualSpend": 8297803.16
+    },
+    {
+      "Id": "04b0a9e4-171c-1451-189e-0038fe681bac",
+      "Name": "Criminal networks - Livingstone",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 60.7,
+      "IsCritical": true,
+      "Products": [
+        "drug trafficking"
+      ],
+      "AnnualSpend": 8562960.39
+    },
+    {
+      "Id": "0342056f-1a7c-0684-061d-0023704b036c",
+      "Name": "Crime syndicates - border posts",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 40.5,
+      "IsCritical": true,
+      "Products": [
+        "drug trafficking"
+      ],
+      "AnnualSpend": 8491383.31
+    },
+    {
+      "Id": "048a8eb2-0f38-1572-1907-00cef80aa311",
+      "Name": "Investigation units - Kitwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 94.7,
+      "IsCritical": true,
+      "Products": [
+        "copper theft"
+      ],
+      "AnnualSpend": 7013431.04
+    },
+    {
+      "Id": "03ca9682-0f0e-171f-0706-005fe4264d19",
+      "Name": "Crime syndicates - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 68.4,
+      "IsCritical": false,
+      "Products": [
+        "criminal investigations"
+      ],
+      "AnnualSpend": 2752039.74
+    },
+    {
+      "Id": "0480ab7e-086c-1ec3-0b05-0087f3123e5c",
+      "Name": "Criminal networks - Livingstone",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 42.7,
+      "IsCritical": false,
+      "Products": [
+        "drug trafficking"
+      ],
+      "AnnualSpend": 5575432.76
+    },
+    {
+      "Id": "047ca407-0f58-1d1f-0753-00b23f65fec0",
+      "Name": "Crime syndicates - Ndola",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 75.4,
+      "IsCritical": false,
+      "Products": [
+        "law enforcement"
+      ],
+      "AnnualSpend": 2692667.15
+    },
+    {
+      "Id": "013df11d-1af9-15de-0677-009bf9585e85",
+      "Name": "Crime syndicates - Kitwe",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 42.2,
+      "IsCritical": false,
+      "Products": [
+        "criminal investigations"
+      ],
+      "AnnualSpend": 3689197.21
+    },
+    {
+      "Id": "0346f17f-1926-1a7c-1d34-00dd977c9d3c",
+      "Name": "Criminal networks - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 84.9,
+      "IsCritical": true,
+      "Products": [
+        "criminal investigations"
+      ],
+      "AnnualSpend": 5349784.23
+    },
+    {
+      "Id": "052aef58-1d8b-10eb-190a-009d2e86da73",
+      "Name": "Criminal networks - border posts",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 87.6,
+      "IsCritical": false,
+      "Products": [
+        "copper theft"
+      ],
+      "AnnualSpend": 6753909.5
+    },
+    {
+      "Id": "0321a9a5-1cf0-191e-2364-00d51f8f6533",
+      "Name": "Criminal networks - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 65.4,
+      "IsCritical": false,
+      "Products": [
+        "criminal investigations"
+      ],
+      "AnnualSpend": 7299559.64
+    },
+    {
+      "Id": "02fe65ae-1560-1708-14e9-00a3fdf7db34",
+      "Name": "Investigation units - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 61.2,
+      "IsCritical": false,
+      "Products": [
+        "law enforcement"
+      ],
+      "AnnualSpend": 4712318.75
+    },
+    {
+      "Id": "0596b087-2548-1c0d-117b-005024162d16",
+      "Name": "Criminal networks - border posts",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 60.0,
+      "IsCritical": true,
+      "Products": [
+        "drug trafficking"
+      ],
+      "AnnualSpend": 6735087.55
+    },
+    {
+      "Id": "0426cef3-077b-1dea-13da-00af7a929ed1",
+      "Name": "Suspects - border posts",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 47.2,
+      "IsCritical": false,
+      "Products": [
+        "criminal investigations"
+      ],
+      "AnnualSpend": 1809619.78
+    },
+    {
+      "Id": "03742cb7-04d2-1582-0a87-0052c47ed333",
+      "Name": "Investigation units - Lusaka",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 61.1,
+      "IsCritical": false,
+      "Products": [
+        "law enforcement"
+      ],
+      "AnnualSpend": 2199822.44
+    },
+    {
+      "Id": "019dc2a1-1bae-26fe-1d34-0063fff64f4e",
+      "Name": "Investigation units - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 78.5,
+      "IsCritical": false,
+      "Products": [
+        "criminal investigations"
+      ],
+      "AnnualSpend": 9796711.13
+    },
+    {
+      "Id": "02146a74-089c-18bc-1024-00b610a71fea",
+      "Name": "Criminal networks - Kitwe",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 44.6,
+      "IsCritical": true,
+      "Products": [
+        "law enforcement"
+      ],
+      "AnnualSpend": 4019627.94
+    },
+    {
+      "Id": "00f8a68a-1be1-1680-25f5-00dec35ed9c0",
+      "Name": "Criminal networks - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 42.7,
+      "IsCritical": true,
+      "Products": [
+        "copper theft"
+      ],
+      "AnnualSpend": 9022459.94
+    },
+    {
+      "Id": "03d05479-1b7d-1752-1f17-00856704c46e",
+      "Name": "Criminal networks - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 40.9,
+      "IsCritical": false,
+      "Products": [
+        "copper theft"
+      ],
+      "AnnualSpend": 6372708.91
+    },
+    {
+      "Id": "0316dffd-2206-0d2d-1cf5-00871b5b4b27",
+      "Name": "Criminal networks - border posts",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 79.1,
+      "IsCritical": true,
+      "Products": [
+        "copper theft"
+      ],
+      "AnnualSpend": 5766353.61
+    },
+    {
+      "Id": "02ae46f8-1d36-24eb-169a-001ff7432d1b",
+      "Name": "Suspects - Livingstone",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 41.8,
+      "IsCritical": true,
+      "Products": [
+        "organized crime"
+      ],
+      "AnnualSpend": 8969522.66
+    },
+    {
+      "Id": "0127742f-148c-2010-125d-00b284b09f12",
+      "Name": "Criminal networks - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 44.4,
+      "IsCritical": true,
+      "Products": [
+        "criminal investigations"
+      ],
+      "AnnualSpend": 4477425.24
+    },
+    {
+      "Id": "051022e3-1db5-1816-09e2-00cb66519d1f",
+      "Name": "Crime syndicates - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 70.8,
+      "IsCritical": true,
+      "Products": [
+        "drug trafficking"
+      ],
+      "AnnualSpend": 2902255.45
+    },
+    {
+      "Id": "0331e2ae-246b-1ca2-0bb5-00c9cbb19d54",
+      "Name": "Investigation units - Lusaka",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 49.5,
+      "IsCritical": true,
+      "Products": [
+        "organized crime"
+      ],
+      "AnnualSpend": 1928486.4
+    },
+    {
+      "Id": "05f48693-127d-1826-1c19-003a8bcee06e",
+      "Name": "Investigation units - Ndola",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 82.1,
+      "IsCritical": true,
+      "Products": [
+        "drug trafficking"
+      ],
+      "AnnualSpend": 3769850.18
+    },
+    {
+      "Id": "05f2f0bb-1dac-0668-1a6e-0070cb1480db",
+      "Name": "Suspects - border posts",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 40.1,
+      "IsCritical": true,
+      "Products": [
+        "copper theft"
+      ],
+      "AnnualSpend": 1195369.99
+    },
+    {
+      "Id": "00ea9b7b-1e20-14ed-0806-0050a146e272",
+      "Name": "Investigation units - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 85.7,
+      "IsCritical": false,
+      "Products": [
+        "law enforcement"
+      ],
+      "AnnualSpend": 6675118.44
+    },
+    {
+      "Id": "04fc0bc2-0feb-1b7d-1441-00632648e36b",
+      "Name": "Criminal networks - Lusaka",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 88.1,
+      "IsCritical": true,
+      "Products": [
+        "drug trafficking"
+      ],
+      "AnnualSpend": 8533647.91
+    },
+    {
+      "Id": "0524f69f-19f1-2023-1b8d-006c50f375ad",
+      "Name": "Criminal networks - Ndola",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 85.0,
+      "IsCritical": false,
+      "Products": [
+        "law enforcement"
+      ],
+      "AnnualSpend": 8709975.86
+    },
+    {
+      "Id": "01baeee0-1061-0462-1a12-0043989990e6",
+      "Name": "Criminal networks - Livingstone",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 91.5,
+      "IsCritical": true,
+      "Products": [
+        "copper theft"
+      ],
+      "AnnualSpend": 5358399.8
+    },
+    {
+      "Id": "024fec40-2704-16bb-0c1d-005f3a470cdf",
+      "Name": "Suspects - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 46.0,
+      "IsCritical": true,
+      "Products": [
+        "organized crime"
+      ],
+      "AnnualSpend": 2899602.04
+    },
+    {
+      "Id": "03012355-2625-0795-261f-007911a0a13e",
+      "Name": "Suspects - border posts",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 94.5,
+      "IsCritical": true,
+      "Products": [
+        "drug trafficking"
+      ],
+      "AnnualSpend": 4371263.75
+    },
+    {
+      "Id": "03d9f6a7-2483-2562-23c7-0031e606fd5f",
+      "Name": "Investigation units - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 61.7,
+      "IsCritical": false,
+      "Products": [
+        "law enforcement"
+      ],
+      "AnnualSpend": 2718858.19
+    },
+    {
+      "Id": "0345014b-1f7d-2046-08ea-00bd5ec58d98",
+      "Name": "Criminal networks - Ndola",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 48.8,
+      "IsCritical": true,
+      "Products": [
+        "drug trafficking"
+      ],
+      "AnnualSpend": 5200641.21
+    },
+    {
+      "Id": "02a9f45e-1e65-16e9-2239-00770857c192",
+      "Name": "Criminal networks - Livingstone",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 85.7,
+      "IsCritical": true,
+      "Products": [
+        "criminal investigations"
+      ],
+      "AnnualSpend": 4525487.26
+    },
+    {
+      "Id": "05849bb7-2362-20a6-1340-009abdd9719f",
+      "Name": "Investigation units - Ndola",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 70.2,
+      "IsCritical": false,
+      "Products": [
+        "law enforcement"
+      ],
+      "AnnualSpend": 1379928.77
+    },
+    {
+      "Id": "0210550c-0eb6-158b-0a7d-00a4f8d41dee",
+      "Name": "Suspects - Ndola",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 91.0,
+      "IsCritical": false,
+      "Products": [
+        "drug trafficking"
+      ],
+      "AnnualSpend": 9904041.05
+    },
+    {
+      "Id": "05132ff2-20fc-0ff8-1e7b-00e00beab540",
+      "Name": "Criminal networks - Kitwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 71.9,
+      "IsCritical": false,
+      "Products": [
+        "organized crime"
+      ],
+      "AnnualSpend": 4453525.73
+    },
+    {
+      "Id": "02fb22c9-1ae6-220b-1a30-00db1166928b",
+      "Name": "Suspects - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 41.3,
+      "IsCritical": false,
+      "Products": [
+        "law enforcement"
+      ],
+      "AnnualSpend": 6992294.33
+    },
+    {
+      "Id": "0136e6e0-1f52-1370-0ba6-00cf2f3fbd53",
+      "Name": "Investigation units - border posts",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 54.3,
+      "IsCritical": true,
+      "Products": [
+        "organized crime"
+      ],
+      "AnnualSpend": 980346.86
+    },
+    {
+      "Id": "050961e0-0f1b-1d0c-066b-00a4816923ef",
+      "Name": "Criminal networks - Livingstone",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 61.9,
+      "IsCritical": true,
+      "Products": [
+        "law enforcement"
+      ],
+      "AnnualSpend": 4986479.67
+    },
+    {
+      "Id": "00a618ac-1eb2-14f1-1ff7-009a80b2c890",
+      "Name": "Investigation units - Lusaka",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 43.8,
+      "IsCritical": false,
+      "Products": [
+        "copper theft"
+      ],
+      "AnnualSpend": 9036573.99
+    },
+    {
+      "Id": "00a4e383-1be4-1b4a-1166-00904c90e35a",
+      "Name": "Investigation units - Ndola",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 65.8,
+      "IsCritical": true,
+      "Products": [
+        "law enforcement"
+      ],
+      "AnnualSpend": 9883731.79
+    },
+    {
+      "Id": "03777160-0bd2-0d1b-24f9-0062c67666e0",
+      "Name": "Investigation units - Ndola",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 41.6,
+      "IsCritical": true,
+      "Products": [
+        "copper theft"
+      ],
+      "AnnualSpend": 6175955.65
+    },
+    {
+      "Id": "027cbd81-23e6-098e-201e-001a39e7af3a",
+      "Name": "Suspects - Ndola",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 85.3,
+      "IsCritical": false,
+      "Products": [
+        "copper theft"
+      ],
+      "AnnualSpend": 1846330.18
+    },
+    {
+      "Id": "0495548b-2382-19fc-1e6c-00c84f914245",
+      "Name": "Investigation units - Kitwe",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 92.9,
+      "IsCritical": true,
+      "Products": [
+        "copper theft"
+      ],
+      "AnnualSpend": 7000754.9
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "034550a4-2276-1049-14ce-00e476010a41",
+      "FromSupplierId": "051022e3-1db5-1816-09e2-00cb66519d1f",
+      "ToSupplierId": "0389a115-1034-18bf-1465-00e200c69c3a",
+      "Type": "partnership",
+      "DependencyLevel": 0.88,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "02e88bd5-1af9-03fd-0dbf-00df50312065",
+      "FromSupplierId": "00ea9b7b-1e20-14ed-0806-0050a146e272",
+      "ToSupplierId": "04fc0bc2-0feb-1b7d-1441-00632648e36b",
+      "Type": "partnership",
+      "DependencyLevel": 0.61,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0482e161-0a14-2635-13f7-009595297164",
+      "FromSupplierId": "00f8a68a-1be1-1680-25f5-00dec35ed9c0",
+      "ToSupplierId": "05f48693-127d-1826-1c19-003a8bcee06e",
+      "Type": "partnership",
+      "DependencyLevel": 0.83,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0477608b-1d99-24d1-2192-00858f16b223",
+      "FromSupplierId": "03d9f6a7-2483-2562-23c7-0031e606fd5f",
+      "ToSupplierId": "00f8a68a-1be1-1680-25f5-00dec35ed9c0",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.74,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "059a8a7c-1fa8-2144-217e-003eee15082f",
+      "FromSupplierId": "02a9f45e-1e65-16e9-2239-00770857c192",
+      "ToSupplierId": "03777160-0bd2-0d1b-24f9-0062c67666e0",
+      "Type": "partnership",
+      "DependencyLevel": 0.65,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04b5d160-1275-06ef-140b-00681f241598",
+      "FromSupplierId": "02fe65ae-1560-1708-14e9-00a3fdf7db34",
+      "ToSupplierId": "02bce09d-0f4c-1533-1dcc-00c5544d4a5b",
+      "Type": "partnership",
+      "DependencyLevel": 0.56,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04f6f546-0793-1cdf-26cd-00614801b3b7",
+      "FromSupplierId": "013df11d-1af9-15de-0677-009bf9585e85",
+      "ToSupplierId": "00f8a68a-1be1-1680-25f5-00dec35ed9c0",
+      "Type": "partnership",
+      "DependencyLevel": 0.73,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04863bae-1cf3-20c9-0af2-001c81d258ea",
+      "FromSupplierId": "04b0a9e4-171c-1451-189e-0038fe681bac",
+      "ToSupplierId": "0345014b-1f7d-2046-08ea-00bd5ec58d98",
+      "Type": "supplies",
+      "DependencyLevel": 0.41,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03a5caf0-0c1f-235b-24c6-0063f6839a1a",
+      "FromSupplierId": "019dc2a1-1bae-26fe-1d34-0063fff64f4e",
+      "ToSupplierId": "00f8a68a-1be1-1680-25f5-00dec35ed9c0",
+      "Type": "supplies",
+      "DependencyLevel": 0.41,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "019bd854-2153-1887-0cba-0041e3d5ac3e",
+      "FromSupplierId": "05f48693-127d-1826-1c19-003a8bcee06e",
+      "ToSupplierId": "01baeee0-1061-0462-1a12-0043989990e6",
+      "Type": "partnership",
+      "DependencyLevel": 0.64,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0123ff7e-25fa-03f5-13d3-003887a1f38f",
+      "FromSupplierId": "05f2f0bb-1dac-0668-1a6e-0070cb1480db",
+      "ToSupplierId": "050961e0-0f1b-1d0c-066b-00a4816923ef",
+      "Type": "partnership",
+      "DependencyLevel": 0.56,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "021b3e9c-06d2-1cf6-216b-0099cbcf6909",
+      "FromSupplierId": "0136e6e0-1f52-1370-0ba6-00cf2f3fbd53",
+      "ToSupplierId": "0389a115-1034-18bf-1465-00e200c69c3a",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.52,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04d756d5-115a-126d-0fb0-00b28c705af8",
+      "FromSupplierId": "02bce09d-0f4c-1533-1dcc-00c5544d4a5b",
+      "ToSupplierId": "019dc2a1-1bae-26fe-1d34-0063fff64f4e",
+      "Type": "supplies",
+      "DependencyLevel": 0.77,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04abdabc-1d77-266c-1b13-00661ca56917",
+      "FromSupplierId": "03742cb7-04d2-1582-0a87-0052c47ed333",
+      "ToSupplierId": "04fc0bc2-0feb-1b7d-1441-00632648e36b",
+      "Type": "partnership",
+      "DependencyLevel": 0.69,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "01e4f1de-240a-0f0b-2270-008ba5e4f5ae",
+      "FromSupplierId": "04b0a9e4-171c-1451-189e-0038fe681bac",
+      "ToSupplierId": "0524f69f-19f1-2023-1b8d-006c50f375ad",
+      "Type": "supplies",
+      "DependencyLevel": 0.63,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00f181d2-2288-1195-0505-0095f36ef80b",
+      "FromSupplierId": "036a5142-1aee-0eb3-25cc-0086565547ae",
+      "ToSupplierId": "02146a74-089c-18bc-1024-00b610a71fea",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.69,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "037d2c6c-0565-1912-0598-0099bedbc4bd",
+      "FromSupplierId": "0345014b-1f7d-2046-08ea-00bd5ec58d98",
+      "ToSupplierId": "0342056f-1a7c-0684-061d-0023704b036c",
+      "Type": "supplies",
+      "DependencyLevel": 0.57,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "045aa910-1173-181b-1c24-00e417fe11d8",
+      "FromSupplierId": "03d05479-1b7d-1752-1f17-00856704c46e",
+      "ToSupplierId": "03ca9682-0f0e-171f-0706-005fe4264d19",
+      "Type": "supplies",
+      "DependencyLevel": 0.7,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0506c2c8-14ab-156c-0fba-008d1cc9e600",
+      "FromSupplierId": "027cbd81-23e6-098e-201e-001a39e7af3a",
+      "ToSupplierId": "00a618ac-1eb2-14f1-1ff7-009a80b2c890",
+      "Type": "partnership",
+      "DependencyLevel": 0.57,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "02265f07-1202-1718-17fa-008e14d02113",
+      "FromSupplierId": "0321a9a5-1cf0-191e-2364-00d51f8f6533",
+      "ToSupplierId": "0389a115-1034-18bf-1465-00e200c69c3a",
+      "Type": "partnership",
+      "DependencyLevel": 0.49,
+      "IsCriticalPath": false
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "operational",
+      "Description": "Concentration of organized crime in Livingstone",
+      "ConcentrationLevel": 80.9,
+      "AffectedSuppliers": [
+        "Criminal networks - Kitwe",
+        "Crime syndicates - Ndola",
+        "Investigation units - Lusaka"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "0400b112-19b9-0c8d-1bf5-00c76d5041a7",
+      "SupplierId": "0498b869-137b-0d0b-20d7-00ccbede10f8",
+      "SupplierName": "Investigation units - Lusaka",
+      "RiskType": "financial",
+      "Severity": "medium",
+      "Description": "Risk detected in law enforcement operations",
+      "DetectedAt": "2026-01-07T17:30:31Z",
+      "IsAcknowledged": true,
+      "AffectedDownstreamSuppliers": [
+        "00f8a68a-1be1-1680-25f5-00dec35ed9c0",
+        "0316dffd-2206-0d2d-1cf5-00871b5b4b27"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 26,
+    "HighRiskSuppliers": 16,
+    "AverageRiskScore": 66.5,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

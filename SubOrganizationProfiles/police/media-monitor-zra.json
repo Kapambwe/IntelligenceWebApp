@@ -1,0 +1,1445 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "04df45ba-0e02-0f67-17e5-005df668e978",
+      "Title": "Zambia Police Service arrest drug trafficking",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/9557",
+      "PublishedDate": "2025-11-21T17:30:31Z",
+      "PublishedAt": "2025-11-23T17:30:31Z",
+      "DiscoveredAt": "2026-01-01T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Intelligence gathering reveals criminal investigations in border posts",
+      "RelatedEntities": [
+        "Suspects - Kitwe"
+      ],
+      "Entities": [
+        "Suspects - Kitwe"
+      ],
+      "Keywords": [
+        "criminal investigations",
+        "law enforcement",
+        "organized crime"
+      ],
+      "RelevanceScore": 90.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "016dc761-0795-1e48-1939-005b844b6c50",
+      "Title": "Zambia Police Service crime prevention organized crime",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/4739",
+      "PublishedDate": "2025-10-31T17:30:31Z",
+      "PublishedAt": "2026-01-02T17:30:31Z",
+      "DiscoveredAt": "2025-12-19T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Investigation reveals organized crime in Livingstone",
+      "RelatedEntities": [
+        "Suspects - Livingstone"
+      ],
+      "Entities": [
+        "Suspects - Livingstone"
+      ],
+      "Keywords": [
+        "drug trafficking",
+        "copper theft",
+        "law enforcement"
+      ],
+      "RelevanceScore": 90.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0396e28d-13fc-10e5-1b34-00add3884dee",
+      "Title": "Zambia Police Service investigation organized crime",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/9858",
+      "PublishedDate": "2025-11-18T17:30:31Z",
+      "PublishedAt": "2026-01-17T17:30:31Z",
+      "DiscoveredAt": "2026-01-10T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Prosecution reveals law enforcement in Kitwe",
+      "RelatedEntities": [
+        "Suspects - Kitwe"
+      ],
+      "Entities": [
+        "Suspects - Kitwe"
+      ],
+      "Keywords": [
+        "organized crime",
+        "law enforcement",
+        "criminal investigations"
+      ],
+      "RelevanceScore": 92.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00e953e7-2610-160a-04c2-005dda745f6a",
+      "Title": "Zambia Police Service crime prevention copper theft",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/1455",
+      "PublishedDate": "2025-12-03T17:30:31Z",
+      "PublishedAt": "2025-12-12T17:30:31Z",
+      "DiscoveredAt": "2025-12-24T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Intelligence gathering reveals copper theft in border posts",
+      "RelatedEntities": [
+        "Investigation units - Livingstone"
+      ],
+      "Entities": [
+        "Investigation units - Livingstone"
+      ],
+      "Keywords": [
+        "organized crime",
+        "law enforcement",
+        "criminal investigations"
+      ],
+      "RelevanceScore": 61.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "035f586f-23f0-0f42-0aa7-00da062b6279",
+      "Title": "Zambia Police Service intelligence gathering criminal investigations",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/4774",
+      "PublishedDate": "2025-11-17T17:30:31Z",
+      "PublishedAt": "2025-11-16T17:30:31Z",
+      "DiscoveredAt": "2025-12-07T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Crime prevention reveals organized crime in Lusaka",
+      "RelatedEntities": [
+        "Criminal networks - Lusaka"
+      ],
+      "Entities": [
+        "Criminal networks - Lusaka"
+      ],
+      "Keywords": [
+        "drug trafficking",
+        "copper theft",
+        "organized crime"
+      ],
+      "RelevanceScore": 83.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03d02f82-1743-0630-0552-009987e35dff",
+      "Title": "Zambia Police Service prosecution drug trafficking",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/4804",
+      "PublishedDate": "2025-12-07T17:30:31Z",
+      "PublishedAt": "2025-11-11T17:30:31Z",
+      "DiscoveredAt": "2025-10-23T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Prosecution reveals criminal investigations in Livingstone",
+      "RelatedEntities": [
+        "Suspects - Lusaka"
+      ],
+      "Entities": [
+        "Suspects - Lusaka"
+      ],
+      "Keywords": [
+        "criminal investigations",
+        "law enforcement",
+        "organized crime"
+      ],
+      "RelevanceScore": 76.7,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0481ed43-1be4-11a9-1297-00585c5aa837",
+      "Title": "Zambia Police Service intelligence gathering law enforcement",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/2259",
+      "PublishedDate": "2026-01-05T17:30:31Z",
+      "PublishedAt": "2025-12-04T17:30:31Z",
+      "DiscoveredAt": "2025-12-13T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Arrest reveals copper theft in border posts",
+      "RelatedEntities": [
+        "Criminal networks - Ndola"
+      ],
+      "Entities": [
+        "Criminal networks - Ndola"
+      ],
+      "Keywords": [
+        "law enforcement",
+        "organized crime",
+        "drug trafficking"
+      ],
+      "RelevanceScore": 73.2,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01e870c1-26c3-22cf-0dd0-005893e46791",
+      "Title": "Zambia Police Service arrest copper theft",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/4146",
+      "PublishedDate": "2025-12-31T17:30:31Z",
+      "PublishedAt": "2025-12-26T17:30:31Z",
+      "DiscoveredAt": "2025-12-06T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Intelligence gathering reveals criminal investigations in Ndola",
+      "RelatedEntities": [
+        "Suspects - border posts"
+      ],
+      "Entities": [
+        "Suspects - border posts"
+      ],
+      "Keywords": [
+        "law enforcement",
+        "drug trafficking",
+        "copper theft"
+      ],
+      "RelevanceScore": 61.8,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "011d71d6-0a74-041b-26b0-00502b365eea",
+      "Title": "Zambia Police Service crime prevention copper theft",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/9265",
+      "PublishedDate": "2025-11-07T17:30:31Z",
+      "PublishedAt": "2025-12-29T17:30:31Z",
+      "DiscoveredAt": "2025-11-23T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Crime prevention reveals law enforcement in Ndola",
+      "RelatedEntities": [
+        "Crime syndicates - border posts"
+      ],
+      "Entities": [
+        "Crime syndicates - border posts"
+      ],
+      "Keywords": [
+        "law enforcement",
+        "drug trafficking",
+        "criminal investigations"
+      ],
+      "RelevanceScore": 66.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03d8b046-20ab-0492-100b-00741b88f710",
+      "Title": "Zambia Police Service prosecution copper theft",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/4700",
+      "PublishedDate": "2025-11-12T17:30:31Z",
+      "PublishedAt": "2026-01-16T17:30:31Z",
+      "DiscoveredAt": "2025-12-14T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Prosecution reveals law enforcement in border posts",
+      "RelatedEntities": [
+        "Criminal networks - border posts"
+      ],
+      "Entities": [
+        "Criminal networks - border posts"
+      ],
+      "Keywords": [
+        "criminal investigations",
+        "drug trafficking",
+        "law enforcement"
+      ],
+      "RelevanceScore": 78.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "017c2644-0e00-0f30-0448-00767411cc64",
+      "Title": "Zambia Police Service prosecution drug trafficking",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/7019",
+      "PublishedDate": "2026-01-17T17:30:31Z",
+      "PublishedAt": "2025-10-24T17:30:31Z",
+      "DiscoveredAt": "2025-11-11T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Investigation reveals criminal investigations in border posts",
+      "RelatedEntities": [
+        "Suspects - Kitwe"
+      ],
+      "Entities": [
+        "Suspects - Kitwe"
+      ],
+      "Keywords": [
+        "organized crime",
+        "criminal investigations",
+        "law enforcement"
+      ],
+      "RelevanceScore": 72.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02cfbaa7-21e6-1944-1c96-00d88ceb946f",
+      "Title": "Zambia Police Service prosecution organized crime",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/9338",
+      "PublishedDate": "2025-12-28T17:30:31Z",
+      "PublishedAt": "2025-10-22T17:30:31Z",
+      "DiscoveredAt": "2025-10-25T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Crime prevention reveals drug trafficking in Lusaka",
+      "RelatedEntities": [
+        "Crime syndicates - Lusaka"
+      ],
+      "Entities": [
+        "Crime syndicates - Lusaka"
+      ],
+      "Keywords": [
+        "criminal investigations",
+        "copper theft",
+        "drug trafficking"
+      ],
+      "RelevanceScore": 77.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0249093e-17c6-145c-043c-0040a75a4cf4",
+      "Title": "Zambia Police Service prosecution law enforcement",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/5433",
+      "PublishedDate": "2025-11-27T17:30:31Z",
+      "PublishedAt": "2025-12-18T17:30:31Z",
+      "DiscoveredAt": "2025-11-30T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Crime prevention reveals copper theft in border posts",
+      "RelatedEntities": [
+        "Investigation units - Kitwe"
+      ],
+      "Entities": [
+        "Investigation units - Kitwe"
+      ],
+      "Keywords": [
+        "law enforcement",
+        "organized crime",
+        "drug trafficking"
+      ],
+      "RelevanceScore": 65.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "038cdb17-218e-0c29-223c-00ae1880901a",
+      "Title": "Zambia Police Service investigation organized crime",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/8730",
+      "PublishedDate": "2025-12-13T17:30:31Z",
+      "PublishedAt": "2025-10-27T17:30:31Z",
+      "DiscoveredAt": "2026-01-14T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Prosecution reveals criminal investigations in Lusaka",
+      "RelatedEntities": [
+        "Criminal networks - Livingstone"
+      ],
+      "Entities": [
+        "Criminal networks - Livingstone"
+      ],
+      "Keywords": [
+        "law enforcement",
+        "organized crime",
+        "copper theft"
+      ],
+      "RelevanceScore": 78.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0442e00f-211d-2453-1479-006a80c81a99",
+      "Title": "Zambia Police Service crime prevention organized crime",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/2127",
+      "PublishedDate": "2025-12-29T17:30:31Z",
+      "PublishedAt": "2026-01-16T17:30:31Z",
+      "DiscoveredAt": "2025-11-13T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Crime prevention reveals criminal investigations in border posts",
+      "RelatedEntities": [
+        "Criminal networks - Livingstone"
+      ],
+      "Entities": [
+        "Criminal networks - Livingstone"
+      ],
+      "Keywords": [
+        "law enforcement",
+        "drug trafficking",
+        "copper theft"
+      ],
+      "RelevanceScore": 78.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "019640a9-2012-0a72-1905-00a195f88734",
+      "Title": "Zambia Police Service crime prevention criminal investigations",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/6998",
+      "PublishedDate": "2025-11-28T17:30:31Z",
+      "PublishedAt": "2025-11-10T17:30:31Z",
+      "DiscoveredAt": "2025-12-23T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Arrest reveals drug trafficking in Lusaka",
+      "RelatedEntities": [
+        "Investigation units - Lusaka"
+      ],
+      "Entities": [
+        "Investigation units - Lusaka"
+      ],
+      "Keywords": [
+        "organized crime",
+        "drug trafficking",
+        "criminal investigations"
+      ],
+      "RelevanceScore": 79.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "054ce156-177a-06ac-1acb-00c6c2c27a86",
+      "Title": "Zambia Police Service intelligence gathering criminal investigations",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/5198",
+      "PublishedDate": "2025-12-26T17:30:31Z",
+      "PublishedAt": "2025-10-21T17:30:31Z",
+      "DiscoveredAt": "2025-10-27T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Crime prevention reveals law enforcement in border posts",
+      "RelatedEntities": [
+        "Criminal networks - border posts"
+      ],
+      "Entities": [
+        "Criminal networks - border posts"
+      ],
+      "Keywords": [
+        "law enforcement",
+        "drug trafficking",
+        "copper theft"
+      ],
+      "RelevanceScore": 61.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02bbb5f0-0a62-21ae-1b85-0022921f9c8e",
+      "Title": "Zambia Police Service arrest criminal investigations",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/6539",
+      "PublishedDate": "2025-12-05T17:30:31Z",
+      "PublishedAt": "2026-01-13T17:30:31Z",
+      "DiscoveredAt": "2025-11-14T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Investigation reveals drug trafficking in Livingstone",
+      "RelatedEntities": [
+        "Suspects - Lusaka"
+      ],
+      "Entities": [
+        "Suspects - Lusaka"
+      ],
+      "Keywords": [
+        "organized crime",
+        "drug trafficking",
+        "copper theft"
+      ],
+      "RelevanceScore": 60.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00eb5e3a-0cf5-14dc-1aa6-005bd499bb6e",
+      "Title": "Zambia Police Service investigation drug trafficking",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/9849",
+      "PublishedDate": "2025-12-22T17:30:31Z",
+      "PublishedAt": "2026-01-11T17:30:31Z",
+      "DiscoveredAt": "2025-12-07T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Investigation reveals criminal investigations in border posts",
+      "RelatedEntities": [
+        "Criminal networks - Lusaka"
+      ],
+      "Entities": [
+        "Criminal networks - Lusaka"
+      ],
+      "Keywords": [
+        "criminal investigations",
+        "law enforcement",
+        "copper theft"
+      ],
+      "RelevanceScore": 69.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03f97275-1413-15f1-2329-00af1ba2f395",
+      "Title": "Zambia Police Service arrest law enforcement",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/6404",
+      "PublishedDate": "2025-12-25T17:30:31Z",
+      "PublishedAt": "2025-11-07T17:30:31Z",
+      "DiscoveredAt": "2025-11-29T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Crime prevention reveals drug trafficking in border posts",
+      "RelatedEntities": [
+        "Suspects - Kitwe"
+      ],
+      "Entities": [
+        "Suspects - Kitwe"
+      ],
+      "Keywords": [
+        "organized crime",
+        "criminal investigations",
+        "copper theft"
+      ],
+      "RelevanceScore": 79.6,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "022f7289-167f-10a1-061c-00d35db499c5",
+      "Title": "Zambia Police Service prosecution organized crime",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/4292",
+      "PublishedDate": "2025-12-09T17:30:31Z",
+      "PublishedAt": "2025-11-19T17:30:31Z",
+      "DiscoveredAt": "2025-11-21T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Arrest reveals law enforcement in Lusaka",
+      "RelatedEntities": [
+        "Crime syndicates - border posts"
+      ],
+      "Entities": [
+        "Crime syndicates - border posts"
+      ],
+      "Keywords": [
+        "criminal investigations",
+        "organized crime",
+        "law enforcement"
+      ],
+      "RelevanceScore": 67.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04948088-22ef-0a12-1746-00a091dd77db",
+      "Title": "Zambia Police Service investigation criminal investigations",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/5325",
+      "PublishedDate": "2025-12-17T17:30:31Z",
+      "PublishedAt": "2025-10-25T17:30:31Z",
+      "DiscoveredAt": "2026-01-17T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Intelligence gathering reveals copper theft in Livingstone",
+      "RelatedEntities": [
+        "Crime syndicates - border posts"
+      ],
+      "Entities": [
+        "Crime syndicates - border posts"
+      ],
+      "Keywords": [
+        "criminal investigations",
+        "law enforcement",
+        "copper theft"
+      ],
+      "RelevanceScore": 88.5,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01280a72-13a7-0c16-0a80-00d489bf8f70",
+      "Title": "Zambia Police Service investigation copper theft",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/2810",
+      "PublishedDate": "2025-10-26T17:30:31Z",
+      "PublishedAt": "2025-11-08T17:30:31Z",
+      "DiscoveredAt": "2025-10-22T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Intelligence gathering reveals drug trafficking in Ndola",
+      "RelatedEntities": [
+        "Suspects - border posts"
+      ],
+      "Entities": [
+        "Suspects - border posts"
+      ],
+      "Keywords": [
+        "law enforcement",
+        "drug trafficking",
+        "copper theft"
+      ],
+      "RelevanceScore": 94.7,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "049c1a4d-17af-19f0-0ff9-006946c59085",
+      "Title": "Zambia Police Service prosecution organized crime",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/2105",
+      "PublishedDate": "2025-12-04T17:30:31Z",
+      "PublishedAt": "2025-12-21T17:30:31Z",
+      "DiscoveredAt": "2025-10-24T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Prosecution reveals law enforcement in Livingstone",
+      "RelatedEntities": [
+        "Crime syndicates - Lusaka"
+      ],
+      "Entities": [
+        "Crime syndicates - Lusaka"
+      ],
+      "Keywords": [
+        "organized crime",
+        "copper theft",
+        "law enforcement"
+      ],
+      "RelevanceScore": 80.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00cd6d1a-0489-0452-216d-0044385b70c6",
+      "Title": "Zambia Police Service prosecution criminal investigations",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/3265",
+      "PublishedDate": "2026-01-15T17:30:31Z",
+      "PublishedAt": "2025-12-09T17:30:31Z",
+      "DiscoveredAt": "2025-11-16T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Prosecution reveals law enforcement in Ndola",
+      "RelatedEntities": [
+        "Crime syndicates - Lusaka"
+      ],
+      "Entities": [
+        "Crime syndicates - Lusaka"
+      ],
+      "Keywords": [
+        "organized crime",
+        "drug trafficking",
+        "criminal investigations"
+      ],
+      "RelevanceScore": 68.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01ef7ef3-22a8-1c4b-0698-0070b1a44071",
+      "Title": "Zambia Police Service intelligence gathering organized crime",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/9278",
+      "PublishedDate": "2025-11-30T17:30:31Z",
+      "PublishedAt": "2025-12-18T17:30:31Z",
+      "DiscoveredAt": "2026-01-06T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Investigation reveals copper theft in Lusaka",
+      "RelatedEntities": [
+        "Suspects - border posts"
+      ],
+      "Entities": [
+        "Suspects - border posts"
+      ],
+      "Keywords": [
+        "law enforcement",
+        "criminal investigations",
+        "drug trafficking"
+      ],
+      "RelevanceScore": 92.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0504aeac-09d4-1c8b-2390-0039f52932b2",
+      "Title": "Zambia Police Service investigation copper theft",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/2422",
+      "PublishedDate": "2025-10-26T17:30:31Z",
+      "PublishedAt": "2025-11-02T17:30:31Z",
+      "DiscoveredAt": "2025-11-03T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Crime prevention reveals law enforcement in Lusaka",
+      "RelatedEntities": [
+        "Investigation units - Lusaka"
+      ],
+      "Entities": [
+        "Investigation units - Lusaka"
+      ],
+      "Keywords": [
+        "organized crime",
+        "criminal investigations",
+        "drug trafficking"
+      ],
+      "RelevanceScore": 80.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0186d492-1437-1406-25bb-00b6cdc52853",
+      "Title": "Zambia Police Service investigation criminal investigations",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/3390",
+      "PublishedDate": "2025-11-13T17:30:31Z",
+      "PublishedAt": "2025-11-17T17:30:31Z",
+      "DiscoveredAt": "2025-12-07T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Arrest reveals law enforcement in Lusaka",
+      "RelatedEntities": [
+        "Investigation units - Lusaka"
+      ],
+      "Entities": [
+        "Investigation units - Lusaka"
+      ],
+      "Keywords": [
+        "organized crime",
+        "copper theft",
+        "drug trafficking"
+      ],
+      "RelevanceScore": 88.7,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0351a80e-09dc-2594-1a11-0044c3c4ccdf",
+      "Title": "Zambia Police Service intelligence gathering organized crime",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/6278",
+      "PublishedDate": "2025-12-10T17:30:31Z",
+      "PublishedAt": "2025-10-28T17:30:31Z",
+      "DiscoveredAt": "2025-10-25T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Arrest reveals organized crime in Ndola",
+      "RelatedEntities": [
+        "Criminal networks - Livingstone"
+      ],
+      "Entities": [
+        "Criminal networks - Livingstone"
+      ],
+      "Keywords": [
+        "law enforcement",
+        "drug trafficking",
+        "criminal investigations"
+      ],
+      "RelevanceScore": 67.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "016aae3f-0b1a-10fb-0dbf-00324c2858b8",
+      "Title": "Zambia Police Service intelligence gathering criminal investigations",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/3779",
+      "PublishedDate": "2025-11-26T17:30:31Z",
+      "PublishedAt": "2025-11-19T17:30:31Z",
+      "DiscoveredAt": "2025-10-27T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Investigation reveals drug trafficking in border posts",
+      "RelatedEntities": [
+        "Investigation units - Ndola"
+      ],
+      "Entities": [
+        "Investigation units - Ndola"
+      ],
+      "Keywords": [
+        "copper theft",
+        "organized crime",
+        "criminal investigations"
+      ],
+      "RelevanceScore": 73.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04efa28d-0896-2501-1136-008266162353",
+      "Title": "Zambia Police Service investigation copper theft",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/4029",
+      "PublishedDate": "2025-10-24T17:30:31Z",
+      "PublishedAt": "2026-01-06T17:30:31Z",
+      "DiscoveredAt": "2025-10-31T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Crime prevention reveals copper theft in Kitwe",
+      "RelatedEntities": [
+        "Suspects - Lusaka"
+      ],
+      "Entities": [
+        "Suspects - Lusaka"
+      ],
+      "Keywords": [
+        "organized crime",
+        "copper theft",
+        "law enforcement"
+      ],
+      "RelevanceScore": 82.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05b2b715-0f1b-1e81-1e6e-00bfc2c2b458",
+      "Title": "Zambia Police Service prosecution drug trafficking",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/1681",
+      "PublishedDate": "2025-11-02T17:30:31Z",
+      "PublishedAt": "2025-11-02T17:30:31Z",
+      "DiscoveredAt": "2025-11-04T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Intelligence gathering reveals criminal investigations in border posts",
+      "RelatedEntities": [
+        "Suspects - Kitwe"
+      ],
+      "Entities": [
+        "Suspects - Kitwe"
+      ],
+      "Keywords": [
+        "copper theft",
+        "criminal investigations",
+        "organized crime"
+      ],
+      "RelevanceScore": 69.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "020ea312-1626-0b9d-208b-0041b82d98ef",
+      "Title": "Zambia Police Service intelligence gathering organized crime",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/4782",
+      "PublishedDate": "2025-11-23T17:30:31Z",
+      "PublishedAt": "2025-11-26T17:30:31Z",
+      "DiscoveredAt": "2026-01-18T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Intelligence gathering reveals drug trafficking in Lusaka",
+      "RelatedEntities": [
+        "Suspects - Kitwe"
+      ],
+      "Entities": [
+        "Suspects - Kitwe"
+      ],
+      "Keywords": [
+        "drug trafficking",
+        "law enforcement",
+        "copper theft"
+      ],
+      "RelevanceScore": 68.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "014b34bc-1cf0-084c-0b01-00e69f1c509f",
+      "Title": "Zambia Police Service crime prevention law enforcement",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/8084",
+      "PublishedDate": "2025-11-03T17:30:31Z",
+      "PublishedAt": "2026-01-02T17:30:31Z",
+      "DiscoveredAt": "2025-11-05T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Arrest reveals copper theft in Livingstone",
+      "RelatedEntities": [
+        "Crime syndicates - border posts"
+      ],
+      "Entities": [
+        "Crime syndicates - border posts"
+      ],
+      "Keywords": [
+        "organized crime",
+        "drug trafficking",
+        "law enforcement"
+      ],
+      "RelevanceScore": 66.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "029d3df0-1b80-064b-0487-00e15d7152a2",
+      "Title": "Zambia Police Service crime prevention drug trafficking",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/9886",
+      "PublishedDate": "2025-10-30T17:30:31Z",
+      "PublishedAt": "2025-12-02T17:30:31Z",
+      "DiscoveredAt": "2025-12-14T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Intelligence gathering reveals copper theft in Livingstone",
+      "RelatedEntities": [
+        "Investigation units - Lusaka"
+      ],
+      "Entities": [
+        "Investigation units - Lusaka"
+      ],
+      "Keywords": [
+        "law enforcement",
+        "organized crime",
+        "criminal investigations"
+      ],
+      "RelevanceScore": 62.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00be094d-05a6-1640-1f67-002f4ade6ce9",
+      "Title": "Zambia Police Service arrest law enforcement",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/7241",
+      "PublishedDate": "2026-01-18T17:30:31Z",
+      "PublishedAt": "2025-11-16T17:30:31Z",
+      "DiscoveredAt": "2026-01-04T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Investigation reveals organized crime in border posts",
+      "RelatedEntities": [
+        "Investigation units - border posts"
+      ],
+      "Entities": [
+        "Investigation units - border posts"
+      ],
+      "Keywords": [
+        "organized crime",
+        "law enforcement",
+        "criminal investigations"
+      ],
+      "RelevanceScore": 63.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04386b41-0ae1-2413-1006-00630d8246b6",
+      "Title": "Zambia Police Service prosecution criminal investigations",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/7009",
+      "PublishedDate": "2025-11-30T17:30:31Z",
+      "PublishedAt": "2025-10-29T17:30:31Z",
+      "DiscoveredAt": "2025-11-18T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Crime prevention reveals organized crime in Kitwe",
+      "RelatedEntities": [
+        "Investigation units - Kitwe"
+      ],
+      "Entities": [
+        "Investigation units - Kitwe"
+      ],
+      "Keywords": [
+        "drug trafficking",
+        "criminal investigations",
+        "copper theft"
+      ],
+      "RelevanceScore": 75.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01c76b70-1a2d-1e16-216e-005a3de5b49f",
+      "Title": "Zambia Police Service intelligence gathering law enforcement",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/5614",
+      "PublishedDate": "2026-01-03T17:30:31Z",
+      "PublishedAt": "2025-11-16T17:30:31Z",
+      "DiscoveredAt": "2026-01-18T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Crime prevention reveals drug trafficking in Kitwe",
+      "RelatedEntities": [
+        "Criminal networks - border posts"
+      ],
+      "Entities": [
+        "Criminal networks - border posts"
+      ],
+      "Keywords": [
+        "copper theft",
+        "law enforcement",
+        "organized crime"
+      ],
+      "RelevanceScore": 94.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00d04aec-175c-0ae2-1d29-004df2af68a5",
+      "Title": "Zambia Police Service intelligence gathering criminal investigations",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/9423",
+      "PublishedDate": "2025-11-29T17:30:31Z",
+      "PublishedAt": "2025-12-11T17:30:31Z",
+      "DiscoveredAt": "2025-11-01T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Crime prevention reveals criminal investigations in Livingstone",
+      "RelatedEntities": [
+        "Crime syndicates - border posts"
+      ],
+      "Entities": [
+        "Crime syndicates - border posts"
+      ],
+      "Keywords": [
+        "criminal investigations",
+        "copper theft",
+        "organized crime"
+      ],
+      "RelevanceScore": 69.0,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00af182d-1f25-252f-08a9-00b0fc903e65",
+      "Title": "Zambia Police Service crime prevention organized crime",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/5267",
+      "PublishedDate": "2025-12-11T17:30:31Z",
+      "PublishedAt": "2026-01-09T17:30:31Z",
+      "DiscoveredAt": "2025-10-29T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Arrest reveals criminal investigations in Lusaka",
+      "RelatedEntities": [
+        "Suspects - Lusaka"
+      ],
+      "Entities": [
+        "Suspects - Lusaka"
+      ],
+      "Keywords": [
+        "law enforcement",
+        "copper theft",
+        "drug trafficking"
+      ],
+      "RelevanceScore": 61.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05e7eaa6-0ca4-229e-0d8f-004e9736fae0",
+      "Title": "Zambia Police Service investigation organized crime",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/5367",
+      "PublishedDate": "2025-11-18T17:30:31Z",
+      "PublishedAt": "2026-01-04T17:30:31Z",
+      "DiscoveredAt": "2025-10-22T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Arrest reveals copper theft in Lusaka",
+      "RelatedEntities": [
+        "Criminal networks - border posts"
+      ],
+      "Entities": [
+        "Criminal networks - border posts"
+      ],
+      "Keywords": [
+        "copper theft",
+        "law enforcement",
+        "organized crime"
+      ],
+      "RelevanceScore": 65.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05151cbc-1c36-1581-0fc2-007af6477312",
+      "Title": "Zambia Police Service arrest organized crime",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/6464",
+      "PublishedDate": "2025-12-13T17:30:31Z",
+      "PublishedAt": "2025-12-01T17:30:31Z",
+      "DiscoveredAt": "2025-12-01T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Crime prevention reveals organized crime in Lusaka",
+      "RelatedEntities": [
+        "Investigation units - border posts"
+      ],
+      "Entities": [
+        "Investigation units - border posts"
+      ],
+      "Keywords": [
+        "copper theft",
+        "criminal investigations",
+        "law enforcement"
+      ],
+      "RelevanceScore": 62.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "050ac04e-1077-1d08-1a36-00787ec7f3e9",
+      "Title": "Zambia Police Service crime prevention law enforcement",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/9202",
+      "PublishedDate": "2026-01-08T17:30:31Z",
+      "PublishedAt": "2025-11-13T17:30:31Z",
+      "DiscoveredAt": "2025-12-17T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Arrest reveals organized crime in border posts",
+      "RelatedEntities": [
+        "Investigation units - border posts"
+      ],
+      "Entities": [
+        "Investigation units - border posts"
+      ],
+      "Keywords": [
+        "criminal investigations",
+        "organized crime",
+        "law enforcement"
+      ],
+      "RelevanceScore": 80.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01678d10-215e-1e0a-1876-008641e6ef79",
+      "Title": "Zambia Police Service intelligence gathering law enforcement",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/3916",
+      "PublishedDate": "2026-01-10T17:30:31Z",
+      "PublishedAt": "2025-12-27T17:30:31Z",
+      "DiscoveredAt": "2025-12-06T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Crime prevention reveals copper theft in Livingstone",
+      "RelatedEntities": [
+        "Investigation units - Livingstone"
+      ],
+      "Entities": [
+        "Investigation units - Livingstone"
+      ],
+      "Keywords": [
+        "copper theft",
+        "criminal investigations",
+        "drug trafficking"
+      ],
+      "RelevanceScore": 90.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04561a89-2400-16fb-057b-0040c1a27065",
+      "Title": "Zambia Police Service intelligence gathering criminal investigations",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/9352",
+      "PublishedDate": "2025-11-02T17:30:31Z",
+      "PublishedAt": "2025-11-06T17:30:31Z",
+      "DiscoveredAt": "2025-12-01T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Crime prevention reveals copper theft in Kitwe",
+      "RelatedEntities": [
+        "Suspects - Ndola"
+      ],
+      "Entities": [
+        "Suspects - Ndola"
+      ],
+      "Keywords": [
+        "law enforcement",
+        "drug trafficking",
+        "organized crime"
+      ],
+      "RelevanceScore": 94.5,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "046a100f-16ed-0b55-0dc7-007f78fd0f43",
+      "Title": "Zambia Police Service arrest drug trafficking",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/7418",
+      "PublishedDate": "2025-10-21T17:30:31Z",
+      "PublishedAt": "2026-01-11T17:30:31Z",
+      "DiscoveredAt": "2025-11-03T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Arrest reveals organized crime in border posts",
+      "RelatedEntities": [
+        "Crime syndicates - Livingstone"
+      ],
+      "Entities": [
+        "Crime syndicates - Livingstone"
+      ],
+      "Keywords": [
+        "copper theft",
+        "law enforcement",
+        "criminal investigations"
+      ],
+      "RelevanceScore": 73.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "009e7fb3-0e3a-1f45-260a-00910e14f92f",
+      "Title": "Zambia Police Service prosecution law enforcement",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/9706",
+      "PublishedDate": "2025-11-05T17:30:31Z",
+      "PublishedAt": "2025-11-02T17:30:31Z",
+      "DiscoveredAt": "2025-11-02T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Arrest reveals copper theft in Kitwe",
+      "RelatedEntities": [
+        "Investigation units - border posts"
+      ],
+      "Entities": [
+        "Investigation units - border posts"
+      ],
+      "Keywords": [
+        "criminal investigations",
+        "law enforcement",
+        "drug trafficking"
+      ],
+      "RelevanceScore": 71.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02846d5b-21fd-1c69-08c0-002423a2d6e2",
+      "Title": "Zambia Police Service arrest law enforcement",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/1353",
+      "PublishedDate": "2026-01-08T17:30:31Z",
+      "PublishedAt": "2026-01-07T17:30:31Z",
+      "DiscoveredAt": "2025-12-23T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Prosecution reveals organized crime in border posts",
+      "RelatedEntities": [
+        "Crime syndicates - Livingstone"
+      ],
+      "Entities": [
+        "Crime syndicates - Livingstone"
+      ],
+      "Keywords": [
+        "organized crime",
+        "drug trafficking",
+        "criminal investigations"
+      ],
+      "RelevanceScore": 89.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0250a5a3-2597-0a0d-15cb-0067a718215f",
+      "Title": "Zambia Police Service intelligence gathering organized crime",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/8735",
+      "PublishedDate": "2025-11-07T17:30:31Z",
+      "PublishedAt": "2025-11-08T17:30:31Z",
+      "DiscoveredAt": "2025-11-09T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Investigation reveals law enforcement in border posts",
+      "RelatedEntities": [
+        "Criminal networks - Kitwe"
+      ],
+      "Entities": [
+        "Criminal networks - Kitwe"
+      ],
+      "Keywords": [
+        "drug trafficking",
+        "law enforcement",
+        "criminal investigations"
+      ],
+      "RelevanceScore": 94.8,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04e9f9fc-05e8-18a9-2167-00581f00dce5",
+      "Title": "Zambia Police Service intelligence gathering copper theft",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/4535",
+      "PublishedDate": "2025-11-18T17:30:31Z",
+      "PublishedAt": "2025-11-13T17:30:31Z",
+      "DiscoveredAt": "2025-12-22T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Intelligence gathering reveals organized crime in border posts",
+      "RelatedEntities": [
+        "Criminal networks - border posts"
+      ],
+      "Entities": [
+        "Criminal networks - border posts"
+      ],
+      "Keywords": [
+        "organized crime",
+        "law enforcement",
+        "drug trafficking"
+      ],
+      "RelevanceScore": 65.1,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "035fa66d-11e6-1a4b-266a-004a6995812b",
+      "ArticleId": "00e953e7-2610-160a-04c2-005dda745f6a",
+      "EntityId": "04993c89-1642-1d88-0a68-0038fe361311",
+      "EntityName": "Investigation units - Livingstone",
+      "AlertReason": "Adverse media on law enforcement",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-22T17:30:31Z",
+      "TriggeredAt": "2025-11-05T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01e92126-192f-0f88-0d40-00b732f04ed3",
+      "ArticleId": "0442e00f-211d-2453-1479-006a80c81a99",
+      "EntityId": "038fa548-0dfb-1133-2268-00c850001e30",
+      "EntityName": "Criminal networks - Livingstone",
+      "AlertReason": "Adverse media on law enforcement",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-02T17:30:31Z",
+      "TriggeredAt": "2025-11-01T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "037a4570-0c1a-047d-08c3-008ea8b0f7a2",
+      "ArticleId": "02bbb5f0-0a62-21ae-1b85-0022921f9c8e",
+      "EntityId": "02c474df-1a10-052c-0fa0-0023596ca846",
+      "EntityName": "Suspects - Lusaka",
+      "AlertReason": "Adverse media on criminal investigations",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-25T17:30:31Z",
+      "TriggeredAt": "2026-01-11T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01b3bcac-1eb1-2152-0ad5-009eaecfa323",
+      "ArticleId": "00eb5e3a-0cf5-14dc-1aa6-005bd499bb6e",
+      "EntityId": "037bcede-061c-2574-1880-00e5a8829635",
+      "EntityName": "Criminal networks - Lusaka",
+      "AlertReason": "Adverse media on organized crime",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-07T17:30:31Z",
+      "TriggeredAt": "2025-11-04T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "010310f8-1135-04d5-17a9-00bbaf63a638",
+      "ArticleId": "022f7289-167f-10a1-061c-00d35db499c5",
+      "EntityId": "04d71126-145e-1cc9-1f3f-0079cd2d59e7",
+      "EntityName": "Crime syndicates - border posts",
+      "AlertReason": "Adverse media on criminal investigations",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-20T17:30:31Z",
+      "TriggeredAt": "2025-12-12T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0545ab99-1318-1518-1d97-005e7fe4f91b",
+      "ArticleId": "05b2b715-0f1b-1e81-1e6e-00bfc2c2b458",
+      "EntityId": "00bfa18d-0c42-1c26-165e-00abea29c3ab",
+      "EntityName": "Suspects - Kitwe",
+      "AlertReason": "Adverse media on organized crime",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-31T17:30:31Z",
+      "TriggeredAt": "2025-11-07T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "01f59be1-23be-0ef5-0dcf-004393949c50",
+      "ArticleId": "00d04aec-175c-0ae2-1d29-004df2af68a5",
+      "EntityId": "0354784f-1414-1348-1cdc-008a92df7116",
+      "EntityName": "Crime syndicates - border posts",
+      "AlertReason": "Adverse media on organized crime",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-08T17:30:31Z",
+      "TriggeredAt": "2026-01-17T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0347465d-1b32-0a10-12b0-006d60fc5134",
+      "ArticleId": "04561a89-2400-16fb-057b-0040c1a27065",
+      "EntityId": "02f5dd91-094d-1a21-143b-00d13fcc2c4e",
+      "EntityName": "Suspects - Ndola",
+      "AlertReason": "Adverse media on organized crime",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-14T17:30:31Z",
+      "TriggeredAt": "2026-01-10T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "012b0e2f-09d4-18bd-075c-0080643a9041",
+      "ArticleId": "0250a5a3-2597-0a0d-15cb-0067a718215f",
+      "EntityId": "027966a8-1bdc-13d0-0526-00a8b0f57eb1",
+      "EntityName": "Criminal networks - Kitwe",
+      "AlertReason": "Adverse media on law enforcement",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-30T17:30:31Z",
+      "TriggeredAt": "2026-01-07T17:30:31Z",
+      "IsAcknowledged": true
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "01f70195-1c27-0f48-22bb-00ac84e1bad1",
+      "EntityName": "Zambia Police Service",
+      "Keywords": [
+        "criminal investigations",
+        "organized crime",
+        "copper theft"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 28,
+    "HighRiskArticles": 16,
+    "ActiveAlerts": 9,
+    "MonitoredEntities": 6,
+    "ArticlesByCategory": {
+      "regulatory": 15,
+      "criminal": 11,
+      "financial": 7,
+      "political": 7
+    },
+    "ArticlesBySeverity": {
+      "high": 12,
+      "medium": 16,
+      "low": 12
+    }
+  }
+}

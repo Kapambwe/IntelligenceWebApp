@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "0553f4d0-06fd-1d9b-0d8c-00891e426d17",
+      "Name": "Government ministries - Eastern Province",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 60.8,
+      "IsCritical": false,
+      "Products": [
+        "procurement fraud"
+      ],
+      "AnnualSpend": 6964671.19
+    },
+    {
+      "Id": "05984d31-1dee-1d53-04a6-00b2ea19bb0a",
+      "Name": "Government ministries - Lusaka",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 85.7,
+      "IsCritical": true,
+      "Products": [
+        "audit findings"
+      ],
+      "AnnualSpend": 6856740.57
+    },
+    {
+      "Id": "0494d0f5-0f6e-26a4-17ef-00e3b4e20ee7",
+      "Name": "Public institutions - Lusaka",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 63.8,
+      "IsCritical": false,
+      "Products": [
+        "misappropriation"
+      ],
+      "AnnualSpend": 9827351.3
+    },
+    {
+      "Id": "00a3cf4e-1778-180f-1211-00d88224a6cb",
+      "Name": "Local authorities - Southern Province",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 77.5,
+      "IsCritical": true,
+      "Products": [
+        "financial irregularities"
+      ],
+      "AnnualSpend": 2391757.92
+    },
+    {
+      "Id": "034f7703-0ea6-09d4-190f-00e15aa09ec7",
+      "Name": "Public institutions - Eastern Province",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 53.1,
+      "IsCritical": false,
+      "Products": [
+        "audit findings"
+      ],
+      "AnnualSpend": 5410368.23
+    },
+    {
+      "Id": "036d7dea-0abd-1b07-129f-0041697b2926",
+      "Name": "Statutory bodies - Central Province",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 93.2,
+      "IsCritical": true,
+      "Products": [
+        "procurement fraud"
+      ],
+      "AnnualSpend": 2920901.74
+    },
+    {
+      "Id": "00f72972-12d8-22d1-131a-007eda74f8b2",
+      "Name": "Local authorities - Eastern Province",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 91.5,
+      "IsCritical": false,
+      "Products": [
+        "misappropriation"
+      ],
+      "AnnualSpend": 3893857.01
+    },
+    {
+      "Id": "035b2a3e-1deb-0b36-2371-00446281ff01",
+      "Name": "Public institutions - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 66.5,
+      "IsCritical": false,
+      "Products": [
+        "misappropriation"
+      ],
+      "AnnualSpend": 8758113.05
+    },
+    {
+      "Id": "01fc6d4c-12e2-09c1-228f-004ade84cb62",
+      "Name": "Government ministries - Southern Province",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 47.4,
+      "IsCritical": true,
+      "Products": [
+        "financial irregularities"
+      ],
+      "AnnualSpend": 1517619.16
+    },
+    {
+      "Id": "040c8095-06b6-04ee-1496-00b74f5a6ecb",
+      "Name": "Government ministries - Central Province",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 72.1,
+      "IsCritical": false,
+      "Products": [
+        "financial irregularities"
+      ],
+      "AnnualSpend": 7111794.07
+    },
+    {
+      "Id": "0159a213-20c2-2516-2004-0030376ee0e2",
+      "Name": "Government ministries - Central Province",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 92.7,
+      "IsCritical": false,
+      "Products": [
+        "misappropriation"
+      ],
+      "AnnualSpend": 8287250.72
+    },
+    {
+      "Id": "01249e66-1eda-1c35-0855-009f6802fb44",
+      "Name": "Local authorities - Southern Province",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 82.8,
+      "IsCritical": false,
+      "Products": [
+        "procurement fraud"
+      ],
+      "AnnualSpend": 2745887.54
+    },
+    {
+      "Id": "04479d1b-0ccf-132d-1352-00515ef56579",
+      "Name": "Local authorities - Copperbelt Province",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 85.6,
+      "IsCritical": true,
+      "Products": [
+        "procurement fraud"
+      ],
+      "AnnualSpend": 5699908.63
+    },
+    {
+      "Id": "023dda62-22b2-1078-1f84-00e036ce1a10",
+      "Name": "Statutory bodies - Central Province",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 50.2,
+      "IsCritical": true,
+      "Products": [
+        "procurement fraud"
+      ],
+      "AnnualSpend": 2287655.86
+    },
+    {
+      "Id": "0511fa02-215f-1e6d-2297-00d5c449a0f5",
+      "Name": "Government ministries - Eastern Province",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 55.9,
+      "IsCritical": false,
+      "Products": [
+        "procurement fraud"
+      ],
+      "AnnualSpend": 4666361.54
+    },
+    {
+      "Id": "02dfab58-114f-15c2-0d12-001eeae5ec1a",
+      "Name": "Public institutions - Central Province",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 90.4,
+      "IsCritical": false,
+      "Products": [
+        "financial irregularities"
+      ],
+      "AnnualSpend": 3413068.66
+    },
+    {
+      "Id": "044c6427-1e0b-1fdd-0c6c-00bda66d3b44",
+      "Name": "Statutory bodies - Central Province",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 76.8,
+      "IsCritical": true,
+      "Products": [
+        "audit findings"
+      ],
+      "AnnualSpend": 7005917.54
+    },
+    {
+      "Id": "05954caf-0f32-0f47-2477-008b38881797",
+      "Name": "Local authorities - Central Province",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 92.6,
+      "IsCritical": true,
+      "Products": [
+        "audit findings"
+      ],
+      "AnnualSpend": 8988896.58
+    },
+    {
+      "Id": "04c5d564-1e9a-1849-0bbf-008fd9ff0545",
+      "Name": "Public institutions - Southern Province",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 50.2,
+      "IsCritical": true,
+      "Products": [
+        "compliance"
+      ],
+      "AnnualSpend": 7005219.22
+    },
+    {
+      "Id": "0153243f-1e87-11f8-11f9-004a20b24bab",
+      "Name": "Government ministries - Copperbelt Province",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 58.6,
+      "IsCritical": true,
+      "Products": [
+        "compliance"
+      ],
+      "AnnualSpend": 1577819.21
+    },
+    {
+      "Id": "018ab6c8-2578-04b1-1cb7-006386971add",
+      "Name": "Government ministries - Eastern Province",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 55.0,
+      "IsCritical": true,
+      "Products": [
+        "procurement fraud"
+      ],
+      "AnnualSpend": 6782168.97
+    },
+    {
+      "Id": "00cc6d7a-132a-1995-1a13-0076e3e6c748",
+      "Name": "Government ministries - Copperbelt Province",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 83.6,
+      "IsCritical": true,
+      "Products": [
+        "audit findings"
+      ],
+      "AnnualSpend": 9022362.87
+    },
+    {
+      "Id": "0523d4c1-0d00-1a80-22c8-001d4ef9d87f",
+      "Name": "Public institutions - Eastern Province",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 81.1,
+      "IsCritical": true,
+      "Products": [
+        "misappropriation"
+      ],
+      "AnnualSpend": 4180312.44
+    },
+    {
+      "Id": "04c93964-10d6-10f5-0f29-0086522dbafe",
+      "Name": "Statutory bodies - Southern Province",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 66.0,
+      "IsCritical": true,
+      "Products": [
+        "financial irregularities"
+      ],
+      "AnnualSpend": 7444404.18
+    },
+    {
+      "Id": "01c5a49b-2613-0545-0764-0086a8964783",
+      "Name": "Statutory bodies - Central Province",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 44.9,
+      "IsCritical": false,
+      "Products": [
+        "misappropriation"
+      ],
+      "AnnualSpend": 2463775.61
+    },
+    {
+      "Id": "018e8454-1ed2-1553-20f1-00aa78daff04",
+      "Name": "Statutory bodies - Eastern Province",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 78.6,
+      "IsCritical": true,
+      "Products": [
+        "compliance"
+      ],
+      "AnnualSpend": 9217875.91
+    },
+    {
+      "Id": "04fd74a1-13e4-06ba-1f7b-00d6f24027bb",
+      "Name": "Government ministries - Copperbelt Province",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 76.5,
+      "IsCritical": false,
+      "Products": [
+        "audit findings"
+      ],
+      "AnnualSpend": 958908.39
+    },
+    {
+      "Id": "00ffb483-0686-245a-132d-0063c1c8eb52",
+      "Name": "Public institutions - Copperbelt Province",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 68.9,
+      "IsCritical": true,
+      "Products": [
+        "misappropriation"
+      ],
+      "AnnualSpend": 4571565.65
+    },
+    {
+      "Id": "023f130d-1f8f-2629-1661-00cf98d43393",
+      "Name": "Local authorities - Southern Province",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 61.7,
+      "IsCritical": true,
+      "Products": [
+        "misappropriation"
+      ],
+      "AnnualSpend": 5974787.94
+    },
+    {
+      "Id": "026d1bc0-1049-1815-18df-00656199ec18",
+      "Name": "Local authorities - Central Province",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 69.4,
+      "IsCritical": false,
+      "Products": [
+        "procurement fraud"
+      ],
+      "AnnualSpend": 9625549.73
+    },
+    {
+      "Id": "0551e111-2501-23a4-06ae-00750ef8a912",
+      "Name": "Public institutions - Central Province",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 52.8,
+      "IsCritical": false,
+      "Products": [
+        "compliance"
+      ],
+      "AnnualSpend": 626584.24
+    },
+    {
+      "Id": "01c5a80e-1c71-18f6-1a1b-0078493e4104",
+      "Name": "Government ministries - Eastern Province",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 68.0,
+      "IsCritical": false,
+      "Products": [
+        "procurement fraud"
+      ],
+      "AnnualSpend": 3357929.9
+    },
+    {
+      "Id": "02865566-0cf6-1edb-25be-002ed042943e",
+      "Name": "Public institutions - Central Province",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 73.4,
+      "IsCritical": false,
+      "Products": [
+        "compliance"
+      ],
+      "AnnualSpend": 6442605.44
+    },
+    {
+      "Id": "0254306d-21c8-1312-0681-004ad369df67",
+      "Name": "Public institutions - Southern Province",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 56.8,
+      "IsCritical": false,
+      "Products": [
+        "compliance"
+      ],
+      "AnnualSpend": 3946219.12
+    },
+    {
+      "Id": "0340894e-2171-1dce-04e5-0078dc435c5c",
+      "Name": "Local authorities - Southern Province",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 46.9,
+      "IsCritical": false,
+      "Products": [
+        "audit findings"
+      ],
+      "AnnualSpend": 7359115.95
+    },
+    {
+      "Id": "0162395b-174f-1d4f-0e3f-00befd8c5388",
+      "Name": "Statutory bodies - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 53.1,
+      "IsCritical": true,
+      "Products": [
+        "audit findings"
+      ],
+      "AnnualSpend": 9802340.8
+    },
+    {
+      "Id": "0256020a-1820-0e0b-228a-0022f70af142",
+      "Name": "Government ministries - Central Province",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 54.9,
+      "IsCritical": true,
+      "Products": [
+        "compliance"
+      ],
+      "AnnualSpend": 2821791.71
+    },
+    {
+      "Id": "054607dd-0621-17ec-1eb7-00dcf30fc13f",
+      "Name": "Government ministries - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 46.1,
+      "IsCritical": true,
+      "Products": [
+        "audit findings"
+      ],
+      "AnnualSpend": 8456768.84
+    },
+    {
+      "Id": "04a0cc96-195c-0964-1ae9-0047e643979c",
+      "Name": "Local authorities - Central Province",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 76.5,
+      "IsCritical": true,
+      "Products": [
+        "misappropriation"
+      ],
+      "AnnualSpend": 5107366.83
+    },
+    {
+      "Id": "03234fd8-16db-0e03-1564-00c5144df804",
+      "Name": "Statutory bodies - Eastern Province",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 94.0,
+      "IsCritical": true,
+      "Products": [
+        "misappropriation"
+      ],
+      "AnnualSpend": 5993809.46
+    },
+    {
+      "Id": "04375114-1de0-0857-079b-00b941cb3cf8",
+      "Name": "Public institutions - Central Province",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 62.9,
+      "IsCritical": false,
+      "Products": [
+        "audit findings"
+      ],
+      "AnnualSpend": 8794811.8
+    },
+    {
+      "Id": "041f0fbf-195a-1403-0d21-00672b9c3841",
+      "Name": "Statutory bodies - Lusaka",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 90.9,
+      "IsCritical": true,
+      "Products": [
+        "procurement fraud"
+      ],
+      "AnnualSpend": 3056577.69
+    },
+    {
+      "Id": "03809da0-1dee-2328-21f2-00ca68761663",
+      "Name": "Government ministries - Central Province",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 76.4,
+      "IsCritical": false,
+      "Products": [
+        "procurement fraud"
+      ],
+      "AnnualSpend": 7012192.19
+    },
+    {
+      "Id": "0140516c-26ef-0f98-25a5-0048d86afa9d",
+      "Name": "Local authorities - Lusaka",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 51.6,
+      "IsCritical": true,
+      "Products": [
+        "financial irregularities"
+      ],
+      "AnnualSpend": 8338984.0
+    },
+    {
+      "Id": "00eadd03-095e-22a2-0a0a-0090ebafaa1c",
+      "Name": "Statutory bodies - Central Province",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 80.6,
+      "IsCritical": false,
+      "Products": [
+        "procurement fraud"
+      ],
+      "AnnualSpend": 8961773.36
+    },
+    {
+      "Id": "016f12e4-179a-1faf-1ceb-00aaa00b17d1",
+      "Name": "Public institutions - Southern Province",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 82.8,
+      "IsCritical": true,
+      "Products": [
+        "misappropriation"
+      ],
+      "AnnualSpend": 6445498.78
+    },
+    {
+      "Id": "013c8780-141b-06cb-099a-00e6a5ef904c",
+      "Name": "Local authorities - Central Province",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 85.5,
+      "IsCritical": true,
+      "Products": [
+        "audit findings"
+      ],
+      "AnnualSpend": 5546944.98
+    },
+    {
+      "Id": "039b66b6-18ed-0be7-117e-00c482f834c2",
+      "Name": "Government ministries - Copperbelt Province",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 91.7,
+      "IsCritical": false,
+      "Products": [
+        "financial irregularities"
+      ],
+      "AnnualSpend": 8528120.48
+    },
+    {
+      "Id": "033647c4-17ff-0f41-14a5-00d6cbb04bc1",
+      "Name": "Statutory bodies - Lusaka",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 51.6,
+      "IsCritical": true,
+      "Products": [
+        "financial irregularities"
+      ],
+      "AnnualSpend": 702227.8
+    },
+    {
+      "Id": "016ddd83-182a-1518-0915-00592fbcf053",
+      "Name": "Statutory bodies - Central Province",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 45.8,
+      "IsCritical": true,
+      "Products": [
+        "procurement fraud"
+      ],
+      "AnnualSpend": 5041986.3
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "009d4a26-138a-1a8a-190d-008972729ea5",
+      "FromSupplierId": "0162395b-174f-1d4f-0e3f-00befd8c5388",
+      "ToSupplierId": "016ddd83-182a-1518-0915-00592fbcf053",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.72,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "05837f81-0bd1-065d-0459-00af6f2d1dbf",
+      "FromSupplierId": "02dfab58-114f-15c2-0d12-001eeae5ec1a",
+      "ToSupplierId": "018ab6c8-2578-04b1-1cb7-006386971add",
+      "Type": "partnership",
+      "DependencyLevel": 0.8,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0277c9ed-0c8f-0bf7-24e9-0030336e7ebd",
+      "FromSupplierId": "0511fa02-215f-1e6d-2297-00d5c449a0f5",
+      "ToSupplierId": "026d1bc0-1049-1815-18df-00656199ec18",
+      "Type": "supplies",
+      "DependencyLevel": 0.75,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04249a7c-0a39-0a5b-1a25-00954e31cd88",
+      "FromSupplierId": "0553f4d0-06fd-1d9b-0d8c-00891e426d17",
+      "ToSupplierId": "0162395b-174f-1d4f-0e3f-00befd8c5388",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.77,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01bbc30b-208a-0482-228f-0038643bf3a8",
+      "FromSupplierId": "0162395b-174f-1d4f-0e3f-00befd8c5388",
+      "ToSupplierId": "0494d0f5-0f6e-26a4-17ef-00e3b4e20ee7",
+      "Type": "supplies",
+      "DependencyLevel": 0.7,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04f78bf5-1ae5-08bc-2463-00bf040f9e84",
+      "FromSupplierId": "04c5d564-1e9a-1849-0bbf-008fd9ff0545",
+      "ToSupplierId": "034f7703-0ea6-09d4-190f-00e15aa09ec7",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.52,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0203e4f9-25aa-0882-16c9-00d97fd9f0f0",
+      "FromSupplierId": "0162395b-174f-1d4f-0e3f-00befd8c5388",
+      "ToSupplierId": "01c5a49b-2613-0545-0764-0086a8964783",
+      "Type": "partnership",
+      "DependencyLevel": 0.47,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00d46a2f-1ff3-2145-10ee-005df0708804",
+      "FromSupplierId": "035b2a3e-1deb-0b36-2371-00446281ff01",
+      "ToSupplierId": "041f0fbf-195a-1403-0d21-00672b9c3841",
+      "Type": "supplies",
+      "DependencyLevel": 0.52,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "05a49462-0b9b-1fd5-0b8b-0065feec07db",
+      "FromSupplierId": "018ab6c8-2578-04b1-1cb7-006386971add",
+      "ToSupplierId": "036d7dea-0abd-1b07-129f-0041697b2926",
+      "Type": "partnership",
+      "DependencyLevel": 0.51,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "035dc529-0a32-0f5b-0b9f-00e295d54052",
+      "FromSupplierId": "040c8095-06b6-04ee-1496-00b74f5a6ecb",
+      "ToSupplierId": "0153243f-1e87-11f8-11f9-004a20b24bab",
+      "Type": "supplies",
+      "DependencyLevel": 0.89,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02b93ccb-1c09-120b-1e0f-001c132ac409",
+      "FromSupplierId": "04c93964-10d6-10f5-0f29-0086522dbafe",
+      "ToSupplierId": "0159a213-20c2-2516-2004-0030376ee0e2",
+      "Type": "partnership",
+      "DependencyLevel": 0.68,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03379525-1884-0adc-199e-00e2631a8dab",
+      "FromSupplierId": "0340894e-2171-1dce-04e5-0078dc435c5c",
+      "ToSupplierId": "034f7703-0ea6-09d4-190f-00e15aa09ec7",
+      "Type": "supplies",
+      "DependencyLevel": 0.57,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "05158f47-0bd5-15ba-221e-00b4664dfe4c",
+      "FromSupplierId": "023dda62-22b2-1078-1f84-00e036ce1a10",
+      "ToSupplierId": "04375114-1de0-0857-079b-00b941cb3cf8",
+      "Type": "partnership",
+      "DependencyLevel": 0.55,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "042f4ce8-1fb1-2169-222d-006a4b3f80f6",
+      "FromSupplierId": "026d1bc0-1049-1815-18df-00656199ec18",
+      "ToSupplierId": "041f0fbf-195a-1403-0d21-00672b9c3841",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.71,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0228b02f-0bfc-1805-2062-0077c1aec130",
+      "FromSupplierId": "04fd74a1-13e4-06ba-1f7b-00d6f24027bb",
+      "ToSupplierId": "02dfab58-114f-15c2-0d12-001eeae5ec1a",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.51,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03e3c345-1da3-08c7-1108-002470554538",
+      "FromSupplierId": "054607dd-0621-17ec-1eb7-00dcf30fc13f",
+      "ToSupplierId": "04375114-1de0-0857-079b-00b941cb3cf8",
+      "Type": "supplies",
+      "DependencyLevel": 0.57,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0330d603-2169-1899-0f3d-006b6d331da1",
+      "FromSupplierId": "00a3cf4e-1778-180f-1211-00d88224a6cb",
+      "ToSupplierId": "00cc6d7a-132a-1995-1a13-0076e3e6c748",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.81,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "045162d9-17c9-0638-260e-0064f70e9dbf",
+      "FromSupplierId": "05984d31-1dee-1d53-04a6-00b2ea19bb0a",
+      "ToSupplierId": "0153243f-1e87-11f8-11f9-004a20b24bab",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.49,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "026fd1b0-1418-0b2c-225c-00d9d22d1a6c",
+      "FromSupplierId": "054607dd-0621-17ec-1eb7-00dcf30fc13f",
+      "ToSupplierId": "041f0fbf-195a-1403-0d21-00672b9c3841",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.71,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00afed25-0b01-2673-2298-0043244dd5e3",
+      "FromSupplierId": "033647c4-17ff-0f41-14a5-00d6cbb04bc1",
+      "ToSupplierId": "01c5a80e-1c71-18f6-1a1b-0078493e4104",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.77,
+      "IsCriticalPath": true
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "operational",
+      "Description": "Concentration of financial irregularities in Southern Province",
+      "ConcentrationLevel": 79.9,
+      "AffectedSuppliers": [
+        "Local authorities - Central Province",
+        "Government ministries - Eastern Province",
+        "Public institutions - Eastern Province"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "013ff7d5-0ebe-104c-20f3-00c1a7d7d37e",
+      "SupplierId": "0553f4d0-06fd-1d9b-0d8c-00891e426d17",
+      "SupplierName": "Government ministries - Eastern Province",
+      "RiskType": "operational",
+      "Severity": "medium",
+      "Description": "Risk detected in financial irregularities operations",
+      "DetectedAt": "2025-12-29T17:30:30Z",
+      "IsAcknowledged": true,
+      "AffectedDownstreamSuppliers": [
+        "023f130d-1f8f-2629-1661-00cf98d43393",
+        "0494d0f5-0f6e-26a4-17ef-00e3b4e20ee7"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 28,
+    "HighRiskSuppliers": 16,
+    "AverageRiskScore": 69.5,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

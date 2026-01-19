@@ -1,0 +1,1577 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "0552df6b-1bac-154b-18d3-00cbafab7ad0",
+      "Title": "Microfinance disbursement credit risk",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/5848",
+      "PublishedDate": "2025-11-05T17:30:30Z",
+      "PublishedAt": "2026-01-08T17:30:30Z",
+      "DiscoveredAt": "2026-01-01T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Loan processing reveals credit risk in Lusaka",
+      "RelatedEntities": [
+        "Individual borrowers - Lusaka"
+      ],
+      "Entities": [
+        "Individual borrowers - Lusaka"
+      ],
+      "Keywords": [
+        "credit risk",
+        "financial inclusion",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 69.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01c8746a-2492-17ee-06f3-0091eb3e709b",
+      "Title": "Microfinance recovery credit risk",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/5930",
+      "PublishedDate": "2025-10-21T17:30:30Z",
+      "PublishedAt": "2026-01-08T17:30:30Z",
+      "DiscoveredAt": "2025-11-27T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Disbursement reveals savings mobilization in Mongu",
+      "RelatedEntities": [
+        "Entrepreneurs - Mongu"
+      ],
+      "Entities": [
+        "Entrepreneurs - Mongu"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "credit risk",
+        "microloans"
+      ],
+      "RelevanceScore": 91.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "018adefd-0703-2156-16c3-005f0afce0f4",
+      "Title": "Microfinance customer onboarding financial inclusion",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/5919",
+      "PublishedDate": "2025-11-04T17:30:30Z",
+      "PublishedAt": "2025-10-28T17:30:30Z",
+      "DiscoveredAt": "2025-11-16T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Credit assessment reveals microloans in Chipata",
+      "RelatedEntities": [
+        "Small businesses - Lusaka"
+      ],
+      "Entities": [
+        "Small businesses - Lusaka"
+      ],
+      "Keywords": [
+        "credit risk",
+        "SME lending",
+        "microloans"
+      ],
+      "RelevanceScore": 63.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01efed7c-0d3c-219a-0e4f-00d764b3e0ad",
+      "Title": "Microfinance recovery credit risk",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/5345",
+      "PublishedDate": "2026-01-11T17:30:30Z",
+      "PublishedAt": "2025-12-01T17:30:30Z",
+      "DiscoveredAt": "2025-11-18T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Loan processing reveals savings mobilization in Mongu",
+      "RelatedEntities": [
+        "Individual borrowers - Chipata"
+      ],
+      "Entities": [
+        "Individual borrowers - Chipata"
+      ],
+      "Keywords": [
+        "microloans",
+        "financial inclusion",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 62.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03183d1a-1356-1153-1f2b-0045f7083be8",
+      "Title": "Microfinance recovery credit risk",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/6101",
+      "PublishedDate": "2025-12-26T17:30:30Z",
+      "PublishedAt": "2025-12-26T17:30:30Z",
+      "DiscoveredAt": "2025-10-29T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Recovery reveals financial inclusion in Mongu",
+      "RelatedEntities": [
+        "Entrepreneurs - Kasama"
+      ],
+      "Entities": [
+        "Entrepreneurs - Kasama"
+      ],
+      "Keywords": [
+        "credit risk",
+        "SME lending",
+        "microloans"
+      ],
+      "RelevanceScore": 94.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02da51f6-0c27-0b68-1d94-00b0d00c1a66",
+      "Title": "Microfinance loan processing SME lending",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/4683",
+      "PublishedDate": "2025-11-23T17:30:30Z",
+      "PublishedAt": "2025-12-06T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Credit assessment reveals financial inclusion in Chipata",
+      "RelatedEntities": [
+        "Individual borrowers - Chipata"
+      ],
+      "Entities": [
+        "Individual borrowers - Chipata"
+      ],
+      "Keywords": [
+        "microloans",
+        "SME lending",
+        "financial inclusion"
+      ],
+      "RelevanceScore": 72.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "057953a3-18b5-03ff-1e08-00323e9071f4",
+      "Title": "Microfinance credit assessment microloans",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/7667",
+      "PublishedDate": "2025-11-28T17:30:30Z",
+      "PublishedAt": "2025-11-10T17:30:30Z",
+      "DiscoveredAt": "2025-12-18T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Recovery reveals savings mobilization in Chipata",
+      "RelatedEntities": [
+        "Small businesses - Lusaka"
+      ],
+      "Entities": [
+        "Small businesses - Lusaka"
+      ],
+      "Keywords": [
+        "credit risk",
+        "financial inclusion",
+        "microloans"
+      ],
+      "RelevanceScore": 73.3,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04ab03fd-2600-1678-1f4c-00a8fb64acd7",
+      "Title": "Microfinance loan processing financial inclusion",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/4034",
+      "PublishedDate": "2025-12-16T17:30:30Z",
+      "PublishedAt": "2025-10-31T17:30:30Z",
+      "DiscoveredAt": "2025-12-09T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Credit assessment reveals credit risk in Kitwe",
+      "RelatedEntities": [
+        "Savings groups - Kasama"
+      ],
+      "Entities": [
+        "Savings groups - Kasama"
+      ],
+      "Keywords": [
+        "credit risk",
+        "SME lending",
+        "microloans"
+      ],
+      "RelevanceScore": 66.9,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "020e0836-254f-1d06-20b1-0045bbabff2c",
+      "Title": "Microfinance customer onboarding SME lending",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/5898",
+      "PublishedDate": "2025-11-01T17:30:30Z",
+      "PublishedAt": "2025-12-21T17:30:30Z",
+      "DiscoveredAt": "2025-11-12T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Loan processing reveals SME lending in Lusaka",
+      "RelatedEntities": [
+        "Entrepreneurs - Mongu"
+      ],
+      "Entities": [
+        "Entrepreneurs - Mongu"
+      ],
+      "Keywords": [
+        "savings mobilization",
+        "microloans",
+        "SME lending"
+      ],
+      "RelevanceScore": 69.9,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0437b39f-2522-2501-1fec-00c0c742677a",
+      "Title": "Microfinance recovery savings mobilization",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/4476",
+      "PublishedDate": "2025-12-23T17:30:30Z",
+      "PublishedAt": "2026-01-03T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Loan processing reveals credit risk in Mongu",
+      "RelatedEntities": [
+        "Entrepreneurs - Lusaka"
+      ],
+      "Entities": [
+        "Entrepreneurs - Lusaka"
+      ],
+      "Keywords": [
+        "SME lending",
+        "credit risk",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 71.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0287f0a3-1cab-1a67-0d54-009ae8f5bb79",
+      "Title": "Microfinance credit assessment SME lending",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/9782",
+      "PublishedDate": "2025-11-22T17:30:30Z",
+      "PublishedAt": "2025-12-24T17:30:30Z",
+      "DiscoveredAt": "2025-12-29T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Recovery reveals credit risk in Chipata",
+      "RelatedEntities": [
+        "Individual borrowers - Lusaka"
+      ],
+      "Entities": [
+        "Individual borrowers - Lusaka"
+      ],
+      "Keywords": [
+        "SME lending",
+        "microloans",
+        "credit risk"
+      ],
+      "RelevanceScore": 63.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01e6343c-1e58-057d-23ca-00cd8ab1b493",
+      "Title": "Microfinance recovery microloans",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/6722",
+      "PublishedDate": "2025-10-29T17:30:30Z",
+      "PublishedAt": "2025-10-21T17:30:30Z",
+      "DiscoveredAt": "2025-10-23T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Loan processing reveals microloans in Lusaka",
+      "RelatedEntities": [
+        "Small businesses - Chipata"
+      ],
+      "Entities": [
+        "Small businesses - Chipata"
+      ],
+      "Keywords": [
+        "microloans",
+        "savings mobilization",
+        "credit risk"
+      ],
+      "RelevanceScore": 64.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04abb4ea-0fec-19ef-228a-0095c1990efd",
+      "Title": "Microfinance disbursement financial inclusion",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/9846",
+      "PublishedDate": "2025-10-27T17:30:30Z",
+      "PublishedAt": "2025-12-04T17:30:30Z",
+      "DiscoveredAt": "2025-12-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Customer onboarding reveals financial inclusion in Lusaka",
+      "RelatedEntities": [
+        "Small businesses - Lusaka"
+      ],
+      "Entities": [
+        "Small businesses - Lusaka"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "SME lending",
+        "microloans"
+      ],
+      "RelevanceScore": 94.8,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02ac8e74-1a35-1714-1341-00358a0bda5d",
+      "Title": "Microfinance disbursement credit risk",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/7795",
+      "PublishedDate": "2025-10-23T17:30:30Z",
+      "PublishedAt": "2025-12-18T17:30:30Z",
+      "DiscoveredAt": "2025-11-19T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Credit assessment reveals savings mobilization in Lusaka",
+      "RelatedEntities": [
+        "Entrepreneurs - Chipata"
+      ],
+      "Entities": [
+        "Entrepreneurs - Chipata"
+      ],
+      "Keywords": [
+        "credit risk",
+        "SME lending",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 84.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "042da963-11e7-11a5-1148-0030ba07dcdb",
+      "Title": "Microfinance recovery microloans",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/4460",
+      "PublishedDate": "2025-12-22T17:30:30Z",
+      "PublishedAt": "2026-01-02T17:30:30Z",
+      "DiscoveredAt": "2025-12-13T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Customer onboarding reveals SME lending in Kasama",
+      "RelatedEntities": [
+        "Small businesses - Kitwe"
+      ],
+      "Entities": [
+        "Small businesses - Kitwe"
+      ],
+      "Keywords": [
+        "credit risk",
+        "financial inclusion",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 66.2,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04159c6f-1664-2083-1cab-00a1bbc3aca8",
+      "Title": "Microfinance customer onboarding savings mobilization",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/2852",
+      "PublishedDate": "2025-12-08T17:30:30Z",
+      "PublishedAt": "2025-11-12T17:30:30Z",
+      "DiscoveredAt": "2025-11-04T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Disbursement reveals savings mobilization in Mongu",
+      "RelatedEntities": [
+        "Savings groups - Kasama"
+      ],
+      "Entities": [
+        "Savings groups - Kasama"
+      ],
+      "Keywords": [
+        "credit risk",
+        "financial inclusion",
+        "SME lending"
+      ],
+      "RelevanceScore": 74.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "013fb0de-18ce-23ef-253f-00e2d55e7f67",
+      "Title": "Microfinance customer onboarding microloans",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/5040",
+      "PublishedDate": "2026-01-07T17:30:30Z",
+      "PublishedAt": "2026-01-11T17:30:30Z",
+      "DiscoveredAt": "2026-01-06T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Credit assessment reveals credit risk in Lusaka",
+      "RelatedEntities": [
+        "Individual borrowers - Lusaka"
+      ],
+      "Entities": [
+        "Individual borrowers - Lusaka"
+      ],
+      "Keywords": [
+        "credit risk",
+        "microloans",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 81.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00a0add6-0e56-148d-1509-003d9b26e02b",
+      "Title": "Microfinance credit assessment SME lending",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/9352",
+      "PublishedDate": "2025-11-14T17:30:30Z",
+      "PublishedAt": "2025-11-27T17:30:30Z",
+      "DiscoveredAt": "2025-11-27T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Customer onboarding reveals SME lending in Kitwe",
+      "RelatedEntities": [
+        "Savings groups - Kasama"
+      ],
+      "Entities": [
+        "Savings groups - Kasama"
+      ],
+      "Keywords": [
+        "SME lending",
+        "microloans",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 92.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03922eb0-203d-2176-1b67-00dddda449b0",
+      "Title": "Microfinance disbursement SME lending",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/9321",
+      "PublishedDate": "2025-10-22T17:30:30Z",
+      "PublishedAt": "2025-11-02T17:30:30Z",
+      "DiscoveredAt": "2025-11-13T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Customer onboarding reveals SME lending in Kitwe",
+      "RelatedEntities": [
+        "Small businesses - Kasama"
+      ],
+      "Entities": [
+        "Small businesses - Kasama"
+      ],
+      "Keywords": [
+        "savings mobilization",
+        "microloans",
+        "SME lending"
+      ],
+      "RelevanceScore": 65.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03b7dec9-1a66-1364-19ff-002e9f945fb9",
+      "Title": "Microfinance credit assessment financial inclusion",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/2569",
+      "PublishedDate": "2025-12-27T17:30:30Z",
+      "PublishedAt": "2025-11-29T17:30:30Z",
+      "DiscoveredAt": "2025-12-23T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Disbursement reveals savings mobilization in Kitwe",
+      "RelatedEntities": [
+        "Savings groups - Kitwe"
+      ],
+      "Entities": [
+        "Savings groups - Kitwe"
+      ],
+      "Keywords": [
+        "SME lending",
+        "microloans",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 64.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0385eec4-1d78-0bdd-1a4e-0091a525d483",
+      "Title": "Microfinance recovery financial inclusion",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/7869",
+      "PublishedDate": "2025-12-15T17:30:30Z",
+      "PublishedAt": "2025-10-24T17:30:30Z",
+      "DiscoveredAt": "2026-01-07T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Credit assessment reveals credit risk in Mongu",
+      "RelatedEntities": [
+        "Individual borrowers - Mongu"
+      ],
+      "Entities": [
+        "Individual borrowers - Mongu"
+      ],
+      "Keywords": [
+        "microloans",
+        "savings mobilization",
+        "credit risk"
+      ],
+      "RelevanceScore": 76.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0506af20-08e5-1c2f-13d1-00aa1dec353a",
+      "Title": "Microfinance credit assessment microloans",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/6177",
+      "PublishedDate": "2025-11-23T17:30:30Z",
+      "PublishedAt": "2025-12-18T17:30:30Z",
+      "DiscoveredAt": "2025-12-30T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Loan processing reveals microloans in Kitwe",
+      "RelatedEntities": [
+        "Small businesses - Kitwe"
+      ],
+      "Entities": [
+        "Small businesses - Kitwe"
+      ],
+      "Keywords": [
+        "credit risk",
+        "microloans",
+        "financial inclusion"
+      ],
+      "RelevanceScore": 74.7,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "054576a2-144c-1999-1820-00363f952853",
+      "Title": "Microfinance recovery credit risk",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/5284",
+      "PublishedDate": "2025-11-14T17:30:30Z",
+      "PublishedAt": "2025-12-27T17:30:30Z",
+      "DiscoveredAt": "2025-11-09T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Loan processing reveals SME lending in Kitwe",
+      "RelatedEntities": [
+        "Savings groups - Chipata"
+      ],
+      "Entities": [
+        "Savings groups - Chipata"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "savings mobilization",
+        "credit risk"
+      ],
+      "RelevanceScore": 88.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05ed7677-255e-0f74-1cbf-00e18815840b",
+      "Title": "Microfinance disbursement SME lending",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/3790",
+      "PublishedDate": "2025-11-09T17:30:30Z",
+      "PublishedAt": "2025-12-18T17:30:30Z",
+      "DiscoveredAt": "2025-10-27T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Customer onboarding reveals credit risk in Kitwe",
+      "RelatedEntities": [
+        "Savings groups - Chipata"
+      ],
+      "Entities": [
+        "Savings groups - Chipata"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "credit risk",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 90.4,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "025f835e-1cf3-144f-04e1-007f48b048f0",
+      "Title": "Microfinance credit assessment savings mobilization",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/2198",
+      "PublishedDate": "2025-12-10T17:30:30Z",
+      "PublishedAt": "2025-11-22T17:30:30Z",
+      "DiscoveredAt": "2025-11-07T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Customer onboarding reveals microloans in Lusaka",
+      "RelatedEntities": [
+        "Small businesses - Mongu"
+      ],
+      "Entities": [
+        "Small businesses - Mongu"
+      ],
+      "Keywords": [
+        "credit risk",
+        "microloans",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 67.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04e417ac-131c-18e8-1d8b-00bd22ba073d",
+      "Title": "Microfinance recovery microloans",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/6072",
+      "PublishedDate": "2025-11-17T17:30:30Z",
+      "PublishedAt": "2026-01-08T17:30:30Z",
+      "DiscoveredAt": "2025-11-18T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Customer onboarding reveals microloans in Kasama",
+      "RelatedEntities": [
+        "Individual borrowers - Kasama"
+      ],
+      "Entities": [
+        "Individual borrowers - Kasama"
+      ],
+      "Keywords": [
+        "SME lending",
+        "savings mobilization",
+        "credit risk"
+      ],
+      "RelevanceScore": 71.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0326d17d-1cf5-0d67-10da-00451ceb8518",
+      "Title": "Microfinance credit assessment financial inclusion",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/1736",
+      "PublishedDate": "2025-11-16T17:30:30Z",
+      "PublishedAt": "2026-01-04T17:30:30Z",
+      "DiscoveredAt": "2025-11-18T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Loan processing reveals microloans in Lusaka",
+      "RelatedEntities": [
+        "Individual borrowers - Mongu"
+      ],
+      "Entities": [
+        "Individual borrowers - Mongu"
+      ],
+      "Keywords": [
+        "microloans",
+        "SME lending",
+        "financial inclusion"
+      ],
+      "RelevanceScore": 60.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03a83639-1a1e-0403-0cda-006710994084",
+      "Title": "Microfinance recovery credit risk",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/3648",
+      "PublishedDate": "2025-10-25T17:30:30Z",
+      "PublishedAt": "2025-11-26T17:30:30Z",
+      "DiscoveredAt": "2026-01-06T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Disbursement reveals credit risk in Lusaka",
+      "RelatedEntities": [
+        "Savings groups - Lusaka"
+      ],
+      "Entities": [
+        "Savings groups - Lusaka"
+      ],
+      "Keywords": [
+        "SME lending",
+        "credit risk",
+        "financial inclusion"
+      ],
+      "RelevanceScore": 83.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0423e3b7-0909-243f-0a05-00320f397ebd",
+      "Title": "Microfinance loan processing savings mobilization",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/8614",
+      "PublishedDate": "2026-01-15T17:30:30Z",
+      "PublishedAt": "2025-12-31T17:30:30Z",
+      "DiscoveredAt": "2026-01-03T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Customer onboarding reveals SME lending in Chipata",
+      "RelatedEntities": [
+        "Savings groups - Kasama"
+      ],
+      "Entities": [
+        "Savings groups - Kasama"
+      ],
+      "Keywords": [
+        "savings mobilization",
+        "SME lending",
+        "credit risk"
+      ],
+      "RelevanceScore": 64.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00a1b8b8-1e3a-06dc-0f42-00e24521563d",
+      "Title": "Microfinance recovery savings mobilization",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/7912",
+      "PublishedDate": "2026-01-12T17:30:30Z",
+      "PublishedAt": "2025-12-14T17:30:30Z",
+      "DiscoveredAt": "2025-12-26T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Credit assessment reveals SME lending in Chipata",
+      "RelatedEntities": [
+        "Savings groups - Mongu"
+      ],
+      "Entities": [
+        "Savings groups - Mongu"
+      ],
+      "Keywords": [
+        "savings mobilization",
+        "financial inclusion",
+        "SME lending"
+      ],
+      "RelevanceScore": 75.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "016caa6a-180e-05d5-093c-007731d30a13",
+      "Title": "Microfinance recovery microloans",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/1599",
+      "PublishedDate": "2025-12-10T17:30:30Z",
+      "PublishedAt": "2025-11-27T17:30:30Z",
+      "DiscoveredAt": "2025-12-28T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Recovery reveals credit risk in Kitwe",
+      "RelatedEntities": [
+        "Savings groups - Lusaka"
+      ],
+      "Entities": [
+        "Savings groups - Lusaka"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "credit risk",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 85.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02e81a8e-2243-1d32-1873-0033ad706ee7",
+      "Title": "Microfinance recovery savings mobilization",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/4782",
+      "PublishedDate": "2025-12-20T17:30:30Z",
+      "PublishedAt": "2025-12-28T17:30:30Z",
+      "DiscoveredAt": "2025-12-21T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Loan processing reveals microloans in Mongu",
+      "RelatedEntities": [
+        "Savings groups - Kasama"
+      ],
+      "Entities": [
+        "Savings groups - Kasama"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "SME lending",
+        "credit risk"
+      ],
+      "RelevanceScore": 90.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01e76a67-1b22-1e1b-1feb-00cf08f7f00e",
+      "Title": "Microfinance loan processing SME lending",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/8353",
+      "PublishedDate": "2025-10-22T17:30:30Z",
+      "PublishedAt": "2025-10-27T17:30:30Z",
+      "DiscoveredAt": "2025-10-29T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Loan processing reveals microloans in Mongu",
+      "RelatedEntities": [
+        "Small businesses - Mongu"
+      ],
+      "Entities": [
+        "Small businesses - Mongu"
+      ],
+      "Keywords": [
+        "microloans",
+        "credit risk",
+        "financial inclusion"
+      ],
+      "RelevanceScore": 63.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04c0a722-206e-0e48-0e8e-004d87c83e8f",
+      "Title": "Microfinance disbursement SME lending",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/7604",
+      "PublishedDate": "2025-12-13T17:30:30Z",
+      "PublishedAt": "2025-11-28T17:30:30Z",
+      "DiscoveredAt": "2025-12-31T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Customer onboarding reveals credit risk in Lusaka",
+      "RelatedEntities": [
+        "Savings groups - Lusaka"
+      ],
+      "Entities": [
+        "Savings groups - Lusaka"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "credit risk",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 77.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03f9bed2-2642-0d77-10e2-00bc4ecc5e69",
+      "Title": "Microfinance customer onboarding savings mobilization",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/6541",
+      "PublishedDate": "2026-01-17T17:30:30Z",
+      "PublishedAt": "2026-01-14T17:30:30Z",
+      "DiscoveredAt": "2025-12-09T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Loan processing reveals microloans in Chipata",
+      "RelatedEntities": [
+        "Savings groups - Kitwe"
+      ],
+      "Entities": [
+        "Savings groups - Kitwe"
+      ],
+      "Keywords": [
+        "credit risk",
+        "financial inclusion",
+        "microloans"
+      ],
+      "RelevanceScore": 84.1,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "045fe72f-0e17-0457-1370-008be329fb7b",
+      "Title": "Microfinance disbursement SME lending",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/7941",
+      "PublishedDate": "2025-11-23T17:30:30Z",
+      "PublishedAt": "2025-11-03T17:30:30Z",
+      "DiscoveredAt": "2025-12-06T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Disbursement reveals credit risk in Kitwe",
+      "RelatedEntities": [
+        "Savings groups - Lusaka"
+      ],
+      "Entities": [
+        "Savings groups - Lusaka"
+      ],
+      "Keywords": [
+        "credit risk",
+        "microloans",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 69.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03b73737-1bad-0c7b-06f2-005db60b1a22",
+      "Title": "Microfinance customer onboarding financial inclusion",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/4174",
+      "PublishedDate": "2025-12-30T17:30:30Z",
+      "PublishedAt": "2025-11-14T17:30:30Z",
+      "DiscoveredAt": "2025-11-21T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Loan processing reveals savings mobilization in Mongu",
+      "RelatedEntities": [
+        "Savings groups - Kasama"
+      ],
+      "Entities": [
+        "Savings groups - Kasama"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "savings mobilization",
+        "microloans"
+      ],
+      "RelevanceScore": 72.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01166df1-1b43-1b41-04e9-006d7896c1a3",
+      "Title": "Microfinance customer onboarding microloans",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/9823",
+      "PublishedDate": "2026-01-05T17:30:30Z",
+      "PublishedAt": "2025-12-14T17:30:30Z",
+      "DiscoveredAt": "2025-10-22T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Customer onboarding reveals SME lending in Kitwe",
+      "RelatedEntities": [
+        "Individual borrowers - Kasama"
+      ],
+      "Entities": [
+        "Individual borrowers - Kasama"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "credit risk",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 66.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0168ce04-19d9-08c1-150c-009791b7b46c",
+      "Title": "Microfinance loan processing SME lending",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/5704",
+      "PublishedDate": "2025-12-08T17:30:30Z",
+      "PublishedAt": "2025-12-16T17:30:30Z",
+      "DiscoveredAt": "2025-10-31T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Credit assessment reveals SME lending in Chipata",
+      "RelatedEntities": [
+        "Individual borrowers - Kitwe"
+      ],
+      "Entities": [
+        "Individual borrowers - Kitwe"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "savings mobilization",
+        "microloans"
+      ],
+      "RelevanceScore": 84.7,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03ae4ae9-1dda-2387-1f50-00423c1bcc63",
+      "Title": "Microfinance customer onboarding credit risk",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/8584",
+      "PublishedDate": "2026-01-09T17:30:30Z",
+      "PublishedAt": "2025-11-08T17:30:30Z",
+      "DiscoveredAt": "2025-12-29T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Loan processing reveals credit risk in Mongu",
+      "RelatedEntities": [
+        "Individual borrowers - Chipata"
+      ],
+      "Entities": [
+        "Individual borrowers - Chipata"
+      ],
+      "Keywords": [
+        "SME lending",
+        "microloans",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 75.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04395150-1f3d-18f3-0d6e-00690c4ab06c",
+      "Title": "Microfinance recovery credit risk",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/9394",
+      "PublishedDate": "2025-10-31T17:30:30Z",
+      "PublishedAt": "2025-10-24T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Credit assessment reveals savings mobilization in Lusaka",
+      "RelatedEntities": [
+        "Savings groups - Kasama"
+      ],
+      "Entities": [
+        "Savings groups - Kasama"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "credit risk",
+        "microloans"
+      ],
+      "RelevanceScore": 71.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00edbaa7-0802-0bd5-0f7f-00cc5cbad5c2",
+      "Title": "Microfinance loan processing SME lending",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/3352",
+      "PublishedDate": "2025-11-18T17:30:30Z",
+      "PublishedAt": "2025-10-25T17:30:30Z",
+      "DiscoveredAt": "2025-12-14T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Disbursement reveals microloans in Lusaka",
+      "RelatedEntities": [
+        "Individual borrowers - Kasama"
+      ],
+      "Entities": [
+        "Individual borrowers - Kasama"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "savings mobilization",
+        "microloans"
+      ],
+      "RelevanceScore": 74.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01c4a088-1dd1-208a-0d9d-00526a0ef942",
+      "Title": "Microfinance loan processing SME lending",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/6044",
+      "PublishedDate": "2025-12-08T17:30:30Z",
+      "PublishedAt": "2025-11-05T17:30:30Z",
+      "DiscoveredAt": "2025-12-12T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Credit assessment reveals financial inclusion in Mongu",
+      "RelatedEntities": [
+        "Savings groups - Kasama"
+      ],
+      "Entities": [
+        "Savings groups - Kasama"
+      ],
+      "Keywords": [
+        "SME lending",
+        "credit risk",
+        "financial inclusion"
+      ],
+      "RelevanceScore": 92.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0424db4c-207e-2416-0ec8-0087c75a3c64",
+      "Title": "Microfinance customer onboarding savings mobilization",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/9939",
+      "PublishedDate": "2025-12-06T17:30:30Z",
+      "PublishedAt": "2025-10-21T17:30:30Z",
+      "DiscoveredAt": "2026-01-03T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Customer onboarding reveals SME lending in Mongu",
+      "RelatedEntities": [
+        "Savings groups - Lusaka"
+      ],
+      "Entities": [
+        "Savings groups - Lusaka"
+      ],
+      "Keywords": [
+        "SME lending",
+        "credit risk",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 82.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04f4f4c3-193f-2351-0b43-0041bd08c532",
+      "Title": "Microfinance customer onboarding savings mobilization",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/2073",
+      "PublishedDate": "2025-12-24T17:30:30Z",
+      "PublishedAt": "2025-12-11T17:30:30Z",
+      "DiscoveredAt": "2025-11-19T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Disbursement reveals credit risk in Kitwe",
+      "RelatedEntities": [
+        "Savings groups - Kitwe"
+      ],
+      "Entities": [
+        "Savings groups - Kitwe"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "microloans",
+        "savings mobilization"
+      ],
+      "RelevanceScore": 87.1,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0238919a-1264-1d3f-2401-0060b0af33b6",
+      "Title": "Microfinance recovery microloans",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/5996",
+      "PublishedDate": "2025-11-07T17:30:30Z",
+      "PublishedAt": "2025-12-27T17:30:30Z",
+      "DiscoveredAt": "2026-01-04T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Customer onboarding reveals credit risk in Kasama",
+      "RelatedEntities": [
+        "Entrepreneurs - Kasama"
+      ],
+      "Entities": [
+        "Entrepreneurs - Kasama"
+      ],
+      "Keywords": [
+        "financial inclusion",
+        "savings mobilization",
+        "microloans"
+      ],
+      "RelevanceScore": 71.4,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "046ffe65-04f1-1f8b-1393-006d3d31baeb",
+      "Title": "Microfinance disbursement credit risk",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/2878",
+      "PublishedDate": "2026-01-13T17:30:30Z",
+      "PublishedAt": "2025-11-10T17:30:30Z",
+      "DiscoveredAt": "2025-11-26T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Credit assessment reveals savings mobilization in Kitwe",
+      "RelatedEntities": [
+        "Savings groups - Chipata"
+      ],
+      "Entities": [
+        "Savings groups - Chipata"
+      ],
+      "Keywords": [
+        "microloans",
+        "SME lending",
+        "credit risk"
+      ],
+      "RelevanceScore": 78.9,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03e6f366-0f96-1aac-1694-008567939eef",
+      "Title": "Microfinance credit assessment financial inclusion",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/1175",
+      "PublishedDate": "2025-11-06T17:30:30Z",
+      "PublishedAt": "2025-11-06T17:30:30Z",
+      "DiscoveredAt": "2025-11-13T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Disbursement reveals savings mobilization in Lusaka",
+      "RelatedEntities": [
+        "Savings groups - Kitwe"
+      ],
+      "Entities": [
+        "Savings groups - Kitwe"
+      ],
+      "Keywords": [
+        "microloans",
+        "savings mobilization",
+        "financial inclusion"
+      ],
+      "RelevanceScore": 92.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05b6dbcf-11bb-1e96-1fbd-00d36364b1ae",
+      "Title": "Microfinance loan processing financial inclusion",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/9579",
+      "PublishedDate": "2025-11-30T17:30:30Z",
+      "PublishedAt": "2025-11-08T17:30:30Z",
+      "DiscoveredAt": "2025-12-02T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Recovery reveals microloans in Chipata",
+      "RelatedEntities": [
+        "Small businesses - Lusaka"
+      ],
+      "Entities": [
+        "Small businesses - Lusaka"
+      ],
+      "Keywords": [
+        "savings mobilization",
+        "microloans",
+        "credit risk"
+      ],
+      "RelevanceScore": 73.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03a6923a-133d-1e0a-2127-008fe8940706",
+      "Title": "Microfinance credit assessment microloans",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/6585",
+      "PublishedDate": "2025-11-05T17:30:30Z",
+      "PublishedAt": "2025-12-12T17:30:30Z",
+      "DiscoveredAt": "2025-12-15T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Loan processing reveals credit risk in Kasama",
+      "RelatedEntities": [
+        "Entrepreneurs - Kitwe"
+      ],
+      "Entities": [
+        "Entrepreneurs - Kitwe"
+      ],
+      "Keywords": [
+        "savings mobilization",
+        "credit risk",
+        "financial inclusion"
+      ],
+      "RelevanceScore": 70.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "03821cae-1321-1d0a-1070-00c863a7872f",
+      "ArticleId": "0552df6b-1bac-154b-18d3-00cbafab7ad0",
+      "EntityId": "03386438-222e-0956-1a4e-007011ec5d77",
+      "EntityName": "Individual borrowers - Lusaka",
+      "AlertReason": "Adverse media on credit risk",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-28T17:30:30Z",
+      "TriggeredAt": "2026-01-15T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "049b1066-14f4-06d0-0a7c-006675c373c7",
+      "ArticleId": "018adefd-0703-2156-16c3-005f0afce0f4",
+      "EntityId": "042345d9-0482-256e-1bb3-001862d310be",
+      "EntityName": "Small businesses - Lusaka",
+      "AlertReason": "Adverse media on financial inclusion",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-09T17:30:30Z",
+      "TriggeredAt": "2025-12-02T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02915b32-03f4-2163-0697-007e3fc6a176",
+      "ArticleId": "02da51f6-0c27-0b68-1d94-00b0d00c1a66",
+      "EntityId": "017acf1b-182e-1071-13bb-00d8e08e4f2e",
+      "EntityName": "Individual borrowers - Chipata",
+      "AlertReason": "Adverse media on financial inclusion",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-21T17:30:30Z",
+      "TriggeredAt": "2025-12-17T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0176835e-0e49-26eb-1d74-00dd124d1b8a",
+      "ArticleId": "057953a3-18b5-03ff-1e08-00323e9071f4",
+      "EntityId": "0139ef16-2361-0812-115b-003141a19574",
+      "EntityName": "Small businesses - Lusaka",
+      "AlertReason": "Adverse media on credit risk",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "TriggeredAt": "2025-12-30T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "00a435eb-17bd-0a9a-150b-00555e66bc17",
+      "ArticleId": "04ab03fd-2600-1678-1f4c-00a8fb64acd7",
+      "EntityId": "043aeeae-18c5-1006-16b5-00258fd79b0e",
+      "EntityName": "Savings groups - Kasama",
+      "AlertReason": "Adverse media on credit risk",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-07T17:30:30Z",
+      "TriggeredAt": "2025-11-18T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "03699a3d-18c8-1b4f-1a42-001dadadddb2",
+      "ArticleId": "01e6343c-1e58-057d-23ca-00cd8ab1b493",
+      "EntityId": "0399efe1-2324-1e36-042c-0046885fe25f",
+      "EntityName": "Small businesses - Chipata",
+      "AlertReason": "Adverse media on credit risk",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-03T17:30:30Z",
+      "TriggeredAt": "2025-11-22T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03d2b83c-1585-26ef-0496-00d8aef44e64",
+      "ArticleId": "04abb4ea-0fec-19ef-228a-0095c1990efd",
+      "EntityId": "027a67cf-19d3-1684-143b-00670c42679b",
+      "EntityName": "Small businesses - Lusaka",
+      "AlertReason": "Adverse media on SME lending",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-28T17:30:30Z",
+      "TriggeredAt": "2025-11-03T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02d04fd3-0819-03ef-04e0-00ccad326ab2",
+      "ArticleId": "0506af20-08e5-1c2f-13d1-00aa1dec353a",
+      "EntityId": "03deeb35-0437-1288-1395-00d69aa68780",
+      "EntityName": "Small businesses - Kitwe",
+      "AlertReason": "Adverse media on microloans",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-26T17:30:30Z",
+      "TriggeredAt": "2025-10-29T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02e8d6b2-1682-1666-257f-003380324bec",
+      "ArticleId": "054576a2-144c-1999-1820-00363f952853",
+      "EntityId": "015ab532-0a45-262a-0cd1-00ad396d0bdd",
+      "EntityName": "Savings groups - Chipata",
+      "AlertReason": "Adverse media on savings mobilization",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-28T17:30:30Z",
+      "TriggeredAt": "2025-12-10T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01054287-07f0-107b-0dac-006d54e07e21",
+      "ArticleId": "04e417ac-131c-18e8-1d8b-00bd22ba073d",
+      "EntityId": "00ae8fb5-1c24-18c7-160a-00426d2f5241",
+      "EntityName": "Individual borrowers - Kasama",
+      "AlertReason": "Adverse media on SME lending",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-20T17:30:30Z",
+      "TriggeredAt": "2026-01-07T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02ca1774-19f3-1771-0a35-003fd9290e51",
+      "ArticleId": "00a1b8b8-1e3a-06dc-0f42-00e24521563d",
+      "EntityId": "04fe641b-1d2a-0e8a-04f1-004852040e78",
+      "EntityName": "Savings groups - Mongu",
+      "AlertReason": "Adverse media on financial inclusion",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-10T17:30:30Z",
+      "TriggeredAt": "2026-01-05T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "04dfc28d-1690-1953-09ba-00838af34c9b",
+      "ArticleId": "01e76a67-1b22-1e1b-1feb-00cf08f7f00e",
+      "EntityId": "0399fa6b-1bcf-2612-0f2e-007609a72377",
+      "EntityName": "Small businesses - Mongu",
+      "AlertReason": "Adverse media on credit risk",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-25T17:30:30Z",
+      "TriggeredAt": "2025-11-27T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03983ff3-08e5-2598-2362-00d8e93b12b3",
+      "ArticleId": "04c0a722-206e-0e48-0e8e-004d87c83e8f",
+      "EntityId": "035609e9-1daf-040b-0da8-008e95ce8b87",
+      "EntityName": "Savings groups - Lusaka",
+      "AlertReason": "Adverse media on financial inclusion",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-13T17:30:30Z",
+      "TriggeredAt": "2026-01-04T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "01ae7f90-205e-051c-0d42-00732941aac4",
+      "ArticleId": "045fe72f-0e17-0457-1370-008be329fb7b",
+      "EntityId": "041f0189-1c47-2448-1f0f-006987aa999b",
+      "EntityName": "Savings groups - Lusaka",
+      "AlertReason": "Adverse media on credit risk",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-26T17:30:30Z",
+      "TriggeredAt": "2025-12-14T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "032b75c4-1283-16a3-1c56-00c7a8192940",
+      "ArticleId": "01166df1-1b43-1b41-04e9-006d7896c1a3",
+      "EntityId": "03ba6d1a-16e4-1df1-12d1-0060e653d6a9",
+      "EntityName": "Individual borrowers - Kasama",
+      "AlertReason": "Adverse media on financial inclusion",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-16T17:30:30Z",
+      "TriggeredAt": "2025-12-02T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "030c3da0-109e-25ae-19ff-002e3115520b",
+      "ArticleId": "0168ce04-19d9-08c1-150c-009791b7b46c",
+      "EntityId": "03d7a482-0bbe-06b6-0e1f-0033c319ea3f",
+      "EntityName": "Individual borrowers - Kitwe",
+      "AlertReason": "Adverse media on microloans",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-07T17:30:30Z",
+      "TriggeredAt": "2025-11-30T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "05305231-0c1f-180d-04ad-00e1c665d14b",
+      "ArticleId": "04395150-1f3d-18f3-0d6e-00690c4ab06c",
+      "EntityId": "022386f4-1178-0b9a-2225-00294f5d9388",
+      "EntityName": "Savings groups - Kasama",
+      "AlertReason": "Adverse media on microloans",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-10-23T17:30:30Z",
+      "TriggeredAt": "2025-12-27T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "022cc116-1ede-2092-210d-00dc8f41f5ff",
+      "ArticleId": "01c4a088-1dd1-208a-0d9d-00526a0ef942",
+      "EntityId": "02bd9adc-08e9-1866-0e0a-00b92293329d",
+      "EntityName": "Savings groups - Kasama",
+      "AlertReason": "Adverse media on financial inclusion",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-02T17:30:30Z",
+      "TriggeredAt": "2025-12-05T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "035c403b-23a4-10e0-0c04-00ad4d1d2996",
+      "ArticleId": "03e6f366-0f96-1aac-1694-008567939eef",
+      "EntityId": "038267cd-1b9f-044c-115b-009fb02fc70f",
+      "EntityName": "Savings groups - Kitwe",
+      "AlertReason": "Adverse media on SME lending",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-15T17:30:30Z",
+      "TriggeredAt": "2026-01-05T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02acb10e-2575-0a2b-1ab2-006a18963398",
+      "ArticleId": "05b6dbcf-11bb-1e96-1fbd-00d36364b1ae",
+      "EntityId": "01914972-0db2-1761-0792-005b3ca0ddcb",
+      "EntityName": "Small businesses - Lusaka",
+      "AlertReason": "Adverse media on microloans",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-18T17:30:30Z",
+      "TriggeredAt": "2025-11-10T17:30:30Z",
+      "IsAcknowledged": false
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "0243d900-12da-0a2c-25e7-00a3b3357e2b",
+      "EntityName": "Microfinance",
+      "Keywords": [
+        "SME lending",
+        "savings mobilization",
+        "credit risk"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 30,
+    "HighRiskArticles": 14,
+    "ActiveAlerts": 20,
+    "MonitoredEntities": 13,
+    "ArticlesByCategory": {
+      "regulatory": 9,
+      "criminal": 15,
+      "financial": 15,
+      "political": 9
+    },
+    "ArticlesBySeverity": {
+      "high": 20,
+      "medium": 14,
+      "low": 11
+    }
+  }
+}

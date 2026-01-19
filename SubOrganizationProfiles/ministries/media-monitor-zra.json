@@ -1,0 +1,1517 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "057ff36a-0ada-08a1-254e-00e8c86b6945",
+      "Title": "Government Ministries program monitoring program implementation",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/8536",
+      "PublishedDate": "2025-10-27T17:30:31Z",
+      "PublishedAt": "2025-12-11T17:30:31Z",
+      "DiscoveredAt": "2026-01-05T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Budget allocation reveals service delivery in Western Province",
+      "RelatedEntities": [
+        "Beneficiaries - Northern Province"
+      ],
+      "Entities": [
+        "Beneficiaries - Northern Province"
+      ],
+      "Keywords": [
+        "program implementation",
+        "policy compliance",
+        "budget execution"
+      ],
+      "RelevanceScore": 75.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03e09513-0e35-194f-1789-004ea7e61528",
+      "Title": "Government Ministries procurement service delivery",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/8353",
+      "PublishedDate": "2025-11-01T17:30:31Z",
+      "PublishedAt": "2025-12-18T17:30:31Z",
+      "DiscoveredAt": "2025-12-06T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Compliance review reveals service delivery in Western Province",
+      "RelatedEntities": [
+        "Suppliers - Lusaka"
+      ],
+      "Entities": [
+        "Suppliers - Lusaka"
+      ],
+      "Keywords": [
+        "service delivery",
+        "budget execution",
+        "program implementation"
+      ],
+      "RelevanceScore": 92.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0274fd18-0aa2-145d-0773-003e9e92f27d",
+      "Title": "Government Ministries contract management budget execution",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/1382",
+      "PublishedDate": "2025-11-09T17:30:31Z",
+      "PublishedAt": "2025-12-24T17:30:31Z",
+      "DiscoveredAt": "2025-12-11T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Procurement reveals budget execution in Lusaka",
+      "RelatedEntities": [
+        "Government departments - Copperbelt"
+      ],
+      "Entities": [
+        "Government departments - Copperbelt"
+      ],
+      "Keywords": [
+        "budget execution",
+        "public procurement",
+        "policy compliance"
+      ],
+      "RelevanceScore": 70.0,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "026efa70-1475-2114-1465-00d0a5d78e30",
+      "Title": "Government Ministries compliance review budget execution",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/9614",
+      "PublishedDate": "2025-11-28T17:30:31Z",
+      "PublishedAt": "2025-12-22T17:30:31Z",
+      "DiscoveredAt": "2025-10-27T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Compliance review reveals policy compliance in Lusaka",
+      "RelatedEntities": [
+        "Suppliers - provincial offices"
+      ],
+      "Entities": [
+        "Suppliers - provincial offices"
+      ],
+      "Keywords": [
+        "service delivery",
+        "public procurement",
+        "budget execution"
+      ],
+      "RelevanceScore": 88.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0404209b-23c8-2220-1da5-001c8d6ffc1d",
+      "Title": "Government Ministries budget allocation program implementation",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/7237",
+      "PublishedDate": "2026-01-12T17:30:31Z",
+      "PublishedAt": "2025-11-23T17:30:31Z",
+      "DiscoveredAt": "2026-01-17T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Procurement reveals policy compliance in Lusaka",
+      "RelatedEntities": [
+        "Suppliers - Lusaka"
+      ],
+      "Entities": [
+        "Suppliers - Lusaka"
+      ],
+      "Keywords": [
+        "budget execution",
+        "public procurement",
+        "policy compliance"
+      ],
+      "RelevanceScore": 64.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "014a4226-04e2-23f3-08af-0024f17fe0af",
+      "Title": "Government Ministries contract management public procurement",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/9917",
+      "PublishedDate": "2026-01-04T17:30:31Z",
+      "PublishedAt": "2025-12-01T17:30:31Z",
+      "DiscoveredAt": "2025-10-30T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Contract management reveals service delivery in Lusaka",
+      "RelatedEntities": [
+        "Government departments - Northern Province"
+      ],
+      "Entities": [
+        "Government departments - Northern Province"
+      ],
+      "Keywords": [
+        "policy compliance",
+        "service delivery",
+        "program implementation"
+      ],
+      "RelevanceScore": 84.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "019a306e-10df-060c-083b-004ecd6515b7",
+      "Title": "Government Ministries compliance review public procurement",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/2524",
+      "PublishedDate": "2026-01-01T17:30:31Z",
+      "PublishedAt": "2025-12-17T17:30:31Z",
+      "DiscoveredAt": "2025-11-23T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Contract management reveals public procurement in Western Province",
+      "RelatedEntities": [
+        "Contractors - provincial offices"
+      ],
+      "Entities": [
+        "Contractors - provincial offices"
+      ],
+      "Keywords": [
+        "public procurement",
+        "policy compliance",
+        "budget execution"
+      ],
+      "RelevanceScore": 67.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04aad92f-0a80-1beb-04f0-00a87579caac",
+      "Title": "Government Ministries procurement program implementation",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/5823",
+      "PublishedDate": "2025-10-22T17:30:31Z",
+      "PublishedAt": "2025-12-13T17:30:31Z",
+      "DiscoveredAt": "2025-10-23T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Procurement reveals public procurement in Northern Province",
+      "RelatedEntities": [
+        "Contractors - provincial offices"
+      ],
+      "Entities": [
+        "Contractors - provincial offices"
+      ],
+      "Keywords": [
+        "program implementation",
+        "public procurement",
+        "budget execution"
+      ],
+      "RelevanceScore": 93.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04ec3871-2521-2686-0964-00764ad661f7",
+      "Title": "Government Ministries budget allocation budget execution",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/7450",
+      "PublishedDate": "2025-12-01T17:30:31Z",
+      "PublishedAt": "2025-11-13T17:30:31Z",
+      "DiscoveredAt": "2025-10-24T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Program monitoring reveals program implementation in provincial offices",
+      "RelatedEntities": [
+        "Contractors - Western Province"
+      ],
+      "Entities": [
+        "Contractors - Western Province"
+      ],
+      "Keywords": [
+        "budget execution",
+        "policy compliance",
+        "public procurement"
+      ],
+      "RelevanceScore": 61.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02539a4e-17a2-0575-0f0a-00883f585ba1",
+      "Title": "Government Ministries budget allocation budget execution",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/8976",
+      "PublishedDate": "2025-11-22T17:30:31Z",
+      "PublishedAt": "2025-11-06T17:30:31Z",
+      "DiscoveredAt": "2025-12-10T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Compliance review reveals service delivery in Northern Province",
+      "RelatedEntities": [
+        "Beneficiaries - Copperbelt"
+      ],
+      "Entities": [
+        "Beneficiaries - Copperbelt"
+      ],
+      "Keywords": [
+        "policy compliance",
+        "program implementation",
+        "budget execution"
+      ],
+      "RelevanceScore": 82.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00db7a0e-267d-046a-1aa7-003157bc0154",
+      "Title": "Government Ministries procurement policy compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/6897",
+      "PublishedDate": "2025-11-27T17:30:31Z",
+      "PublishedAt": "2025-11-26T17:30:31Z",
+      "DiscoveredAt": "2025-12-12T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Program monitoring reveals policy compliance in Western Province",
+      "RelatedEntities": [
+        "Government departments - Lusaka"
+      ],
+      "Entities": [
+        "Government departments - Lusaka"
+      ],
+      "Keywords": [
+        "budget execution",
+        "program implementation",
+        "public procurement"
+      ],
+      "RelevanceScore": 72.8,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04bbc025-1905-0b68-1f65-00cee42cac6b",
+      "Title": "Government Ministries contract management program implementation",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/6653",
+      "PublishedDate": "2025-12-20T17:30:31Z",
+      "PublishedAt": "2025-11-05T17:30:31Z",
+      "DiscoveredAt": "2025-11-07T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Budget allocation reveals public procurement in Northern Province",
+      "RelatedEntities": [
+        "Suppliers - Western Province"
+      ],
+      "Entities": [
+        "Suppliers - Western Province"
+      ],
+      "Keywords": [
+        "service delivery",
+        "policy compliance",
+        "public procurement"
+      ],
+      "RelevanceScore": 65.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0203b673-14f2-12bb-25de-00bc7c7966d4",
+      "Title": "Government Ministries procurement budget execution",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/6840",
+      "PublishedDate": "2026-01-18T17:30:31Z",
+      "PublishedAt": "2026-01-15T17:30:31Z",
+      "DiscoveredAt": "2025-12-04T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Program monitoring reveals policy compliance in Lusaka",
+      "RelatedEntities": [
+        "Suppliers - provincial offices"
+      ],
+      "Entities": [
+        "Suppliers - provincial offices"
+      ],
+      "Keywords": [
+        "service delivery",
+        "budget execution",
+        "program implementation"
+      ],
+      "RelevanceScore": 70.1,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05ab44d6-062a-11bd-19ff-0046956a3d90",
+      "Title": "Government Ministries procurement policy compliance",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/2813",
+      "PublishedDate": "2026-01-08T17:30:31Z",
+      "PublishedAt": "2026-01-15T17:30:31Z",
+      "DiscoveredAt": "2025-11-23T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Compliance review reveals program implementation in Lusaka",
+      "RelatedEntities": [
+        "Government departments - Northern Province"
+      ],
+      "Entities": [
+        "Government departments - Northern Province"
+      ],
+      "Keywords": [
+        "public procurement",
+        "budget execution",
+        "program implementation"
+      ],
+      "RelevanceScore": 92.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0420482c-161d-14bf-1dd7-00683f3031a1",
+      "Title": "Government Ministries program monitoring policy compliance",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/6166",
+      "PublishedDate": "2025-11-21T17:30:31Z",
+      "PublishedAt": "2025-11-05T17:30:31Z",
+      "DiscoveredAt": "2025-12-27T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Compliance review reveals program implementation in Lusaka",
+      "RelatedEntities": [
+        "Suppliers - provincial offices"
+      ],
+      "Entities": [
+        "Suppliers - provincial offices"
+      ],
+      "Keywords": [
+        "budget execution",
+        "service delivery",
+        "policy compliance"
+      ],
+      "RelevanceScore": 64.6,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00d91c8d-228a-1948-18c9-00b20029898e",
+      "Title": "Government Ministries budget allocation public procurement",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/1643",
+      "PublishedDate": "2025-12-09T17:30:31Z",
+      "PublishedAt": "2026-01-01T17:30:31Z",
+      "DiscoveredAt": "2025-12-20T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Procurement reveals policy compliance in Western Province",
+      "RelatedEntities": [
+        "Contractors - Western Province"
+      ],
+      "Entities": [
+        "Contractors - Western Province"
+      ],
+      "Keywords": [
+        "policy compliance",
+        "public procurement",
+        "program implementation"
+      ],
+      "RelevanceScore": 83.8,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "041d103c-1551-18dd-09a7-0086f6cf8956",
+      "Title": "Government Ministries compliance review service delivery",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/3920",
+      "PublishedDate": "2025-12-23T17:30:31Z",
+      "PublishedAt": "2025-12-16T17:30:31Z",
+      "DiscoveredAt": "2025-12-18T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Contract management reveals program implementation in provincial offices",
+      "RelatedEntities": [
+        "Beneficiaries - Lusaka"
+      ],
+      "Entities": [
+        "Beneficiaries - Lusaka"
+      ],
+      "Keywords": [
+        "service delivery",
+        "program implementation",
+        "policy compliance"
+      ],
+      "RelevanceScore": 74.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03e22bc4-10ef-0501-20df-004dfa9d97c1",
+      "Title": "Government Ministries procurement public procurement",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/8981",
+      "PublishedDate": "2026-01-11T17:30:31Z",
+      "PublishedAt": "2025-12-10T17:30:31Z",
+      "DiscoveredAt": "2025-12-20T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Procurement reveals public procurement in provincial offices",
+      "RelatedEntities": [
+        "Contractors - provincial offices"
+      ],
+      "Entities": [
+        "Contractors - provincial offices"
+      ],
+      "Keywords": [
+        "service delivery",
+        "policy compliance",
+        "public procurement"
+      ],
+      "RelevanceScore": 69.5,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0417fda3-06fc-1b65-1a08-003e39c3db08",
+      "Title": "Government Ministries program monitoring budget execution",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/8562",
+      "PublishedDate": "2026-01-02T17:30:31Z",
+      "PublishedAt": "2025-12-03T17:30:31Z",
+      "DiscoveredAt": "2025-10-31T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Compliance review reveals public procurement in Western Province",
+      "RelatedEntities": [
+        "Government departments - Copperbelt"
+      ],
+      "Entities": [
+        "Government departments - Copperbelt"
+      ],
+      "Keywords": [
+        "budget execution",
+        "policy compliance",
+        "service delivery"
+      ],
+      "RelevanceScore": 90.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0418fdea-08ff-187c-1f22-005e5d3e8894",
+      "Title": "Government Ministries contract management budget execution",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/9084",
+      "PublishedDate": "2026-01-05T17:30:31Z",
+      "PublishedAt": "2025-12-05T17:30:31Z",
+      "DiscoveredAt": "2025-11-02T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Program monitoring reveals policy compliance in Lusaka",
+      "RelatedEntities": [
+        "Government departments - Western Province"
+      ],
+      "Entities": [
+        "Government departments - Western Province"
+      ],
+      "Keywords": [
+        "policy compliance",
+        "public procurement",
+        "service delivery"
+      ],
+      "RelevanceScore": 70.8,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "015ec3cf-1d4a-0b14-1d26-006242eeab3e",
+      "Title": "Government Ministries compliance review budget execution",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/2166",
+      "PublishedDate": "2025-11-18T17:30:31Z",
+      "PublishedAt": "2026-01-18T17:30:31Z",
+      "DiscoveredAt": "2025-11-30T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Budget allocation reveals policy compliance in Northern Province",
+      "RelatedEntities": [
+        "Government departments - provincial offices"
+      ],
+      "Entities": [
+        "Government departments - provincial offices"
+      ],
+      "Keywords": [
+        "public procurement",
+        "program implementation",
+        "budget execution"
+      ],
+      "RelevanceScore": 74.2,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04c3d4c7-1e10-0d73-1ab0-0046282386f7",
+      "Title": "Government Ministries compliance review public procurement",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/4824",
+      "PublishedDate": "2025-12-11T17:30:31Z",
+      "PublishedAt": "2025-11-23T17:30:31Z",
+      "DiscoveredAt": "2025-12-08T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Program monitoring reveals budget execution in Copperbelt",
+      "RelatedEntities": [
+        "Suppliers - Copperbelt"
+      ],
+      "Entities": [
+        "Suppliers - Copperbelt"
+      ],
+      "Keywords": [
+        "program implementation",
+        "service delivery",
+        "policy compliance"
+      ],
+      "RelevanceScore": 70.2,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "033883cd-13a5-1f0f-07fd-00b406f077e0",
+      "Title": "Government Ministries procurement program implementation",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/5697",
+      "PublishedDate": "2026-01-08T17:30:31Z",
+      "PublishedAt": "2025-10-30T17:30:31Z",
+      "DiscoveredAt": "2025-11-24T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Program monitoring reveals budget execution in provincial offices",
+      "RelatedEntities": [
+        "Government departments - Lusaka"
+      ],
+      "Entities": [
+        "Government departments - Lusaka"
+      ],
+      "Keywords": [
+        "public procurement",
+        "policy compliance",
+        "service delivery"
+      ],
+      "RelevanceScore": 60.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04e39288-18cf-08b3-07c5-00bf6f843306",
+      "Title": "Government Ministries budget allocation budget execution",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/3852",
+      "PublishedDate": "2026-01-14T17:30:31Z",
+      "PublishedAt": "2025-10-31T17:30:31Z",
+      "DiscoveredAt": "2026-01-01T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Compliance review reveals program implementation in Northern Province",
+      "RelatedEntities": [
+        "Contractors - Western Province"
+      ],
+      "Entities": [
+        "Contractors - Western Province"
+      ],
+      "Keywords": [
+        "budget execution",
+        "program implementation",
+        "public procurement"
+      ],
+      "RelevanceScore": 78.0,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "030135e8-221e-0819-0b8b-0057fbd66e9d",
+      "Title": "Government Ministries compliance review service delivery",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/4156",
+      "PublishedDate": "2025-12-21T17:30:31Z",
+      "PublishedAt": "2025-11-13T17:30:31Z",
+      "DiscoveredAt": "2025-10-24T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Budget allocation reveals public procurement in Copperbelt",
+      "RelatedEntities": [
+        "Contractors - Northern Province"
+      ],
+      "Entities": [
+        "Contractors - Northern Province"
+      ],
+      "Keywords": [
+        "policy compliance",
+        "service delivery",
+        "budget execution"
+      ],
+      "RelevanceScore": 74.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0350fa4e-1d1f-0a98-0afa-00498243b550",
+      "Title": "Government Ministries program monitoring budget execution",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/5409",
+      "PublishedDate": "2025-11-15T17:30:31Z",
+      "PublishedAt": "2025-12-02T17:30:31Z",
+      "DiscoveredAt": "2025-11-04T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Compliance review reveals program implementation in Lusaka",
+      "RelatedEntities": [
+        "Suppliers - Northern Province"
+      ],
+      "Entities": [
+        "Suppliers - Northern Province"
+      ],
+      "Keywords": [
+        "policy compliance",
+        "public procurement",
+        "service delivery"
+      ],
+      "RelevanceScore": 61.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01684bb8-07d9-0c36-16d3-003b44a98961",
+      "Title": "Government Ministries budget allocation program implementation",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/1185",
+      "PublishedDate": "2025-12-24T17:30:31Z",
+      "PublishedAt": "2026-01-02T17:30:31Z",
+      "DiscoveredAt": "2026-01-07T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Budget allocation reveals program implementation in Lusaka",
+      "RelatedEntities": [
+        "Suppliers - Copperbelt"
+      ],
+      "Entities": [
+        "Suppliers - Copperbelt"
+      ],
+      "Keywords": [
+        "budget execution",
+        "public procurement",
+        "program implementation"
+      ],
+      "RelevanceScore": 65.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02cdc8ce-058b-2608-1a1b-0024667a9ec9",
+      "Title": "Government Ministries procurement budget execution",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/5420",
+      "PublishedDate": "2025-12-25T17:30:31Z",
+      "PublishedAt": "2025-10-28T17:30:31Z",
+      "DiscoveredAt": "2025-12-13T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Program monitoring reveals public procurement in Northern Province",
+      "RelatedEntities": [
+        "Contractors - provincial offices"
+      ],
+      "Entities": [
+        "Contractors - provincial offices"
+      ],
+      "Keywords": [
+        "policy compliance",
+        "budget execution",
+        "program implementation"
+      ],
+      "RelevanceScore": 69.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "048bb201-1d42-1182-26e8-00ca1463be5e",
+      "Title": "Government Ministries procurement service delivery",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/2452",
+      "PublishedDate": "2025-11-03T17:30:31Z",
+      "PublishedAt": "2025-12-09T17:30:31Z",
+      "DiscoveredAt": "2025-11-24T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Procurement reveals budget execution in Copperbelt",
+      "RelatedEntities": [
+        "Government departments - Copperbelt"
+      ],
+      "Entities": [
+        "Government departments - Copperbelt"
+      ],
+      "Keywords": [
+        "service delivery",
+        "budget execution",
+        "public procurement"
+      ],
+      "RelevanceScore": 76.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00b1190f-2690-0598-1eb9-00844907fa1b",
+      "Title": "Government Ministries contract management service delivery",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/4237",
+      "PublishedDate": "2025-12-01T17:30:31Z",
+      "PublishedAt": "2025-12-19T17:30:31Z",
+      "DiscoveredAt": "2025-11-02T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Procurement reveals program implementation in Northern Province",
+      "RelatedEntities": [
+        "Contractors - Copperbelt"
+      ],
+      "Entities": [
+        "Contractors - Copperbelt"
+      ],
+      "Keywords": [
+        "public procurement",
+        "policy compliance",
+        "program implementation"
+      ],
+      "RelevanceScore": 86.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "023a65ad-083c-1ac4-148a-00771b122651",
+      "Title": "Government Ministries procurement budget execution",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/7829",
+      "PublishedDate": "2025-11-20T17:30:31Z",
+      "PublishedAt": "2026-01-07T17:30:31Z",
+      "DiscoveredAt": "2025-12-17T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Compliance review reveals policy compliance in Lusaka",
+      "RelatedEntities": [
+        "Contractors - Lusaka"
+      ],
+      "Entities": [
+        "Contractors - Lusaka"
+      ],
+      "Keywords": [
+        "policy compliance",
+        "service delivery",
+        "program implementation"
+      ],
+      "RelevanceScore": 64.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03bc6490-1d9a-2276-14b6-00d3e7043039",
+      "Title": "Government Ministries compliance review policy compliance",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/7053",
+      "PublishedDate": "2026-01-16T17:30:31Z",
+      "PublishedAt": "2025-12-15T17:30:31Z",
+      "DiscoveredAt": "2026-01-07T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Budget allocation reveals program implementation in provincial offices",
+      "RelatedEntities": [
+        "Contractors - Western Province"
+      ],
+      "Entities": [
+        "Contractors - Western Province"
+      ],
+      "Keywords": [
+        "public procurement",
+        "budget execution",
+        "service delivery"
+      ],
+      "RelevanceScore": 79.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03849add-1fb7-135d-173b-00174f6f442d",
+      "Title": "Government Ministries program monitoring public procurement",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/8948",
+      "PublishedDate": "2025-11-06T17:30:31Z",
+      "PublishedAt": "2026-01-08T17:30:31Z",
+      "DiscoveredAt": "2025-11-26T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Budget allocation reveals budget execution in Copperbelt",
+      "RelatedEntities": [
+        "Suppliers - provincial offices"
+      ],
+      "Entities": [
+        "Suppliers - provincial offices"
+      ],
+      "Keywords": [
+        "public procurement",
+        "budget execution",
+        "policy compliance"
+      ],
+      "RelevanceScore": 86.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0167fccf-07ff-1c62-1252-008da512e3a5",
+      "Title": "Government Ministries program monitoring policy compliance",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/1867",
+      "PublishedDate": "2025-11-26T17:30:31Z",
+      "PublishedAt": "2025-10-29T17:30:31Z",
+      "DiscoveredAt": "2025-12-08T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Contract management reveals service delivery in Western Province",
+      "RelatedEntities": [
+        "Contractors - Lusaka"
+      ],
+      "Entities": [
+        "Contractors - Lusaka"
+      ],
+      "Keywords": [
+        "budget execution",
+        "program implementation",
+        "policy compliance"
+      ],
+      "RelevanceScore": 80.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03e05b65-231e-25c7-0d00-00262cf5a042",
+      "Title": "Government Ministries program monitoring policy compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/9647",
+      "PublishedDate": "2025-11-17T17:30:31Z",
+      "PublishedAt": "2025-11-04T17:30:31Z",
+      "DiscoveredAt": "2025-11-23T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Compliance review reveals policy compliance in Copperbelt",
+      "RelatedEntities": [
+        "Government departments - Copperbelt"
+      ],
+      "Entities": [
+        "Government departments - Copperbelt"
+      ],
+      "Keywords": [
+        "budget execution",
+        "service delivery",
+        "program implementation"
+      ],
+      "RelevanceScore": 71.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04f99a11-0433-18cb-266b-00c1525b8bf9",
+      "Title": "Government Ministries compliance review policy compliance",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/7855",
+      "PublishedDate": "2026-01-18T17:30:31Z",
+      "PublishedAt": "2025-11-18T17:30:31Z",
+      "DiscoveredAt": "2025-12-25T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Procurement reveals program implementation in provincial offices",
+      "RelatedEntities": [
+        "Contractors - Northern Province"
+      ],
+      "Entities": [
+        "Contractors - Northern Province"
+      ],
+      "Keywords": [
+        "budget execution",
+        "public procurement",
+        "policy compliance"
+      ],
+      "RelevanceScore": 72.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "038564e5-138b-0fee-0b4e-00e67c69a19a",
+      "Title": "Government Ministries program monitoring service delivery",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/8803",
+      "PublishedDate": "2026-01-02T17:30:31Z",
+      "PublishedAt": "2025-10-21T17:30:31Z",
+      "DiscoveredAt": "2025-10-31T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Program monitoring reveals program implementation in Copperbelt",
+      "RelatedEntities": [
+        "Government departments - Northern Province"
+      ],
+      "Entities": [
+        "Government departments - Northern Province"
+      ],
+      "Keywords": [
+        "budget execution",
+        "service delivery",
+        "policy compliance"
+      ],
+      "RelevanceScore": 83.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00a249d1-2165-1c20-0674-004b3951666e",
+      "Title": "Government Ministries compliance review policy compliance",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/9659",
+      "PublishedDate": "2026-01-15T17:30:31Z",
+      "PublishedAt": "2025-11-20T17:30:31Z",
+      "DiscoveredAt": "2026-01-02T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Budget allocation reveals public procurement in Northern Province",
+      "RelatedEntities": [
+        "Government departments - Northern Province"
+      ],
+      "Entities": [
+        "Government departments - Northern Province"
+      ],
+      "Keywords": [
+        "program implementation",
+        "public procurement",
+        "budget execution"
+      ],
+      "RelevanceScore": 81.8,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "059024d5-1316-1b2c-1ec5-00b30419ca04",
+      "Title": "Government Ministries compliance review policy compliance",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/2269",
+      "PublishedDate": "2025-11-11T17:30:31Z",
+      "PublishedAt": "2025-11-25T17:30:31Z",
+      "DiscoveredAt": "2025-10-27T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Compliance review reveals public procurement in Copperbelt",
+      "RelatedEntities": [
+        "Suppliers - provincial offices"
+      ],
+      "Entities": [
+        "Suppliers - provincial offices"
+      ],
+      "Keywords": [
+        "policy compliance",
+        "service delivery",
+        "public procurement"
+      ],
+      "RelevanceScore": 70.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03926b28-0e1d-0bcd-0f5b-00bf4a45ae9e",
+      "Title": "Government Ministries contract management public procurement",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/7275",
+      "PublishedDate": "2025-11-11T17:30:31Z",
+      "PublishedAt": "2025-12-24T17:30:31Z",
+      "DiscoveredAt": "2025-12-05T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Procurement reveals service delivery in Copperbelt",
+      "RelatedEntities": [
+        "Government departments - Copperbelt"
+      ],
+      "Entities": [
+        "Government departments - Copperbelt"
+      ],
+      "Keywords": [
+        "service delivery",
+        "budget execution",
+        "policy compliance"
+      ],
+      "RelevanceScore": 62.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "025bc809-1d22-1049-08f6-0075fd03f076",
+      "Title": "Government Ministries procurement service delivery",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/7247",
+      "PublishedDate": "2025-12-30T17:30:31Z",
+      "PublishedAt": "2025-11-06T17:30:31Z",
+      "DiscoveredAt": "2025-12-02T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Budget allocation reveals policy compliance in provincial offices",
+      "RelatedEntities": [
+        "Beneficiaries - Western Province"
+      ],
+      "Entities": [
+        "Beneficiaries - Western Province"
+      ],
+      "Keywords": [
+        "budget execution",
+        "service delivery",
+        "program implementation"
+      ],
+      "RelevanceScore": 76.1,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05e34357-0fdc-09f8-21b3-00de84363109",
+      "Title": "Government Ministries program monitoring program implementation",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/4199",
+      "PublishedDate": "2025-11-13T17:30:31Z",
+      "PublishedAt": "2025-12-08T17:30:31Z",
+      "DiscoveredAt": "2025-11-28T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Compliance review reveals public procurement in Copperbelt",
+      "RelatedEntities": [
+        "Government departments - Western Province"
+      ],
+      "Entities": [
+        "Government departments - Western Province"
+      ],
+      "Keywords": [
+        "program implementation",
+        "policy compliance",
+        "service delivery"
+      ],
+      "RelevanceScore": 72.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "042c6032-21b9-26fe-26f1-0039927b0c3b",
+      "Title": "Government Ministries contract management program implementation",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/1753",
+      "PublishedDate": "2025-11-10T17:30:31Z",
+      "PublishedAt": "2025-12-22T17:30:31Z",
+      "DiscoveredAt": "2025-12-03T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Contract management reveals program implementation in Western Province",
+      "RelatedEntities": [
+        "Government departments - Lusaka"
+      ],
+      "Entities": [
+        "Government departments - Lusaka"
+      ],
+      "Keywords": [
+        "budget execution",
+        "policy compliance",
+        "public procurement"
+      ],
+      "RelevanceScore": 68.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "020e9c34-1c36-1c18-1ae1-0053edb78195",
+      "Title": "Government Ministries procurement program implementation",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/4195",
+      "PublishedDate": "2025-12-09T17:30:31Z",
+      "PublishedAt": "2026-01-08T17:30:31Z",
+      "DiscoveredAt": "2025-12-31T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Contract management reveals policy compliance in Northern Province",
+      "RelatedEntities": [
+        "Suppliers - provincial offices"
+      ],
+      "Entities": [
+        "Suppliers - provincial offices"
+      ],
+      "Keywords": [
+        "public procurement",
+        "budget execution",
+        "service delivery"
+      ],
+      "RelevanceScore": 77.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03285c00-06d9-2677-20f4-00ddbc81e197",
+      "Title": "Government Ministries procurement policy compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/8335",
+      "PublishedDate": "2025-11-06T17:30:31Z",
+      "PublishedAt": "2025-11-02T17:30:31Z",
+      "DiscoveredAt": "2025-11-25T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Budget allocation reveals program implementation in Lusaka",
+      "RelatedEntities": [
+        "Beneficiaries - provincial offices"
+      ],
+      "Entities": [
+        "Beneficiaries - provincial offices"
+      ],
+      "Keywords": [
+        "budget execution",
+        "policy compliance",
+        "service delivery"
+      ],
+      "RelevanceScore": 65.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "042495f5-07e3-1606-1d47-0080d1931379",
+      "Title": "Government Ministries procurement program implementation",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/4500",
+      "PublishedDate": "2025-11-23T17:30:31Z",
+      "PublishedAt": "2025-10-29T17:30:31Z",
+      "DiscoveredAt": "2025-11-25T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Budget allocation reveals public procurement in Lusaka",
+      "RelatedEntities": [
+        "Contractors - Copperbelt"
+      ],
+      "Entities": [
+        "Contractors - Copperbelt"
+      ],
+      "Keywords": [
+        "budget execution",
+        "service delivery",
+        "program implementation"
+      ],
+      "RelevanceScore": 75.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "029f054d-24fb-262c-2612-00aea5ad2721",
+      "Title": "Government Ministries budget allocation service delivery",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/8743",
+      "PublishedDate": "2025-11-17T17:30:31Z",
+      "PublishedAt": "2025-10-31T17:30:31Z",
+      "DiscoveredAt": "2025-12-04T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Procurement reveals service delivery in Northern Province",
+      "RelatedEntities": [
+        "Government departments - Lusaka"
+      ],
+      "Entities": [
+        "Government departments - Lusaka"
+      ],
+      "Keywords": [
+        "policy compliance",
+        "public procurement",
+        "service delivery"
+      ],
+      "RelevanceScore": 78.4,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04abb091-0e03-14c2-1726-00819713a857",
+      "Title": "Government Ministries procurement program implementation",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/3048",
+      "PublishedDate": "2025-12-21T17:30:31Z",
+      "PublishedAt": "2025-11-23T17:30:31Z",
+      "DiscoveredAt": "2025-10-26T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Budget allocation reveals policy compliance in provincial offices",
+      "RelatedEntities": [
+        "Contractors - Northern Province"
+      ],
+      "Entities": [
+        "Contractors - Northern Province"
+      ],
+      "Keywords": [
+        "budget execution",
+        "service delivery",
+        "public procurement"
+      ],
+      "RelevanceScore": 83.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "019ea93c-0d8d-26ba-12fb-007e4b447cb0",
+      "Title": "Government Ministries procurement budget execution",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/3603",
+      "PublishedDate": "2025-12-31T17:30:31Z",
+      "PublishedAt": "2025-12-10T17:30:31Z",
+      "DiscoveredAt": "2025-11-05T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Contract management reveals service delivery in Copperbelt",
+      "RelatedEntities": [
+        "Suppliers - Copperbelt"
+      ],
+      "Entities": [
+        "Suppliers - Copperbelt"
+      ],
+      "Keywords": [
+        "budget execution",
+        "service delivery",
+        "public procurement"
+      ],
+      "RelevanceScore": 75.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02ed0d9d-18f4-2604-192c-005172dcd058",
+      "Title": "Government Ministries contract management policy compliance",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/6023",
+      "PublishedDate": "2025-11-05T17:30:31Z",
+      "PublishedAt": "2025-11-09T17:30:31Z",
+      "DiscoveredAt": "2025-10-24T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Budget allocation reveals budget execution in Western Province",
+      "RelatedEntities": [
+        "Beneficiaries - Lusaka"
+      ],
+      "Entities": [
+        "Beneficiaries - Lusaka"
+      ],
+      "Keywords": [
+        "policy compliance",
+        "budget execution",
+        "program implementation"
+      ],
+      "RelevanceScore": 61.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "019a0f7d-05b1-0d65-1f12-006838b49e4d",
+      "ArticleId": "026efa70-1475-2114-1465-00d0a5d78e30",
+      "EntityId": "04c1f842-11ba-1f65-2405-004045024849",
+      "EntityName": "Suppliers - provincial offices",
+      "AlertReason": "Adverse media on service delivery",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-08T17:30:31Z",
+      "TriggeredAt": "2025-12-05T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0132af89-1d4b-08ef-0d96-008e02b7983b",
+      "ArticleId": "014a4226-04e2-23f3-08af-0024f17fe0af",
+      "EntityId": "01c6aeb0-1c8c-0e9d-0904-00a076b849ed",
+      "EntityName": "Government departments - Northern Province",
+      "AlertReason": "Adverse media on budget execution",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-29T17:30:31Z",
+      "TriggeredAt": "2026-01-18T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04cb9d02-0478-0d58-171c-008e9cbac597",
+      "ArticleId": "04aad92f-0a80-1beb-04f0-00a87579caac",
+      "EntityId": "028cbd80-2123-1974-0951-00ceb9383534",
+      "EntityName": "Contractors - provincial offices",
+      "AlertReason": "Adverse media on policy compliance",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-26T17:30:31Z",
+      "TriggeredAt": "2025-12-07T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "01117269-19b9-1f24-18f8-0039fdeabe2d",
+      "ArticleId": "00db7a0e-267d-046a-1aa7-003157bc0154",
+      "EntityId": "03747ce9-084a-0fec-0cad-0044ae6264f7",
+      "EntityName": "Government departments - Lusaka",
+      "AlertReason": "Adverse media on budget execution",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-04T17:30:31Z",
+      "TriggeredAt": "2025-12-10T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03b86462-13cc-066b-0b05-00387bba5a57",
+      "ArticleId": "0203b673-14f2-12bb-25de-00bc7c7966d4",
+      "EntityId": "02186655-1b26-1742-0c34-0038adc6c0a6",
+      "EntityName": "Suppliers - provincial offices",
+      "AlertReason": "Adverse media on budget execution",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2026-01-17T17:30:31Z",
+      "TriggeredAt": "2025-11-06T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0258816f-1933-2595-19a3-00984b2f7bb6",
+      "ArticleId": "0418fdea-08ff-187c-1f22-005e5d3e8894",
+      "EntityId": "01f0051c-0ceb-0ff6-0fe2-00346d0c2470",
+      "EntityName": "Government departments - Western Province",
+      "AlertReason": "Adverse media on public procurement",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-03T17:30:31Z",
+      "TriggeredAt": "2025-12-01T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01c19759-0a1f-1f86-045f-0074f2632292",
+      "ArticleId": "04e39288-18cf-08b3-07c5-00bf6f843306",
+      "EntityId": "02855048-0644-048a-0bbe-00aa8ffea79e",
+      "EntityName": "Contractors - Western Province",
+      "AlertReason": "Adverse media on policy compliance",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-10T17:30:31Z",
+      "TriggeredAt": "2025-12-22T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "05040649-1247-26c5-1db7-00440cd6b8a3",
+      "ArticleId": "030135e8-221e-0819-0b8b-0057fbd66e9d",
+      "EntityId": "017463b8-1253-114c-0bcb-005421f5c47f",
+      "EntityName": "Contractors - Northern Province",
+      "AlertReason": "Adverse media on service delivery",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-15T17:30:31Z",
+      "TriggeredAt": "2025-11-30T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02f0adf3-0f37-1a71-23b3-0089f8cade1f",
+      "ArticleId": "00b1190f-2690-0598-1eb9-00844907fa1b",
+      "EntityId": "036a882a-1d38-14b4-0da3-00987ef2885d",
+      "EntityName": "Contractors - Copperbelt",
+      "AlertReason": "Adverse media on program implementation",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-25T17:30:31Z",
+      "TriggeredAt": "2025-10-24T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03bca234-1b04-1d25-18e6-0060e002c5d5",
+      "ArticleId": "03849add-1fb7-135d-173b-00174f6f442d",
+      "EntityId": "0373f374-19f8-12f5-107e-004b923a01aa",
+      "EntityName": "Suppliers - provincial offices",
+      "AlertReason": "Adverse media on service delivery",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-31T17:30:31Z",
+      "TriggeredAt": "2025-11-15T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "05537ae9-046f-2210-12d1-0076b2da5c89",
+      "ArticleId": "04f99a11-0433-18cb-266b-00c1525b8bf9",
+      "EntityId": "057d76bb-2695-235d-08f4-004b809d6b8c",
+      "EntityName": "Contractors - Northern Province",
+      "AlertReason": "Adverse media on service delivery",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-30T17:30:31Z",
+      "TriggeredAt": "2025-10-28T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03daafcf-1630-1a40-054e-004d3dd265fe",
+      "ArticleId": "00a249d1-2165-1c20-0674-004b3951666e",
+      "EntityId": "0534e5b4-0f80-1ba8-0f44-00b6c6c360aa",
+      "EntityName": "Government departments - Northern Province",
+      "AlertReason": "Adverse media on program implementation",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-10T17:30:31Z",
+      "TriggeredAt": "2025-12-21T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "00e5fa40-15d0-25fc-0892-00cc1ff02094",
+      "ArticleId": "05e34357-0fdc-09f8-21b3-00de84363109",
+      "EntityId": "03e8cf9f-0804-21f2-214a-006fe994f717",
+      "EntityName": "Government departments - Western Province",
+      "AlertReason": "Adverse media on budget execution",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-03T17:30:31Z",
+      "TriggeredAt": "2026-01-19T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02daab41-1bb7-268d-18c7-0097ee719d94",
+      "ArticleId": "042c6032-21b9-26fe-26f1-0039927b0c3b",
+      "EntityId": "0337fa67-152e-0c95-21a7-00e6b4c291a6",
+      "EntityName": "Government departments - Lusaka",
+      "AlertReason": "Adverse media on service delivery",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-14T17:30:31Z",
+      "TriggeredAt": "2026-01-08T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "05ca623b-2277-12b7-0b94-0072379344f4",
+      "ArticleId": "019ea93c-0d8d-26ba-12fb-007e4b447cb0",
+      "EntityId": "05dc94e3-1fd7-0d45-22ec-00b434dea94f",
+      "EntityName": "Suppliers - Copperbelt",
+      "AlertReason": "Adverse media on program implementation",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-24T17:30:31Z",
+      "TriggeredAt": "2025-11-02T17:30:31Z",
+      "IsAcknowledged": false
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "052d0bc6-1333-24c9-0555-0085c3d79f64",
+      "EntityName": "Government Ministries",
+      "Keywords": [
+        "service delivery",
+        "policy compliance",
+        "public procurement"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 20,
+    "HighRiskArticles": 13,
+    "ActiveAlerts": 15,
+    "MonitoredEntities": 14,
+    "ArticlesByCategory": {
+      "regulatory": 7,
+      "criminal": 14,
+      "financial": 14,
+      "political": 13
+    },
+    "ArticlesBySeverity": {
+      "high": 19,
+      "medium": 13,
+      "low": 16
+    }
+  }
+}

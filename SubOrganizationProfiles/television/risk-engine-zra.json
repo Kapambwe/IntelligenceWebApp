@@ -1,0 +1,186 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "03a97a70-041c-14b5-1ac2-00b7df0dd802",
+      "Name": "Public accountability Risk Model",
+      "Description": "Detects news coverage patterns in Television Broadcasting operations",
+      "Status": "active",
+      "CreatedAt": "2025-09-26T17:30:31Z",
+      "LastModifiedAt": "2026-01-17T17:30:31Z",
+      "Version": "1.8",
+      "Factors": [
+        {
+          "Id": "0214b252-0da0-1f31-059b-00a444026f44",
+          "Name": "Investigative journalism Indicator",
+          "Description": "Measures public accountability risk across government entities",
+          "Category": "financial",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 158,
+          "IsEnabled": true
+        },
+        {
+          "Id": "038f3ff3-0489-0e60-153b-00a40cd49ef7",
+          "Name": "Public accountability Indicator",
+          "Description": "Measures media scrutiny risk across corporations",
+          "Category": "geographic",
+          "Weight": 0.17,
+          "MinValue": 0,
+          "MaxValue": 165,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0112d953-0f70-24af-0ca4-00de8ecd63b5",
+          "Name": "Documentary production Indicator",
+          "Description": "Measures investigative journalism risk across featured subjects",
+          "Category": "compliance",
+          "Weight": 0.33,
+          "MinValue": 0,
+          "MaxValue": 126,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.87,
+        "Precision": 0.84,
+        "Recall": 0.81,
+        "F1Score": 0.76,
+        "TotalPredictions": 798,
+        "TruePositives": 426,
+        "FalsePositives": 23,
+        "TrueNegatives": 173,
+        "FalseNegatives": 26
+      }
+    },
+    {
+      "Id": "042cc3ee-043d-06ce-223e-00de14603b79",
+      "Name": "Public accountability Risk Model",
+      "Description": "Detects investigative journalism patterns in Television Broadcasting operations",
+      "Status": "active",
+      "CreatedAt": "2025-11-25T17:30:31Z",
+      "LastModifiedAt": "2026-01-11T17:30:31Z",
+      "Version": "1.7",
+      "Factors": [
+        {
+          "Id": "0508c8b7-1431-0e7b-11cb-008952c25320",
+          "Name": "Media scrutiny Indicator",
+          "Description": "Measures media scrutiny risk across public figures",
+          "Category": "operational",
+          "Weight": 0.27,
+          "MinValue": 0,
+          "MaxValue": 190,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02ddb02a-1157-191b-1215-0096c3efa491",
+          "Name": "Public accountability Indicator",
+          "Description": "Measures documentary production risk across corporations",
+          "Category": "compliance",
+          "Weight": 0.29,
+          "MinValue": 0,
+          "MaxValue": 146,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03b0481a-0e96-21d0-16b0-001acab9ec25",
+          "Name": "Investigative journalism Indicator",
+          "Description": "Measures public accountability risk across public figures",
+          "Category": "financial",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 113,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.85,
+        "Precision": 0.89,
+        "Recall": 0.74,
+        "F1Score": 0.88,
+        "TotalPredictions": 417,
+        "TruePositives": 347,
+        "FalsePositives": 36,
+        "TrueNegatives": 118,
+        "FalseNegatives": 22
+      }
+    },
+    {
+      "Id": "03fa2571-10a3-18fd-15d4-00d2bb7dc53d",
+      "Name": "Investigative journalism Risk Model",
+      "Description": "Detects news coverage patterns in Television Broadcasting operations",
+      "Status": "active",
+      "CreatedAt": "2025-10-04T17:30:31Z",
+      "LastModifiedAt": "2026-01-10T17:30:31Z",
+      "Version": "2.4",
+      "Factors": [
+        {
+          "Id": "01986012-077c-16d9-2536-009179ac5492",
+          "Name": "Documentary production Indicator",
+          "Description": "Measures media scrutiny risk across public figures",
+          "Category": "financial",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 131,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03c71488-1005-251d-075b-00e17ca75061",
+          "Name": "Documentary production Indicator",
+          "Description": "Measures documentary production risk across public figures",
+          "Category": "geographic",
+          "Weight": 0.14,
+          "MinValue": 0,
+          "MaxValue": 104,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04d66288-1aff-1970-1e59-00bedc0a1f6e",
+          "Name": "Public accountability Indicator",
+          "Description": "Measures investigative journalism risk across corporations",
+          "Category": "geographic",
+          "Weight": 0.19,
+          "MinValue": 0,
+          "MaxValue": 196,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01485876-0ce9-1609-1df5-00a0a1cddc25",
+          "Name": "Public accountability Indicator",
+          "Description": "Measures investigative journalism risk across featured subjects",
+          "Category": "compliance",
+          "Weight": 0.27,
+          "MinValue": 0,
+          "MaxValue": 170,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0282ca08-064f-148e-12e6-007dc72270b8",
+          "Name": "News coverage Indicator",
+          "Description": "Measures investigative journalism risk across featured subjects",
+          "Category": "compliance",
+          "Weight": 0.38,
+          "MinValue": 0,
+          "MaxValue": 119,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.92,
+        "Precision": 0.75,
+        "Recall": 0.77,
+        "F1Score": 0.87,
+        "TotalPredictions": 330,
+        "TruePositives": 476,
+        "FalsePositives": 35,
+        "TrueNegatives": 109,
+        "FalseNegatives": 28
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 11,
+    "AverageRiskScore": 79.8
+  }
+}

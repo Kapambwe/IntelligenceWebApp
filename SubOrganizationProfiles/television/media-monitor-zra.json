@@ -1,0 +1,1469 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "0199aec2-0610-0dd0-1e52-00841bfe0f7c",
+      "Title": "Television Broadcasting filming news coverage",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/1710",
+      "PublishedDate": "2025-12-06T17:30:31Z",
+      "PublishedAt": "2025-11-21T17:30:31Z",
+      "DiscoveredAt": "2025-12-03T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Broadcast reveals public accountability in Copperbelt",
+      "RelatedEntities": [
+        "Government entities - Lusaka"
+      ],
+      "Entities": [
+        "Government entities - Lusaka"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "media scrutiny",
+        "documentary production"
+      ],
+      "RelevanceScore": 77.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04a16ff4-23bf-0722-1e1f-00af97d35eda",
+      "Title": "Television Broadcasting editorial review public accountability",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/4847",
+      "PublishedDate": "2025-11-29T17:30:31Z",
+      "PublishedAt": "2026-01-15T17:30:31Z",
+      "DiscoveredAt": "2026-01-13T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Broadcast reveals documentary production in Copperbelt",
+      "RelatedEntities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Entities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Keywords": [
+        "public accountability",
+        "investigative journalism",
+        "media scrutiny"
+      ],
+      "RelevanceScore": 61.7,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00c8b6f8-1425-08bf-1066-009a018a2d06",
+      "Title": "Television Broadcasting editorial review public accountability",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/8620",
+      "PublishedDate": "2025-12-24T17:30:31Z",
+      "PublishedAt": "2025-10-22T17:30:31Z",
+      "DiscoveredAt": "2025-11-03T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Editorial review reveals public accountability in Southern Province",
+      "RelatedEntities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Entities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Keywords": [
+        "media scrutiny",
+        "public accountability",
+        "documentary production"
+      ],
+      "RelevanceScore": 76.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05e2d410-2685-0582-0e95-00b8fd3f11fe",
+      "Title": "Television Broadcasting editorial review public accountability",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/2906",
+      "PublishedDate": "2026-01-09T17:30:31Z",
+      "PublishedAt": "2026-01-06T17:30:31Z",
+      "DiscoveredAt": "2025-12-01T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Investigation reveals news coverage in Kitwe",
+      "RelatedEntities": [
+        "Featured subjects - Southern Province"
+      ],
+      "Entities": [
+        "Featured subjects - Southern Province"
+      ],
+      "Keywords": [
+        "news coverage",
+        "investigative journalism",
+        "media scrutiny"
+      ],
+      "RelevanceScore": 63.0,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0254543b-175c-1724-1e17-00c91f87fc1c",
+      "Title": "Television Broadcasting broadcast documentary production",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/1099",
+      "PublishedDate": "2025-11-07T17:30:31Z",
+      "PublishedAt": "2025-11-25T17:30:31Z",
+      "DiscoveredAt": "2026-01-11T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Broadcast reveals investigative journalism in nationwide coverage",
+      "RelatedEntities": [
+        "Featured subjects - Kitwe"
+      ],
+      "Entities": [
+        "Featured subjects - Kitwe"
+      ],
+      "Keywords": [
+        "media scrutiny",
+        "documentary production",
+        "public accountability"
+      ],
+      "RelevanceScore": 77.7,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00d214ff-2332-1424-082a-00d9dd095f42",
+      "Title": "Television Broadcasting broadcast investigative journalism",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/5794",
+      "PublishedDate": "2025-12-14T17:30:31Z",
+      "PublishedAt": "2025-11-06T17:30:31Z",
+      "DiscoveredAt": "2025-12-13T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Fact-checking reveals investigative journalism in Kitwe",
+      "RelatedEntities": [
+        "Public figures - Copperbelt"
+      ],
+      "Entities": [
+        "Public figures - Copperbelt"
+      ],
+      "Keywords": [
+        "documentary production",
+        "investigative journalism",
+        "media scrutiny"
+      ],
+      "RelevanceScore": 73.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04807f29-0da3-080c-2357-0049e3b5d07e",
+      "Title": "Television Broadcasting investigation public accountability",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/4775",
+      "PublishedDate": "2025-10-23T17:30:31Z",
+      "PublishedAt": "2025-11-27T17:30:31Z",
+      "DiscoveredAt": "2026-01-11T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Editorial review reveals public accountability in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Copperbelt"
+      ],
+      "Entities": [
+        "Corporations - Copperbelt"
+      ],
+      "Keywords": [
+        "media scrutiny",
+        "news coverage",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 77.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0201a4a8-1d9e-0ff6-1279-0092da946280",
+      "Title": "Television Broadcasting editorial review investigative journalism",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/2605",
+      "PublishedDate": "2025-11-11T17:30:31Z",
+      "PublishedAt": "2025-12-23T17:30:31Z",
+      "DiscoveredAt": "2025-11-10T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Investigation reveals media scrutiny in Kitwe",
+      "RelatedEntities": [
+        "Featured subjects - Kitwe"
+      ],
+      "Entities": [
+        "Featured subjects - Kitwe"
+      ],
+      "Keywords": [
+        "documentary production",
+        "investigative journalism",
+        "media scrutiny"
+      ],
+      "RelevanceScore": 94.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04441ad9-1d72-1599-268e-0072e10282c2",
+      "Title": "Television Broadcasting editorial review documentary production",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/7156",
+      "PublishedDate": "2025-10-22T17:30:31Z",
+      "PublishedAt": "2025-12-08T17:30:31Z",
+      "DiscoveredAt": "2025-10-22T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Editorial review reveals investigative journalism in Lusaka",
+      "RelatedEntities": [
+        "Featured subjects - Lusaka"
+      ],
+      "Entities": [
+        "Featured subjects - Lusaka"
+      ],
+      "Keywords": [
+        "public accountability",
+        "news coverage",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 67.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04897d0b-045f-1c8f-04bb-00ad40178ba3",
+      "Title": "Television Broadcasting editorial review public accountability",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/6247",
+      "PublishedDate": "2025-12-24T17:30:31Z",
+      "PublishedAt": "2025-11-26T17:30:31Z",
+      "DiscoveredAt": "2025-11-08T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Investigation reveals investigative journalism in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Kitwe"
+      ],
+      "Entities": [
+        "Corporations - Kitwe"
+      ],
+      "Keywords": [
+        "documentary production",
+        "public accountability",
+        "news coverage"
+      ],
+      "RelevanceScore": 82.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02fb0852-1b8c-1405-03fc-002cc21504b5",
+      "Title": "Television Broadcasting filming media scrutiny",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/9040",
+      "PublishedDate": "2025-11-24T17:30:31Z",
+      "PublishedAt": "2025-12-07T17:30:31Z",
+      "DiscoveredAt": "2026-01-12T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Editorial review reveals investigative journalism in Southern Province",
+      "RelatedEntities": [
+        "Featured subjects - nationwide coverage"
+      ],
+      "Entities": [
+        "Featured subjects - nationwide coverage"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "news coverage",
+        "documentary production"
+      ],
+      "RelevanceScore": 66.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02eb55a2-0c9e-11ec-206c-00847211b810",
+      "Title": "Television Broadcasting editorial review public accountability",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/2475",
+      "PublishedDate": "2025-10-25T17:30:31Z",
+      "PublishedAt": "2025-11-27T17:30:31Z",
+      "DiscoveredAt": "2025-11-10T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Filming reveals news coverage in Kitwe",
+      "RelatedEntities": [
+        "Government entities - Kitwe"
+      ],
+      "Entities": [
+        "Government entities - Kitwe"
+      ],
+      "Keywords": [
+        "public accountability",
+        "documentary production",
+        "news coverage"
+      ],
+      "RelevanceScore": 77.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "047d88f7-222b-20c6-07d3-00836844740e",
+      "Title": "Television Broadcasting investigation news coverage",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/7575",
+      "PublishedDate": "2025-12-30T17:30:31Z",
+      "PublishedAt": "2025-12-30T17:30:31Z",
+      "DiscoveredAt": "2025-12-17T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Filming reveals investigative journalism in nationwide coverage",
+      "RelatedEntities": [
+        "Government entities - Copperbelt"
+      ],
+      "Entities": [
+        "Government entities - Copperbelt"
+      ],
+      "Keywords": [
+        "news coverage",
+        "public accountability",
+        "documentary production"
+      ],
+      "RelevanceScore": 78.2,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04b646e9-0fb5-1293-0e91-00bde82c6649",
+      "Title": "Television Broadcasting editorial review documentary production",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/6875",
+      "PublishedDate": "2026-01-14T17:30:31Z",
+      "PublishedAt": "2026-01-16T17:30:31Z",
+      "DiscoveredAt": "2025-10-26T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Broadcast reveals documentary production in Kitwe",
+      "RelatedEntities": [
+        "Government entities - nationwide coverage"
+      ],
+      "Entities": [
+        "Government entities - nationwide coverage"
+      ],
+      "Keywords": [
+        "public accountability",
+        "media scrutiny",
+        "news coverage"
+      ],
+      "RelevanceScore": 90.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01e19ef1-053c-18e3-1f31-004076f66000",
+      "Title": "Television Broadcasting investigation public accountability",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/5716",
+      "PublishedDate": "2025-12-26T17:30:31Z",
+      "PublishedAt": "2025-10-27T17:30:31Z",
+      "DiscoveredAt": "2025-12-18T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Broadcast reveals documentary production in Southern Province",
+      "RelatedEntities": [
+        "Corporations - Southern Province"
+      ],
+      "Entities": [
+        "Corporations - Southern Province"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "documentary production",
+        "news coverage"
+      ],
+      "RelevanceScore": 77.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0358a57c-250a-0d52-1e44-00cee2adb79a",
+      "Title": "Television Broadcasting broadcast documentary production",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/1284",
+      "PublishedDate": "2025-11-24T17:30:31Z",
+      "PublishedAt": "2025-11-26T17:30:31Z",
+      "DiscoveredAt": "2025-10-21T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Fact-checking reveals investigative journalism in Southern Province",
+      "RelatedEntities": [
+        "Government entities - nationwide coverage"
+      ],
+      "Entities": [
+        "Government entities - nationwide coverage"
+      ],
+      "Keywords": [
+        "documentary production",
+        "media scrutiny",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 92.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "059a57b9-041c-1b31-080f-00589d79bce8",
+      "Title": "Television Broadcasting fact-checking news coverage",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/6685",
+      "PublishedDate": "2025-11-23T17:30:31Z",
+      "PublishedAt": "2025-11-15T17:30:31Z",
+      "DiscoveredAt": "2026-01-03T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Investigation reveals investigative journalism in Southern Province",
+      "RelatedEntities": [
+        "Featured subjects - Lusaka"
+      ],
+      "Entities": [
+        "Featured subjects - Lusaka"
+      ],
+      "Keywords": [
+        "news coverage",
+        "public accountability",
+        "documentary production"
+      ],
+      "RelevanceScore": 71.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02c816bf-2345-0820-1a2c-0086682b5e69",
+      "Title": "Television Broadcasting investigation documentary production",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/6992",
+      "PublishedDate": "2025-11-20T17:30:31Z",
+      "PublishedAt": "2026-01-14T17:30:31Z",
+      "DiscoveredAt": "2025-12-27T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Filming reveals investigative journalism in Southern Province",
+      "RelatedEntities": [
+        "Public figures - Copperbelt"
+      ],
+      "Entities": [
+        "Public figures - Copperbelt"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "news coverage",
+        "media scrutiny"
+      ],
+      "RelevanceScore": 66.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02eb2040-1103-2483-1031-009e7e9787b6",
+      "Title": "Television Broadcasting broadcast investigative journalism",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/5301",
+      "PublishedDate": "2025-12-10T17:30:31Z",
+      "PublishedAt": "2025-12-23T17:30:31Z",
+      "DiscoveredAt": "2025-12-17T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Filming reveals investigative journalism in Copperbelt",
+      "RelatedEntities": [
+        "Government entities - Copperbelt"
+      ],
+      "Entities": [
+        "Government entities - Copperbelt"
+      ],
+      "Keywords": [
+        "media scrutiny",
+        "news coverage",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 82.8,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "032159b9-181b-1977-0d12-002b5b88261c",
+      "Title": "Television Broadcasting editorial review public accountability",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/7610",
+      "PublishedDate": "2026-01-18T17:30:31Z",
+      "PublishedAt": "2026-01-02T17:30:31Z",
+      "DiscoveredAt": "2025-11-19T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Broadcast reveals public accountability in Kitwe",
+      "RelatedEntities": [
+        "Corporations - Copperbelt"
+      ],
+      "Entities": [
+        "Corporations - Copperbelt"
+      ],
+      "Keywords": [
+        "media scrutiny",
+        "public accountability",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 75.0,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "057202ea-0473-2566-1c34-00ade0a63c77",
+      "Title": "Television Broadcasting broadcast media scrutiny",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/8246",
+      "PublishedDate": "2025-11-06T17:30:31Z",
+      "PublishedAt": "2025-12-28T17:30:31Z",
+      "DiscoveredAt": "2025-12-15T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Fact-checking reveals news coverage in Kitwe",
+      "RelatedEntities": [
+        "Public figures - Southern Province"
+      ],
+      "Entities": [
+        "Public figures - Southern Province"
+      ],
+      "Keywords": [
+        "public accountability",
+        "news coverage",
+        "documentary production"
+      ],
+      "RelevanceScore": 74.8,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03fa457d-2435-0a4a-1278-001fa7a887d8",
+      "Title": "Television Broadcasting broadcast documentary production",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/6582",
+      "PublishedDate": "2025-11-16T17:30:31Z",
+      "PublishedAt": "2025-10-25T17:30:31Z",
+      "DiscoveredAt": "2025-11-07T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Investigation reveals media scrutiny in nationwide coverage",
+      "RelatedEntities": [
+        "Corporations - Lusaka"
+      ],
+      "Entities": [
+        "Corporations - Lusaka"
+      ],
+      "Keywords": [
+        "news coverage",
+        "public accountability",
+        "documentary production"
+      ],
+      "RelevanceScore": 80.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02594186-2559-21c0-0aaa-00d7015f03da",
+      "Title": "Television Broadcasting editorial review media scrutiny",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/9551",
+      "PublishedDate": "2025-12-28T17:30:31Z",
+      "PublishedAt": "2025-12-01T17:30:31Z",
+      "DiscoveredAt": "2025-12-04T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Fact-checking reveals investigative journalism in nationwide coverage",
+      "RelatedEntities": [
+        "Featured subjects - Southern Province"
+      ],
+      "Entities": [
+        "Featured subjects - Southern Province"
+      ],
+      "Keywords": [
+        "documentary production",
+        "investigative journalism",
+        "media scrutiny"
+      ],
+      "RelevanceScore": 69.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00a456da-198a-1702-1ad0-00ca82574b94",
+      "Title": "Television Broadcasting editorial review media scrutiny",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/9681",
+      "PublishedDate": "2025-11-17T17:30:31Z",
+      "PublishedAt": "2025-12-27T17:30:31Z",
+      "DiscoveredAt": "2025-11-02T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Filming reveals documentary production in Kitwe",
+      "RelatedEntities": [
+        "Corporations - Kitwe"
+      ],
+      "Entities": [
+        "Corporations - Kitwe"
+      ],
+      "Keywords": [
+        "public accountability",
+        "documentary production",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 66.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03f11c8e-1b59-1358-1e2c-005e09851cdd",
+      "Title": "Television Broadcasting fact-checking media scrutiny",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/5748",
+      "PublishedDate": "2025-12-03T17:30:31Z",
+      "PublishedAt": "2025-12-23T17:30:31Z",
+      "DiscoveredAt": "2026-01-19T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Broadcast reveals news coverage in Copperbelt",
+      "RelatedEntities": [
+        "Public figures - Lusaka"
+      ],
+      "Entities": [
+        "Public figures - Lusaka"
+      ],
+      "Keywords": [
+        "media scrutiny",
+        "documentary production",
+        "news coverage"
+      ],
+      "RelevanceScore": 65.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01b0b802-211b-223f-04e9-0022953b243b",
+      "Title": "Television Broadcasting editorial review public accountability",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/6707",
+      "PublishedDate": "2025-12-16T17:30:31Z",
+      "PublishedAt": "2025-12-29T17:30:31Z",
+      "DiscoveredAt": "2025-12-17T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Fact-checking reveals investigative journalism in Copperbelt",
+      "RelatedEntities": [
+        "Corporations - Lusaka"
+      ],
+      "Entities": [
+        "Corporations - Lusaka"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "public accountability",
+        "documentary production"
+      ],
+      "RelevanceScore": 77.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "031b0e27-0ca2-189e-145e-00442a562f6d",
+      "Title": "Television Broadcasting fact-checking media scrutiny",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/2388",
+      "PublishedDate": "2025-11-25T17:30:31Z",
+      "PublishedAt": "2025-11-15T17:30:31Z",
+      "DiscoveredAt": "2025-12-16T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Investigation reveals news coverage in Southern Province",
+      "RelatedEntities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Entities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Keywords": [
+        "media scrutiny",
+        "public accountability",
+        "documentary production"
+      ],
+      "RelevanceScore": 68.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05a71071-0991-0837-0e37-00422deec46a",
+      "Title": "Television Broadcasting editorial review investigative journalism",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/4837",
+      "PublishedDate": "2026-01-08T17:30:31Z",
+      "PublishedAt": "2025-11-12T17:30:31Z",
+      "DiscoveredAt": "2026-01-08T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Filming reveals news coverage in Southern Province",
+      "RelatedEntities": [
+        "Corporations - Southern Province"
+      ],
+      "Entities": [
+        "Corporations - Southern Province"
+      ],
+      "Keywords": [
+        "news coverage",
+        "documentary production",
+        "media scrutiny"
+      ],
+      "RelevanceScore": 90.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05424377-0f4f-181d-138b-001c2c7f64c2",
+      "Title": "Television Broadcasting broadcast media scrutiny",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/2952",
+      "PublishedDate": "2026-01-07T17:30:31Z",
+      "PublishedAt": "2025-11-15T17:30:31Z",
+      "DiscoveredAt": "2026-01-09T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Editorial review reveals news coverage in Copperbelt",
+      "RelatedEntities": [
+        "Government entities - Copperbelt"
+      ],
+      "Entities": [
+        "Government entities - Copperbelt"
+      ],
+      "Keywords": [
+        "news coverage",
+        "investigative journalism",
+        "media scrutiny"
+      ],
+      "RelevanceScore": 71.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02bb79b3-0be3-12df-153a-00bcbce89902",
+      "Title": "Television Broadcasting filming media scrutiny",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/9579",
+      "PublishedDate": "2025-12-17T17:30:31Z",
+      "PublishedAt": "2025-12-25T17:30:31Z",
+      "DiscoveredAt": "2025-11-02T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Fact-checking reveals news coverage in Southern Province",
+      "RelatedEntities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Entities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Keywords": [
+        "public accountability",
+        "investigative journalism",
+        "news coverage"
+      ],
+      "RelevanceScore": 78.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05f5bd36-06b0-204b-1c4c-007d922514c0",
+      "Title": "Television Broadcasting filming investigative journalism",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/3407",
+      "PublishedDate": "2025-12-29T17:30:31Z",
+      "PublishedAt": "2026-01-10T17:30:31Z",
+      "DiscoveredAt": "2025-11-08T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Editorial review reveals news coverage in Kitwe",
+      "RelatedEntities": [
+        "Public figures - Lusaka"
+      ],
+      "Entities": [
+        "Public figures - Lusaka"
+      ],
+      "Keywords": [
+        "media scrutiny",
+        "documentary production",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 61.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04b86615-1c45-1458-08b0-009d51299914",
+      "Title": "Television Broadcasting filming public accountability",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/3965",
+      "PublishedDate": "2025-11-15T17:30:31Z",
+      "PublishedAt": "2025-12-23T17:30:31Z",
+      "DiscoveredAt": "2025-12-15T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Fact-checking reveals media scrutiny in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Copperbelt"
+      ],
+      "Entities": [
+        "Corporations - Copperbelt"
+      ],
+      "Keywords": [
+        "media scrutiny",
+        "documentary production",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 71.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00dc895a-108f-2348-1f4f-00d3fdfca6ac",
+      "Title": "Television Broadcasting editorial review media scrutiny",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/5957",
+      "PublishedDate": "2025-11-20T17:30:31Z",
+      "PublishedAt": "2026-01-11T17:30:31Z",
+      "DiscoveredAt": "2025-12-24T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Filming reveals public accountability in Southern Province",
+      "RelatedEntities": [
+        "Government entities - Southern Province"
+      ],
+      "Entities": [
+        "Government entities - Southern Province"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "public accountability",
+        "media scrutiny"
+      ],
+      "RelevanceScore": 63.6,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "047b3d05-07ef-2263-25d6-009e91f39a97",
+      "Title": "Television Broadcasting editorial review public accountability",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/5372",
+      "PublishedDate": "2026-01-05T17:30:31Z",
+      "PublishedAt": "2026-01-01T17:30:31Z",
+      "DiscoveredAt": "2025-11-09T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Editorial review reveals media scrutiny in nationwide coverage",
+      "RelatedEntities": [
+        "Corporations - Southern Province"
+      ],
+      "Entities": [
+        "Corporations - Southern Province"
+      ],
+      "Keywords": [
+        "media scrutiny",
+        "documentary production",
+        "public accountability"
+      ],
+      "RelevanceScore": 60.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02844b4a-1af2-1f29-1490-009e84d626a1",
+      "Title": "Television Broadcasting filming news coverage",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/3993",
+      "PublishedDate": "2025-12-26T17:30:31Z",
+      "PublishedAt": "2026-01-03T17:30:31Z",
+      "DiscoveredAt": "2025-10-26T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Broadcast reveals media scrutiny in Copperbelt",
+      "RelatedEntities": [
+        "Public figures - Copperbelt"
+      ],
+      "Entities": [
+        "Public figures - Copperbelt"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "news coverage",
+        "media scrutiny"
+      ],
+      "RelevanceScore": 72.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "036683ca-1455-1f67-1fa1-005170d50a93",
+      "Title": "Television Broadcasting broadcast news coverage",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/9394",
+      "PublishedDate": "2025-12-29T17:30:31Z",
+      "PublishedAt": "2025-11-17T17:30:31Z",
+      "DiscoveredAt": "2025-12-08T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Broadcast reveals documentary production in Copperbelt",
+      "RelatedEntities": [
+        "Public figures - Southern Province"
+      ],
+      "Entities": [
+        "Public figures - Southern Province"
+      ],
+      "Keywords": [
+        "documentary production",
+        "media scrutiny",
+        "news coverage"
+      ],
+      "RelevanceScore": 68.2,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00f2dfee-1634-1c3a-1e26-001cbff760df",
+      "Title": "Television Broadcasting editorial review investigative journalism",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/5757",
+      "PublishedDate": "2025-11-30T17:30:31Z",
+      "PublishedAt": "2026-01-18T17:30:31Z",
+      "DiscoveredAt": "2025-11-03T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Investigation reveals investigative journalism in Kitwe",
+      "RelatedEntities": [
+        "Corporations - Copperbelt"
+      ],
+      "Entities": [
+        "Corporations - Copperbelt"
+      ],
+      "Keywords": [
+        "documentary production",
+        "media scrutiny",
+        "public accountability"
+      ],
+      "RelevanceScore": 77.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "035e8968-269d-0a0b-1148-0089aefc58e6",
+      "Title": "Television Broadcasting fact-checking news coverage",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/8615",
+      "PublishedDate": "2025-11-08T17:30:31Z",
+      "PublishedAt": "2025-12-07T17:30:31Z",
+      "DiscoveredAt": "2025-10-26T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Fact-checking reveals documentary production in Lusaka",
+      "RelatedEntities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Entities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Keywords": [
+        "documentary production",
+        "media scrutiny",
+        "news coverage"
+      ],
+      "RelevanceScore": 90.0,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04485153-1180-14b5-0e06-0086bc6e4683",
+      "Title": "Television Broadcasting filming documentary production",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/1167",
+      "PublishedDate": "2025-12-02T17:30:31Z",
+      "PublishedAt": "2025-12-31T17:30:31Z",
+      "DiscoveredAt": "2025-11-22T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Investigation reveals public accountability in Kitwe",
+      "RelatedEntities": [
+        "Corporations - Kitwe"
+      ],
+      "Entities": [
+        "Corporations - Kitwe"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "news coverage",
+        "public accountability"
+      ],
+      "RelevanceScore": 61.1,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "016a580c-0c07-18c0-20ff-0081e03dac80",
+      "Title": "Television Broadcasting investigation news coverage",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/5200",
+      "PublishedDate": "2025-11-02T17:30:31Z",
+      "PublishedAt": "2025-12-28T17:30:31Z",
+      "DiscoveredAt": "2025-10-24T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Investigation reveals public accountability in Copperbelt",
+      "RelatedEntities": [
+        "Government entities - Lusaka"
+      ],
+      "Entities": [
+        "Government entities - Lusaka"
+      ],
+      "Keywords": [
+        "public accountability",
+        "investigative journalism",
+        "media scrutiny"
+      ],
+      "RelevanceScore": 92.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02fefe6f-1fcc-083f-1af8-00adaf69f406",
+      "Title": "Television Broadcasting investigation media scrutiny",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/5861",
+      "PublishedDate": "2025-11-13T17:30:31Z",
+      "PublishedAt": "2025-11-14T17:30:31Z",
+      "DiscoveredAt": "2025-11-17T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Broadcast reveals public accountability in Kitwe",
+      "RelatedEntities": [
+        "Government entities - Lusaka"
+      ],
+      "Entities": [
+        "Government entities - Lusaka"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "news coverage",
+        "public accountability"
+      ],
+      "RelevanceScore": 70.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02228052-0dfb-0f92-1e56-00907e1524f9",
+      "Title": "Television Broadcasting broadcast investigative journalism",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/5874",
+      "PublishedDate": "2025-11-18T17:30:31Z",
+      "PublishedAt": "2025-12-24T17:30:31Z",
+      "DiscoveredAt": "2025-10-30T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Fact-checking reveals investigative journalism in Lusaka",
+      "RelatedEntities": [
+        "Public figures - nationwide coverage"
+      ],
+      "Entities": [
+        "Public figures - nationwide coverage"
+      ],
+      "Keywords": [
+        "news coverage",
+        "media scrutiny",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 79.8,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "029cfd8c-1c22-175a-0cfa-0060589f5119",
+      "Title": "Television Broadcasting editorial review news coverage",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/2117",
+      "PublishedDate": "2026-01-18T17:30:31Z",
+      "PublishedAt": "2025-12-08T17:30:31Z",
+      "DiscoveredAt": "2026-01-02T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Investigation reveals investigative journalism in nationwide coverage",
+      "RelatedEntities": [
+        "Government entities - Copperbelt"
+      ],
+      "Entities": [
+        "Government entities - Copperbelt"
+      ],
+      "Keywords": [
+        "news coverage",
+        "documentary production",
+        "media scrutiny"
+      ],
+      "RelevanceScore": 70.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00a64c26-2111-1d15-20e6-009bd5875db0",
+      "Title": "Television Broadcasting editorial review documentary production",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/9692",
+      "PublishedDate": "2025-12-25T17:30:31Z",
+      "PublishedAt": "2026-01-18T17:30:31Z",
+      "DiscoveredAt": "2025-11-02T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Fact-checking reveals public accountability in Lusaka",
+      "RelatedEntities": [
+        "Public figures - Copperbelt"
+      ],
+      "Entities": [
+        "Public figures - Copperbelt"
+      ],
+      "Keywords": [
+        "media scrutiny",
+        "public accountability",
+        "documentary production"
+      ],
+      "RelevanceScore": 73.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03a72377-2245-1abf-1ced-001ff03f8303",
+      "Title": "Television Broadcasting fact-checking public accountability",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/1130",
+      "PublishedDate": "2025-11-22T17:30:31Z",
+      "PublishedAt": "2025-10-21T17:30:31Z",
+      "DiscoveredAt": "2026-01-17T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Fact-checking reveals news coverage in Lusaka",
+      "RelatedEntities": [
+        "Government entities - Lusaka"
+      ],
+      "Entities": [
+        "Government entities - Lusaka"
+      ],
+      "Keywords": [
+        "news coverage",
+        "investigative journalism",
+        "public accountability"
+      ],
+      "RelevanceScore": 93.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04f605b0-219f-14f6-1cc8-009c1e0dc778",
+      "Title": "Television Broadcasting filming public accountability",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/6401",
+      "PublishedDate": "2026-01-06T17:30:31Z",
+      "PublishedAt": "2025-11-26T17:30:31Z",
+      "DiscoveredAt": "2025-12-25T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Editorial review reveals investigative journalism in Copperbelt",
+      "RelatedEntities": [
+        "Public figures - Lusaka"
+      ],
+      "Entities": [
+        "Public figures - Lusaka"
+      ],
+      "Keywords": [
+        "news coverage",
+        "investigative journalism",
+        "documentary production"
+      ],
+      "RelevanceScore": 85.9,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03ec2bef-0e09-1382-2156-00e342e65f78",
+      "Title": "Television Broadcasting fact-checking public accountability",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/4070",
+      "PublishedDate": "2025-11-28T17:30:31Z",
+      "PublishedAt": "2025-10-26T17:30:31Z",
+      "DiscoveredAt": "2026-01-05T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Investigation reveals media scrutiny in Southern Province",
+      "RelatedEntities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Entities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "media scrutiny",
+        "news coverage"
+      ],
+      "RelevanceScore": 67.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "046a8db9-0783-1a92-19af-00369961e6af",
+      "Title": "Television Broadcasting filming documentary production",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/4957",
+      "PublishedDate": "2026-01-15T17:30:31Z",
+      "PublishedAt": "2025-12-08T17:30:31Z",
+      "DiscoveredAt": "2025-11-02T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Fact-checking reveals public accountability in Kitwe",
+      "RelatedEntities": [
+        "Public figures - nationwide coverage"
+      ],
+      "Entities": [
+        "Public figures - nationwide coverage"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "documentary production",
+        "media scrutiny"
+      ],
+      "RelevanceScore": 67.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00e2ea9c-0948-05df-05f1-002d5252e794",
+      "Title": "Television Broadcasting filming media scrutiny",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/3313",
+      "PublishedDate": "2025-12-20T17:30:31Z",
+      "PublishedAt": "2025-10-23T17:30:31Z",
+      "DiscoveredAt": "2025-12-18T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Fact-checking reveals media scrutiny in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Copperbelt"
+      ],
+      "Entities": [
+        "Corporations - Copperbelt"
+      ],
+      "Keywords": [
+        "documentary production",
+        "public accountability",
+        "news coverage"
+      ],
+      "RelevanceScore": 86.8,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "022d024a-10b0-0818-05a0-00e250344631",
+      "Title": "Television Broadcasting filming media scrutiny",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/7552",
+      "PublishedDate": "2026-01-18T17:30:31Z",
+      "PublishedAt": "2025-12-19T17:30:31Z",
+      "DiscoveredAt": "2025-12-27T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Broadcast reveals media scrutiny in Lusaka",
+      "RelatedEntities": [
+        "Government entities - Lusaka"
+      ],
+      "Entities": [
+        "Government entities - Lusaka"
+      ],
+      "Keywords": [
+        "news coverage",
+        "public accountability",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 81.8,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "041cb8a3-043f-0bef-2249-00bd006eb49d",
+      "ArticleId": "04a16ff4-23bf-0722-1e1f-00af97d35eda",
+      "EntityId": "0194c323-2485-16e0-2414-001fef699d82",
+      "EntityName": "Corporations - nationwide coverage",
+      "AlertReason": "Adverse media on documentary production",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-09T17:30:31Z",
+      "TriggeredAt": "2025-12-29T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04eaa2af-0eea-189c-11b5-00a68b73e04b",
+      "ArticleId": "0201a4a8-1d9e-0ff6-1279-0092da946280",
+      "EntityId": "0236cf2b-0ed4-0e83-2586-00c7e78de129",
+      "EntityName": "Featured subjects - Kitwe",
+      "AlertReason": "Adverse media on documentary production",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-30T17:30:31Z",
+      "TriggeredAt": "2025-12-29T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0551b11e-09de-2332-1dbe-006ea0493922",
+      "ArticleId": "059a57b9-041c-1b31-080f-00589d79bce8",
+      "EntityId": "015fed97-1afe-196f-1c16-00ce2bbc7fae",
+      "EntityName": "Featured subjects - Lusaka",
+      "AlertReason": "Adverse media on documentary production",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-10T17:30:31Z",
+      "TriggeredAt": "2025-12-19T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "00a4243c-0956-0991-1de1-008979e8d7b6",
+      "ArticleId": "02eb2040-1103-2483-1031-009e7e9787b6",
+      "EntityId": "051aa638-1d15-072d-123b-0096814b3502",
+      "EntityName": "Government entities - Copperbelt",
+      "AlertReason": "Adverse media on media scrutiny",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-09T17:30:31Z",
+      "TriggeredAt": "2026-01-03T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "047682ec-220f-0da8-250d-009e3256ad06",
+      "ArticleId": "03fa457d-2435-0a4a-1278-001fa7a887d8",
+      "EntityId": "00e87f46-1f4d-2008-21a5-00cdb7de4949",
+      "EntityName": "Corporations - Lusaka",
+      "AlertReason": "Adverse media on media scrutiny",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-10-25T17:30:31Z",
+      "TriggeredAt": "2025-10-21T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "037522d0-1b67-1fbe-0501-00e7a5426650",
+      "ArticleId": "03f11c8e-1b59-1358-1e2c-005e09851cdd",
+      "EntityId": "02ca2ff0-0ce1-1f73-1a39-00db4fb9b94a",
+      "EntityName": "Public figures - Lusaka",
+      "AlertReason": "Adverse media on media scrutiny",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-19T17:30:31Z",
+      "TriggeredAt": "2026-01-10T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01b0a005-0b61-1dff-0845-00aa31d83adc",
+      "ArticleId": "031b0e27-0ca2-189e-145e-00442a562f6d",
+      "EntityId": "02702945-2407-22b1-205f-00cd3aebf779",
+      "EntityName": "Corporations - nationwide coverage",
+      "AlertReason": "Adverse media on documentary production",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-10-22T17:30:31Z",
+      "TriggeredAt": "2025-10-25T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0106b693-13d1-2570-16d0-002464548005",
+      "ArticleId": "05a71071-0991-0837-0e37-00422deec46a",
+      "EntityId": "01d50a1b-2588-2108-1e07-0035e7d421fc",
+      "EntityName": "Corporations - Southern Province",
+      "AlertReason": "Adverse media on documentary production",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-10T17:30:31Z",
+      "TriggeredAt": "2026-01-17T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "059a5c5d-25b5-1c42-0b79-00257ef0b9e0",
+      "ArticleId": "029cfd8c-1c22-175a-0cfa-0060589f5119",
+      "EntityId": "04eef1c4-13fc-23c9-1dab-0055ed2031db",
+      "EntityName": "Government entities - Copperbelt",
+      "AlertReason": "Adverse media on documentary production",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-20T17:30:31Z",
+      "TriggeredAt": "2025-11-07T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "047a3d59-104e-0697-1bb3-00d9719e41b6",
+      "ArticleId": "046a8db9-0783-1a92-19af-00369961e6af",
+      "EntityId": "0381d7d5-26d5-0dd0-220b-002714a86a9f",
+      "EntityName": "Public figures - nationwide coverage",
+      "AlertReason": "Adverse media on public accountability",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-18T17:30:31Z",
+      "TriggeredAt": "2025-10-27T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0459e90c-0a12-26ac-1622-005b404fa724",
+      "ArticleId": "00e2ea9c-0948-05df-05f1-002d5252e794",
+      "EntityId": "054fca8c-055d-1402-24e6-00228541fed2",
+      "EntityName": "Corporations - Copperbelt",
+      "AlertReason": "Adverse media on documentary production",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-01T17:30:31Z",
+      "TriggeredAt": "2025-11-08T17:30:31Z",
+      "IsAcknowledged": false
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "04bb7e59-074e-147a-1d10-001b7355ce95",
+      "EntityName": "Television Broadcasting",
+      "Keywords": [
+        "news coverage",
+        "investigative journalism",
+        "public accountability"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 28,
+    "HighRiskArticles": 10,
+    "ActiveAlerts": 11,
+    "MonitoredEntities": 6,
+    "ArticlesByCategory": {
+      "regulatory": 11,
+      "criminal": 9,
+      "financial": 15,
+      "political": 7
+    },
+    "ArticlesBySeverity": {
+      "high": 11,
+      "medium": 15,
+      "low": 13
+    }
+  }
+}

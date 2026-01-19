@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "InsuranceCompany",
+  "DisplayName": "Zambia State Insurance Corporation (ZSIC)",
+  "Country": "Zambia",
+  "Headquarters": "Lusaka, Zambia",
+  "Mandate": "Provide insurance cover across public and private entities while identifying insurance fraud and suspicious underwriting behaviors.",
+  "TopPriorities": [
+    "Protect public infrastructure against theft that could be linked to fraudulent invoices.",
+    "Work with regulators to vet claims from high-risk mining suppliers.",
+    "Share suspicious claims data with ZRA and ACC."
+  ],
+  "ActiveOperations": [
+    "Risk underwriting unit that flags mining clients with unexplained asset transfers.",
+    "Claims intelligence sharing with the Zambia Information and Communications Authority (ZICTA) for telecom partners.",
+    "Reinsurance collaboration with African Re to trace unusual payout patterns."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Suspended a series of haulage claims tied to a single supplier",
+      "Date": "2025-12-18T00:00:00Z",
+      "Summary": "Detailed claim files triggered a joint ACC-ZRA review of the supplier network."
+    },
+    {
+      "Title": "Published new anti-fraud framework for transport and logistics clients",
+      "Date": "2025-11-30T00:00:00Z",
+      "Summary": "Framework references global best practices and local regulatory obligations."
+    }
+  ],
+  "KeyPartnerships": [
+    "Zambia Revenue Authority",
+    "Anti-Corruption Commission",
+    "African Insurance Organisation"
+  ],
+  "Metrics": {
+    "ClaimsReviewed": "3,200 annually",
+    "PreventedLosses": "K48M potential payouts",
+    "PolicyholdersAudited": "610 high-risk accounts"
+  }
+}

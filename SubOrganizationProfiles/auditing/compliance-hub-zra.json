@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 323,
+  "ActiveAlerts": 16,
+  "PendingReviews": 10,
+  "ComplianceScore": 84.1,
+  "Alerts": [
+    {
+      "Id": "03ae6d1d-2411-1ac8-2557-00b271671b7c",
+      "Type": "Procurement fraud",
+      "Severity": "Critical",
+      "EntityName": "Local authorities - Lusaka",
+      "Description": "Forensic analysis revealed compliance involving local authorities",
+      "DetectedAt": "2025-12-24T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03666349-1205-1c99-0d45-007f7e073521",
+      "Type": "Misappropriation",
+      "Severity": "Medium",
+      "EntityName": "Government ministries - Southern Province",
+      "Description": "Forensic analysis revealed audit findings involving public institutions",
+      "DetectedAt": "2025-12-25T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "041a411d-1cd3-1b18-045e-00dd381bd219",
+      "Type": "Financial irregularities",
+      "Severity": "Low",
+      "EntityName": "Statutory bodies - Eastern Province",
+      "Description": "Financial examination revealed financial irregularities involving public institutions",
+      "DetectedAt": "2025-11-18T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "048c1ea2-1ec8-242f-22d6-0047c0acaf6e",
+      "Type": "Compliance",
+      "Severity": "Medium",
+      "EntityName": "Public institutions - Lusaka",
+      "Description": "Audit revealed financial irregularities involving local authorities",
+      "DetectedAt": "2025-12-31T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02ddfadc-0a16-16d2-0ed4-00d0dc7cdb44",
+      "Type": "Misappropriation",
+      "Severity": "Low",
+      "EntityName": "Local authorities - Central Province",
+      "Description": "Financial examination revealed audit findings involving government ministries",
+      "DetectedAt": "2025-10-30T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02f2df60-1735-1ee6-172c-00bfdc6cfea5",
+      "Type": "Procurement fraud",
+      "Severity": "Medium",
+      "EntityName": "Government ministries - Southern Province",
+      "Description": "Audit revealed financial irregularities involving local authorities",
+      "DetectedAt": "2026-01-19T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0209f191-15fe-223d-121d-0027d85b096d",
+      "Type": "Misappropriation",
+      "Severity": "Critical",
+      "EntityName": "Government ministries - Lusaka",
+      "Description": "Forensic analysis revealed audit findings involving local authorities",
+      "DetectedAt": "2025-12-07T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "043664f7-1bf6-14e7-0dc1-003c08ec46d2",
+      "Type": "Financial irregularities",
+      "Severity": "Critical",
+      "EntityName": "Statutory bodies - Central Province",
+      "Description": "Investigation revealed misappropriation involving public institutions",
+      "DetectedAt": "2025-10-30T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "05b61271-0451-2386-2162-00c2353cf6b1",
+      "Type": "Misappropriation",
+      "Severity": "Medium",
+      "EntityName": "Government ministries - Lusaka",
+      "Description": "Investigation revealed misappropriation involving statutory bodies",
+      "DetectedAt": "2025-11-27T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "040bece7-2332-187b-1aa2-00aec226204b",
+      "Type": "Audit findings",
+      "Severity": "Medium",
+      "EntityName": "Government ministries - Southern Province",
+      "Description": "Financial examination revealed audit findings involving government ministries",
+      "DetectedAt": "2025-12-24T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "026b7bc7-1bde-0fce-13a6-0033b6e74e11",
+      "Type": "Financial irregularities",
+      "Severity": "Medium",
+      "EntityName": "Government ministries - Eastern Province",
+      "Description": "Forensic analysis revealed financial irregularities involving public institutions",
+      "DetectedAt": "2025-11-03T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "048f2c53-1f7d-2645-0eb7-004c56dd213e",
+      "Type": "Audit findings",
+      "Severity": "Low",
+      "EntityName": "Local authorities - Copperbelt Province",
+      "Description": "Financial examination revealed audit findings involving local authorities",
+      "DetectedAt": "2025-12-27T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "041fc008-0d34-14b7-221a-005fd22aa4e7",
+      "Type": "Audit findings",
+      "Severity": "Critical",
+      "EntityName": "Statutory bodies - Lusaka",
+      "Description": "Forensic analysis revealed audit findings involving public institutions",
+      "DetectedAt": "2025-12-20T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04594bec-24af-17fd-102c-00e4dacad4c5",
+      "Type": "Audit findings",
+      "Severity": "High",
+      "EntityName": "Government ministries - Lusaka",
+      "Description": "Audit revealed procurement fraud involving statutory bodies",
+      "DetectedAt": "2025-11-29T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05609815-1a3c-1641-0420-0097ed5dbd1a",
+      "Type": "Misappropriation",
+      "Severity": "Low",
+      "EntityName": "Statutory bodies - Copperbelt Province",
+      "Description": "Audit revealed financial irregularities involving public institutions",
+      "DetectedAt": "2025-12-16T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "04bdf383-07d8-1e23-1b0a-006b825cfaab",
+      "Type": "Audit findings",
+      "Severity": "Critical",
+      "EntityName": "Statutory bodies - Eastern Province",
+      "Description": "Investigation revealed misappropriation involving government ministries",
+      "DetectedAt": "2025-12-15T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01e36205-07c4-135a-1330-0056c8891bc5",
+      "Type": "Misappropriation",
+      "Severity": "Critical",
+      "EntityName": "Statutory bodies - Central Province",
+      "Description": "Financial examination revealed procurement fraud involving statutory bodies",
+      "DetectedAt": "2025-12-19T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01a96cbc-1aad-202c-1bfc-0098184f6ad0",
+      "Type": "Compliance",
+      "Severity": "High",
+      "EntityName": "Public institutions - Copperbelt Province",
+      "Description": "Forensic analysis revealed misappropriation involving public institutions",
+      "DetectedAt": "2025-12-10T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "032a3f40-1831-1546-1db8-00c0186f03dc",
+      "Type": "Financial irregularities",
+      "Severity": "Critical",
+      "EntityName": "Local authorities - Southern Province",
+      "Description": "Forensic analysis revealed compliance involving government ministries",
+      "DetectedAt": "2025-11-24T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0395b7f1-0ec0-1628-1176-001b4ed03458",
+      "Type": "Procurement fraud",
+      "Severity": "High",
+      "EntityName": "Public institutions - Central Province",
+      "Description": "Compliance review revealed compliance involving local authorities",
+      "DetectedAt": "2025-12-08T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05e77f77-22d7-1d93-0fff-008db0b10e83",
+      "Type": "Procurement fraud",
+      "Severity": "High",
+      "EntityName": "Public institutions - Eastern Province",
+      "Description": "Investigation revealed compliance involving statutory bodies",
+      "DetectedAt": "2025-12-19T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "034c6377-265a-11db-1bd7-006235b02e65",
+      "Type": "Misappropriation",
+      "Severity": "Medium",
+      "EntityName": "Local authorities - Lusaka",
+      "Description": "Audit revealed financial irregularities involving public institutions",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00ceb8be-2034-13be-0bb8-00add30f0ca3",
+      "Type": "Misappropriation",
+      "Severity": "Critical",
+      "EntityName": "Government ministries - Central Province",
+      "Description": "Forensic analysis revealed financial irregularities involving local authorities",
+      "DetectedAt": "2025-12-13T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01a299ef-1e0d-1857-1c69-00806a6e327f",
+      "Type": "Procurement fraud",
+      "Severity": "Low",
+      "EntityName": "Statutory bodies - Lusaka",
+      "Description": "Compliance review revealed misappropriation involving statutory bodies",
+      "DetectedAt": "2025-12-23T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01bab238-16b1-133b-1f33-00d127d4366d",
+      "Type": "Audit findings",
+      "Severity": "High",
+      "EntityName": "Government ministries - Southern Province",
+      "Description": "Financial examination revealed compliance involving government ministries",
+      "DetectedAt": "2025-10-21T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01ac5768-1f8b-209f-103f-007b0a5f93b3",
+      "Type": "Financial irregularities",
+      "Severity": "Medium",
+      "EntityName": "Government ministries - Lusaka",
+      "Description": "Audit revealed audit findings involving local authorities",
+      "DetectedAt": "2025-12-26T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04e204dd-08af-0f95-0618-00861e4d6697",
+      "Type": "Misappropriation",
+      "Severity": "Low",
+      "EntityName": "Public institutions - Lusaka",
+      "Description": "Compliance review revealed procurement fraud involving statutory bodies",
+      "DetectedAt": "2025-12-11T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02310dab-1134-0543-1989-00a1f44103df",
+      "Type": "Procurement fraud",
+      "Severity": "Medium",
+      "EntityName": "Statutory bodies - Southern Province",
+      "Description": "Compliance review revealed misappropriation involving local authorities",
+      "DetectedAt": "2026-01-19T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04105c2a-19a2-09d0-1668-00e026a4af0e",
+      "Type": "Misappropriation",
+      "Severity": "Medium",
+      "EntityName": "Government ministries - Southern Province",
+      "Description": "Forensic analysis revealed procurement fraud involving statutory bodies",
+      "DetectedAt": "2026-01-15T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "044cc3cc-1525-0ce0-1a92-00e0a06dc2ef",
+      "Type": "Misappropriation",
+      "Severity": "Low",
+      "EntityName": "Statutory bodies - Copperbelt Province",
+      "Description": "Compliance review revealed compliance involving local authorities",
+      "DetectedAt": "2025-12-22T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02a361e4-11ce-1af8-254d-00dfde63eb9f",
+      "Type": "Compliance",
+      "Severity": "Low",
+      "EntityName": "Public institutions - Lusaka",
+      "Description": "Financial examination revealed procurement fraud involving local authorities",
+      "DetectedAt": "2025-11-04T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02f00848-1cbd-1c83-1069-00ad03432a8b",
+      "Type": "Audit findings",
+      "Severity": "Medium",
+      "EntityName": "Statutory bodies - Lusaka",
+      "Description": "Compliance review revealed audit findings involving public institutions",
+      "DetectedAt": "2025-12-15T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01be3d5a-0c35-243d-0aa5-0099ee420d77",
+      "Type": "Compliance",
+      "Severity": "Critical",
+      "EntityName": "Government ministries - Copperbelt Province",
+      "Description": "Forensic analysis revealed audit findings involving public institutions",
+      "DetectedAt": "2025-12-02T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02f4f749-1e5e-1a9f-2117-008aac368146",
+      "Type": "Financial irregularities",
+      "Severity": "Low",
+      "EntityName": "Statutory bodies - Southern Province",
+      "Description": "Audit revealed procurement fraud involving public institutions",
+      "DetectedAt": "2026-01-16T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "044b0bd3-1003-2001-1941-002f9f1f85aa",
+      "Type": "Audit findings",
+      "Severity": "Low",
+      "EntityName": "Local authorities - Lusaka",
+      "Description": "Investigation revealed compliance involving statutory bodies",
+      "DetectedAt": "2026-01-19T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0267c4ef-1c6d-1cb6-0f29-0069e0500da3",
+      "Type": "Misappropriation",
+      "Severity": "Low",
+      "EntityName": "Government ministries - Southern Province",
+      "Description": "Forensic analysis revealed compliance involving local authorities",
+      "DetectedAt": "2025-10-27T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02d6a595-1c69-1a13-0ff4-0034dc058fb5",
+      "Type": "Audit findings",
+      "Severity": "Medium",
+      "EntityName": "Statutory bodies - Copperbelt Province",
+      "Description": "Financial examination revealed procurement fraud involving statutory bodies",
+      "DetectedAt": "2025-11-06T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "045a096d-2330-2106-1304-00c355fac8f3",
+      "Type": "Audit findings",
+      "Severity": "High",
+      "EntityName": "Local authorities - Southern Province",
+      "Description": "Financial examination revealed financial irregularities involving government ministries",
+      "DetectedAt": "2025-11-18T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00e1db96-1607-0967-083b-008250181303",
+      "Type": "Procurement fraud",
+      "Severity": "Low",
+      "EntityName": "Statutory bodies - Lusaka",
+      "Description": "Compliance review revealed compliance involving public institutions",
+      "DetectedAt": "2025-11-19T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04890183-147e-2388-1d9d-003a9a629d95",
+      "Type": "Compliance",
+      "Severity": "High",
+      "EntityName": "Statutory bodies - Central Province",
+      "Description": "Compliance review revealed procurement fraud involving public institutions",
+      "DetectedAt": "2026-01-11T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00a2b8cb-22ee-239d-1827-00864e8182a4",
+      "Type": "Misappropriation",
+      "Severity": "High",
+      "EntityName": "Statutory bodies - Eastern Province",
+      "Description": "Audit revealed misappropriation involving government ministries",
+      "DetectedAt": "2025-11-09T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00a879e7-2518-063f-1cc7-007fdde9eb7b",
+      "Type": "Misappropriation",
+      "Severity": "Critical",
+      "EntityName": "Statutory bodies - Southern Province",
+      "Description": "Audit revealed financial irregularities involving statutory bodies",
+      "DetectedAt": "2025-12-20T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "04800583-0ddb-0a37-2480-001af8ec8b92",
+      "Type": "Audit findings",
+      "Severity": "Low",
+      "EntityName": "Public institutions - Eastern Province",
+      "Description": "Audit revealed audit findings involving government ministries",
+      "DetectedAt": "2025-11-17T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0545dd32-157e-09b7-10c7-00197b140d7e",
+      "Type": "Misappropriation",
+      "Severity": "Critical",
+      "EntityName": "Public institutions - Southern Province",
+      "Description": "Audit revealed misappropriation involving public institutions",
+      "DetectedAt": "2025-12-14T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "058037ec-09b0-2578-0af3-00693c365953",
+      "Type": "Procurement fraud",
+      "Severity": "High",
+      "EntityName": "Statutory bodies - Copperbelt Province",
+      "Description": "Audit revealed audit findings involving statutory bodies",
+      "DetectedAt": "2025-10-22T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01721e2f-1994-1401-156c-009b39b30bd6",
+      "Type": "Procurement fraud",
+      "Severity": "Medium",
+      "EntityName": "Government ministries - Central Province",
+      "Description": "Audit revealed misappropriation involving statutory bodies",
+      "DetectedAt": "2025-11-08T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0433f6c9-0767-1fec-1bbf-006a064c66eb",
+      "Type": "Financial irregularities",
+      "Severity": "High",
+      "EntityName": "Statutory bodies - Lusaka",
+      "Description": "Forensic analysis revealed financial irregularities involving local authorities",
+      "DetectedAt": "2025-11-28T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00a6bbff-17da-16d8-13f2-004423a9b3a1",
+      "Type": "Financial irregularities",
+      "Severity": "Low",
+      "EntityName": "Government ministries - Central Province",
+      "Description": "Forensic analysis revealed financial irregularities involving public institutions",
+      "DetectedAt": "2025-12-27T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "05980579-236e-0b4d-0e38-00346910aa39",
+      "Type": "Financial irregularities",
+      "Severity": "Medium",
+      "EntityName": "Public institutions - Eastern Province",
+      "Description": "Forensic analysis revealed procurement fraud involving statutory bodies",
+      "DetectedAt": "2025-10-31T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "044d197c-1382-0f41-24db-007efae03193",
+      "Type": "Misappropriation",
+      "Severity": "Critical",
+      "EntityName": "Public institutions - Southern Province",
+      "Description": "Forensic analysis revealed compliance involving public institutions",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Escalated"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 78
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 69
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 62
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 72
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 71
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 84
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 64
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 85
+    }
+  ]
+}

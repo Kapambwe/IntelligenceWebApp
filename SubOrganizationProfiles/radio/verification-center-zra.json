@@ -1,0 +1,1172 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "04ef149c-0b8e-0d74-0539-00c92509f0ea",
+      "EntityId": "0126f6eb-1ded-1c5d-242f-005c700ce5d5",
+      "EntityName": "Community leaders - Mongu",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-31T17:30:31Z",
+      "Notes": "Fact verification for news broadcasting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-27T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-04T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "011e4195-1f72-0dc2-0622-00ce48e28a6c",
+      "EntityId": "030c5319-1890-0bb4-0b78-00429b9dfc14",
+      "EntityName": "Public officials - nationwide broadcast",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-04T17:30:31Z",
+      "Notes": "Program production for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-19T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-29T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "019c7f13-1e6a-1188-0629-00685415def2",
+      "EntityId": "009b5be5-1989-1368-1745-00d2164bb8bf",
+      "EntityName": "Public officials - Lusaka",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-18T17:30:31Z",
+      "Notes": "Fact verification for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-01T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-11-26T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "013839b3-19fe-1e23-199b-006213d83aea",
+      "EntityId": "053910b4-0418-24b5-177b-0019db95748a",
+      "EntityName": "News subjects - Kitwe",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-28T17:30:31Z",
+      "Notes": "Program production for community engagement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-12T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-24T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "0482e0aa-259f-104c-1b9a-00d224eca419",
+      "EntityId": "0224b65f-20e5-0a88-1c00-0071b36a45d4",
+      "EntityName": "Public officials - Chipata",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-01T17:30:31Z",
+      "Notes": "Broadcasting for community engagement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-01T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0230e380-2114-1ca4-15cd-0082923839cc",
+      "EntityId": "047f3dce-206e-0b8d-04eb-00c1c236e91f",
+      "EntityName": "Community leaders - Lusaka",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-12T17:30:31Z",
+      "Notes": "Program production for public awareness verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0494eb86-12a5-15ae-1dab-00e4b1cba64b",
+      "EntityId": "00f94f6e-2312-1410-2195-003c3b603656",
+      "EntityName": "Community leaders - nationwide broadcast",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-03T17:30:31Z",
+      "Notes": "Investigation for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01f3368b-0e37-0f82-26b8-00e4f739a442",
+      "EntityId": "0117b8fc-22d1-205d-0de0-009a8d119d03",
+      "EntityName": "Public officials - Kitwe",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-13T17:30:31Z",
+      "Notes": "Broadcasting for investigative reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-06T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-22T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f0c841-250f-06c1-2451-00928f946d0c",
+      "EntityId": "03d14917-0661-1017-24e0-0050fef7b847",
+      "EntityName": "Corporations - Mongu",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-15T17:30:31Z",
+      "Notes": "Broadcasting for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "015e435c-0f39-1a60-093e-003dcc09fbe5",
+      "EntityId": "0355c98a-23d7-1ee5-0710-0025f7b86a07",
+      "EntityName": "Public officials - Mongu",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2026-01-06T17:30:31Z",
+      "Notes": "Broadcasting for news broadcasting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-17T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-01T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00da9d1b-1b86-26f0-058e-001ec340fb6a",
+      "EntityId": "054b8b6a-1c10-26e9-0ae5-00918f41273a",
+      "EntityName": "Community leaders - Lusaka",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2026-01-10T17:30:31Z",
+      "Notes": "Investigation for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03770a63-085a-0cee-0666-003ace84f72e",
+      "EntityId": "038e2216-101c-2290-128b-004b86c1acc7",
+      "EntityName": "News subjects - Mongu",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-16T17:30:31Z",
+      "Notes": "Broadcasting for public awareness verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "04069ae2-074b-0e3c-22b0-00804d9b8aad",
+      "EntityId": "05d8d110-188a-22bc-25c3-007081214c0d",
+      "EntityName": "Community leaders - Mongu",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-20T17:30:31Z",
+      "Notes": "Interview for community engagement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-01T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05f21e11-0c9b-189a-0943-00d056eb4ed2",
+      "EntityId": "042fc3c9-0a49-101b-20c0-007a4566d056",
+      "EntityName": "Corporations - Mongu",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2026-01-07T17:30:31Z",
+      "Notes": "Program production for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04ae09e1-106d-0c05-0b75-00b3612ea7a0",
+      "EntityId": "0592b53e-13d4-1193-1b26-00bbbe09f1c4",
+      "EntityName": "Public officials - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2026-01-10T17:30:31Z",
+      "Notes": "Broadcasting for public awareness verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-20T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ddb555-2242-0fac-1fc9-007373b9fe58",
+      "EntityId": "03206a94-0655-1577-0f09-0017b0d600d7",
+      "EntityName": "News subjects - Chipata",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-10-29T17:30:31Z",
+      "Notes": "Fact verification for community engagement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f155d7-1373-16f4-12ef-0075a2af6331",
+      "EntityId": "04f729d2-0947-262f-0510-00d89fae0a97",
+      "EntityName": "Community leaders - Mongu",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-27T17:30:31Z",
+      "Notes": "Fact verification for news broadcasting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-23T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01222096-17c0-20cd-1d12-007e3d283174",
+      "EntityId": "05ecb732-0824-0b10-0d01-006e89d1d847",
+      "EntityName": "Community leaders - Chipata",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-18T17:30:31Z",
+      "Notes": "Interview for community engagement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-09T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0124ff01-0aaa-0992-11d6-00541c513bdb",
+      "EntityId": "01ca99ea-1b3f-0c84-0660-007a3e24f116",
+      "EntityName": "Community leaders - Kitwe",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-19T17:30:31Z",
+      "Notes": "Program production for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-28T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-22T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0368b7f1-21a4-04c1-1d84-00e37cd2184b",
+      "EntityId": "034be14a-216a-19c1-17eb-008ae0cbda33",
+      "EntityName": "Public officials - Lusaka",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-11-10T17:30:31Z",
+      "Notes": "Broadcasting for news broadcasting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-31T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "00d4db68-21c3-14f7-199d-00aeac535698",
+      "EntityId": "01cf1881-0fc0-0d5c-2167-0034d975ee70",
+      "EntityName": "Community leaders - Chipata",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-03T17:30:31Z",
+      "Notes": "Investigation for news broadcasting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-20T17:30:31Z"
+    },
+    {
+      "Id": "03f1f732-22fb-17a3-12a7-00be4e9b33d5",
+      "EntityId": "05a4ec36-1527-2125-22ab-00a09972d236",
+      "EntityName": "Community leaders - Mongu",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-10-29T17:30:31Z",
+      "Notes": "Program production for investigative reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-08T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0533ee43-101b-1dd8-2008-003bff69fdcc",
+      "EntityId": "03a4d9a2-1596-0e5b-062d-002937b05f28",
+      "EntityName": "Corporations - nationwide broadcast",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-10-28T17:30:31Z",
+      "Notes": "Fact verification for news broadcasting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-10T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "010da1e5-080c-08c9-1f7c-00bf687cedb6",
+      "EntityId": "0501487b-19a7-1572-22d9-008688f27e1c",
+      "EntityName": "Public officials - Kitwe",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2026-01-10T17:30:31Z",
+      "Notes": "Broadcasting for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "055743a2-20d3-1a7c-080d-0036185bfaf4",
+      "EntityId": "05205dfb-1c5e-19f8-1948-0094518833e2",
+      "EntityName": "News subjects - Chipata",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2026-01-18T17:30:31Z",
+      "Notes": "Broadcasting for community engagement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-05T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00b34112-06a0-073c-0e8a-00a484e2d57a",
+      "EntityId": "01421388-1a53-1240-0c87-005cfdb6cee3",
+      "EntityName": "Public officials - nationwide broadcast",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-10T17:30:31Z",
+      "Notes": "Fact verification for investigative reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-23T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04218b73-132a-0740-2597-004f00f7645b",
+      "EntityId": "041684c3-1209-2385-0f14-00961762d44d",
+      "EntityName": "News subjects - Kitwe",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-10T17:30:31Z",
+      "Notes": "Interview for investigative reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "030fc39c-1124-10a8-082b-009d45783c0a",
+      "EntityId": "015fbd1f-0dd4-1b0a-1124-0042aba8fa56",
+      "EntityName": "Community leaders - nationwide broadcast",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-01T17:30:31Z",
+      "Notes": "Investigation for public awareness verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-12T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "0294f925-101a-0efc-24ad-00a07d658902",
+      "EntityId": "03153566-096f-0845-2096-0028eaa2d317",
+      "EntityName": "News subjects - Kitwe",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2026-01-02T17:30:31Z",
+      "Notes": "Broadcasting for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-03T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "02e14d0e-07fa-1d17-1b21-00a606654615",
+      "EntityId": "023d6ec5-088c-098a-0d88-006cd0b06bac",
+      "EntityName": "News subjects - Mongu",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-16T17:30:31Z",
+      "Notes": "Fact verification for investigative reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-30T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-20T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "054dbad5-113f-0a75-19a0-00988cbe3ad4",
+      "EntityId": "0247425d-24d0-2608-06ca-003a6f490f8e",
+      "EntityName": "Public officials - Chipata",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-04T17:30:31Z",
+      "Notes": "Interview for community engagement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05823a10-20ae-1373-0cc9-009511aca66b",
+      "EntityId": "01bdb04c-210f-064e-1f4d-0065eaf482c6",
+      "EntityName": "Community leaders - Kitwe",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-30T17:30:31Z",
+      "Notes": "Broadcasting for investigative reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-13T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05013555-1e20-16be-1d4f-008a95ae28d6",
+      "EntityId": "053bb722-03fe-1356-0972-00182a152d08",
+      "EntityName": "Corporations - Chipata",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-27T17:30:31Z",
+      "Notes": "Broadcasting for investigative reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00e3864c-0e39-17e7-2142-00e2d3eafd6b",
+      "EntityId": "04d63de5-1cad-1464-156a-00cb86e7bff3",
+      "EntityName": "Public officials - Mongu",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-12-05T17:30:31Z",
+      "Notes": "Fact verification for investigative reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "010488eb-1cf6-1483-19a2-0070078ad4ae",
+      "EntityId": "02972929-2462-1f46-08f9-00e4a3b2d3f9",
+      "EntityName": "Corporations - Mongu",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-24T17:30:31Z",
+      "Notes": "Investigation for investigative reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-04T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "02aaaed7-0897-19fb-2385-00c0567483de",
+      "EntityId": "05654c63-2002-15bd-150b-00e214b4541a",
+      "EntityName": "Public officials - nationwide broadcast",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-20T17:30:31Z",
+      "Notes": "Broadcasting for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-01T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04284455-197b-1b89-1da4-002ca97bfc08",
+      "EntityId": "05a7603d-1d1f-221a-0d3d-00c2f37ad2c0",
+      "EntityName": "Corporations - Chipata",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-11T17:30:31Z",
+      "Notes": "Broadcasting for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-11T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0323d259-2386-0a18-1150-00af78adf48d",
+      "EntityId": "056f9ccd-1d28-0d38-1f06-0072cbbbe1ad",
+      "EntityName": "News subjects - Lusaka",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-11T17:30:31Z",
+      "Notes": "Broadcasting for community engagement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-25T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0181d698-09f0-1ee1-1e32-005f1831f1e0",
+      "EntityId": "017fa0d6-14ec-1491-22c1-009a34008f79",
+      "EntityName": "Corporations - Kitwe",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2026-01-07T17:30:31Z",
+      "Notes": "Broadcasting for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-31T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-29T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05108e15-1b9a-0478-1172-005ef9612522",
+      "EntityId": "0199c7a8-1b04-0dea-245b-00b2782a987e",
+      "EntityName": "Corporations - Chipata",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-08T17:30:31Z",
+      "Notes": "Program production for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-31T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "040680b4-24bb-11a3-19d9-00215b6d28fb",
+      "EntityId": "0105c0a4-196d-100c-1a03-0050c4e91109",
+      "EntityName": "Community leaders - Mongu",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-08T17:30:31Z",
+      "Notes": "Investigation for news broadcasting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-05T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-06T17:30:31Z"
+    },
+    {
+      "Id": "019e8f6d-1de3-19f9-0ede-00784bdad219",
+      "EntityId": "052dad84-1f85-0ff3-22d0-002429ac073d",
+      "EntityName": "Corporations - Mongu",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-03T17:30:31Z",
+      "Notes": "Fact verification for public awareness verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-24T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-29T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "054b1972-09fc-1b20-048e-001eb2695c41",
+      "EntityId": "03d9be37-1ac8-2589-1636-009e13e71fcd",
+      "EntityName": "Public officials - Kitwe",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-12T17:30:31Z",
+      "Notes": "Interview for investigative reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-10T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-27T17:30:31Z"
+    },
+    {
+      "Id": "00fb26e3-0688-0c6f-2647-00b315ab1204",
+      "EntityId": "04c9dfac-07fd-21c2-0f55-00bdbd2cba19",
+      "EntityName": "Corporations - Kitwe",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-14T17:30:31Z",
+      "Notes": "Broadcasting for news broadcasting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-28T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-11T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-27T17:30:31Z"
+    },
+    {
+      "Id": "01c124fc-25c8-157d-14e5-00a9409c79a2",
+      "EntityId": "025523d9-0e1a-07eb-1377-009c3f43775f",
+      "EntityName": "News subjects - Chipata",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-13T17:30:31Z",
+      "Notes": "Broadcasting for public awareness verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-24T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "044c030e-23e2-1b90-0b35-001e882944e1",
+      "EntityId": "02063cd6-1fd8-044a-04c1-0049ad06fcd4",
+      "EntityName": "Public officials - Kitwe",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2026-01-02T17:30:31Z",
+      "Notes": "Interview for community engagement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-23T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-30T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00dc975c-180f-1bf4-0526-001db01f058a",
+      "EntityId": "019072dc-1a6c-1186-178e-00ac813432fd",
+      "EntityName": "Community leaders - Kitwe",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-26T17:30:31Z",
+      "Notes": "Program production for investigative reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-27T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03dc4997-0f1a-06e6-1e68-00a0f0e82c2d",
+      "EntityId": "01c20f13-16e9-14ed-1777-0050c4898450",
+      "EntityName": "Public officials - nationwide broadcast",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-12-30T17:30:31Z",
+      "Notes": "Program production for public awareness verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-25T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01f93d89-127c-11d9-1088-0053a2d3d717",
+      "EntityId": "026da933-07ad-0fdb-0675-0068836458e4",
+      "EntityName": "News subjects - Chipata",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-11-19T17:30:31Z",
+      "Notes": "Broadcasting for accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-24T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-11T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-14T17:30:31Z"
+    },
+    {
+      "Id": "055e116f-12ad-263f-144b-005420106ebb",
+      "EntityId": "0131a619-1a19-0529-129e-00bdd45dbc6a",
+      "EntityName": "News subjects - Kitwe",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-31T17:30:31Z",
+      "Notes": "Investigation for public awareness verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-21T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-19T17:30:31Z"
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 11,
+    "Pending": 27,
+    "Failed": 12
+  }
+}

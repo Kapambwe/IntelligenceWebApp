@@ -1,0 +1,1505 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "0212da25-0a69-0e96-1476-00895eb05f97",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2413",
+      "PublishedDate": "2025-10-25T17:30:30Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Asset forfeiture reveals graft in Livingstone",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 79.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02757d3a-1ad2-1edf-1bf9-00284f48ae4e",
+      "Title": "Anti-Corruption Commission investigation illicit enrichment",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/8653",
+      "PublishedDate": "2025-11-05T17:30:30Z",
+      "PublishedAt": "2025-11-08T17:30:30Z",
+      "DiscoveredAt": "2025-12-29T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Asset recovery reveals abuse of office in Livingstone",
+      "RelatedEntities": [
+        "Government departments - Lusaka"
+      ],
+      "Entities": [
+        "Government departments - Lusaka"
+      ],
+      "Keywords": [
+        "graft",
+        "abuse of office",
+        "bribery"
+      ],
+      "RelevanceScore": 67.8,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04008ed0-1c23-0854-1e51-003467c162b3",
+      "Title": "Anti-Corruption Commission investigation abuse of office",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/3601",
+      "PublishedDate": "2025-12-14T17:30:30Z",
+      "PublishedAt": "2025-11-02T17:30:30Z",
+      "DiscoveredAt": "2025-12-20T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Asset forfeiture reveals abuse of office in Kitwe",
+      "RelatedEntities": [
+        "Public officials - Kitwe"
+      ],
+      "Entities": [
+        "Public officials - Kitwe"
+      ],
+      "Keywords": [
+        "bribery",
+        "corruption",
+        "illicit enrichment"
+      ],
+      "RelevanceScore": 86.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "059aa967-1777-1ea6-09ad-008c0b7a7f2c",
+      "Title": "Anti-Corruption Commission asset forfeiture graft",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/7922",
+      "PublishedDate": "2025-11-12T17:30:30Z",
+      "PublishedAt": "2025-11-07T17:30:30Z",
+      "DiscoveredAt": "2025-12-11T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Asset recovery reveals illicit enrichment in Ndola",
+      "RelatedEntities": [
+        "Political figures - Livingstone"
+      ],
+      "Entities": [
+        "Political figures - Livingstone"
+      ],
+      "Keywords": [
+        "abuse of office",
+        "illicit enrichment",
+        "graft"
+      ],
+      "RelevanceScore": 64.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "036cbea0-2641-260e-1a67-00bbaf865ac9",
+      "Title": "Anti-Corruption Commission investigation illicit enrichment",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/6712",
+      "PublishedDate": "2026-01-09T17:30:30Z",
+      "PublishedAt": "2025-11-20T17:30:30Z",
+      "DiscoveredAt": "2025-10-23T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Asset recovery reveals corruption in Kabwe",
+      "RelatedEntities": [
+        "Government departments - Kabwe"
+      ],
+      "Entities": [
+        "Government departments - Kabwe"
+      ],
+      "Keywords": [
+        "bribery",
+        "abuse of office",
+        "graft"
+      ],
+      "RelevanceScore": 78.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03e404e7-1fa1-2535-1b9a-00d0143e412d",
+      "Title": "Anti-Corruption Commission conviction graft",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/5878",
+      "PublishedDate": "2025-10-30T17:30:30Z",
+      "PublishedAt": "2026-01-06T17:30:30Z",
+      "DiscoveredAt": "2025-11-28T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Conviction reveals bribery in Livingstone",
+      "RelatedEntities": [
+        "Public officials - Lusaka"
+      ],
+      "Entities": [
+        "Public officials - Lusaka"
+      ],
+      "Keywords": [
+        "abuse of office",
+        "illicit enrichment",
+        "bribery"
+      ],
+      "RelevanceScore": 75.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "037505ec-1015-06f5-217d-006c30d54610",
+      "Title": "Anti-Corruption Commission asset recovery corruption",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/8742",
+      "PublishedDate": "2025-12-15T17:30:30Z",
+      "PublishedAt": "2025-10-27T17:30:30Z",
+      "DiscoveredAt": "2026-01-12T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Asset recovery reveals corruption in Kabwe",
+      "RelatedEntities": [
+        "Contractors - Kabwe"
+      ],
+      "Entities": [
+        "Contractors - Kabwe"
+      ],
+      "Keywords": [
+        "abuse of office",
+        "illicit enrichment",
+        "graft"
+      ],
+      "RelevanceScore": 77.8,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01752ebf-0b79-05de-153e-002831e18347",
+      "Title": "Anti-Corruption Commission plea agreement illicit enrichment",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/8186",
+      "PublishedDate": "2025-12-05T17:30:30Z",
+      "PublishedAt": "2025-11-13T17:30:30Z",
+      "DiscoveredAt": "2025-12-04T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Asset recovery reveals bribery in Lusaka",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "illicit enrichment",
+        "abuse of office",
+        "bribery"
+      ],
+      "RelevanceScore": 75.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "010b57ce-18d6-2248-2032-00e1ff76bbba",
+      "Title": "Anti-Corruption Commission investigation illicit enrichment",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/4733",
+      "PublishedDate": "2026-01-03T17:30:30Z",
+      "PublishedAt": "2025-11-29T17:30:30Z",
+      "DiscoveredAt": "2025-11-11T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Investigation reveals illicit enrichment in Lusaka",
+      "RelatedEntities": [
+        "Political figures - Livingstone"
+      ],
+      "Entities": [
+        "Political figures - Livingstone"
+      ],
+      "Keywords": [
+        "graft",
+        "corruption",
+        "abuse of office"
+      ],
+      "RelevanceScore": 91.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05a8b33c-1d69-0c4d-217a-002f3750bae9",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/9185",
+      "PublishedDate": "2025-10-27T17:30:30Z",
+      "PublishedAt": "2025-10-23T17:30:30Z",
+      "DiscoveredAt": "2025-12-09T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Investigation reveals graft in Kitwe",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "illicit enrichment",
+        "graft"
+      ],
+      "RelevanceScore": 81.9,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03a7eabd-218e-1c41-061a-005b4796fcc7",
+      "Title": "Anti-Corruption Commission investigation corruption",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/7796",
+      "PublishedDate": "2025-11-09T17:30:30Z",
+      "PublishedAt": "2026-01-10T17:30:30Z",
+      "DiscoveredAt": "2026-01-13T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Conviction reveals graft in Lusaka",
+      "RelatedEntities": [
+        "Political figures - Ndola"
+      ],
+      "Entities": [
+        "Political figures - Ndola"
+      ],
+      "Keywords": [
+        "abuse of office",
+        "illicit enrichment",
+        "graft"
+      ],
+      "RelevanceScore": 87.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "040bd91b-1aeb-1075-15cd-00cf2328d782",
+      "Title": "Anti-Corruption Commission conviction bribery",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/1550",
+      "PublishedDate": "2025-12-15T17:30:30Z",
+      "PublishedAt": "2025-10-22T17:30:30Z",
+      "DiscoveredAt": "2026-01-01T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Asset forfeiture reveals illicit enrichment in Kitwe",
+      "RelatedEntities": [
+        "Public officials - Kabwe"
+      ],
+      "Entities": [
+        "Public officials - Kabwe"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 84.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "029daea5-0b75-18e8-1c82-00788c3436cd",
+      "Title": "Anti-Corruption Commission asset forfeiture abuse of office",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/1752",
+      "PublishedDate": "2025-12-29T17:30:30Z",
+      "PublishedAt": "2025-11-07T17:30:30Z",
+      "DiscoveredAt": "2025-11-08T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Conviction reveals abuse of office in Ndola",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "corruption",
+        "abuse of office",
+        "bribery"
+      ],
+      "RelevanceScore": 74.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0212919f-159b-12da-1799-009e0c221192",
+      "Title": "Anti-Corruption Commission asset recovery graft",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/5721",
+      "PublishedDate": "2025-12-25T17:30:30Z",
+      "PublishedAt": "2026-01-09T17:30:30Z",
+      "DiscoveredAt": "2025-11-25T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Conviction reveals illicit enrichment in Lusaka",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "corruption",
+        "illicit enrichment",
+        "graft"
+      ],
+      "RelevanceScore": 65.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05c2b28d-1a44-1959-1115-003b9abeb387",
+      "Title": "Anti-Corruption Commission investigation illicit enrichment",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/5401",
+      "PublishedDate": "2025-11-10T17:30:30Z",
+      "PublishedAt": "2025-11-27T17:30:30Z",
+      "DiscoveredAt": "2025-12-31T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Plea agreement reveals illicit enrichment in Ndola",
+      "RelatedEntities": [
+        "Contractors - Kabwe"
+      ],
+      "Entities": [
+        "Contractors - Kabwe"
+      ],
+      "Keywords": [
+        "corruption",
+        "abuse of office",
+        "graft"
+      ],
+      "RelevanceScore": 68.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00d77886-0bae-1632-0b80-00a8b8090ed2",
+      "Title": "Anti-Corruption Commission conviction abuse of office",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/6166",
+      "PublishedDate": "2026-01-04T17:30:30Z",
+      "PublishedAt": "2025-12-10T17:30:30Z",
+      "DiscoveredAt": "2025-12-29T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Plea agreement reveals corruption in Ndola",
+      "RelatedEntities": [
+        "Political figures - Lusaka"
+      ],
+      "Entities": [
+        "Political figures - Lusaka"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "illicit enrichment"
+      ],
+      "RelevanceScore": 94.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02a6dddf-0e6b-1319-12af-0030e31e73ea",
+      "Title": "Anti-Corruption Commission asset recovery corruption",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/7186",
+      "PublishedDate": "2025-11-13T17:30:30Z",
+      "PublishedAt": "2025-11-17T17:30:30Z",
+      "DiscoveredAt": "2025-12-31T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Asset recovery reveals graft in Livingstone",
+      "RelatedEntities": [
+        "Contractors - Ndola"
+      ],
+      "Entities": [
+        "Contractors - Ndola"
+      ],
+      "Keywords": [
+        "illicit enrichment",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 74.7,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04bd1246-0bef-1b00-22db-00b9b21d194e",
+      "Title": "Anti-Corruption Commission plea agreement corruption",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/8484",
+      "PublishedDate": "2025-12-12T17:30:30Z",
+      "PublishedAt": "2026-01-05T17:30:30Z",
+      "DiscoveredAt": "2025-11-10T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Plea agreement reveals abuse of office in Livingstone",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "corruption",
+        "abuse of office"
+      ],
+      "RelevanceScore": 64.8,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00db179c-0da7-11ea-1b83-00a84a069f29",
+      "Title": "Anti-Corruption Commission asset forfeiture illicit enrichment",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/9318",
+      "PublishedDate": "2025-11-16T17:30:30Z",
+      "PublishedAt": "2025-10-31T17:30:30Z",
+      "DiscoveredAt": "2025-11-22T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Asset recovery reveals abuse of office in Ndola",
+      "RelatedEntities": [
+        "Public officials - Kabwe"
+      ],
+      "Entities": [
+        "Public officials - Kabwe"
+      ],
+      "Keywords": [
+        "illicit enrichment",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 66.7,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01692c1b-0bd7-2527-1d9a-00a7146c0670",
+      "Title": "Anti-Corruption Commission asset recovery bribery",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/5105",
+      "PublishedDate": "2025-12-19T17:30:30Z",
+      "PublishedAt": "2025-10-26T17:30:30Z",
+      "DiscoveredAt": "2025-12-30T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Investigation reveals bribery in Ndola",
+      "RelatedEntities": [
+        "Government departments - Ndola"
+      ],
+      "Entities": [
+        "Government departments - Ndola"
+      ],
+      "Keywords": [
+        "abuse of office",
+        "graft",
+        "bribery"
+      ],
+      "RelevanceScore": 76.4,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00cd387e-1a67-1736-0c25-002872c336b3",
+      "Title": "Anti-Corruption Commission asset recovery bribery",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/7236",
+      "PublishedDate": "2025-10-22T17:30:30Z",
+      "PublishedAt": "2025-12-02T17:30:30Z",
+      "DiscoveredAt": "2025-11-18T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Investigation reveals abuse of office in Ndola",
+      "RelatedEntities": [
+        "Political figures - Kabwe"
+      ],
+      "Entities": [
+        "Political figures - Kabwe"
+      ],
+      "Keywords": [
+        "graft",
+        "abuse of office",
+        "corruption"
+      ],
+      "RelevanceScore": 78.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "040281e5-08b6-233f-0a0b-00832c3959a2",
+      "Title": "Anti-Corruption Commission asset recovery bribery",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/8078",
+      "PublishedDate": "2025-11-10T17:30:30Z",
+      "PublishedAt": "2026-01-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Asset forfeiture reveals abuse of office in Ndola",
+      "RelatedEntities": [
+        "Government departments - Kabwe"
+      ],
+      "Entities": [
+        "Government departments - Kabwe"
+      ],
+      "Keywords": [
+        "graft",
+        "abuse of office",
+        "bribery"
+      ],
+      "RelevanceScore": 88.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04a5e98c-1a6e-1aee-091d-0056e37f72c0",
+      "Title": "Anti-Corruption Commission conviction graft",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/2212",
+      "PublishedDate": "2025-12-28T17:30:30Z",
+      "PublishedAt": "2026-01-04T17:30:30Z",
+      "DiscoveredAt": "2025-11-21T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Investigation reveals bribery in Ndola",
+      "RelatedEntities": [
+        "Public officials - Ndola"
+      ],
+      "Entities": [
+        "Public officials - Ndola"
+      ],
+      "Keywords": [
+        "corruption",
+        "abuse of office",
+        "graft"
+      ],
+      "RelevanceScore": 67.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02907f27-0d7c-0e31-042f-007c269123f6",
+      "Title": "Anti-Corruption Commission conviction bribery",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/8436",
+      "PublishedDate": "2025-11-18T17:30:30Z",
+      "PublishedAt": "2026-01-01T17:30:30Z",
+      "DiscoveredAt": "2025-12-09T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Plea agreement reveals abuse of office in Livingstone",
+      "RelatedEntities": [
+        "Government departments - Lusaka"
+      ],
+      "Entities": [
+        "Government departments - Lusaka"
+      ],
+      "Keywords": [
+        "abuse of office",
+        "bribery",
+        "graft"
+      ],
+      "RelevanceScore": 68.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "053809d5-20ed-1de0-1161-008f7fc8cd77",
+      "Title": "Anti-Corruption Commission asset recovery bribery",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/3416",
+      "PublishedDate": "2026-01-01T17:30:30Z",
+      "PublishedAt": "2026-01-05T17:30:30Z",
+      "DiscoveredAt": "2025-11-22T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Asset recovery reveals graft in Ndola",
+      "RelatedEntities": [
+        "Political figures - Lusaka"
+      ],
+      "Entities": [
+        "Political figures - Lusaka"
+      ],
+      "Keywords": [
+        "illicit enrichment",
+        "graft",
+        "corruption"
+      ],
+      "RelevanceScore": 64.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0489c89a-15cb-242a-1095-00638b73cd31",
+      "Title": "Anti-Corruption Commission asset forfeiture abuse of office",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/8439",
+      "PublishedDate": "2026-01-16T17:30:30Z",
+      "PublishedAt": "2026-01-03T17:30:30Z",
+      "DiscoveredAt": "2025-11-26T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Conviction reveals graft in Kabwe",
+      "RelatedEntities": [
+        "Political figures - Kitwe"
+      ],
+      "Entities": [
+        "Political figures - Kitwe"
+      ],
+      "Keywords": [
+        "abuse of office",
+        "corruption",
+        "graft"
+      ],
+      "RelevanceScore": 82.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05ecb768-04b7-0d4e-0402-00db67b9e986",
+      "Title": "Anti-Corruption Commission asset forfeiture abuse of office",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/9728",
+      "PublishedDate": "2025-11-05T17:30:30Z",
+      "PublishedAt": "2026-01-08T17:30:30Z",
+      "DiscoveredAt": "2025-12-10T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Asset forfeiture reveals corruption in Kabwe",
+      "RelatedEntities": [
+        "Government departments - Kitwe"
+      ],
+      "Entities": [
+        "Government departments - Kitwe"
+      ],
+      "Keywords": [
+        "bribery",
+        "corruption",
+        "abuse of office"
+      ],
+      "RelevanceScore": 93.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05e0a91b-1c5f-14a6-1c53-0086f96f6b84",
+      "Title": "Anti-Corruption Commission asset recovery corruption",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/6456",
+      "PublishedDate": "2025-10-21T17:30:30Z",
+      "PublishedAt": "2025-12-22T17:30:30Z",
+      "DiscoveredAt": "2025-10-25T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Asset forfeiture reveals abuse of office in Lusaka",
+      "RelatedEntities": [
+        "Government departments - Kabwe"
+      ],
+      "Entities": [
+        "Government departments - Kabwe"
+      ],
+      "Keywords": [
+        "bribery",
+        "illicit enrichment",
+        "corruption"
+      ],
+      "RelevanceScore": 83.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "036de993-0dfe-101a-242d-005683685f2c",
+      "Title": "Anti-Corruption Commission conviction illicit enrichment",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/8264",
+      "PublishedDate": "2026-01-13T17:30:30Z",
+      "PublishedAt": "2025-11-01T17:30:30Z",
+      "DiscoveredAt": "2025-10-25T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Conviction reveals bribery in Kabwe",
+      "RelatedEntities": [
+        "Political figures - Ndola"
+      ],
+      "Entities": [
+        "Political figures - Ndola"
+      ],
+      "Keywords": [
+        "corruption",
+        "illicit enrichment",
+        "bribery"
+      ],
+      "RelevanceScore": 79.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04227ff1-0e6a-0b95-0def-00af679890a6",
+      "Title": "Anti-Corruption Commission conviction graft",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/2734",
+      "PublishedDate": "2025-11-23T17:30:30Z",
+      "PublishedAt": "2025-10-26T17:30:30Z",
+      "DiscoveredAt": "2025-11-15T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Plea agreement reveals bribery in Ndola",
+      "RelatedEntities": [
+        "Public officials - Kabwe"
+      ],
+      "Entities": [
+        "Public officials - Kabwe"
+      ],
+      "Keywords": [
+        "graft",
+        "bribery",
+        "illicit enrichment"
+      ],
+      "RelevanceScore": 81.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04dcce97-24bc-1e20-0b76-00d83850164e",
+      "Title": "Anti-Corruption Commission conviction bribery",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/9892",
+      "PublishedDate": "2025-11-14T17:30:30Z",
+      "PublishedAt": "2026-01-18T17:30:30Z",
+      "DiscoveredAt": "2025-11-15T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Conviction reveals bribery in Lusaka",
+      "RelatedEntities": [
+        "Government departments - Livingstone"
+      ],
+      "Entities": [
+        "Government departments - Livingstone"
+      ],
+      "Keywords": [
+        "illicit enrichment",
+        "abuse of office",
+        "corruption"
+      ],
+      "RelevanceScore": 90.0,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "053d1824-1bac-122e-133f-005f63c06e6a",
+      "Title": "Anti-Corruption Commission asset forfeiture illicit enrichment",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/1688",
+      "PublishedDate": "2025-10-22T17:30:30Z",
+      "PublishedAt": "2025-12-10T17:30:30Z",
+      "DiscoveredAt": "2026-01-03T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Investigation reveals abuse of office in Kabwe",
+      "RelatedEntities": [
+        "Contractors - Kabwe"
+      ],
+      "Entities": [
+        "Contractors - Kabwe"
+      ],
+      "Keywords": [
+        "illicit enrichment",
+        "corruption",
+        "abuse of office"
+      ],
+      "RelevanceScore": 72.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05b75f2f-0acd-1942-2229-006aaf375ee6",
+      "Title": "Anti-Corruption Commission investigation illicit enrichment",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/5361",
+      "PublishedDate": "2025-10-23T17:30:30Z",
+      "PublishedAt": "2025-11-16T17:30:30Z",
+      "DiscoveredAt": "2025-12-15T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Investigation reveals bribery in Lusaka",
+      "RelatedEntities": [
+        "Contractors - Ndola"
+      ],
+      "Entities": [
+        "Contractors - Ndola"
+      ],
+      "Keywords": [
+        "graft",
+        "illicit enrichment",
+        "corruption"
+      ],
+      "RelevanceScore": 91.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03c097a9-1f11-1aac-204f-002bd980985f",
+      "Title": "Anti-Corruption Commission investigation corruption",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/3390",
+      "PublishedDate": "2025-12-04T17:30:30Z",
+      "PublishedAt": "2025-11-26T17:30:30Z",
+      "DiscoveredAt": "2025-12-21T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Asset forfeiture reveals graft in Livingstone",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "abuse of office",
+        "illicit enrichment",
+        "graft"
+      ],
+      "RelevanceScore": 64.4,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03ff3eba-1e2f-25cb-23bd-001a164317b6",
+      "Title": "Anti-Corruption Commission asset recovery corruption",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/1596",
+      "PublishedDate": "2025-12-03T17:30:30Z",
+      "PublishedAt": "2025-11-15T17:30:30Z",
+      "DiscoveredAt": "2025-12-25T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Plea agreement reveals corruption in Kabwe",
+      "RelatedEntities": [
+        "Political figures - Kitwe"
+      ],
+      "Entities": [
+        "Political figures - Kitwe"
+      ],
+      "Keywords": [
+        "corruption",
+        "abuse of office",
+        "bribery"
+      ],
+      "RelevanceScore": 82.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04467d9f-23f9-0474-0e2a-00c2829e6bf2",
+      "Title": "Anti-Corruption Commission asset recovery graft",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/2191",
+      "PublishedDate": "2025-11-20T17:30:30Z",
+      "PublishedAt": "2026-01-17T17:30:30Z",
+      "DiscoveredAt": "2026-01-12T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Asset forfeiture reveals corruption in Ndola",
+      "RelatedEntities": [
+        "Public officials - Livingstone"
+      ],
+      "Entities": [
+        "Public officials - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "illicit enrichment",
+        "abuse of office"
+      ],
+      "RelevanceScore": 77.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05b94cad-0e80-1bbe-21b4-00c67afada18",
+      "Title": "Anti-Corruption Commission plea agreement graft",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/7828",
+      "PublishedDate": "2025-11-21T17:30:30Z",
+      "PublishedAt": "2025-10-24T17:30:30Z",
+      "DiscoveredAt": "2025-11-04T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Investigation reveals illicit enrichment in Lusaka",
+      "RelatedEntities": [
+        "Public officials - Lusaka"
+      ],
+      "Entities": [
+        "Public officials - Lusaka"
+      ],
+      "Keywords": [
+        "bribery",
+        "abuse of office",
+        "graft"
+      ],
+      "RelevanceScore": 63.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04d7f28f-0620-0e08-1366-00c0ac6d4642",
+      "Title": "Anti-Corruption Commission investigation corruption",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/7085",
+      "PublishedDate": "2025-11-21T17:30:30Z",
+      "PublishedAt": "2025-11-09T17:30:30Z",
+      "DiscoveredAt": "2025-10-23T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Asset forfeiture reveals abuse of office in Kabwe",
+      "RelatedEntities": [
+        "Public officials - Kabwe"
+      ],
+      "Entities": [
+        "Public officials - Kabwe"
+      ],
+      "Keywords": [
+        "bribery",
+        "abuse of office",
+        "corruption"
+      ],
+      "RelevanceScore": 83.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00e086d4-0658-1f14-14c8-002d990d8be7",
+      "Title": "Anti-Corruption Commission asset forfeiture corruption",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/8050",
+      "PublishedDate": "2026-01-11T17:30:30Z",
+      "PublishedAt": "2025-11-18T17:30:30Z",
+      "DiscoveredAt": "2025-12-09T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Asset recovery reveals graft in Lusaka",
+      "RelatedEntities": [
+        "Government departments - Kitwe"
+      ],
+      "Entities": [
+        "Government departments - Kitwe"
+      ],
+      "Keywords": [
+        "abuse of office",
+        "graft",
+        "bribery"
+      ],
+      "RelevanceScore": 91.8,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "050d216a-1863-2619-0ebe-0037eb81166b",
+      "Title": "Anti-Corruption Commission asset forfeiture abuse of office",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/2311",
+      "PublishedDate": "2026-01-15T17:30:30Z",
+      "PublishedAt": "2026-01-12T17:30:30Z",
+      "DiscoveredAt": "2025-12-20T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Investigation reveals illicit enrichment in Ndola",
+      "RelatedEntities": [
+        "Public officials - Kabwe"
+      ],
+      "Entities": [
+        "Public officials - Kabwe"
+      ],
+      "Keywords": [
+        "illicit enrichment",
+        "bribery",
+        "corruption"
+      ],
+      "RelevanceScore": 61.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "033f3717-12c5-0bc5-1fe0-00ca32906314",
+      "Title": "Anti-Corruption Commission conviction corruption",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/3207",
+      "PublishedDate": "2025-11-19T17:30:30Z",
+      "PublishedAt": "2026-01-06T17:30:30Z",
+      "DiscoveredAt": "2025-11-15T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Investigation reveals graft in Livingstone",
+      "RelatedEntities": [
+        "Contractors - Kitwe"
+      ],
+      "Entities": [
+        "Contractors - Kitwe"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "illicit enrichment"
+      ],
+      "RelevanceScore": 61.0,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02d27178-23ea-25f0-1fb2-005a67552550",
+      "Title": "Anti-Corruption Commission conviction graft",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/6831",
+      "PublishedDate": "2025-12-08T17:30:30Z",
+      "PublishedAt": "2025-11-01T17:30:30Z",
+      "DiscoveredAt": "2025-11-23T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Conviction reveals corruption in Livingstone",
+      "RelatedEntities": [
+        "Political figures - Kabwe"
+      ],
+      "Entities": [
+        "Political figures - Kabwe"
+      ],
+      "Keywords": [
+        "illicit enrichment",
+        "graft",
+        "bribery"
+      ],
+      "RelevanceScore": 83.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01bd5a81-251d-1596-1ff8-0063e5af3dca",
+      "Title": "Anti-Corruption Commission asset recovery corruption",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/6765",
+      "PublishedDate": "2025-11-08T17:30:30Z",
+      "PublishedAt": "2025-11-30T17:30:30Z",
+      "DiscoveredAt": "2025-12-06T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Investigation reveals illicit enrichment in Ndola",
+      "RelatedEntities": [
+        "Political figures - Livingstone"
+      ],
+      "Entities": [
+        "Political figures - Livingstone"
+      ],
+      "Keywords": [
+        "abuse of office",
+        "graft",
+        "bribery"
+      ],
+      "RelevanceScore": 67.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0143efcf-1cda-1f18-225c-0043f0c0b7f1",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/3233",
+      "PublishedDate": "2026-01-03T17:30:30Z",
+      "PublishedAt": "2025-11-16T17:30:30Z",
+      "DiscoveredAt": "2025-11-14T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Asset recovery reveals corruption in Lusaka",
+      "RelatedEntities": [
+        "Government departments - Lusaka"
+      ],
+      "Entities": [
+        "Government departments - Lusaka"
+      ],
+      "Keywords": [
+        "graft",
+        "bribery",
+        "abuse of office"
+      ],
+      "RelevanceScore": 80.5,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0255fa56-0799-14f0-15b9-00d62b42a9f4",
+      "Title": "Anti-Corruption Commission asset recovery bribery",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/9505",
+      "PublishedDate": "2025-12-11T17:30:30Z",
+      "PublishedAt": "2025-10-21T17:30:30Z",
+      "DiscoveredAt": "2025-12-17T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Plea agreement reveals corruption in Lusaka",
+      "RelatedEntities": [
+        "Public officials - Livingstone"
+      ],
+      "Entities": [
+        "Public officials - Livingstone"
+      ],
+      "Keywords": [
+        "graft",
+        "abuse of office",
+        "illicit enrichment"
+      ],
+      "RelevanceScore": 61.9,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03abcd3e-214f-088c-2270-003586a51432",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/9546",
+      "PublishedDate": "2025-11-05T17:30:30Z",
+      "PublishedAt": "2025-12-17T17:30:30Z",
+      "DiscoveredAt": "2026-01-11T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Asset forfeiture reveals graft in Kabwe",
+      "RelatedEntities": [
+        "Public officials - Kabwe"
+      ],
+      "Entities": [
+        "Public officials - Kabwe"
+      ],
+      "Keywords": [
+        "bribery",
+        "abuse of office",
+        "illicit enrichment"
+      ],
+      "RelevanceScore": 90.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "028ffcd6-0ca9-0429-1fa6-0072f4b3ea89",
+      "Title": "Anti-Corruption Commission asset forfeiture graft",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/5130",
+      "PublishedDate": "2025-12-12T17:30:30Z",
+      "PublishedAt": "2025-10-28T17:30:30Z",
+      "DiscoveredAt": "2025-11-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Plea agreement reveals graft in Kabwe",
+      "RelatedEntities": [
+        "Government departments - Kabwe"
+      ],
+      "Entities": [
+        "Government departments - Kabwe"
+      ],
+      "Keywords": [
+        "abuse of office",
+        "graft",
+        "corruption"
+      ],
+      "RelevanceScore": 85.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "041de491-12b3-1d36-183d-008c9cee9935",
+      "Title": "Anti-Corruption Commission asset forfeiture graft",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/6482",
+      "PublishedDate": "2025-11-11T17:30:30Z",
+      "PublishedAt": "2025-11-18T17:30:30Z",
+      "DiscoveredAt": "2025-12-22T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Asset recovery reveals abuse of office in Lusaka",
+      "RelatedEntities": [
+        "Political figures - Ndola"
+      ],
+      "Entities": [
+        "Political figures - Ndola"
+      ],
+      "Keywords": [
+        "abuse of office",
+        "corruption",
+        "illicit enrichment"
+      ],
+      "RelevanceScore": 83.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02d90850-0562-126d-17f4-00c0ac4f506a",
+      "Title": "Anti-Corruption Commission investigation illicit enrichment",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/6269",
+      "PublishedDate": "2025-12-05T17:30:30Z",
+      "PublishedAt": "2025-12-14T17:30:30Z",
+      "DiscoveredAt": "2025-11-30T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Asset recovery reveals bribery in Lusaka",
+      "RelatedEntities": [
+        "Government departments - Kabwe"
+      ],
+      "Entities": [
+        "Government departments - Kabwe"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "corruption"
+      ],
+      "RelevanceScore": 72.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05030bd2-0932-1d1d-2179-00db733726f4",
+      "Title": "Anti-Corruption Commission conviction corruption",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/9496",
+      "PublishedDate": "2025-10-29T17:30:30Z",
+      "PublishedAt": "2025-11-05T17:30:30Z",
+      "DiscoveredAt": "2025-12-15T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Plea agreement reveals bribery in Ndola",
+      "RelatedEntities": [
+        "Political figures - Ndola"
+      ],
+      "Entities": [
+        "Political figures - Ndola"
+      ],
+      "Keywords": [
+        "illicit enrichment",
+        "abuse of office",
+        "corruption"
+      ],
+      "RelevanceScore": 78.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "04a765a5-1028-212c-13fe-00352041a8f8",
+      "ArticleId": "0212da25-0a69-0e96-1476-00895eb05f97",
+      "EntityId": "01f2cb01-1638-046e-20ab-0023babd6f20",
+      "EntityName": "Contractors - Livingstone",
+      "AlertReason": "Adverse media on illicit enrichment",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-13T17:30:30Z",
+      "TriggeredAt": "2026-01-06T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "025813ea-1bfc-205f-1449-00a9443893e1",
+      "ArticleId": "04008ed0-1c23-0854-1e51-003467c162b3",
+      "EntityId": "04980f0b-0400-1b0b-1498-0092e6845825",
+      "EntityName": "Public officials - Kitwe",
+      "AlertReason": "Adverse media on bribery",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-26T17:30:30Z",
+      "TriggeredAt": "2025-11-07T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "04c99eb7-1813-094c-164c-00b46854ea5d",
+      "ArticleId": "05a8b33c-1d69-0c4d-217a-002f3750bae9",
+      "EntityId": "04e644c1-2096-2338-2434-00518248d17e",
+      "EntityName": "Contractors - Livingstone",
+      "AlertReason": "Adverse media on graft",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-25T17:30:30Z",
+      "TriggeredAt": "2025-12-01T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "05e35d9a-1b8b-0e96-2081-0059d4578d17",
+      "ArticleId": "0212919f-159b-12da-1799-009e0c221192",
+      "EntityId": "032eb153-1e9c-0a05-165d-00999a2400d1",
+      "EntityName": "Contractors - Livingstone",
+      "AlertReason": "Adverse media on corruption",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-12T17:30:30Z",
+      "TriggeredAt": "2025-12-14T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03432149-12f0-194b-193e-00a79ef6f6c5",
+      "ArticleId": "00d77886-0bae-1632-0b80-00a8b8090ed2",
+      "EntityId": "04598d41-24ca-1a5e-19cc-0083a7ce50e0",
+      "EntityName": "Political figures - Lusaka",
+      "AlertReason": "Adverse media on illicit enrichment",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-25T17:30:30Z",
+      "TriggeredAt": "2025-11-26T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04faef3c-1c12-06f6-15b1-0090d3ceeb15",
+      "ArticleId": "040281e5-08b6-233f-0a0b-00832c3959a2",
+      "EntityId": "04f92df7-12a9-0d13-0c24-004fc6f57a63",
+      "EntityName": "Government departments - Kabwe",
+      "AlertReason": "Adverse media on graft",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-07T17:30:30Z",
+      "TriggeredAt": "2025-10-29T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02236559-0a9b-1803-0877-003fd0e47004",
+      "ArticleId": "02907f27-0d7c-0e31-042f-007c269123f6",
+      "EntityId": "01db0b9b-1038-043c-215b-007b66541584",
+      "EntityName": "Government departments - Lusaka",
+      "AlertReason": "Adverse media on graft",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-26T17:30:30Z",
+      "TriggeredAt": "2025-12-15T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02e2f7af-0790-213b-25b2-00646be64f47",
+      "ArticleId": "0489c89a-15cb-242a-1095-00638b73cd31",
+      "EntityId": "018cf68b-0e35-1b99-0fae-00b7d760b4f4",
+      "EntityName": "Political figures - Kitwe",
+      "AlertReason": "Adverse media on abuse of office",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-02T17:30:30Z",
+      "TriggeredAt": "2025-11-16T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03ae5ddb-0a0c-0c1b-06f6-0064d0084964",
+      "ArticleId": "036de993-0dfe-101a-242d-005683685f2c",
+      "EntityId": "05e2db4d-15ae-04dc-1623-00d579628fa1",
+      "EntityName": "Political figures - Ndola",
+      "AlertReason": "Adverse media on bribery",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "TriggeredAt": "2026-01-15T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02b35f22-11e6-092a-0577-00779b95951b",
+      "ArticleId": "04227ff1-0e6a-0b95-0def-00af679890a6",
+      "EntityId": "0439585a-2605-0835-0608-006eaa4b7622",
+      "EntityName": "Public officials - Kabwe",
+      "AlertReason": "Adverse media on abuse of office",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2026-01-17T17:30:30Z",
+      "TriggeredAt": "2025-12-16T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "00a1b862-0a7c-074b-0e8d-00d55312c8d7",
+      "ArticleId": "04dcce97-24bc-1e20-0b76-00d83850164e",
+      "EntityId": "058b41f9-0519-211b-1b4b-00852ea0f1c8",
+      "EntityName": "Government departments - Livingstone",
+      "AlertReason": "Adverse media on graft",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-03T17:30:30Z",
+      "TriggeredAt": "2026-01-12T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0406522b-2465-0a26-20bd-006ff7c7c2d3",
+      "ArticleId": "03ff3eba-1e2f-25cb-23bd-001a164317b6",
+      "EntityId": "0129f821-08b9-1267-2528-009e0b826ded",
+      "EntityName": "Political figures - Kitwe",
+      "AlertReason": "Adverse media on bribery",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-10-27T17:30:30Z",
+      "TriggeredAt": "2025-12-08T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "019ad4db-143a-1fa6-17d2-006279452ef3",
+      "ArticleId": "04467d9f-23f9-0474-0e2a-00c2829e6bf2",
+      "EntityId": "010b51a8-1f98-10e5-1350-00891e1ada5f",
+      "EntityName": "Public officials - Livingstone",
+      "AlertReason": "Adverse media on graft",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-02T17:30:30Z",
+      "TriggeredAt": "2025-11-12T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "048120c5-17b8-1e39-041b-007f483191a1",
+      "ArticleId": "02d90850-0562-126d-17f4-00c0ac4f506a",
+      "EntityId": "059d1bbf-159d-163f-0886-00ac9b75d818",
+      "EntityName": "Government departments - Kabwe",
+      "AlertReason": "Adverse media on bribery",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-02T17:30:30Z",
+      "TriggeredAt": "2025-12-24T17:30:30Z",
+      "IsAcknowledged": true
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "014f2ff5-0550-1318-1965-0071ae67880c",
+      "EntityName": "Anti-Corruption Commission",
+      "Keywords": [
+        "corruption",
+        "illicit enrichment",
+        "bribery"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 28,
+    "HighRiskArticles": 20,
+    "ActiveAlerts": 14,
+    "MonitoredEntities": 15,
+    "ArticlesByCategory": {
+      "regulatory": 14,
+      "criminal": 10,
+      "financial": 11,
+      "political": 7
+    },
+    "ArticlesBySeverity": {
+      "high": 14,
+      "medium": 17,
+      "low": 15
+    }
+  }
+}

@@ -1,0 +1,1481 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "01c7c145-0684-0f48-19ae-00c97933d158",
+      "Title": "Print Media source verification corruption exposure",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/9157",
+      "PublishedDate": "2026-01-16T17:30:31Z",
+      "PublishedAt": "2026-01-08T17:30:31Z",
+      "DiscoveredAt": "2025-10-28T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Fact-checking reveals corruption exposure in Livingstone",
+      "RelatedEntities": [
+        "Corporations - Copperbelt"
+      ],
+      "Entities": [
+        "Corporations - Copperbelt"
+      ],
+      "Keywords": [
+        "corruption exposure",
+        "investigative journalism",
+        "news reporting"
+      ],
+      "RelevanceScore": 85.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0268b8da-2468-1943-1643-003a5e57e2dc",
+      "Title": "Print Media source verification government accountability",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/1706",
+      "PublishedDate": "2026-01-10T17:30:31Z",
+      "PublishedAt": "2026-01-03T17:30:31Z",
+      "DiscoveredAt": "2025-12-23T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Fact-checking reveals investigative journalism in Kitwe",
+      "RelatedEntities": [
+        "News sources - Copperbelt"
+      ],
+      "Entities": [
+        "News sources - Copperbelt"
+      ],
+      "Keywords": [
+        "news reporting",
+        "corruption exposure",
+        "government accountability"
+      ],
+      "RelevanceScore": 92.1,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04fcc29b-10ab-097b-07eb-0077388b2906",
+      "Title": "Print Media story publication government accountability",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/6173",
+      "PublishedDate": "2025-11-21T17:30:31Z",
+      "PublishedAt": "2026-01-17T17:30:31Z",
+      "DiscoveredAt": "2025-12-02T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Investigation reveals corruption exposure in Kitwe",
+      "RelatedEntities": [
+        "News sources - Livingstone"
+      ],
+      "Entities": [
+        "News sources - Livingstone"
+      ],
+      "Keywords": [
+        "corruption exposure",
+        "investigative journalism",
+        "news reporting"
+      ],
+      "RelevanceScore": 61.3,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02090de6-1235-1371-1b51-002ff5dc1b14",
+      "Title": "Print Media source verification government accountability",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/1729",
+      "PublishedDate": "2025-11-18T17:30:31Z",
+      "PublishedAt": "2026-01-12T17:30:31Z",
+      "DiscoveredAt": "2025-12-17T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Editorial review reveals corruption exposure in Kitwe",
+      "RelatedEntities": [
+        "Public figures - Lusaka"
+      ],
+      "Entities": [
+        "Public figures - Lusaka"
+      ],
+      "Keywords": [
+        "corruption exposure",
+        "public interest stories",
+        "government accountability"
+      ],
+      "RelevanceScore": 65.1,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04d7b2f9-183a-042d-1941-00ace94f6cf1",
+      "Title": "Print Media fact-checking public interest stories",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/8569",
+      "PublishedDate": "2026-01-13T17:30:31Z",
+      "PublishedAt": "2025-10-26T17:30:31Z",
+      "DiscoveredAt": "2025-11-06T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Investigation reveals public interest stories in Livingstone",
+      "RelatedEntities": [
+        "Government officials - Livingstone"
+      ],
+      "Entities": [
+        "Government officials - Livingstone"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "corruption exposure",
+        "news reporting"
+      ],
+      "RelevanceScore": 65.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01d494fb-0bf7-159c-2093-00aa741d61e0",
+      "Title": "Print Media investigation government accountability",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/8271",
+      "PublishedDate": "2026-01-07T17:30:31Z",
+      "PublishedAt": "2025-10-28T17:30:31Z",
+      "DiscoveredAt": "2025-10-23T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Investigation reveals investigative journalism in Livingstone",
+      "RelatedEntities": [
+        "Public figures - Lusaka"
+      ],
+      "Entities": [
+        "Public figures - Lusaka"
+      ],
+      "Keywords": [
+        "corruption exposure",
+        "investigative journalism",
+        "public interest stories"
+      ],
+      "RelevanceScore": 77.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0548dd19-2651-1fe8-13a4-002baca06d31",
+      "Title": "Print Media investigation news reporting",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/5483",
+      "PublishedDate": "2025-11-28T17:30:31Z",
+      "PublishedAt": "2026-01-09T17:30:31Z",
+      "DiscoveredAt": "2025-12-10T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Story publication reveals public interest stories in Livingstone",
+      "RelatedEntities": [
+        "News sources - Copperbelt"
+      ],
+      "Entities": [
+        "News sources - Copperbelt"
+      ],
+      "Keywords": [
+        "news reporting",
+        "corruption exposure",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 86.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04347a46-2629-054b-1e42-00522deda6c2",
+      "Title": "Print Media editorial review corruption exposure",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/4818",
+      "PublishedDate": "2026-01-12T17:30:31Z",
+      "PublishedAt": "2025-10-27T17:30:31Z",
+      "DiscoveredAt": "2025-11-10T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Investigation reveals public interest stories in Kitwe",
+      "RelatedEntities": [
+        "Corporations - Copperbelt"
+      ],
+      "Entities": [
+        "Corporations - Copperbelt"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "government accountability",
+        "public interest stories"
+      ],
+      "RelevanceScore": 93.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04e179be-235f-0ccc-1296-0024460d11d2",
+      "Title": "Print Media investigation news reporting",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/5994",
+      "PublishedDate": "2025-12-28T17:30:31Z",
+      "PublishedAt": "2025-12-03T17:30:31Z",
+      "DiscoveredAt": "2026-01-09T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Story publication reveals public interest stories in Kitwe",
+      "RelatedEntities": [
+        "Public figures - nationwide coverage"
+      ],
+      "Entities": [
+        "Public figures - nationwide coverage"
+      ],
+      "Keywords": [
+        "corruption exposure",
+        "public interest stories",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 81.8,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "055335bc-0dd7-0648-16e8-006768707749",
+      "Title": "Print Media investigation government accountability",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/4054",
+      "PublishedDate": "2026-01-16T17:30:31Z",
+      "PublishedAt": "2026-01-06T17:30:31Z",
+      "DiscoveredAt": "2025-10-24T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Investigation reveals corruption exposure in Kitwe",
+      "RelatedEntities": [
+        "Corporations - Copperbelt"
+      ],
+      "Entities": [
+        "Corporations - Copperbelt"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "news reporting",
+        "government accountability"
+      ],
+      "RelevanceScore": 76.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0348ee78-26d2-24b3-1e86-0064c542ac54",
+      "Title": "Print Media investigation government accountability",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/8291",
+      "PublishedDate": "2026-01-05T17:30:31Z",
+      "PublishedAt": "2025-11-19T17:30:31Z",
+      "DiscoveredAt": "2025-10-23T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Investigation reveals investigative journalism in Copperbelt",
+      "RelatedEntities": [
+        "Government officials - Kitwe"
+      ],
+      "Entities": [
+        "Government officials - Kitwe"
+      ],
+      "Keywords": [
+        "government accountability",
+        "corruption exposure",
+        "public interest stories"
+      ],
+      "RelevanceScore": 91.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "009a12ce-2087-123e-1073-001840b0c0af",
+      "Title": "Print Media source verification corruption exposure",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/6595",
+      "PublishedDate": "2025-10-22T17:30:31Z",
+      "PublishedAt": "2026-01-17T17:30:31Z",
+      "DiscoveredAt": "2025-12-26T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Story publication reveals government accountability in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Livingstone"
+      ],
+      "Entities": [
+        "Corporations - Livingstone"
+      ],
+      "Keywords": [
+        "corruption exposure",
+        "government accountability",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 90.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00b6f20b-1ac7-2423-2203-00d1e390e66d",
+      "Title": "Print Media fact-checking corruption exposure",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/3930",
+      "PublishedDate": "2025-12-03T17:30:31Z",
+      "PublishedAt": "2025-12-09T17:30:31Z",
+      "DiscoveredAt": "2025-12-12T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Source verification reveals public interest stories in nationwide coverage",
+      "RelatedEntities": [
+        "Corporations - Copperbelt"
+      ],
+      "Entities": [
+        "Corporations - Copperbelt"
+      ],
+      "Keywords": [
+        "news reporting",
+        "corruption exposure",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 87.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01776399-26ad-1ff9-1bd0-003876f02ea9",
+      "Title": "Print Media fact-checking public interest stories",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/7253",
+      "PublishedDate": "2025-10-23T17:30:31Z",
+      "PublishedAt": "2025-12-08T17:30:31Z",
+      "DiscoveredAt": "2025-12-28T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Editorial review reveals news reporting in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Copperbelt"
+      ],
+      "Entities": [
+        "Corporations - Copperbelt"
+      ],
+      "Keywords": [
+        "news reporting",
+        "corruption exposure",
+        "public interest stories"
+      ],
+      "RelevanceScore": 86.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05182553-1b03-0485-1490-00b35b043556",
+      "Title": "Print Media investigation public interest stories",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/2683",
+      "PublishedDate": "2026-01-04T17:30:31Z",
+      "PublishedAt": "2025-11-28T17:30:31Z",
+      "DiscoveredAt": "2025-12-07T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Fact-checking reveals government accountability in Livingstone",
+      "RelatedEntities": [
+        "Government officials - Livingstone"
+      ],
+      "Entities": [
+        "Government officials - Livingstone"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "news reporting",
+        "public interest stories"
+      ],
+      "RelevanceScore": 86.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04ae9565-04cf-1ef8-2002-00b459981107",
+      "Title": "Print Media editorial review corruption exposure",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/3009",
+      "PublishedDate": "2025-12-01T17:30:31Z",
+      "PublishedAt": "2025-12-02T17:30:31Z",
+      "DiscoveredAt": "2025-11-26T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Source verification reveals investigative journalism in Copperbelt",
+      "RelatedEntities": [
+        "Government officials - Kitwe"
+      ],
+      "Entities": [
+        "Government officials - Kitwe"
+      ],
+      "Keywords": [
+        "corruption exposure",
+        "news reporting",
+        "public interest stories"
+      ],
+      "RelevanceScore": 60.0,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04c38d50-1286-1962-0bd6-00c7e9b9ab17",
+      "Title": "Print Media source verification investigative journalism",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/4802",
+      "PublishedDate": "2025-11-09T17:30:31Z",
+      "PublishedAt": "2025-11-11T17:30:31Z",
+      "DiscoveredAt": "2025-12-06T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Fact-checking reveals government accountability in Copperbelt",
+      "RelatedEntities": [
+        "Corporations - Lusaka"
+      ],
+      "Entities": [
+        "Corporations - Lusaka"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "government accountability",
+        "news reporting"
+      ],
+      "RelevanceScore": 85.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0455dded-1e98-08f4-26b4-00725444ed42",
+      "Title": "Print Media story publication news reporting",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/8129",
+      "PublishedDate": "2025-12-21T17:30:31Z",
+      "PublishedAt": "2026-01-04T17:30:31Z",
+      "DiscoveredAt": "2025-12-27T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Story publication reveals investigative journalism in Kitwe",
+      "RelatedEntities": [
+        "News sources - Kitwe"
+      ],
+      "Entities": [
+        "News sources - Kitwe"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "government accountability",
+        "public interest stories"
+      ],
+      "RelevanceScore": 76.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02b7af12-22aa-1fd0-1b70-005050a410b7",
+      "Title": "Print Media source verification news reporting",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/8899",
+      "PublishedDate": "2025-12-10T17:30:31Z",
+      "PublishedAt": "2025-11-12T17:30:31Z",
+      "DiscoveredAt": "2025-12-13T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Editorial review reveals corruption exposure in Livingstone",
+      "RelatedEntities": [
+        "Corporations - Lusaka"
+      ],
+      "Entities": [
+        "Corporations - Lusaka"
+      ],
+      "Keywords": [
+        "public interest stories",
+        "government accountability",
+        "corruption exposure"
+      ],
+      "RelevanceScore": 89.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "031ae936-0410-23c5-14a9-00d5b5804e64",
+      "Title": "Print Media editorial review public interest stories",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/2837",
+      "PublishedDate": "2025-12-28T17:30:31Z",
+      "PublishedAt": "2025-10-26T17:30:31Z",
+      "DiscoveredAt": "2025-12-03T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Investigation reveals government accountability in Kitwe",
+      "RelatedEntities": [
+        "Public figures - nationwide coverage"
+      ],
+      "Entities": [
+        "Public figures - nationwide coverage"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "news reporting",
+        "corruption exposure"
+      ],
+      "RelevanceScore": 78.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03537176-1662-1130-1e74-00328804f302",
+      "Title": "Print Media editorial review public interest stories",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/8528",
+      "PublishedDate": "2025-11-12T17:30:31Z",
+      "PublishedAt": "2025-12-03T17:30:31Z",
+      "DiscoveredAt": "2025-12-24T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Investigation reveals corruption exposure in Copperbelt",
+      "RelatedEntities": [
+        "Public figures - Lusaka"
+      ],
+      "Entities": [
+        "Public figures - Lusaka"
+      ],
+      "Keywords": [
+        "news reporting",
+        "corruption exposure",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 61.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0150058f-068b-0c54-1844-00908000cf4c",
+      "Title": "Print Media story publication government accountability",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/6453",
+      "PublishedDate": "2025-10-26T17:30:31Z",
+      "PublishedAt": "2025-10-21T17:30:31Z",
+      "DiscoveredAt": "2025-12-09T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Investigation reveals news reporting in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Livingstone"
+      ],
+      "Entities": [
+        "Corporations - Livingstone"
+      ],
+      "Keywords": [
+        "government accountability",
+        "investigative journalism",
+        "news reporting"
+      ],
+      "RelevanceScore": 91.2,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "037dc800-1374-049b-104d-006154618475",
+      "Title": "Print Media source verification news reporting",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/3284",
+      "PublishedDate": "2026-01-01T17:30:31Z",
+      "PublishedAt": "2025-12-31T17:30:31Z",
+      "DiscoveredAt": "2025-12-23T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Source verification reveals news reporting in Kitwe",
+      "RelatedEntities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Entities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Keywords": [
+        "public interest stories",
+        "news reporting",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 70.7,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "059adcd5-237e-0581-0b01-00bf307581cb",
+      "Title": "Print Media story publication news reporting",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/8888",
+      "PublishedDate": "2026-01-11T17:30:31Z",
+      "PublishedAt": "2025-12-15T17:30:31Z",
+      "DiscoveredAt": "2026-01-04T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Investigation reveals news reporting in Kitwe",
+      "RelatedEntities": [
+        "News sources - nationwide coverage"
+      ],
+      "Entities": [
+        "News sources - nationwide coverage"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "government accountability",
+        "corruption exposure"
+      ],
+      "RelevanceScore": 73.8,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04a491b0-21b8-13ff-19e8-00cb28a419d9",
+      "Title": "Print Media editorial review government accountability",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/7154",
+      "PublishedDate": "2025-11-29T17:30:31Z",
+      "PublishedAt": "2025-11-12T17:30:31Z",
+      "DiscoveredAt": "2026-01-15T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Story publication reveals corruption exposure in Livingstone",
+      "RelatedEntities": [
+        "News sources - Copperbelt"
+      ],
+      "Entities": [
+        "News sources - Copperbelt"
+      ],
+      "Keywords": [
+        "corruption exposure",
+        "investigative journalism",
+        "government accountability"
+      ],
+      "RelevanceScore": 87.5,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0196e7f9-21e8-1ce2-0e9d-00ce4b952274",
+      "Title": "Print Media investigation news reporting",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/6590",
+      "PublishedDate": "2025-11-21T17:30:31Z",
+      "PublishedAt": "2025-12-16T17:30:31Z",
+      "DiscoveredAt": "2025-12-11T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Editorial review reveals corruption exposure in Kitwe",
+      "RelatedEntities": [
+        "News sources - Kitwe"
+      ],
+      "Entities": [
+        "News sources - Kitwe"
+      ],
+      "Keywords": [
+        "corruption exposure",
+        "public interest stories",
+        "news reporting"
+      ],
+      "RelevanceScore": 91.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "056479f8-0527-0a28-1c9d-0092a942e307",
+      "Title": "Print Media investigation government accountability",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/1093",
+      "PublishedDate": "2025-12-09T17:30:31Z",
+      "PublishedAt": "2025-11-23T17:30:31Z",
+      "DiscoveredAt": "2026-01-06T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Fact-checking reveals news reporting in Lusaka",
+      "RelatedEntities": [
+        "Government officials - Copperbelt"
+      ],
+      "Entities": [
+        "Government officials - Copperbelt"
+      ],
+      "Keywords": [
+        "news reporting",
+        "public interest stories",
+        "government accountability"
+      ],
+      "RelevanceScore": 93.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02776b36-0fb4-1d5d-21af-007c07d08f2f",
+      "Title": "Print Media fact-checking government accountability",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/6684",
+      "PublishedDate": "2026-01-10T17:30:31Z",
+      "PublishedAt": "2026-01-17T17:30:31Z",
+      "DiscoveredAt": "2026-01-08T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Investigation reveals news reporting in Lusaka",
+      "RelatedEntities": [
+        "Corporations - Kitwe"
+      ],
+      "Entities": [
+        "Corporations - Kitwe"
+      ],
+      "Keywords": [
+        "news reporting",
+        "investigative journalism",
+        "public interest stories"
+      ],
+      "RelevanceScore": 93.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "045f6b66-165a-1c16-0452-00184e92624c",
+      "Title": "Print Media fact-checking government accountability",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/7055",
+      "PublishedDate": "2025-12-25T17:30:31Z",
+      "PublishedAt": "2025-11-17T17:30:31Z",
+      "DiscoveredAt": "2025-12-06T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Investigation reveals news reporting in Copperbelt",
+      "RelatedEntities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Entities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "public interest stories",
+        "corruption exposure"
+      ],
+      "RelevanceScore": 83.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "040afa79-174b-156e-1a4d-004c1713a543",
+      "Title": "Print Media editorial review government accountability",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/4533",
+      "PublishedDate": "2025-11-10T17:30:31Z",
+      "PublishedAt": "2026-01-15T17:30:31Z",
+      "DiscoveredAt": "2025-11-06T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Source verification reveals investigative journalism in Copperbelt",
+      "RelatedEntities": [
+        "News sources - nationwide coverage"
+      ],
+      "Entities": [
+        "News sources - nationwide coverage"
+      ],
+      "Keywords": [
+        "news reporting",
+        "investigative journalism",
+        "corruption exposure"
+      ],
+      "RelevanceScore": 75.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04d58766-1560-1168-0626-00e8982a4c27",
+      "Title": "Print Media investigation public interest stories",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/3680",
+      "PublishedDate": "2026-01-07T17:30:31Z",
+      "PublishedAt": "2026-01-18T17:30:31Z",
+      "DiscoveredAt": "2025-12-29T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Investigation reveals public interest stories in Copperbelt",
+      "RelatedEntities": [
+        "Government officials - Lusaka"
+      ],
+      "Entities": [
+        "Government officials - Lusaka"
+      ],
+      "Keywords": [
+        "government accountability",
+        "corruption exposure",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 63.3,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04d35b19-0bf4-0b03-0b8f-005c99f53724",
+      "Title": "Print Media editorial review government accountability",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/6721",
+      "PublishedDate": "2026-01-03T17:30:31Z",
+      "PublishedAt": "2025-10-25T17:30:31Z",
+      "DiscoveredAt": "2025-11-26T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Fact-checking reveals corruption exposure in Lusaka",
+      "RelatedEntities": [
+        "News sources - nationwide coverage"
+      ],
+      "Entities": [
+        "News sources - nationwide coverage"
+      ],
+      "Keywords": [
+        "news reporting",
+        "investigative journalism",
+        "public interest stories"
+      ],
+      "RelevanceScore": 65.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01fbe53b-1d12-0e0c-1087-00ba205835bb",
+      "Title": "Print Media editorial review government accountability",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/9393",
+      "PublishedDate": "2025-12-17T17:30:31Z",
+      "PublishedAt": "2025-12-30T17:30:31Z",
+      "DiscoveredAt": "2025-12-26T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Fact-checking reveals government accountability in Lusaka",
+      "RelatedEntities": [
+        "Government officials - Kitwe"
+      ],
+      "Entities": [
+        "Government officials - Kitwe"
+      ],
+      "Keywords": [
+        "news reporting",
+        "public interest stories",
+        "government accountability"
+      ],
+      "RelevanceScore": 88.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04703fdc-2507-218d-2349-00a903a72fdc",
+      "Title": "Print Media editorial review corruption exposure",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/5080",
+      "PublishedDate": "2025-11-02T17:30:31Z",
+      "PublishedAt": "2025-10-25T17:30:31Z",
+      "DiscoveredAt": "2025-11-09T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Source verification reveals news reporting in Livingstone",
+      "RelatedEntities": [
+        "Public figures - Lusaka"
+      ],
+      "Entities": [
+        "Public figures - Lusaka"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "news reporting",
+        "government accountability"
+      ],
+      "RelevanceScore": 79.7,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0586760c-132b-074c-0f59-002484a406db",
+      "Title": "Print Media editorial review investigative journalism",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/8641",
+      "PublishedDate": "2025-12-25T17:30:31Z",
+      "PublishedAt": "2025-12-11T17:30:31Z",
+      "DiscoveredAt": "2026-01-05T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Investigation reveals news reporting in Livingstone",
+      "RelatedEntities": [
+        "Public figures - Copperbelt"
+      ],
+      "Entities": [
+        "Public figures - Copperbelt"
+      ],
+      "Keywords": [
+        "government accountability",
+        "investigative journalism",
+        "news reporting"
+      ],
+      "RelevanceScore": 66.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0563f59b-2266-25cd-1ef6-006380bc0493",
+      "Title": "Print Media investigation public interest stories",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/3203",
+      "PublishedDate": "2025-11-22T17:30:31Z",
+      "PublishedAt": "2025-11-27T17:30:31Z",
+      "DiscoveredAt": "2025-12-04T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Fact-checking reveals public interest stories in Kitwe",
+      "RelatedEntities": [
+        "Government officials - Kitwe"
+      ],
+      "Entities": [
+        "Government officials - Kitwe"
+      ],
+      "Keywords": [
+        "public interest stories",
+        "government accountability",
+        "news reporting"
+      ],
+      "RelevanceScore": 89.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02be1335-09ec-25ce-0f65-0083ec1f2a27",
+      "Title": "Print Media story publication corruption exposure",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/1952",
+      "PublishedDate": "2025-10-29T17:30:31Z",
+      "PublishedAt": "2025-11-02T17:30:31Z",
+      "DiscoveredAt": "2026-01-01T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Story publication reveals corruption exposure in Livingstone",
+      "RelatedEntities": [
+        "Public figures - Livingstone"
+      ],
+      "Entities": [
+        "Public figures - Livingstone"
+      ],
+      "Keywords": [
+        "investigative journalism",
+        "government accountability",
+        "corruption exposure"
+      ],
+      "RelevanceScore": 79.5,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02e5dc8f-0c77-223d-163d-00523cb59ac4",
+      "Title": "Print Media editorial review corruption exposure",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/1530",
+      "PublishedDate": "2025-11-18T17:30:31Z",
+      "PublishedAt": "2025-12-22T17:30:31Z",
+      "DiscoveredAt": "2025-12-20T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Investigation reveals news reporting in nationwide coverage",
+      "RelatedEntities": [
+        "Public figures - Livingstone"
+      ],
+      "Entities": [
+        "Public figures - Livingstone"
+      ],
+      "Keywords": [
+        "news reporting",
+        "corruption exposure",
+        "government accountability"
+      ],
+      "RelevanceScore": 74.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01f56ca7-05a1-111f-227c-006c1accc679",
+      "Title": "Print Media fact-checking news reporting",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/7297",
+      "PublishedDate": "2025-12-23T17:30:31Z",
+      "PublishedAt": "2025-12-15T17:30:31Z",
+      "DiscoveredAt": "2025-11-04T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Editorial review reveals government accountability in Kitwe",
+      "RelatedEntities": [
+        "Public figures - Lusaka"
+      ],
+      "Entities": [
+        "Public figures - Lusaka"
+      ],
+      "Keywords": [
+        "corruption exposure",
+        "news reporting",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 74.9,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0289eb81-0f6e-04b1-11eb-0026a4c8d0a9",
+      "Title": "Print Media investigation investigative journalism",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/4780",
+      "PublishedDate": "2025-12-28T17:30:31Z",
+      "PublishedAt": "2025-11-08T17:30:31Z",
+      "DiscoveredAt": "2025-10-24T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Editorial review reveals news reporting in Copperbelt",
+      "RelatedEntities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Entities": [
+        "Corporations - nationwide coverage"
+      ],
+      "Keywords": [
+        "public interest stories",
+        "news reporting",
+        "corruption exposure"
+      ],
+      "RelevanceScore": 63.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04b9a349-26c3-03fc-136f-00daf0cb42b4",
+      "Title": "Print Media fact-checking news reporting",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/6491",
+      "PublishedDate": "2026-01-13T17:30:31Z",
+      "PublishedAt": "2025-11-09T17:30:31Z",
+      "DiscoveredAt": "2025-11-26T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Investigation reveals news reporting in Livingstone",
+      "RelatedEntities": [
+        "News sources - Livingstone"
+      ],
+      "Entities": [
+        "News sources - Livingstone"
+      ],
+      "Keywords": [
+        "public interest stories",
+        "government accountability",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 85.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "040b3db1-1ee2-0790-2233-00863af500b3",
+      "Title": "Print Media source verification investigative journalism",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/7299",
+      "PublishedDate": "2025-11-21T17:30:31Z",
+      "PublishedAt": "2025-10-21T17:30:31Z",
+      "DiscoveredAt": "2025-11-03T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Fact-checking reveals public interest stories in Livingstone",
+      "RelatedEntities": [
+        "News sources - Lusaka"
+      ],
+      "Entities": [
+        "News sources - Lusaka"
+      ],
+      "Keywords": [
+        "public interest stories",
+        "corruption exposure",
+        "news reporting"
+      ],
+      "RelevanceScore": 89.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "019eaf7e-0ec8-0631-1459-00225d048abf",
+      "Title": "Print Media story publication investigative journalism",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/2926",
+      "PublishedDate": "2025-12-01T17:30:31Z",
+      "PublishedAt": "2025-12-24T17:30:31Z",
+      "DiscoveredAt": "2025-12-06T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Investigation reveals government accountability in Copperbelt",
+      "RelatedEntities": [
+        "Corporations - Lusaka"
+      ],
+      "Entities": [
+        "Corporations - Lusaka"
+      ],
+      "Keywords": [
+        "public interest stories",
+        "news reporting",
+        "corruption exposure"
+      ],
+      "RelevanceScore": 75.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05e91f67-1e0f-19ed-166c-0088d2bdf0ee",
+      "Title": "Print Media story publication corruption exposure",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/2376",
+      "PublishedDate": "2025-11-17T17:30:31Z",
+      "PublishedAt": "2025-12-19T17:30:31Z",
+      "DiscoveredAt": "2025-11-22T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Investigation reveals investigative journalism in Kitwe",
+      "RelatedEntities": [
+        "Public figures - Copperbelt"
+      ],
+      "Entities": [
+        "Public figures - Copperbelt"
+      ],
+      "Keywords": [
+        "government accountability",
+        "public interest stories",
+        "corruption exposure"
+      ],
+      "RelevanceScore": 87.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03e0b400-1c92-0949-2525-002352f4118d",
+      "Title": "Print Media editorial review corruption exposure",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/5840",
+      "PublishedDate": "2025-10-25T17:30:31Z",
+      "PublishedAt": "2025-10-25T17:30:31Z",
+      "DiscoveredAt": "2026-01-12T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Editorial review reveals corruption exposure in Livingstone",
+      "RelatedEntities": [
+        "Government officials - Copperbelt"
+      ],
+      "Entities": [
+        "Government officials - Copperbelt"
+      ],
+      "Keywords": [
+        "news reporting",
+        "corruption exposure",
+        "government accountability"
+      ],
+      "RelevanceScore": 94.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04e0ab77-1c2c-107a-1e31-0096ca1ceb6a",
+      "Title": "Print Media source verification investigative journalism",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/3757",
+      "PublishedDate": "2025-12-22T17:30:31Z",
+      "PublishedAt": "2025-12-05T17:30:31Z",
+      "DiscoveredAt": "2025-12-13T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Fact-checking reveals investigative journalism in Kitwe",
+      "RelatedEntities": [
+        "Government officials - Copperbelt"
+      ],
+      "Entities": [
+        "Government officials - Copperbelt"
+      ],
+      "Keywords": [
+        "public interest stories",
+        "news reporting",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 71.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00e1a574-1f91-0daa-1c88-005c9d3016ed",
+      "Title": "Print Media source verification news reporting",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/4350",
+      "PublishedDate": "2026-01-02T17:30:31Z",
+      "PublishedAt": "2025-12-11T17:30:31Z",
+      "DiscoveredAt": "2025-11-22T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Investigation reveals corruption exposure in Livingstone",
+      "RelatedEntities": [
+        "Corporations - Kitwe"
+      ],
+      "Entities": [
+        "Corporations - Kitwe"
+      ],
+      "Keywords": [
+        "news reporting",
+        "corruption exposure",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 80.3,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "036f1e05-04f7-1be6-22a2-00b58bc51f81",
+      "Title": "Print Media investigation news reporting",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/2321",
+      "PublishedDate": "2025-11-24T17:30:31Z",
+      "PublishedAt": "2025-10-21T17:30:31Z",
+      "DiscoveredAt": "2025-11-25T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Story publication reveals corruption exposure in Copperbelt",
+      "RelatedEntities": [
+        "Public figures - Lusaka"
+      ],
+      "Entities": [
+        "Public figures - Lusaka"
+      ],
+      "Keywords": [
+        "news reporting",
+        "corruption exposure",
+        "public interest stories"
+      ],
+      "RelevanceScore": 86.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0163aeae-1ec4-24a9-0f9c-00d69a59322c",
+      "Title": "Print Media source verification news reporting",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/7172",
+      "PublishedDate": "2026-01-08T17:30:31Z",
+      "PublishedAt": "2025-11-04T17:30:31Z",
+      "DiscoveredAt": "2026-01-03T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Source verification reveals investigative journalism in nationwide coverage",
+      "RelatedEntities": [
+        "Public figures - nationwide coverage"
+      ],
+      "Entities": [
+        "Public figures - nationwide coverage"
+      ],
+      "Keywords": [
+        "government accountability",
+        "corruption exposure",
+        "public interest stories"
+      ],
+      "RelevanceScore": 66.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0185c8f6-18f1-1f5d-0a92-007c7d4c5114",
+      "Title": "Print Media story publication government accountability",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/8462",
+      "PublishedDate": "2025-11-14T17:30:31Z",
+      "PublishedAt": "2025-10-31T17:30:31Z",
+      "DiscoveredAt": "2025-11-30T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Source verification reveals government accountability in nationwide coverage",
+      "RelatedEntities": [
+        "Public figures - Copperbelt"
+      ],
+      "Entities": [
+        "Public figures - Copperbelt"
+      ],
+      "Keywords": [
+        "news reporting",
+        "government accountability",
+        "investigative journalism"
+      ],
+      "RelevanceScore": 66.7,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "0371d4d0-1dc1-0bda-0eea-0041e964a32e",
+      "ArticleId": "01c7c145-0684-0f48-19ae-00c97933d158",
+      "EntityId": "04b469a7-1c9f-0bfd-0e14-0056fb3b12ec",
+      "EntityName": "Corporations - Copperbelt",
+      "AlertReason": "Adverse media on public interest stories",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-20T17:30:31Z",
+      "TriggeredAt": "2026-01-02T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "04c1e20b-1ccc-1c1b-1fd1-004a16230357",
+      "ArticleId": "0268b8da-2468-1943-1643-003a5e57e2dc",
+      "EntityId": "02cce66f-04f9-224c-24a3-00d68bdcad83",
+      "EntityName": "News sources - Copperbelt",
+      "AlertReason": "Adverse media on government accountability",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-15T17:30:31Z",
+      "TriggeredAt": "2025-11-12T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "048aab45-0edf-24a2-1829-007ad75350c6",
+      "ArticleId": "04e179be-235f-0ccc-1296-0024460d11d2",
+      "EntityId": "04e92032-1167-0bd9-2209-0089a3e8d94e",
+      "EntityName": "Public figures - nationwide coverage",
+      "AlertReason": "Adverse media on news reporting",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-04T17:30:31Z",
+      "TriggeredAt": "2025-11-01T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0157e84c-2272-265f-159b-00314b878723",
+      "ArticleId": "055335bc-0dd7-0648-16e8-006768707749",
+      "EntityId": "02b56ea8-08cb-1a41-193b-00cbf4f9457d",
+      "EntityName": "Corporations - Copperbelt",
+      "AlertReason": "Adverse media on public interest stories",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-23T17:30:31Z",
+      "TriggeredAt": "2025-10-22T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0546d755-1f6b-1efa-263a-002326f43570",
+      "ArticleId": "0348ee78-26d2-24b3-1e86-0064c542ac54",
+      "EntityId": "0581d638-16c5-12ee-104d-00aa12b3fc93",
+      "EntityName": "Government officials - Kitwe",
+      "AlertReason": "Adverse media on news reporting",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2026-01-10T17:30:31Z",
+      "TriggeredAt": "2026-01-06T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "03737144-1a3c-1330-1a4c-00773b08e15c",
+      "ArticleId": "00b6f20b-1ac7-2423-2203-00d1e390e66d",
+      "EntityId": "051778ef-0621-244e-07c0-00743cc68183",
+      "EntityName": "Corporations - Copperbelt",
+      "AlertReason": "Adverse media on corruption exposure",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-17T17:30:31Z",
+      "TriggeredAt": "2025-11-26T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01587843-11b3-1145-1c72-0081602361e7",
+      "ArticleId": "03537176-1662-1130-1e74-00328804f302",
+      "EntityId": "0101d034-09d0-0e51-13c8-00bed5df6a19",
+      "EntityName": "Public figures - Lusaka",
+      "AlertReason": "Adverse media on news reporting",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-27T17:30:31Z",
+      "TriggeredAt": "2026-01-02T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02fd4e85-12df-117f-0ca6-0086702f1f28",
+      "ArticleId": "04d58766-1560-1168-0626-00e8982a4c27",
+      "EntityId": "03676bdb-190d-0ca8-10c8-00604486f53a",
+      "EntityName": "Government officials - Lusaka",
+      "AlertReason": "Adverse media on government accountability",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-15T17:30:31Z",
+      "TriggeredAt": "2025-11-29T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02aebf6e-05d4-1625-24ea-0023acaba2de",
+      "ArticleId": "01fbe53b-1d12-0e0c-1087-00ba205835bb",
+      "EntityId": "05898420-25f6-2162-1eca-003210311080",
+      "EntityName": "Government officials - Kitwe",
+      "AlertReason": "Adverse media on news reporting",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-28T17:30:31Z",
+      "TriggeredAt": "2025-10-26T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "026715c2-12a6-18d6-25e9-00ae80825736",
+      "ArticleId": "04703fdc-2507-218d-2349-00a903a72fdc",
+      "EntityId": "04745fe2-25ba-0ce9-0f5c-00de5daa1bfb",
+      "EntityName": "Public figures - Lusaka",
+      "AlertReason": "Adverse media on investigative journalism",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-17T17:30:31Z",
+      "TriggeredAt": "2026-01-07T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "01137a34-0451-0c62-0df2-0096f1b2ba0e",
+      "ArticleId": "0289eb81-0f6e-04b1-11eb-0026a4c8d0a9",
+      "EntityId": "03a8f29e-24d4-1d59-15ea-00cfcff4b06c",
+      "EntityName": "Corporations - nationwide coverage",
+      "AlertReason": "Adverse media on corruption exposure",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-02T17:30:31Z",
+      "TriggeredAt": "2025-12-12T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "036338ba-21bc-0575-1c4f-0039f4b36084",
+      "ArticleId": "05e91f67-1e0f-19ed-166c-0088d2bdf0ee",
+      "EntityId": "03713760-0464-176e-1301-002247cb2057",
+      "EntityName": "Public figures - Copperbelt",
+      "AlertReason": "Adverse media on investigative journalism",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-20T17:30:31Z",
+      "TriggeredAt": "2025-12-13T17:30:31Z",
+      "IsAcknowledged": false
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "02f40c40-050c-16a3-1daf-0066098f2355",
+      "EntityName": "Print Media",
+      "Keywords": [
+        "news reporting",
+        "public interest stories",
+        "government accountability"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 20,
+    "HighRiskArticles": 15,
+    "ActiveAlerts": 12,
+    "MonitoredEntities": 18,
+    "ArticlesByCategory": {
+      "regulatory": 6,
+      "criminal": 10,
+      "financial": 13,
+      "political": 14
+    },
+    "ArticlesBySeverity": {
+      "high": 15,
+      "medium": 16,
+      "low": 17
+    }
+  }
+}

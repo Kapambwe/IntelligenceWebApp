@@ -1,0 +1,93 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Alerts": [
+    {
+      "Id": "74fa2c41-efa8-445c-85ee-5c2f07997fb6",
+      "EntityId": "15d338f6-270a-4a9a-a884-4baa8c3a9c4f",
+      "EntityName": "Santorin Investments Limited",
+      "Severity": "High",
+      "Type": "Transfer Pricing",
+      "Amount": 22000000.00,
+      "TransactionType": "Intercompany Loan",
+      "Description": "Inflated advisory fees booked against loans backed by copper exports to Kitwe smelters.",
+      "Timestamp": "2026-01-06T14:10:00Z",
+      "Status": "Open",
+      "Currency": "ZMW",
+      "TransactionId": "TX-TRF-20260106",
+      "DetectedAt": "2026-01-06T14:11:00Z",
+      "AlertType": "HighValue"
+    },
+    {
+      "Id": "a073b000-6dc1-466d-90df-ed786f94ac27",
+      "EntityId": "1f49bec0-3b9c-4157-9780-031b2c6c7256",
+      "EntityName": "Liangyung Company Limited",
+      "Severity": "Critical",
+      "Type": "VAT Refund",
+      "Amount": 3200000.00,
+      "TransactionType": "Refund",
+      "Description": "Requested refunds that exceed known copper dispatch by 37%.",
+      "Timestamp": "2026-01-04T09:55:00Z",
+      "Status": "Open",
+      "Currency": "ZMW",
+      "TransactionId": "TX-VAT-20260104",
+      "DetectedAt": "2026-01-04T09:56:00Z",
+      "AlertType": "FalseInvoice"
+    },
+    {
+      "Id": "ae3bf51d-5408-412a-8371-d7dd95c66617",
+      "EntityId": "f7caaa88-c093-4aef-9cc9-b62083f8dbb1",
+      "EntityName": "Junsheng Company Limited",
+      "Severity": "Medium",
+      "Type": "Trade Mismatch",
+      "Amount": 10700000.00,
+      "TransactionType": "Export",
+      "Description": "Underpriced copper shipment matched with suspicious VAT invoices.",
+      "Timestamp": "2026-01-03T08:45:00Z",
+      "Status": "In Review",
+      "Currency": "ZMW",
+      "TransactionId": "TX-EXP-20260103",
+      "DetectedAt": "2026-01-03T08:46:00Z",
+      "AlertType": "Anomaly"
+    },
+    {
+      "Id": "c8da1d04-6f7b-4183-95cf-e1f018fefc3b",
+      "EntityId": "4b55189f-e396-48c3-b2f3-db055864fe41",
+      "EntityName": "Taurus Mining Resources Limited",
+      "Severity": "High",
+      "Type": "VAT Refund",
+      "Amount": 10700000.00,
+      "TransactionType": "Refund",
+      "Description": "Aggressive VAT refund requests tied to equipment leasing invoices.",
+      "Timestamp": "2026-01-05T07:00:00Z",
+      "Status": "Open",
+      "Currency": "ZMW",
+      "TransactionId": "TX-VAT-20260105",
+      "DetectedAt": "2026-01-05T07:02:00Z",
+      "AlertType": "FalseInvoice"
+    }
+  ],
+  "Rules": [
+    {
+      "Id": "df8a373e-eb67-42c5-94fa-f4d326e5fcc0",
+      "Name": "Copper Price Outlier",
+      "Type": "Threshold",
+      "Description": "Flags invoices where declared prices deviate more than 40% from COMEX benchmarks.",
+      "IsActive": true,
+      "TriggeredCount": 12
+    },
+    {
+      "Id": "ce26bb59-bd21-46de-8802-1e5c129439dc",
+      "Name": "VAT Refund Spike",
+      "Type": "Volume",
+      "Description": "Detects consecutive refund requests exceeding historical 30-day averages.",
+      "IsActive": true,
+      "TriggeredCount": 6
+    }
+  ],
+  "Statistics": {
+    "TotalAlerts": 4,
+    "HighPriorityAlerts": 3,
+    "UnresolvedAlerts": 4,
+    "TotalFlaggedAmount": 76700000.00
+  }
+}

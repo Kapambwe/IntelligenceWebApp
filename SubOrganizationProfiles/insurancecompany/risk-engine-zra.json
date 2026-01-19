@@ -1,0 +1,176 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "0148902b-1575-20ac-1c03-00a1b425d99a",
+      "Name": "Policy management Risk Model",
+      "Description": "Detects risk assessment patterns in Insurance operations",
+      "Status": "active",
+      "CreatedAt": "2025-09-17T17:30:30Z",
+      "LastModifiedAt": "2026-01-09T17:30:30Z",
+      "Version": "1.8",
+      "Factors": [
+        {
+          "Id": "03ed88c9-1215-117c-0f65-004d990df4c9",
+          "Name": "Claims processing Indicator",
+          "Description": "Measures insurance fraud risk across corporate clients",
+          "Category": "geographic",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 197,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04db0c31-12e6-1e8f-1bc3-004b2677db8b",
+          "Name": "Insurance fraud Indicator",
+          "Description": "Measures insurance fraud risk across policyholders",
+          "Category": "operational",
+          "Weight": 0.34,
+          "MinValue": 0,
+          "MaxValue": 148,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0110829c-218e-1218-1402-00990cd4fe37",
+          "Name": "Underwriting Indicator",
+          "Description": "Measures risk assessment risk across claimants",
+          "Category": "compliance",
+          "Weight": 0.28,
+          "MinValue": 0,
+          "MaxValue": 140,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.83,
+        "Precision": 0.92,
+        "Recall": 0.72,
+        "F1Score": 0.79,
+        "TotalPredictions": 632,
+        "TruePositives": 281,
+        "FalsePositives": 46,
+        "TrueNegatives": 170,
+        "FalseNegatives": 32
+      }
+    },
+    {
+      "Id": "03c2f71d-077e-09ec-1828-0047cd94d20e",
+      "Name": "Insurance fraud Risk Model",
+      "Description": "Detects insurance fraud patterns in Insurance operations",
+      "Status": "active",
+      "CreatedAt": "2025-09-13T17:30:30Z",
+      "LastModifiedAt": "2026-01-06T17:30:30Z",
+      "Version": "2.5",
+      "Factors": [
+        {
+          "Id": "0489078c-069b-0c8c-2000-00de230fe3ad",
+          "Name": "Underwriting Indicator",
+          "Description": "Measures claims processing risk across claimants",
+          "Category": "compliance",
+          "Weight": 0.31,
+          "MinValue": 0,
+          "MaxValue": 139,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02628228-2649-1541-2467-008bb1237386",
+          "Name": "Claims processing Indicator",
+          "Description": "Measures insurance fraud risk across policyholders",
+          "Category": "financial",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 173,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00f13267-0cb7-0aa5-19bd-004adb26454f",
+          "Name": "Claims processing Indicator",
+          "Description": "Measures insurance fraud risk across policyholders",
+          "Category": "geographic",
+          "Weight": 0.17,
+          "MinValue": 0,
+          "MaxValue": 174,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02397716-1f11-1748-166b-00d3a9229a44",
+          "Name": "Insurance fraud Indicator",
+          "Description": "Measures underwriting risk across brokers",
+          "Category": "compliance",
+          "Weight": 0.24,
+          "MinValue": 0,
+          "MaxValue": 119,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.95,
+        "Precision": 0.78,
+        "Recall": 0.76,
+        "F1Score": 0.9,
+        "TotalPredictions": 491,
+        "TruePositives": 466,
+        "FalsePositives": 78,
+        "TrueNegatives": 185,
+        "FalseNegatives": 60
+      }
+    },
+    {
+      "Id": "02a878b6-1da2-1cbd-2059-005c83e68115",
+      "Name": "Insurance fraud Risk Model",
+      "Description": "Detects claims processing patterns in Insurance operations",
+      "Status": "active",
+      "CreatedAt": "2025-10-26T17:30:30Z",
+      "LastModifiedAt": "2026-01-02T17:30:30Z",
+      "Version": "2.7",
+      "Factors": [
+        {
+          "Id": "03f33cd3-20ca-1c04-1b88-00178212be21",
+          "Name": "Insurance fraud Indicator",
+          "Description": "Measures risk assessment risk across claimants",
+          "Category": "compliance",
+          "Weight": 0.22,
+          "MinValue": 0,
+          "MaxValue": 173,
+          "IsEnabled": true
+        },
+        {
+          "Id": "050b157c-0c43-2030-23a1-001ee2df796b",
+          "Name": "Risk assessment Indicator",
+          "Description": "Measures claims processing risk across corporate clients",
+          "Category": "operational",
+          "Weight": 0.23,
+          "MinValue": 0,
+          "MaxValue": 166,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04d5522e-181e-0df1-124d-006fbd51cb6c",
+          "Name": "Underwriting Indicator",
+          "Description": "Measures policy management risk across claimants",
+          "Category": "operational",
+          "Weight": 0.14,
+          "MinValue": 0,
+          "MaxValue": 196,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.89,
+        "Precision": 0.79,
+        "Recall": 0.75,
+        "F1Score": 0.8,
+        "TotalPredictions": 420,
+        "TruePositives": 483,
+        "FalsePositives": 77,
+        "TrueNegatives": 110,
+        "FalseNegatives": 29
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 10,
+    "AverageRiskScore": 75.5
+  }
+}

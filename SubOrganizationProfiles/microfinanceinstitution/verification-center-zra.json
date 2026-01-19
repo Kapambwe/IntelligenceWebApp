@@ -1,0 +1,1173 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "0571e0c3-217e-17ea-0e0a-00808fbca02a",
+      "EntityId": "034df2b9-0fc1-18ae-0d19-001ae3f86d87",
+      "EntityName": "Individual borrowers - Kasama",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-10-23T17:30:30Z",
+      "Notes": "Loan processing for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "012f2c37-156b-06d9-0f4a-003c18198833",
+      "EntityId": "018409dc-1498-0acd-0e51-007d889782eb",
+      "EntityName": "Entrepreneurs - Chipata",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-08T17:30:30Z",
+      "Notes": "Customer onboarding for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-25T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04cc825c-23c9-0869-2419-00c16342af86",
+      "EntityId": "00dfb59c-20a4-0c06-0d1a-004617719766",
+      "EntityName": "Individual borrowers - Lusaka",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-14T17:30:30Z",
+      "Notes": "Recovery for savings mobilization verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-15T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01bdc503-1c6f-18d0-1011-0066d2d1127e",
+      "EntityId": "03a461e3-04e0-0b13-1989-006efc825f03",
+      "EntityName": "Small businesses - Mongu",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-25T17:30:30Z",
+      "Notes": "Disbursement for SME lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-01T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "041151be-09d0-0bc9-112a-0064fead8d22",
+      "EntityId": "037b37b2-2441-1863-0ad2-00c70f37d65d",
+      "EntityName": "Small businesses - Mongu",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-31T17:30:30Z",
+      "Notes": "Credit assessment for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "05117619-2670-0dc1-04b4-00c658f4315c",
+      "EntityId": "034a57bd-12e1-15ae-1d92-001f8ac4c5f9",
+      "EntityName": "Entrepreneurs - Chipata",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "Notes": "Recovery for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0581f73d-1505-11d3-20cd-00e8acec9e76",
+      "EntityId": "012c4a96-172f-23c4-0658-00bc52369888",
+      "EntityName": "Savings groups - Lusaka",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-22T17:30:30Z",
+      "Notes": "Loan processing for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "027336f9-161b-16a4-1eb3-00174d540681",
+      "EntityId": "00bad43f-20bd-251e-26d9-008632dcfe1f",
+      "EntityName": "Small businesses - Chipata",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-10T17:30:30Z",
+      "Notes": "Recovery for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0347bc6e-2626-0483-1f72-00c851d1b543",
+      "EntityId": "02e4d042-19aa-1996-207a-003865d2680f",
+      "EntityName": "Individual borrowers - Kasama",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-10T17:30:30Z",
+      "Notes": "Disbursement for SME lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-11-21T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "01e5b272-06d2-1d58-14e2-008d2e0eef44",
+      "EntityId": "035cfabf-054d-2558-239c-001c848e1e13",
+      "EntityName": "Savings groups - Mongu",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-14T17:30:30Z",
+      "Notes": "Recovery for financial inclusion verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-28T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "033d0a54-11e5-16c9-0fcd-00d7cde3883a",
+      "EntityId": "02459701-1ebe-0872-0562-0039bbc10f85",
+      "EntityName": "Small businesses - Kitwe",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-26T17:30:30Z",
+      "Notes": "Credit assessment for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-11-21T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05eb428c-1d53-12c1-215b-00384b3272b3",
+      "EntityId": "02f8e836-2040-0ea1-1760-00d8278857ee",
+      "EntityName": "Individual borrowers - Kitwe",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-08T17:30:30Z",
+      "Notes": "Customer onboarding for financial inclusion verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0161895c-214f-0d16-05f2-00bbe4efceb3",
+      "EntityId": "0419fb2b-1831-25be-086d-003719ec9714",
+      "EntityName": "Individual borrowers - Chipata",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-12T17:30:30Z",
+      "Notes": "Recovery for savings mobilization verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-23T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00ca1fad-244d-092f-26ce-00a5d7538924",
+      "EntityId": "025a1801-26fe-21e4-22f3-00347ea0d3f0",
+      "EntityName": "Individual borrowers - Lusaka",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2026-01-07T17:30:30Z",
+      "Notes": "Disbursement for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0574a26d-1d29-11ab-1bd9-00a6f75f5306",
+      "EntityId": "0507263a-0c62-0f01-0573-00bc995691c8",
+      "EntityName": "Entrepreneurs - Kitwe",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-13T17:30:30Z",
+      "Notes": "Customer onboarding for SME lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01c10ec7-1ade-1035-14bc-002b77c73d7a",
+      "EntityId": "040794e7-0d75-18e1-0e5f-0079c76bf228",
+      "EntityName": "Small businesses - Lusaka",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-11-02T17:30:30Z",
+      "Notes": "Credit assessment for financial inclusion verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "0494f776-0584-131f-1a1c-0064013ea193",
+      "EntityId": "03707dc6-20da-1906-0e0b-00c657c54341",
+      "EntityName": "Individual borrowers - Chipata",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2026-01-06T17:30:30Z",
+      "Notes": "Recovery for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-07T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "02533a2c-0e97-16ed-24ed-00c8ae1569cb",
+      "EntityId": "0531f2a9-26a2-0a34-15c9-00d3ab960710",
+      "EntityName": "Small businesses - Mongu",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-13T17:30:30Z",
+      "Notes": "Recovery for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0262f926-06bf-077d-09b2-0069130b0d1e",
+      "EntityId": "05668b17-21d0-160c-24a5-00260f9273c8",
+      "EntityName": "Individual borrowers - Kitwe",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-25T17:30:30Z",
+      "Notes": "Recovery for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-29T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-14T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "03a99a6a-063e-0ad4-0831-0057153277bd",
+      "EntityId": "0477bb7f-217d-1eae-108c-0094ebb98cdc",
+      "EntityName": "Entrepreneurs - Kitwe",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-09T17:30:30Z",
+      "Notes": "Recovery for financial inclusion verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0281f50b-1cf5-17c2-223c-00333c07dec7",
+      "EntityId": "05d5ecf5-0771-0849-1fd2-0099d97d2cf0",
+      "EntityName": "Small businesses - Lusaka",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-01T17:30:30Z",
+      "Notes": "Disbursement for savings mobilization verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-26T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05bcb984-04d3-09d5-1753-00c2e4c182c9",
+      "EntityId": "00cf2a52-174e-0625-0f93-005285801836",
+      "EntityName": "Savings groups - Lusaka",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2026-01-14T17:30:30Z",
+      "Notes": "Recovery for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-27T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-20T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "025ad1e4-1c23-2442-0d5c-003ca0b4c59d",
+      "EntityId": "0477adc5-218c-18e9-12bf-001df07d1b9d",
+      "EntityName": "Small businesses - Kasama",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-14T17:30:30Z",
+      "Notes": "Credit assessment for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03489fe5-1a0d-1b6a-0859-004368f2b3bf",
+      "EntityId": "01fe5eff-215e-1603-2677-0059eef3f3dd",
+      "EntityName": "Small businesses - Mongu",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-15T17:30:30Z",
+      "Notes": "Loan processing for SME lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04e0a901-2255-1265-1fc3-0058fc53b6b3",
+      "EntityId": "030b314b-1e90-2669-0990-00bb3c82acc7",
+      "EntityName": "Small businesses - Lusaka",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-26T17:30:30Z",
+      "Notes": "Customer onboarding for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-05T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "05da936d-21c5-154a-1857-003eb8acba2f",
+      "EntityId": "023449fe-11bd-1574-15c6-00ba41cb237e",
+      "EntityName": "Savings groups - Chipata",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-05T17:30:30Z",
+      "Notes": "Disbursement for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-09T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "02b3e6d0-0691-1881-0a00-00b5ce481fe6",
+      "EntityId": "02b12ed8-0d32-1bbf-0d3d-00a27dc76d57",
+      "EntityName": "Small businesses - Kasama",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-13T17:30:30Z",
+      "Notes": "Loan processing for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-02T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02cd6fc8-0727-0fa4-1162-002e27f0244a",
+      "EntityId": "03d7a950-17bb-1be8-1eed-006b15c94e7e",
+      "EntityName": "Small businesses - Kitwe",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-29T17:30:30Z",
+      "Notes": "Customer onboarding for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "020816e0-0ec9-1ff6-1dc3-0054a9bfab52",
+      "EntityId": "05e3ce5d-1ec9-0505-1a93-007c0d259ad5",
+      "EntityName": "Small businesses - Kasama",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-04T17:30:30Z",
+      "Notes": "Credit assessment for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04d90e82-2384-1bb6-046e-0075bc82081e",
+      "EntityId": "0539f148-12c9-234a-12b9-00ccad58a319",
+      "EntityName": "Individual borrowers - Chipata",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2026-01-03T17:30:30Z",
+      "Notes": "Customer onboarding for financial inclusion verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-30T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00b2bdb0-1dde-0f86-10a1-00999934d2c3",
+      "EntityId": "01fec840-13b1-1f24-0c3b-00ad0b1cc7d6",
+      "EntityName": "Individual borrowers - Mongu",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2026-01-09T17:30:30Z",
+      "Notes": "Credit assessment for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-23T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "025aedf5-0adf-13ac-1884-00b7f45b0734",
+      "EntityId": "05b58d88-1bbb-0bf3-26e9-0022c335aebb",
+      "EntityName": "Individual borrowers - Chipata",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-18T17:30:30Z",
+      "Notes": "Recovery for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-14T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05c4ab84-1f57-0497-070d-00979a8aa86b",
+      "EntityId": "0173d5ed-0c05-0fff-1e37-00d57d57d43a",
+      "EntityName": "Entrepreneurs - Lusaka",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-14T17:30:30Z",
+      "Notes": "Loan processing for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "033a5e8d-262b-05c3-24d5-00943dd32fbc",
+      "EntityId": "0513351b-07cb-0718-0d5d-00e8a958dc8c",
+      "EntityName": "Small businesses - Mongu",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "Notes": "Loan processing for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "01796ae7-1cbb-26e5-0c98-004ceaff27f7",
+      "EntityId": "0392a274-0483-1c0f-1f9b-00b9a6b0738e",
+      "EntityName": "Savings groups - Lusaka",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "Notes": "Loan processing for savings mobilization verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-27T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0115cca8-0a90-0c8b-0738-00220aca04a9",
+      "EntityId": "05a4ef01-12b3-1137-0676-0054462cf78c",
+      "EntityName": "Savings groups - Kasama",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-15T17:30:30Z",
+      "Notes": "Credit assessment for SME lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-07T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "01c70980-219c-0ef4-075b-003480c37868",
+      "EntityId": "02f96ef1-1b22-20d0-1293-002af68bbd90",
+      "EntityName": "Individual borrowers - Chipata",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-04T17:30:30Z",
+      "Notes": "Loan processing for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-26T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-23T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e75011-1e84-0633-162f-006eb4914b53",
+      "EntityId": "022da642-25a8-1507-2695-0057bf6a5a46",
+      "EntityName": "Savings groups - Chipata",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-12-25T17:30:30Z",
+      "Notes": "Recovery for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-29T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "02342f0d-14fb-09fc-17fd-00a7e583b724",
+      "EntityId": "05bac63e-262a-0b42-1a7c-0023577a4893",
+      "EntityName": "Small businesses - Mongu",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-12T17:30:30Z",
+      "Notes": "Credit assessment for savings mobilization verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-20T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "050ac490-0a69-2106-048f-00c7212216cf",
+      "EntityId": "045bdc8f-1d98-0a27-0b2a-0095eccd12b2",
+      "EntityName": "Entrepreneurs - Mongu",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-31T17:30:30Z",
+      "Notes": "Credit assessment for SME lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05be3551-1f7b-1d55-0c7b-00a00112dbe1",
+      "EntityId": "00f8350e-1772-1af0-09c3-00cfe61d5fd3",
+      "EntityName": "Savings groups - Kitwe",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2026-01-04T17:30:30Z",
+      "Notes": "Customer onboarding for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03fe844e-10f0-1e3b-229f-005d53ba3f1d",
+      "EntityId": "055f4158-06e6-26dc-2636-001c78f05203",
+      "EntityName": "Individual borrowers - Mongu",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-18T17:30:30Z",
+      "Notes": "Disbursement for savings mobilization verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "020e1323-0975-151c-0bb2-0092931b35ac",
+      "EntityId": "021a08a4-1cff-2306-23c4-003c4a13e04e",
+      "EntityName": "Entrepreneurs - Lusaka",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-06T17:30:30Z",
+      "Notes": "Disbursement for savings mobilization verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "014a63e7-098e-117b-108e-00a3a416b973",
+      "EntityId": "0366e0a1-09a0-24bf-1c55-00d14c42b91d",
+      "EntityName": "Small businesses - Chipata",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-21T17:30:30Z",
+      "Notes": "Recovery for financial inclusion verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-19T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05e5bf79-1288-03ed-133c-00464061b0ed",
+      "EntityId": "0164129d-0586-22bd-0d3c-00cbb2ae7a33",
+      "EntityName": "Savings groups - Lusaka",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-14T17:30:30Z",
+      "Notes": "Customer onboarding for savings mobilization verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04ef5abe-2442-17a2-1d90-0086b57ab9b5",
+      "EntityId": "052e126f-11dc-2530-2488-0059a56ff141",
+      "EntityName": "Savings groups - Chipata",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-11T17:30:30Z",
+      "Notes": "Credit assessment for microloans verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0305009b-1c40-15e1-1a1c-003a17afa3ad",
+      "EntityId": "014183ed-0eeb-0a07-11a7-00debb7074fd",
+      "EntityName": "Savings groups - Lusaka",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-27T17:30:30Z",
+      "Notes": "Customer onboarding for SME lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0355869a-04a0-1c0b-1376-005ebd57aacf",
+      "EntityId": "00bbd2ae-09c4-1b39-05dc-008be217fabc",
+      "EntityName": "Small businesses - Mongu",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-13T17:30:30Z",
+      "Notes": "Disbursement for SME lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "0569728a-1666-17b9-0a86-009121f52e4c",
+      "EntityId": "040902ce-111a-20db-137f-008b814066a0",
+      "EntityName": "Individual borrowers - Chipata",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "Notes": "Customer onboarding for financial inclusion verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "04f18fa0-2194-0af5-23ca-0053a9787955",
+      "EntityId": "0379983f-1630-0772-1f07-00cb0178e212",
+      "EntityName": "Savings groups - Chipata",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2026-01-02T17:30:30Z",
+      "Notes": "Recovery for financial inclusion verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-07T17:30:30Z"
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 12,
+    "Pending": 26,
+    "Failed": 12
+  }
+}

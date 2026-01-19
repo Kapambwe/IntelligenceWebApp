@@ -1,0 +1,196 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "040b7684-101d-0ce6-1b31-005e99bfda8c",
+      "Name": "Audit findings Risk Model",
+      "Description": "Detects misappropriation patterns in Office of the Auditor General operations",
+      "Status": "active",
+      "CreatedAt": "2025-08-08T17:30:30Z",
+      "LastModifiedAt": "2026-01-04T17:30:30Z",
+      "Version": "1.7",
+      "Factors": [
+        {
+          "Id": "05690a63-211a-1bdd-1083-006603504822",
+          "Name": "Compliance Indicator",
+          "Description": "Measures misappropriation risk across government ministries",
+          "Category": "financial",
+          "Weight": 0.39,
+          "MinValue": 0,
+          "MaxValue": 190,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03e694bf-2169-186b-194c-009609d71442",
+          "Name": "Misappropriation Indicator",
+          "Description": "Measures financial irregularities risk across government ministries",
+          "Category": "operational",
+          "Weight": 0.34,
+          "MinValue": 0,
+          "MaxValue": 153,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0405ec8e-16db-246a-163b-003ffd955c5c",
+          "Name": "Procurement fraud Indicator",
+          "Description": "Measures misappropriation risk across government ministries",
+          "Category": "compliance",
+          "Weight": 0.34,
+          "MinValue": 0,
+          "MaxValue": 189,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0333dc05-05d8-04ee-188d-00bf94e8435d",
+          "Name": "Audit findings Indicator",
+          "Description": "Measures audit findings risk across government ministries",
+          "Category": "geographic",
+          "Weight": 0.34,
+          "MinValue": 0,
+          "MaxValue": 189,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0224d533-263d-1860-1230-00d92de27476",
+          "Name": "Procurement fraud Indicator",
+          "Description": "Measures misappropriation risk across statutory bodies",
+          "Category": "operational",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 154,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.83,
+        "Precision": 0.88,
+        "Recall": 0.74,
+        "F1Score": 0.86,
+        "TotalPredictions": 465,
+        "TruePositives": 408,
+        "FalsePositives": 31,
+        "TrueNegatives": 111,
+        "FalseNegatives": 37
+      }
+    },
+    {
+      "Id": "01ceff5f-125c-0a58-246e-001b44d098c5",
+      "Name": "Compliance Risk Model",
+      "Description": "Detects compliance patterns in Office of the Auditor General operations",
+      "Status": "active",
+      "CreatedAt": "2025-09-29T17:30:30Z",
+      "LastModifiedAt": "2026-01-06T17:30:30Z",
+      "Version": "3.3",
+      "Factors": [
+        {
+          "Id": "05305400-1bf7-19d8-1e62-00288f61e3be",
+          "Name": "Financial irregularities Indicator",
+          "Description": "Measures audit findings risk across statutory bodies",
+          "Category": "operational",
+          "Weight": 0.19,
+          "MinValue": 0,
+          "MaxValue": 131,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0457c248-1542-0ce0-0f62-00c983b2dda5",
+          "Name": "Audit findings Indicator",
+          "Description": "Measures audit findings risk across statutory bodies",
+          "Category": "operational",
+          "Weight": 0.28,
+          "MinValue": 0,
+          "MaxValue": 157,
+          "IsEnabled": true
+        },
+        {
+          "Id": "051bc348-1b5d-07b4-0f39-007a98c33f8a",
+          "Name": "Misappropriation Indicator",
+          "Description": "Measures compliance risk across public institutions",
+          "Category": "financial",
+          "Weight": 0.21,
+          "MinValue": 0,
+          "MaxValue": 199,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03b7e9f6-0421-1040-0f61-0075362bc22d",
+          "Name": "Compliance Indicator",
+          "Description": "Measures procurement fraud risk across local authorities",
+          "Category": "financial",
+          "Weight": 0.23,
+          "MinValue": 0,
+          "MaxValue": 120,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.9,
+        "Precision": 0.81,
+        "Recall": 0.74,
+        "F1Score": 0.87,
+        "TotalPredictions": 553,
+        "TruePositives": 219,
+        "FalsePositives": 63,
+        "TrueNegatives": 110,
+        "FalseNegatives": 59
+      }
+    },
+    {
+      "Id": "00d37047-1177-14b1-08f2-0083e10d745d",
+      "Name": "Audit findings Risk Model",
+      "Description": "Detects financial irregularities patterns in Office of the Auditor General operations",
+      "Status": "active",
+      "CreatedAt": "2025-10-30T17:30:30Z",
+      "LastModifiedAt": "2026-01-06T17:30:30Z",
+      "Version": "2.7",
+      "Factors": [
+        {
+          "Id": "055ac084-173f-15b5-10b4-008e0ed248c0",
+          "Name": "Audit findings Indicator",
+          "Description": "Measures compliance risk across local authorities",
+          "Category": "geographic",
+          "Weight": 0.17,
+          "MinValue": 0,
+          "MaxValue": 129,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00d3a165-2582-1435-17a3-00be2fb6e7a9",
+          "Name": "Misappropriation Indicator",
+          "Description": "Measures audit findings risk across public institutions",
+          "Category": "compliance",
+          "Weight": 0.28,
+          "MinValue": 0,
+          "MaxValue": 188,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02122dcc-074b-1e85-135c-001754fd782c",
+          "Name": "Financial irregularities Indicator",
+          "Description": "Measures audit findings risk across statutory bodies",
+          "Category": "compliance",
+          "Weight": 0.31,
+          "MinValue": 0,
+          "MaxValue": 168,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.92,
+        "Precision": 0.84,
+        "Recall": 0.78,
+        "F1Score": 0.87,
+        "TotalPredictions": 325,
+        "TruePositives": 305,
+        "FalsePositives": 37,
+        "TrueNegatives": 114,
+        "FalseNegatives": 33
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 12,
+    "AverageRiskScore": 70.7
+  }
+}

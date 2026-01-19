@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 404,
+  "ActiveAlerts": 6,
+  "PendingReviews": 4,
+  "ComplianceScore": 70.3,
+  "Alerts": [
+    {
+      "Id": "028fcb9b-2621-09a2-1f2e-002415a2d4f3",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Financial institutions - Chirundu",
+      "Description": "Intelligence sharing revealed money laundering involving suspicious persons",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "05425ebd-1300-160d-0fd6-0068c0b8b8e1",
+      "Type": "Terrorism financing",
+      "Severity": "Critical",
+      "EntityName": "Suspicious persons - Livingstone",
+      "Description": "Enforcement revealed money laundering involving suspicious persons",
+      "DetectedAt": "2026-01-14T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "011815e1-129b-26d1-0591-00b51507d3cb",
+      "Type": "Money laundering",
+      "Severity": "High",
+      "EntityName": "Financial institutions - Livingstone",
+      "Description": "Enforcement revealed suspicious transactions involving reporting entities",
+      "DetectedAt": "2025-11-02T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "026f87a2-05f6-1f51-0de6-00d6c3ea9691",
+      "Type": "Suspicious transactions",
+      "Severity": "Medium",
+      "EntityName": "Suspicious persons - Ndola",
+      "Description": "Investigation revealed financial crime involving shell companies",
+      "DetectedAt": "2025-12-25T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03315bd3-1db2-1414-26c5-00ce8fd6fc67",
+      "Type": "Money laundering",
+      "Severity": "Low",
+      "EntityName": "Financial institutions - Chirundu",
+      "Description": "Enforcement revealed money laundering involving financial institutions",
+      "DetectedAt": "2025-11-14T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "04cf4776-0e52-2673-1ecf-00ba89689044",
+      "Type": "Money laundering",
+      "Severity": "High",
+      "EntityName": "Financial institutions - Chirundu",
+      "Description": "Investigation revealed suspicious transactions involving shell companies",
+      "DetectedAt": "2026-01-12T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01ea4bc3-0f25-1af9-14ed-002405b741f2",
+      "Type": "Str analysis",
+      "Severity": "High",
+      "EntityName": "Suspicious persons - Chirundu",
+      "Description": "Compliance monitoring revealed financial crime involving reporting entities",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0441be6a-2415-0ab5-13b0-0096bb8a8e40",
+      "Type": "Terrorism financing",
+      "Severity": "Critical",
+      "EntityName": "Suspicious persons - Chirundu",
+      "Description": "Intelligence sharing revealed money laundering involving suspicious persons",
+      "DetectedAt": "2025-12-20T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "019283f2-239b-0569-07e6-0063bdddedb0",
+      "Type": "Suspicious transactions",
+      "Severity": "High",
+      "EntityName": "Financial institutions - Ndola",
+      "Description": "Str analysis revealed suspicious transactions involving financial institutions",
+      "DetectedAt": "2025-10-24T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03b462ea-1ead-0adf-2579-006f14641a9a",
+      "Type": "Str analysis",
+      "Severity": "Low",
+      "EntityName": "Suspicious persons - Livingstone",
+      "Description": "Str analysis revealed suspicious transactions involving shell companies",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "009b37eb-124b-0726-073c-0056b62928be",
+      "Type": "Terrorism financing",
+      "Severity": "High",
+      "EntityName": "Financial institutions - Livingstone",
+      "Description": "Intelligence sharing revealed money laundering involving financial institutions",
+      "DetectedAt": "2025-12-29T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03145790-0b61-1399-0547-00b866355d3e",
+      "Type": "Financial crime",
+      "Severity": "Medium",
+      "EntityName": "Reporting entities - Lusaka",
+      "Description": "Str analysis revealed suspicious transactions involving reporting entities",
+      "DetectedAt": "2025-12-08T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "035d190f-0e8f-23d6-07bb-008096d22126",
+      "Type": "Suspicious transactions",
+      "Severity": "Low",
+      "EntityName": "Financial institutions - Ndola",
+      "Description": "Compliance monitoring revealed financial crime involving reporting entities",
+      "DetectedAt": "2025-12-17T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "029a8f07-1fc0-21bf-0ddb-00e4538bd818",
+      "Type": "Financial crime",
+      "Severity": "Medium",
+      "EntityName": "Financial institutions - Livingstone",
+      "Description": "Investigation revealed STR analysis involving reporting entities",
+      "DetectedAt": "2025-12-14T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04a1150f-21da-1fd9-233e-00bf07d595f6",
+      "Type": "Money laundering",
+      "Severity": "Medium",
+      "EntityName": "Financial institutions - Kitwe",
+      "Description": "Str analysis revealed financial crime involving reporting entities",
+      "DetectedAt": "2025-10-24T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "034b383d-151e-1f95-2068-00e5c26eec44",
+      "Type": "Money laundering",
+      "Severity": "Medium",
+      "EntityName": "Financial institutions - Lusaka",
+      "Description": "Investigation revealed STR analysis involving suspicious persons",
+      "DetectedAt": "2025-10-30T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03b5ddbb-0793-24e4-1d5c-001feae89aa2",
+      "Type": "Terrorism financing",
+      "Severity": "Low",
+      "EntityName": "Financial institutions - Lusaka",
+      "Description": "Intelligence sharing revealed financial crime involving shell companies",
+      "DetectedAt": "2025-12-11T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "014899f6-090c-0451-1839-00d08f8401c5",
+      "Type": "Financial crime",
+      "Severity": "Medium",
+      "EntityName": "Financial institutions - Chirundu",
+      "Description": "Compliance monitoring revealed STR analysis involving shell companies",
+      "DetectedAt": "2026-01-13T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01727f9f-2390-0853-05dc-007ecb10b1ab",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Reporting entities - Ndola",
+      "Description": "Investigation revealed financial crime involving shell companies",
+      "DetectedAt": "2026-01-01T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02734664-07fb-17b7-0bed-005586e699ba",
+      "Type": "Terrorism financing",
+      "Severity": "Medium",
+      "EntityName": "Financial institutions - Lusaka",
+      "Description": "Intelligence sharing revealed suspicious transactions involving suspicious persons",
+      "DetectedAt": "2025-10-24T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03113702-186e-1b9b-26d7-00c080f9b0f0",
+      "Type": "Suspicious transactions",
+      "Severity": "Low",
+      "EntityName": "Suspicious persons - Ndola",
+      "Description": "Str analysis revealed STR analysis involving shell companies",
+      "DetectedAt": "2026-01-18T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "054fba75-0850-043a-12fa-00b8d6f8b57e",
+      "Type": "Money laundering",
+      "Severity": "Critical",
+      "EntityName": "Reporting entities - Ndola",
+      "Description": "Str analysis revealed STR analysis involving financial institutions",
+      "DetectedAt": "2025-12-27T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03541ac2-1ff8-1c7c-05ba-002390fe4142",
+      "Type": "Terrorism financing",
+      "Severity": "High",
+      "EntityName": "Financial institutions - Livingstone",
+      "Description": "Intelligence sharing revealed terrorism financing involving financial institutions",
+      "DetectedAt": "2025-11-16T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0553f159-0a7c-214c-0e4c-004c0d2e33f8",
+      "Type": "Financial crime",
+      "Severity": "Medium",
+      "EntityName": "Suspicious persons - Kitwe",
+      "Description": "Intelligence sharing revealed terrorism financing involving shell companies",
+      "DetectedAt": "2025-11-18T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0483c2aa-09f2-0cb7-19f0-001be2c4855c",
+      "Type": "Str analysis",
+      "Severity": "Critical",
+      "EntityName": "Financial institutions - Chirundu",
+      "Description": "Investigation revealed suspicious transactions involving reporting entities",
+      "DetectedAt": "2026-01-11T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "017c65db-0510-1158-172a-00cd7de2a037",
+      "Type": "Suspicious transactions",
+      "Severity": "Medium",
+      "EntityName": "Suspicious persons - Chirundu",
+      "Description": "Intelligence sharing revealed terrorism financing involving financial institutions",
+      "DetectedAt": "2025-12-07T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03b63874-066a-1674-0e78-003c93287375",
+      "Type": "Financial crime",
+      "Severity": "Medium",
+      "EntityName": "Reporting entities - Lusaka",
+      "Description": "Enforcement revealed terrorism financing involving financial institutions",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02c15465-17e6-185d-09aa-00a91cd859df",
+      "Type": "Str analysis",
+      "Severity": "Medium",
+      "EntityName": "Financial institutions - Lusaka",
+      "Description": "Intelligence sharing revealed financial crime involving suspicious persons",
+      "DetectedAt": "2025-12-18T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03815a7c-0ffa-0830-0c5c-0082eedc74f9",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Reporting entities - Livingstone",
+      "Description": "Investigation revealed terrorism financing involving shell companies",
+      "DetectedAt": "2025-11-19T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "046b4309-1cd3-0da2-1c22-00d2d02fe0d2",
+      "Type": "Str analysis",
+      "Severity": "Medium",
+      "EntityName": "Financial institutions - Livingstone",
+      "Description": "Str analysis revealed STR analysis involving suspicious persons",
+      "DetectedAt": "2025-12-17T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "020c1a6f-0e66-0df2-162b-0028fb97eba0",
+      "Type": "Suspicious transactions",
+      "Severity": "High",
+      "EntityName": "Financial institutions - Kitwe",
+      "Description": "Str analysis revealed financial crime involving reporting entities",
+      "DetectedAt": "2025-12-05T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "037574bd-0ace-20e4-2220-008dd4313857",
+      "Type": "Str analysis",
+      "Severity": "Low",
+      "EntityName": "Suspicious persons - Chirundu",
+      "Description": "Intelligence sharing revealed financial crime involving suspicious persons",
+      "DetectedAt": "2026-01-03T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "040cba6a-05fb-1f41-1177-00c6a605510d",
+      "Type": "Suspicious transactions",
+      "Severity": "Critical",
+      "EntityName": "Financial institutions - Lusaka",
+      "Description": "Intelligence sharing revealed STR analysis involving reporting entities",
+      "DetectedAt": "2026-01-01T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01559cbf-1012-1342-15b6-00712f83e480",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Suspicious persons - Kitwe",
+      "Description": "Investigation revealed suspicious transactions involving shell companies",
+      "DetectedAt": "2025-12-06T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "054837dc-138f-0d1b-0eff-00e5f04c6856",
+      "Type": "Money laundering",
+      "Severity": "High",
+      "EntityName": "Reporting entities - Livingstone",
+      "Description": "Str analysis revealed terrorism financing involving shell companies",
+      "DetectedAt": "2025-11-03T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0380af32-09c4-0443-14ca-00940136549b",
+      "Type": "Suspicious transactions",
+      "Severity": "High",
+      "EntityName": "Shell companies - Livingstone",
+      "Description": "Str analysis revealed financial crime involving shell companies",
+      "DetectedAt": "2025-12-04T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "037d45ba-1aec-1c43-0b43-00340c9da7c0",
+      "Type": "Suspicious transactions",
+      "Severity": "Medium",
+      "EntityName": "Suspicious persons - Lusaka",
+      "Description": "Compliance monitoring revealed money laundering involving financial institutions",
+      "DetectedAt": "2025-11-14T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "037ebd60-1b6e-0b56-1ff6-0037f1cc6ce4",
+      "Type": "Str analysis",
+      "Severity": "High",
+      "EntityName": "Suspicious persons - Lusaka",
+      "Description": "Investigation revealed money laundering involving suspicious persons",
+      "DetectedAt": "2025-11-19T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05407446-08a4-1105-14a4-00ae5812d41c",
+      "Type": "Financial crime",
+      "Severity": "High",
+      "EntityName": "Suspicious persons - Ndola",
+      "Description": "Enforcement revealed STR analysis involving suspicious persons",
+      "DetectedAt": "2025-11-15T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05d28b6f-082b-155f-1905-00dd87a0fcab",
+      "Type": "Str analysis",
+      "Severity": "Medium",
+      "EntityName": "Financial institutions - Livingstone",
+      "Description": "Intelligence sharing revealed terrorism financing involving suspicious persons",
+      "DetectedAt": "2025-11-10T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01737f69-0efe-0662-263d-00ce29b87b6b",
+      "Type": "Terrorism financing",
+      "Severity": "Critical",
+      "EntityName": "Suspicious persons - Ndola",
+      "Description": "Intelligence sharing revealed STR analysis involving reporting entities",
+      "DetectedAt": "2025-11-29T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "058ce91d-0d03-1e41-1b3a-00524ffe731a",
+      "Type": "Money laundering",
+      "Severity": "High",
+      "EntityName": "Financial institutions - Ndola",
+      "Description": "Compliance monitoring revealed STR analysis involving financial institutions",
+      "DetectedAt": "2025-12-13T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00c2f672-1d3a-0866-23c4-00d269c93fc7",
+      "Type": "Str analysis",
+      "Severity": "Critical",
+      "EntityName": "Financial institutions - Chirundu",
+      "Description": "Enforcement revealed suspicious transactions involving reporting entities",
+      "DetectedAt": "2025-11-14T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02580776-0ef4-1070-2654-00c3bed2d4e0",
+      "Type": "Financial crime",
+      "Severity": "Medium",
+      "EntityName": "Shell companies - Kitwe",
+      "Description": "Compliance monitoring revealed terrorism financing involving financial institutions",
+      "DetectedAt": "2025-12-01T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04812114-08f7-245b-0b1a-006de426a9a2",
+      "Type": "Suspicious transactions",
+      "Severity": "High",
+      "EntityName": "Suspicious persons - Kitwe",
+      "Description": "Intelligence sharing revealed suspicious transactions involving financial institutions",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02ae5ea2-1179-20c6-1f5f-00ad38f16e60",
+      "Type": "Money laundering",
+      "Severity": "Medium",
+      "EntityName": "Reporting entities - Lusaka",
+      "Description": "Compliance monitoring revealed financial crime involving financial institutions",
+      "DetectedAt": "2026-01-10T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00a77676-2412-0f3e-1cea-0035b8b6b743",
+      "Type": "Money laundering",
+      "Severity": "High",
+      "EntityName": "Suspicious persons - Kitwe",
+      "Description": "Compliance monitoring revealed terrorism financing involving suspicious persons",
+      "DetectedAt": "2025-11-21T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "044105d3-107f-10ed-04bd-00846f91cd20",
+      "Type": "Str analysis",
+      "Severity": "Critical",
+      "EntityName": "Financial institutions - Kitwe",
+      "Description": "Enforcement revealed financial crime involving suspicious persons",
+      "DetectedAt": "2025-12-09T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "009cc42b-0cac-2346-0ccc-00e5465b561b",
+      "Type": "Str analysis",
+      "Severity": "Medium",
+      "EntityName": "Financial institutions - Kitwe",
+      "Description": "Intelligence sharing revealed STR analysis involving suspicious persons",
+      "DetectedAt": "2025-11-27T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00cd3b56-1d48-10b6-169b-0037ef39d1fb",
+      "Type": "Suspicious transactions",
+      "Severity": "High",
+      "EntityName": "Suspicious persons - Lusaka",
+      "Description": "Compliance monitoring revealed terrorism financing involving suspicious persons",
+      "DetectedAt": "2026-01-09T17:30:30Z",
+      "Status": "Resolved"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 67
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 71
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 73
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 77
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 90
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 77
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 75
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 75
+    }
+  ]
+}

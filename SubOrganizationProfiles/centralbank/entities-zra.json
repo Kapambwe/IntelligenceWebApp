@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "03ec6311-1355-10db-10ee-0028975586d5",
+      "Name": "Microfinance institutions - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 72,
+      "CreatedAt": "2025-07-26T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "042bd14d-0662-0953-11e0-0018f1804e48",
+      "Name": "Financial institutions - Kabwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 91,
+      "CreatedAt": "2023-12-02T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z"
+    },
+    {
+      "Id": "05457bdf-10b5-0a41-1f51-009451d4afcf",
+      "Name": "Microfinance institutions - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 98,
+      "CreatedAt": "2025-07-15T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "0135b475-0508-0cd4-1251-00794d03fc0d",
+      "Name": "Financial institutions - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2023-11-24T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "0468f378-26eb-0e5f-0755-0053c1054c13",
+      "Name": "Financial institutions - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 40,
+      "CreatedAt": "2025-09-29T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "038bc8ca-112b-1a8b-221e-00832ca67745",
+      "Name": "Bureau de change - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 94,
+      "CreatedAt": "2025-05-14T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "0293b5c6-1fdb-153f-15f2-007067411ce2",
+      "Name": "Commercial banks - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 56,
+      "CreatedAt": "2024-09-22T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "02ea93e2-1196-1a6c-195c-00c52bc7d2b6",
+      "Name": "Commercial banks - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 43,
+      "CreatedAt": "2024-01-04T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "05e81d3c-0ecf-082d-1ae0-00924dfbd65d",
+      "Name": "Bureau de change - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 32,
+      "CreatedAt": "2023-12-04T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "04888ab8-0aa5-1462-06e5-00c58bfc23b8",
+      "Name": "Financial institutions - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 81,
+      "CreatedAt": "2025-06-21T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "02eb5285-0df3-1c11-09ef-00e7cb7aa663",
+      "Name": "Microfinance institutions - Kabwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2024-12-26T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "05a930aa-0a25-2359-1552-009e58bd0717",
+      "Name": "Commercial banks - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 97,
+      "CreatedAt": "2023-12-27T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "00d7a5be-1adf-189a-20c1-004d7af8fb43",
+      "Name": "Commercial banks - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 35,
+      "CreatedAt": "2024-03-26T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "03b2c51e-2588-26c4-2130-00a84ac28f94",
+      "Name": "Commercial banks - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 42,
+      "CreatedAt": "2024-06-16T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "023d9f26-06f7-0c56-068f-00b8add8471b",
+      "Name": "Bureau de change - Kabwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 20,
+      "CreatedAt": "2024-03-01T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "037203e7-1c3f-05f5-25e2-00df091da966",
+      "Name": "Commercial banks - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 78,
+      "CreatedAt": "2023-11-17T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "02118ca2-1455-1f3f-0fa7-001f3fb06dd2",
+      "Name": "Microfinance institutions - Kabwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 71,
+      "CreatedAt": "2024-06-02T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "02c48176-269c-1c40-041e-00a239487932",
+      "Name": "Microfinance institutions - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2024-11-30T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "01506fcb-19df-20f4-1079-00516f335150",
+      "Name": "Commercial banks - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 37,
+      "CreatedAt": "2024-01-19T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "05f532bd-265f-1c01-1089-00785745f567",
+      "Name": "Microfinance institutions - Kabwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 93,
+      "CreatedAt": "2025-07-03T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "05e8ee0b-0699-1121-14af-002466519903",
+      "Name": "Commercial banks - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 49,
+      "CreatedAt": "2025-09-12T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "012fe883-0516-0f1b-1252-00dfd51d4883",
+      "Name": "Commercial banks - Kabwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 35,
+      "CreatedAt": "2024-05-14T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "016c4cab-21e8-21cb-236c-00c9bce5e570",
+      "Name": "Bureau de change - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 85,
+      "CreatedAt": "2024-08-29T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z"
+    },
+    {
+      "Id": "040e8873-1be3-0826-26ea-00d026435c64",
+      "Name": "Financial institutions - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 48,
+      "CreatedAt": "2024-04-06T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "04564a58-04c8-0daf-1ecb-006e2230edde",
+      "Name": "Financial institutions - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 39,
+      "CreatedAt": "2025-02-21T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "03b3b31b-0856-04bc-1fd8-00701fdcf401",
+      "Name": "Commercial banks - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 61,
+      "CreatedAt": "2025-04-09T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z"
+    },
+    {
+      "Id": "02ac60d8-23c7-1bcf-1d12-005a162bd29c",
+      "Name": "Bureau de change - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 61,
+      "CreatedAt": "2025-01-05T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "00d98509-102c-0f61-1f43-004d7e97a245",
+      "Name": "Financial institutions - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 92,
+      "CreatedAt": "2024-01-14T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "05294389-0615-1394-211c-007099692de5",
+      "Name": "Commercial banks - Kabwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 48,
+      "CreatedAt": "2024-09-18T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "0324678d-1b89-1868-1625-0022c2072913",
+      "Name": "Microfinance institutions - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 53,
+      "CreatedAt": "2025-05-26T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "009cdef1-1483-10c7-20a2-00dc1ee50316",
+      "Name": "Commercial banks - Kabwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 70,
+      "CreatedAt": "2024-05-20T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "01cd588f-1076-1628-264f-00e45a3c9f10",
+      "Name": "Bureau de change - Kabwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 41,
+      "CreatedAt": "2025-10-10T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "037e77b6-0c9c-17d7-18db-005c1c35e463",
+      "Name": "Bureau de change - Kabwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 32,
+      "CreatedAt": "2025-03-02T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "01cda25d-0e2e-2612-195f-00dcf8165fd9",
+      "Name": "Bureau de change - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 82,
+      "CreatedAt": "2025-02-23T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "02f2e79c-1e93-1ce2-1dd0-003d3d287b12",
+      "Name": "Financial institutions - Kabwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 57,
+      "CreatedAt": "2025-07-12T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "01083d1b-1098-0a7b-143d-00a8e60a4349",
+      "Name": "Microfinance institutions - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 50,
+      "CreatedAt": "2024-12-15T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "00ba7907-154f-2282-05ff-005ddb8be651",
+      "Name": "Financial institutions - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 89,
+      "CreatedAt": "2024-04-01T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z"
+    },
+    {
+      "Id": "02012603-1ff0-1b0d-0fc7-00a3cea4fe3f",
+      "Name": "Microfinance institutions - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 86,
+      "CreatedAt": "2024-11-24T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "02a37ecc-1f78-0b24-0c00-00a08390a59a",
+      "Name": "Microfinance institutions - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 99,
+      "CreatedAt": "2024-10-27T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "046fd8b6-1732-235a-15a0-00a8da5ea600",
+      "Name": "Commercial banks - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 71,
+      "CreatedAt": "2024-11-13T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "056e6042-1fe3-069b-180b-004734cfdc09",
+      "Name": "Commercial banks - Livingstone",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 54,
+      "CreatedAt": "2025-03-21T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z"
+    },
+    {
+      "Id": "05d7eccb-2282-0c34-0ee4-00d00e60a86d",
+      "Name": "Financial institutions - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 31,
+      "CreatedAt": "2025-09-25T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "01b3347b-075e-2604-1942-00948e38b615",
+      "Name": "Financial institutions - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 55,
+      "CreatedAt": "2024-04-19T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "0327bd9c-05b0-2617-25e8-005ea1fff2cd",
+      "Name": "Microfinance institutions - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 85,
+      "CreatedAt": "2024-04-13T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "01e8b8d7-1473-1c2f-21e2-009e95f14992",
+      "Name": "Bureau de change - Kabwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 97,
+      "CreatedAt": "2024-09-14T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "040783d9-1791-0b88-116d-006c3432c52e",
+      "Name": "Commercial banks - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 53,
+      "CreatedAt": "2023-12-17T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "03f3233c-1b8c-0fcb-0d3b-006873414129",
+      "Name": "Microfinance institutions - Kabwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2024-07-17T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "03b84066-099d-2127-0411-00b785c338db",
+      "Name": "Bureau de change - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 89,
+      "CreatedAt": "2024-12-13T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "0561bee0-0a37-1c40-0525-00acc8021605",
+      "Name": "Commercial banks - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 23,
+      "CreatedAt": "2024-08-21T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "056dcd7a-26b0-1746-0df2-00d6bd311558",
+      "Name": "Commercial banks - Kabwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 21,
+      "CreatedAt": "2024-01-15T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "03ec6311-1355-10db-10ee-0028975586d5",
+      "Name": "Microfinance institutions - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 72,
+      "CreatedAt": "2025-07-26T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2020-5379",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "foreign exchange",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Reserve management",
+          "Severity": "Critical",
+          "Score": 19
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "042bd14d-0662-0953-11e0-0018f1804e48",
+      "Name": "Financial institutions - Kabwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 91,
+      "CreatedAt": "2023-12-02T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2022-1392",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "foreign exchange",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Banking supervision",
+          "Severity": "Low",
+          "Score": 26
+        },
+        {
+          "Name": "Foreign exchange",
+          "Severity": "High",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05457bdf-10b5-0a41-1f51-009451d4afcf",
+      "Name": "Microfinance institutions - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 98,
+      "CreatedAt": "2025-07-15T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2022-7293",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "foreign exchange",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Foreign exchange",
+          "Severity": "High",
+          "Score": 25
+        },
+        {
+          "Name": "Financial stability",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0135b475-0508-0cd4-1251-00794d03fc0d",
+      "Name": "Financial institutions - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2023-11-24T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2025-2387",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "reserve management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Reserve management",
+          "Severity": "Medium",
+          "Score": 24
+        },
+        {
+          "Name": "Financial stability",
+          "Severity": "Critical",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0468f378-26eb-0e5f-0755-0053c1054c13",
+      "Name": "Financial institutions - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 40,
+      "CreatedAt": "2025-09-29T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2026-4824",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "foreign exchange",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Monetary policy",
+          "Severity": "Low",
+          "Score": 35
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "038bc8ca-112b-1a8b-221e-00832ca67745",
+      "Name": "Bureau de change - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 94,
+      "CreatedAt": "2025-05-14T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2024-2260",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "foreign exchange",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Reserve management",
+          "Severity": "Low",
+          "Score": 16
+        },
+        {
+          "Name": "Reserve management",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0293b5c6-1fdb-153f-15f2-007067411ce2",
+      "Name": "Commercial banks - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 56,
+      "CreatedAt": "2024-09-22T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2026-8695",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "monetary policy",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Monetary policy",
+          "Severity": "High",
+          "Score": 21
+        },
+        {
+          "Name": "Reserve management",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02ea93e2-1196-1a6c-195c-00c52bc7d2b6",
+      "Name": "Commercial banks - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 43,
+      "CreatedAt": "2024-01-04T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2021-9602",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "reserve management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Foreign exchange",
+          "Severity": "Medium",
+          "Score": 19
+        },
+        {
+          "Name": "Reserve management",
+          "Severity": "Critical",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05e81d3c-0ecf-082d-1ae0-00924dfbd65d",
+      "Name": "Bureau de change - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 32,
+      "CreatedAt": "2023-12-04T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2020-7443",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "banking supervision",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial stability",
+          "Severity": "Low",
+          "Score": 12
+        },
+        {
+          "Name": "Financial stability",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04888ab8-0aa5-1462-06e5-00c58bfc23b8",
+      "Name": "Financial institutions - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 81,
+      "CreatedAt": "2025-06-21T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2020-7738",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "reserve management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Banking supervision",
+          "Severity": "Critical",
+          "Score": 45
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02eb5285-0df3-1c11-09ef-00e7cb7aa663",
+      "Name": "Microfinance institutions - Kabwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2024-12-26T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2023-3684",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "banking supervision",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial stability",
+          "Severity": "Critical",
+          "Score": 30
+        },
+        {
+          "Name": "Financial stability",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05a930aa-0a25-2359-1552-009e58bd0717",
+      "Name": "Commercial banks - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 97,
+      "CreatedAt": "2023-12-27T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2023-2333",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "monetary policy",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Reserve management",
+          "Severity": "High",
+          "Score": 13
+        },
+        {
+          "Name": "Foreign exchange",
+          "Severity": "Critical",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00d7a5be-1adf-189a-20c1-004d7af8fb43",
+      "Name": "Commercial banks - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 35,
+      "CreatedAt": "2024-03-26T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2020-5226",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "banking supervision",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Banking supervision",
+          "Severity": "Low",
+          "Score": 38
+        },
+        {
+          "Name": "Foreign exchange",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03b2c51e-2588-26c4-2130-00a84ac28f94",
+      "Name": "Commercial banks - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 42,
+      "CreatedAt": "2024-06-16T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2020-4261",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "monetary policy",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Foreign exchange",
+          "Severity": "Critical",
+          "Score": 18
+        },
+        {
+          "Name": "Reserve management",
+          "Severity": "Critical",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "023d9f26-06f7-0c56-068f-00b8add8471b",
+      "Name": "Bureau de change - Kabwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 20,
+      "CreatedAt": "2024-03-01T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2021-2110",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial stability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Banking supervision",
+          "Severity": "Medium",
+          "Score": 29
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "037203e7-1c3f-05f5-25e2-00df091da966",
+      "Name": "Commercial banks - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 78,
+      "CreatedAt": "2023-11-17T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2022-4588",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "banking supervision",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Monetary policy",
+          "Severity": "Low",
+          "Score": 26
+        },
+        {
+          "Name": "Reserve management",
+          "Severity": "Medium",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02118ca2-1455-1f3f-0fa7-001f3fb06dd2",
+      "Name": "Microfinance institutions - Kabwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 71,
+      "CreatedAt": "2024-06-02T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2023-9564",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "monetary policy",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Reserve management",
+          "Severity": "Medium",
+          "Score": 39
+        },
+        {
+          "Name": "Reserve management",
+          "Severity": "Critical",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02c48176-269c-1c40-041e-00a239487932",
+      "Name": "Microfinance institutions - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2024-11-30T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2020-6685",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial stability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial stability",
+          "Severity": "Medium",
+          "Score": 27
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01506fcb-19df-20f4-1079-00516f335150",
+      "Name": "Commercial banks - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 37,
+      "CreatedAt": "2024-01-19T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2025-8384",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "monetary policy",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial stability",
+          "Severity": "High",
+          "Score": 40
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "Critical",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05f532bd-265f-1c01-1089-00785745f567",
+      "Name": "Microfinance institutions - Kabwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 93,
+      "CreatedAt": "2025-07-03T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2025-6440",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "banking supervision",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial stability",
+          "Severity": "Medium",
+          "Score": 18
+        },
+        {
+          "Name": "Foreign exchange",
+          "Severity": "High",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05e8ee0b-0699-1121-14af-002466519903",
+      "Name": "Commercial banks - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 49,
+      "CreatedAt": "2025-09-12T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2024-9079",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial stability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Banking supervision",
+          "Severity": "Critical",
+          "Score": 38
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "012fe883-0516-0f1b-1252-00dfd51d4883",
+      "Name": "Commercial banks - Kabwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 35,
+      "CreatedAt": "2024-05-14T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2020-4594",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial stability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Monetary policy",
+          "Severity": "Critical",
+          "Score": 38
+        },
+        {
+          "Name": "Foreign exchange",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "016c4cab-21e8-21cb-236c-00c9bce5e570",
+      "Name": "Bureau de change - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 85,
+      "CreatedAt": "2024-08-29T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2023-3391",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial stability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial stability",
+          "Severity": "High",
+          "Score": 12
+        },
+        {
+          "Name": "Banking supervision",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "040e8873-1be3-0826-26ea-00d026435c64",
+      "Name": "Financial institutions - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 48,
+      "CreatedAt": "2024-04-06T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2024-5816",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "reserve management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Reserve management",
+          "Severity": "Critical",
+          "Score": 38
+        },
+        {
+          "Name": "Banking supervision",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04564a58-04c8-0daf-1ecb-006e2230edde",
+      "Name": "Financial institutions - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 39,
+      "CreatedAt": "2025-02-21T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2026-4516",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "foreign exchange",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Monetary policy",
+          "Severity": "High",
+          "Score": 26
+        },
+        {
+          "Name": "Banking supervision",
+          "Severity": "Medium",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03b3b31b-0856-04bc-1fd8-00701fdcf401",
+      "Name": "Commercial banks - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 61,
+      "CreatedAt": "2025-04-09T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2024-4899",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "reserve management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Monetary policy",
+          "Severity": "Critical",
+          "Score": 38
+        },
+        {
+          "Name": "Foreign exchange",
+          "Severity": "Critical",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02ac60d8-23c7-1bcf-1d12-005a162bd29c",
+      "Name": "Bureau de change - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 61,
+      "CreatedAt": "2025-01-05T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2026-9422",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial stability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Banking supervision",
+          "Severity": "High",
+          "Score": 44
+        },
+        {
+          "Name": "Reserve management",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00d98509-102c-0f61-1f43-004d7e97a245",
+      "Name": "Financial institutions - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 92,
+      "CreatedAt": "2024-01-14T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2023-3252",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "monetary policy",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Banking supervision",
+          "Severity": "Medium",
+          "Score": 24
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "Medium",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05294389-0615-1394-211c-007099692de5",
+      "Name": "Commercial banks - Kabwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 48,
+      "CreatedAt": "2024-09-18T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2020-3378",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "banking supervision",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Monetary policy",
+          "Severity": "Low",
+          "Score": 26
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0324678d-1b89-1868-1625-0022c2072913",
+      "Name": "Microfinance institutions - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 53,
+      "CreatedAt": "2025-05-26T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2024-9854",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "reserve management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Foreign exchange",
+          "Severity": "Low",
+          "Score": 19
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "High",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "009cdef1-1483-10c7-20a2-00dc1ee50316",
+      "Name": "Commercial banks - Kabwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 70,
+      "CreatedAt": "2024-05-20T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2022-5927",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial stability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Banking supervision",
+          "Severity": "Critical",
+          "Score": 34
+        },
+        {
+          "Name": "Reserve management",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01cd588f-1076-1628-264f-00e45a3c9f10",
+      "Name": "Bureau de change - Kabwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 41,
+      "CreatedAt": "2025-10-10T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2020-6050",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "banking supervision",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Foreign exchange",
+          "Severity": "High",
+          "Score": 25
+        },
+        {
+          "Name": "Banking supervision",
+          "Severity": "Critical",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "037e77b6-0c9c-17d7-18db-005c1c35e463",
+      "Name": "Bureau de change - Kabwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 32,
+      "CreatedAt": "2025-03-02T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2026-4354",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial stability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial stability",
+          "Severity": "Critical",
+          "Score": 11
+        },
+        {
+          "Name": "Reserve management",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01cda25d-0e2e-2612-195f-00dcf8165fd9",
+      "Name": "Bureau de change - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 82,
+      "CreatedAt": "2025-02-23T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2026-3826",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "reserve management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Reserve management",
+          "Severity": "Critical",
+          "Score": 32
+        },
+        {
+          "Name": "Foreign exchange",
+          "Severity": "Medium",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f2e79c-1e93-1ce2-1dd0-003d3d287b12",
+      "Name": "Financial institutions - Kabwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 57,
+      "CreatedAt": "2025-07-12T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2024-2067",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial stability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Reserve management",
+          "Severity": "Medium",
+          "Score": 34
+        },
+        {
+          "Name": "Foreign exchange",
+          "Severity": "High",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01083d1b-1098-0a7b-143d-00a8e60a4349",
+      "Name": "Microfinance institutions - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 50,
+      "CreatedAt": "2024-12-15T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2022-2465",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "banking supervision",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Foreign exchange",
+          "Severity": "Low",
+          "Score": 13
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00ba7907-154f-2282-05ff-005ddb8be651",
+      "Name": "Financial institutions - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 89,
+      "CreatedAt": "2024-04-01T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2023-3053",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "banking supervision",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial stability",
+          "Severity": "High",
+          "Score": 41
+        },
+        {
+          "Name": "Banking supervision",
+          "Severity": "Medium",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02012603-1ff0-1b0d-0fc7-00a3cea4fe3f",
+      "Name": "Microfinance institutions - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 86,
+      "CreatedAt": "2024-11-24T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2026-4776",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial stability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Reserve management",
+          "Severity": "Low",
+          "Score": 43
+        },
+        {
+          "Name": "Reserve management",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02a37ecc-1f78-0b24-0c00-00a08390a59a",
+      "Name": "Microfinance institutions - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 99,
+      "CreatedAt": "2024-10-27T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2025-3477",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "monetary policy",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Foreign exchange",
+          "Severity": "Critical",
+          "Score": 34
+        },
+        {
+          "Name": "Banking supervision",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "046fd8b6-1732-235a-15a0-00a8da5ea600",
+      "Name": "Commercial banks - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 71,
+      "CreatedAt": "2024-11-13T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2023-8770",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "monetary policy",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Reserve management",
+          "Severity": "Critical",
+          "Score": 11
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "056e6042-1fe3-069b-180b-004734cfdc09",
+      "Name": "Commercial banks - Livingstone",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 54,
+      "CreatedAt": "2025-03-21T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2025-6073",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "banking supervision",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Foreign exchange",
+          "Severity": "Low",
+          "Score": 24
+        },
+        {
+          "Name": "Reserve management",
+          "Severity": "Critical",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d7eccb-2282-0c34-0ee4-00d00e60a86d",
+      "Name": "Financial institutions - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 31,
+      "CreatedAt": "2025-09-25T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2020-1783",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "monetary policy",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial stability",
+          "Severity": "High",
+          "Score": 43
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "Medium",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01b3347b-075e-2604-1942-00948e38b615",
+      "Name": "Financial institutions - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 55,
+      "CreatedAt": "2024-04-19T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2024-2632",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "monetary policy",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Monetary policy",
+          "Severity": "Medium",
+          "Score": 22
+        },
+        {
+          "Name": "Reserve management",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0327bd9c-05b0-2617-25e8-005ea1fff2cd",
+      "Name": "Microfinance institutions - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 85,
+      "CreatedAt": "2024-04-13T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2025-4636",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "foreign exchange",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Monetary policy",
+          "Severity": "Low",
+          "Score": 33
+        },
+        {
+          "Name": "Foreign exchange",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e8b8d7-1473-1c2f-21e2-009e95f14992",
+      "Name": "Bureau de change - Kabwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 97,
+      "CreatedAt": "2024-09-14T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2022-5228",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "banking supervision",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Monetary policy",
+          "Severity": "High",
+          "Score": 33
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "040783d9-1791-0b88-116d-006c3432c52e",
+      "Name": "Commercial banks - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 53,
+      "CreatedAt": "2023-12-17T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2023-8537",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "monetary policy",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Banking supervision",
+          "Severity": "High",
+          "Score": 38
+        },
+        {
+          "Name": "Financial stability",
+          "Severity": "Critical",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03f3233c-1b8c-0fcb-0d3b-006873414129",
+      "Name": "Microfinance institutions - Kabwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2024-07-17T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2025-4185",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial stability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Foreign exchange",
+          "Severity": "Medium",
+          "Score": 45
+        },
+        {
+          "Name": "Banking supervision",
+          "Severity": "Medium",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03b84066-099d-2127-0411-00b785c338db",
+      "Name": "Bureau de change - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 89,
+      "CreatedAt": "2024-12-13T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2024-8652",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "reserve management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Banking supervision",
+          "Severity": "Medium",
+          "Score": 30
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0561bee0-0a37-1c40-0525-00acc8021605",
+      "Name": "Commercial banks - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 23,
+      "CreatedAt": "2024-08-21T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2026-3339",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "foreign exchange",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Foreign exchange",
+          "Severity": "Medium",
+          "Score": 31
+        },
+        {
+          "Name": "Banking supervision",
+          "Severity": "High",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "056dcd7a-26b0-1746-0df2-00d6bd311558",
+      "Name": "Commercial banks - Kabwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 21,
+      "CreatedAt": "2024-01-15T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "BAN-2020-3321",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "monetary policy",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Bank of Zambia",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial stability",
+          "Severity": "Critical",
+          "Score": 36
+        },
+        {
+          "Name": "Monetary policy",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    }
+  ]
+}

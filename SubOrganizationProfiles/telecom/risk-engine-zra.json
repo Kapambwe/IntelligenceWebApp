@@ -1,0 +1,186 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "01f59159-0cd6-0a25-0a8d-004a1081e129",
+      "Name": "Compliance Risk Model",
+      "Description": "Detects network operations patterns in Telecommunications operations",
+      "Status": "active",
+      "CreatedAt": "2025-09-19T17:30:31Z",
+      "LastModifiedAt": "2026-01-11T17:30:31Z",
+      "Version": "1.4",
+      "Factors": [
+        {
+          "Id": "03c35e1a-078c-25cb-20a5-00d704ec6e8a",
+          "Name": "Subscriber management Indicator",
+          "Description": "Measures fraud prevention risk across subscribers",
+          "Category": "compliance",
+          "Weight": 0.3,
+          "MinValue": 0,
+          "MaxValue": 131,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0333faa0-209a-0baa-132e-0047b6c89ea0",
+          "Name": "Fraud prevention Indicator",
+          "Description": "Measures subscriber management risk across service users",
+          "Category": "financial",
+          "Weight": 0.27,
+          "MinValue": 0,
+          "MaxValue": 148,
+          "IsEnabled": true
+        },
+        {
+          "Id": "05780374-15f2-1147-102c-004b59634822",
+          "Name": "Service delivery Indicator",
+          "Description": "Measures network operations risk across dealers",
+          "Category": "financial",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 145,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.92,
+        "Precision": 0.81,
+        "Recall": 0.9,
+        "F1Score": 0.79,
+        "TotalPredictions": 314,
+        "TruePositives": 440,
+        "FalsePositives": 50,
+        "TrueNegatives": 194,
+        "FalseNegatives": 22
+      }
+    },
+    {
+      "Id": "0426e24e-2313-1461-10ba-003775aaa2a3",
+      "Name": "Compliance Risk Model",
+      "Description": "Detects subscriber management patterns in Telecommunications operations",
+      "Status": "active",
+      "CreatedAt": "2025-10-22T17:30:31Z",
+      "LastModifiedAt": "2025-12-24T17:30:31Z",
+      "Version": "2.0",
+      "Factors": [
+        {
+          "Id": "02fd5d61-10f3-259f-0598-00804686f5c1",
+          "Name": "Service delivery Indicator",
+          "Description": "Measures network operations risk across corporate clients",
+          "Category": "geographic",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 129,
+          "IsEnabled": true
+        },
+        {
+          "Id": "053e4249-1f05-10f4-0754-00d6c0fb66aa",
+          "Name": "Network operations Indicator",
+          "Description": "Measures service delivery risk across dealers",
+          "Category": "geographic",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 131,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03e8107a-0cd7-1e76-1ea2-00c781e729e3",
+          "Name": "Fraud prevention Indicator",
+          "Description": "Measures subscriber management risk across service users",
+          "Category": "compliance",
+          "Weight": 0.17,
+          "MinValue": 0,
+          "MaxValue": 107,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00d902d5-1a39-1a94-196c-00181d00550b",
+          "Name": "Subscriber management Indicator",
+          "Description": "Measures subscriber management risk across corporate clients",
+          "Category": "operational",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 138,
+          "IsEnabled": true
+        },
+        {
+          "Id": "05871e20-1849-146c-11a2-00a9713881ec",
+          "Name": "Fraud prevention Indicator",
+          "Description": "Measures service delivery risk across service users",
+          "Category": "financial",
+          "Weight": 0.23,
+          "MinValue": 0,
+          "MaxValue": 164,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.91,
+        "Precision": 0.84,
+        "Recall": 0.83,
+        "F1Score": 0.87,
+        "TotalPredictions": 626,
+        "TruePositives": 407,
+        "FalsePositives": 50,
+        "TrueNegatives": 119,
+        "FalseNegatives": 36
+      }
+    },
+    {
+      "Id": "0370c67f-1b2e-166b-0ef4-00223edd29aa",
+      "Name": "Fraud prevention Risk Model",
+      "Description": "Detects network operations patterns in Telecommunications operations",
+      "Status": "active",
+      "CreatedAt": "2025-10-22T17:30:31Z",
+      "LastModifiedAt": "2025-12-26T17:30:31Z",
+      "Version": "1.7",
+      "Factors": [
+        {
+          "Id": "0325356d-0815-05fa-115b-001b9c76d1d3",
+          "Name": "Network operations Indicator",
+          "Description": "Measures service delivery risk across subscribers",
+          "Category": "financial",
+          "Weight": 0.36,
+          "MinValue": 0,
+          "MaxValue": 153,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01bcaf6a-03f2-1c1c-26b4-007db2627a5c",
+          "Name": "Fraud prevention Indicator",
+          "Description": "Measures compliance risk across subscribers",
+          "Category": "operational",
+          "Weight": 0.28,
+          "MinValue": 0,
+          "MaxValue": 182,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00a1fc7f-07b9-2206-140b-003d3782d4d0",
+          "Name": "Network operations Indicator",
+          "Description": "Measures service delivery risk across subscribers",
+          "Category": "financial",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 163,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.94,
+        "Precision": 0.88,
+        "Recall": 0.85,
+        "F1Score": 0.79,
+        "TotalPredictions": 749,
+        "TruePositives": 383,
+        "FalsePositives": 66,
+        "TrueNegatives": 131,
+        "FalseNegatives": 51
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 11,
+    "AverageRiskScore": 82.5
+  }
+}

@@ -1,0 +1,562 @@
+/* Quantexa Component-Specific Styles */
+
+/* ===== ENTITY CARD STYLES ===== */
+.entity-card {
+    background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.entity-card-header {
+    display: flex;
+    gap: 1rem;
+    padding: 1.5rem;
+    border-bottom: 1px solid var(--quantexa-border);
+    background: linear-gradient(to bottom, #ffffff, #f8fafc);
+}
+
+.entity-icon-container {
+    position: relative;
+}
+
+.entity-icon-large {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.entity-badges {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    font-size: 14px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.badge-alert { background: var(--quantexa-danger); }
+.badge-flag { background: var(--quantexa-warning); }
+.badge-watchlist { background: var(--quantexa-info); }
+.badge-frozen { background: var(--quantexa-text-secondary); }
+
+.entity-header-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.entity-risk-section {
+    background: var(--quantexa-bg-secondary);
+}
+
+/* ===== RISK BREAKDOWN CHART STYLES ===== */
+.risk-gauge-container {
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+.risk-gauge {
+    width: 200px;
+    height: 120px;
+}
+
+.risk-arc {
+    transition: stroke-dashoffset 0.5s ease;
+}
+
+.risk-score-text {
+    font-size: 36px;
+    font-weight: 700;
+    fill: var(--quantexa-text-primary);
+}
+
+.risk-label-text {
+    font-size: 12px;
+    fill: var(--quantexa-text-secondary);
+}
+
+/* ===== CLUSTER PANEL STYLES ===== */
+.cluster-card {
+    padding: 1rem;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid var(--quantexa-border);
+    transition: all 0.2s ease;
+}
+
+.cluster-card:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* ===== PATTERN CARD STYLES ===== */
+.pattern-card {
+    padding: 1.5rem;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid var(--quantexa-border);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-align: center;
+}
+
+.pattern-card:hover {
+    border-color: var(--quantexa-primary);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.15);
+    transform: translateY(-2px);
+}
+
+.pattern-icon {
+    font-size: 48px;
+    margin-bottom: 0.5rem;
+}
+
+.pattern-name {
+    font-weight: 600;
+    color: var(--quantexa-text-primary);
+    margin-bottom: 0.25rem;
+}
+
+.pattern-description {
+    font-size: 0.875rem;
+    color: var(--quantexa-text-secondary);
+}
+
+.pattern-instance-card {
+    padding: 0.75rem;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid var(--quantexa-border);
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.pattern-instance-card:hover {
+    border-color: var(--quantexa-primary);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* ===== PATH ANALYSIS STYLES ===== */
+.path-card {
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.path-card:hover {
+    background: var(--quantexa-bg-hover) !important;
+}
+
+.path-step {
+    padding: 0.75rem;
+    background: white;
+    border-radius: 8px;
+    border-left: 3px solid var(--quantexa-primary);
+    margin-bottom: 0.5rem;
+}
+
+.path-step-number {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: var(--quantexa-primary);
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+/* ===== TRANSACTION FLOW STYLES ===== */
+.transaction-flow-card {
+    padding: 1rem;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid var(--quantexa-border);
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.transaction-flow-card:hover {
+    border-color: var(--quantexa-primary);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-1px);
+}
+
+.transaction-detail-card {
+    padding: 0.75rem;
+    background: var(--quantexa-bg-secondary);
+    border-radius: 8px;
+    margin-bottom: 0.5rem;
+}
+
+.metrics-card {
+    text-align: center;
+    padding: 1rem;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid var(--quantexa-border);
+}
+
+.metrics-value {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--quantexa-primary);
+    margin-bottom: 0.25rem;
+}
+
+.metrics-label {
+    font-size: 12px;
+    color: var(--quantexa-text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* ===== FILTER BUILDER STYLES ===== */
+.filter-preset-card {
+    padding: 1.5rem;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid var(--quantexa-border);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-align: center;
+}
+
+.filter-preset-card:hover {
+    border-color: var(--quantexa-primary);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.15);
+    transform: translateY(-2px);
+}
+
+.preset-icon {
+    font-size: 32px;
+    margin-bottom: 0.5rem;
+}
+
+.preset-name {
+    font-weight: 600;
+    color: var(--quantexa-text-primary);
+    font-size: 14px;
+}
+
+.filter-group-display {
+    padding: 1rem;
+    background: var(--quantexa-bg-secondary);
+    border-radius: 8px;
+}
+
+.filter-group {
+    padding: 0.75rem;
+    background: white;
+    border-radius: 4px;
+    border-left: 3px solid var(--quantexa-primary);
+}
+
+.filter-condition {
+    padding: 0.5rem;
+    background: white;
+    border-radius: 4px;
+    border-left: 3px solid var(--quantexa-account);
+    margin-bottom: 0.25rem;
+}
+
+.saved-filter-card {
+    padding: 0.75rem;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid var(--quantexa-border);
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.saved-filter-card:hover {
+    border-color: var(--quantexa-primary);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+
+/* ===== FILTER BUILDER STYLES ===== */
+.filter-group {
+    padding: 1rem;
+    background: var(--quantexa-bg-secondary);
+    border-radius: 8px;
+    border: 1px solid var(--quantexa-border);
+    margin-bottom: 0.5rem;
+}
+
+.filter-condition {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem;
+    background: white;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+}
+
+.filter-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.25rem 0.75rem;
+    background: var(--quantexa-bg-secondary);
+    border-radius: 16px;
+    font-size: 0.875rem;
+    color: var(--quantexa-text-primary);
+    border: 1px solid var(--quantexa-border);
+}
+
+.filter-chip-remove {
+    cursor: pointer;
+    color: var(--quantexa-text-secondary);
+    transition: color 0.2s;
+}
+
+.filter-chip-remove:hover {
+    color: var(--quantexa-danger);
+}
+
+/* ===== METRICS CARD STYLES ===== */
+.metrics-card {
+    padding: 1rem;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid var(--quantexa-border);
+    text-align: center;
+    transition: all 0.2s ease;
+}
+
+.metrics-card:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.metrics-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--quantexa-text-primary);
+    margin-bottom: 0.25rem;
+}
+
+.metrics-label {
+    font-size: 0.875rem;
+    color: var(--quantexa-text-secondary);
+}
+
+/* ===== PATH ANALYSIS STYLES ===== */
+.path-step {
+    position: relative;
+    padding: 0.75rem;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid var(--quantexa-border);
+    margin-bottom: 0.5rem;
+}
+
+.path-step::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: -8px;
+    width: 2px;
+    height: 8px;
+    background: var(--quantexa-border);
+}
+
+.path-step:last-child::before {
+    display: none;
+}
+
+.path-step-number {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: var(--quantexa-primary);
+    color: white;
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+/* ===== TRANSACTION FLOW STYLES ===== */
+.transaction-item {
+    padding: 0.75rem;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid var(--quantexa-border);
+    margin-bottom: 0.5rem;
+    transition: all 0.2s ease;
+}
+
+.transaction-item:hover {
+    border-color: var(--quantexa-primary);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.transaction-amount {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--quantexa-text-primary);
+}
+
+.transaction-flagged {
+    border-left: 4px solid var(--quantexa-danger);
+}
+
+.transaction-cleared {
+    border-left: 4px solid var(--quantexa-success);
+}
+
+/* ===== RELATIONSHIP CARD STYLES ===== */
+.relationship-card {
+    padding: 0.75rem;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid var(--quantexa-border);
+    margin-bottom: 0.5rem;
+    transition: all 0.2s ease;
+}
+
+.relationship-card:hover {
+    background: var(--quantexa-bg-secondary);
+}
+
+.relationship-strength {
+    display: inline-block;
+    height: 4px;
+    border-radius: 2px;
+    background: var(--quantexa-border);
+    position: relative;
+    overflow: hidden;
+}
+
+.relationship-strength::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    background: var(--quantexa-primary);
+    width: var(--strength);
+}
+
+/* ===== NOTE/ANNOTATION STYLES ===== */
+.note-item {
+    padding: 1rem;
+    background: #fefce8;
+    border-left: 4px solid #eab308;
+    border-radius: 4px;
+    margin-bottom: 0.75rem;
+}
+
+.note-pinned {
+    background: #dbeafe;
+    border-left-color: #3b82f6;
+}
+
+.note-meta {
+    font-size: 0.75rem;
+    color: var(--quantexa-text-secondary);
+    margin-top: 0.5rem;
+}
+
+/* ===== ACTIVITY LOG STYLES ===== */
+.activity-item {
+    display: flex;
+    gap: 0.75rem;
+    padding: 0.75rem;
+    border-bottom: 1px solid var(--quantexa-border);
+}
+
+.activity-item:last-child {
+    border-bottom: none;
+}
+
+.activity-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: var(--quantexa-bg-secondary);
+    flex-shrink: 0;
+}
+
+.activity-content {
+    flex: 1;
+}
+
+.activity-timestamp {
+    font-size: 0.75rem;
+    color: var(--quantexa-text-secondary);
+}
+
+/* ===== RESPONSIVE STYLES ===== */
+@media (max-width: 768px) {
+    .entity-card-header {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .entity-icon-container {
+        align-self: center;
+    }
+    
+    .metrics-card {
+        margin-bottom: 0.75rem;
+    }
+}
+
+/* ===== ANIMATION CLASSES ===== */
+.fade-in-up {
+    animation: fadeInUp 0.3s ease-out;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.scale-in {
+    animation: scaleIn 0.2s ease-out;
+}
+
+@keyframes scaleIn {
+    from {
+        opacity: 0;
+        transform: scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}

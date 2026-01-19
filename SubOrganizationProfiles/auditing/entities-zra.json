@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "039dccad-23bf-1d8a-184a-00531a7eb539",
+      "Name": "Statutory bodies - Copperbelt Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 61,
+      "CreatedAt": "2024-10-02T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "0174085f-2088-1250-1bb4-0087ddedbddd",
+      "Name": "Government ministries - Copperbelt Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 28,
+      "CreatedAt": "2024-03-16T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "05d92ed5-1200-22d2-10aa-00e3e94949a0",
+      "Name": "Public institutions - Central Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 66,
+      "CreatedAt": "2025-02-10T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "00ddc957-0675-1c35-1562-003544740e62",
+      "Name": "Public institutions - Copperbelt Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 50,
+      "CreatedAt": "2024-09-09T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "030a6596-1687-1723-096e-003e621b8451",
+      "Name": "Government ministries - Southern Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 98,
+      "CreatedAt": "2024-01-12T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "009ae2b7-21b2-07fc-243e-0089f6d16805",
+      "Name": "Statutory bodies - Central Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 80,
+      "CreatedAt": "2025-06-09T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "00a6ac70-2572-260c-2042-00b2c088c215",
+      "Name": "Statutory bodies - Central Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 22,
+      "CreatedAt": "2024-08-03T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "01795b27-2209-2395-105b-00a70e35e613",
+      "Name": "Public institutions - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 81,
+      "CreatedAt": "2024-02-12T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "05e07f7d-125b-086f-1ee4-00427a414e3b",
+      "Name": "Statutory bodies - Copperbelt Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 64,
+      "CreatedAt": "2024-11-24T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "03e13b4e-1baf-0f74-1e76-00270f788fe6",
+      "Name": "Public institutions - Central Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 31,
+      "CreatedAt": "2024-06-02T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "00fadc02-0c19-2572-099a-00a629243775",
+      "Name": "Statutory bodies - Southern Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 58,
+      "CreatedAt": "2024-12-19T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "038ea417-1bf7-1246-062c-004384130cfb",
+      "Name": "Public institutions - Southern Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 20,
+      "CreatedAt": "2024-07-02T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "03d33817-18a5-1891-1a13-00e132684009",
+      "Name": "Statutory bodies - Eastern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 46,
+      "CreatedAt": "2023-12-05T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "05395744-054f-066d-12ef-00bb43f4c318",
+      "Name": "Statutory bodies - Eastern Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 24,
+      "CreatedAt": "2024-04-25T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "01ec2ce9-104f-1705-0e1e-00779fda38eb",
+      "Name": "Local authorities - Eastern Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 65,
+      "CreatedAt": "2025-06-03T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "04b5a524-0d83-10b0-09aa-005e35f86805",
+      "Name": "Local authorities - Central Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 82,
+      "CreatedAt": "2024-09-29T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "05705f84-21ec-14f6-18cc-00c9d9a83014",
+      "Name": "Statutory bodies - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 54,
+      "CreatedAt": "2023-12-31T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "00f5257a-1111-2069-0d8d-00adcb85a305",
+      "Name": "Government ministries - Central Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 22,
+      "CreatedAt": "2024-05-28T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z"
+    },
+    {
+      "Id": "02f29139-14fd-1c44-047d-009b5178196a",
+      "Name": "Public institutions - Eastern Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 83,
+      "CreatedAt": "2025-08-21T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "0367543b-1cce-0a6d-108f-00e3eadf6dd3",
+      "Name": "Government ministries - Southern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 82,
+      "CreatedAt": "2025-05-11T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "04e9d06e-1881-11cd-159f-00e039387bc9",
+      "Name": "Local authorities - Southern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 46,
+      "CreatedAt": "2024-03-12T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "01aecc5a-2686-08b0-2513-0065c147db7c",
+      "Name": "Public institutions - Central Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 84,
+      "CreatedAt": "2024-01-15T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "015d07bb-0611-25be-1e94-0032a840873f",
+      "Name": "Government ministries - Southern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 21,
+      "CreatedAt": "2024-05-19T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "04419abe-1ccb-1b14-1030-0086174540e6",
+      "Name": "Public institutions - Copperbelt Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 40,
+      "CreatedAt": "2025-04-10T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "05c08594-1c6e-1d1c-0895-0045e31b6d2d",
+      "Name": "Local authorities - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 84,
+      "CreatedAt": "2024-04-13T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "02fc3114-261b-0b0d-0b5e-00cefdbd7885",
+      "Name": "Government ministries - Copperbelt Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 68,
+      "CreatedAt": "2024-08-15T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "055970ef-245c-1f4a-26c8-0035c515b0d8",
+      "Name": "Statutory bodies - Eastern Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 24,
+      "CreatedAt": "2024-02-13T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "040048e0-0b58-1fb3-04ef-002b50c4553d",
+      "Name": "Government ministries - Eastern Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 96,
+      "CreatedAt": "2025-06-20T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "0310cd6d-26a2-1080-05cc-00e7ea46ff49",
+      "Name": "Public institutions - Eastern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2024-02-17T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "037cd65a-0e3e-24a3-087d-00e656123d26",
+      "Name": "Public institutions - Copperbelt Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 52,
+      "CreatedAt": "2024-04-22T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "04040b38-0b60-1cd1-2654-003d856c4c0f",
+      "Name": "Government ministries - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 27,
+      "CreatedAt": "2023-12-21T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "049ce131-0ff3-077c-204a-0069532d87d6",
+      "Name": "Local authorities - Central Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49,
+      "CreatedAt": "2024-12-08T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "05a5999b-1a54-0ec3-26bd-002889422c6d",
+      "Name": "Public institutions - Central Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 95,
+      "CreatedAt": "2024-07-17T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z"
+    },
+    {
+      "Id": "05a2bc8d-22ed-24c1-0d7c-00d19e9fe104",
+      "Name": "Local authorities - Eastern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 85,
+      "CreatedAt": "2025-09-30T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "011cee34-0560-06b6-1a0c-00b7bec76902",
+      "Name": "Public institutions - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 92,
+      "CreatedAt": "2025-04-22T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "050fe0be-08d8-1616-0ff3-00bdfe017ece",
+      "Name": "Statutory bodies - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 78,
+      "CreatedAt": "2025-01-12T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "0475bf50-1a23-0e1b-16ab-00779a00751b",
+      "Name": "Local authorities - Eastern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 85,
+      "CreatedAt": "2024-01-25T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "0395bebb-17e9-06f5-0b22-00439228cb35",
+      "Name": "Government ministries - Central Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 41,
+      "CreatedAt": "2024-11-23T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "04971b58-0afc-1b59-09bb-00a1ff38850d",
+      "Name": "Government ministries - Central Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 94,
+      "CreatedAt": "2023-12-26T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "0156c3d6-2510-2055-07e9-005b135cfbf0",
+      "Name": "Statutory bodies - Copperbelt Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 39,
+      "CreatedAt": "2023-12-15T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "04052817-1871-09c2-22bf-00e625033585",
+      "Name": "Public institutions - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 62,
+      "CreatedAt": "2024-09-12T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "043e00a2-236d-1af9-0c46-00bbb659a160",
+      "Name": "Government ministries - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 87,
+      "CreatedAt": "2025-04-30T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "00d99a9a-0592-0b58-0a7e-00490df395ef",
+      "Name": "Government ministries - Southern Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 90,
+      "CreatedAt": "2024-09-20T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "016ba278-12f9-049e-0677-007f581cb1bc",
+      "Name": "Public institutions - Central Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 83,
+      "CreatedAt": "2024-04-11T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "053c2d13-1a61-1568-1cb7-0094e18387f1",
+      "Name": "Public institutions - Eastern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 33,
+      "CreatedAt": "2024-09-23T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "03323206-056e-1682-0971-00417f79f599",
+      "Name": "Local authorities - Copperbelt Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 31,
+      "CreatedAt": "2025-03-17T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "01484ab0-1d4b-0b91-1286-001c76651113",
+      "Name": "Government ministries - Central Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 28,
+      "CreatedAt": "2024-04-06T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "03e09681-1207-25eb-237d-00c33dec5350",
+      "Name": "Government ministries - Central Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 64,
+      "CreatedAt": "2023-12-15T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "00b4459e-1420-265f-0401-00818df706bf",
+      "Name": "Statutory bodies - Central Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2024-01-20T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z"
+    },
+    {
+      "Id": "04d92c0d-1694-09d2-09e3-00dab2414011",
+      "Name": "Public institutions - Copperbelt Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 68,
+      "CreatedAt": "2025-10-04T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "039dccad-23bf-1d8a-184a-00531a7eb539",
+      "Name": "Statutory bodies - Copperbelt Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 61,
+      "CreatedAt": "2024-10-02T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-9091",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial irregularities",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 44
+        },
+        {
+          "Name": "Misappropriation",
+          "Severity": "Critical",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0174085f-2088-1250-1bb4-0087ddedbddd",
+      "Name": "Government ministries - Copperbelt Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 28,
+      "CreatedAt": "2024-03-16T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2025-2207",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Misappropriation",
+          "Severity": "Medium",
+          "Score": 21
+        },
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d92ed5-1200-22d2-10aa-00e3e94949a0",
+      "Name": "Public institutions - Central Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 66,
+      "CreatedAt": "2025-02-10T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-1294",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial irregularities",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Audit findings",
+          "Severity": "Low",
+          "Score": 43
+        },
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Critical",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00ddc957-0675-1c35-1562-003544740e62",
+      "Name": "Public institutions - Copperbelt Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 50,
+      "CreatedAt": "2024-09-09T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2024-8389",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "audit findings",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Critical",
+          "Score": 31
+        },
+        {
+          "Name": "Misappropriation",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "030a6596-1687-1723-096e-003e621b8451",
+      "Name": "Government ministries - Southern Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 98,
+      "CreatedAt": "2024-01-12T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2025-9255",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "audit findings",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Medium",
+          "Score": 34
+        },
+        {
+          "Name": "Misappropriation",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "009ae2b7-21b2-07fc-243e-0089f6d16805",
+      "Name": "Statutory bodies - Central Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 80,
+      "CreatedAt": "2025-06-09T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2024-7596",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Central Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Low",
+          "Score": 22
+        },
+        {
+          "Name": "Audit findings",
+          "Severity": "Critical",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a6ac70-2572-260c-2042-00b2c088c215",
+      "Name": "Statutory bodies - Central Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 22,
+      "CreatedAt": "2024-08-03T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2026-4196",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Medium",
+          "Score": 31
+        },
+        {
+          "Name": "Financial irregularities",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01795b27-2209-2395-105b-00a70e35e613",
+      "Name": "Public institutions - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 81,
+      "CreatedAt": "2024-02-12T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-4230",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "audit findings",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Central Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "High",
+          "Score": 29
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05e07f7d-125b-086f-1ee4-00427a414e3b",
+      "Name": "Statutory bodies - Copperbelt Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 64,
+      "CreatedAt": "2024-11-24T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2021-4854",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Misappropriation",
+          "Severity": "Medium",
+          "Score": 37
+        },
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Medium",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03e13b4e-1baf-0f74-1e76-00270f788fe6",
+      "Name": "Public institutions - Central Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 31,
+      "CreatedAt": "2024-06-02T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2026-6234",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "audit findings",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Misappropriation",
+          "Severity": "Medium",
+          "Score": 16
+        },
+        {
+          "Name": "Financial irregularities",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00fadc02-0c19-2572-099a-00a629243775",
+      "Name": "Statutory bodies - Southern Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 58,
+      "CreatedAt": "2024-12-19T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2022-1301",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Central Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Medium",
+          "Score": 36
+        },
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "038ea417-1bf7-1246-062c-004384130cfb",
+      "Name": "Public institutions - Southern Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 20,
+      "CreatedAt": "2024-07-02T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-2814",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "procurement fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Audit findings",
+          "Severity": "High",
+          "Score": 26
+        },
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03d33817-18a5-1891-1a13-00e132684009",
+      "Name": "Statutory bodies - Eastern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 46,
+      "CreatedAt": "2023-12-05T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2022-9482",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Central Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Low",
+          "Score": 35
+        },
+        {
+          "Name": "Misappropriation",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05395744-054f-066d-12ef-00bb43f4c318",
+      "Name": "Statutory bodies - Eastern Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 24,
+      "CreatedAt": "2024-04-25T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2020-9910",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Audit findings",
+          "Severity": "Critical",
+          "Score": 30
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "Medium",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01ec2ce9-104f-1705-0e1e-00779fda38eb",
+      "Name": "Local authorities - Eastern Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 65,
+      "CreatedAt": "2025-06-03T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2021-1930",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial irregularities",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Misappropriation",
+          "Severity": "Critical",
+          "Score": 29
+        },
+        {
+          "Name": "Misappropriation",
+          "Severity": "High",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04b5a524-0d83-10b0-09aa-005e35f86805",
+      "Name": "Local authorities - Central Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 82,
+      "CreatedAt": "2024-09-29T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2024-2268",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Central Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Procurement fraud",
+          "Severity": "High",
+          "Score": 38
+        },
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05705f84-21ec-14f6-18cc-00c9d9a83014",
+      "Name": "Statutory bodies - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 54,
+      "CreatedAt": "2023-12-31T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2026-9239",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Central Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Audit findings",
+          "Severity": "Medium",
+          "Score": 19
+        },
+        {
+          "Name": "Audit findings",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00f5257a-1111-2069-0d8d-00adcb85a305",
+      "Name": "Government ministries - Central Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 22,
+      "CreatedAt": "2024-05-28T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-4035",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "High",
+          "Score": 22
+        },
+        {
+          "Name": "Misappropriation",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f29139-14fd-1c44-047d-009b5178196a",
+      "Name": "Public institutions - Eastern Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 83,
+      "CreatedAt": "2025-08-21T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2024-9785",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "procurement fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 22
+        },
+        {
+          "Name": "Audit findings",
+          "Severity": "Medium",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0367543b-1cce-0a6d-108f-00e3eadf6dd3",
+      "Name": "Government ministries - Southern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 82,
+      "CreatedAt": "2025-05-11T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-6041",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "procurement fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Central Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Critical",
+          "Score": 12
+        },
+        {
+          "Name": "Audit findings",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04e9d06e-1881-11cd-159f-00e039387bc9",
+      "Name": "Local authorities - Southern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 46,
+      "CreatedAt": "2024-03-12T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-7591",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Low",
+          "Score": 41
+        },
+        {
+          "Name": "Audit findings",
+          "Severity": "High",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01aecc5a-2686-08b0-2513-0065c147db7c",
+      "Name": "Public institutions - Central Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 84,
+      "CreatedAt": "2024-01-15T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2020-6155",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Central Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Audit findings",
+          "Severity": "High",
+          "Score": 18
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "015d07bb-0611-25be-1e94-0032a840873f",
+      "Name": "Government ministries - Southern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 21,
+      "CreatedAt": "2024-05-19T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2024-3454",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial irregularities",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Audit findings",
+          "Severity": "Medium",
+          "Score": 25
+        },
+        {
+          "Name": "Audit findings",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04419abe-1ccb-1b14-1030-0086174540e6",
+      "Name": "Public institutions - Copperbelt Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 40,
+      "CreatedAt": "2025-04-10T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2024-6524",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Audit findings",
+          "Severity": "High",
+          "Score": 20
+        },
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05c08594-1c6e-1d1c-0895-0045e31b6d2d",
+      "Name": "Local authorities - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 84,
+      "CreatedAt": "2024-04-13T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-6552",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial irregularities",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial irregularities",
+          "Severity": "High",
+          "Score": 25
+        },
+        {
+          "Name": "Misappropriation",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02fc3114-261b-0b0d-0b5e-00cefdbd7885",
+      "Name": "Government ministries - Copperbelt Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 68,
+      "CreatedAt": "2024-08-15T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2021-1444",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 42
+        },
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "055970ef-245c-1f4a-26c8-0035c515b0d8",
+      "Name": "Statutory bodies - Eastern Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 24,
+      "CreatedAt": "2024-02-13T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-5166",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Misappropriation",
+          "Severity": "High",
+          "Score": 38
+        },
+        {
+          "Name": "Audit findings",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "040048e0-0b58-1fb3-04ef-002b50c4553d",
+      "Name": "Government ministries - Eastern Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 96,
+      "CreatedAt": "2025-06-20T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2025-9287",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "procurement fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Audit findings",
+          "Severity": "Critical",
+          "Score": 37
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0310cd6d-26a2-1080-05cc-00e7ea46ff49",
+      "Name": "Public institutions - Eastern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2024-02-17T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2021-6170",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "audit findings",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 45
+        },
+        {
+          "Name": "Misappropriation",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "037cd65a-0e3e-24a3-087d-00e656123d26",
+      "Name": "Public institutions - Copperbelt Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 52,
+      "CreatedAt": "2024-04-22T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-3787",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "audit findings",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "High",
+          "Score": 41
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04040b38-0b60-1cd1-2654-003d856c4c0f",
+      "Name": "Government ministries - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 27,
+      "CreatedAt": "2023-12-21T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-6195",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Central Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Audit findings",
+          "Severity": "Critical",
+          "Score": 32
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "049ce131-0ff3-077c-204a-0069532d87d6",
+      "Name": "Local authorities - Central Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49,
+      "CreatedAt": "2024-12-08T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2026-5107",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "procurement fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Medium",
+          "Score": 12
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05a5999b-1a54-0ec3-26bd-002889422c6d",
+      "Name": "Public institutions - Central Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 95,
+      "CreatedAt": "2024-07-17T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2022-5052",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "audit findings",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Medium",
+          "Score": 21
+        },
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Medium",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05a2bc8d-22ed-24c1-0d7c-00d19e9fe104",
+      "Name": "Local authorities - Eastern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 85,
+      "CreatedAt": "2025-09-30T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2020-9806",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 29
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "011cee34-0560-06b6-1a0c-00b7bec76902",
+      "Name": "Public institutions - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 92,
+      "CreatedAt": "2025-04-22T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2025-3396",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Misappropriation",
+          "Severity": "Low",
+          "Score": 13
+        },
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "050fe0be-08d8-1616-0ff3-00bdfe017ece",
+      "Name": "Statutory bodies - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 78,
+      "CreatedAt": "2025-01-12T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2025-4122",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Low",
+          "Score": 25
+        },
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Medium",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0475bf50-1a23-0e1b-16ab-00779a00751b",
+      "Name": "Local authorities - Eastern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 85,
+      "CreatedAt": "2024-01-25T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2026-3611",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Critical",
+          "Score": 44
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0395bebb-17e9-06f5-0b22-00439228cb35",
+      "Name": "Government ministries - Central Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 41,
+      "CreatedAt": "2024-11-23T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2025-2394",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Central Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Critical",
+          "Score": 28
+        },
+        {
+          "Name": "Misappropriation",
+          "Severity": "High",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04971b58-0afc-1b59-09bb-00a1ff38850d",
+      "Name": "Government ministries - Central Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 94,
+      "CreatedAt": "2023-12-26T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2026-5961",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Misappropriation",
+          "Severity": "Low",
+          "Score": 34
+        },
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0156c3d6-2510-2055-07e9-005b135cfbf0",
+      "Name": "Statutory bodies - Copperbelt Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 39,
+      "CreatedAt": "2023-12-15T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2025-6102",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Audit findings",
+          "Severity": "Medium",
+          "Score": 17
+        },
+        {
+          "Name": "Audit findings",
+          "Severity": "Medium",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04052817-1871-09c2-22bf-00e625033585",
+      "Name": "Public institutions - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 62,
+      "CreatedAt": "2024-09-12T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-9400",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "audit findings",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Audit findings",
+          "Severity": "Low",
+          "Score": 40
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "High",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "043e00a2-236d-1af9-0c46-00bbb659a160",
+      "Name": "Government ministries - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 87,
+      "CreatedAt": "2025-04-30T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-5797",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "procurement fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Critical",
+          "Score": 20
+        },
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00d99a9a-0592-0b58-0a7e-00490df395ef",
+      "Name": "Government ministries - Southern Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 90,
+      "CreatedAt": "2024-09-20T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2026-2942",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "procurement fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Critical",
+          "Score": 27
+        },
+        {
+          "Name": "Audit findings",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "016ba278-12f9-049e-0677-007f581cb1bc",
+      "Name": "Public institutions - Central Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 83,
+      "CreatedAt": "2024-04-11T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2021-6696",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "procurement fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Central Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 37
+        },
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Critical",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "053c2d13-1a61-1568-1cb7-0094e18387f1",
+      "Name": "Public institutions - Eastern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 33,
+      "CreatedAt": "2024-09-23T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2026-6173",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "audit findings",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Audit findings",
+          "Severity": "High",
+          "Score": 13
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03323206-056e-1682-0971-00417f79f599",
+      "Name": "Local authorities - Copperbelt Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 31,
+      "CreatedAt": "2025-03-17T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2026-6955",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "procurement fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Central Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Low",
+          "Score": 25
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "High",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01484ab0-1d4b-0b91-1286-001c76651113",
+      "Name": "Government ministries - Central Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 28,
+      "CreatedAt": "2024-04-06T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2024-6511",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "misappropriation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Central Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Misappropriation",
+          "Severity": "Critical",
+          "Score": 29
+        },
+        {
+          "Name": "Audit findings",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03e09681-1207-25eb-237d-00c33dec5350",
+      "Name": "Government ministries - Central Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 64,
+      "CreatedAt": "2023-12-15T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2021-5575",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "procurement fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Medium",
+          "Score": 42
+        },
+        {
+          "Name": "Audit findings",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00b4459e-1420-265f-0401-00818df706bf",
+      "Name": "Statutory bodies - Central Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2024-01-20T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2026-2416",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "procurement fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Misappropriation",
+          "Severity": "Low",
+          "Score": 44
+        },
+        {
+          "Name": "Financial irregularities",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04d92c0d-1694-09d2-09e3-00dab2414011",
+      "Name": "Public institutions - Copperbelt Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 68,
+      "CreatedAt": "2025-10-04T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "OFF-2023-9729",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Office of the Auditor General",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Procurement fraud",
+          "Severity": "Critical",
+          "Score": 13
+        },
+        {
+          "Name": "Financial irregularities",
+          "Severity": "Medium",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    }
+  ]
+}

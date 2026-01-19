@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "04305cdc-0525-0c1e-1191-003506bf6c47",
+      "Name": "Security threats - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 28,
+      "CreatedAt": "2024-08-18T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "02c2d0c5-2235-0f90-1b94-005173427d83",
+      "Name": "Foreign entities - Nakonde",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 34,
+      "CreatedAt": "2025-09-08T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "05e5f066-19a6-14e3-0a46-00b840730eef",
+      "Name": "Intelligence targets - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 39,
+      "CreatedAt": "2023-11-21T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "0168e1e8-1516-06d6-2124-00db2d2ccb9b",
+      "Name": "Intelligence targets - border regions",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 55,
+      "CreatedAt": "2024-12-24T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "02caab62-2222-19be-09be-00c4f26eea84",
+      "Name": "Persons of interest - Nakonde",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 24,
+      "CreatedAt": "2025-07-28T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "0557aa97-19da-22e0-0498-0048b6c24653",
+      "Name": "Intelligence targets - border regions",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 60,
+      "CreatedAt": "2024-09-04T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "01e8e96a-2072-1af4-2350-007321c14d5b",
+      "Name": "Foreign entities - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 24,
+      "CreatedAt": "2025-05-02T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "053f5ecd-0ebc-12c4-15e0-008aa8e22d2c",
+      "Name": "Persons of interest - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 82,
+      "CreatedAt": "2025-07-03T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "0144feef-0404-169f-0875-005096c46951",
+      "Name": "Security threats - border regions",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 99,
+      "CreatedAt": "2025-08-15T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "054795ef-05e1-151f-1919-0063e95b7155",
+      "Name": "Intelligence targets - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 33,
+      "CreatedAt": "2025-06-16T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z"
+    },
+    {
+      "Id": "0180c2a2-1fda-10f2-250a-002ab02333ab",
+      "Name": "Intelligence targets - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 61,
+      "CreatedAt": "2024-07-09T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "05f3662c-073a-1645-23a1-006593841797",
+      "Name": "Persons of interest - Nakonde",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 72,
+      "CreatedAt": "2025-04-01T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "0434d974-0f5a-1b0f-166f-00d7bafc22f8",
+      "Name": "Intelligence targets - Nakonde",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 90,
+      "CreatedAt": "2024-01-07T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "01501f98-0dbf-0dad-063d-0042893761a9",
+      "Name": "Foreign entities - Copperbelt",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 77,
+      "CreatedAt": "2025-02-19T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "01280a3a-0e8c-1efe-10dc-00c636cf6fb4",
+      "Name": "Security threats - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 25,
+      "CreatedAt": "2025-09-20T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "00ea5f71-04ad-2245-2267-0058243843a0",
+      "Name": "Foreign entities - border regions",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 88,
+      "CreatedAt": "2025-02-11T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "03aef065-1d85-1d31-1f80-00d8622b3967",
+      "Name": "Foreign entities - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 35,
+      "CreatedAt": "2024-07-27T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "0380957b-1a32-185b-24fe-0049e43ed335",
+      "Name": "Foreign entities - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2025-09-15T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "0262a1e9-1679-237b-25f5-00dd09902e47",
+      "Name": "Security threats - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 40,
+      "CreatedAt": "2025-05-07T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "03a422e8-1e25-1e39-0b39-00286feb4c86",
+      "Name": "Intelligence targets - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2024-05-25T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "02002198-1843-12be-0a3c-0048de597b47",
+      "Name": "Security threats - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2023-12-15T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z"
+    },
+    {
+      "Id": "04277e0e-1374-1d6a-244d-00ab9e203dca",
+      "Name": "Security threats - border regions",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 70,
+      "CreatedAt": "2024-07-28T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "049c1f06-0ab2-1e73-1a8c-00c3c3f6a45e",
+      "Name": "Persons of interest - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 22,
+      "CreatedAt": "2025-07-31T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "03d1ff0f-1af7-0c8f-0790-00d890bbb4bd",
+      "Name": "Security threats - Copperbelt",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 78,
+      "CreatedAt": "2023-11-19T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "01b365a5-0536-14d7-20da-009dbf1a427d",
+      "Name": "Foreign entities - border regions",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 27,
+      "CreatedAt": "2024-03-12T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "009aa306-0a8d-211a-1616-0036595b6f5f",
+      "Name": "Foreign entities - Nakonde",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 53,
+      "CreatedAt": "2024-04-30T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "05c1213d-25af-2020-22ca-0025f6046273",
+      "Name": "Foreign entities - Livingstone",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 54,
+      "CreatedAt": "2025-03-11T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "04eb9c45-21b1-1e13-2496-005b43e68581",
+      "Name": "Foreign entities - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 24,
+      "CreatedAt": "2025-04-18T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "05331052-0aa5-0a19-0af7-006c38ef2c43",
+      "Name": "Intelligence targets - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 71,
+      "CreatedAt": "2024-02-29T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "040711d1-1201-1b4f-1a05-00697d3ff3a6",
+      "Name": "Foreign entities - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 98,
+      "CreatedAt": "2024-05-31T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "055e47d8-1b2f-1fd5-0dbe-00b880429ad6",
+      "Name": "Foreign entities - border regions",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 54,
+      "CreatedAt": "2024-04-05T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "02fdda28-0988-1d73-07d5-004a856d952b",
+      "Name": "Persons of interest - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 52,
+      "CreatedAt": "2024-11-19T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "00e04a88-09da-08d3-0946-00d91b73ada1",
+      "Name": "Security threats - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 91,
+      "CreatedAt": "2025-07-24T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "055b4f8c-0663-1a30-26d1-001de89bc58a",
+      "Name": "Intelligence targets - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 82,
+      "CreatedAt": "2024-10-22T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "011cb796-2076-0b42-131d-002e4079156b",
+      "Name": "Persons of interest - Nakonde",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 28,
+      "CreatedAt": "2024-07-08T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "027357c0-0581-09bd-0f38-00af028c1624",
+      "Name": "Security threats - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 25,
+      "CreatedAt": "2024-04-11T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "00a74c6f-242f-155b-0933-006e7c5d48b4",
+      "Name": "Foreign entities - border regions",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 89,
+      "CreatedAt": "2024-09-30T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "01508fd7-2702-1c20-14d1-00503a097e81",
+      "Name": "Security threats - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 24,
+      "CreatedAt": "2024-02-01T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "01e9ce22-05cc-20ac-1660-00a1a44941e9",
+      "Name": "Foreign entities - Copperbelt",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 66,
+      "CreatedAt": "2025-02-07T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "0345b2cb-1084-22ff-2385-009f96e4de2a",
+      "Name": "Intelligence targets - Nakonde",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 31,
+      "CreatedAt": "2024-08-30T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "00cd5dcf-211c-1b2e-1f74-002308873972",
+      "Name": "Persons of interest - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 40,
+      "CreatedAt": "2025-02-17T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "04a0172e-1f8b-0ade-08bf-001e627f1193",
+      "Name": "Foreign entities - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 66,
+      "CreatedAt": "2024-07-01T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "03615bb2-0bfd-04fd-1bb2-0062a922c4d6",
+      "Name": "Persons of interest - Copperbelt",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 47,
+      "CreatedAt": "2025-05-21T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "0214e7ae-1c1e-12ff-1174-00e40cf98e69",
+      "Name": "Security threats - Copperbelt",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 53,
+      "CreatedAt": "2025-06-29T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "0381a690-118c-11cb-07fc-007cf5666cdf",
+      "Name": "Intelligence targets - Copperbelt",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 53,
+      "CreatedAt": "2024-09-01T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "00edba48-2184-05c9-193b-00bb6d769ca5",
+      "Name": "Security threats - Copperbelt",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 29,
+      "CreatedAt": "2025-07-08T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "03fc4103-04ba-1050-0779-00ab049d37e8",
+      "Name": "Persons of interest - Copperbelt",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 94,
+      "CreatedAt": "2024-01-04T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "04dced6b-24ff-1cfc-2022-009ed43e38fd",
+      "Name": "Foreign entities - Nakonde",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 88,
+      "CreatedAt": "2024-10-30T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "0125afcb-094f-1573-1105-00d9ba8c98d2",
+      "Name": "Intelligence targets - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 81,
+      "CreatedAt": "2024-02-04T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "054faa53-0be7-1733-26ee-005dbf7657fe",
+      "Name": "Intelligence targets - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 69,
+      "CreatedAt": "2024-05-05T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "04305cdc-0525-0c1e-1191-003506bf6c47",
+      "Name": "Security threats - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 28,
+      "CreatedAt": "2024-08-18T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-4053",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "strategic intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Nakonde",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "National security",
+          "Severity": "High",
+          "Score": 21
+        },
+        {
+          "Name": "Surveillance",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02c2d0c5-2235-0f90-1b94-005173427d83",
+      "Name": "Foreign entities - Nakonde",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 34,
+      "CreatedAt": "2025-09-08T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-9301",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "surveillance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Medium",
+          "Score": 19
+        },
+        {
+          "Name": "National security",
+          "Severity": "Critical",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05e5f066-19a6-14e3-0a46-00b840730eef",
+      "Name": "Intelligence targets - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 39,
+      "CreatedAt": "2023-11-21T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-4682",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "threat assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border regions",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Medium",
+          "Score": 45
+        },
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0168e1e8-1516-06d6-2124-00db2d2ccb9b",
+      "Name": "Intelligence targets - border regions",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 55,
+      "CreatedAt": "2024-12-24T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-6680",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "strategic intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Threat assessment",
+          "Severity": "Critical",
+          "Score": 19
+        },
+        {
+          "Name": "Surveillance",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02caab62-2222-19be-09be-00c4f26eea84",
+      "Name": "Persons of interest - Nakonde",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 24,
+      "CreatedAt": "2025-07-28T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-6710",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "strategic intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Low",
+          "Score": 32
+        },
+        {
+          "Name": "Surveillance",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0557aa97-19da-22e0-0498-0048b6c24653",
+      "Name": "Intelligence targets - border regions",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 60,
+      "CreatedAt": "2024-09-04T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-5837",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "surveillance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border regions",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "National security",
+          "Severity": "Low",
+          "Score": 38
+        },
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Medium",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e8e96a-2072-1af4-2350-007321c14d5b",
+      "Name": "Foreign entities - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 24,
+      "CreatedAt": "2025-05-02T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-6443",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "strategic intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Low",
+          "Score": 29
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "053f5ecd-0ebc-12c4-15e0-008aa8e22d2c",
+      "Name": "Persons of interest - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 82,
+      "CreatedAt": "2025-07-03T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-4805",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "national security",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Threat assessment",
+          "Severity": "Medium",
+          "Score": 27
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Critical",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0144feef-0404-169f-0875-005096c46951",
+      "Name": "Security threats - border regions",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 99,
+      "CreatedAt": "2025-08-15T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-2943",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "threat assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Nakonde",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Critical",
+          "Score": 37
+        },
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "054795ef-05e1-151f-1919-0063e95b7155",
+      "Name": "Intelligence targets - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 33,
+      "CreatedAt": "2025-06-16T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-8824",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "strategic intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "High",
+          "Score": 43
+        },
+        {
+          "Name": "Threat assessment",
+          "Severity": "Critical",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0180c2a2-1fda-10f2-250a-002ab02333ab",
+      "Name": "Intelligence targets - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 61,
+      "CreatedAt": "2024-07-09T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-4016",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "strategic intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Threat assessment",
+          "Severity": "Critical",
+          "Score": 23
+        },
+        {
+          "Name": "Surveillance",
+          "Severity": "Medium",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05f3662c-073a-1645-23a1-006593841797",
+      "Name": "Persons of interest - Nakonde",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 72,
+      "CreatedAt": "2025-04-01T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-9388",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "counter-intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Critical",
+          "Score": 14
+        },
+        {
+          "Name": "Surveillance",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0434d974-0f5a-1b0f-166f-00d7bafc22f8",
+      "Name": "Intelligence targets - Nakonde",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 90,
+      "CreatedAt": "2024-01-07T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-6890",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "surveillance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "National security",
+          "Severity": "Medium",
+          "Score": 13
+        },
+        {
+          "Name": "National security",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01501f98-0dbf-0dad-063d-0042893761a9",
+      "Name": "Foreign entities - Copperbelt",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 77,
+      "CreatedAt": "2025-02-19T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-2944",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "strategic intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Critical",
+          "Score": 31
+        },
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01280a3a-0e8c-1efe-10dc-00c636cf6fb4",
+      "Name": "Security threats - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 25,
+      "CreatedAt": "2025-09-20T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-8513",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "counter-intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Threat assessment",
+          "Severity": "Low",
+          "Score": 36
+        },
+        {
+          "Name": "Threat assessment",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00ea5f71-04ad-2245-2267-0058243843a0",
+      "Name": "Foreign entities - border regions",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 88,
+      "CreatedAt": "2025-02-11T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-1600",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "surveillance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border regions",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "National security",
+          "Severity": "High",
+          "Score": 33
+        },
+        {
+          "Name": "Surveillance",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03aef065-1d85-1d31-1f80-00d8622b3967",
+      "Name": "Foreign entities - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 35,
+      "CreatedAt": "2024-07-27T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-7756",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "national security",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Surveillance",
+          "Severity": "Critical",
+          "Score": 27
+        },
+        {
+          "Name": "National security",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0380957b-1a32-185b-24fe-0049e43ed335",
+      "Name": "Foreign entities - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2025-09-15T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-6420",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "counter-intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "High",
+          "Score": 32
+        },
+        {
+          "Name": "Threat assessment",
+          "Severity": "High",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0262a1e9-1679-237b-25f5-00dd09902e47",
+      "Name": "Security threats - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 40,
+      "CreatedAt": "2025-05-07T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-5172",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "threat assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Surveillance",
+          "Severity": "Medium",
+          "Score": 30
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03a422e8-1e25-1e39-0b39-00286feb4c86",
+      "Name": "Intelligence targets - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2024-05-25T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-6558",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "counter-intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Nakonde",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "National security",
+          "Severity": "Critical",
+          "Score": 28
+        },
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02002198-1843-12be-0a3c-0048de597b47",
+      "Name": "Security threats - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2023-12-15T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-4831",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "surveillance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border regions",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Low",
+          "Score": 34
+        },
+        {
+          "Name": "Threat assessment",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04277e0e-1374-1d6a-244d-00ab9e203dca",
+      "Name": "Security threats - border regions",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 70,
+      "CreatedAt": "2024-07-28T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-6863",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "surveillance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border regions",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Surveillance",
+          "Severity": "High",
+          "Score": 45
+        },
+        {
+          "Name": "Threat assessment",
+          "Severity": "High",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "049c1f06-0ab2-1e73-1a8c-00c3c3f6a45e",
+      "Name": "Persons of interest - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 22,
+      "CreatedAt": "2025-07-31T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-8644",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "threat assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Threat assessment",
+          "Severity": "Critical",
+          "Score": 37
+        },
+        {
+          "Name": "National security",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03d1ff0f-1af7-0c8f-0790-00d890bbb4bd",
+      "Name": "Security threats - Copperbelt",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 78,
+      "CreatedAt": "2023-11-19T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-9106",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "national security",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "National security",
+          "Severity": "Low",
+          "Score": 36
+        },
+        {
+          "Name": "National security",
+          "Severity": "Critical",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01b365a5-0536-14d7-20da-009dbf1a427d",
+      "Name": "Foreign entities - border regions",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 27,
+      "CreatedAt": "2024-03-12T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-3279",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "national security",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Threat assessment",
+          "Severity": "Critical",
+          "Score": 18
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "High",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "009aa306-0a8d-211a-1616-0036595b6f5f",
+      "Name": "Foreign entities - Nakonde",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 53,
+      "CreatedAt": "2024-04-30T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-7910",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "threat assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Nakonde",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Threat assessment",
+          "Severity": "Critical",
+          "Score": 43
+        },
+        {
+          "Name": "National security",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05c1213d-25af-2020-22ca-0025f6046273",
+      "Name": "Foreign entities - Livingstone",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 54,
+      "CreatedAt": "2025-03-11T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-2186",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "counter-intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "National security",
+          "Severity": "Critical",
+          "Score": 11
+        },
+        {
+          "Name": "Surveillance",
+          "Severity": "Medium",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04eb9c45-21b1-1e13-2496-005b43e68581",
+      "Name": "Foreign entities - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 24,
+      "CreatedAt": "2025-04-18T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-5631",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "threat assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Threat assessment",
+          "Severity": "Low",
+          "Score": 12
+        },
+        {
+          "Name": "Surveillance",
+          "Severity": "Medium",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05331052-0aa5-0a19-0af7-006c38ef2c43",
+      "Name": "Intelligence targets - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 71,
+      "CreatedAt": "2024-02-29T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-1875",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "counter-intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border regions",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Surveillance",
+          "Severity": "High",
+          "Score": 18
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "040711d1-1201-1b4f-1a05-00697d3ff3a6",
+      "Name": "Foreign entities - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 98,
+      "CreatedAt": "2024-05-31T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-3838",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "counter-intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "National security",
+          "Severity": "Low",
+          "Score": 36
+        },
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "055e47d8-1b2f-1fd5-0dbe-00b880429ad6",
+      "Name": "Foreign entities - border regions",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 54,
+      "CreatedAt": "2024-04-05T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-3910",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "strategic intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Threat assessment",
+          "Severity": "Critical",
+          "Score": 24
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02fdda28-0988-1d73-07d5-004a856d952b",
+      "Name": "Persons of interest - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 52,
+      "CreatedAt": "2024-11-19T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-6315",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "national security",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Medium",
+          "Score": 37
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Critical",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00e04a88-09da-08d3-0946-00d91b73ada1",
+      "Name": "Security threats - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 91,
+      "CreatedAt": "2025-07-24T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-4370",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "threat assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border regions",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "National security",
+          "Severity": "Critical",
+          "Score": 11
+        },
+        {
+          "Name": "National security",
+          "Severity": "Medium",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "055b4f8c-0663-1a30-26d1-001de89bc58a",
+      "Name": "Intelligence targets - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 82,
+      "CreatedAt": "2024-10-22T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-7743",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "national security",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border regions",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Threat assessment",
+          "Severity": "High",
+          "Score": 21
+        },
+        {
+          "Name": "Surveillance",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "011cb796-2076-0b42-131d-002e4079156b",
+      "Name": "Persons of interest - Nakonde",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 28,
+      "CreatedAt": "2024-07-08T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-5767",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "strategic intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Low",
+          "Score": 42
+        },
+        {
+          "Name": "Surveillance",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "027357c0-0581-09bd-0f38-00af028c1624",
+      "Name": "Security threats - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 25,
+      "CreatedAt": "2024-04-11T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-6950",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "counter-intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "High",
+          "Score": 43
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a74c6f-242f-155b-0933-006e7c5d48b4",
+      "Name": "Foreign entities - border regions",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 89,
+      "CreatedAt": "2024-09-30T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-4814",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "counter-intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Critical",
+          "Score": 28
+        },
+        {
+          "Name": "Surveillance",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01508fd7-2702-1c20-14d1-00503a097e81",
+      "Name": "Security threats - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 24,
+      "CreatedAt": "2024-02-01T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-6103",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "counter-intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Medium",
+          "Score": 20
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Medium",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e9ce22-05cc-20ac-1660-00a1a44941e9",
+      "Name": "Foreign entities - Copperbelt",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 66,
+      "CreatedAt": "2025-02-07T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-4160",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "surveillance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Low",
+          "Score": 14
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0345b2cb-1084-22ff-2385-009f96e4de2a",
+      "Name": "Intelligence targets - Nakonde",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 31,
+      "CreatedAt": "2024-08-30T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-1858",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "national security",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "National security",
+          "Severity": "Low",
+          "Score": 33
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00cd5dcf-211c-1b2e-1f74-002308873972",
+      "Name": "Persons of interest - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 40,
+      "CreatedAt": "2025-02-17T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-6662",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "counter-intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border regions",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Surveillance",
+          "Severity": "Medium",
+          "Score": 10
+        },
+        {
+          "Name": "Surveillance",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04a0172e-1f8b-0ade-08bf-001e627f1193",
+      "Name": "Foreign entities - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 66,
+      "CreatedAt": "2024-07-01T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-5403",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "strategic intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "High",
+          "Score": 29
+        },
+        {
+          "Name": "Threat assessment",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03615bb2-0bfd-04fd-1bb2-0062a922c4d6",
+      "Name": "Persons of interest - Copperbelt",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 47,
+      "CreatedAt": "2025-05-21T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-5934",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "national security",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Nakonde",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "National security",
+          "Severity": "Medium",
+          "Score": 30
+        },
+        {
+          "Name": "Threat assessment",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0214e7ae-1c1e-12ff-1174-00e40cf98e69",
+      "Name": "Security threats - Copperbelt",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 53,
+      "CreatedAt": "2025-06-29T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-7199",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "strategic intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border regions",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Medium",
+          "Score": 10
+        },
+        {
+          "Name": "National security",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0381a690-118c-11cb-07fc-007cf5666cdf",
+      "Name": "Intelligence targets - Copperbelt",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 53,
+      "CreatedAt": "2024-09-01T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-2660",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "threat assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border regions",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Medium",
+          "Score": 44
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00edba48-2184-05c9-193b-00bb6d769ca5",
+      "Name": "Security threats - Copperbelt",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 29,
+      "CreatedAt": "2025-07-08T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-2810",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "counter-intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Critical",
+          "Score": 42
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Medium",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03fc4103-04ba-1050-0779-00ab049d37e8",
+      "Name": "Persons of interest - Copperbelt",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 94,
+      "CreatedAt": "2024-01-04T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-7885",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "national security",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Medium",
+          "Score": 44
+        },
+        {
+          "Name": "National security",
+          "Severity": "Medium",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04dced6b-24ff-1cfc-2022-009ed43e38fd",
+      "Name": "Foreign entities - Nakonde",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 88,
+      "CreatedAt": "2024-10-30T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-1456",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "strategic intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "National security",
+          "Severity": "Low",
+          "Score": 19
+        },
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0125afcb-094f-1573-1105-00d9ba8c98d2",
+      "Name": "Intelligence targets - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 81,
+      "CreatedAt": "2024-02-04T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-2720",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "strategic intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Strategic intelligence",
+          "Severity": "Low",
+          "Score": 36
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Critical",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "054faa53-0be7-1733-26ee-005dbf7657fe",
+      "Name": "Intelligence targets - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 69,
+      "CreatedAt": "2024-05-05T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-8144",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "counter-intelligence",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Nakonde",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Intelligence Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "National security",
+          "Severity": "High",
+          "Score": 14
+        },
+        {
+          "Name": "Counter-intelligence",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    }
+  ]
+}

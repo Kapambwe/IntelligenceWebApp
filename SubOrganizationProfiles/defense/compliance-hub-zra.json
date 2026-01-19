@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 318,
+  "ActiveAlerts": 6,
+  "PendingReviews": 5,
+  "ComplianceScore": 65.6,
+  "Alerts": [
+    {
+      "Id": "00bf0858-2549-2675-1e69-006b3bd96e64",
+      "Type": "Logistics",
+      "Severity": "Low",
+      "EntityName": "Security personnel - Livingstone",
+      "Description": "Procurement revealed equipment acquisition involving military units",
+      "DetectedAt": "2025-11-19T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0427ef9f-1d59-08ed-25ab-006bb73d9b4f",
+      "Type": "Security operations",
+      "Severity": "Critical",
+      "EntityName": "Security personnel - Livingstone",
+      "Description": "Procurement revealed equipment acquisition involving suppliers",
+      "DetectedAt": "2025-12-18T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05e9e9de-17b9-1c1e-19bf-00b70c57b845",
+      "Type": "Military procurement",
+      "Severity": "Low",
+      "EntityName": "Military units - Lusaka",
+      "Description": "Procurement revealed security operations involving defense contractors",
+      "DetectedAt": "2025-10-23T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0535c045-122c-26ef-13f0-00182e8a1db6",
+      "Type": "Equipment acquisition",
+      "Severity": "Medium",
+      "EntityName": "Military units - Lusaka",
+      "Description": "Procurement revealed military procurement involving defense contractors",
+      "DetectedAt": "2026-01-05T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0368424d-0601-0e54-0e0d-0052049370ea",
+      "Type": "Defense contracts",
+      "Severity": "Low",
+      "EntityName": "Security personnel - Ndola",
+      "Description": "Training revealed military procurement involving military units",
+      "DetectedAt": "2025-12-18T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00df4ae3-15b8-1ed6-1930-0062cbc3a554",
+      "Type": "Defense contracts",
+      "Severity": "High",
+      "EntityName": "Defense contractors - Kabwe",
+      "Description": "Logistics management revealed logistics involving security personnel",
+      "DetectedAt": "2025-11-18T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "030ed15c-08ed-0468-2327-00236f45d014",
+      "Type": "Defense contracts",
+      "Severity": "High",
+      "EntityName": "Security personnel - Kabwe",
+      "Description": "Procurement revealed equipment acquisition involving suppliers",
+      "DetectedAt": "2026-01-06T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "019772a1-07cf-14fb-20b5-0061cb810fe0",
+      "Type": "Logistics",
+      "Severity": "Low",
+      "EntityName": "Military units - Kabwe",
+      "Description": "Logistics management revealed military procurement involving defense contractors",
+      "DetectedAt": "2025-12-17T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02ebac32-25da-20e7-203e-00595b028944",
+      "Type": "Security operations",
+      "Severity": "Low",
+      "EntityName": "Suppliers - Livingstone",
+      "Description": "Deployment revealed military procurement involving security personnel",
+      "DetectedAt": "2026-01-13T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0451a17d-05f9-1e98-2561-00c950ac38ab",
+      "Type": "Military procurement",
+      "Severity": "Critical",
+      "EntityName": "Suppliers - Lusaka",
+      "Description": "Logistics management revealed defense contracts involving defense contractors",
+      "DetectedAt": "2025-10-26T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01ce836b-146c-1f3e-1f53-00cfa4c827ee",
+      "Type": "Defense contracts",
+      "Severity": "Low",
+      "EntityName": "Suppliers - Lusaka",
+      "Description": "Security assessment revealed logistics involving security personnel",
+      "DetectedAt": "2025-11-23T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0482a58a-0a58-1f36-17fc-0056b8de3934",
+      "Type": "Logistics",
+      "Severity": "High",
+      "EntityName": "Military units - Mumbwa",
+      "Description": "Training revealed defense contracts involving suppliers",
+      "DetectedAt": "2025-11-13T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01014966-1f36-1ccc-1225-00e4a4a50596",
+      "Type": "Defense contracts",
+      "Severity": "High",
+      "EntityName": "Military units - Mumbwa",
+      "Description": "Training revealed equipment acquisition involving security personnel",
+      "DetectedAt": "2025-10-26T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0180dd06-0745-06ac-184f-00da9f303e26",
+      "Type": "Logistics",
+      "Severity": "Medium",
+      "EntityName": "Defense contractors - Mumbwa",
+      "Description": "Training revealed military procurement involving security personnel",
+      "DetectedAt": "2026-01-18T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "048a2032-251b-2508-1432-008b19e18397",
+      "Type": "Military procurement",
+      "Severity": "Medium",
+      "EntityName": "Military units - Ndola",
+      "Description": "Logistics management revealed security operations involving suppliers",
+      "DetectedAt": "2025-10-28T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01d96e22-0624-25dd-1f72-005709abbaa2",
+      "Type": "Logistics",
+      "Severity": "Medium",
+      "EntityName": "Military units - Mumbwa",
+      "Description": "Procurement revealed equipment acquisition involving military units",
+      "DetectedAt": "2025-12-31T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01b14fb7-211a-234c-140a-00d06e2cf09e",
+      "Type": "Equipment acquisition",
+      "Severity": "High",
+      "EntityName": "Military units - Livingstone",
+      "Description": "Logistics management revealed security operations involving security personnel",
+      "DetectedAt": "2026-01-18T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0382008e-11fc-0d5f-0921-00c7aa4de264",
+      "Type": "Defense contracts",
+      "Severity": "Medium",
+      "EntityName": "Security personnel - Kabwe",
+      "Description": "Procurement revealed equipment acquisition involving defense contractors",
+      "DetectedAt": "2025-10-25T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0246cbc9-2378-1a01-0b67-00e8b7481f19",
+      "Type": "Defense contracts",
+      "Severity": "High",
+      "EntityName": "Defense contractors - Mumbwa",
+      "Description": "Training revealed defense contracts involving suppliers",
+      "DetectedAt": "2025-11-16T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "026df621-0ec1-06f7-0cc5-00687f6a38ce",
+      "Type": "Equipment acquisition",
+      "Severity": "Critical",
+      "EntityName": "Security personnel - Livingstone",
+      "Description": "Deployment revealed equipment acquisition involving security personnel",
+      "DetectedAt": "2025-12-27T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03a186b4-189d-20b5-20b1-00d5de1b3990",
+      "Type": "Defense contracts",
+      "Severity": "Low",
+      "EntityName": "Defense contractors - Mumbwa",
+      "Description": "Procurement revealed security operations involving suppliers",
+      "DetectedAt": "2026-01-04T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "048c1936-18e4-1496-1cc7-00a180165377",
+      "Type": "Military procurement",
+      "Severity": "Medium",
+      "EntityName": "Suppliers - Mumbwa",
+      "Description": "Logistics management revealed security operations involving suppliers",
+      "DetectedAt": "2025-11-03T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "013ff8c4-0647-1ee0-079b-003a9d34b2d9",
+      "Type": "Equipment acquisition",
+      "Severity": "Low",
+      "EntityName": "Military units - Livingstone",
+      "Description": "Deployment revealed security operations involving security personnel",
+      "DetectedAt": "2026-01-09T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0133a115-12b8-1ce9-1a79-007fcbbbdc15",
+      "Type": "Military procurement",
+      "Severity": "Critical",
+      "EntityName": "Defense contractors - Livingstone",
+      "Description": "Security assessment revealed military procurement involving security personnel",
+      "DetectedAt": "2026-01-10T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01b2ca47-0c16-0d85-1fea-006031a9120d",
+      "Type": "Equipment acquisition",
+      "Severity": "Critical",
+      "EntityName": "Military units - Mumbwa",
+      "Description": "Security assessment revealed security operations involving military units",
+      "DetectedAt": "2025-11-29T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0213c102-195f-0952-18a0-009858863001",
+      "Type": "Defense contracts",
+      "Severity": "Low",
+      "EntityName": "Security personnel - Mumbwa",
+      "Description": "Security assessment revealed defense contracts involving suppliers",
+      "DetectedAt": "2026-01-18T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02e00a3e-0a7c-1195-12e4-00989034c16b",
+      "Type": "Equipment acquisition",
+      "Severity": "Medium",
+      "EntityName": "Military units - Ndola",
+      "Description": "Training revealed security operations involving suppliers",
+      "DetectedAt": "2025-11-11T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0399aa77-0a54-1794-21d0-00dba29170df",
+      "Type": "Defense contracts",
+      "Severity": "Low",
+      "EntityName": "Suppliers - Mumbwa",
+      "Description": "Security assessment revealed security operations involving suppliers",
+      "DetectedAt": "2025-10-27T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "051b4d82-1c43-0479-165e-003d5bf871eb",
+      "Type": "Military procurement",
+      "Severity": "High",
+      "EntityName": "Military units - Kabwe",
+      "Description": "Training revealed security operations involving defense contractors",
+      "DetectedAt": "2025-12-29T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "027d18aa-0c6a-1188-0e79-002ec17b6c14",
+      "Type": "Logistics",
+      "Severity": "Medium",
+      "EntityName": "Suppliers - Lusaka",
+      "Description": "Training revealed defense contracts involving defense contractors",
+      "DetectedAt": "2026-01-06T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "012e8fa5-0648-1ec5-1b50-005455fb79ce",
+      "Type": "Equipment acquisition",
+      "Severity": "Medium",
+      "EntityName": "Military units - Lusaka",
+      "Description": "Training revealed equipment acquisition involving defense contractors",
+      "DetectedAt": "2026-01-13T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "034deb3d-189f-107d-15f3-003ea70fd343",
+      "Type": "Equipment acquisition",
+      "Severity": "Low",
+      "EntityName": "Defense contractors - Mumbwa",
+      "Description": "Training revealed equipment acquisition involving military units",
+      "DetectedAt": "2026-01-16T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "052edcbb-23aa-07fa-0e48-00bb66bc54e9",
+      "Type": "Military procurement",
+      "Severity": "Low",
+      "EntityName": "Defense contractors - Livingstone",
+      "Description": "Training revealed defense contracts involving suppliers",
+      "DetectedAt": "2026-01-03T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "057be6b0-1035-12e2-0ce3-00935af3886f",
+      "Type": "Logistics",
+      "Severity": "Medium",
+      "EntityName": "Military units - Kabwe",
+      "Description": "Procurement revealed military procurement involving military units",
+      "DetectedAt": "2025-11-11T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0235e890-0b66-198c-2507-0022716e0278",
+      "Type": "Equipment acquisition",
+      "Severity": "Critical",
+      "EntityName": "Suppliers - Kabwe",
+      "Description": "Security assessment revealed military procurement involving suppliers",
+      "DetectedAt": "2025-10-30T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0468a062-18f1-17b1-232c-008c9130e48e",
+      "Type": "Security operations",
+      "Severity": "Critical",
+      "EntityName": "Security personnel - Kabwe",
+      "Description": "Procurement revealed military procurement involving defense contractors",
+      "DetectedAt": "2025-12-18T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04dc72c5-0b32-15d9-1309-00bf87737b9d",
+      "Type": "Equipment acquisition",
+      "Severity": "High",
+      "EntityName": "Military units - Livingstone",
+      "Description": "Training revealed security operations involving defense contractors",
+      "DetectedAt": "2025-12-11T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00b69164-188c-2677-0e0c-00b91c49bdf0",
+      "Type": "Defense contracts",
+      "Severity": "High",
+      "EntityName": "Security personnel - Ndola",
+      "Description": "Deployment revealed equipment acquisition involving suppliers",
+      "DetectedAt": "2025-11-04T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04e6c73f-0fcb-15ec-0c13-007b8d0330a2",
+      "Type": "Logistics",
+      "Severity": "Low",
+      "EntityName": "Security personnel - Kabwe",
+      "Description": "Logistics management revealed defense contracts involving security personnel",
+      "DetectedAt": "2026-01-02T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04248657-0ee8-1e77-1961-0069ffa23e1f",
+      "Type": "Military procurement",
+      "Severity": "Low",
+      "EntityName": "Military units - Mumbwa",
+      "Description": "Security assessment revealed logistics involving military units",
+      "DetectedAt": "2025-11-26T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01b1673c-26f9-1d3a-2102-007b916cd9f0",
+      "Type": "Logistics",
+      "Severity": "High",
+      "EntityName": "Suppliers - Ndola",
+      "Description": "Deployment revealed equipment acquisition involving security personnel",
+      "DetectedAt": "2025-11-25T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05d9be9b-1ac0-254c-188b-0076eae37092",
+      "Type": "Military procurement",
+      "Severity": "High",
+      "EntityName": "Defense contractors - Kabwe",
+      "Description": "Deployment revealed equipment acquisition involving suppliers",
+      "DetectedAt": "2025-12-19T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "059cf3f9-1af3-18fa-14aa-00632cbad00f",
+      "Type": "Military procurement",
+      "Severity": "Medium",
+      "EntityName": "Military units - Mumbwa",
+      "Description": "Security assessment revealed logistics involving suppliers",
+      "DetectedAt": "2025-10-23T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04198e9c-14dc-25a7-18b1-0068c45ce1d4",
+      "Type": "Equipment acquisition",
+      "Severity": "Medium",
+      "EntityName": "Defense contractors - Ndola",
+      "Description": "Logistics management revealed security operations involving suppliers",
+      "DetectedAt": "2026-01-02T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00bf6892-0710-1e5b-1b62-004c6a075739",
+      "Type": "Logistics",
+      "Severity": "Medium",
+      "EntityName": "Military units - Kabwe",
+      "Description": "Logistics management revealed security operations involving military units",
+      "DetectedAt": "2025-12-26T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02da5923-1091-1810-232a-00ce61948140",
+      "Type": "Security operations",
+      "Severity": "Low",
+      "EntityName": "Defense contractors - Kabwe",
+      "Description": "Deployment revealed defense contracts involving defense contractors",
+      "DetectedAt": "2025-12-28T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01cd0deb-265d-1022-1e73-0024f0dc5968",
+      "Type": "Logistics",
+      "Severity": "Medium",
+      "EntityName": "Suppliers - Livingstone",
+      "Description": "Security assessment revealed military procurement involving military units",
+      "DetectedAt": "2025-11-04T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0513589b-1850-03fe-2534-00206122bddb",
+      "Type": "Defense contracts",
+      "Severity": "High",
+      "EntityName": "Defense contractors - Mumbwa",
+      "Description": "Training revealed equipment acquisition involving defense contractors",
+      "DetectedAt": "2026-01-01T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "055a1f69-26c7-19a3-09ea-00e08e093c45",
+      "Type": "Defense contracts",
+      "Severity": "Critical",
+      "EntityName": "Suppliers - Livingstone",
+      "Description": "Deployment revealed equipment acquisition involving suppliers",
+      "DetectedAt": "2025-12-07T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "05ec0084-2172-1e30-04ab-005eda986848",
+      "Type": "Equipment acquisition",
+      "Severity": "Medium",
+      "EntityName": "Suppliers - Livingstone",
+      "Description": "Logistics management revealed security operations involving security personnel",
+      "DetectedAt": "2025-10-31T17:30:30Z",
+      "Status": "Escalated"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 69
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 79
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 79
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 71
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 62
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 76
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 90
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 60
+    }
+  ]
+}

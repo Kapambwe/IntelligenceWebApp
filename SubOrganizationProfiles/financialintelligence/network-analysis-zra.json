@@ -1,0 +1,60 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "Money launderingPath",
+      "Summary": "Identified 5-step pattern linking shell companies to money laundering in Kitwe",
+      "HighlightedNodes": [
+        "053b0dbf-26bb-1c89-1093-005948d70ca8",
+        "04c301cb-19d5-0a6f-1824-00d9fc35d0f0",
+        "01c52aa3-1187-1fba-1bcf-00d33a258e38",
+        "013816a3-0a35-07ed-11bf-001db3f83477",
+        "00c06ddc-1f61-17e0-1590-0045b021ffc6"
+      ]
+    },
+    {
+      "Name": "Suspicious transactionsPath",
+      "Summary": "Identified 6-step pattern linking financial institutions to financial crime in Kitwe",
+      "HighlightedNodes": [
+        "02bab47a-2263-1689-19e9-00d7dda9b0ef",
+        "03bf07c6-2447-1689-1601-00e28747e522",
+        "00e96a1a-1b28-258d-17d7-0049628000f1",
+        "05d8b59b-2625-1d4f-0b27-00803d8d01e1",
+        "043f9cf5-14ee-138c-15f0-0092cdf8c02d",
+        "019a1011-22d2-1860-047d-0071e69e56bc"
+      ]
+    },
+    {
+      "Name": "Money launderingPath",
+      "Summary": "Identified 6-step pattern linking financial institutions to suspicious transactions in Livingstone",
+      "HighlightedNodes": [
+        "02a0941a-1b30-1a66-0998-00e587b1adcb",
+        "03aecd23-0463-0563-06e8-0054f3f7c020",
+        "051bb784-13ce-0585-1ce2-00b609755c1f",
+        "03a9ba6a-14a2-14bf-1f85-004917bb8d4c",
+        "054ad1f1-11a1-239f-07d4-00aa2e8f5c52",
+        "03b1e649-08fd-24b2-0bf1-005050cb4c98"
+      ]
+    },
+    {
+      "Name": "Money launderingPath",
+      "Summary": "Identified 4-step pattern linking suspicious persons to financial crime in Lusaka",
+      "HighlightedNodes": [
+        "035f26e3-0e67-08f0-1347-00403ba4354a",
+        "038e3c0a-04b5-2064-1d3d-008b2e57da06",
+        "048e4a57-257d-21a1-14e5-00ca2e1f3441",
+        "03f84d2a-2157-20f3-1b64-0089f5a7024c"
+      ]
+    },
+    {
+      "Name": "Suspicious transactionsPath",
+      "Summary": "Identified 4-step pattern linking shell companies to suspicious transactions in Chirundu",
+      "HighlightedNodes": [
+        "01b7b956-170b-1046-13f7-0092e6d332f1",
+        "02eabe37-0c83-20e0-1b54-007086ce3ed9",
+        "02f50bb4-1ca2-052f-132f-004c82632c42",
+        "049dc599-1f61-1b8d-1047-00a2c0a5f225"
+      ]
+    }
+  ]
+}

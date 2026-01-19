@@ -1,0 +1,1541 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "05d5f21b-07c9-18dc-16c1-001de7dbc578",
+      "Title": "Zambia Revenue Authority tax audit transfer pricing",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/7656",
+      "PublishedDate": "2025-12-19T17:30:31Z",
+      "PublishedAt": "2025-10-28T17:30:31Z",
+      "DiscoveredAt": "2026-01-01T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Tax audit reveals tax compliance in Kitwe",
+      "RelatedEntities": [
+        "Taxpayers - Nakonde"
+      ],
+      "Entities": [
+        "Taxpayers - Nakonde"
+      ],
+      "Keywords": [
+        "VAT fraud",
+        "transfer pricing",
+        "revenue collection"
+      ],
+      "RelevanceScore": 66.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00d35d3f-1d49-08ef-0bf3-008e420f90b5",
+      "Title": "Zambia Revenue Authority tax audit tax compliance",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/8489",
+      "PublishedDate": "2026-01-18T17:30:31Z",
+      "PublishedAt": "2026-01-07T17:30:31Z",
+      "DiscoveredAt": "2025-11-27T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Investigation reveals customs enforcement in Nakonde",
+      "RelatedEntities": [
+        "Exporters - Chirundu"
+      ],
+      "Entities": [
+        "Exporters - Chirundu"
+      ],
+      "Keywords": [
+        "customs enforcement",
+        "tax compliance",
+        "VAT fraud"
+      ],
+      "RelevanceScore": 85.1,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04617712-2562-170e-1bb1-003945bfad05",
+      "Title": "Zambia Revenue Authority investigation tax compliance",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/4760",
+      "PublishedDate": "2025-10-24T17:30:31Z",
+      "PublishedAt": "2025-11-27T17:30:31Z",
+      "DiscoveredAt": "2025-10-27T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Compliance check reveals VAT fraud in Lusaka",
+      "RelatedEntities": [
+        "Importers - Chirundu"
+      ],
+      "Entities": [
+        "Importers - Chirundu"
+      ],
+      "Keywords": [
+        "customs enforcement",
+        "VAT fraud",
+        "transfer pricing"
+      ],
+      "RelevanceScore": 62.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01b0d62b-1683-0abe-0732-008b14210cb0",
+      "Title": "Zambia Revenue Authority revenue assessment VAT fraud",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/5520",
+      "PublishedDate": "2025-11-15T17:30:31Z",
+      "PublishedAt": "2026-01-14T17:30:31Z",
+      "DiscoveredAt": "2025-12-17T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Compliance check reveals tax compliance in Nakonde",
+      "RelatedEntities": [
+        "Importers - Chirundu"
+      ],
+      "Entities": [
+        "Importers - Chirundu"
+      ],
+      "Keywords": [
+        "tax compliance",
+        "revenue collection",
+        "VAT fraud"
+      ],
+      "RelevanceScore": 90.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "042bf29d-23db-101d-1350-008cb49ea907",
+      "Title": "Zambia Revenue Authority revenue assessment VAT fraud",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/2426",
+      "PublishedDate": "2025-10-25T17:30:31Z",
+      "PublishedAt": "2025-12-10T17:30:31Z",
+      "DiscoveredAt": "2026-01-17T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Compliance check reveals transfer pricing in Kazungula",
+      "RelatedEntities": [
+        "Importers - Chirundu"
+      ],
+      "Entities": [
+        "Importers - Chirundu"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "customs enforcement",
+        "tax compliance"
+      ],
+      "RelevanceScore": 70.9,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0252a53f-15cc-0b7c-0a58-009aedb93b5b",
+      "Title": "Zambia Revenue Authority investigation tax compliance",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/7312",
+      "PublishedDate": "2025-12-24T17:30:31Z",
+      "PublishedAt": "2025-11-20T17:30:31Z",
+      "DiscoveredAt": "2025-11-05T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Tax audit reveals customs enforcement in Kazungula",
+      "RelatedEntities": [
+        "Exporters - Lusaka"
+      ],
+      "Entities": [
+        "Exporters - Lusaka"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "customs enforcement",
+        "VAT fraud"
+      ],
+      "RelevanceScore": 76.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0231cc2d-2433-2672-16de-00c77e662ca8",
+      "Title": "Zambia Revenue Authority investigation transfer pricing",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/2690",
+      "PublishedDate": "2025-11-28T17:30:31Z",
+      "PublishedAt": "2025-11-05T17:30:31Z",
+      "DiscoveredAt": "2025-11-13T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Revenue assessment reveals tax compliance in Kitwe",
+      "RelatedEntities": [
+        "Mining companies - Kitwe"
+      ],
+      "Entities": [
+        "Mining companies - Kitwe"
+      ],
+      "Keywords": [
+        "tax compliance",
+        "customs enforcement",
+        "revenue collection"
+      ],
+      "RelevanceScore": 60.8,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "014a9c4b-25c3-1a31-0789-00ddf9830f57",
+      "Title": "Zambia Revenue Authority tax audit VAT fraud",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/3007",
+      "PublishedDate": "2025-12-26T17:30:31Z",
+      "PublishedAt": "2025-11-24T17:30:31Z",
+      "DiscoveredAt": "2025-12-04T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Investigation reveals revenue collection in Lusaka",
+      "RelatedEntities": [
+        "Importers - Lusaka"
+      ],
+      "Entities": [
+        "Importers - Lusaka"
+      ],
+      "Keywords": [
+        "VAT fraud",
+        "transfer pricing",
+        "revenue collection"
+      ],
+      "RelevanceScore": 71.0,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "011bcf56-160a-0cb8-0432-003d96168173",
+      "Title": "Zambia Revenue Authority investigation tax compliance",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/3043",
+      "PublishedDate": "2026-01-09T17:30:31Z",
+      "PublishedAt": "2026-01-14T17:30:31Z",
+      "DiscoveredAt": "2025-12-13T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Compliance check reveals customs enforcement in Chirundu",
+      "RelatedEntities": [
+        "Exporters - Lusaka"
+      ],
+      "Entities": [
+        "Exporters - Lusaka"
+      ],
+      "Keywords": [
+        "VAT fraud",
+        "transfer pricing",
+        "tax compliance"
+      ],
+      "RelevanceScore": 72.8,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "057b95cf-26b1-1ca0-164d-004c1e3f751d",
+      "Title": "Zambia Revenue Authority investigation transfer pricing",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/7331",
+      "PublishedDate": "2025-11-14T17:30:31Z",
+      "PublishedAt": "2025-11-21T17:30:31Z",
+      "DiscoveredAt": "2025-12-31T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Investigation reveals transfer pricing in Kazungula",
+      "RelatedEntities": [
+        "Mining companies - Lusaka"
+      ],
+      "Entities": [
+        "Mining companies - Lusaka"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "VAT fraud",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 88.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04265f49-1c3c-1dcb-23e2-0085c7faa3f5",
+      "Title": "Zambia Revenue Authority tax audit tax compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/7739",
+      "PublishedDate": "2025-10-29T17:30:31Z",
+      "PublishedAt": "2025-12-05T17:30:31Z",
+      "DiscoveredAt": "2025-10-25T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Tax audit reveals VAT fraud in Kazungula",
+      "RelatedEntities": [
+        "Mining companies - Kazungula"
+      ],
+      "Entities": [
+        "Mining companies - Kazungula"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "VAT fraud",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 83.1,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "040e84ad-094b-114a-2643-007e96087ca2",
+      "Title": "Zambia Revenue Authority revenue assessment revenue collection",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/5528",
+      "PublishedDate": "2025-12-24T17:30:31Z",
+      "PublishedAt": "2025-12-07T17:30:31Z",
+      "DiscoveredAt": "2025-12-27T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Tax audit reveals customs enforcement in Lusaka",
+      "RelatedEntities": [
+        "Mining companies - Kazungula"
+      ],
+      "Entities": [
+        "Mining companies - Kazungula"
+      ],
+      "Keywords": [
+        "tax compliance",
+        "VAT fraud",
+        "transfer pricing"
+      ],
+      "RelevanceScore": 75.8,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0240fd3f-0d05-2541-1e48-003e3e7d7a8a",
+      "Title": "Zambia Revenue Authority tax audit tax compliance",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/5623",
+      "PublishedDate": "2026-01-10T17:30:31Z",
+      "PublishedAt": "2025-12-10T17:30:31Z",
+      "DiscoveredAt": "2025-11-30T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Compliance check reveals transfer pricing in Kazungula",
+      "RelatedEntities": [
+        "Importers - Lusaka"
+      ],
+      "Entities": [
+        "Importers - Lusaka"
+      ],
+      "Keywords": [
+        "VAT fraud",
+        "tax compliance",
+        "transfer pricing"
+      ],
+      "RelevanceScore": 77.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00a01a49-2401-11da-1b65-0057a5597568",
+      "Title": "Zambia Revenue Authority investigation tax compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/9617",
+      "PublishedDate": "2025-12-05T17:30:31Z",
+      "PublishedAt": "2025-11-13T17:30:31Z",
+      "DiscoveredAt": "2025-11-01T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Customs inspection reveals tax compliance in Kazungula",
+      "RelatedEntities": [
+        "Mining companies - Kitwe"
+      ],
+      "Entities": [
+        "Mining companies - Kitwe"
+      ],
+      "Keywords": [
+        "tax compliance",
+        "revenue collection",
+        "transfer pricing"
+      ],
+      "RelevanceScore": 72.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00e168c4-0c91-1462-0b3b-002e108fbbc1",
+      "Title": "Zambia Revenue Authority customs inspection VAT fraud",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/3484",
+      "PublishedDate": "2025-12-02T17:30:31Z",
+      "PublishedAt": "2025-12-30T17:30:31Z",
+      "DiscoveredAt": "2025-12-09T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Compliance check reveals tax compliance in Nakonde",
+      "RelatedEntities": [
+        "Exporters - Kitwe"
+      ],
+      "Entities": [
+        "Exporters - Kitwe"
+      ],
+      "Keywords": [
+        "revenue collection",
+        "tax compliance",
+        "VAT fraud"
+      ],
+      "RelevanceScore": 87.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03873209-0cc5-20ef-1a33-001831445150",
+      "Title": "Zambia Revenue Authority compliance check VAT fraud",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/8810",
+      "PublishedDate": "2025-11-25T17:30:31Z",
+      "PublishedAt": "2026-01-11T17:30:31Z",
+      "DiscoveredAt": "2025-11-27T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Customs inspection reveals customs enforcement in Chirundu",
+      "RelatedEntities": [
+        "Importers - Nakonde"
+      ],
+      "Entities": [
+        "Importers - Nakonde"
+      ],
+      "Keywords": [
+        "revenue collection",
+        "customs enforcement",
+        "transfer pricing"
+      ],
+      "RelevanceScore": 90.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0477b87e-10d7-1b79-128b-0061f6806399",
+      "Title": "Zambia Revenue Authority investigation tax compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/5799",
+      "PublishedDate": "2025-11-30T17:30:31Z",
+      "PublishedAt": "2025-12-18T17:30:31Z",
+      "DiscoveredAt": "2025-12-16T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Compliance check reveals revenue collection in Kitwe",
+      "RelatedEntities": [
+        "Importers - Lusaka"
+      ],
+      "Entities": [
+        "Importers - Lusaka"
+      ],
+      "Keywords": [
+        "revenue collection",
+        "VAT fraud",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 93.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "047e0509-0d25-140f-0aa6-00736d003748",
+      "Title": "Zambia Revenue Authority tax audit VAT fraud",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/1858",
+      "PublishedDate": "2025-10-21T17:30:31Z",
+      "PublishedAt": "2025-11-14T17:30:31Z",
+      "DiscoveredAt": "2025-11-27T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Tax audit reveals tax compliance in Kazungula",
+      "RelatedEntities": [
+        "Mining companies - Kitwe"
+      ],
+      "Entities": [
+        "Mining companies - Kitwe"
+      ],
+      "Keywords": [
+        "revenue collection",
+        "tax compliance",
+        "VAT fraud"
+      ],
+      "RelevanceScore": 61.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "037b95b2-0981-07ad-0c9d-002660146f92",
+      "Title": "Zambia Revenue Authority customs inspection revenue collection",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/3968",
+      "PublishedDate": "2025-11-25T17:30:31Z",
+      "PublishedAt": "2025-11-21T17:30:31Z",
+      "DiscoveredAt": "2025-12-15T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Tax audit reveals revenue collection in Lusaka",
+      "RelatedEntities": [
+        "Taxpayers - Nakonde"
+      ],
+      "Entities": [
+        "Taxpayers - Nakonde"
+      ],
+      "Keywords": [
+        "tax compliance",
+        "customs enforcement",
+        "VAT fraud"
+      ],
+      "RelevanceScore": 86.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0278cc91-1dc1-08bb-243b-00685fa9096b",
+      "Title": "Zambia Revenue Authority revenue assessment revenue collection",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/9967",
+      "PublishedDate": "2025-11-25T17:30:31Z",
+      "PublishedAt": "2026-01-10T17:30:31Z",
+      "DiscoveredAt": "2025-10-22T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Tax audit reveals customs enforcement in Lusaka",
+      "RelatedEntities": [
+        "Taxpayers - Kazungula"
+      ],
+      "Entities": [
+        "Taxpayers - Kazungula"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "revenue collection",
+        "VAT fraud"
+      ],
+      "RelevanceScore": 76.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "024b811c-201d-0564-1145-00c6b4265595",
+      "Title": "Zambia Revenue Authority investigation customs enforcement",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/2356",
+      "PublishedDate": "2025-10-27T17:30:31Z",
+      "PublishedAt": "2025-12-20T17:30:31Z",
+      "DiscoveredAt": "2025-12-17T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Investigation reveals transfer pricing in Kitwe",
+      "RelatedEntities": [
+        "Taxpayers - Nakonde"
+      ],
+      "Entities": [
+        "Taxpayers - Nakonde"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "VAT fraud",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 94.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05c2dccf-2138-0a66-22d8-001da124323b",
+      "Title": "Zambia Revenue Authority investigation VAT fraud",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/8650",
+      "PublishedDate": "2025-12-30T17:30:31Z",
+      "PublishedAt": "2025-11-30T17:30:31Z",
+      "DiscoveredAt": "2026-01-07T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Compliance check reveals transfer pricing in Chirundu",
+      "RelatedEntities": [
+        "Exporters - Nakonde"
+      ],
+      "Entities": [
+        "Exporters - Nakonde"
+      ],
+      "Keywords": [
+        "revenue collection",
+        "transfer pricing",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 94.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05149c21-25d6-1c2a-148c-00b2656634c3",
+      "Title": "Zambia Revenue Authority compliance check transfer pricing",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/8648",
+      "PublishedDate": "2025-11-25T17:30:31Z",
+      "PublishedAt": "2025-12-09T17:30:31Z",
+      "DiscoveredAt": "2025-11-29T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Revenue assessment reveals VAT fraud in Kazungula",
+      "RelatedEntities": [
+        "Importers - Kitwe"
+      ],
+      "Entities": [
+        "Importers - Kitwe"
+      ],
+      "Keywords": [
+        "customs enforcement",
+        "revenue collection",
+        "tax compliance"
+      ],
+      "RelevanceScore": 85.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "043faba6-194f-11ee-194c-0042484b2151",
+      "Title": "Zambia Revenue Authority compliance check tax compliance",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/4031",
+      "PublishedDate": "2025-10-31T17:30:31Z",
+      "PublishedAt": "2025-11-04T17:30:31Z",
+      "DiscoveredAt": "2025-11-01T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Customs inspection reveals tax compliance in Lusaka",
+      "RelatedEntities": [
+        "Importers - Lusaka"
+      ],
+      "Entities": [
+        "Importers - Lusaka"
+      ],
+      "Keywords": [
+        "revenue collection",
+        "VAT fraud",
+        "tax compliance"
+      ],
+      "RelevanceScore": 69.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02d6e172-120a-1483-1b96-002d6064f988",
+      "Title": "Zambia Revenue Authority revenue assessment revenue collection",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/1559",
+      "PublishedDate": "2026-01-07T17:30:31Z",
+      "PublishedAt": "2025-12-21T17:30:31Z",
+      "DiscoveredAt": "2025-11-03T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Customs inspection reveals tax compliance in Chirundu",
+      "RelatedEntities": [
+        "Importers - Chirundu"
+      ],
+      "Entities": [
+        "Importers - Chirundu"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "tax compliance",
+        "revenue collection"
+      ],
+      "RelevanceScore": 94.8,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0394d2c9-0486-06a0-109b-00c7f144e5a3",
+      "Title": "Zambia Revenue Authority revenue assessment tax compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/3588",
+      "PublishedDate": "2025-12-15T17:30:31Z",
+      "PublishedAt": "2025-12-26T17:30:31Z",
+      "DiscoveredAt": "2026-01-06T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Investigation reveals revenue collection in Chirundu",
+      "RelatedEntities": [
+        "Exporters - Lusaka"
+      ],
+      "Entities": [
+        "Exporters - Lusaka"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "customs enforcement",
+        "tax compliance"
+      ],
+      "RelevanceScore": 74.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0300a845-1d48-2121-0875-00dd966ffe32",
+      "Title": "Zambia Revenue Authority investigation tax compliance",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/1354",
+      "PublishedDate": "2026-01-11T17:30:31Z",
+      "PublishedAt": "2025-11-17T17:30:31Z",
+      "DiscoveredAt": "2025-11-19T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Customs inspection reveals tax compliance in Lusaka",
+      "RelatedEntities": [
+        "Mining companies - Nakonde"
+      ],
+      "Entities": [
+        "Mining companies - Nakonde"
+      ],
+      "Keywords": [
+        "customs enforcement",
+        "tax compliance",
+        "VAT fraud"
+      ],
+      "RelevanceScore": 87.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01c6b170-1ec3-1a72-087e-008fde79e2fe",
+      "Title": "Zambia Revenue Authority customs inspection VAT fraud",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/6275",
+      "PublishedDate": "2025-10-22T17:30:31Z",
+      "PublishedAt": "2026-01-18T17:30:31Z",
+      "DiscoveredAt": "2025-11-22T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Investigation reveals tax compliance in Kitwe",
+      "RelatedEntities": [
+        "Exporters - Kitwe"
+      ],
+      "Entities": [
+        "Exporters - Kitwe"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "revenue collection",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 75.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "049ebf74-1ec8-1809-1771-005f4a81fe6a",
+      "Title": "Zambia Revenue Authority compliance check tax compliance",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/7531",
+      "PublishedDate": "2025-12-13T17:30:31Z",
+      "PublishedAt": "2026-01-07T17:30:31Z",
+      "DiscoveredAt": "2025-11-03T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Investigation reveals transfer pricing in Lusaka",
+      "RelatedEntities": [
+        "Importers - Nakonde"
+      ],
+      "Entities": [
+        "Importers - Nakonde"
+      ],
+      "Keywords": [
+        "tax compliance",
+        "transfer pricing",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 64.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0161f21b-1cac-05df-2355-0052ad2854af",
+      "Title": "Zambia Revenue Authority tax audit revenue collection",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/4146",
+      "PublishedDate": "2025-11-01T17:30:31Z",
+      "PublishedAt": "2025-11-12T17:30:31Z",
+      "DiscoveredAt": "2025-12-29T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Customs inspection reveals customs enforcement in Chirundu",
+      "RelatedEntities": [
+        "Exporters - Lusaka"
+      ],
+      "Entities": [
+        "Exporters - Lusaka"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "customs enforcement",
+        "VAT fraud"
+      ],
+      "RelevanceScore": 66.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "029806f0-11db-07dd-1f94-00e810f59347",
+      "Title": "Zambia Revenue Authority investigation revenue collection",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/8481",
+      "PublishedDate": "2025-10-24T17:30:31Z",
+      "PublishedAt": "2025-11-19T17:30:31Z",
+      "DiscoveredAt": "2025-11-19T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Revenue assessment reveals transfer pricing in Kitwe",
+      "RelatedEntities": [
+        "Importers - Kazungula"
+      ],
+      "Entities": [
+        "Importers - Kazungula"
+      ],
+      "Keywords": [
+        "customs enforcement",
+        "VAT fraud",
+        "tax compliance"
+      ],
+      "RelevanceScore": 87.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0457ed8d-238e-1b3c-0a36-00b8eb128763",
+      "Title": "Zambia Revenue Authority compliance check tax compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/2589",
+      "PublishedDate": "2025-11-15T17:30:31Z",
+      "PublishedAt": "2025-11-05T17:30:31Z",
+      "DiscoveredAt": "2025-10-24T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Customs inspection reveals transfer pricing in Lusaka",
+      "RelatedEntities": [
+        "Exporters - Nakonde"
+      ],
+      "Entities": [
+        "Exporters - Nakonde"
+      ],
+      "Keywords": [
+        "VAT fraud",
+        "transfer pricing",
+        "revenue collection"
+      ],
+      "RelevanceScore": 71.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02142037-07c7-0b3b-20fa-0026c6a2670a",
+      "Title": "Zambia Revenue Authority compliance check tax compliance",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/4209",
+      "PublishedDate": "2025-12-25T17:30:31Z",
+      "PublishedAt": "2026-01-01T17:30:31Z",
+      "DiscoveredAt": "2026-01-07T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Customs inspection reveals revenue collection in Nakonde",
+      "RelatedEntities": [
+        "Mining companies - Kazungula"
+      ],
+      "Entities": [
+        "Mining companies - Kazungula"
+      ],
+      "Keywords": [
+        "customs enforcement",
+        "transfer pricing",
+        "revenue collection"
+      ],
+      "RelevanceScore": 82.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "031290d2-2435-2086-26fc-005d129d7f33",
+      "Title": "Zambia Revenue Authority investigation customs enforcement",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/7760",
+      "PublishedDate": "2025-10-29T17:30:31Z",
+      "PublishedAt": "2026-01-06T17:30:31Z",
+      "DiscoveredAt": "2026-01-16T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Revenue assessment reveals transfer pricing in Lusaka",
+      "RelatedEntities": [
+        "Taxpayers - Kazungula"
+      ],
+      "Entities": [
+        "Taxpayers - Kazungula"
+      ],
+      "Keywords": [
+        "VAT fraud",
+        "revenue collection",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 74.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "041c796d-0eaa-1e78-19f1-009d03cef31a",
+      "Title": "Zambia Revenue Authority investigation customs enforcement",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/5422",
+      "PublishedDate": "2025-12-22T17:30:31Z",
+      "PublishedAt": "2026-01-05T17:30:31Z",
+      "DiscoveredAt": "2025-12-11T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Customs inspection reveals VAT fraud in Kazungula",
+      "RelatedEntities": [
+        "Mining companies - Kitwe"
+      ],
+      "Entities": [
+        "Mining companies - Kitwe"
+      ],
+      "Keywords": [
+        "VAT fraud",
+        "revenue collection",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 93.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05125bb0-0437-256d-12ef-00a6b4c57e90",
+      "Title": "Zambia Revenue Authority revenue assessment transfer pricing",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/9708",
+      "PublishedDate": "2026-01-11T17:30:31Z",
+      "PublishedAt": "2025-11-17T17:30:31Z",
+      "DiscoveredAt": "2025-12-23T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Compliance check reveals VAT fraud in Lusaka",
+      "RelatedEntities": [
+        "Mining companies - Kazungula"
+      ],
+      "Entities": [
+        "Mining companies - Kazungula"
+      ],
+      "Keywords": [
+        "tax compliance",
+        "customs enforcement",
+        "revenue collection"
+      ],
+      "RelevanceScore": 83.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05526c90-206c-21eb-19b5-00ad2d91d835",
+      "Title": "Zambia Revenue Authority customs inspection transfer pricing",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/1326",
+      "PublishedDate": "2025-12-31T17:30:31Z",
+      "PublishedAt": "2026-01-16T17:30:31Z",
+      "DiscoveredAt": "2025-11-21T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Customs inspection reveals customs enforcement in Kitwe",
+      "RelatedEntities": [
+        "Taxpayers - Nakonde"
+      ],
+      "Entities": [
+        "Taxpayers - Nakonde"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "revenue collection",
+        "tax compliance"
+      ],
+      "RelevanceScore": 81.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01e36902-1d2d-0ee7-1c70-00348fd0c07e",
+      "Title": "Zambia Revenue Authority revenue assessment VAT fraud",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/7233",
+      "PublishedDate": "2025-12-03T17:30:31Z",
+      "PublishedAt": "2025-12-26T17:30:31Z",
+      "DiscoveredAt": "2025-12-05T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Revenue assessment reveals revenue collection in Kitwe",
+      "RelatedEntities": [
+        "Taxpayers - Kitwe"
+      ],
+      "Entities": [
+        "Taxpayers - Kitwe"
+      ],
+      "Keywords": [
+        "tax compliance",
+        "transfer pricing",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 75.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "053148bc-110b-0a06-1ca5-0040edf9a575",
+      "Title": "Zambia Revenue Authority revenue assessment customs enforcement",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/3535",
+      "PublishedDate": "2025-12-27T17:30:31Z",
+      "PublishedAt": "2025-11-20T17:30:31Z",
+      "DiscoveredAt": "2025-11-14T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Revenue assessment reveals VAT fraud in Kitwe",
+      "RelatedEntities": [
+        "Exporters - Lusaka"
+      ],
+      "Entities": [
+        "Exporters - Lusaka"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "customs enforcement",
+        "VAT fraud"
+      ],
+      "RelevanceScore": 65.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05e851e0-20a2-1601-05ca-00d9d61e5516",
+      "Title": "Zambia Revenue Authority revenue assessment revenue collection",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/3413",
+      "PublishedDate": "2025-12-13T17:30:31Z",
+      "PublishedAt": "2025-11-26T17:30:31Z",
+      "DiscoveredAt": "2026-01-10T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Customs inspection reveals transfer pricing in Lusaka",
+      "RelatedEntities": [
+        "Mining companies - Chirundu"
+      ],
+      "Entities": [
+        "Mining companies - Chirundu"
+      ],
+      "Keywords": [
+        "revenue collection",
+        "VAT fraud",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 74.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "035e602b-10f3-25a4-18b6-001cc2880b3b",
+      "Title": "Zambia Revenue Authority customs inspection VAT fraud",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/6360",
+      "PublishedDate": "2025-12-02T17:30:31Z",
+      "PublishedAt": "2025-11-17T17:30:31Z",
+      "DiscoveredAt": "2025-11-27T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Compliance check reveals customs enforcement in Chirundu",
+      "RelatedEntities": [
+        "Exporters - Kazungula"
+      ],
+      "Entities": [
+        "Exporters - Kazungula"
+      ],
+      "Keywords": [
+        "revenue collection",
+        "VAT fraud",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 83.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0295d04e-1fec-1d13-1d85-005d80adb34e",
+      "Title": "Zambia Revenue Authority compliance check transfer pricing",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/9340",
+      "PublishedDate": "2026-01-06T17:30:31Z",
+      "PublishedAt": "2025-12-22T17:30:31Z",
+      "DiscoveredAt": "2025-11-01T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Investigation reveals revenue collection in Nakonde",
+      "RelatedEntities": [
+        "Exporters - Lusaka"
+      ],
+      "Entities": [
+        "Exporters - Lusaka"
+      ],
+      "Keywords": [
+        "revenue collection",
+        "tax compliance",
+        "transfer pricing"
+      ],
+      "RelevanceScore": 82.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04c69829-0584-1cb2-2334-00a37073daa8",
+      "Title": "Zambia Revenue Authority investigation VAT fraud",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/8733",
+      "PublishedDate": "2025-12-28T17:30:31Z",
+      "PublishedAt": "2025-11-21T17:30:31Z",
+      "DiscoveredAt": "2025-12-26T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Customs inspection reveals customs enforcement in Nakonde",
+      "RelatedEntities": [
+        "Taxpayers - Nakonde"
+      ],
+      "Entities": [
+        "Taxpayers - Nakonde"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "tax compliance",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 82.5,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02b98890-1087-24ed-04a2-00e192d580b4",
+      "Title": "Zambia Revenue Authority revenue assessment VAT fraud",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/1426",
+      "PublishedDate": "2025-12-06T17:30:31Z",
+      "PublishedAt": "2025-11-09T17:30:31Z",
+      "DiscoveredAt": "2026-01-10T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Tax audit reveals transfer pricing in Lusaka",
+      "RelatedEntities": [
+        "Taxpayers - Kazungula"
+      ],
+      "Entities": [
+        "Taxpayers - Kazungula"
+      ],
+      "Keywords": [
+        "customs enforcement",
+        "revenue collection",
+        "transfer pricing"
+      ],
+      "RelevanceScore": 77.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05eba87f-2589-257b-0d08-0030e10efc42",
+      "Title": "Zambia Revenue Authority investigation tax compliance",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/6885",
+      "PublishedDate": "2025-11-18T17:30:31Z",
+      "PublishedAt": "2025-12-27T17:30:31Z",
+      "DiscoveredAt": "2025-11-17T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Investigation reveals VAT fraud in Kitwe",
+      "RelatedEntities": [
+        "Taxpayers - Kazungula"
+      ],
+      "Entities": [
+        "Taxpayers - Kazungula"
+      ],
+      "Keywords": [
+        "VAT fraud",
+        "customs enforcement",
+        "tax compliance"
+      ],
+      "RelevanceScore": 73.7,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "023d0ee4-10ef-0b2b-0b50-008f45e4abb4",
+      "Title": "Zambia Revenue Authority customs inspection revenue collection",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/2432",
+      "PublishedDate": "2025-12-14T17:30:31Z",
+      "PublishedAt": "2025-12-04T17:30:31Z",
+      "DiscoveredAt": "2026-01-16T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Investigation reveals customs enforcement in Lusaka",
+      "RelatedEntities": [
+        "Importers - Lusaka"
+      ],
+      "Entities": [
+        "Importers - Lusaka"
+      ],
+      "Keywords": [
+        "transfer pricing",
+        "tax compliance",
+        "VAT fraud"
+      ],
+      "RelevanceScore": 80.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02070466-08d1-25b5-06c9-008323687470",
+      "Title": "Zambia Revenue Authority customs inspection tax compliance",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/5429",
+      "PublishedDate": "2025-12-27T17:30:31Z",
+      "PublishedAt": "2025-11-16T17:30:31Z",
+      "DiscoveredAt": "2025-12-30T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Investigation reveals transfer pricing in Lusaka",
+      "RelatedEntities": [
+        "Taxpayers - Kazungula"
+      ],
+      "Entities": [
+        "Taxpayers - Kazungula"
+      ],
+      "Keywords": [
+        "revenue collection",
+        "transfer pricing",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 88.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05107fa1-0f0a-157e-0c14-001c494d2065",
+      "Title": "Zambia Revenue Authority investigation revenue collection",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/2373",
+      "PublishedDate": "2025-11-07T17:30:31Z",
+      "PublishedAt": "2025-12-13T17:30:31Z",
+      "DiscoveredAt": "2025-12-23T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Investigation reveals VAT fraud in Lusaka",
+      "RelatedEntities": [
+        "Importers - Kitwe"
+      ],
+      "Entities": [
+        "Importers - Kitwe"
+      ],
+      "Keywords": [
+        "customs enforcement",
+        "revenue collection",
+        "transfer pricing"
+      ],
+      "RelevanceScore": 87.9,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04604cd8-1e69-1444-2127-00a85f3ee7a5",
+      "Title": "Zambia Revenue Authority tax audit VAT fraud",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/4010",
+      "PublishedDate": "2025-11-28T17:30:31Z",
+      "PublishedAt": "2025-12-03T17:30:31Z",
+      "DiscoveredAt": "2025-11-03T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Customs inspection reveals customs enforcement in Lusaka",
+      "RelatedEntities": [
+        "Exporters - Nakonde"
+      ],
+      "Entities": [
+        "Exporters - Nakonde"
+      ],
+      "Keywords": [
+        "tax compliance",
+        "revenue collection",
+        "customs enforcement"
+      ],
+      "RelevanceScore": 74.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0416806d-1a37-195d-12a2-002e24af96f6",
+      "Title": "Zambia Revenue Authority investigation VAT fraud",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/5447",
+      "PublishedDate": "2025-12-06T17:30:31Z",
+      "PublishedAt": "2025-11-30T17:30:31Z",
+      "DiscoveredAt": "2025-12-04T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Customs inspection reveals customs enforcement in Kazungula",
+      "RelatedEntities": [
+        "Taxpayers - Chirundu"
+      ],
+      "Entities": [
+        "Taxpayers - Chirundu"
+      ],
+      "Keywords": [
+        "customs enforcement",
+        "revenue collection",
+        "tax compliance"
+      ],
+      "RelevanceScore": 79.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "0157e4ea-11c7-257f-1e69-0032db541b20",
+      "ArticleId": "0252a53f-15cc-0b7c-0a58-009aedb93b5b",
+      "EntityId": "0204ea6c-2005-20c9-179a-003a294154eb",
+      "EntityName": "Exporters - Lusaka",
+      "AlertReason": "Adverse media on transfer pricing",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-25T17:30:31Z",
+      "TriggeredAt": "2025-11-22T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "03843aaa-24c6-1f8e-15cd-0069a13afb0b",
+      "ArticleId": "0231cc2d-2433-2672-16de-00c77e662ca8",
+      "EntityId": "04162853-09e1-1569-19be-00a66ca152ce",
+      "EntityName": "Mining companies - Kitwe",
+      "AlertReason": "Adverse media on tax compliance",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-05T17:30:31Z",
+      "TriggeredAt": "2025-11-13T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "013b4a5a-1c6d-1d31-0b2a-0088fef57c2b",
+      "ArticleId": "04265f49-1c3c-1dcb-23e2-0085c7faa3f5",
+      "EntityId": "052bf329-0ae3-14eb-1872-00c49a85128b",
+      "EntityName": "Mining companies - Kazungula",
+      "AlertReason": "Adverse media on transfer pricing",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-16T17:30:31Z",
+      "TriggeredAt": "2025-12-28T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02093a31-1525-1a26-0593-004ffe3170c4",
+      "ArticleId": "0240fd3f-0d05-2541-1e48-003e3e7d7a8a",
+      "EntityId": "05edb1ac-1d4e-1f72-049a-001a8709af71",
+      "EntityName": "Importers - Lusaka",
+      "AlertReason": "Adverse media on revenue collection",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-23T17:30:31Z",
+      "TriggeredAt": "2025-12-09T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "015a5929-1369-1442-2136-008654b2424d",
+      "ArticleId": "03873209-0cc5-20ef-1a33-001831445150",
+      "EntityId": "0226c82c-0fdd-1689-1998-0093252d6040",
+      "EntityName": "Importers - Nakonde",
+      "AlertReason": "Adverse media on tax compliance",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-04T17:30:31Z",
+      "TriggeredAt": "2025-11-11T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "024ec715-1793-2593-142e-00a6b0b5c169",
+      "ArticleId": "047e0509-0d25-140f-0aa6-00736d003748",
+      "EntityId": "0449dd92-1c13-148e-1fa3-00c56074be35",
+      "EntityName": "Mining companies - Kitwe",
+      "AlertReason": "Adverse media on revenue collection",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-05T17:30:31Z",
+      "TriggeredAt": "2025-10-27T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0471024a-1e1a-08be-2160-00415084ecc6",
+      "ArticleId": "0278cc91-1dc1-08bb-243b-00685fa9096b",
+      "EntityId": "0570be57-05ce-054e-1cfa-002a0b4f20a4",
+      "EntityName": "Taxpayers - Kazungula",
+      "AlertReason": "Adverse media on transfer pricing",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-10T17:30:31Z",
+      "TriggeredAt": "2026-01-10T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "027ddf0c-235e-2021-12c3-00e14bbd92be",
+      "ArticleId": "024b811c-201d-0564-1145-00c6b4265595",
+      "EntityId": "0146c04f-0fb1-2457-1159-009a5d3c56ec",
+      "EntityName": "Taxpayers - Nakonde",
+      "AlertReason": "Adverse media on tax compliance",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-03T17:30:31Z",
+      "TriggeredAt": "2025-12-01T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0326dda0-1106-0555-1d6b-009219829126",
+      "ArticleId": "049ebf74-1ec8-1809-1771-005f4a81fe6a",
+      "EntityId": "00db3d35-06f1-0fae-2687-0051e4095d31",
+      "EntityName": "Importers - Nakonde",
+      "AlertReason": "Adverse media on VAT fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-07T17:30:31Z",
+      "TriggeredAt": "2025-12-17T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "028973c1-1d31-109f-1fdf-00c01042b46c",
+      "ArticleId": "0161f21b-1cac-05df-2355-0052ad2854af",
+      "EntityId": "019bb285-1aa3-1394-1081-001a579a3bab",
+      "EntityName": "Exporters - Lusaka",
+      "AlertReason": "Adverse media on tax compliance",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-26T17:30:31Z",
+      "TriggeredAt": "2025-12-14T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "04444805-19f9-22cd-21ad-009b5391b418",
+      "ArticleId": "029806f0-11db-07dd-1f94-00e810f59347",
+      "EntityId": "04e1b7d9-1b53-0fda-07a8-004fe30ab022",
+      "EntityName": "Importers - Kazungula",
+      "AlertReason": "Adverse media on customs enforcement",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-17T17:30:31Z",
+      "TriggeredAt": "2025-12-06T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "016af425-11a5-07af-26e1-001c5fe9e784",
+      "ArticleId": "02142037-07c7-0b3b-20fa-0026c6a2670a",
+      "EntityId": "00b2f392-0eaf-1e21-1b74-00e4348e0a81",
+      "EntityName": "Mining companies - Kazungula",
+      "AlertReason": "Adverse media on VAT fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-29T17:30:31Z",
+      "TriggeredAt": "2025-10-26T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "01704cf2-19d0-1656-051d-00c9994d4ac0",
+      "ArticleId": "041c796d-0eaa-1e78-19f1-009d03cef31a",
+      "EntityId": "04e7a32c-0c14-2516-1388-008c9ef8b994",
+      "EntityName": "Mining companies - Kitwe",
+      "AlertReason": "Adverse media on revenue collection",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-08T17:30:31Z",
+      "TriggeredAt": "2025-12-06T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03667d33-13fd-1eb7-240c-00293ddf0c8d",
+      "ArticleId": "01e36902-1d2d-0ee7-1c70-00348fd0c07e",
+      "EntityId": "0377bf45-1c58-122a-0808-0094cc82501a",
+      "EntityName": "Taxpayers - Kitwe",
+      "AlertReason": "Adverse media on customs enforcement",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-03T17:30:31Z",
+      "TriggeredAt": "2025-12-02T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "05e2a6eb-2672-0fff-17b3-0060a85a7904",
+      "ArticleId": "04c69829-0584-1cb2-2334-00a37073daa8",
+      "EntityId": "0570c06e-1c10-24ee-1bb0-00ba0619322a",
+      "EntityName": "Taxpayers - Nakonde",
+      "AlertReason": "Adverse media on revenue collection",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-07T17:30:31Z",
+      "TriggeredAt": "2025-11-19T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02248499-0cc8-24e8-08a8-00443bd59fe6",
+      "ArticleId": "02070466-08d1-25b5-06c9-008323687470",
+      "EntityId": "024667a9-080a-21e7-114d-00bd99a6e734",
+      "EntityName": "Taxpayers - Kazungula",
+      "AlertReason": "Adverse media on VAT fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-20T17:30:31Z",
+      "TriggeredAt": "2026-01-01T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "00d05c17-05df-1123-230b-00e5b46a584b",
+      "ArticleId": "04604cd8-1e69-1444-2127-00a85f3ee7a5",
+      "EntityId": "01f825b5-1233-16e1-2639-00d23358966f",
+      "EntityName": "Exporters - Nakonde",
+      "AlertReason": "Adverse media on customs enforcement",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-10-24T17:30:31Z",
+      "TriggeredAt": "2026-01-01T17:30:31Z",
+      "IsAcknowledged": false
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "048aab7d-1b88-11b0-2091-001cf4f34cf0",
+      "EntityName": "Zambia Revenue Authority",
+      "Keywords": [
+        "tax compliance",
+        "transfer pricing",
+        "VAT fraud"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 31,
+    "HighRiskArticles": 15,
+    "ActiveAlerts": 17,
+    "MonitoredEntities": 15,
+    "ArticlesByCategory": {
+      "regulatory": 8,
+      "criminal": 11,
+      "financial": 14,
+      "political": 8
+    },
+    "ArticlesBySeverity": {
+      "high": 16,
+      "medium": 16,
+      "low": 20
+    }
+  }
+}

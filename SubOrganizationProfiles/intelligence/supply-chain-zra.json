@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "03db7cc3-1b7a-1541-1e75-00af68b559ca",
+      "Name": "Intelligence targets - border regions",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 92.9,
+      "IsCritical": false,
+      "Products": [
+        "counter-intelligence"
+      ],
+      "AnnualSpend": 7764162.34
+    },
+    {
+      "Id": "00d25aed-244c-2676-0f9b-00883b67e6e5",
+      "Name": "Persons of interest - Nakonde",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 84.8,
+      "IsCritical": true,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 7146495.78
+    },
+    {
+      "Id": "01002c24-113d-0a63-2438-0099b0039d54",
+      "Name": "Persons of interest - Copperbelt",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 78.6,
+      "IsCritical": true,
+      "Products": [
+        "strategic intelligence"
+      ],
+      "AnnualSpend": 3107957.43
+    },
+    {
+      "Id": "00b40e22-250b-0466-1ba2-00cdb24d69d6",
+      "Name": "Persons of interest - Copperbelt",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 93.7,
+      "IsCritical": true,
+      "Products": [
+        "strategic intelligence"
+      ],
+      "AnnualSpend": 9438326.76
+    },
+    {
+      "Id": "04d4b4f5-061e-0e1f-136f-00b52cf4edb2",
+      "Name": "Persons of interest - Nakonde",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 57.0,
+      "IsCritical": true,
+      "Products": [
+        "threat assessment"
+      ],
+      "AnnualSpend": 7593929.01
+    },
+    {
+      "Id": "01b8e2f5-1aaf-2178-0645-0063eca64b5d",
+      "Name": "Intelligence targets - Copperbelt",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 71.8,
+      "IsCritical": false,
+      "Products": [
+        "counter-intelligence"
+      ],
+      "AnnualSpend": 6659442.92
+    },
+    {
+      "Id": "0176abfc-1910-1259-253e-00e56f1385cd",
+      "Name": "Foreign entities - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 60.1,
+      "IsCritical": true,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 6244988.31
+    },
+    {
+      "Id": "04728301-254b-1db0-1c40-005c91e9d1a8",
+      "Name": "Security threats - Livingstone",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 90.2,
+      "IsCritical": true,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 6904285.67
+    },
+    {
+      "Id": "05339062-26cc-269d-18eb-00670b028ee8",
+      "Name": "Persons of interest - Nakonde",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 43.4,
+      "IsCritical": true,
+      "Products": [
+        "strategic intelligence"
+      ],
+      "AnnualSpend": 6338414.46
+    },
+    {
+      "Id": "046bb95c-040b-0b5f-249a-00482835da58",
+      "Name": "Foreign entities - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 78.2,
+      "IsCritical": true,
+      "Products": [
+        "counter-intelligence"
+      ],
+      "AnnualSpend": 3202559.01
+    },
+    {
+      "Id": "05f13f85-24d1-1d67-163c-00c7934d9e38",
+      "Name": "Security threats - border regions",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 86.7,
+      "IsCritical": true,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 7538933.95
+    },
+    {
+      "Id": "0222a333-26ee-0964-08c9-0046beb03d01",
+      "Name": "Security threats - Nakonde",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 57.5,
+      "IsCritical": true,
+      "Products": [
+        "threat assessment"
+      ],
+      "AnnualSpend": 990139.96
+    },
+    {
+      "Id": "046aa7b8-0944-22e7-12b8-00e21679afc1",
+      "Name": "Persons of interest - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 75.1,
+      "IsCritical": false,
+      "Products": [
+        "counter-intelligence"
+      ],
+      "AnnualSpend": 1189268.82
+    },
+    {
+      "Id": "0506ecbf-109b-1116-2483-0077b907f147",
+      "Name": "Foreign entities - Lusaka",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 83.0,
+      "IsCritical": false,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 9258222.64
+    },
+    {
+      "Id": "03c8d529-186c-04ab-0dbe-008615c029e4",
+      "Name": "Security threats - Copperbelt",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 53.8,
+      "IsCritical": true,
+      "Products": [
+        "national security"
+      ],
+      "AnnualSpend": 1853640.36
+    },
+    {
+      "Id": "01a67f96-1c6b-1149-1ad9-006550b8fc20",
+      "Name": "Foreign entities - Nakonde",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 92.8,
+      "IsCritical": true,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 521847.12
+    },
+    {
+      "Id": "00ddde5f-0524-0d5f-13af-0043a53e9ea3",
+      "Name": "Persons of interest - Nakonde",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 84.4,
+      "IsCritical": true,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 3541907.28
+    },
+    {
+      "Id": "037062af-1024-0cc9-05e2-0037b9196d6b",
+      "Name": "Security threats - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 92.0,
+      "IsCritical": false,
+      "Products": [
+        "counter-intelligence"
+      ],
+      "AnnualSpend": 6461484.45
+    },
+    {
+      "Id": "03d5295a-25d6-11a4-0f1d-003f1d70eb58",
+      "Name": "Security threats - Livingstone",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 57.9,
+      "IsCritical": false,
+      "Products": [
+        "national security"
+      ],
+      "AnnualSpend": 4915845.05
+    },
+    {
+      "Id": "059e0f9a-1901-0568-1685-0023af18016c",
+      "Name": "Security threats - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 71.2,
+      "IsCritical": false,
+      "Products": [
+        "national security"
+      ],
+      "AnnualSpend": 4582003.65
+    },
+    {
+      "Id": "018c4b9b-2568-04b0-08c5-00ce6747b7f8",
+      "Name": "Persons of interest - Lusaka",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 50.9,
+      "IsCritical": true,
+      "Products": [
+        "national security"
+      ],
+      "AnnualSpend": 3453529.41
+    },
+    {
+      "Id": "05e873f9-26f0-04a4-16c5-006318b5b132",
+      "Name": "Security threats - Copperbelt",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 58.3,
+      "IsCritical": true,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 4225673.92
+    },
+    {
+      "Id": "053b31c0-0d5b-1929-103d-00dd9501fba8",
+      "Name": "Security threats - Livingstone",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 44.8,
+      "IsCritical": true,
+      "Products": [
+        "national security"
+      ],
+      "AnnualSpend": 5512542.69
+    },
+    {
+      "Id": "028415d2-0d3c-1093-2211-0084f2fa9e08",
+      "Name": "Security threats - Livingstone",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 82.6,
+      "IsCritical": false,
+      "Products": [
+        "threat assessment"
+      ],
+      "AnnualSpend": 1401915.89
+    },
+    {
+      "Id": "03cf7d0e-2645-23ca-1304-0050a0ea1e86",
+      "Name": "Intelligence targets - Copperbelt",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 50.4,
+      "IsCritical": false,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 5386293.57
+    },
+    {
+      "Id": "02ea87f0-1c7c-0e53-0855-002951e0596c",
+      "Name": "Foreign entities - border regions",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 43.7,
+      "IsCritical": false,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 7196738.34
+    },
+    {
+      "Id": "04b83d9c-1779-2428-0889-008d47c705ac",
+      "Name": "Intelligence targets - Livingstone",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 80.8,
+      "IsCritical": true,
+      "Products": [
+        "national security"
+      ],
+      "AnnualSpend": 5890057.86
+    },
+    {
+      "Id": "031c11c1-2018-0a3b-070d-00bb322038aa",
+      "Name": "Intelligence targets - Copperbelt",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 45.2,
+      "IsCritical": true,
+      "Products": [
+        "threat assessment"
+      ],
+      "AnnualSpend": 2881877.44
+    },
+    {
+      "Id": "03986d0d-10ac-0d4f-1cb2-0045639a8de3",
+      "Name": "Intelligence targets - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 42.4,
+      "IsCritical": false,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 7205434.95
+    },
+    {
+      "Id": "0334a5f4-17fd-0ede-0988-005dd376e76b",
+      "Name": "Security threats - Nakonde",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 70.8,
+      "IsCritical": true,
+      "Products": [
+        "counter-intelligence"
+      ],
+      "AnnualSpend": 8650672.41
+    },
+    {
+      "Id": "04c18cef-0de6-24c2-21e7-00390be1510b",
+      "Name": "Intelligence targets - Copperbelt",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 86.8,
+      "IsCritical": false,
+      "Products": [
+        "counter-intelligence"
+      ],
+      "AnnualSpend": 4537472.55
+    },
+    {
+      "Id": "04320373-1798-13ff-0b45-00247644672e",
+      "Name": "Intelligence targets - border regions",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 64.9,
+      "IsCritical": true,
+      "Products": [
+        "national security"
+      ],
+      "AnnualSpend": 6856314.33
+    },
+    {
+      "Id": "00f7d45f-22ca-1037-2440-0043fdfa2a3b",
+      "Name": "Persons of interest - Lusaka",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 83.9,
+      "IsCritical": false,
+      "Products": [
+        "strategic intelligence"
+      ],
+      "AnnualSpend": 1297886.11
+    },
+    {
+      "Id": "0261211a-1636-1092-04f0-005cc560b782",
+      "Name": "Persons of interest - border regions",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 82.4,
+      "IsCritical": false,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 8455083.17
+    },
+    {
+      "Id": "04999c6c-1313-1d4d-0d7c-005822be2973",
+      "Name": "Intelligence targets - Lusaka",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 42.6,
+      "IsCritical": true,
+      "Products": [
+        "strategic intelligence"
+      ],
+      "AnnualSpend": 4365394.63
+    },
+    {
+      "Id": "04ec8812-1e02-24fe-1cce-006472903815",
+      "Name": "Security threats - border regions",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 60.8,
+      "IsCritical": true,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 5567432.37
+    },
+    {
+      "Id": "04ac4c38-1aaa-1c35-173f-0060ec5916d2",
+      "Name": "Intelligence targets - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 83.1,
+      "IsCritical": true,
+      "Products": [
+        "strategic intelligence"
+      ],
+      "AnnualSpend": 1461286.97
+    },
+    {
+      "Id": "02c2108c-0508-0bae-064c-00e3801a5d17",
+      "Name": "Intelligence targets - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 79.9,
+      "IsCritical": false,
+      "Products": [
+        "surveillance"
+      ],
+      "AnnualSpend": 1339922.78
+    },
+    {
+      "Id": "054c666c-2347-1393-0bcc-00d7bab9744f",
+      "Name": "Foreign entities - Livingstone",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 95.0,
+      "IsCritical": false,
+      "Products": [
+        "national security"
+      ],
+      "AnnualSpend": 5759674.09
+    },
+    {
+      "Id": "056df6a1-2125-2014-1352-00564e107c25",
+      "Name": "Intelligence targets - Copperbelt",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 55.6,
+      "IsCritical": true,
+      "Products": [
+        "threat assessment"
+      ],
+      "AnnualSpend": 2724686.58
+    },
+    {
+      "Id": "04a08a28-18ce-0bc7-1984-00d43dc89e98",
+      "Name": "Persons of interest - border regions",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 73.7,
+      "IsCritical": true,
+      "Products": [
+        "threat assessment"
+      ],
+      "AnnualSpend": 8232340.61
+    },
+    {
+      "Id": "00f6a257-0544-18e9-14ef-008c6c0f3074",
+      "Name": "Intelligence targets - Nakonde",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 58.7,
+      "IsCritical": true,
+      "Products": [
+        "strategic intelligence"
+      ],
+      "AnnualSpend": 5326720.54
+    },
+    {
+      "Id": "033c4bfa-0b54-1e3c-091c-00299a1f4da3",
+      "Name": "Security threats - Livingstone",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 68.8,
+      "IsCritical": false,
+      "Products": [
+        "strategic intelligence"
+      ],
+      "AnnualSpend": 3651834.69
+    },
+    {
+      "Id": "04cbc8fb-2014-1157-1e57-0096bf10e931",
+      "Name": "Foreign entities - Nakonde",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 84.1,
+      "IsCritical": true,
+      "Products": [
+        "strategic intelligence"
+      ],
+      "AnnualSpend": 1118875.03
+    },
+    {
+      "Id": "0240d562-08a8-0cb7-22e4-0041312982b3",
+      "Name": "Intelligence targets - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 76.4,
+      "IsCritical": true,
+      "Products": [
+        "counter-intelligence"
+      ],
+      "AnnualSpend": 6049979.86
+    },
+    {
+      "Id": "05609042-1b69-25c3-12c8-00a185a771f3",
+      "Name": "Foreign entities - Livingstone",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 87.1,
+      "IsCritical": true,
+      "Products": [
+        "threat assessment"
+      ],
+      "AnnualSpend": 6182967.44
+    },
+    {
+      "Id": "0530fc70-1744-0414-15da-005bd5cca4ca",
+      "Name": "Persons of interest - border regions",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 62.0,
+      "IsCritical": false,
+      "Products": [
+        "national security"
+      ],
+      "AnnualSpend": 614797.56
+    },
+    {
+      "Id": "0409ddb8-10ff-14c0-1266-00e33299a01e",
+      "Name": "Foreign entities - border regions",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 47.2,
+      "IsCritical": false,
+      "Products": [
+        "threat assessment"
+      ],
+      "AnnualSpend": 897029.48
+    },
+    {
+      "Id": "03abe10c-0ab1-0f85-063f-00d904ea9d72",
+      "Name": "Persons of interest - Lusaka",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 88.3,
+      "IsCritical": false,
+      "Products": [
+        "threat assessment"
+      ],
+      "AnnualSpend": 7591182.66
+    },
+    {
+      "Id": "04369cf3-0bdf-11cf-1363-00e2addec7be",
+      "Name": "Security threats - Nakonde",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 59.1,
+      "IsCritical": false,
+      "Products": [
+        "threat assessment"
+      ],
+      "AnnualSpend": 3443227.44
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "024e4fb0-0903-238f-0e8c-0053e7b1d5bc",
+      "FromSupplierId": "00ddde5f-0524-0d5f-13af-0043a53e9ea3",
+      "ToSupplierId": "04369cf3-0bdf-11cf-1363-00e2addec7be",
+      "Type": "partnership",
+      "DependencyLevel": 0.45,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "05e2fc0c-0d59-0414-0903-0062d9d68076",
+      "FromSupplierId": "03986d0d-10ac-0d4f-1cb2-0045639a8de3",
+      "ToSupplierId": "056df6a1-2125-2014-1352-00564e107c25",
+      "Type": "partnership",
+      "DependencyLevel": 0.41,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "040e9c53-219a-1c0d-07e8-007666921ed8",
+      "FromSupplierId": "04a08a28-18ce-0bc7-1984-00d43dc89e98",
+      "ToSupplierId": "031c11c1-2018-0a3b-070d-00bb322038aa",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.45,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "025f32ff-0e10-0d70-1869-0024197cd9a1",
+      "FromSupplierId": "03c8d529-186c-04ab-0dbe-008615c029e4",
+      "ToSupplierId": "046bb95c-040b-0b5f-249a-00482835da58",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.68,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "02cacd73-0c81-2168-1a37-0090887ce19d",
+      "FromSupplierId": "04cbc8fb-2014-1157-1e57-0096bf10e931",
+      "ToSupplierId": "031c11c1-2018-0a3b-070d-00bb322038aa",
+      "Type": "supplies",
+      "DependencyLevel": 0.84,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "055721f9-103e-06a5-073e-008d66c3c5f0",
+      "FromSupplierId": "046bb95c-040b-0b5f-249a-00482835da58",
+      "ToSupplierId": "0409ddb8-10ff-14c0-1266-00e33299a01e",
+      "Type": "partnership",
+      "DependencyLevel": 0.77,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "05c84dad-0da3-0d52-1ef3-00bb3b593b47",
+      "FromSupplierId": "04320373-1798-13ff-0b45-00247644672e",
+      "ToSupplierId": "031c11c1-2018-0a3b-070d-00bb322038aa",
+      "Type": "supplies",
+      "DependencyLevel": 0.72,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02605545-1d98-0b0b-23dc-00abc41206a2",
+      "FromSupplierId": "05609042-1b69-25c3-12c8-00a185a771f3",
+      "ToSupplierId": "03c8d529-186c-04ab-0dbe-008615c029e4",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.53,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "02502ba5-1b42-20dd-0b80-00286da21e84",
+      "FromSupplierId": "04728301-254b-1db0-1c40-005c91e9d1a8",
+      "ToSupplierId": "04320373-1798-13ff-0b45-00247644672e",
+      "Type": "supplies",
+      "DependencyLevel": 0.48,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "05536d12-25a6-0dbd-1932-00ae0cdef9fc",
+      "FromSupplierId": "03abe10c-0ab1-0f85-063f-00d904ea9d72",
+      "ToSupplierId": "04369cf3-0bdf-11cf-1363-00e2addec7be",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.44,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01f17714-1d71-126a-145d-00a21efe675e",
+      "FromSupplierId": "0176abfc-1910-1259-253e-00e56f1385cd",
+      "ToSupplierId": "00ddde5f-0524-0d5f-13af-0043a53e9ea3",
+      "Type": "partnership",
+      "DependencyLevel": 0.65,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03e719db-077d-0727-10ff-00464c4c2bb7",
+      "FromSupplierId": "05339062-26cc-269d-18eb-00670b028ee8",
+      "ToSupplierId": "037062af-1024-0cc9-05e2-0037b9196d6b",
+      "Type": "supplies",
+      "DependencyLevel": 0.86,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "027f72be-07f7-2523-0668-0062716291d2",
+      "FromSupplierId": "00ddde5f-0524-0d5f-13af-0043a53e9ea3",
+      "ToSupplierId": "0240d562-08a8-0cb7-22e4-0041312982b3",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.8,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03a0edb0-2530-1323-0e3c-008210ee5421",
+      "FromSupplierId": "04728301-254b-1db0-1c40-005c91e9d1a8",
+      "ToSupplierId": "018c4b9b-2568-04b0-08c5-00ce6747b7f8",
+      "Type": "partnership",
+      "DependencyLevel": 0.48,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "024eea11-0712-0c16-1759-00d6cbbc819d",
+      "FromSupplierId": "0409ddb8-10ff-14c0-1266-00e33299a01e",
+      "ToSupplierId": "04cbc8fb-2014-1157-1e57-0096bf10e931",
+      "Type": "partnership",
+      "DependencyLevel": 0.67,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0234da20-108a-1ed2-0af6-0062a9329ab3",
+      "FromSupplierId": "0506ecbf-109b-1116-2483-0077b907f147",
+      "ToSupplierId": "04999c6c-1313-1d4d-0d7c-005822be2973",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.73,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "01504376-1931-1315-1fe1-00902fc24b16",
+      "FromSupplierId": "01a67f96-1c6b-1149-1ad9-006550b8fc20",
+      "ToSupplierId": "04cbc8fb-2014-1157-1e57-0096bf10e931",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.51,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03f7585c-199f-0741-20e5-00d3c228e667",
+      "FromSupplierId": "059e0f9a-1901-0568-1685-0023af18016c",
+      "ToSupplierId": "04ec8812-1e02-24fe-1cce-006472903815",
+      "Type": "partnership",
+      "DependencyLevel": 0.43,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "02199340-0a81-2060-09fa-00c60410e6a2",
+      "FromSupplierId": "054c666c-2347-1393-0bcc-00d7bab9744f",
+      "ToSupplierId": "00f7d45f-22ca-1037-2440-0043fdfa2a3b",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.84,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "056e5d4f-153c-1b15-0538-004dbcd87110",
+      "FromSupplierId": "0176abfc-1910-1259-253e-00e56f1385cd",
+      "ToSupplierId": "053b31c0-0d5b-1929-103d-00dd9501fba8",
+      "Type": "supplies",
+      "DependencyLevel": 0.65,
+      "IsCriticalPath": false
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "operational",
+      "Description": "Concentration of national security in Lusaka",
+      "ConcentrationLevel": 80.8,
+      "AffectedSuppliers": [
+        "Intelligence targets - Lusaka",
+        "Foreign entities - Lusaka",
+        "Foreign entities - Lusaka"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "038811d6-15c1-220e-1fea-003060da48c5",
+      "SupplierId": "03db7cc3-1b7a-1541-1e75-00af68b559ca",
+      "SupplierName": "Intelligence targets - border regions",
+      "RiskType": "financial",
+      "Severity": "medium",
+      "Description": "Risk detected in threat assessment operations",
+      "DetectedAt": "2025-12-23T17:30:30Z",
+      "IsAcknowledged": false,
+      "AffectedDownstreamSuppliers": [
+        "05609042-1b69-25c3-12c8-00a185a771f3",
+        "046bb95c-040b-0b5f-249a-00482835da58"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 29,
+    "HighRiskSuppliers": 19,
+    "AverageRiskScore": 70.3,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

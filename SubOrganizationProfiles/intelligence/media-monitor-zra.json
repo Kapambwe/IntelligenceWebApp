@@ -1,0 +1,1505 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "0317aae3-11cf-1685-084b-00e801f7e707",
+      "Title": "Zambia Intelligence Service security assessment threat assessment",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/5358",
+      "PublishedDate": "2025-12-20T17:30:30Z",
+      "PublishedAt": "2026-01-15T17:30:30Z",
+      "DiscoveredAt": "2025-11-05T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Counter-intelligence reveals counter-intelligence in Lusaka",
+      "RelatedEntities": [
+        "Foreign entities - Livingstone"
+      ],
+      "Entities": [
+        "Foreign entities - Livingstone"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "surveillance",
+        "counter-intelligence"
+      ],
+      "RelevanceScore": 83.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01a42a3c-17a5-0413-13f6-00b0ae3885d7",
+      "Title": "Zambia Intelligence Service threat analysis strategic intelligence",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/1801",
+      "PublishedDate": "2025-12-23T17:30:30Z",
+      "PublishedAt": "2025-12-21T17:30:30Z",
+      "DiscoveredAt": "2025-12-29T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Intelligence gathering reveals surveillance in Nakonde",
+      "RelatedEntities": [
+        "Foreign entities - Copperbelt"
+      ],
+      "Entities": [
+        "Foreign entities - Copperbelt"
+      ],
+      "Keywords": [
+        "surveillance",
+        "counter-intelligence",
+        "national security"
+      ],
+      "RelevanceScore": 66.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01fb950b-12b6-1e73-0ea3-00943f28da90",
+      "Title": "Zambia Intelligence Service intelligence gathering national security",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/7200",
+      "PublishedDate": "2025-11-05T17:30:30Z",
+      "PublishedAt": "2025-11-30T17:30:30Z",
+      "DiscoveredAt": "2025-11-18T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Security assessment reveals counter-intelligence in Livingstone",
+      "RelatedEntities": [
+        "Intelligence targets - Copperbelt"
+      ],
+      "Entities": [
+        "Intelligence targets - Copperbelt"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "threat assessment",
+        "national security"
+      ],
+      "RelevanceScore": 80.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02002edb-1156-1c50-1a3a-002968855d04",
+      "Title": "Zambia Intelligence Service security assessment national security",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/5933",
+      "PublishedDate": "2025-11-15T17:30:30Z",
+      "PublishedAt": "2026-01-05T17:30:30Z",
+      "DiscoveredAt": "2026-01-19T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Intelligence gathering reveals strategic intelligence in Livingstone",
+      "RelatedEntities": [
+        "Persons of interest - Nakonde"
+      ],
+      "Entities": [
+        "Persons of interest - Nakonde"
+      ],
+      "Keywords": [
+        "counter-intelligence",
+        "threat assessment",
+        "surveillance"
+      ],
+      "RelevanceScore": 71.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "033a6a68-19f4-1c4f-1e58-0022faafda71",
+      "Title": "Zambia Intelligence Service surveillance strategic intelligence",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/3801",
+      "PublishedDate": "2025-12-30T17:30:30Z",
+      "PublishedAt": "2025-10-26T17:30:30Z",
+      "DiscoveredAt": "2025-11-23T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Threat analysis reveals strategic intelligence in Copperbelt",
+      "RelatedEntities": [
+        "Intelligence targets - Livingstone"
+      ],
+      "Entities": [
+        "Intelligence targets - Livingstone"
+      ],
+      "Keywords": [
+        "national security",
+        "surveillance",
+        "strategic intelligence"
+      ],
+      "RelevanceScore": 70.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0407f189-188d-0dac-1d5e-00bdc2f691d4",
+      "Title": "Zambia Intelligence Service surveillance threat assessment",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/3492",
+      "PublishedDate": "2025-12-15T17:30:30Z",
+      "PublishedAt": "2025-12-27T17:30:30Z",
+      "DiscoveredAt": "2025-11-15T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Counter-intelligence reveals strategic intelligence in Lusaka",
+      "RelatedEntities": [
+        "Persons of interest - Nakonde"
+      ],
+      "Entities": [
+        "Persons of interest - Nakonde"
+      ],
+      "Keywords": [
+        "surveillance",
+        "national security",
+        "counter-intelligence"
+      ],
+      "RelevanceScore": 68.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04d937cf-1b71-20e3-167e-002b538ee16c",
+      "Title": "Zambia Intelligence Service surveillance surveillance",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/1185",
+      "PublishedDate": "2025-10-25T17:30:30Z",
+      "PublishedAt": "2026-01-01T17:30:30Z",
+      "DiscoveredAt": "2025-10-21T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Surveillance reveals national security in Copperbelt",
+      "RelatedEntities": [
+        "Intelligence targets - border regions"
+      ],
+      "Entities": [
+        "Intelligence targets - border regions"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "national security",
+        "surveillance"
+      ],
+      "RelevanceScore": 87.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04f785de-1d1f-250d-1fad-00296e5d27f3",
+      "Title": "Zambia Intelligence Service intelligence gathering surveillance",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/9446",
+      "PublishedDate": "2025-12-26T17:30:30Z",
+      "PublishedAt": "2025-10-30T17:30:30Z",
+      "DiscoveredAt": "2025-12-05T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Intelligence gathering reveals surveillance in border regions",
+      "RelatedEntities": [
+        "Foreign entities - Nakonde"
+      ],
+      "Entities": [
+        "Foreign entities - Nakonde"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "national security",
+        "threat assessment"
+      ],
+      "RelevanceScore": 84.1,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01f2f5cb-1d69-0d38-16c5-001bf0404116",
+      "Title": "Zambia Intelligence Service security assessment strategic intelligence",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/9260",
+      "PublishedDate": "2026-01-17T17:30:30Z",
+      "PublishedAt": "2025-11-22T17:30:30Z",
+      "DiscoveredAt": "2025-12-13T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Threat analysis reveals counter-intelligence in Copperbelt",
+      "RelatedEntities": [
+        "Intelligence targets - Copperbelt"
+      ],
+      "Entities": [
+        "Intelligence targets - Copperbelt"
+      ],
+      "Keywords": [
+        "surveillance",
+        "strategic intelligence",
+        "threat assessment"
+      ],
+      "RelevanceScore": 64.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00f962ef-1ec8-1ba9-0d81-00ab2451a1cf",
+      "Title": "Zambia Intelligence Service counter-intelligence counter-intelligence",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/1975",
+      "PublishedDate": "2025-11-18T17:30:30Z",
+      "PublishedAt": "2025-11-18T17:30:30Z",
+      "DiscoveredAt": "2025-12-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Counter-intelligence reveals surveillance in Copperbelt",
+      "RelatedEntities": [
+        "Intelligence targets - border regions"
+      ],
+      "Entities": [
+        "Intelligence targets - border regions"
+      ],
+      "Keywords": [
+        "counter-intelligence",
+        "strategic intelligence",
+        "surveillance"
+      ],
+      "RelevanceScore": 64.4,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00bc1893-2260-1c9f-0df6-003de6fda5f7",
+      "Title": "Zambia Intelligence Service intelligence gathering strategic intelligence",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/6945",
+      "PublishedDate": "2025-12-05T17:30:30Z",
+      "PublishedAt": "2025-10-27T17:30:30Z",
+      "DiscoveredAt": "2025-11-03T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Counter-intelligence reveals surveillance in Livingstone",
+      "RelatedEntities": [
+        "Security threats - Copperbelt"
+      ],
+      "Entities": [
+        "Security threats - Copperbelt"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "threat assessment",
+        "surveillance"
+      ],
+      "RelevanceScore": 89.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00c7f000-1fc1-0cfb-1a1b-00590117c947",
+      "Title": "Zambia Intelligence Service surveillance counter-intelligence",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/9022",
+      "PublishedDate": "2025-12-30T17:30:30Z",
+      "PublishedAt": "2025-12-18T17:30:30Z",
+      "DiscoveredAt": "2025-12-09T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Security assessment reveals counter-intelligence in Livingstone",
+      "RelatedEntities": [
+        "Intelligence targets - Lusaka"
+      ],
+      "Entities": [
+        "Intelligence targets - Lusaka"
+      ],
+      "Keywords": [
+        "counter-intelligence",
+        "threat assessment",
+        "surveillance"
+      ],
+      "RelevanceScore": 81.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0290d32e-1933-1fa4-0ab3-00bcd596c4bf",
+      "Title": "Zambia Intelligence Service surveillance counter-intelligence",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/1458",
+      "PublishedDate": "2025-11-05T17:30:30Z",
+      "PublishedAt": "2025-10-29T17:30:30Z",
+      "DiscoveredAt": "2025-11-25T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Threat analysis reveals threat assessment in Livingstone",
+      "RelatedEntities": [
+        "Intelligence targets - border regions"
+      ],
+      "Entities": [
+        "Intelligence targets - border regions"
+      ],
+      "Keywords": [
+        "surveillance",
+        "threat assessment",
+        "counter-intelligence"
+      ],
+      "RelevanceScore": 85.9,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05117e4f-12aa-146f-1722-00cd12e52e52",
+      "Title": "Zambia Intelligence Service intelligence gathering national security",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/3365",
+      "PublishedDate": "2026-01-12T17:30:30Z",
+      "PublishedAt": "2025-11-21T17:30:30Z",
+      "DiscoveredAt": "2025-11-28T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Threat analysis reveals national security in Nakonde",
+      "RelatedEntities": [
+        "Foreign entities - Lusaka"
+      ],
+      "Entities": [
+        "Foreign entities - Lusaka"
+      ],
+      "Keywords": [
+        "national security",
+        "surveillance",
+        "threat assessment"
+      ],
+      "RelevanceScore": 71.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03ff5e40-1986-263e-228b-005ce6b7c43b",
+      "Title": "Zambia Intelligence Service counter-intelligence strategic intelligence",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/5416",
+      "PublishedDate": "2025-12-31T17:30:30Z",
+      "PublishedAt": "2025-10-29T17:30:30Z",
+      "DiscoveredAt": "2025-12-27T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Threat analysis reveals national security in Lusaka",
+      "RelatedEntities": [
+        "Foreign entities - Nakonde"
+      ],
+      "Entities": [
+        "Foreign entities - Nakonde"
+      ],
+      "Keywords": [
+        "threat assessment",
+        "counter-intelligence",
+        "strategic intelligence"
+      ],
+      "RelevanceScore": 66.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05c1e9f0-21dd-05fe-1df2-00c84e195052",
+      "Title": "Zambia Intelligence Service counter-intelligence surveillance",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/8186",
+      "PublishedDate": "2025-10-28T17:30:30Z",
+      "PublishedAt": "2025-12-22T17:30:30Z",
+      "DiscoveredAt": "2025-12-23T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Security assessment reveals threat assessment in border regions",
+      "RelatedEntities": [
+        "Persons of interest - border regions"
+      ],
+      "Entities": [
+        "Persons of interest - border regions"
+      ],
+      "Keywords": [
+        "surveillance",
+        "counter-intelligence",
+        "strategic intelligence"
+      ],
+      "RelevanceScore": 78.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05ae739b-0a5a-1c4c-12fa-00d6aea81cc5",
+      "Title": "Zambia Intelligence Service security assessment national security",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/4948",
+      "PublishedDate": "2025-11-27T17:30:30Z",
+      "PublishedAt": "2025-12-01T17:30:30Z",
+      "DiscoveredAt": "2025-11-20T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Threat analysis reveals counter-intelligence in Livingstone",
+      "RelatedEntities": [
+        "Foreign entities - Copperbelt"
+      ],
+      "Entities": [
+        "Foreign entities - Copperbelt"
+      ],
+      "Keywords": [
+        "national security",
+        "counter-intelligence",
+        "strategic intelligence"
+      ],
+      "RelevanceScore": 92.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "048a8ed6-2075-270c-2658-00e52fcac66d",
+      "Title": "Zambia Intelligence Service counter-intelligence counter-intelligence",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/9851",
+      "PublishedDate": "2025-12-10T17:30:30Z",
+      "PublishedAt": "2025-12-18T17:30:30Z",
+      "DiscoveredAt": "2025-11-15T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Threat analysis reveals surveillance in Nakonde",
+      "RelatedEntities": [
+        "Foreign entities - Nakonde"
+      ],
+      "Entities": [
+        "Foreign entities - Nakonde"
+      ],
+      "Keywords": [
+        "threat assessment",
+        "counter-intelligence",
+        "strategic intelligence"
+      ],
+      "RelevanceScore": 74.3,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03f99b11-18a0-11a4-13f4-00c381386bd6",
+      "Title": "Zambia Intelligence Service counter-intelligence strategic intelligence",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/3564",
+      "PublishedDate": "2025-11-04T17:30:30Z",
+      "PublishedAt": "2025-10-22T17:30:30Z",
+      "DiscoveredAt": "2025-11-03T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Counter-intelligence reveals national security in Copperbelt",
+      "RelatedEntities": [
+        "Foreign entities - Nakonde"
+      ],
+      "Entities": [
+        "Foreign entities - Nakonde"
+      ],
+      "Keywords": [
+        "national security",
+        "counter-intelligence",
+        "strategic intelligence"
+      ],
+      "RelevanceScore": 62.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "056da84b-1c88-0780-1bf2-00a20b83cd46",
+      "Title": "Zambia Intelligence Service counter-intelligence threat assessment",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/3988",
+      "PublishedDate": "2026-01-18T17:30:30Z",
+      "PublishedAt": "2025-11-09T17:30:30Z",
+      "DiscoveredAt": "2025-12-20T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Security assessment reveals national security in Nakonde",
+      "RelatedEntities": [
+        "Intelligence targets - Lusaka"
+      ],
+      "Entities": [
+        "Intelligence targets - Lusaka"
+      ],
+      "Keywords": [
+        "national security",
+        "counter-intelligence",
+        "threat assessment"
+      ],
+      "RelevanceScore": 81.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0223791a-17eb-1afc-154c-00d4088e2b90",
+      "Title": "Zambia Intelligence Service counter-intelligence national security",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/8253",
+      "PublishedDate": "2025-12-13T17:30:30Z",
+      "PublishedAt": "2025-12-30T17:30:30Z",
+      "DiscoveredAt": "2025-11-30T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Security assessment reveals strategic intelligence in Livingstone",
+      "RelatedEntities": [
+        "Foreign entities - Livingstone"
+      ],
+      "Entities": [
+        "Foreign entities - Livingstone"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "counter-intelligence",
+        "national security"
+      ],
+      "RelevanceScore": 77.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01fb90a2-1c52-0b65-1d23-00c71f0c8f3b",
+      "Title": "Zambia Intelligence Service security assessment threat assessment",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/9090",
+      "PublishedDate": "2025-12-05T17:30:30Z",
+      "PublishedAt": "2025-11-04T17:30:30Z",
+      "DiscoveredAt": "2026-01-02T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Intelligence gathering reveals national security in border regions",
+      "RelatedEntities": [
+        "Intelligence targets - border regions"
+      ],
+      "Entities": [
+        "Intelligence targets - border regions"
+      ],
+      "Keywords": [
+        "counter-intelligence",
+        "threat assessment",
+        "national security"
+      ],
+      "RelevanceScore": 73.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "047aa8b4-22d8-1e6e-072f-00b499550743",
+      "Title": "Zambia Intelligence Service threat analysis strategic intelligence",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/3505",
+      "PublishedDate": "2025-12-13T17:30:30Z",
+      "PublishedAt": "2026-01-07T17:30:30Z",
+      "DiscoveredAt": "2025-12-07T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Security assessment reveals surveillance in Livingstone",
+      "RelatedEntities": [
+        "Security threats - Livingstone"
+      ],
+      "Entities": [
+        "Security threats - Livingstone"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "national security",
+        "threat assessment"
+      ],
+      "RelevanceScore": 75.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0107b217-1d33-1154-0b5f-006bdc295388",
+      "Title": "Zambia Intelligence Service surveillance strategic intelligence",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/7757",
+      "PublishedDate": "2025-12-26T17:30:30Z",
+      "PublishedAt": "2025-11-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-06T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Threat analysis reveals threat assessment in Copperbelt",
+      "RelatedEntities": [
+        "Foreign entities - Copperbelt"
+      ],
+      "Entities": [
+        "Foreign entities - Copperbelt"
+      ],
+      "Keywords": [
+        "national security",
+        "threat assessment",
+        "strategic intelligence"
+      ],
+      "RelevanceScore": 88.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02ec2530-15fd-20ef-08bd-009dce366b92",
+      "Title": "Zambia Intelligence Service threat analysis strategic intelligence",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/4099",
+      "PublishedDate": "2025-10-23T17:30:30Z",
+      "PublishedAt": "2025-12-28T17:30:30Z",
+      "DiscoveredAt": "2025-11-19T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Intelligence gathering reveals strategic intelligence in Nakonde",
+      "RelatedEntities": [
+        "Persons of interest - border regions"
+      ],
+      "Entities": [
+        "Persons of interest - border regions"
+      ],
+      "Keywords": [
+        "national security",
+        "strategic intelligence",
+        "threat assessment"
+      ],
+      "RelevanceScore": 73.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04b5fd2c-1bc8-059e-2231-00e8b4b640ef",
+      "Title": "Zambia Intelligence Service counter-intelligence surveillance",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/5668",
+      "PublishedDate": "2025-10-29T17:30:30Z",
+      "PublishedAt": "2025-12-08T17:30:30Z",
+      "DiscoveredAt": "2025-12-09T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Intelligence gathering reveals counter-intelligence in border regions",
+      "RelatedEntities": [
+        "Intelligence targets - Nakonde"
+      ],
+      "Entities": [
+        "Intelligence targets - Nakonde"
+      ],
+      "Keywords": [
+        "counter-intelligence",
+        "threat assessment",
+        "surveillance"
+      ],
+      "RelevanceScore": 74.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03fdad17-16f1-1717-14fb-00e749c13aa0",
+      "Title": "Zambia Intelligence Service threat analysis counter-intelligence",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/4929",
+      "PublishedDate": "2025-12-27T17:30:30Z",
+      "PublishedAt": "2025-11-07T17:30:30Z",
+      "DiscoveredAt": "2025-11-11T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Counter-intelligence reveals national security in Nakonde",
+      "RelatedEntities": [
+        "Security threats - Nakonde"
+      ],
+      "Entities": [
+        "Security threats - Nakonde"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "national security",
+        "surveillance"
+      ],
+      "RelevanceScore": 61.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05e0b1c2-122a-1b19-15fe-007ead1d638c",
+      "Title": "Zambia Intelligence Service counter-intelligence strategic intelligence",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/1892",
+      "PublishedDate": "2025-12-31T17:30:30Z",
+      "PublishedAt": "2026-01-06T17:30:30Z",
+      "DiscoveredAt": "2025-12-14T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Threat analysis reveals strategic intelligence in Nakonde",
+      "RelatedEntities": [
+        "Intelligence targets - Livingstone"
+      ],
+      "Entities": [
+        "Intelligence targets - Livingstone"
+      ],
+      "Keywords": [
+        "threat assessment",
+        "surveillance",
+        "national security"
+      ],
+      "RelevanceScore": 88.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01733bb2-069c-125a-0d2c-00221d01bebf",
+      "Title": "Zambia Intelligence Service threat analysis strategic intelligence",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/5249",
+      "PublishedDate": "2025-10-29T17:30:30Z",
+      "PublishedAt": "2025-12-23T17:30:30Z",
+      "DiscoveredAt": "2025-11-27T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Counter-intelligence reveals strategic intelligence in border regions",
+      "RelatedEntities": [
+        "Persons of interest - border regions"
+      ],
+      "Entities": [
+        "Persons of interest - border regions"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "national security",
+        "surveillance"
+      ],
+      "RelevanceScore": 79.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "052c2966-1e8f-242c-0adb-00e74fc954d0",
+      "Title": "Zambia Intelligence Service intelligence gathering strategic intelligence",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/1583",
+      "PublishedDate": "2025-12-01T17:30:30Z",
+      "PublishedAt": "2025-12-08T17:30:30Z",
+      "DiscoveredAt": "2025-10-25T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Threat analysis reveals surveillance in Livingstone",
+      "RelatedEntities": [
+        "Intelligence targets - Livingstone"
+      ],
+      "Entities": [
+        "Intelligence targets - Livingstone"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "threat assessment",
+        "surveillance"
+      ],
+      "RelevanceScore": 61.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "053f4577-1e10-0f03-143b-004d4cd5913a",
+      "Title": "Zambia Intelligence Service counter-intelligence counter-intelligence",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/7246",
+      "PublishedDate": "2025-11-07T17:30:30Z",
+      "PublishedAt": "2025-12-06T17:30:30Z",
+      "DiscoveredAt": "2026-01-12T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Security assessment reveals threat assessment in Nakonde",
+      "RelatedEntities": [
+        "Foreign entities - Lusaka"
+      ],
+      "Entities": [
+        "Foreign entities - Lusaka"
+      ],
+      "Keywords": [
+        "national security",
+        "threat assessment",
+        "strategic intelligence"
+      ],
+      "RelevanceScore": 66.7,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0206edb4-1fb5-1d49-1e9b-00264bbbf314",
+      "Title": "Zambia Intelligence Service threat analysis surveillance",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/1027",
+      "PublishedDate": "2025-11-30T17:30:30Z",
+      "PublishedAt": "2025-12-18T17:30:30Z",
+      "DiscoveredAt": "2025-11-28T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Counter-intelligence reveals threat assessment in Lusaka",
+      "RelatedEntities": [
+        "Intelligence targets - Nakonde"
+      ],
+      "Entities": [
+        "Intelligence targets - Nakonde"
+      ],
+      "Keywords": [
+        "counter-intelligence",
+        "strategic intelligence",
+        "threat assessment"
+      ],
+      "RelevanceScore": 74.3,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05c9cd3b-044e-22eb-0bcd-00774c88a7bc",
+      "Title": "Zambia Intelligence Service counter-intelligence threat assessment",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/3960",
+      "PublishedDate": "2025-12-03T17:30:30Z",
+      "PublishedAt": "2025-12-27T17:30:30Z",
+      "DiscoveredAt": "2025-11-10T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Security assessment reveals threat assessment in Lusaka",
+      "RelatedEntities": [
+        "Intelligence targets - Livingstone"
+      ],
+      "Entities": [
+        "Intelligence targets - Livingstone"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "counter-intelligence",
+        "threat assessment"
+      ],
+      "RelevanceScore": 69.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "053b60a2-256f-12a5-2510-00896402c980",
+      "Title": "Zambia Intelligence Service surveillance strategic intelligence",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/5394",
+      "PublishedDate": "2025-12-27T17:30:30Z",
+      "PublishedAt": "2025-12-23T17:30:30Z",
+      "DiscoveredAt": "2025-12-20T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Surveillance reveals counter-intelligence in Livingstone",
+      "RelatedEntities": [
+        "Foreign entities - Copperbelt"
+      ],
+      "Entities": [
+        "Foreign entities - Copperbelt"
+      ],
+      "Keywords": [
+        "threat assessment",
+        "national security",
+        "surveillance"
+      ],
+      "RelevanceScore": 82.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03738cfc-208b-112b-2182-008147854a15",
+      "Title": "Zambia Intelligence Service security assessment surveillance",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/5438",
+      "PublishedDate": "2025-12-01T17:30:30Z",
+      "PublishedAt": "2025-11-30T17:30:30Z",
+      "DiscoveredAt": "2025-10-27T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Security assessment reveals strategic intelligence in Livingstone",
+      "RelatedEntities": [
+        "Security threats - Lusaka"
+      ],
+      "Entities": [
+        "Security threats - Lusaka"
+      ],
+      "Keywords": [
+        "surveillance",
+        "counter-intelligence",
+        "threat assessment"
+      ],
+      "RelevanceScore": 93.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01af1da4-0d6e-1ed9-0feb-0082125e0df0",
+      "Title": "Zambia Intelligence Service intelligence gathering counter-intelligence",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/9119",
+      "PublishedDate": "2025-11-14T17:30:30Z",
+      "PublishedAt": "2025-12-05T17:30:30Z",
+      "DiscoveredAt": "2025-11-13T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Intelligence gathering reveals threat assessment in Livingstone",
+      "RelatedEntities": [
+        "Security threats - Nakonde"
+      ],
+      "Entities": [
+        "Security threats - Nakonde"
+      ],
+      "Keywords": [
+        "counter-intelligence",
+        "threat assessment",
+        "strategic intelligence"
+      ],
+      "RelevanceScore": 79.9,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0410baa2-2269-25d6-13cc-00c104475d76",
+      "Title": "Zambia Intelligence Service security assessment national security",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/4928",
+      "PublishedDate": "2025-11-14T17:30:30Z",
+      "PublishedAt": "2026-01-06T17:30:30Z",
+      "DiscoveredAt": "2025-10-26T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Security assessment reveals strategic intelligence in border regions",
+      "RelatedEntities": [
+        "Persons of interest - Copperbelt"
+      ],
+      "Entities": [
+        "Persons of interest - Copperbelt"
+      ],
+      "Keywords": [
+        "national security",
+        "threat assessment",
+        "strategic intelligence"
+      ],
+      "RelevanceScore": 94.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00cffbdb-0b96-1bfc-1860-0045b9403659",
+      "Title": "Zambia Intelligence Service counter-intelligence counter-intelligence",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/8792",
+      "PublishedDate": "2025-12-11T17:30:30Z",
+      "PublishedAt": "2025-10-21T17:30:30Z",
+      "DiscoveredAt": "2025-12-18T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Surveillance reveals national security in Lusaka",
+      "RelatedEntities": [
+        "Security threats - Copperbelt"
+      ],
+      "Entities": [
+        "Security threats - Copperbelt"
+      ],
+      "Keywords": [
+        "counter-intelligence",
+        "strategic intelligence",
+        "threat assessment"
+      ],
+      "RelevanceScore": 60.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02f05718-1ed1-20fd-0a79-009dbe51ecec",
+      "Title": "Zambia Intelligence Service security assessment strategic intelligence",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/9765",
+      "PublishedDate": "2025-12-07T17:30:30Z",
+      "PublishedAt": "2025-12-29T17:30:30Z",
+      "DiscoveredAt": "2026-01-06T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Intelligence gathering reveals counter-intelligence in Nakonde",
+      "RelatedEntities": [
+        "Foreign entities - Lusaka"
+      ],
+      "Entities": [
+        "Foreign entities - Lusaka"
+      ],
+      "Keywords": [
+        "national security",
+        "strategic intelligence",
+        "surveillance"
+      ],
+      "RelevanceScore": 65.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "027cea1a-1122-16b1-0af9-0023aa1f62d5",
+      "Title": "Zambia Intelligence Service threat analysis surveillance",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/5082",
+      "PublishedDate": "2025-11-16T17:30:30Z",
+      "PublishedAt": "2025-12-24T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Security assessment reveals strategic intelligence in Copperbelt",
+      "RelatedEntities": [
+        "Security threats - Copperbelt"
+      ],
+      "Entities": [
+        "Security threats - Copperbelt"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "threat assessment",
+        "national security"
+      ],
+      "RelevanceScore": 83.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02092897-1d3a-1461-1b35-00a32a746827",
+      "Title": "Zambia Intelligence Service counter-intelligence strategic intelligence",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/6478",
+      "PublishedDate": "2026-01-05T17:30:30Z",
+      "PublishedAt": "2025-12-06T17:30:30Z",
+      "DiscoveredAt": "2026-01-17T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Intelligence gathering reveals threat assessment in border regions",
+      "RelatedEntities": [
+        "Security threats - Livingstone"
+      ],
+      "Entities": [
+        "Security threats - Livingstone"
+      ],
+      "Keywords": [
+        "counter-intelligence",
+        "strategic intelligence",
+        "national security"
+      ],
+      "RelevanceScore": 77.5,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03874ffc-220d-1414-1bc4-00dc5766c7e9",
+      "Title": "Zambia Intelligence Service counter-intelligence strategic intelligence",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/4097",
+      "PublishedDate": "2025-12-09T17:30:30Z",
+      "PublishedAt": "2025-11-18T17:30:30Z",
+      "DiscoveredAt": "2025-11-19T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Security assessment reveals national security in Nakonde",
+      "RelatedEntities": [
+        "Security threats - Livingstone"
+      ],
+      "Entities": [
+        "Security threats - Livingstone"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "surveillance",
+        "counter-intelligence"
+      ],
+      "RelevanceScore": 70.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "017d216a-2164-223c-0d77-00255bcc180a",
+      "Title": "Zambia Intelligence Service security assessment surveillance",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/4296",
+      "PublishedDate": "2025-12-22T17:30:30Z",
+      "PublishedAt": "2025-11-10T17:30:30Z",
+      "DiscoveredAt": "2026-01-08T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Threat analysis reveals strategic intelligence in Livingstone",
+      "RelatedEntities": [
+        "Foreign entities - Nakonde"
+      ],
+      "Entities": [
+        "Foreign entities - Nakonde"
+      ],
+      "Keywords": [
+        "counter-intelligence",
+        "strategic intelligence",
+        "threat assessment"
+      ],
+      "RelevanceScore": 75.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03c2511b-0fd7-0554-1279-002f93abf516",
+      "Title": "Zambia Intelligence Service intelligence gathering surveillance",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/3193",
+      "PublishedDate": "2025-12-14T17:30:30Z",
+      "PublishedAt": "2025-11-14T17:30:30Z",
+      "DiscoveredAt": "2026-01-11T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Intelligence gathering reveals counter-intelligence in border regions",
+      "RelatedEntities": [
+        "Security threats - Livingstone"
+      ],
+      "Entities": [
+        "Security threats - Livingstone"
+      ],
+      "Keywords": [
+        "national security",
+        "strategic intelligence",
+        "surveillance"
+      ],
+      "RelevanceScore": 86.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04550ffa-0ea2-1ec1-1dd4-005d047e4452",
+      "Title": "Zambia Intelligence Service surveillance counter-intelligence",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/2232",
+      "PublishedDate": "2025-12-14T17:30:30Z",
+      "PublishedAt": "2026-01-08T17:30:30Z",
+      "DiscoveredAt": "2025-12-29T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Counter-intelligence reveals threat assessment in Nakonde",
+      "RelatedEntities": [
+        "Intelligence targets - Lusaka"
+      ],
+      "Entities": [
+        "Intelligence targets - Lusaka"
+      ],
+      "Keywords": [
+        "national security",
+        "counter-intelligence",
+        "strategic intelligence"
+      ],
+      "RelevanceScore": 72.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0149041f-052b-2433-0e42-004ab62d0dff",
+      "Title": "Zambia Intelligence Service security assessment threat assessment",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/8247",
+      "PublishedDate": "2026-01-11T17:30:30Z",
+      "PublishedAt": "2025-11-27T17:30:30Z",
+      "DiscoveredAt": "2025-12-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Threat analysis reveals national security in Copperbelt",
+      "RelatedEntities": [
+        "Intelligence targets - Nakonde"
+      ],
+      "Entities": [
+        "Intelligence targets - Nakonde"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "surveillance",
+        "counter-intelligence"
+      ],
+      "RelevanceScore": 64.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02749ec0-2216-0432-0876-009d8672dc49",
+      "Title": "Zambia Intelligence Service intelligence gathering strategic intelligence",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/3665",
+      "PublishedDate": "2025-10-21T17:30:30Z",
+      "PublishedAt": "2025-10-29T17:30:30Z",
+      "DiscoveredAt": "2025-11-23T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Intelligence gathering reveals national security in Copperbelt",
+      "RelatedEntities": [
+        "Intelligence targets - Livingstone"
+      ],
+      "Entities": [
+        "Intelligence targets - Livingstone"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "national security",
+        "counter-intelligence"
+      ],
+      "RelevanceScore": 69.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04f0b8f8-20b4-208a-0aae-0098f859bc0f",
+      "Title": "Zambia Intelligence Service security assessment national security",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/5265",
+      "PublishedDate": "2025-11-26T17:30:30Z",
+      "PublishedAt": "2025-12-12T17:30:30Z",
+      "DiscoveredAt": "2026-01-10T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Intelligence gathering reveals threat assessment in Nakonde",
+      "RelatedEntities": [
+        "Intelligence targets - Nakonde"
+      ],
+      "Entities": [
+        "Intelligence targets - Nakonde"
+      ],
+      "Keywords": [
+        "strategic intelligence",
+        "counter-intelligence",
+        "surveillance"
+      ],
+      "RelevanceScore": 80.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01ac93cf-17a8-0cf0-2356-001b5ce008b0",
+      "Title": "Zambia Intelligence Service counter-intelligence national security",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/3979",
+      "PublishedDate": "2025-12-31T17:30:30Z",
+      "PublishedAt": "2025-11-26T17:30:30Z",
+      "DiscoveredAt": "2025-12-30T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Surveillance reveals strategic intelligence in Copperbelt",
+      "RelatedEntities": [
+        "Intelligence targets - Livingstone"
+      ],
+      "Entities": [
+        "Intelligence targets - Livingstone"
+      ],
+      "Keywords": [
+        "threat assessment",
+        "counter-intelligence",
+        "strategic intelligence"
+      ],
+      "RelevanceScore": 85.9,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0289e01c-1ec1-14f9-05ac-006396881dc8",
+      "Title": "Zambia Intelligence Service intelligence gathering counter-intelligence",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/4902",
+      "PublishedDate": "2025-10-23T17:30:30Z",
+      "PublishedAt": "2025-10-25T17:30:30Z",
+      "DiscoveredAt": "2025-12-14T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Surveillance reveals national security in Copperbelt",
+      "RelatedEntities": [
+        "Security threats - Copperbelt"
+      ],
+      "Entities": [
+        "Security threats - Copperbelt"
+      ],
+      "Keywords": [
+        "threat assessment",
+        "counter-intelligence",
+        "strategic intelligence"
+      ],
+      "RelevanceScore": 84.8,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "00a0779a-1b96-0fa3-123f-005addd0cdd4",
+      "ArticleId": "01fb950b-12b6-1e73-0ea3-00943f28da90",
+      "EntityId": "02acb8b0-1449-0c60-2448-00a44dcf6250",
+      "EntityName": "Intelligence targets - Copperbelt",
+      "AlertReason": "Adverse media on national security",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-10-27T17:30:30Z",
+      "TriggeredAt": "2025-11-23T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0104db01-23ce-1b35-0854-006dc9011d05",
+      "ArticleId": "01f2f5cb-1d69-0d38-16c5-001bf0404116",
+      "EntityId": "048b87b6-0b70-1338-1835-007a055ad90e",
+      "EntityName": "Intelligence targets - Copperbelt",
+      "AlertReason": "Adverse media on national security",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-29T17:30:30Z",
+      "TriggeredAt": "2025-12-25T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0259d0e3-13ab-1bf0-21d0-004cff782d32",
+      "ArticleId": "00bc1893-2260-1c9f-0df6-003de6fda5f7",
+      "EntityId": "038bfa00-1dd5-2238-04ac-009a28435f83",
+      "EntityName": "Security threats - Copperbelt",
+      "AlertReason": "Adverse media on national security",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-30T17:30:30Z",
+      "TriggeredAt": "2026-01-11T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "030d1a99-1feb-1ec2-2160-008f6e0c0267",
+      "ArticleId": "00c7f000-1fc1-0cfb-1a1b-00590117c947",
+      "EntityId": "05790601-223b-0ee3-185c-00459c75f3be",
+      "EntityName": "Intelligence targets - Lusaka",
+      "AlertReason": "Adverse media on counter-intelligence",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-24T17:30:30Z",
+      "TriggeredAt": "2025-12-20T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "04acc317-1e70-03f9-1fbb-00bdf202d6ec",
+      "ArticleId": "0290d32e-1933-1fa4-0ab3-00bcd596c4bf",
+      "EntityId": "0279129d-1bce-1261-18e2-00d9862554be",
+      "EntityName": "Intelligence targets - border regions",
+      "AlertReason": "Adverse media on counter-intelligence",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-26T17:30:30Z",
+      "TriggeredAt": "2026-01-17T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03281213-1f35-18e4-0a23-006143a3aa8d",
+      "ArticleId": "05117e4f-12aa-146f-1722-00cd12e52e52",
+      "EntityId": "043662a4-1509-0a9f-1c7d-00ae74f15814",
+      "EntityName": "Foreign entities - Lusaka",
+      "AlertReason": "Adverse media on strategic intelligence",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-16T17:30:30Z",
+      "TriggeredAt": "2025-11-25T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "04abf716-1c08-1f72-0f98-00c55a4419d8",
+      "ArticleId": "01fb90a2-1c52-0b65-1d23-00c71f0c8f3b",
+      "EntityId": "04c98395-0cf3-0d7f-1c03-005dbcab95bb",
+      "EntityName": "Intelligence targets - border regions",
+      "AlertReason": "Adverse media on surveillance",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-06T17:30:30Z",
+      "TriggeredAt": "2025-12-25T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "041b88f6-13eb-1af3-14e0-00c4ec530983",
+      "ArticleId": "02ec2530-15fd-20ef-08bd-009dce366b92",
+      "EntityId": "04e306f2-0a00-1d75-0bd2-004de4f0c2f0",
+      "EntityName": "Persons of interest - border regions",
+      "AlertReason": "Adverse media on national security",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-18T17:30:30Z",
+      "TriggeredAt": "2025-12-21T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "05a20c28-0fb8-1407-124f-0040de3c0e4a",
+      "ArticleId": "0410baa2-2269-25d6-13cc-00c104475d76",
+      "EntityId": "044a86f5-1aaa-04b6-1b43-00bda7fc429e",
+      "EntityName": "Persons of interest - Copperbelt",
+      "AlertReason": "Adverse media on national security",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-03T17:30:30Z",
+      "TriggeredAt": "2025-11-17T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03f917f8-1e62-0b6e-0568-00792ad0da63",
+      "ArticleId": "00cffbdb-0b96-1bfc-1860-0045b9403659",
+      "EntityId": "0313175f-22b7-1543-1b58-0038fd74f22c",
+      "EntityName": "Security threats - Copperbelt",
+      "AlertReason": "Adverse media on counter-intelligence",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-09T17:30:30Z",
+      "TriggeredAt": "2025-12-12T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "05152228-1b60-141f-1590-00c71d6e82f3",
+      "ArticleId": "02f05718-1ed1-20fd-0a79-009dbe51ecec",
+      "EntityId": "01c95515-1530-2525-12e7-003684fe7096",
+      "EntityName": "Foreign entities - Lusaka",
+      "AlertReason": "Adverse media on counter-intelligence",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-10-30T17:30:30Z",
+      "TriggeredAt": "2025-11-28T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02740bcf-163b-1bc5-2184-00997fbbacca",
+      "ArticleId": "027cea1a-1122-16b1-0af9-0023aa1f62d5",
+      "EntityId": "03994b9c-2644-1f03-21c8-003a66940896",
+      "EntityName": "Security threats - Copperbelt",
+      "AlertReason": "Adverse media on surveillance",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-30T17:30:30Z",
+      "TriggeredAt": "2026-01-05T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "053d7864-1e08-15ee-0862-007c8958cf72",
+      "ArticleId": "017d216a-2164-223c-0d77-00255bcc180a",
+      "EntityId": "04c14c70-11b6-26a7-0e16-00b6fb8e239b",
+      "EntityName": "Foreign entities - Nakonde",
+      "AlertReason": "Adverse media on national security",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "TriggeredAt": "2026-01-04T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02c6d15c-1e16-12cf-1473-00532cf2b22f",
+      "ArticleId": "03c2511b-0fd7-0554-1279-002f93abf516",
+      "EntityId": "05886f9e-0cb8-149d-0572-0043780db489",
+      "EntityName": "Security threats - Livingstone",
+      "AlertReason": "Adverse media on strategic intelligence",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "TriggeredAt": "2025-10-21T17:30:30Z",
+      "IsAcknowledged": true
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "00a4298e-05b0-1937-111c-00799a008d6c",
+      "EntityName": "Zambia Intelligence Service",
+      "Keywords": [
+        "national security",
+        "surveillance",
+        "threat assessment"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 24,
+    "HighRiskArticles": 11,
+    "ActiveAlerts": 14,
+    "MonitoredEntities": 13,
+    "ArticlesByCategory": {
+      "regulatory": 6,
+      "criminal": 11,
+      "financial": 11,
+      "political": 13
+    },
+    "ArticlesBySeverity": {
+      "high": 13,
+      "medium": 15,
+      "low": 19
+    }
+  }
+}

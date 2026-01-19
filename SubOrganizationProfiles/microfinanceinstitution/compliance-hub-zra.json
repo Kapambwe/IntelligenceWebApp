@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 376,
+  "ActiveAlerts": 16,
+  "PendingReviews": 9,
+  "ComplianceScore": 93.3,
+  "Alerts": [
+    {
+      "Id": "03e7ddc1-1396-0bd2-2291-0099c940b88d",
+      "Type": "Financial inclusion",
+      "Severity": "Medium",
+      "EntityName": "Entrepreneurs - Kitwe",
+      "Description": "Credit assessment revealed SME lending involving entrepreneurs",
+      "DetectedAt": "2025-12-07T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05ae9177-26fa-1e65-1caa-0030e5a623b4",
+      "Type": "Savings mobilization",
+      "Severity": "High",
+      "EntityName": "Individual borrowers - Mongu",
+      "Description": "Customer onboarding revealed microloans involving entrepreneurs",
+      "DetectedAt": "2025-11-12T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04594abb-16d3-0900-2000-0061b4ecac44",
+      "Type": "Microloans",
+      "Severity": "High",
+      "EntityName": "Small businesses - Mongu",
+      "Description": "Credit assessment revealed microloans involving individual borrowers",
+      "DetectedAt": "2025-11-07T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04a97548-11c7-1953-040d-00c2415902f7",
+      "Type": "Microloans",
+      "Severity": "High",
+      "EntityName": "Entrepreneurs - Mongu",
+      "Description": "Loan processing revealed financial inclusion involving small businesses",
+      "DetectedAt": "2025-10-24T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "052e98da-199e-096d-041a-00bab60bfb34",
+      "Type": "Savings mobilization",
+      "Severity": "Medium",
+      "EntityName": "Entrepreneurs - Chipata",
+      "Description": "Recovery revealed credit risk involving small businesses",
+      "DetectedAt": "2025-11-22T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00f1e7d3-186c-0898-21ba-00db722ca41c",
+      "Type": "Microloans",
+      "Severity": "High",
+      "EntityName": "Small businesses - Chipata",
+      "Description": "Customer onboarding revealed SME lending involving savings groups",
+      "DetectedAt": "2025-12-21T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02d56f7e-09c0-109b-2198-00951668b11f",
+      "Type": "Savings mobilization",
+      "Severity": "Low",
+      "EntityName": "Individual borrowers - Chipata",
+      "Description": "Disbursement revealed SME lending involving savings groups",
+      "DetectedAt": "2026-01-05T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01395778-0a72-12f5-04fe-009e09b94960",
+      "Type": "Credit risk",
+      "Severity": "Medium",
+      "EntityName": "Savings groups - Kasama",
+      "Description": "Loan processing revealed SME lending involving individual borrowers",
+      "DetectedAt": "2026-01-16T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0484b828-14c2-182b-1268-00b971430088",
+      "Type": "Savings mobilization",
+      "Severity": "High",
+      "EntityName": "Savings groups - Mongu",
+      "Description": "Recovery revealed SME lending involving individual borrowers",
+      "DetectedAt": "2025-12-28T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0339053d-1869-1928-0525-0073f5b71229",
+      "Type": "Financial inclusion",
+      "Severity": "Medium",
+      "EntityName": "Small businesses - Mongu",
+      "Description": "Credit assessment revealed SME lending involving small businesses",
+      "DetectedAt": "2025-12-08T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0353dd3e-1081-0ebd-122e-001eb72b2cb2",
+      "Type": "Savings mobilization",
+      "Severity": "Low",
+      "EntityName": "Small businesses - Lusaka",
+      "Description": "Disbursement revealed microloans involving individual borrowers",
+      "DetectedAt": "2025-11-24T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02c24f5f-26b9-1512-1eb2-00b85b3392dd",
+      "Type": "Savings mobilization",
+      "Severity": "Low",
+      "EntityName": "Individual borrowers - Kasama",
+      "Description": "Disbursement revealed savings mobilization involving entrepreneurs",
+      "DetectedAt": "2026-01-13T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02287ad4-1824-0f99-040d-004cb5c6b169",
+      "Type": "Sme lending",
+      "Severity": "Low",
+      "EntityName": "Entrepreneurs - Kasama",
+      "Description": "Recovery revealed microloans involving individual borrowers",
+      "DetectedAt": "2025-12-29T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "05274a41-1272-0749-269c-00242a4c679b",
+      "Type": "Microloans",
+      "Severity": "High",
+      "EntityName": "Savings groups - Kitwe",
+      "Description": "Credit assessment revealed savings mobilization involving small businesses",
+      "DetectedAt": "2025-12-28T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04bc863c-23fb-0686-0671-0099b7c0c414",
+      "Type": "Credit risk",
+      "Severity": "Critical",
+      "EntityName": "Entrepreneurs - Chipata",
+      "Description": "Loan processing revealed SME lending involving individual borrowers",
+      "DetectedAt": "2025-10-21T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00ed6689-198b-135f-224a-00d4946d9638",
+      "Type": "Sme lending",
+      "Severity": "Medium",
+      "EntityName": "Savings groups - Mongu",
+      "Description": "Customer onboarding revealed financial inclusion involving individual borrowers",
+      "DetectedAt": "2026-01-03T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02d7684f-1c9d-2208-06ab-00aa3d410e48",
+      "Type": "Credit risk",
+      "Severity": "Medium",
+      "EntityName": "Small businesses - Chipata",
+      "Description": "Disbursement revealed microloans involving savings groups",
+      "DetectedAt": "2025-12-06T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01da0abd-247e-259b-12b2-0095887812e2",
+      "Type": "Sme lending",
+      "Severity": "Low",
+      "EntityName": "Small businesses - Chipata",
+      "Description": "Disbursement revealed savings mobilization involving individual borrowers",
+      "DetectedAt": "2025-12-04T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00db41a3-1a4b-23c3-249b-00d48dd60ce1",
+      "Type": "Savings mobilization",
+      "Severity": "High",
+      "EntityName": "Individual borrowers - Kasama",
+      "Description": "Disbursement revealed financial inclusion involving small businesses",
+      "DetectedAt": "2025-11-08T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05bc8d73-0b50-04cb-10a4-002cf3865ff2",
+      "Type": "Microloans",
+      "Severity": "Medium",
+      "EntityName": "Individual borrowers - Lusaka",
+      "Description": "Recovery revealed microloans involving entrepreneurs",
+      "DetectedAt": "2025-11-03T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01c1bdc4-19eb-057f-0d17-00ca28c8af9b",
+      "Type": "Savings mobilization",
+      "Severity": "Critical",
+      "EntityName": "Individual borrowers - Mongu",
+      "Description": "Recovery revealed savings mobilization involving individual borrowers",
+      "DetectedAt": "2025-12-05T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03413bcb-257e-268a-0860-00398080788e",
+      "Type": "Credit risk",
+      "Severity": "Medium",
+      "EntityName": "Individual borrowers - Lusaka",
+      "Description": "Customer onboarding revealed SME lending involving entrepreneurs",
+      "DetectedAt": "2025-10-21T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02bb3fac-124f-15b1-0725-006b0343ae19",
+      "Type": "Microloans",
+      "Severity": "Low",
+      "EntityName": "Small businesses - Kasama",
+      "Description": "Customer onboarding revealed SME lending involving small businesses",
+      "DetectedAt": "2025-11-21T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "015832c2-16cb-072b-05e8-00c1b8130607",
+      "Type": "Credit risk",
+      "Severity": "Critical",
+      "EntityName": "Entrepreneurs - Lusaka",
+      "Description": "Customer onboarding revealed financial inclusion involving entrepreneurs",
+      "DetectedAt": "2025-11-14T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0252a866-15fb-14f1-2451-002591ebd898",
+      "Type": "Sme lending",
+      "Severity": "Critical",
+      "EntityName": "Individual borrowers - Kitwe",
+      "Description": "Recovery revealed financial inclusion involving individual borrowers",
+      "DetectedAt": "2025-10-30T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03904576-1e8b-1e3e-1aaf-005d4d845777",
+      "Type": "Savings mobilization",
+      "Severity": "Medium",
+      "EntityName": "Savings groups - Lusaka",
+      "Description": "Loan processing revealed savings mobilization involving small businesses",
+      "DetectedAt": "2026-01-05T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0338cca2-1554-26ba-16bb-00c31d7075eb",
+      "Type": "Sme lending",
+      "Severity": "High",
+      "EntityName": "Entrepreneurs - Kasama",
+      "Description": "Loan processing revealed savings mobilization involving small businesses",
+      "DetectedAt": "2026-01-06T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "020755ef-19a3-06f4-065c-00abce41a38f",
+      "Type": "Credit risk",
+      "Severity": "High",
+      "EntityName": "Entrepreneurs - Lusaka",
+      "Description": "Recovery revealed savings mobilization involving small businesses",
+      "DetectedAt": "2025-11-21T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03949826-0e20-1f8b-0757-00aa0b8009be",
+      "Type": "Credit risk",
+      "Severity": "Medium",
+      "EntityName": "Entrepreneurs - Lusaka",
+      "Description": "Loan processing revealed SME lending involving individual borrowers",
+      "DetectedAt": "2025-12-21T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01faf1ec-22ef-0814-1fef-00d931e35802",
+      "Type": "Sme lending",
+      "Severity": "Critical",
+      "EntityName": "Small businesses - Kasama",
+      "Description": "Disbursement revealed credit risk involving entrepreneurs",
+      "DetectedAt": "2025-12-06T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02e58813-1fb8-04dd-0c85-008afa178100",
+      "Type": "Financial inclusion",
+      "Severity": "High",
+      "EntityName": "Savings groups - Chipata",
+      "Description": "Disbursement revealed microloans involving entrepreneurs",
+      "DetectedAt": "2025-12-26T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02a659f8-0696-05d7-1634-00e3c254d231",
+      "Type": "Sme lending",
+      "Severity": "Critical",
+      "EntityName": "Entrepreneurs - Kasama",
+      "Description": "Customer onboarding revealed microloans involving individual borrowers",
+      "DetectedAt": "2025-12-23T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02834777-14de-0c5e-2172-006d7ce91cd7",
+      "Type": "Sme lending",
+      "Severity": "Medium",
+      "EntityName": "Savings groups - Chipata",
+      "Description": "Customer onboarding revealed microloans involving entrepreneurs",
+      "DetectedAt": "2025-12-23T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0161d7b3-1f42-13a8-23e0-003e880c781b",
+      "Type": "Microloans",
+      "Severity": "Medium",
+      "EntityName": "Entrepreneurs - Chipata",
+      "Description": "Credit assessment revealed savings mobilization involving individual borrowers",
+      "DetectedAt": "2026-01-12T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02a28982-0841-0d3d-0a3d-003d938adb0b",
+      "Type": "Financial inclusion",
+      "Severity": "Medium",
+      "EntityName": "Entrepreneurs - Kitwe",
+      "Description": "Customer onboarding revealed microloans involving savings groups",
+      "DetectedAt": "2025-12-28T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0381277c-0b50-0beb-1142-00410a1b4ea7",
+      "Type": "Sme lending",
+      "Severity": "Medium",
+      "EntityName": "Savings groups - Mongu",
+      "Description": "Loan processing revealed SME lending involving individual borrowers",
+      "DetectedAt": "2026-01-04T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0468b3f7-1ce7-0d29-0733-0056f1558f66",
+      "Type": "Sme lending",
+      "Severity": "High",
+      "EntityName": "Small businesses - Lusaka",
+      "Description": "Recovery revealed savings mobilization involving savings groups",
+      "DetectedAt": "2025-12-31T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02efdb84-207f-06d7-261a-00d595dddefe",
+      "Type": "Microloans",
+      "Severity": "High",
+      "EntityName": "Savings groups - Chipata",
+      "Description": "Loan processing revealed credit risk involving individual borrowers",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03a3c600-13ce-208b-076a-00cd63515d87",
+      "Type": "Microloans",
+      "Severity": "Low",
+      "EntityName": "Savings groups - Kitwe",
+      "Description": "Disbursement revealed microloans involving small businesses",
+      "DetectedAt": "2025-12-28T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "012ab2ba-147a-234e-1ccb-003bbbdc1f61",
+      "Type": "Sme lending",
+      "Severity": "Low",
+      "EntityName": "Entrepreneurs - Kasama",
+      "Description": "Credit assessment revealed SME lending involving savings groups",
+      "DetectedAt": "2026-01-10T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02a10d27-2461-2064-0b63-00bf1c73961c",
+      "Type": "Savings mobilization",
+      "Severity": "Low",
+      "EntityName": "Individual borrowers - Mongu",
+      "Description": "Credit assessment revealed microloans involving small businesses",
+      "DetectedAt": "2025-12-18T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01a4609e-0961-0c67-059f-0065498fa0f4",
+      "Type": "Microloans",
+      "Severity": "Low",
+      "EntityName": "Entrepreneurs - Kasama",
+      "Description": "Loan processing revealed savings mobilization involving small businesses",
+      "DetectedAt": "2026-01-01T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02f8d8d4-0bb3-23d3-0b89-00ae129790de",
+      "Type": "Financial inclusion",
+      "Severity": "Low",
+      "EntityName": "Entrepreneurs - Kitwe",
+      "Description": "Credit assessment revealed financial inclusion involving savings groups",
+      "DetectedAt": "2025-10-27T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "055f9254-2649-1202-0615-00660accc3ed",
+      "Type": "Credit risk",
+      "Severity": "High",
+      "EntityName": "Entrepreneurs - Kitwe",
+      "Description": "Customer onboarding revealed financial inclusion involving savings groups",
+      "DetectedAt": "2025-12-07T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05326e4e-0d9d-0b72-1e3c-005219bb9676",
+      "Type": "Credit risk",
+      "Severity": "Medium",
+      "EntityName": "Savings groups - Kasama",
+      "Description": "Loan processing revealed SME lending involving individual borrowers",
+      "DetectedAt": "2026-01-11T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0193384a-1e8e-2377-1e4d-00679714af34",
+      "Type": "Financial inclusion",
+      "Severity": "Critical",
+      "EntityName": "Small businesses - Mongu",
+      "Description": "Customer onboarding revealed credit risk involving savings groups",
+      "DetectedAt": "2025-12-29T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03a56270-2346-0543-1deb-005861d91fb3",
+      "Type": "Sme lending",
+      "Severity": "Critical",
+      "EntityName": "Savings groups - Kitwe",
+      "Description": "Disbursement revealed financial inclusion involving individual borrowers",
+      "DetectedAt": "2026-01-12T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01ae4984-210d-0efd-08ec-00a277205e45",
+      "Type": "Credit risk",
+      "Severity": "Low",
+      "EntityName": "Entrepreneurs - Chipata",
+      "Description": "Loan processing revealed SME lending involving individual borrowers",
+      "DetectedAt": "2025-11-21T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "039ba859-1f5a-0818-08b5-00d57917336f",
+      "Type": "Financial inclusion",
+      "Severity": "High",
+      "EntityName": "Savings groups - Kitwe",
+      "Description": "Disbursement revealed SME lending involving entrepreneurs",
+      "DetectedAt": "2025-11-13T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0291ce67-1bb5-2448-141a-00c336964f89",
+      "Type": "Savings mobilization",
+      "Severity": "Medium",
+      "EntityName": "Individual borrowers - Kasama",
+      "Description": "Credit assessment revealed SME lending involving small businesses",
+      "DetectedAt": "2025-11-28T17:30:30Z",
+      "Status": "Pending"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 60
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 65
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 84
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 65
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 66
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 68
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 86
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 64
+    }
+  ]
+}

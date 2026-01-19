@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "025b5da8-1384-25ec-1731-00e819872c75",
+      "Name": "Featured subjects - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2025-10-03T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "0336c90a-0a7a-1861-23cc-00de6be554c3",
+      "Name": "Corporations - nationwide coverage",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 94,
+      "CreatedAt": "2024-05-09T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z"
+    },
+    {
+      "Id": "018d7982-21af-2615-0d79-0068148f108c",
+      "Name": "Corporations - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 63,
+      "CreatedAt": "2024-10-02T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "00fb6849-1939-1989-0e31-004b0571619a",
+      "Name": "Featured subjects - Copperbelt",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 71,
+      "CreatedAt": "2025-07-21T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "00c755f8-0b85-1e80-15f2-00940581313e",
+      "Name": "Public figures - Southern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 28,
+      "CreatedAt": "2025-03-22T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "04e1196e-15df-1e4b-14d5-0077f0090e4f",
+      "Name": "Corporations - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 49,
+      "CreatedAt": "2025-03-13T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z"
+    },
+    {
+      "Id": "03658483-114a-2289-166b-00b08793a0db",
+      "Name": "Public figures - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 41,
+      "CreatedAt": "2025-03-02T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "036c5638-17a1-1493-1708-0044dbe3cdd7",
+      "Name": "Featured subjects - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 54,
+      "CreatedAt": "2024-01-13T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "0309355c-1efd-118c-2355-009ed6d2024b",
+      "Name": "Corporations - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 27,
+      "CreatedAt": "2024-04-01T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "0225ff25-119a-04e0-057f-00d7d525c352",
+      "Name": "Corporations - Copperbelt",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 23,
+      "CreatedAt": "2024-09-22T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "00c3eed5-1ecf-1adb-15f4-0019e1d5d0fb",
+      "Name": "Featured subjects - Southern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 66,
+      "CreatedAt": "2024-02-12T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z"
+    },
+    {
+      "Id": "03858096-1f9f-091f-226d-00914ad9ec03",
+      "Name": "Government entities - nationwide coverage",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2025-07-16T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "047c3a1f-0ac0-1b08-112a-005005f37a6c",
+      "Name": "Government entities - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 44,
+      "CreatedAt": "2025-01-29T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "03f3155f-22c9-0f06-0401-003f6c1bd498",
+      "Name": "Featured subjects - nationwide coverage",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 93,
+      "CreatedAt": "2024-07-27T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "05413a01-0d08-2653-05c5-008b555c1c17",
+      "Name": "Public figures - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 26,
+      "CreatedAt": "2025-06-12T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "018fb9c0-25de-06a9-2353-0087b62d2ce4",
+      "Name": "Featured subjects - Copperbelt",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 29,
+      "CreatedAt": "2025-09-20T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "04ed1d61-1ec3-1c01-0cb0-00e64c73f893",
+      "Name": "Featured subjects - nationwide coverage",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 51,
+      "CreatedAt": "2025-03-28T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z"
+    },
+    {
+      "Id": "02f74364-10de-133a-203b-0095cc1a6ee0",
+      "Name": "Public figures - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 27,
+      "CreatedAt": "2025-08-15T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "033f1722-047c-14e5-0c08-00bff9e3f58a",
+      "Name": "Featured subjects - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 57,
+      "CreatedAt": "2024-11-01T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "01d3c70a-1b38-15f2-0cb7-00a2f7d6c779",
+      "Name": "Government entities - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 35,
+      "CreatedAt": "2024-07-13T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z"
+    },
+    {
+      "Id": "05bd2d7d-1b90-258a-1631-005e9504b581",
+      "Name": "Featured subjects - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 31,
+      "CreatedAt": "2025-05-23T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "011cf12a-0fc8-0c2d-0d70-008563973c5d",
+      "Name": "Corporations - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 70,
+      "CreatedAt": "2024-03-31T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z"
+    },
+    {
+      "Id": "039dd9c6-12d2-03e8-06fb-006c980e2b10",
+      "Name": "Featured subjects - nationwide coverage",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 71,
+      "CreatedAt": "2024-03-16T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "05ddfbf6-05c9-05d8-1aec-00bb95532042",
+      "Name": "Corporations - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 45,
+      "CreatedAt": "2024-08-20T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "00e38b11-2508-0587-05d7-00836084ad8a",
+      "Name": "Public figures - Southern Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 74,
+      "CreatedAt": "2025-06-20T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "01122249-0e39-1d17-1afe-008fb974afca",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 40,
+      "CreatedAt": "2024-08-09T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z"
+    },
+    {
+      "Id": "0109eb8b-1d76-0a17-0b92-00e3a837c5da",
+      "Name": "Corporations - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 46,
+      "CreatedAt": "2024-12-24T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "01ca6de3-0feb-13c6-05af-0093467e9ef7",
+      "Name": "Government entities - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 95,
+      "CreatedAt": "2024-06-01T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "017b45d1-14e6-22ed-24dc-00cab0c2058e",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 22,
+      "CreatedAt": "2024-07-05T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "021e6f3b-24dd-170c-256b-007838f4a83a",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 66,
+      "CreatedAt": "2025-07-26T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "0310e06f-1647-0a29-1169-00189a217f95",
+      "Name": "Government entities - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 96,
+      "CreatedAt": "2024-08-22T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "04276ce6-1c5e-1f74-19b4-00a88a07b856",
+      "Name": "Public figures - Copperbelt",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 74,
+      "CreatedAt": "2023-12-12T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "0201895b-0722-0c80-1fe0-009b906d56af",
+      "Name": "Government entities - nationwide coverage",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 43,
+      "CreatedAt": "2024-04-22T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "00df2b10-1be2-0a5d-1d08-009f83646b70",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 59,
+      "CreatedAt": "2025-02-23T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "0518232c-0b7d-0ad8-11d6-00b7421706ec",
+      "Name": "Government entities - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 26,
+      "CreatedAt": "2024-07-22T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "01d847f0-15fe-0742-1058-00348e54db46",
+      "Name": "Featured subjects - Southern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 84,
+      "CreatedAt": "2024-02-27T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z"
+    },
+    {
+      "Id": "053db824-04da-20ba-0b4d-0076c51fc508",
+      "Name": "Corporations - Southern Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 48,
+      "CreatedAt": "2024-05-24T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z"
+    },
+    {
+      "Id": "05185f92-2223-22e6-1297-0045cbaf5be4",
+      "Name": "Public figures - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2025-08-08T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z"
+    },
+    {
+      "Id": "04c2c251-1ce5-13f6-25ca-009f888f1706",
+      "Name": "Public figures - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 90,
+      "CreatedAt": "2025-01-30T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "0270d92d-2505-17f3-041e-00d3f8765549",
+      "Name": "Public figures - Southern Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 70,
+      "CreatedAt": "2024-08-10T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "05ef9757-1df0-0960-0790-009bb5f1b78e",
+      "Name": "Public figures - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 31,
+      "CreatedAt": "2025-07-07T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "01771a49-1dcb-163b-2328-008deda10ba4",
+      "Name": "Featured subjects - Southern Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 24,
+      "CreatedAt": "2024-07-04T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "02e024d2-0a6c-0873-0fb9-00cc80519319",
+      "Name": "Public figures - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 85,
+      "CreatedAt": "2024-02-06T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "00b3027d-2404-20df-2637-003d35701994",
+      "Name": "Featured subjects - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 96,
+      "CreatedAt": "2024-04-08T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "03ec8578-26e9-1e87-1090-002cd414a3bd",
+      "Name": "Featured subjects - Southern Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 49,
+      "CreatedAt": "2025-05-01T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z"
+    },
+    {
+      "Id": "028d1989-1b80-1ef5-1344-008f5dd895b2",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2025-09-26T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "0264e01a-21e2-0a29-2523-00d9e1674f85",
+      "Name": "Corporations - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 55,
+      "CreatedAt": "2023-12-20T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "04c5a551-23c3-0b89-14b3-0018775b8f8d",
+      "Name": "Public figures - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 46,
+      "CreatedAt": "2025-10-10T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "0287bc51-1fa0-0a8f-13b0-00e0570c7cb1",
+      "Name": "Public figures - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 95,
+      "CreatedAt": "2024-09-27T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "030cd80d-0939-160f-1de0-008bc9ad1b80",
+      "Name": "Public figures - Southern Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 37,
+      "CreatedAt": "2025-04-21T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "025b5da8-1384-25ec-1731-00e819872c75",
+      "Name": "Featured subjects - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2025-10-03T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-4546",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "media scrutiny",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Medium",
+          "Score": 23
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Medium",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0336c90a-0a7a-1861-23cc-00de6be554c3",
+      "Name": "Corporations - nationwide coverage",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 94,
+      "CreatedAt": "2024-05-09T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-1680",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 21
+        },
+        {
+          "Name": "Public accountability",
+          "Severity": "High",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "018d7982-21af-2615-0d79-0068148f108c",
+      "Name": "Corporations - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 63,
+      "CreatedAt": "2024-10-02T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-4508",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Critical",
+          "Score": 40
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00fb6849-1939-1989-0e31-004b0571619a",
+      "Name": "Featured subjects - Copperbelt",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 71,
+      "CreatedAt": "2025-07-21T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-1431",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "media scrutiny",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 21
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00c755f8-0b85-1e80-15f2-00940581313e",
+      "Name": "Public figures - Southern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 28,
+      "CreatedAt": "2025-03-22T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2026-4039",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Media scrutiny",
+          "Severity": "High",
+          "Score": 24
+        },
+        {
+          "Name": "Public accountability",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04e1196e-15df-1e4b-14d5-0077f0090e4f",
+      "Name": "Corporations - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 49,
+      "CreatedAt": "2025-03-13T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-3894",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 19
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03658483-114a-2289-166b-00b08793a0db",
+      "Name": "Public figures - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 41,
+      "CreatedAt": "2025-03-02T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-1740",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Documentary production",
+          "Severity": "Low",
+          "Score": 12
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "036c5638-17a1-1493-1708-0044dbe3cdd7",
+      "Name": "Featured subjects - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 54,
+      "CreatedAt": "2024-01-13T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-5735",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Medium",
+          "Score": 28
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0309355c-1efd-118c-2355-009ed6d2024b",
+      "Name": "Corporations - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 27,
+      "CreatedAt": "2024-04-01T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-2370",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 27
+        },
+        {
+          "Name": "News coverage",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0225ff25-119a-04e0-057f-00d7d525c352",
+      "Name": "Corporations - Copperbelt",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 23,
+      "CreatedAt": "2024-09-22T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-5194",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "documentary production",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News coverage",
+          "Severity": "Low",
+          "Score": 32
+        },
+        {
+          "Name": "News coverage",
+          "Severity": "High",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00c3eed5-1ecf-1adb-15f4-0019e1d5d0fb",
+      "Name": "Featured subjects - Southern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 66,
+      "CreatedAt": "2024-02-12T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-3975",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public accountability",
+          "Severity": "Low",
+          "Score": 38
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03858096-1f9f-091f-226d-00914ad9ec03",
+      "Name": "Government entities - nationwide coverage",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2025-07-16T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2026-3906",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "documentary production",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Low",
+          "Score": 17
+        },
+        {
+          "Name": "News coverage",
+          "Severity": "High",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "047c3a1f-0ac0-1b08-112a-005005f37a6c",
+      "Name": "Government entities - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 44,
+      "CreatedAt": "2025-01-29T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-3168",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 28
+        },
+        {
+          "Name": "Public accountability",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03f3155f-22c9-0f06-0401-003f6c1bd498",
+      "Name": "Featured subjects - nationwide coverage",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 93,
+      "CreatedAt": "2024-07-27T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-1770",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News coverage",
+          "Severity": "Low",
+          "Score": 38
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "High",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05413a01-0d08-2653-05c5-008b555c1c17",
+      "Name": "Public figures - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 26,
+      "CreatedAt": "2025-06-12T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2025-6574",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Documentary production",
+          "Severity": "High",
+          "Score": 20
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "018fb9c0-25de-06a9-2353-0087b62d2ce4",
+      "Name": "Featured subjects - Copperbelt",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 29,
+      "CreatedAt": "2025-09-20T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-3351",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News coverage",
+          "Severity": "Low",
+          "Score": 31
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04ed1d61-1ec3-1c01-0cb0-00e64c73f893",
+      "Name": "Featured subjects - nationwide coverage",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 51,
+      "CreatedAt": "2025-03-28T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2024-4074",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public accountability",
+          "Severity": "Low",
+          "Score": 40
+        },
+        {
+          "Name": "Documentary production",
+          "Severity": "Medium",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f74364-10de-133a-203b-0095cc1a6ee0",
+      "Name": "Public figures - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 27,
+      "CreatedAt": "2025-08-15T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2026-9969",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "media scrutiny",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Low",
+          "Score": 25
+        },
+        {
+          "Name": "Public accountability",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "033f1722-047c-14e5-0c08-00bff9e3f58a",
+      "Name": "Featured subjects - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 57,
+      "CreatedAt": "2024-11-01T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-6548",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public accountability",
+          "Severity": "Low",
+          "Score": 12
+        },
+        {
+          "Name": "Public accountability",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01d3c70a-1b38-15f2-0cb7-00a2f7d6c779",
+      "Name": "Government entities - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 35,
+      "CreatedAt": "2024-07-13T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2025-2832",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public accountability",
+          "Severity": "Medium",
+          "Score": 11
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05bd2d7d-1b90-258a-1631-005e9504b581",
+      "Name": "Featured subjects - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 31,
+      "CreatedAt": "2025-05-23T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2024-4761",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "media scrutiny",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 32
+        },
+        {
+          "Name": "Public accountability",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "011cf12a-0fc8-0c2d-0d70-008563973c5d",
+      "Name": "Corporations - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 70,
+      "CreatedAt": "2024-03-31T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-3183",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public accountability",
+          "Severity": "Medium",
+          "Score": 18
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "039dd9c6-12d2-03e8-06fb-006c980e2b10",
+      "Name": "Featured subjects - nationwide coverage",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 71,
+      "CreatedAt": "2024-03-16T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-7918",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 34
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ddfbf6-05c9-05d8-1aec-00bb95532042",
+      "Name": "Corporations - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 45,
+      "CreatedAt": "2024-08-20T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-7626",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Documentary production",
+          "Severity": "Low",
+          "Score": 44
+        },
+        {
+          "Name": "Public accountability",
+          "Severity": "High",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00e38b11-2508-0587-05d7-00836084ad8a",
+      "Name": "Public figures - Southern Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 74,
+      "CreatedAt": "2025-06-20T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2022-3802",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "media scrutiny",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News coverage",
+          "Severity": "High",
+          "Score": 25
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01122249-0e39-1d17-1afe-008fb974afca",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 40,
+      "CreatedAt": "2024-08-09T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-5866",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "media scrutiny",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Media scrutiny",
+          "Severity": "High",
+          "Score": 42
+        },
+        {
+          "Name": "Public accountability",
+          "Severity": "Critical",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0109eb8b-1d76-0a17-0b92-00e3a837c5da",
+      "Name": "Corporations - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 46,
+      "CreatedAt": "2024-12-24T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-8792",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News coverage",
+          "Severity": "Critical",
+          "Score": 25
+        },
+        {
+          "Name": "Documentary production",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01ca6de3-0feb-13c6-05af-0093467e9ef7",
+      "Name": "Government entities - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 95,
+      "CreatedAt": "2024-06-01T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2022-8433",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public accountability",
+          "Severity": "Medium",
+          "Score": 22
+        },
+        {
+          "Name": "Public accountability",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "017b45d1-14e6-22ed-24dc-00cab0c2058e",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 22,
+      "CreatedAt": "2024-07-05T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2025-7125",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "documentary production",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 45
+        },
+        {
+          "Name": "Public accountability",
+          "Severity": "High",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "021e6f3b-24dd-170c-256b-007838f4a83a",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 66,
+      "CreatedAt": "2025-07-26T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-6171",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "media scrutiny",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Documentary production",
+          "Severity": "Critical",
+          "Score": 34
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0310e06f-1647-0a29-1169-00189a217f95",
+      "Name": "Government entities - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 96,
+      "CreatedAt": "2024-08-22T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-8858",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "media scrutiny",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 44
+        },
+        {
+          "Name": "News coverage",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04276ce6-1c5e-1f74-19b4-00a88a07b856",
+      "Name": "Public figures - Copperbelt",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 74,
+      "CreatedAt": "2023-12-12T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-9765",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 38
+        },
+        {
+          "Name": "Documentary production",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0201895b-0722-0c80-1fe0-009b906d56af",
+      "Name": "Government entities - nationwide coverage",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 43,
+      "CreatedAt": "2024-04-22T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2026-8912",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "documentary production",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 45
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00df2b10-1be2-0a5d-1d08-009f83646b70",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 59,
+      "CreatedAt": "2025-02-23T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2022-6531",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "media scrutiny",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News coverage",
+          "Severity": "Critical",
+          "Score": 11
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0518232c-0b7d-0ad8-11d6-00b7421706ec",
+      "Name": "Government entities - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 26,
+      "CreatedAt": "2024-07-22T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-7323",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "media scrutiny",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Low",
+          "Score": 26
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01d847f0-15fe-0742-1058-00348e54db46",
+      "Name": "Featured subjects - Southern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 84,
+      "CreatedAt": "2024-02-27T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2022-8061",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Low",
+          "Score": 14
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "053db824-04da-20ba-0b4d-0076c51fc508",
+      "Name": "Corporations - Southern Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 48,
+      "CreatedAt": "2024-05-24T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-3806",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News coverage",
+          "Severity": "High",
+          "Score": 29
+        },
+        {
+          "Name": "Documentary production",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05185f92-2223-22e6-1297-0045cbaf5be4",
+      "Name": "Public figures - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2025-08-08T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-5648",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "media scrutiny",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public accountability",
+          "Severity": "High",
+          "Score": 16
+        },
+        {
+          "Name": "News coverage",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04c2c251-1ce5-13f6-25ca-009f888f1706",
+      "Name": "Public figures - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 90,
+      "CreatedAt": "2025-01-30T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2024-2770",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public accountability",
+          "Severity": "High",
+          "Score": 19
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0270d92d-2505-17f3-041e-00d3f8765549",
+      "Name": "Public figures - Southern Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 70,
+      "CreatedAt": "2024-08-10T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-4808",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Low",
+          "Score": 23
+        },
+        {
+          "Name": "Documentary production",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ef9757-1df0-0960-0790-009bb5f1b78e",
+      "Name": "Public figures - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 31,
+      "CreatedAt": "2025-07-07T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2024-8211",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "documentary production",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 25
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Medium",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01771a49-1dcb-163b-2328-008deda10ba4",
+      "Name": "Featured subjects - Southern Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 24,
+      "CreatedAt": "2024-07-04T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2024-7194",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Low",
+          "Score": 26
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Medium",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02e024d2-0a6c-0873-0fb9-00cc80519319",
+      "Name": "Public figures - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 85,
+      "CreatedAt": "2024-02-06T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2025-3318",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "media scrutiny",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Critical",
+          "Score": 28
+        },
+        {
+          "Name": "Public accountability",
+          "Severity": "Critical",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00b3027d-2404-20df-2637-003d35701994",
+      "Name": "Featured subjects - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 96,
+      "CreatedAt": "2024-04-08T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2026-3147",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "media scrutiny",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public accountability",
+          "Severity": "Medium",
+          "Score": 14
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03ec8578-26e9-1e87-1090-002cd414a3bd",
+      "Name": "Featured subjects - Southern Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 49,
+      "CreatedAt": "2025-05-01T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2022-5522",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News coverage",
+          "Severity": "Medium",
+          "Score": 19
+        },
+        {
+          "Name": "Documentary production",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "028d1989-1b80-1ef5-1344-008f5dd895b2",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2025-09-26T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-9341",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Low",
+          "Score": 30
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0264e01a-21e2-0a29-2523-00d9e1674f85",
+      "Name": "Corporations - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 55,
+      "CreatedAt": "2023-12-20T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-1982",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News coverage",
+          "Severity": "Critical",
+          "Score": 34
+        },
+        {
+          "Name": "Documentary production",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04c5a551-23c3-0b89-14b3-0018775b8f8d",
+      "Name": "Public figures - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 46,
+      "CreatedAt": "2025-10-10T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2026-5001",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Media scrutiny",
+          "Severity": "Medium",
+          "Score": 31
+        },
+        {
+          "Name": "Media scrutiny",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0287bc51-1fa0-0a8f-13b0-00e0570c7cb1",
+      "Name": "Public figures - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 95,
+      "CreatedAt": "2024-09-27T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2025-3688",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News coverage",
+          "Severity": "Low",
+          "Score": 35
+        },
+        {
+          "Name": "Public accountability",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "030cd80d-0939-160f-1de0-008bc9ad1b80",
+      "Name": "Public figures - Southern Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 37,
+      "CreatedAt": "2025-04-21T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-9264",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Television Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 39
+        },
+        {
+          "Name": "Documentary production",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    }
+  ]
+}

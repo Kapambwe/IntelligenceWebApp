@@ -1,0 +1,50 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "RevenueCollection",
+  "DisplayName": "Zambia Revenue Authority - Revenue Collection",
+  "Country": "Zambia",
+  "Headquarters": "President Avenue, Kitwe",
+  "Mandate": "Secure tax revenue, lead investigations into trade-based money laundering and transfer pricing abuse, and protect the Copperbelt tax base.",
+  "TopPriorities": [
+    "Prosecute high-risk VAT refund fraud and false invoicing networks operating in Kitwe and Ndola.",
+    "Expand AI-based anomaly detection on mining royalties and transfer pricing flows.",
+    "Partner with international banks to freeze illicit outbound transfers linked to suspected profit shifting.",
+    "Deploy mobile audit teams to remote Copperbelt loading zones during peak export seasons."
+  ],
+  "ActiveOperations": [
+    "Joint Economic and Financial Crimes Court prosecution preparing pleadings for Santorin Investments Limited and associated Chinese suppliers.",
+    "Field intelligence sweep with commercial bank compliance units to validate Spax Mining Limited supply chain claims.",
+    "Real-time VAT refund surveillance dashboard calibrated against Zambia Revenue Authority production data feeds.",
+    "Trade-based money laundering task force reviewing Focus on Equipment and Services Limited and Taurus Mining Resources Limited invoices."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Recovered K1.8 million in misappropriated municipality funds",
+      "Date": "2026-01-03T00:00:00Z",
+      "Summary": "Audit teams traced fictitious suppliers in the Nkana district to a shell company controlled by Santorin Investments Limited."
+    },
+    {
+      "Title": "Filed transfer pricing complaint against Chinese Commercial Trading Centre",
+      "Date": "2025-12-21T00:00:00Z",
+      "Summary": "Evidence of circular invoices and inflated freight costs was presented in the Economic and Financial Crimes Court."
+    },
+    {
+      "Title": "Deployed mobile revenue intelligence unit across Ndola export hubs",
+      "Date": "2025-12-18T00:00:00Z",
+      "Summary": "Teams used AI anomaly alerts to intercept false VAT refund submissions from Junsheng Company Limited interests."
+    }
+  ],
+  "KeyPartnerships": [
+    "Economic and Financial Crimes Court",
+    "Bank of Zambia Financial Intelligence Centre",
+    "Transparency International Zambia",
+    "Copperbelt Chamber of Mines Compliance Forum"
+  ],
+  "Metrics": {
+    "InvestigationsOpen": "48",
+    "AssetsRecovered": "K32.1M",
+    "CourtConvictions": "22 in past six months",
+    "HighRiskEntities": "26",
+    "AIReviewCoverage": "14 mining exporters"
+  }
+}

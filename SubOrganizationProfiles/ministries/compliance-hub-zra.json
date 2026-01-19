@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 454,
+  "ActiveAlerts": 10,
+  "PendingReviews": 3,
+  "ComplianceScore": 87.9,
+  "Alerts": [
+    {
+      "Id": "03982dae-0b83-2301-1df1-00c18e9a5263",
+      "Type": "Policy compliance",
+      "Severity": "Medium",
+      "EntityName": "Suppliers - Copperbelt",
+      "Description": "Compliance review revealed budget execution involving suppliers",
+      "DetectedAt": "2025-12-13T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00b7eb44-10ce-258f-2461-00c9bb610eda",
+      "Type": "Policy compliance",
+      "Severity": "Critical",
+      "EntityName": "Government departments - Copperbelt",
+      "Description": "Budget allocation revealed public procurement involving contractors",
+      "DetectedAt": "2025-12-01T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "046c59d8-0f28-0953-1b8d-0057741fe33d",
+      "Type": "Program implementation",
+      "Severity": "Low",
+      "EntityName": "Beneficiaries - Western Province",
+      "Description": "Contract management revealed program implementation involving suppliers",
+      "DetectedAt": "2025-11-01T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02a973ac-1a1f-2334-18f6-00b5ad1e54c3",
+      "Type": "Public procurement",
+      "Severity": "Medium",
+      "EntityName": "Contractors - Northern Province",
+      "Description": "Budget allocation revealed program implementation involving government departments",
+      "DetectedAt": "2025-12-26T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "040ed72e-2665-1f71-0ba5-007df2da13ee",
+      "Type": "Policy compliance",
+      "Severity": "Critical",
+      "EntityName": "Suppliers - Western Province",
+      "Description": "Compliance review revealed program implementation involving suppliers",
+      "DetectedAt": "2025-12-26T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0433989e-19ec-18a1-21fa-006afa29d87f",
+      "Type": "Public procurement",
+      "Severity": "High",
+      "EntityName": "Government departments - Northern Province",
+      "Description": "Contract management revealed service delivery involving contractors",
+      "DetectedAt": "2026-01-11T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0273a4c1-0942-157c-041e-008b5ad5bae7",
+      "Type": "Policy compliance",
+      "Severity": "Medium",
+      "EntityName": "Suppliers - Western Province",
+      "Description": "Compliance review revealed public procurement involving government departments",
+      "DetectedAt": "2025-11-02T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "039a59b4-1e8c-0a04-212f-00a2620343c5",
+      "Type": "Budget execution",
+      "Severity": "Low",
+      "EntityName": "Beneficiaries - Lusaka",
+      "Description": "Budget allocation revealed public procurement involving contractors",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0499c741-2009-182e-16eb-007394cba839",
+      "Type": "Policy compliance",
+      "Severity": "Medium",
+      "EntityName": "Beneficiaries - Northern Province",
+      "Description": "Program monitoring revealed program implementation involving beneficiaries",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0371d5b1-15ba-20bb-1146-005a33f15dea",
+      "Type": "Service delivery",
+      "Severity": "Critical",
+      "EntityName": "Suppliers - provincial offices",
+      "Description": "Budget allocation revealed public procurement involving contractors",
+      "DetectedAt": "2025-11-02T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01c01539-20ed-09ff-26ad-00254e75b348",
+      "Type": "Budget execution",
+      "Severity": "Low",
+      "EntityName": "Beneficiaries - Copperbelt",
+      "Description": "Program monitoring revealed service delivery involving suppliers",
+      "DetectedAt": "2025-10-27T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00c314b4-1431-0c29-0a05-00db7ccd9f2e",
+      "Type": "Service delivery",
+      "Severity": "Medium",
+      "EntityName": "Contractors - Northern Province",
+      "Description": "Contract management revealed program implementation involving government departments",
+      "DetectedAt": "2026-01-19T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "035f403a-17d4-1477-0603-001eff4b626b",
+      "Type": "Service delivery",
+      "Severity": "Critical",
+      "EntityName": "Government departments - Western Province",
+      "Description": "Procurement revealed policy compliance involving beneficiaries",
+      "DetectedAt": "2025-11-15T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01939252-11e7-129b-1982-00619b924b83",
+      "Type": "Public procurement",
+      "Severity": "Medium",
+      "EntityName": "Contractors - Western Province",
+      "Description": "Budget allocation revealed policy compliance involving government departments",
+      "DetectedAt": "2025-10-27T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01be5532-2385-25d1-0508-00686a8aaf3f",
+      "Type": "Public procurement",
+      "Severity": "Medium",
+      "EntityName": "Government departments - provincial offices",
+      "Description": "Compliance review revealed public procurement involving government departments",
+      "DetectedAt": "2025-12-08T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "05b602e2-166b-15a0-20b8-00592d96d4ae",
+      "Type": "Budget execution",
+      "Severity": "High",
+      "EntityName": "Contractors - Lusaka",
+      "Description": "Program monitoring revealed service delivery involving contractors",
+      "DetectedAt": "2026-01-18T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0587bd3d-0dc7-04e0-13df-006f22e62a35",
+      "Type": "Public procurement",
+      "Severity": "Low",
+      "EntityName": "Suppliers - provincial offices",
+      "Description": "Procurement revealed budget execution involving contractors",
+      "DetectedAt": "2025-10-25T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "048e5d09-2146-1e0c-17b6-00799b920782",
+      "Type": "Policy compliance",
+      "Severity": "Low",
+      "EntityName": "Government departments - Copperbelt",
+      "Description": "Contract management revealed public procurement involving contractors",
+      "DetectedAt": "2026-01-11T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0390dd91-11b2-1d27-224f-0089c3e5b534",
+      "Type": "Budget execution",
+      "Severity": "Medium",
+      "EntityName": "Contractors - Copperbelt",
+      "Description": "Contract management revealed program implementation involving beneficiaries",
+      "DetectedAt": "2025-12-01T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "040f0e5c-148d-0c03-0efa-0056c75692d5",
+      "Type": "Service delivery",
+      "Severity": "Critical",
+      "EntityName": "Government departments - Lusaka",
+      "Description": "Compliance review revealed public procurement involving government departments",
+      "DetectedAt": "2026-01-03T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00b47092-190a-134f-1610-00bf3935eab8",
+      "Type": "Policy compliance",
+      "Severity": "Low",
+      "EntityName": "Contractors - Copperbelt",
+      "Description": "Budget allocation revealed policy compliance involving suppliers",
+      "DetectedAt": "2026-01-04T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0417b357-11b4-0c3d-0af9-00bb42d00e90",
+      "Type": "Program implementation",
+      "Severity": "Medium",
+      "EntityName": "Beneficiaries - Lusaka",
+      "Description": "Program monitoring revealed service delivery involving contractors",
+      "DetectedAt": "2025-12-01T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00fb8ba0-1b17-1f80-159d-0017789a6a97",
+      "Type": "Policy compliance",
+      "Severity": "Medium",
+      "EntityName": "Contractors - Northern Province",
+      "Description": "Compliance review revealed policy compliance involving government departments",
+      "DetectedAt": "2025-11-19T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "013bb44d-0ab2-1906-1187-009b16f9b9b6",
+      "Type": "Service delivery",
+      "Severity": "High",
+      "EntityName": "Suppliers - Lusaka",
+      "Description": "Program monitoring revealed service delivery involving suppliers",
+      "DetectedAt": "2025-11-17T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01d94cce-1b80-1653-23db-00232f37eb02",
+      "Type": "Budget execution",
+      "Severity": "Medium",
+      "EntityName": "Suppliers - provincial offices",
+      "Description": "Procurement revealed policy compliance involving suppliers",
+      "DetectedAt": "2025-11-08T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "014086cc-0c5e-096f-1248-009e93ad5fa1",
+      "Type": "Service delivery",
+      "Severity": "High",
+      "EntityName": "Beneficiaries - Western Province",
+      "Description": "Contract management revealed public procurement involving suppliers",
+      "DetectedAt": "2025-11-19T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0384ee60-2462-2694-08b6-0022074e7587",
+      "Type": "Budget execution",
+      "Severity": "Medium",
+      "EntityName": "Beneficiaries - Lusaka",
+      "Description": "Budget allocation revealed policy compliance involving government departments",
+      "DetectedAt": "2025-11-22T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03815d92-0b26-2167-0a2b-004f6e1a45f7",
+      "Type": "Program implementation",
+      "Severity": "Critical",
+      "EntityName": "Beneficiaries - Lusaka",
+      "Description": "Contract management revealed program implementation involving suppliers",
+      "DetectedAt": "2025-11-26T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "04ee31bc-128d-1696-12be-00a732fe2efb",
+      "Type": "Budget execution",
+      "Severity": "Critical",
+      "EntityName": "Contractors - Copperbelt",
+      "Description": "Contract management revealed budget execution involving suppliers",
+      "DetectedAt": "2026-01-05T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04a59a0a-0714-101f-1954-004bf3cf5afa",
+      "Type": "Service delivery",
+      "Severity": "High",
+      "EntityName": "Suppliers - provincial offices",
+      "Description": "Program monitoring revealed budget execution involving government departments",
+      "DetectedAt": "2025-12-26T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "034f3573-140f-2678-1b72-00bc2c31e33b",
+      "Type": "Program implementation",
+      "Severity": "Low",
+      "EntityName": "Contractors - Lusaka",
+      "Description": "Contract management revealed budget execution involving contractors",
+      "DetectedAt": "2026-01-18T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0342a50f-1fe6-0a5e-2653-0023bafd9a31",
+      "Type": "Budget execution",
+      "Severity": "Critical",
+      "EntityName": "Suppliers - Copperbelt",
+      "Description": "Contract management revealed budget execution involving suppliers",
+      "DetectedAt": "2025-10-27T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02f3c425-22bc-0d79-2650-0061ff158d57",
+      "Type": "Budget execution",
+      "Severity": "Critical",
+      "EntityName": "Beneficiaries - Northern Province",
+      "Description": "Compliance review revealed policy compliance involving suppliers",
+      "DetectedAt": "2025-11-22T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "029c3e4b-25ec-1d04-1758-001dbc1dfa1e",
+      "Type": "Public procurement",
+      "Severity": "Medium",
+      "EntityName": "Beneficiaries - Northern Province",
+      "Description": "Compliance review revealed budget execution involving contractors",
+      "DetectedAt": "2025-12-31T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "031aba82-23bc-1885-116d-00c45f601f0d",
+      "Type": "Public procurement",
+      "Severity": "Low",
+      "EntityName": "Contractors - Copperbelt",
+      "Description": "Compliance review revealed policy compliance involving government departments",
+      "DetectedAt": "2025-12-24T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0403b592-1e5a-0647-17c0-001901b90a95",
+      "Type": "Policy compliance",
+      "Severity": "High",
+      "EntityName": "Contractors - provincial offices",
+      "Description": "Contract management revealed program implementation involving beneficiaries",
+      "DetectedAt": "2026-01-17T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00bbb53f-0aba-1274-19b0-00d527527ffa",
+      "Type": "Public procurement",
+      "Severity": "Critical",
+      "EntityName": "Government departments - Copperbelt",
+      "Description": "Budget allocation revealed policy compliance involving government departments",
+      "DetectedAt": "2025-12-06T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "037dee3b-24f6-11f5-05d6-00df7d07c6c3",
+      "Type": "Budget execution",
+      "Severity": "Medium",
+      "EntityName": "Government departments - Lusaka",
+      "Description": "Compliance review revealed public procurement involving government departments",
+      "DetectedAt": "2025-12-17T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "016a7fb0-066b-0478-19b7-004330e9672a",
+      "Type": "Public procurement",
+      "Severity": "Critical",
+      "EntityName": "Government departments - Lusaka",
+      "Description": "Compliance review revealed service delivery involving government departments",
+      "DetectedAt": "2026-01-15T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0244085a-1786-08a3-152b-00c986ca543d",
+      "Type": "Policy compliance",
+      "Severity": "Low",
+      "EntityName": "Suppliers - provincial offices",
+      "Description": "Budget allocation revealed budget execution involving suppliers",
+      "DetectedAt": "2025-11-28T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "015f7b24-18ca-1c5f-26d7-006323d4931f",
+      "Type": "Public procurement",
+      "Severity": "Critical",
+      "EntityName": "Contractors - Northern Province",
+      "Description": "Program monitoring revealed service delivery involving beneficiaries",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03430243-135f-0ce1-0d59-007262592286",
+      "Type": "Policy compliance",
+      "Severity": "High",
+      "EntityName": "Suppliers - Northern Province",
+      "Description": "Budget allocation revealed policy compliance involving government departments",
+      "DetectedAt": "2026-01-16T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0426e497-16dd-201a-2344-0037de295874",
+      "Type": "Policy compliance",
+      "Severity": "Critical",
+      "EntityName": "Contractors - provincial offices",
+      "Description": "Program monitoring revealed budget execution involving suppliers",
+      "DetectedAt": "2025-11-24T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02b0e064-22a6-1e42-085b-0075972c7125",
+      "Type": "Service delivery",
+      "Severity": "Critical",
+      "EntityName": "Suppliers - Lusaka",
+      "Description": "Procurement revealed policy compliance involving government departments",
+      "DetectedAt": "2025-11-16T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00a9f8d1-23a8-1aaf-1bfc-00e4c80caca5",
+      "Type": "Policy compliance",
+      "Severity": "High",
+      "EntityName": "Contractors - Northern Province",
+      "Description": "Budget allocation revealed program implementation involving contractors",
+      "DetectedAt": "2026-01-04T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "034675df-1710-0e57-09f7-00901381dd16",
+      "Type": "Program implementation",
+      "Severity": "Medium",
+      "EntityName": "Government departments - Western Province",
+      "Description": "Budget allocation revealed policy compliance involving contractors",
+      "DetectedAt": "2025-11-02T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02987445-08e4-0aab-1956-0041b627218f",
+      "Type": "Program implementation",
+      "Severity": "Low",
+      "EntityName": "Suppliers - Northern Province",
+      "Description": "Program monitoring revealed policy compliance involving contractors",
+      "DetectedAt": "2025-12-02T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "023d8566-2019-0853-1efa-004fdc40474c",
+      "Type": "Service delivery",
+      "Severity": "Low",
+      "EntityName": "Suppliers - Copperbelt",
+      "Description": "Budget allocation revealed budget execution involving suppliers",
+      "DetectedAt": "2025-11-07T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01539c94-2300-0ee4-25cc-00a7314ac6fd",
+      "Type": "Public procurement",
+      "Severity": "Critical",
+      "EntityName": "Beneficiaries - Lusaka",
+      "Description": "Budget allocation revealed budget execution involving beneficiaries",
+      "DetectedAt": "2025-11-16T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00efdfb5-2223-1962-14b5-00a6f32a8c3e",
+      "Type": "Service delivery",
+      "Severity": "High",
+      "EntityName": "Government departments - Lusaka",
+      "Description": "Contract management revealed service delivery involving government departments",
+      "DetectedAt": "2026-01-19T17:30:31Z",
+      "Status": "Pending"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 80
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 85
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 80
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 90
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 87
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 78
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 81
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 81
+    }
+  ]
+}

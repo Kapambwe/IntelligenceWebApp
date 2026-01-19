@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "013c709f-12ca-0480-259d-00390b6a3a3a",
+      "Name": "Government officials - nationwide coverage",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 26,
+      "CreatedAt": "2024-05-22T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "04360ad9-0b0b-0968-2327-0046afeabff3",
+      "Name": "Public figures - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 89,
+      "CreatedAt": "2025-08-13T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "050431f6-06db-1600-1237-00bf455ebeb5",
+      "Name": "Public figures - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 22,
+      "CreatedAt": "2024-02-29T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "009c138f-1d1a-24c8-06c9-004c0ffb4681",
+      "Name": "Public figures - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 33,
+      "CreatedAt": "2024-05-18T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "025f0a54-16a1-1579-1afb-0018d8e2e7be",
+      "Name": "Public figures - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 85,
+      "CreatedAt": "2025-02-05T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "03d94178-2393-15eb-2312-0088b70dd22b",
+      "Name": "News sources - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 54,
+      "CreatedAt": "2024-07-29T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "05ed74c5-1d40-2191-0aa0-00af19c5e5b9",
+      "Name": "Corporations - Copperbelt",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 64,
+      "CreatedAt": "2025-06-23T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z"
+    },
+    {
+      "Id": "04eb9b67-13f0-175b-1515-00737b07f50c",
+      "Name": "Government officials - nationwide coverage",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 26,
+      "CreatedAt": "2025-09-03T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "015da9af-0eaf-220f-10db-00d37ededb58",
+      "Name": "Public figures - Copperbelt",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 88,
+      "CreatedAt": "2025-02-17T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "05806f40-155d-1f92-1359-0074bec24fa3",
+      "Name": "Government officials - nationwide coverage",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 42,
+      "CreatedAt": "2024-07-17T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "041b834c-20a5-2507-0b56-006feec74339",
+      "Name": "Corporations - Copperbelt",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 32,
+      "CreatedAt": "2025-06-25T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "05ebf779-182c-09af-1f03-002a7d42a7ee",
+      "Name": "Government officials - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 69,
+      "CreatedAt": "2023-11-29T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "00eb00cc-113b-2199-1e2e-002ddbcd0d15",
+      "Name": "Public figures - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 59,
+      "CreatedAt": "2025-07-23T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "0579ddc5-270d-12b1-0f54-00ae99a06876",
+      "Name": "Government officials - Copperbelt",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 61,
+      "CreatedAt": "2025-03-31T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "0563bc4f-18c3-251e-0a5e-001c2338cf74",
+      "Name": "Public figures - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 79,
+      "CreatedAt": "2024-07-11T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "012c14fe-18b1-1318-14b6-00c092026111",
+      "Name": "Corporations - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 30,
+      "CreatedAt": "2024-08-15T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "056bb6c3-1f1b-075d-1971-001e279a70c3",
+      "Name": "Public figures - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 28,
+      "CreatedAt": "2024-12-05T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "046a58d5-0ef0-2579-093e-00607a4b71ef",
+      "Name": "Government officials - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 51,
+      "CreatedAt": "2023-12-04T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "05d6c156-0c6b-0416-11e4-00a0ee4501ca",
+      "Name": "Public figures - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 32,
+      "CreatedAt": "2024-06-11T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "03ba09e1-0f45-1175-0a53-009a18aef4af",
+      "Name": "Public figures - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 86,
+      "CreatedAt": "2024-04-28T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z"
+    },
+    {
+      "Id": "04e5f255-0705-08c3-1bf1-00e61560c0de",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 35,
+      "CreatedAt": "2025-04-14T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "051b58dc-21ef-11f0-0f34-00b067997057",
+      "Name": "Government officials - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 46,
+      "CreatedAt": "2024-04-10T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "00a5c8d9-0f7e-082e-1ecc-007187b51885",
+      "Name": "Public figures - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 54,
+      "CreatedAt": "2025-08-29T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "0314c4ba-1b2a-23b3-2243-0046356c5fdc",
+      "Name": "Corporations - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2025-07-06T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "03f89eaa-0524-0f79-10cd-00768d5a5490",
+      "Name": "Government officials - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 24,
+      "CreatedAt": "2024-01-28T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "013b0f61-0c4c-2694-24a2-00bc6182bb60",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 56,
+      "CreatedAt": "2024-01-05T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "010a86f1-125b-2199-21b2-00cf5a304621",
+      "Name": "Corporations - nationwide coverage",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 94,
+      "CreatedAt": "2025-07-12T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "050ff0c7-15c6-1115-0e12-00a54bea5cb6",
+      "Name": "Public figures - Copperbelt",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 46,
+      "CreatedAt": "2024-11-07T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z"
+    },
+    {
+      "Id": "052fd82e-1d9d-1346-1d93-00ce0a0d94bc",
+      "Name": "Public figures - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 21,
+      "CreatedAt": "2024-05-23T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z"
+    },
+    {
+      "Id": "048e9afb-2008-04af-081a-0047fab8e39c",
+      "Name": "Corporations - nationwide coverage",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 72,
+      "CreatedAt": "2025-02-02T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "0561828c-0cec-168b-1c71-00314a957a9f",
+      "Name": "Corporations - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 70,
+      "CreatedAt": "2024-12-02T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z"
+    },
+    {
+      "Id": "0306a3ba-111b-130e-2477-00c4be6cb382",
+      "Name": "Public figures - Copperbelt",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 41,
+      "CreatedAt": "2025-08-05T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "03023551-10a8-0aad-125c-00afc60ecdfc",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 29,
+      "CreatedAt": "2025-01-15T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "02ef9384-1e77-16e2-1277-00d205346847",
+      "Name": "News sources - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 59,
+      "CreatedAt": "2025-02-20T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z"
+    },
+    {
+      "Id": "04dd9bf7-1ee3-13e8-16e1-00d1864546ab",
+      "Name": "Public figures - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 33,
+      "CreatedAt": "2024-09-30T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "032ed11c-08aa-0ed7-1b95-00be79dedba5",
+      "Name": "Government officials - nationwide coverage",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 81,
+      "CreatedAt": "2024-03-07T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "036fcc0b-1312-13f3-0bfa-00add25debc5",
+      "Name": "Government officials - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 74,
+      "CreatedAt": "2024-04-10T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z"
+    },
+    {
+      "Id": "02b467a9-2406-1682-26c1-00b09b81e63c",
+      "Name": "Government officials - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 77,
+      "CreatedAt": "2024-06-02T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "01b23cee-26da-21b8-1c90-00ca75ce9984",
+      "Name": "Government officials - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 97,
+      "CreatedAt": "2025-07-02T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "0320cacd-20ce-1e20-0744-00bd8a858186",
+      "Name": "News sources - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 33,
+      "CreatedAt": "2025-05-25T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "0216a6fd-2354-242e-216e-002fa7472883",
+      "Name": "News sources - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 62,
+      "CreatedAt": "2025-09-15T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "04fff336-1d3c-095d-19af-00809211c5da",
+      "Name": "Government officials - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 56,
+      "CreatedAt": "2025-04-16T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "057d0cab-12b7-14b5-1184-00cf52d8aa4e",
+      "Name": "News sources - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 72,
+      "CreatedAt": "2025-02-02T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "05f4b7eb-2198-193f-1fd4-00ca3cb8f4cc",
+      "Name": "Government officials - Copperbelt",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 79,
+      "CreatedAt": "2024-05-23T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "0239b8f3-2090-1f4d-09df-0042f83c078d",
+      "Name": "Corporations - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 80,
+      "CreatedAt": "2024-01-29T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "015b5386-232d-2549-0599-0061be8296c8",
+      "Name": "Public figures - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2024-10-07T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "035034c9-0c79-19d8-1820-004e0c516a91",
+      "Name": "Corporations - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 42,
+      "CreatedAt": "2024-12-07T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "00ab33ba-1333-21f6-22a2-0044f0dea7b2",
+      "Name": "Government officials - nationwide coverage",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 62,
+      "CreatedAt": "2025-09-30T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z"
+    },
+    {
+      "Id": "00d34673-072d-068d-0c68-00c470d02615",
+      "Name": "Public figures - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 32,
+      "CreatedAt": "2023-12-08T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "03029b76-1145-0860-2632-00ce96964a0c",
+      "Name": "Government officials - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2024-12-01T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "013c709f-12ca-0480-259d-00390b6a3a3a",
+      "Name": "Government officials - nationwide coverage",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 26,
+      "CreatedAt": "2024-05-22T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2026-8470",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 11
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04360ad9-0b0b-0968-2327-0046afeabff3",
+      "Name": "Public figures - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 89,
+      "CreatedAt": "2025-08-13T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2021-8452",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption exposure",
+          "Severity": "Low",
+          "Score": 45
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "050431f6-06db-1600-1237-00bf455ebeb5",
+      "Name": "Public figures - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 22,
+      "CreatedAt": "2024-02-29T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2024-1500",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public interest stories",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public interest stories",
+          "Severity": "Low",
+          "Score": 14
+        },
+        {
+          "Name": "Public interest stories",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "009c138f-1d1a-24c8-06c9-004c0ffb4681",
+      "Name": "Public figures - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 33,
+      "CreatedAt": "2024-05-18T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2023-4758",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Government accountability",
+          "Severity": "Medium",
+          "Score": 10
+        },
+        {
+          "Name": "News reporting",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "025f0a54-16a1-1579-1afb-0018d8e2e7be",
+      "Name": "Public figures - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 85,
+      "CreatedAt": "2025-02-05T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2026-1049",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public interest stories",
+          "Severity": "High",
+          "Score": 20
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03d94178-2393-15eb-2312-0088b70dd22b",
+      "Name": "News sources - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 54,
+      "CreatedAt": "2024-07-29T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2022-7410",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption exposure",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Government accountability",
+          "Severity": "Critical",
+          "Score": 35
+        },
+        {
+          "Name": "Government accountability",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ed74c5-1d40-2191-0aa0-00af19c5e5b9",
+      "Name": "Corporations - Copperbelt",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 64,
+      "CreatedAt": "2025-06-23T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2025-7000",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption exposure",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Low",
+          "Score": 13
+        },
+        {
+          "Name": "News reporting",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04eb9b67-13f0-175b-1515-00737b07f50c",
+      "Name": "Government officials - nationwide coverage",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 26,
+      "CreatedAt": "2025-09-03T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2021-5879",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption exposure",
+          "Severity": "High",
+          "Score": 35
+        },
+        {
+          "Name": "Corruption exposure",
+          "Severity": "High",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "015da9af-0eaf-220f-10db-00d37ededb58",
+      "Name": "Public figures - Copperbelt",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 88,
+      "CreatedAt": "2025-02-17T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2026-8517",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "government accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public interest stories",
+          "Severity": "Low",
+          "Score": 40
+        },
+        {
+          "Name": "Public interest stories",
+          "Severity": "Critical",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05806f40-155d-1f92-1359-0074bec24fa3",
+      "Name": "Government officials - nationwide coverage",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 42,
+      "CreatedAt": "2024-07-17T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2022-1627",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "government accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News reporting",
+          "Severity": "Critical",
+          "Score": 10
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "041b834c-20a5-2507-0b56-006feec74339",
+      "Name": "Corporations - Copperbelt",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 32,
+      "CreatedAt": "2025-06-25T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2021-7347",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News reporting",
+          "Severity": "Low",
+          "Score": 10
+        },
+        {
+          "Name": "Government accountability",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ebf779-182c-09af-1f03-002a7d42a7ee",
+      "Name": "Government officials - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 69,
+      "CreatedAt": "2023-11-29T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2023-4672",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption exposure",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News reporting",
+          "Severity": "Critical",
+          "Score": 24
+        },
+        {
+          "Name": "Public interest stories",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00eb00cc-113b-2199-1e2e-002ddbcd0d15",
+      "Name": "Public figures - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 59,
+      "CreatedAt": "2025-07-23T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2026-3381",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public interest stories",
+          "Severity": "Medium",
+          "Score": 23
+        },
+        {
+          "Name": "Public interest stories",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0579ddc5-270d-12b1-0f54-00ae99a06876",
+      "Name": "Government officials - Copperbelt",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 61,
+      "CreatedAt": "2025-03-31T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2020-8556",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption exposure",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 20
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0563bc4f-18c3-251e-0a5e-001c2338cf74",
+      "Name": "Public figures - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 79,
+      "CreatedAt": "2024-07-11T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2020-1948",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Low",
+          "Score": 22
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "012c14fe-18b1-1318-14b6-00c092026111",
+      "Name": "Corporations - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 30,
+      "CreatedAt": "2024-08-15T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2026-8032",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News reporting",
+          "Severity": "High",
+          "Score": 16
+        },
+        {
+          "Name": "Government accountability",
+          "Severity": "Critical",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "056bb6c3-1f1b-075d-1971-001e279a70c3",
+      "Name": "Public figures - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 28,
+      "CreatedAt": "2024-12-05T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2025-4713",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News reporting",
+          "Severity": "Low",
+          "Score": 18
+        },
+        {
+          "Name": "News reporting",
+          "Severity": "High",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "046a58d5-0ef0-2579-093e-00607a4b71ef",
+      "Name": "Government officials - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 51,
+      "CreatedAt": "2023-12-04T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2021-8819",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Government accountability",
+          "Severity": "High",
+          "Score": 32
+        },
+        {
+          "Name": "Corruption exposure",
+          "Severity": "High",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d6c156-0c6b-0416-11e4-00a0ee4501ca",
+      "Name": "Public figures - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 32,
+      "CreatedAt": "2024-06-11T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2026-7789",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public interest stories",
+          "Severity": "High",
+          "Score": 27
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03ba09e1-0f45-1175-0a53-009a18aef4af",
+      "Name": "Public figures - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 86,
+      "CreatedAt": "2024-04-28T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2023-8358",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public interest stories",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption exposure",
+          "Severity": "High",
+          "Score": 27
+        },
+        {
+          "Name": "Corruption exposure",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04e5f255-0705-08c3-1bf1-00e61560c0de",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 35,
+      "CreatedAt": "2025-04-14T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2023-9784",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public interest stories",
+          "Severity": "Low",
+          "Score": 44
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "051b58dc-21ef-11f0-0f34-00b067997057",
+      "Name": "Government officials - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 46,
+      "CreatedAt": "2024-04-10T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2023-7148",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "government accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption exposure",
+          "Severity": "Medium",
+          "Score": 11
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a5c8d9-0f7e-082e-1ecc-007187b51885",
+      "Name": "Public figures - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 54,
+      "CreatedAt": "2025-08-29T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2020-6720",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption exposure",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News reporting",
+          "Severity": "Critical",
+          "Score": 22
+        },
+        {
+          "Name": "News reporting",
+          "Severity": "Medium",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0314c4ba-1b2a-23b3-2243-0046356c5fdc",
+      "Name": "Corporations - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2025-07-06T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2022-5024",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Government accountability",
+          "Severity": "Low",
+          "Score": 11
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03f89eaa-0524-0f79-10cd-00768d5a5490",
+      "Name": "Government officials - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 24,
+      "CreatedAt": "2024-01-28T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2023-3441",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption exposure",
+          "Severity": "Critical",
+          "Score": 12
+        },
+        {
+          "Name": "Corruption exposure",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "013b0f61-0c4c-2694-24a2-00bc6182bb60",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 56,
+      "CreatedAt": "2024-01-05T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2020-7586",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Low",
+          "Score": 30
+        },
+        {
+          "Name": "News reporting",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "010a86f1-125b-2199-21b2-00cf5a304621",
+      "Name": "Corporations - nationwide coverage",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 94,
+      "CreatedAt": "2025-07-12T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2026-2157",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption exposure",
+          "Severity": "High",
+          "Score": 18
+        },
+        {
+          "Name": "Corruption exposure",
+          "Severity": "High",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "050ff0c7-15c6-1115-0e12-00a54bea5cb6",
+      "Name": "Public figures - Copperbelt",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 46,
+      "CreatedAt": "2024-11-07T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2026-2664",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public interest stories",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public interest stories",
+          "Severity": "Critical",
+          "Score": 32
+        },
+        {
+          "Name": "Government accountability",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "052fd82e-1d9d-1346-1d93-00ce0a0d94bc",
+      "Name": "Public figures - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 21,
+      "CreatedAt": "2024-05-23T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2023-4966",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public interest stories",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption exposure",
+          "Severity": "Medium",
+          "Score": 40
+        },
+        {
+          "Name": "Corruption exposure",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "048e9afb-2008-04af-081a-0047fab8e39c",
+      "Name": "Corporations - nationwide coverage",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 72,
+      "CreatedAt": "2025-02-02T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2024-9646",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public interest stories",
+          "Severity": "Medium",
+          "Score": 43
+        },
+        {
+          "Name": "Corruption exposure",
+          "Severity": "Critical",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0561828c-0cec-168b-1c71-00314a957a9f",
+      "Name": "Corporations - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 70,
+      "CreatedAt": "2024-12-02T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2024-9634",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public interest stories",
+          "Severity": "Low",
+          "Score": 28
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0306a3ba-111b-130e-2477-00c4be6cb382",
+      "Name": "Public figures - Copperbelt",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 41,
+      "CreatedAt": "2025-08-05T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2026-3086",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "government accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption exposure",
+          "Severity": "Critical",
+          "Score": 28
+        },
+        {
+          "Name": "News reporting",
+          "Severity": "Critical",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03023551-10a8-0aad-125c-00afc60ecdfc",
+      "Name": "Public figures - nationwide coverage",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 29,
+      "CreatedAt": "2025-01-15T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2021-4184",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative journalism",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption exposure",
+          "Severity": "Critical",
+          "Score": 40
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02ef9384-1e77-16e2-1277-00d205346847",
+      "Name": "News sources - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 59,
+      "CreatedAt": "2025-02-20T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2025-1599",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption exposure",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News reporting",
+          "Severity": "Low",
+          "Score": 23
+        },
+        {
+          "Name": "News reporting",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04dd9bf7-1ee3-13e8-16e1-00d1864546ab",
+      "Name": "Public figures - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 33,
+      "CreatedAt": "2024-09-30T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2024-5826",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News reporting",
+          "Severity": "Low",
+          "Score": 12
+        },
+        {
+          "Name": "Government accountability",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "032ed11c-08aa-0ed7-1b95-00be79dedba5",
+      "Name": "Government officials - nationwide coverage",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 81,
+      "CreatedAt": "2024-03-07T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2023-6919",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public interest stories",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public interest stories",
+          "Severity": "Medium",
+          "Score": 18
+        },
+        {
+          "Name": "Public interest stories",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "036fcc0b-1312-13f3-0bfa-00add25debc5",
+      "Name": "Government officials - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 74,
+      "CreatedAt": "2024-04-10T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2026-5179",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public interest stories",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Government accountability",
+          "Severity": "Critical",
+          "Score": 17
+        },
+        {
+          "Name": "Public interest stories",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02b467a9-2406-1682-26c1-00b09b81e63c",
+      "Name": "Government officials - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 77,
+      "CreatedAt": "2024-06-02T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2024-3190",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public interest stories",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption exposure",
+          "Severity": "Medium",
+          "Score": 24
+        },
+        {
+          "Name": "Government accountability",
+          "Severity": "Critical",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01b23cee-26da-21b8-1c90-00ca75ce9984",
+      "Name": "Government officials - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 97,
+      "CreatedAt": "2025-07-02T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2025-3999",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 13
+        },
+        {
+          "Name": "News reporting",
+          "Severity": "Critical",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0320cacd-20ce-1e20-0744-00bd8a858186",
+      "Name": "News sources - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 33,
+      "CreatedAt": "2025-05-25T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2023-6709",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption exposure",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Low",
+          "Score": 18
+        },
+        {
+          "Name": "News reporting",
+          "Severity": "Critical",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0216a6fd-2354-242e-216e-002fa7472883",
+      "Name": "News sources - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 62,
+      "CreatedAt": "2025-09-15T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2026-2882",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public interest stories",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Government accountability",
+          "Severity": "Low",
+          "Score": 20
+        },
+        {
+          "Name": "News reporting",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04fff336-1d3c-095d-19af-00809211c5da",
+      "Name": "Government officials - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 56,
+      "CreatedAt": "2025-04-16T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2026-3622",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public interest stories",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Government accountability",
+          "Severity": "High",
+          "Score": 23
+        },
+        {
+          "Name": "Corruption exposure",
+          "Severity": "Critical",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "057d0cab-12b7-14b5-1184-00cf52d8aa4e",
+      "Name": "News sources - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 72,
+      "CreatedAt": "2025-02-02T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2021-5425",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public interest stories",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Government accountability",
+          "Severity": "High",
+          "Score": 24
+        },
+        {
+          "Name": "Corruption exposure",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05f4b7eb-2198-193f-1fd4-00ca3cb8f4cc",
+      "Name": "Government officials - Copperbelt",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 79,
+      "CreatedAt": "2024-05-23T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2021-7984",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption exposure",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News reporting",
+          "Severity": "Low",
+          "Score": 31
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0239b8f3-2090-1f4d-09df-0042f83c078d",
+      "Name": "Corporations - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 80,
+      "CreatedAt": "2024-01-29T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2025-6536",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption exposure",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 26
+        },
+        {
+          "Name": "Public interest stories",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "015b5386-232d-2549-0599-0061be8296c8",
+      "Name": "Public figures - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2024-10-07T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2023-4373",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public interest stories",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption exposure",
+          "Severity": "High",
+          "Score": 29
+        },
+        {
+          "Name": "News reporting",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "035034c9-0c79-19d8-1820-004e0c516a91",
+      "Name": "Corporations - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 42,
+      "CreatedAt": "2024-12-07T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2026-7374",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "government accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide coverage",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News reporting",
+          "Severity": "Critical",
+          "Score": 27
+        },
+        {
+          "Name": "Public interest stories",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00ab33ba-1333-21f6-22a2-0044f0dea7b2",
+      "Name": "Government officials - nationwide coverage",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 62,
+      "CreatedAt": "2025-09-30T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2024-1038",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public interest stories",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News reporting",
+          "Severity": "Critical",
+          "Score": 13
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "Medium",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00d34673-072d-068d-0c68-00c470d02615",
+      "Name": "Public figures - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 32,
+      "CreatedAt": "2023-12-08T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2023-9666",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption exposure",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Government accountability",
+          "Severity": "Medium",
+          "Score": 12
+        },
+        {
+          "Name": "Investigative journalism",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03029b76-1145-0860-2632-00ce96964a0c",
+      "Name": "Government officials - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2024-12-01T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "PRI-2021-9106",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Print Media",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption exposure",
+          "Severity": "Critical",
+          "Score": 35
+        },
+        {
+          "Name": "Government accountability",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    }
+  ]
+}

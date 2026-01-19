@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "03eec184-264e-06b0-1eca-00e8a452630c",
+      "Name": "Donors - Eastern Province",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 84.9,
+      "IsCritical": false,
+      "Products": [
+        "donor funding"
+      ],
+      "AnnualSpend": 5261565.93
+    },
+    {
+      "Id": "04737ec0-0fc4-0df3-18c3-0045301b4ece",
+      "Name": "Donors - Luapula Province",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 76.5,
+      "IsCritical": true,
+      "Products": [
+        "humanitarian aid"
+      ],
+      "AnnualSpend": 9388063.17
+    },
+    {
+      "Id": "01869ec3-1d88-1abd-113d-0026b9b8bfc6",
+      "Name": "Donors - Lusaka",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 60.0,
+      "IsCritical": true,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 9116966.6
+    },
+    {
+      "Id": "01fe81e9-2179-10cf-117f-00d8714be668",
+      "Name": "Beneficiaries - Southern Province",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 45.6,
+      "IsCritical": true,
+      "Products": [
+        "donor funding"
+      ],
+      "AnnualSpend": 544103.67
+    },
+    {
+      "Id": "036adc5e-0721-1c82-1e08-006be5784ee7",
+      "Name": "Implementing partners - rural areas",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "development projects"
+      ],
+      "AnnualSpend": 8239203.41
+    },
+    {
+      "Id": "01bb0b44-0b26-26ac-190d-008c6491f643",
+      "Name": "Partner organizations - Southern Province",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 84.3,
+      "IsCritical": false,
+      "Products": [
+        "donor funding"
+      ],
+      "AnnualSpend": 8281513.07
+    },
+    {
+      "Id": "01119655-05a0-163a-1bfb-00623493b06e",
+      "Name": "Donors - Luapula Province",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 72.4,
+      "IsCritical": false,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 509174.06
+    },
+    {
+      "Id": "02820575-242e-0715-0607-00d19942c2c8",
+      "Name": "Donors - rural areas",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 43.2,
+      "IsCritical": false,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 1501524.54
+    },
+    {
+      "Id": "0147fe28-1b0b-1f1d-109d-00bf9570c985",
+      "Name": "Donors - Luapula Province",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 63.8,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 8693452.03
+    },
+    {
+      "Id": "02364c96-15e6-1833-11f4-009f814922f0",
+      "Name": "Partner organizations - rural areas",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 57.9,
+      "IsCritical": false,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 3904018.06
+    },
+    {
+      "Id": "0392b9fb-113d-191f-0e0d-002cb0071367",
+      "Name": "Donors - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 63.0,
+      "IsCritical": true,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 6396320.08
+    },
+    {
+      "Id": "01ab6271-20ca-2260-21f1-0090eb7fd9c4",
+      "Name": "Beneficiaries - Eastern Province",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 68.4,
+      "IsCritical": false,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 1374028.03
+    },
+    {
+      "Id": "028365ad-06c9-2591-198e-00d6ee24ecc4",
+      "Name": "Implementing partners - Luapula Province",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 91.2,
+      "IsCritical": false,
+      "Products": [
+        "donor funding"
+      ],
+      "AnnualSpend": 9699759.61
+    },
+    {
+      "Id": "042b962c-18ed-200b-2633-00bb3532cddf",
+      "Name": "Beneficiaries - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 54.2,
+      "IsCritical": true,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 6437373.95
+    },
+    {
+      "Id": "023031bd-1ce0-1f78-1b51-007e330f443e",
+      "Name": "Partner organizations - Luapula Province",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 89.3,
+      "IsCritical": true,
+      "Products": [
+        "donor funding"
+      ],
+      "AnnualSpend": 2286973.7
+    },
+    {
+      "Id": "0490120a-0b68-0dc2-0b7e-00250ecbf30d",
+      "Name": "Beneficiaries - Luapula Province",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 78.8,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 6573108.68
+    },
+    {
+      "Id": "01d4fa4c-051c-2347-1e56-00cc2d12c4a0",
+      "Name": "Partner organizations - Luapula Province",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 72.2,
+      "IsCritical": true,
+      "Products": [
+        "development projects"
+      ],
+      "AnnualSpend": 4390724.99
+    },
+    {
+      "Id": "04e8acf3-144d-14d4-1ae7-00d55083e766",
+      "Name": "Partner organizations - rural areas",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 78.8,
+      "IsCritical": true,
+      "Products": [
+        "development projects"
+      ],
+      "AnnualSpend": 1280784.69
+    },
+    {
+      "Id": "02ce78c3-21df-2635-2494-00e5744f4b87",
+      "Name": "Beneficiaries - Luapula Province",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 53.8,
+      "IsCritical": false,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 5027531.38
+    },
+    {
+      "Id": "010b6b6e-1bb4-1e78-1402-008f15387610",
+      "Name": "Beneficiaries - Lusaka",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 85.1,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 4490913.95
+    },
+    {
+      "Id": "01598edd-1eec-141c-0ae5-00e37d537f54",
+      "Name": "Implementing partners - Lusaka",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 59.0,
+      "IsCritical": true,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 1517387.95
+    },
+    {
+      "Id": "05938e6b-05b0-149a-0837-0018690289e9",
+      "Name": "Donors - Eastern Province",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 75.6,
+      "IsCritical": true,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 4098909.19
+    },
+    {
+      "Id": "03fa4a09-061e-2381-1daf-00229d2ae9ba",
+      "Name": "Partner organizations - Luapula Province",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 71.3,
+      "IsCritical": false,
+      "Products": [
+        "donor funding"
+      ],
+      "AnnualSpend": 5519151.47
+    },
+    {
+      "Id": "0182a0b4-141a-25b7-1928-0087d421251d",
+      "Name": "Implementing partners - Eastern Province",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 66.5,
+      "IsCritical": false,
+      "Products": [
+        "donor funding"
+      ],
+      "AnnualSpend": 3769220.75
+    },
+    {
+      "Id": "01d5f895-086c-056a-1359-0059d3c5c331",
+      "Name": "Beneficiaries - Lusaka",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 45.0,
+      "IsCritical": false,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 7054518.76
+    },
+    {
+      "Id": "027a7ab8-24aa-265b-1207-001c21058788",
+      "Name": "Donors - Southern Province",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 52.5,
+      "IsCritical": false,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 4890362.88
+    },
+    {
+      "Id": "03ac031c-2211-085b-246e-004ac4341b63",
+      "Name": "Partner organizations - Southern Province",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 52.3,
+      "IsCritical": false,
+      "Products": [
+        "development projects"
+      ],
+      "AnnualSpend": 9513340.78
+    },
+    {
+      "Id": "03ae2d24-08c1-1472-1dbd-00ae9f5f0c62",
+      "Name": "Partner organizations - Luapula Province",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 46.7,
+      "IsCritical": false,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 7485297.79
+    },
+    {
+      "Id": "00d83706-1410-1441-16bc-009517c2e833",
+      "Name": "Partner organizations - rural areas",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 70.7,
+      "IsCritical": false,
+      "Products": [
+        "development projects"
+      ],
+      "AnnualSpend": 6413437.79
+    },
+    {
+      "Id": "04240460-0984-0b8e-1bf7-006829f2c67b",
+      "Name": "Beneficiaries - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 41.3,
+      "IsCritical": false,
+      "Products": [
+        "development projects"
+      ],
+      "AnnualSpend": 4617253.14
+    },
+    {
+      "Id": "02803d76-07d2-07de-0502-00ba665b0c46",
+      "Name": "Partner organizations - Eastern Province",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 73.6,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 5868425.12
+    },
+    {
+      "Id": "0336b4fa-133d-0f01-21e0-00bc6940be44",
+      "Name": "Beneficiaries - rural areas",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 41.6,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 4789509.76
+    },
+    {
+      "Id": "04a1df18-095d-0633-0de0-00cdddd5a55b",
+      "Name": "Beneficiaries - rural areas",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 89.6,
+      "IsCritical": false,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 6242283.34
+    },
+    {
+      "Id": "02b96323-0b44-106a-230c-00ab0af0c0eb",
+      "Name": "Partner organizations - Southern Province",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 47.7,
+      "IsCritical": true,
+      "Products": [
+        "donor funding"
+      ],
+      "AnnualSpend": 8946443.64
+    },
+    {
+      "Id": "05cf71fa-04f5-2150-2194-001dafd0ab3d",
+      "Name": "Beneficiaries - Southern Province",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 74.3,
+      "IsCritical": false,
+      "Products": [
+        "donor funding"
+      ],
+      "AnnualSpend": 7666786.74
+    },
+    {
+      "Id": "00ac94fe-09ca-257b-0560-0061c48aab50",
+      "Name": "Donors - Eastern Province",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 52.5,
+      "IsCritical": true,
+      "Products": [
+        "donor funding"
+      ],
+      "AnnualSpend": 6681825.81
+    },
+    {
+      "Id": "021a791d-1dfb-0cfa-25aa-0049155800d5",
+      "Name": "Beneficiaries - Eastern Province",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 90.8,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 6076209.03
+    },
+    {
+      "Id": "04e41dd2-15a4-2113-1999-00a4b471bce6",
+      "Name": "Beneficiaries - Luapula Province",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 88.4,
+      "IsCritical": false,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 1246550.01
+    },
+    {
+      "Id": "01c0656e-1e43-1ac7-1454-00a0f42100b9",
+      "Name": "Partner organizations - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 68.3,
+      "IsCritical": true,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 9761853.55
+    },
+    {
+      "Id": "03c796c1-26bd-0c8f-207b-00179aa5720b",
+      "Name": "Partner organizations - Lusaka",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 88.4,
+      "IsCritical": false,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 8438958.51
+    },
+    {
+      "Id": "05cb6ebe-0972-26b0-0652-007c21600662",
+      "Name": "Donors - rural areas",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 91.0,
+      "IsCritical": false,
+      "Products": [
+        "humanitarian aid"
+      ],
+      "AnnualSpend": 2183016.63
+    },
+    {
+      "Id": "00d3a3f0-2608-1a50-0ee7-006105161859",
+      "Name": "Implementing partners - Southern Province",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 84.9,
+      "IsCritical": false,
+      "Products": [
+        "donor funding"
+      ],
+      "AnnualSpend": 8543678.84
+    },
+    {
+      "Id": "044c9ec2-0ca6-0cee-1c11-00b48cbf4c4e",
+      "Name": "Implementing partners - Luapula Province",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 56.5,
+      "IsCritical": true,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 3262122.97
+    },
+    {
+      "Id": "041ab44e-14d0-1e70-0d49-003fecc20d09",
+      "Name": "Implementing partners - rural areas",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 84.1,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 4398067.27
+    },
+    {
+      "Id": "01e10cd4-1d91-07bc-0569-00dc9bb65d17",
+      "Name": "Beneficiaries - Luapula Province",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 69.1,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 1086730.96
+    },
+    {
+      "Id": "023e1fbe-0f52-0ba0-2390-0045d9719ef5",
+      "Name": "Implementing partners - Luapula Province",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 54.7,
+      "IsCritical": false,
+      "Products": [
+        "development projects"
+      ],
+      "AnnualSpend": 4490766.03
+    },
+    {
+      "Id": "04ccd2a2-26d6-2644-1fb0-00a4c14e5752",
+      "Name": "Implementing partners - Eastern Province",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 91.0,
+      "IsCritical": false,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 1152817.69
+    },
+    {
+      "Id": "01250e88-1484-2626-0cff-00bc043a2505",
+      "Name": "Beneficiaries - Luapula Province",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 57.2,
+      "IsCritical": false,
+      "Products": [
+        "impact assessment"
+      ],
+      "AnnualSpend": 8806189.93
+    },
+    {
+      "Id": "03a37d3a-06f3-13c7-0798-00ddf34547cb",
+      "Name": "Implementing partners - Southern Province",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 41.9,
+      "IsCritical": true,
+      "Products": [
+        "program implementation"
+      ],
+      "AnnualSpend": 6829888.21
+    },
+    {
+      "Id": "048f3426-12de-0c96-1370-0086f61d30b8",
+      "Name": "Implementing partners - Luapula Province",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 87.8,
+      "IsCritical": true,
+      "Products": [
+        "development projects"
+      ],
+      "AnnualSpend": 3468711.48
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "0212beb4-0a8e-0b82-0eb2-00dac675ac20",
+      "FromSupplierId": "0392b9fb-113d-191f-0e0d-002cb0071367",
+      "ToSupplierId": "042b962c-18ed-200b-2633-00bb3532cddf",
+      "Type": "supplies",
+      "DependencyLevel": 0.55,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02be3e24-15d0-1b63-2306-003564b89be1",
+      "FromSupplierId": "036adc5e-0721-1c82-1e08-006be5784ee7",
+      "ToSupplierId": "04e41dd2-15a4-2113-1999-00a4b471bce6",
+      "Type": "supplies",
+      "DependencyLevel": 0.72,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03d8c5e5-09cc-25f7-06c1-004a967301ff",
+      "FromSupplierId": "042b962c-18ed-200b-2633-00bb3532cddf",
+      "ToSupplierId": "01e10cd4-1d91-07bc-0569-00dc9bb65d17",
+      "Type": "supplies",
+      "DependencyLevel": 0.74,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "02676c73-0eff-14b0-1ba6-004c9dc9ecfb",
+      "FromSupplierId": "04737ec0-0fc4-0df3-18c3-0045301b4ece",
+      "ToSupplierId": "01fe81e9-2179-10cf-117f-00d8714be668",
+      "Type": "partnership",
+      "DependencyLevel": 0.86,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04a49649-07c6-0dc7-1ec4-0045ececce97",
+      "FromSupplierId": "0147fe28-1b0b-1f1d-109d-00bf9570c985",
+      "ToSupplierId": "00ac94fe-09ca-257b-0560-0061c48aab50",
+      "Type": "supplies",
+      "DependencyLevel": 0.77,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "05802186-0638-2409-048b-00a32578d38a",
+      "FromSupplierId": "02364c96-15e6-1833-11f4-009f814922f0",
+      "ToSupplierId": "042b962c-18ed-200b-2633-00bb3532cddf",
+      "Type": "partnership",
+      "DependencyLevel": 0.9,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04427bbb-129e-12d9-1569-0059d45a4594",
+      "FromSupplierId": "03c796c1-26bd-0c8f-207b-00179aa5720b",
+      "ToSupplierId": "00d83706-1410-1441-16bc-009517c2e833",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.6,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03f8cd19-0e99-24c1-1816-0051ee93ec40",
+      "FromSupplierId": "05938e6b-05b0-149a-0837-0018690289e9",
+      "ToSupplierId": "01250e88-1484-2626-0cff-00bc043a2505",
+      "Type": "supplies",
+      "DependencyLevel": 0.8,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "05c34fa2-19c8-21d9-1a1e-00aa9f8cdc20",
+      "FromSupplierId": "03ac031c-2211-085b-246e-004ac4341b63",
+      "ToSupplierId": "01d4fa4c-051c-2347-1e56-00cc2d12c4a0",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.5,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "024069c4-1a8b-0dae-044e-008cab20f1eb",
+      "FromSupplierId": "0182a0b4-141a-25b7-1928-0087d421251d",
+      "ToSupplierId": "048f3426-12de-0c96-1370-0086f61d30b8",
+      "Type": "partnership",
+      "DependencyLevel": 0.78,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "02c399f5-158f-1db2-1940-00a1804badf2",
+      "FromSupplierId": "02ce78c3-21df-2635-2494-00e5744f4b87",
+      "ToSupplierId": "048f3426-12de-0c96-1370-0086f61d30b8",
+      "Type": "supplies",
+      "DependencyLevel": 0.46,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03972321-1618-0fb5-1bd7-00bcca43f879",
+      "FromSupplierId": "044c9ec2-0ca6-0cee-1c11-00b48cbf4c4e",
+      "ToSupplierId": "028365ad-06c9-2591-198e-00d6ee24ecc4",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.75,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03d4cea4-1dce-0ae5-0509-00990ce56840",
+      "FromSupplierId": "0490120a-0b68-0dc2-0b7e-00250ecbf30d",
+      "ToSupplierId": "04ccd2a2-26d6-2644-1fb0-00a4c14e5752",
+      "Type": "partnership",
+      "DependencyLevel": 0.79,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0587aea6-0cae-1c0b-0f40-0039a61eb3db",
+      "FromSupplierId": "02ce78c3-21df-2635-2494-00e5744f4b87",
+      "ToSupplierId": "01e10cd4-1d91-07bc-0569-00dc9bb65d17",
+      "Type": "partnership",
+      "DependencyLevel": 0.57,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03d9e61e-23d9-196f-0ba5-006af1a15949",
+      "FromSupplierId": "01250e88-1484-2626-0cff-00bc043a2505",
+      "ToSupplierId": "04ccd2a2-26d6-2644-1fb0-00a4c14e5752",
+      "Type": "partnership",
+      "DependencyLevel": 0.77,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "05d3fb93-121e-1f11-269b-00e857150487",
+      "FromSupplierId": "028365ad-06c9-2591-198e-00d6ee24ecc4",
+      "ToSupplierId": "01598edd-1eec-141c-0ae5-00e37d537f54",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.74,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "00f6d2d3-2363-1ba8-254b-007c36aeeb67",
+      "FromSupplierId": "0392b9fb-113d-191f-0e0d-002cb0071367",
+      "ToSupplierId": "01fe81e9-2179-10cf-117f-00d8714be668",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.46,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0477bbe7-20cc-0ea2-21ec-00c06140eadf",
+      "FromSupplierId": "05938e6b-05b0-149a-0837-0018690289e9",
+      "ToSupplierId": "01fe81e9-2179-10cf-117f-00d8714be668",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.81,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02df5510-0c19-110f-21ec-00252a241fac",
+      "FromSupplierId": "02ce78c3-21df-2635-2494-00e5744f4b87",
+      "ToSupplierId": "01bb0b44-0b26-26ac-190d-008c6491f643",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.88,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00d4d34b-0ad4-20c5-04c4-00e7e45e5c5c",
+      "FromSupplierId": "021a791d-1dfb-0cfa-25aa-0049155800d5",
+      "ToSupplierId": "02ce78c3-21df-2635-2494-00e5744f4b87",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.88,
+      "IsCriticalPath": false
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "operational",
+      "Description": "Concentration of program implementation in Southern Province",
+      "ConcentrationLevel": 74.6,
+      "AffectedSuppliers": [
+        "Beneficiaries - Southern Province",
+        "Beneficiaries - Southern Province",
+        "Beneficiaries - Luapula Province"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "05069034-119c-12e0-14d8-003b7bdd0cd4",
+      "SupplierId": "03eec184-264e-06b0-1eca-00e8a452630c",
+      "SupplierName": "Donors - Eastern Province",
+      "RiskType": "compliance",
+      "Severity": "medium",
+      "Description": "Risk detected in impact assessment operations",
+      "DetectedAt": "2025-12-20T17:30:30Z",
+      "IsAcknowledged": false,
+      "AffectedDownstreamSuppliers": [
+        "00d3a3f0-2608-1a50-0ee7-006105161859",
+        "044c9ec2-0ca6-0cee-1c11-00b48cbf4c4e"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 25,
+    "HighRiskSuppliers": 14,
+    "AverageRiskScore": 67.8,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

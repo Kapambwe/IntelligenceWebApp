@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "02a97b14-0502-196c-215b-0094f6d126f8",
+      "Name": "Entrepreneurs - Mongu",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 53.7,
+      "IsCritical": true,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 7133811.19
+    },
+    {
+      "Id": "043b0d93-0d0d-075a-2443-003beff7d36f",
+      "Name": "Entrepreneurs - Mongu",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 79.9,
+      "IsCritical": true,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 926786.09
+    },
+    {
+      "Id": "03768f1a-1816-1fa3-0b9e-00e872b37c5c",
+      "Name": "Entrepreneurs - Chipata",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 43.9,
+      "IsCritical": true,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 7195670.76
+    },
+    {
+      "Id": "0230a905-2317-15bd-0dde-00456fe99ea7",
+      "Name": "Small businesses - Kitwe",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 45.2,
+      "IsCritical": false,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 2031089.05
+    },
+    {
+      "Id": "04426bf6-259a-0f85-2685-0017f4e0f190",
+      "Name": "Small businesses - Chipata",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 67.0,
+      "IsCritical": false,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 7754761.94
+    },
+    {
+      "Id": "0542faa2-1638-054b-09c2-00689e8ba350",
+      "Name": "Entrepreneurs - Mongu",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 61.8,
+      "IsCritical": true,
+      "Products": [
+        "savings mobilization"
+      ],
+      "AnnualSpend": 4074101.84
+    },
+    {
+      "Id": "0437e76b-10e0-26c1-2004-0036282535fc",
+      "Name": "Individual borrowers - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 84.5,
+      "IsCritical": true,
+      "Products": [
+        "savings mobilization"
+      ],
+      "AnnualSpend": 5276698.8
+    },
+    {
+      "Id": "01b2cb6e-0fc3-242d-12be-00e76ea6d45f",
+      "Name": "Small businesses - Kasama",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 70.2,
+      "IsCritical": false,
+      "Products": [
+        "credit risk"
+      ],
+      "AnnualSpend": 8233917.78
+    },
+    {
+      "Id": "03d69014-26fd-0cbf-0d21-00b3f555c7b6",
+      "Name": "Savings groups - Chipata",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 68.5,
+      "IsCritical": false,
+      "Products": [
+        "savings mobilization"
+      ],
+      "AnnualSpend": 6627296.54
+    },
+    {
+      "Id": "051e5936-03f8-1d31-1682-00b6287590ee",
+      "Name": "Entrepreneurs - Chipata",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 92.4,
+      "IsCritical": true,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 4419689.01
+    },
+    {
+      "Id": "03777315-0dc6-17e4-1ef2-008803465c18",
+      "Name": "Individual borrowers - Mongu",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 50.9,
+      "IsCritical": true,
+      "Products": [
+        "savings mobilization"
+      ],
+      "AnnualSpend": 2881930.73
+    },
+    {
+      "Id": "0270fe41-158b-0bc9-247c-00648a9a747a",
+      "Name": "Entrepreneurs - Chipata",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 65.5,
+      "IsCritical": true,
+      "Products": [
+        "SME lending"
+      ],
+      "AnnualSpend": 517725.3
+    },
+    {
+      "Id": "026a4490-10ca-05ea-14ad-003d61a5552f",
+      "Name": "Entrepreneurs - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 59.5,
+      "IsCritical": true,
+      "Products": [
+        "credit risk"
+      ],
+      "AnnualSpend": 5899870.32
+    },
+    {
+      "Id": "05e4f79e-132a-05b3-0d69-008dbdfe5940",
+      "Name": "Savings groups - Kitwe",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 57.3,
+      "IsCritical": true,
+      "Products": [
+        "SME lending"
+      ],
+      "AnnualSpend": 3252556.66
+    },
+    {
+      "Id": "024d19a0-0a43-227f-1448-00c3c671124f",
+      "Name": "Savings groups - Kitwe",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 43.9,
+      "IsCritical": false,
+      "Products": [
+        "savings mobilization"
+      ],
+      "AnnualSpend": 4082243.42
+    },
+    {
+      "Id": "059e34e5-23c1-1012-0be4-00687140af27",
+      "Name": "Entrepreneurs - Mongu",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 68.6,
+      "IsCritical": false,
+      "Products": [
+        "credit risk"
+      ],
+      "AnnualSpend": 4441132.02
+    },
+    {
+      "Id": "0557ce5d-1b38-2215-22b0-002195f08b2a",
+      "Name": "Savings groups - Chipata",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 90.0,
+      "IsCritical": true,
+      "Products": [
+        "credit risk"
+      ],
+      "AnnualSpend": 3559459.79
+    },
+    {
+      "Id": "02893383-1419-2026-13b2-00988f1e77c2",
+      "Name": "Individual borrowers - Mongu",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 87.9,
+      "IsCritical": true,
+      "Products": [
+        "SME lending"
+      ],
+      "AnnualSpend": 6353249.57
+    },
+    {
+      "Id": "051dc53f-1e8a-228c-1a1f-009077b71f51",
+      "Name": "Entrepreneurs - Chipata",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 62.5,
+      "IsCritical": true,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 3477214.59
+    },
+    {
+      "Id": "01e11e64-112c-2248-0d95-004a24833f92",
+      "Name": "Individual borrowers - Chipata",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 85.7,
+      "IsCritical": false,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 6550427.59
+    },
+    {
+      "Id": "05ee3af3-1be3-1d09-1737-003bc1545cc3",
+      "Name": "Individual borrowers - Lusaka",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 52.0,
+      "IsCritical": false,
+      "Products": [
+        "SME lending"
+      ],
+      "AnnualSpend": 5406052.04
+    },
+    {
+      "Id": "0576f4d6-263f-0e78-1830-008e2c979845",
+      "Name": "Savings groups - Mongu",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 92.9,
+      "IsCritical": false,
+      "Products": [
+        "savings mobilization"
+      ],
+      "AnnualSpend": 7427251.13
+    },
+    {
+      "Id": "0267d68b-13e0-1d6d-0717-00bcb5ebe343",
+      "Name": "Savings groups - Kitwe",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 55.2,
+      "IsCritical": true,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 810050.24
+    },
+    {
+      "Id": "0254b270-1d7c-20d0-1d47-00801b49ac41",
+      "Name": "Small businesses - Mongu",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 84.4,
+      "IsCritical": false,
+      "Products": [
+        "microloans"
+      ],
+      "AnnualSpend": 9887234.33
+    },
+    {
+      "Id": "0129aa3f-1255-22db-1a49-00cbb37ab282",
+      "Name": "Small businesses - Lusaka",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 50.4,
+      "IsCritical": false,
+      "Products": [
+        "credit risk"
+      ],
+      "AnnualSpend": 2317922.31
+    },
+    {
+      "Id": "02666e81-18e8-0bd9-2456-004869e7033e",
+      "Name": "Small businesses - Lusaka",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 92.1,
+      "IsCritical": false,
+      "Products": [
+        "savings mobilization"
+      ],
+      "AnnualSpend": 8678886.9
+    },
+    {
+      "Id": "00d8dacd-135c-146d-1604-004eda92a52e",
+      "Name": "Individual borrowers - Kasama",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 76.2,
+      "IsCritical": true,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 9127765.84
+    },
+    {
+      "Id": "0372bda7-200e-1916-1ab2-0028a57331b0",
+      "Name": "Individual borrowers - Mongu",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 61.2,
+      "IsCritical": false,
+      "Products": [
+        "SME lending"
+      ],
+      "AnnualSpend": 7348082.21
+    },
+    {
+      "Id": "04ebb1d8-0458-077d-0bcc-006a4032049e",
+      "Name": "Individual borrowers - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 46.5,
+      "IsCritical": true,
+      "Products": [
+        "SME lending"
+      ],
+      "AnnualSpend": 9290294.99
+    },
+    {
+      "Id": "01fcf40e-2689-1986-1991-005def6e3cfa",
+      "Name": "Small businesses - Lusaka",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 50.9,
+      "IsCritical": true,
+      "Products": [
+        "SME lending"
+      ],
+      "AnnualSpend": 6238262.58
+    },
+    {
+      "Id": "041c966e-1549-2199-0cca-00a9498f551d",
+      "Name": "Individual borrowers - Mongu",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 84.4,
+      "IsCritical": true,
+      "Products": [
+        "SME lending"
+      ],
+      "AnnualSpend": 8150586.67
+    },
+    {
+      "Id": "0206b326-2686-182c-15cc-00dad44fd6c7",
+      "Name": "Individual borrowers - Mongu",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 69.6,
+      "IsCritical": false,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 5596752.64
+    },
+    {
+      "Id": "057bde10-105e-1de9-18b2-00b3cf69459d",
+      "Name": "Individual borrowers - Kasama",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 58.3,
+      "IsCritical": true,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 8810382.39
+    },
+    {
+      "Id": "05933ca2-1d41-1a80-0fdb-008b13800d43",
+      "Name": "Entrepreneurs - Chipata",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 80.7,
+      "IsCritical": false,
+      "Products": [
+        "microloans"
+      ],
+      "AnnualSpend": 7447823.5
+    },
+    {
+      "Id": "02b7e1b0-197a-103e-0ba4-0089b3d51152",
+      "Name": "Small businesses - Chipata",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 49.6,
+      "IsCritical": false,
+      "Products": [
+        "savings mobilization"
+      ],
+      "AnnualSpend": 1916324.05
+    },
+    {
+      "Id": "053c7b53-0535-0e2b-0b22-006d97500596",
+      "Name": "Entrepreneurs - Kitwe",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 62.4,
+      "IsCritical": true,
+      "Products": [
+        "SME lending"
+      ],
+      "AnnualSpend": 5736033.48
+    },
+    {
+      "Id": "018b97bd-129c-0686-2559-0020ef457257",
+      "Name": "Entrepreneurs - Kasama",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 85.8,
+      "IsCritical": false,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 2744432.34
+    },
+    {
+      "Id": "03924aae-0823-2162-221b-0075fc11ebd4",
+      "Name": "Entrepreneurs - Kasama",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 91.8,
+      "IsCritical": true,
+      "Products": [
+        "credit risk"
+      ],
+      "AnnualSpend": 3569160.21
+    },
+    {
+      "Id": "057f92ee-1368-206f-10ac-008f311af12e",
+      "Name": "Savings groups - Kasama",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 6124771.63
+    },
+    {
+      "Id": "021fc63a-15d3-23bc-1227-006862295ae5",
+      "Name": "Entrepreneurs - Chipata",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 58.7,
+      "IsCritical": true,
+      "Products": [
+        "savings mobilization"
+      ],
+      "AnnualSpend": 3287647.5
+    },
+    {
+      "Id": "0174fc94-2444-1f1f-236b-00e7fcbab7cf",
+      "Name": "Entrepreneurs - Lusaka",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 55.0,
+      "IsCritical": true,
+      "Products": [
+        "SME lending"
+      ],
+      "AnnualSpend": 8503600.64
+    },
+    {
+      "Id": "019b3fd1-1dcf-1261-2020-00ad2c5a126b",
+      "Name": "Entrepreneurs - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 78.7,
+      "IsCritical": true,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 2754051.71
+    },
+    {
+      "Id": "02dd315f-0f4e-1c8c-0a18-00a14defc8b1",
+      "Name": "Savings groups - Chipata",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 83.3,
+      "IsCritical": false,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 5848336.13
+    },
+    {
+      "Id": "0592c8f9-1666-20e5-1d6f-007052b50e78",
+      "Name": "Entrepreneurs - Kasama",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 91.0,
+      "IsCritical": false,
+      "Products": [
+        "SME lending"
+      ],
+      "AnnualSpend": 4101763.63
+    },
+    {
+      "Id": "054a2c98-11a7-09b2-1682-004949451a48",
+      "Name": "Entrepreneurs - Lusaka",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 54.9,
+      "IsCritical": false,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 3391360.08
+    },
+    {
+      "Id": "036857e8-0f5f-240f-1a9c-00bae324d7a0",
+      "Name": "Individual borrowers - Lusaka",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 88.2,
+      "IsCritical": false,
+      "Products": [
+        "SME lending"
+      ],
+      "AnnualSpend": 7167479.39
+    },
+    {
+      "Id": "02d1c005-0b78-2249-075e-00a359c64296",
+      "Name": "Individual borrowers - Chipata",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 51.1,
+      "IsCritical": true,
+      "Products": [
+        "credit risk"
+      ],
+      "AnnualSpend": 6018699.24
+    },
+    {
+      "Id": "0571b36e-0625-0d27-201f-00b6b2067c60",
+      "Name": "Entrepreneurs - Kasama",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 76.7,
+      "IsCritical": false,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 7685768.94
+    },
+    {
+      "Id": "0370e1f9-245d-189a-0a04-00ddd155a24a",
+      "Name": "Entrepreneurs - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 64.4,
+      "IsCritical": true,
+      "Products": [
+        "financial inclusion"
+      ],
+      "AnnualSpend": 7768770.41
+    },
+    {
+      "Id": "03e5b559-07ed-1cd2-1eda-00a581f26abd",
+      "Name": "Individual borrowers - Mongu",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 79.1,
+      "IsCritical": true,
+      "Products": [
+        "SME lending"
+      ],
+      "AnnualSpend": 7549723.74
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "015611e0-1501-111b-19c6-002439b3bd56",
+      "FromSupplierId": "051e5936-03f8-1d31-1682-00b6287590ee",
+      "ToSupplierId": "0206b326-2686-182c-15cc-00dad44fd6c7",
+      "Type": "supplies",
+      "DependencyLevel": 0.73,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00b3bb84-05bd-1dbd-088f-0027648d0fdf",
+      "FromSupplierId": "024d19a0-0a43-227f-1448-00c3c671124f",
+      "ToSupplierId": "02dd315f-0f4e-1c8c-0a18-00a14defc8b1",
+      "Type": "partnership",
+      "DependencyLevel": 0.47,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00d392ff-1057-1610-0483-00669e85440e",
+      "FromSupplierId": "02893383-1419-2026-13b2-00988f1e77c2",
+      "ToSupplierId": "02b7e1b0-197a-103e-0ba4-0089b3d51152",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.71,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03953591-1c12-0e2f-0b8d-00bcd06d63e5",
+      "FromSupplierId": "051e5936-03f8-1d31-1682-00b6287590ee",
+      "ToSupplierId": "0372bda7-200e-1916-1ab2-0028a57331b0",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.43,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "010c1407-16c7-1fd0-23c5-003d283a5993",
+      "FromSupplierId": "05e4f79e-132a-05b3-0d69-008dbdfe5940",
+      "ToSupplierId": "02666e81-18e8-0bd9-2456-004869e7033e",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.52,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "034e9aa9-0d8a-090d-1aa0-005cd86d4a60",
+      "FromSupplierId": "03768f1a-1816-1fa3-0b9e-00e872b37c5c",
+      "ToSupplierId": "02d1c005-0b78-2249-075e-00a359c64296",
+      "Type": "supplies",
+      "DependencyLevel": 0.63,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "045d40fb-1a3c-087d-1398-005295be452d",
+      "FromSupplierId": "04ebb1d8-0458-077d-0bcc-006a4032049e",
+      "ToSupplierId": "02d1c005-0b78-2249-075e-00a359c64296",
+      "Type": "partnership",
+      "DependencyLevel": 0.82,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04ed6833-1fcd-0e01-1064-00d7c9d77c54",
+      "FromSupplierId": "057f92ee-1368-206f-10ac-008f311af12e",
+      "ToSupplierId": "0437e76b-10e0-26c1-2004-0036282535fc",
+      "Type": "supplies",
+      "DependencyLevel": 0.45,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "054c4b6d-0f77-1dc7-1112-00c52b44a5a1",
+      "FromSupplierId": "00d8dacd-135c-146d-1604-004eda92a52e",
+      "ToSupplierId": "043b0d93-0d0d-075a-2443-003beff7d36f",
+      "Type": "supplies",
+      "DependencyLevel": 0.65,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01bf51f1-2551-19de-2520-00cf87ca84c0",
+      "FromSupplierId": "041c966e-1549-2199-0cca-00a9498f551d",
+      "ToSupplierId": "02b7e1b0-197a-103e-0ba4-0089b3d51152",
+      "Type": "partnership",
+      "DependencyLevel": 0.57,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "00e0545b-1f9d-18b3-1f6a-00dd5e4c1995",
+      "FromSupplierId": "0576f4d6-263f-0e78-1830-008e2c979845",
+      "ToSupplierId": "0437e76b-10e0-26c1-2004-0036282535fc",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.47,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0287efef-1d72-0434-26bc-00caba17fa1e",
+      "FromSupplierId": "02b7e1b0-197a-103e-0ba4-0089b3d51152",
+      "ToSupplierId": "02a97b14-0502-196c-215b-0094f6d126f8",
+      "Type": "supplies",
+      "DependencyLevel": 0.52,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00de2986-15f7-1877-0c49-002b3830284f",
+      "FromSupplierId": "05933ca2-1d41-1a80-0fdb-008b13800d43",
+      "ToSupplierId": "02a97b14-0502-196c-215b-0094f6d126f8",
+      "Type": "supplies",
+      "DependencyLevel": 0.47,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "049b08b0-1c9a-0a38-1c08-00c5064264b7",
+      "FromSupplierId": "02893383-1419-2026-13b2-00988f1e77c2",
+      "ToSupplierId": "0129aa3f-1255-22db-1a49-00cbb37ab282",
+      "Type": "partnership",
+      "DependencyLevel": 0.72,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "02d92310-1467-09ff-24a3-00407e40da04",
+      "FromSupplierId": "026a4490-10ca-05ea-14ad-003d61a5552f",
+      "ToSupplierId": "04426bf6-259a-0f85-2685-0017f4e0f190",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.62,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00d66364-1971-0803-2467-00b17ead07bb",
+      "FromSupplierId": "03768f1a-1816-1fa3-0b9e-00e872b37c5c",
+      "ToSupplierId": "036857e8-0f5f-240f-1a9c-00bae324d7a0",
+      "Type": "supplies",
+      "DependencyLevel": 0.72,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "02e4fd02-19c5-0b42-096c-00d7a10bc85f",
+      "FromSupplierId": "051e5936-03f8-1d31-1682-00b6287590ee",
+      "ToSupplierId": "04ebb1d8-0458-077d-0bcc-006a4032049e",
+      "Type": "supplies",
+      "DependencyLevel": 0.44,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00f3b44b-14d3-200a-1008-006e679a1624",
+      "FromSupplierId": "036857e8-0f5f-240f-1a9c-00bae324d7a0",
+      "ToSupplierId": "036857e8-0f5f-240f-1a9c-00bae324d7a0",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.7,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0581f8c6-1345-1f9d-0e2d-004b696bf886",
+      "FromSupplierId": "0571b36e-0625-0d27-201f-00b6b2067c60",
+      "ToSupplierId": "051e5936-03f8-1d31-1682-00b6287590ee",
+      "Type": "partnership",
+      "DependencyLevel": 0.46,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02d52dab-1582-0e72-2338-002798b3236d",
+      "FromSupplierId": "0267d68b-13e0-1d6d-0717-00bcb5ebe343",
+      "ToSupplierId": "024d19a0-0a43-227f-1448-00c3c671124f",
+      "Type": "supplies",
+      "DependencyLevel": 0.63,
+      "IsCriticalPath": true
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "financial",
+      "Description": "Concentration of SME lending in Chipata",
+      "ConcentrationLevel": 68.2,
+      "AffectedSuppliers": [
+        "Entrepreneurs - Kitwe",
+        "Individual borrowers - Mongu",
+        "Small businesses - Mongu"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "0225606e-1e6f-1506-0b9b-006e4b883ac1",
+      "SupplierId": "02a97b14-0502-196c-215b-0094f6d126f8",
+      "SupplierName": "Entrepreneurs - Mongu",
+      "RiskType": "financial",
+      "Severity": "medium",
+      "Description": "Risk detected in microloans operations",
+      "DetectedAt": "2026-01-02T17:30:30Z",
+      "IsAcknowledged": false,
+      "AffectedDownstreamSuppliers": [
+        "021fc63a-15d3-23bc-1227-006862295ae5",
+        "04ebb1d8-0458-077d-0bcc-006a4032049e"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 28,
+    "HighRiskSuppliers": 15,
+    "AverageRiskScore": 68.4,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

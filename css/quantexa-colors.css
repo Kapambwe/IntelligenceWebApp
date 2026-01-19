@@ -1,0 +1,46 @@
+/* Quantexa Color Palette - Based on Visual Reference Analysis */
+
+:root {
+    /* Primary Brand Colors */
+    --quantexa-primary: #2563eb;        /* Blue */
+    --quantexa-secondary: #7c3aed;      /* Purple */
+    --quantexa-accent: #06b6d4;         /* Cyan */
+    
+    /* Entity Type Colors */
+    --quantexa-person: #3b82f6;         /* Blue */
+    --quantexa-org: #8b5cf6;            /* Purple */
+    --quantexa-account: #10b981;        /* Green */
+    --quantexa-transaction: #f59e0b;    /* Amber */
+    --quantexa-address: #ec4899;        /* Pink */
+    --quantexa-document: #6366f1;       /* Indigo */
+    
+    /* Risk Gradient */
+    --quantexa-risk-critical: #dc2626;  /* Red */
+    --quantexa-risk-high: #ea580c;      /* Orange */
+    --quantexa-risk-medium: #f59e0b;    /* Amber */
+    --quantexa-risk-low: #84cc16;       /* Lime */
+    --quantexa-risk-safe: #10b981;      /* Emerald */
+    
+    /* UI Colors */
+    --quantexa-bg-primary: #ffffff;
+    --quantexa-bg-secondary: #f8fafc;
+    --quantexa-bg-hover: #f1f5f9;
+    --quantexa-border: #e2e8f0;
+    --quantexa-text-primary: #0f172a;
+    --quantexa-text-secondary: #64748b;
+    --quantexa-text-tertiary: #94a3b8;
+    
+    /* Status Colors */
+    --quantexa-success: #10b981;
+    --quantexa-warning: #f59e0b;
+    --quantexa-danger: #ef4444;
+    --quantexa-info: #3b82f6;
+    
+    /* Cluster Colors */
+    --quantexa-cluster-1: #3b82f6;      /* Blue */
+    --quantexa-cluster-2: #8b5cf6;      /* Purple */
+    --quantexa-cluster-3: #10b981;      /* Green */
+    --quantexa-cluster-4: #f59e0b;      /* Orange */
+    --quantexa-cluster-5: #ec4899;      /* Pink */
+    --quantexa-cluster-6: #06b6d4;      /* Cyan */
+}

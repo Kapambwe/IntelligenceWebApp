@@ -1,0 +1,74 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 256,
+  "ActiveAlerts": 6,
+  "PendingReviews": 3,
+  "ComplianceScore": 79.4,
+  "Alerts": [
+    {
+      "Id": "0797adbc-8e34-4844-ac89-e4efb5fdfe7e",
+      "Type": "VAT Mismatch",
+      "Severity": "Critical",
+      "EntityName": "Liangyung Company Limited",
+      "Description": "Claimed copper ore purchases of K3.2 million while dispatch documents show 40% lower volumes.",
+      "DetectedAt": "2026-01-04T09:30:00Z",
+      "Status": "Open"
+    },
+    {
+      "Id": "21b342dc-1a4a-4931-947e-90e03e6a33f2",
+      "Type": "False Invoicing",
+      "Severity": "High",
+      "EntityName": "Chinese Commercial Trading Centre Limited",
+      "Description": "Matched invoices exceed declared copper sales and route through shell importers via Dubai.",
+      "DetectedAt": "2026-01-03T12:15:00Z",
+      "Status": "Open"
+    },
+    {
+      "Id": "04771637-f0e2-4af7-8615-ea9694348d21",
+      "Type": "Loan Anomaly",
+      "Severity": "High",
+      "EntityName": "Santorin Investments Limited",
+      "Description": "Multi-million loan repayments to Sino partners show inconsistent collateral entries.",
+      "DetectedAt": "2026-01-02T16:40:00Z",
+      "Status": "In Review"
+    },
+    {
+      "Id": "03433221-2b45-457a-8d6e-f2a7268b6db6",
+      "Type": "Adverse Media",
+      "Severity": "Medium",
+      "EntityName": "Junsheng Company Limited",
+      "Description": "Local press flagged VAT refund fraud and false invoicing in Kitwe.",
+      "DetectedAt": "2026-01-01T10:05:00Z",
+      "Status": "Open"
+    },
+    {
+      "Id": "a1e7c2a4-6d3b-4f05-9c6a-13c8b995f46c",
+      "Type": "Supply Chain",
+      "Severity": "Medium",
+      "EntityName": "Spax Mining Limited",
+      "Description": "High dependence on a single Chinese buyer with unexplained price shifts.",
+      "DetectedAt": "2026-01-04T08:50:00Z",
+      "Status": "Open"
+    },
+    {
+      "Id": "f234cee4-0f58-42a4-a023-5ad2d912d2d9",
+      "Type": "Underreporting",
+      "Severity": "High",
+      "EntityName": "Taurus Mining Resources Limited",
+      "Description": "VAT liability dropped drastically despite steady production, raising false reporting concerns.",
+      "DetectedAt": "2026-01-05T07:20:00Z",
+      "Status": "In Review"
+    }
+  ],
+  "RiskTrends": [
+    { "Date": "2025-12-28", "RiskScore": 67 },
+    { "Date": "2025-12-29", "RiskScore": 69 },
+    { "Date": "2025-12-30", "RiskScore": 72 },
+    { "Date": "2025-12-31", "RiskScore": 74 },
+    { "Date": "2026-01-01", "RiskScore": 76 },
+    { "Date": "2026-01-02", "RiskScore": 78 },
+    { "Date": "2026-01-03", "RiskScore": 79 },
+    { "Date": "2026-01-04", "RiskScore": 81 },
+    { "Date": "2026-01-05", "RiskScore": 82 }
+  ]
+}

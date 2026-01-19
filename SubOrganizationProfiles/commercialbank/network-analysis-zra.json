@@ -1,0 +1,58 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "Transaction monitoringPath",
+      "Summary": "Identified 3-step pattern linking individual customers to account management in Lusaka",
+      "HighlightedNodes": [
+        "04e56005-1762-214b-104e-00a7e8f23c5e",
+        "0498bb1d-05d6-119c-2079-00c260a66313",
+        "018954c6-06ca-1655-235b-00d6cc5711cc"
+      ]
+    },
+    {
+      "Name": "Credit riskPath",
+      "Summary": "Identified 6-step pattern linking individual customers to retail banking in Solwezi",
+      "HighlightedNodes": [
+        "055b667f-0999-05f6-1201-009dc9dd80af",
+        "03b65862-126c-108c-088b-003d8c134c23",
+        "0308c5ad-1121-19d0-21f1-007d6036648b",
+        "0303be76-1bc6-0e5a-21cb-00e68f7e8fa9",
+        "0492d06d-2655-2133-17f8-00b969d3604c",
+        "03686dc8-25fd-14ec-1502-00777d857cac"
+      ]
+    },
+    {
+      "Name": "Transaction monitoringPath",
+      "Summary": "Identified 3-step pattern linking SMEs to credit risk in Ndola",
+      "HighlightedNodes": [
+        "01cf1e5e-1a75-109a-0875-00db5e880cc8",
+        "012ae919-0b81-17aa-1627-003b512555ea",
+        "01026f73-1759-0e39-237a-00a2c2c4eb53"
+      ]
+    },
+    {
+      "Name": "Retail bankingPath",
+      "Summary": "Identified 5-step pattern linking SMEs to account management in Lusaka",
+      "HighlightedNodes": [
+        "00b44875-20dc-1e35-0617-00d5c8ea093e",
+        "02c80c32-1887-043a-06ca-002b0f41b99c",
+        "017cb685-22a6-1051-1707-00923627a682",
+        "04502c5d-15f1-2494-0923-002a75038c92",
+        "03619e6e-1798-20e6-1ae2-00a14dc484a6"
+      ]
+    },
+    {
+      "Name": "Account managementPath",
+      "Summary": "Identified 6-step pattern linking SMEs to corporate lending in Lusaka",
+      "HighlightedNodes": [
+        "0407d100-2416-07b9-1f95-00bae62f9922",
+        "04de78e6-26fd-1f85-07de-0017b81b5e6c",
+        "04c130bb-216e-15b4-0e3d-0097a9456fba",
+        "011247ad-17ab-0587-1146-0052873a6be7",
+        "02b7c607-2363-08a1-0d35-0073c027364b",
+        "034869e5-15aa-0752-0d86-00396ab9d220"
+      ]
+    }
+  ]
+}

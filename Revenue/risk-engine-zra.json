@@ -1,0 +1,114 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "d57ab863-4dbc-40b2-8d86-7692c29f8d86",
+      "Name": "Transfer Pricing Integrity",
+      "Description": "Detects inflated advisory fees, circular loan interest, and diversion of copper revenues by monitoring cross-border journal entries.",
+      "Status": "active",
+      "CreatedAt": "2025-12-01T08:00:00Z",
+      "LastModifiedAt": "2025-12-28T14:30:00Z",
+      "Version": "2.1",
+      "Factors": [
+        {
+          "Id": "16695da1-d4c8-4382-98e4-a537efc40241",
+          "Name": "Offshore Chargebacks",
+          "Description": "Percentage of vendor payments routed through non-resident subsidiaries.",
+          "Category": "financial",
+          "Weight": 0.35,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "169cb090-284a-4cf9-aeac-a9b69ed97ce3",
+          "Name": "Copper Price Mismatch",
+          "Description": "Variance between declared sales price and global benchmark adjusted for grade.",
+          "Category": "compliance",
+          "Weight": 0.28,
+          "MinValue": 0,
+          "MaxValue": 150,
+          "IsEnabled": true
+        },
+        {
+          "Id": "67188910-b610-4ceb-a017-4cce21e6f587",
+          "Name": "Loan Circulation",
+          "Description": "Ratio of short-term intercompany loans to revenue flows.",
+          "Category": "transactional",
+          "Weight": 0.22,
+          "MinValue": 0,
+          "MaxValue": 120,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.92,
+        "Precision": 0.89,
+        "Recall": 0.85,
+        "F1Score": 0.87,
+        "TotalPredictions": 620,
+        "TruePositives": 410,
+        "FalsePositives": 45,
+        "TrueNegatives": 130,
+        "FalseNegatives": 35
+      }
+    },
+    {
+      "Id": "80ab5a63-d4fa-440f-9043-220b63f40a7e",
+      "Name": "VAT Consistency Engine",
+      "Description": "Tracks VAT refund requests, invoice pairing, and supplier discounting anomalies tied to the Copperbelt mining value chain.",
+      "Status": "active",
+      "CreatedAt": "2025-11-18T10:30:00Z",
+      "LastModifiedAt": "2025-12-22T09:45:00Z",
+      "Version": "1.4",
+      "Factors": [
+        {
+          "Id": "81fa49c3-0758-4737-a6f4-553e25015198",
+          "Name": "Refund Spike",
+          "Description": "Sudden jump in VAT refunds compared to historical monthly average.",
+          "Category": "financial",
+          "Weight": 0.30,
+          "MinValue": 0,
+          "MaxValue": 200,
+          "IsEnabled": true
+        },
+        {
+          "Id": "f5fc0caf-6d02-4c72-9d34-e46533a667d4",
+          "Name": "Invoice Volume Discrepancy",
+          "Description": "Mismatch between invoice counts and freight manifests.",
+          "Category": "geographic",
+          "Weight": 0.24,
+          "MinValue": 0,
+          "MaxValue": 120,
+          "IsEnabled": true
+        },
+        {
+          "Id": "426f291b-9257-4555-b382-6bf3230ef049",
+          "Name": "Supplier Over-reliance",
+          "Description": "Concentration of payments to identified high-risk suppliers.",
+          "Category": "relationship",
+          "Weight": 0.16,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.88,
+        "Precision": 0.84,
+        "Recall": 0.79,
+        "F1Score": 0.81,
+        "TotalPredictions": 410,
+        "TruePositives": 260,
+        "FalsePositives": 35,
+        "TrueNegatives": 90,
+        "FalseNegatives": 25
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 2,
+    "ActiveFactors": 6,
+    "AverageRiskScore": 89.5
+  }
+}

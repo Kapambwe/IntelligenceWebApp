@@ -1,0 +1,196 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "02a52b9d-1b06-19f9-0942-007389b75ede",
+      "Name": "Humanitarian aid Risk Model",
+      "Description": "Detects development projects patterns in International NGOs operations",
+      "Status": "active",
+      "CreatedAt": "2025-10-25T17:30:30Z",
+      "LastModifiedAt": "2026-01-02T17:30:30Z",
+      "Version": "2.9",
+      "Factors": [
+        {
+          "Id": "03cb5e18-261c-1963-1c74-00769d1e7a59",
+          "Name": "Humanitarian aid Indicator",
+          "Description": "Measures program implementation risk across partner organizations",
+          "Category": "compliance",
+          "Weight": 0.19,
+          "MinValue": 0,
+          "MaxValue": 199,
+          "IsEnabled": true
+        },
+        {
+          "Id": "045a6d61-1b24-2580-1933-008722ddb2e4",
+          "Name": "Program implementation Indicator",
+          "Description": "Measures donor funding risk across implementing partners",
+          "Category": "geographic",
+          "Weight": 0.22,
+          "MinValue": 0,
+          "MaxValue": 189,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0475e263-107b-22ef-230d-00a8ef1bf5ab",
+          "Name": "Program implementation Indicator",
+          "Description": "Measures impact assessment risk across beneficiaries",
+          "Category": "geographic",
+          "Weight": 0.39,
+          "MinValue": 0,
+          "MaxValue": 190,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01c9454e-250e-24c5-1105-007712b7b4b5",
+          "Name": "Impact assessment Indicator",
+          "Description": "Measures humanitarian aid risk across implementing partners",
+          "Category": "compliance",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 176,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.85,
+        "Precision": 0.88,
+        "Recall": 0.86,
+        "F1Score": 0.83,
+        "TotalPredictions": 461,
+        "TruePositives": 311,
+        "FalsePositives": 55,
+        "TrueNegatives": 197,
+        "FalseNegatives": 28
+      }
+    },
+    {
+      "Id": "04f88943-18ff-1eae-0bbd-0035b8a77807",
+      "Name": "Impact assessment Risk Model",
+      "Description": "Detects impact assessment patterns in International NGOs operations",
+      "Status": "active",
+      "CreatedAt": "2025-08-09T17:30:30Z",
+      "LastModifiedAt": "2026-01-16T17:30:30Z",
+      "Version": "2.1",
+      "Factors": [
+        {
+          "Id": "03296c2d-0cde-1074-0eaf-00d6e8525c7b",
+          "Name": "Program implementation Indicator",
+          "Description": "Measures humanitarian aid risk across partner organizations",
+          "Category": "financial",
+          "Weight": 0.39,
+          "MinValue": 0,
+          "MaxValue": 131,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0358f844-159c-1cc3-270d-009187a77b82",
+          "Name": "Program implementation Indicator",
+          "Description": "Measures development projects risk across implementing partners",
+          "Category": "geographic",
+          "Weight": 0.36,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0262acea-2552-12fe-0e30-00bcdb1978d9",
+          "Name": "Program implementation Indicator",
+          "Description": "Measures program implementation risk across donors",
+          "Category": "compliance",
+          "Weight": 0.24,
+          "MinValue": 0,
+          "MaxValue": 173,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.84,
+        "Precision": 0.84,
+        "Recall": 0.71,
+        "F1Score": 0.78,
+        "TotalPredictions": 323,
+        "TruePositives": 347,
+        "FalsePositives": 59,
+        "TrueNegatives": 178,
+        "FalseNegatives": 47
+      }
+    },
+    {
+      "Id": "04f1c840-1ee9-09e8-23ba-00c8c6957a9c",
+      "Name": "Impact assessment Risk Model",
+      "Description": "Detects impact assessment patterns in International NGOs operations",
+      "Status": "active",
+      "CreatedAt": "2025-12-18T17:30:30Z",
+      "LastModifiedAt": "2025-12-23T17:30:30Z",
+      "Version": "2.9",
+      "Factors": [
+        {
+          "Id": "03845cde-1a36-1f03-12db-009184214a3b",
+          "Name": "Humanitarian aid Indicator",
+          "Description": "Measures program implementation risk across beneficiaries",
+          "Category": "operational",
+          "Weight": 0.29,
+          "MinValue": 0,
+          "MaxValue": 199,
+          "IsEnabled": true
+        },
+        {
+          "Id": "040e2391-22f8-140e-1aeb-001e89703762",
+          "Name": "Development projects Indicator",
+          "Description": "Measures program implementation risk across beneficiaries",
+          "Category": "operational",
+          "Weight": 0.28,
+          "MinValue": 0,
+          "MaxValue": 199,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0368e1a4-1ea4-19ad-166a-00621bc95c96",
+          "Name": "Humanitarian aid Indicator",
+          "Description": "Measures program implementation risk across beneficiaries",
+          "Category": "financial",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 169,
+          "IsEnabled": true
+        },
+        {
+          "Id": "048d9ac9-0cf3-2000-1cf4-001eaa8c92a0",
+          "Name": "Impact assessment Indicator",
+          "Description": "Measures donor funding risk across donors",
+          "Category": "compliance",
+          "Weight": 0.18,
+          "MinValue": 0,
+          "MaxValue": 127,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03e2089e-1720-08f9-110a-00e27510dd3f",
+          "Name": "Humanitarian aid Indicator",
+          "Description": "Measures humanitarian aid risk across implementing partners",
+          "Category": "operational",
+          "Weight": 0.22,
+          "MinValue": 0,
+          "MaxValue": 111,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.81,
+        "Precision": 0.89,
+        "Recall": 0.72,
+        "F1Score": 0.81,
+        "TotalPredictions": 652,
+        "TruePositives": 372,
+        "FalsePositives": 61,
+        "TrueNegatives": 186,
+        "FalseNegatives": 43
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 12,
+    "AverageRiskScore": 83.2
+  }
+}

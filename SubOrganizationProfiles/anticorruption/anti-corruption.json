@@ -1,0 +1,52 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "AntiCorruption",
+  "DisplayName": "Zambia Anti-Corruption Commission",
+  "Country": "Zambia",
+  "Headquarters": "Chilanga, Zambia",
+  "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+  "TopPriorities": [
+    "Bring high-value bribery and procurement fraud cases in the Copperbelt to trial.",
+    "Expand whistleblower protections and secure anonymous tips electronically.",
+    "Publish quarterly integrity dashboards that trace asset recovery flows."
+  ],
+  "ActiveOperations": [
+    "Cross-border procurement fraud sweep in partnership with the Ministry of Defense and Zambia Revenue Authority.",
+    "Live corruption risk scoring for the Ministry of Health supply chain using GIS and financial monitoring.",
+    "Integrity training for local council clerks across Kitwe and Mufulira."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Recovered K1.8 million in misappropriated municipality funds",
+      "Date": "2026-01-03T00:00:00Z",
+      "Summary": "ACC investigators tracked fictitious suppliers in the Nkana district and returned funds to the PTA-building project."
+    },
+    {
+      "Title": "Arrested former Health Ministry official for K12.4 million medical supplies fraud",
+      "Date": "2025-12-28T00:00:00Z",
+      "Summary": "Investigation revealed inflated procurement contracts and kickbacks involving phantom pharmaceutical suppliers at University Teaching Hospital."
+    },
+    {
+      "Title": "Filed charges against procurement officers using offshore shell companies",
+      "Date": "2025-12-21T00:00:00Z",
+      "Summary": "Evidence tied to Chinese-owned logistics firms was presented in the Economic and Financial Crimes Court."
+    },
+    {
+      "Title": "Seized assets worth K8.2 million from Roads Development Agency officials",
+      "Date": "2025-12-15T00:00:00Z",
+      "Summary": "Joint operation with FIC traced construction kickbacks to luxury properties in Lusaka and Livingstone."
+    }
+  ],
+  "KeyPartnerships": [
+    "Economic and Financial Crimes Court",
+    "Bank of Zambia Financial Intelligence Centre",
+    "Transparency International Zambia"
+  ],
+  "Metrics": {
+    "InvestigationsOpen": "42",
+    "AssetsRecovered": "K26.4M",
+    "CourtConvictions": "18 in past six months",
+    "WhistleblowerReports": "156 verified tips",
+    "ForensicAuditsCompleted": "34"
+  }
+}

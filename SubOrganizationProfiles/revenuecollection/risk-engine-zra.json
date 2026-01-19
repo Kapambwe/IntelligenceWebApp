@@ -1,0 +1,196 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "02c0c5d8-16f2-15c2-1cbf-00cf3ce5ab18",
+      "Name": "Payment processing Risk Model",
+      "Description": "Detects compliance enforcement patterns in Revenue Collection operations",
+      "Status": "active",
+      "CreatedAt": "2025-08-11T17:30:31Z",
+      "LastModifiedAt": "2026-01-04T17:30:31Z",
+      "Version": "3.8",
+      "Factors": [
+        {
+          "Id": "042e0564-13b8-09d9-10e8-004ac1da9399",
+          "Name": "Tax collection Indicator",
+          "Description": "Measures arrears management risk across individual filers",
+          "Category": "compliance",
+          "Weight": 0.21,
+          "MinValue": 0,
+          "MaxValue": 180,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00e05b79-17ab-2477-1316-00ce1c24d1cb",
+          "Name": "Arrears management Indicator",
+          "Description": "Measures arrears management risk across corporate entities",
+          "Category": "compliance",
+          "Weight": 0.39,
+          "MinValue": 0,
+          "MaxValue": 143,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03f5c3b4-1473-1d6b-1bd1-0055558eb9ac",
+          "Name": "Arrears management Indicator",
+          "Description": "Measures compliance enforcement risk across individual filers",
+          "Category": "compliance",
+          "Weight": 0.26,
+          "MinValue": 0,
+          "MaxValue": 132,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.91,
+        "Precision": 0.82,
+        "Recall": 0.75,
+        "F1Score": 0.86,
+        "TotalPredictions": 527,
+        "TruePositives": 268,
+        "FalsePositives": 79,
+        "TrueNegatives": 132,
+        "FalseNegatives": 25
+      }
+    },
+    {
+      "Id": "00cb279c-0adb-1de5-0dae-00259a06d4de",
+      "Name": "Arrears management Risk Model",
+      "Description": "Detects debt recovery patterns in Revenue Collection operations",
+      "Status": "active",
+      "CreatedAt": "2025-10-12T17:30:31Z",
+      "LastModifiedAt": "2026-01-05T17:30:31Z",
+      "Version": "1.5",
+      "Factors": [
+        {
+          "Id": "01458e7a-25df-0ad4-19cb-0063c6098b7d",
+          "Name": "Arrears management Indicator",
+          "Description": "Measures payment processing risk across debtors",
+          "Category": "compliance",
+          "Weight": 0.29,
+          "MinValue": 0,
+          "MaxValue": 176,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01daa161-1df3-1157-1dec-007f0d038cb2",
+          "Name": "Compliance enforcement Indicator",
+          "Description": "Measures arrears management risk across debtors",
+          "Category": "geographic",
+          "Weight": 0.17,
+          "MinValue": 0,
+          "MaxValue": 149,
+          "IsEnabled": true
+        },
+        {
+          "Id": "028d6b07-0df5-171a-13fa-0018930856ab",
+          "Name": "Debt recovery Indicator",
+          "Description": "Measures tax collection risk across individual filers",
+          "Category": "geographic",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 129,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0184617f-11e1-2615-2105-0084158afa9f",
+          "Name": "Payment processing Indicator",
+          "Description": "Measures debt recovery risk across corporate entities",
+          "Category": "operational",
+          "Weight": 0.26,
+          "MinValue": 0,
+          "MaxValue": 102,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.93,
+        "Precision": 0.91,
+        "Recall": 0.84,
+        "F1Score": 0.83,
+        "TotalPredictions": 429,
+        "TruePositives": 306,
+        "FalsePositives": 33,
+        "TrueNegatives": 167,
+        "FalseNegatives": 59
+      }
+    },
+    {
+      "Id": "028a4158-183b-044d-09f9-00bf7740e761",
+      "Name": "Tax collection Risk Model",
+      "Description": "Detects debt recovery patterns in Revenue Collection operations",
+      "Status": "active",
+      "CreatedAt": "2025-11-12T17:30:31Z",
+      "LastModifiedAt": "2026-01-12T17:30:31Z",
+      "Version": "1.7",
+      "Factors": [
+        {
+          "Id": "00fdaa61-1873-16be-085e-005d5118e3f0",
+          "Name": "Tax collection Indicator",
+          "Description": "Measures payment processing risk across corporate entities",
+          "Category": "operational",
+          "Weight": 0.34,
+          "MinValue": 0,
+          "MaxValue": 104,
+          "IsEnabled": true
+        },
+        {
+          "Id": "020ed438-0ed0-0451-0484-009ed43dc613",
+          "Name": "Payment processing Indicator",
+          "Description": "Measures tax collection risk across individual filers",
+          "Category": "geographic",
+          "Weight": 0.4,
+          "MinValue": 0,
+          "MaxValue": 184,
+          "IsEnabled": true
+        },
+        {
+          "Id": "034a0a55-0432-1382-0cf3-00733cb55682",
+          "Name": "Tax collection Indicator",
+          "Description": "Measures payment processing risk across individual filers",
+          "Category": "geographic",
+          "Weight": 0.39,
+          "MinValue": 0,
+          "MaxValue": 105,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0292b266-1319-176f-2325-00b64a5ddf7a",
+          "Name": "Payment processing Indicator",
+          "Description": "Measures debt recovery risk across debtors",
+          "Category": "compliance",
+          "Weight": 0.23,
+          "MinValue": 0,
+          "MaxValue": 167,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04cce848-1949-11fb-0a59-00e620b8d231",
+          "Name": "Arrears management Indicator",
+          "Description": "Measures tax collection risk across taxpayers",
+          "Category": "operational",
+          "Weight": 0.13,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.86,
+        "Precision": 0.79,
+        "Recall": 0.71,
+        "F1Score": 0.79,
+        "TotalPredictions": 428,
+        "TruePositives": 388,
+        "FalsePositives": 68,
+        "TrueNegatives": 175,
+        "FalseNegatives": 46
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 12,
+    "AverageRiskScore": 80.6
+  }
+}

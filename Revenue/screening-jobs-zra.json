@@ -1,0 +1,68 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "ActiveJobs": [
+    {
+      "Id": "924c925a-4fbf-4e37-ae7d-5beea76bb95e",
+      "Name": "VAT Reconciliation - November",
+      "Type": "VAT Screening",
+      "Status": "Running",
+      "Progress": 72,
+      "TotalEntities": 280,
+      "ProcessedEntities": 202,
+      "MatchesFound": 12,
+      "CreatedAt": "2026-01-06T06:00:00Z",
+      "Priority": "High",
+      "TotalRecords": 1200,
+      "ProcessedRecords": 864,
+      "StartedAt": "2026-01-06T06:00:00Z"
+    },
+    {
+      "Id": "c9f93ba0-8e19-40bb-9deb-3e9116b67e78",
+      "Name": "Transfer Pricing Loan Review",
+      "Type": "Relationship Screening",
+      "Status": "Running",
+      "Progress": 45,
+      "TotalEntities": 130,
+      "ProcessedEntities": 59,
+      "MatchesFound": 7,
+      "CreatedAt": "2026-01-05T20:30:00Z",
+      "Priority": "High",
+      "TotalRecords": 620,
+      "ProcessedRecords": 279,
+      "StartedAt": "2026-01-05T20:30:00Z"
+    },
+    {
+      "Id": "ea3d8d9a-3e3e-4e7d-b5d2-2f5fb8e906bd",
+      "Name": "Supply Chain Influence",
+      "Type": "Entity Screening",
+      "Status": "Running",
+      "Progress": 33,
+      "TotalEntities": 90,
+      "ProcessedEntities": 30,
+      "MatchesFound": 4,
+      "CreatedAt": "2026-01-07T02:00:00Z",
+      "Priority": "Medium",
+      "TotalRecords": 420,
+      "ProcessedRecords": 140,
+      "StartedAt": "2026-01-07T02:00:00Z"
+    }
+  ],
+  "CompletedJobs": [
+    {
+      "Id": "35ac8c07-a8f7-4d58-9dad-3bd396ecc556",
+      "Name": "False Invoice Sweep",
+      "Type": "Document Screening",
+      "Status": "Completed",
+      "Progress": 100,
+      "TotalEntities": 98,
+      "ProcessedEntities": 98,
+      "MatchesFound": 5,
+      "CreatedAt": "2025-12-29T07:45:00Z",
+      "CompletedAt": "2025-12-29T12:15:00Z",
+      "Priority": "Medium",
+      "TotalRecords": 400,
+      "ProcessedRecords": 400,
+      "StartedAt": "2025-12-29T07:45:00Z"
+    }
+  ]
+}

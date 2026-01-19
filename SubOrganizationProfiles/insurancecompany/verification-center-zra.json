@@ -1,0 +1,1176 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "027cfba7-0c0f-155f-16a6-007d8cb0f5ad",
+      "EntityId": "036685be-20f1-1242-04c0-005f001422f6",
+      "EntityName": "Corporate clients - Kabwe",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-13T17:30:30Z",
+      "Notes": "Policy underwriting for claims processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "021fabaa-079e-1ead-0f0b-00be0114c0f3",
+      "EntityId": "02fd3b06-1ae5-0b94-24ec-009f6dfaf730",
+      "EntityName": "Corporate clients - Kitwe",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "Notes": "Fraud investigation for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-21T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "04d4c56d-1ab1-1184-1f7a-00cd9477681d",
+      "EntityId": "02d29384-0f1a-1517-1e74-00aee2504fd5",
+      "EntityName": "Claimants - Ndola",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-06T17:30:30Z",
+      "Notes": "Compliance check for claims processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "034d3b30-0a78-0faa-207f-005d2ff65fd3",
+      "EntityId": "02ae33b4-1995-26e8-0d6d-00531b342622",
+      "EntityName": "Brokers - Kabwe",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2026-01-12T17:30:30Z",
+      "Notes": "Policy underwriting for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01a3771e-08d8-23b0-0856-009455b0127e",
+      "EntityId": "049f0379-155e-0f8b-0fc7-007bc4711f49",
+      "EntityName": "Claimants - Kitwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-05T17:30:30Z",
+      "Notes": "Claims processing for risk assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03fa489c-1718-0cac-16dc-00af4136c87d",
+      "EntityId": "042f9cbe-2644-18a5-2033-001ac8d96e59",
+      "EntityName": "Corporate clients - Kabwe",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2026-01-10T17:30:30Z",
+      "Notes": "Compliance check for insurance fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "01e8bc74-26e5-1464-1735-005d6c3bfd4c",
+      "EntityId": "048d7bf4-23e0-15c6-257b-004c3c8e6718",
+      "EntityName": "Claimants - Kitwe",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-12-12T17:30:30Z",
+      "Notes": "Claims processing for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05377878-1201-1d6e-1ba1-0078fb2b1510",
+      "EntityId": "03ded2b3-1d8c-0dfe-0788-00b0c4cd86a6",
+      "EntityName": "Claimants - Livingstone",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-11T17:30:30Z",
+      "Notes": "Risk evaluation for insurance fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-25T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "057f4528-240b-1cb2-08ee-003cc290aa20",
+      "EntityId": "04453b3b-11f9-20b1-111c-00c778af0a59",
+      "EntityName": "Corporate clients - Kabwe",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-12T17:30:30Z",
+      "Notes": "Compliance check for policy management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-08T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "05c6b2a5-2134-05ac-0f4b-007c6c4a2c00",
+      "EntityId": "0404f6db-192d-10d8-0608-0041689ac89f",
+      "EntityName": "Brokers - Lusaka",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-13T17:30:30Z",
+      "Notes": "Compliance check for claims processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-30T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-23T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "041d9677-14d1-0d34-1552-00d64b6df42c",
+      "EntityId": "052080bb-0889-1276-1c7d-00bc57fbd426",
+      "EntityName": "Corporate clients - Kitwe",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-01T17:30:30Z",
+      "Notes": "Policy underwriting for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "057f4278-260b-1955-24c0-006922b11e7c",
+      "EntityId": "02f25d6e-0acf-22d2-09a8-00b86fb160f8",
+      "EntityName": "Claimants - Ndola",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-31T17:30:30Z",
+      "Notes": "Risk evaluation for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-03T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02251d79-1b1d-1d2d-1bc7-00563566b6ea",
+      "EntityId": "058e9f3f-0c9b-1221-1abc-0050d16425c4",
+      "EntityName": "Policyholders - Kitwe",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-01T17:30:30Z",
+      "Notes": "Compliance check for claims processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-26T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "053cba9f-1f12-1448-1975-00416edff23f",
+      "EntityId": "010eefad-18fb-1bb2-227b-00be5b766508",
+      "EntityName": "Claimants - Livingstone",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2026-01-15T17:30:30Z",
+      "Notes": "Claims processing for risk assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-26T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04db3354-1f3b-072d-086e-0056dfff3d47",
+      "EntityId": "0445078b-0a95-1339-14f2-0048dcb2225d",
+      "EntityName": "Brokers - Kitwe",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-05T17:30:30Z",
+      "Notes": "Risk evaluation for risk assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-25T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03b46e6c-095a-0a2e-07d3-00e371d59d27",
+      "EntityId": "02b06768-2160-1f15-1420-00a4a8c5c70c",
+      "EntityName": "Claimants - Lusaka",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-29T17:30:30Z",
+      "Notes": "Compliance check for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0586b353-1a4d-1031-15f1-0043c80a9096",
+      "EntityId": "02a6ed6d-1b34-0e75-26a8-0046a8022e85",
+      "EntityName": "Brokers - Lusaka",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-12-11T17:30:30Z",
+      "Notes": "Compliance check for policy management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-05T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-01T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "05bc5e8a-2558-1e88-1e5a-00c30cd15f38",
+      "EntityId": "02f826a6-224e-1212-1946-006ea4b39b48",
+      "EntityName": "Brokers - Livingstone",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-28T17:30:30Z",
+      "Notes": "Claims processing for claims processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-28T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-29T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01972009-0a72-0954-08b6-00e3662bd793",
+      "EntityId": "03499ba3-0c5b-17b7-25c2-007194ff0ac6",
+      "EntityName": "Corporate clients - Kabwe",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2026-01-12T17:30:30Z",
+      "Notes": "Fraud investigation for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-19T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "05b5fa46-095f-14cd-17de-0040e050634d",
+      "EntityId": "038551fe-1add-13af-2244-00a42b304518",
+      "EntityName": "Policyholders - Ndola",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-11T17:30:30Z",
+      "Notes": "Compliance check for risk assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-25T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00f62afe-0785-1fb2-2339-008a37e81633",
+      "EntityId": "02128fb1-1b2f-2437-2544-00d2edf403bf",
+      "EntityName": "Brokers - Kabwe",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-27T17:30:30Z",
+      "Notes": "Compliance check for policy management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-29T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0596e873-12dd-18bb-1996-00d1d88b9306",
+      "EntityId": "01a63555-1eb7-14a6-1c06-00780b4baa97",
+      "EntityName": "Policyholders - Lusaka",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-10-27T17:30:30Z",
+      "Notes": "Risk evaluation for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-07T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "04724668-1b8f-0650-20f7-00a0bb85b463",
+      "EntityId": "01462b3f-0d2f-1c28-1ed8-0061ae78e56a",
+      "EntityName": "Corporate clients - Ndola",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-26T17:30:30Z",
+      "Notes": "Policy underwriting for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-11-29T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0139536f-10d2-09af-0af3-007a4025715c",
+      "EntityId": "04f91c0a-0dae-2276-0da0-001e2399ccf4",
+      "EntityName": "Policyholders - Kitwe",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-12-12T17:30:30Z",
+      "Notes": "Risk evaluation for claims processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-23T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-29T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "04953872-218d-0eb1-0721-00de0e31f8a3",
+      "EntityId": "05f19289-127a-1d97-094b-009fdc5651ae",
+      "EntityName": "Claimants - Livingstone",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-10-24T17:30:30Z",
+      "Notes": "Fraud investigation for claims processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-06T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03c70055-1cba-1268-0442-00a1787eb720",
+      "EntityId": "0339e1f7-0a31-1d0c-1810-00b65f0aa0d4",
+      "EntityName": "Corporate clients - Kabwe",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2026-01-06T17:30:30Z",
+      "Notes": "Fraud investigation for policy management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-10T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "03d69550-081f-1acd-0dc6-0030b98b95c9",
+      "EntityId": "02adf684-1b03-215a-14a9-0094f3448f92",
+      "EntityName": "Corporate clients - Livingstone",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2026-01-11T17:30:30Z",
+      "Notes": "Fraud investigation for insurance fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-25T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04375e9a-1b23-0f2a-0a49-006cd4dc2aa8",
+      "EntityId": "033fdd0c-17df-0943-0b16-0021510082ad",
+      "EntityName": "Claimants - Livingstone",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-12T17:30:30Z",
+      "Notes": "Fraud investigation for insurance fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-19T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02a1e5dd-0eb3-0a8b-2673-00336598cabc",
+      "EntityId": "0451cdf1-1d84-1b2e-2396-0091b38c0656",
+      "EntityName": "Brokers - Livingstone",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-11-27T17:30:30Z",
+      "Notes": "Risk evaluation for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-30T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03f3b9b3-1729-24c9-0b58-00404a1a88b9",
+      "EntityId": "03a356a4-1579-1779-2235-00b6f17bc7be",
+      "EntityName": "Policyholders - Kabwe",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-10-30T17:30:30Z",
+      "Notes": "Fraud investigation for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-20T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-27T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "016ac9e0-19bb-1bef-0582-00943f8f806f",
+      "EntityId": "04ff8d02-1799-23c9-0b7c-008d2a7ede1a",
+      "EntityName": "Claimants - Kabwe",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-28T17:30:30Z",
+      "Notes": "Compliance check for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-08T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-02T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "00ad4557-1c8a-06a1-157d-0057d377eae0",
+      "EntityId": "0515190f-151e-0a1c-0917-007cd3e04410",
+      "EntityName": "Policyholders - Livingstone",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "Notes": "Risk evaluation for policy management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-04T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05811933-188a-2475-05b4-00b6e1c174d2",
+      "EntityId": "034cac2b-24ff-1405-18ab-001c88d0589d",
+      "EntityName": "Corporate clients - Livingstone",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-01T17:30:30Z",
+      "Notes": "Compliance check for policy management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-11T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "0514fc1e-22ce-19a9-1045-00ce77ad0b53",
+      "EntityId": "02acca26-12af-0483-15ad-0072e2f91668",
+      "EntityName": "Corporate clients - Livingstone",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-14T17:30:30Z",
+      "Notes": "Policy underwriting for risk assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-07T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "03f39b5b-0dce-19d6-194b-005996683638",
+      "EntityId": "00bdc963-1bbe-09ed-0c13-005dda56cf62",
+      "EntityName": "Brokers - Livingstone",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-17T17:30:30Z",
+      "Notes": "Fraud investigation for policy management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03b89a88-1258-1788-12a5-0069bbb38f76",
+      "EntityId": "039fd844-03f7-128c-217c-00baf43735b8",
+      "EntityName": "Claimants - Lusaka",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-10T17:30:30Z",
+      "Notes": "Policy underwriting for insurance fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-11-27T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "050d832c-191f-1464-1c0d-00811f367d78",
+      "EntityId": "0354318a-244b-1c77-0b76-00a884c5e1a6",
+      "EntityName": "Brokers - Livingstone",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2026-01-09T17:30:30Z",
+      "Notes": "Policy underwriting for claims processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05a69f63-19ca-070e-1f24-00d72d9712b3",
+      "EntityId": "048af12a-03fe-1963-2274-003a6af6cbd3",
+      "EntityName": "Corporate clients - Kitwe",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-03T17:30:30Z",
+      "Notes": "Policy underwriting for risk assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-30T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "015e1e4f-248f-1d3a-134c-00d90a5b7c1b",
+      "EntityId": "0348b4a5-10b7-1bdc-1195-005c2e291e29",
+      "EntityName": "Policyholders - Ndola",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2026-01-01T17:30:30Z",
+      "Notes": "Claims processing for risk assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-11T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-27T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "024cea3f-05cd-0405-06be-0097c7650d70",
+      "EntityId": "032fc4cd-1625-218f-2201-005205372587",
+      "EntityName": "Brokers - Kabwe",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-26T17:30:30Z",
+      "Notes": "Fraud investigation for insurance fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-27T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "02aa6442-2372-25a8-0aad-00b8913fb0cb",
+      "EntityId": "03550006-082e-154e-1879-00530842382a",
+      "EntityName": "Brokers - Kitwe",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-11T17:30:30Z",
+      "Notes": "Fraud investigation for insurance fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-28T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "051bb3a9-08db-161f-0492-00e34049e7d4",
+      "EntityId": "00ba07ad-1527-0cd0-1d72-00802370a321",
+      "EntityName": "Brokers - Kabwe",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-10T17:30:30Z",
+      "Notes": "Policy underwriting for policy management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-19T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03700a8e-2194-09cf-2102-00b5a72a3608",
+      "EntityId": "048feec8-1a25-1aa0-1e72-006b991d9f40",
+      "EntityName": "Brokers - Ndola",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-16T17:30:30Z",
+      "Notes": "Fraud investigation for policy management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "0463153a-072c-124d-1607-00785d5f2659",
+      "EntityId": "03fda292-24cf-17d5-14e1-008b25fcd623",
+      "EntityName": "Policyholders - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-11T17:30:30Z",
+      "Notes": "Policy underwriting for policy management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d5bf61-093d-06b9-1d15-00312891ef1f",
+      "EntityId": "04680564-06c6-1c72-1344-00477933b18d",
+      "EntityName": "Claimants - Lusaka",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-06T17:30:30Z",
+      "Notes": "Policy underwriting for policy management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-08T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "04fff324-0dc3-2058-1b29-004f9e4f1da5",
+      "EntityId": "033bfad0-26cd-0b77-0797-005f9427ca69",
+      "EntityName": "Claimants - Livingstone",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-16T17:30:30Z",
+      "Notes": "Compliance check for claims processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-01T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "047e8a71-07a7-0527-1e5c-004ba8b61759",
+      "EntityId": "02b98620-052e-06dd-1b4e-00be51c9bf92",
+      "EntityName": "Brokers - Livingstone",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-30T17:30:30Z",
+      "Notes": "Compliance check for insurance fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "012b6046-089a-06b1-07df-00c7099ee99e",
+      "EntityId": "00d1643f-20af-069e-089d-009d92ec138d",
+      "EntityName": "Brokers - Livingstone",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-20T17:30:30Z",
+      "Notes": "Policy underwriting for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0404e7d5-10c0-076e-157f-003a7760d256",
+      "EntityId": "047aeab3-1008-24bf-1be1-00737cf67990",
+      "EntityName": "Claimants - Livingstone",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-26T17:30:30Z",
+      "Notes": "Compliance check for underwriting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-13T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-21T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02c57997-1874-24ec-10e1-00dc8d9b7245",
+      "EntityId": "04a4a9db-127f-2057-068e-0083f03b64d2",
+      "EntityName": "Claimants - Ndola",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-12-04T17:30:30Z",
+      "Notes": "Compliance check for insurance fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-30T17:30:30Z"
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 15,
+    "Pending": 21,
+    "Failed": 14
+  }
+}

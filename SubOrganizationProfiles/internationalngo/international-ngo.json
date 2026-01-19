@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "InternationalNGO",
+  "DisplayName": "Transparency International Zambia",
+  "Country": "Zambia",
+  "Headquarters": "Lusaka, Zambia",
+  "Mandate": "Promote transparency, expose corruption, and support civil society oversight of revenue and justice institutions.",
+  "TopPriorities": [
+    "Track public procurement and VAT refund transparency in mining and infrastructure sectors.",
+    "Mobilize citizen reporters around Kitwe and Ndola to document suspicious public spending.",
+    "Push for stronger asset declaration laws and protection for whistleblowers."
+  ],
+  "ActiveOperations": [
+    "Integrity barometer that surveys business perceptions of ZRA and judiciary fairness.",
+    "Partnerships with media (Times of Zambia, Radio Phoenix, ZNBC) to surface corruption networks.",
+    "Legal aid for complainants preparing submissions to the ACC and Economic Crimes Court."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Released a report on VAT refund opacity",
+      "Date": "2025-12-21T00:00:00Z",
+      "Summary": "Mapped how certain Chinese-owned trading firms secured repeated refunds with minimal scrutiny."
+    },
+    {
+      "Title": "Supported civic monitoring of Cabinet revenue briefings",
+      "Date": "2025-12-10T00:00:00Z",
+      "Summary": "Organized live summaries that highlighted the ZRA-led Copperbelt clean-up."
+    }
+  ],
+  "KeyPartnerships": [
+    "Economic and Financial Crimes Court observers",
+    "Anti-Corruption Commission",
+    "Local NGOs and community radio stations"
+  ],
+  "Metrics": {
+    "ReportsPublished": "7 integrity reports this year",
+    "WhistleblowerCases": "23 active cases",
+    "CommunityPartners": "48 civic groups"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "Radio",
+  "DisplayName": "Radio Phoenix",
+  "Country": "Zambia",
+  "Headquarters": "Lusaka, Zambia",
+  "Mandate": "Broadcast news, community updates, and investigative reports that encourage accountability in revenue and public spending.",
+  "TopPriorities": [
+    "Air daily segments on Currency and VAT fraud to influence public sentiment.",
+    "Use call-in shows to capture local testimony on corrupt procurement.",
+    "Support ACC and ZRA whistleblower campaigns by providing safe on-air tips."
+  ],
+  "ActiveOperations": [
+    "Citizen hotline that documents suspicious mining invoices and vault transfers.",
+    "Weekly program featuring interviews with ZRA analysts and finance experts.",
+    "Nightly broadcasts that explain Economic and Financial Crimes Court rulings in plain language."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Hosted live studio briefing with ZRA and ACC spokespeople",
+      "Date": "2026-01-10T00:00:00Z",
+      "Summary": "Allowed listeners to submit real-time questions about ongoing mining investigations."
+    },
+    {
+      "Title": "Produced special series on media literacy and revenue scandals",
+      "Date": "2025-12-22T00:00:00Z",
+      "Summary": "Partnered with Transparency International Zambia to verify facts before airing."
+    }
+  ],
+  "KeyPartnerships": [
+    "Transparency International Zambia",
+    "Zambia Revenue Authority",
+    "Civil society media coalition"
+  ],
+  "Metrics": {
+    "WeeklyListeners": "620,000",
+    "InvestigativeSegments": "18 per quarter",
+    "ListenerTips": "340 verified leads"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "Newspaper",
+  "DisplayName": "Times of Zambia",
+  "Country": "Zambia",
+  "Headquarters": "Lusaka, Zambia",
+  "Mandate": "Report on public finance, legal proceedings, and civic accountability while keeping readers informed of the Revenue Collection story.",
+  "TopPriorities": [
+    "Cover the Economic and Financial Crimes Court proceedings involving VAT fraud cases.",
+    "Explain how ZRA intelligence and the ACC cooperate on mining investigations.",
+    "Highlight policy changes coming from the Ministry of Finance."
+  ],
+  "ActiveOperations": [
+    "Daily investigative beat focused on revenue leaks and public procurement.",
+    "Audience feedback forums that share community complaints on tax enforcement.",
+    "Data journalism team working with IFMIS and ZRA data releases to build interactive charts."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Published feature on ZRA AI initiatives",
+      "Date": "2026-01-07T00:00:00Z",
+      "Summary": "Explained how the Revenue Collection Task Force uses machine learning to compare freight manifests with invoices."
+    },
+    {
+      "Title": "Live-reported Economic Crimes Court updates",
+      "Date": "2026-01-05T00:00:00Z",
+      "Summary": "Provided real-time summaries of pleas entered by Chinese-owned mining service companies."
+    }
+  ],
+  "KeyPartnerships": [
+    "Anti-Corruption Commission transparency desk",
+    "Zambia Revenue Authority communications team",
+    "Local civil society organizations"
+  ],
+  "Metrics": {
+    "InvestigativeStories": "32 articles in past 6 months",
+    "AudienceReach": "1.8M page views",
+    "PublicFeedback": "210 reports of tax issues"
+  }
+}

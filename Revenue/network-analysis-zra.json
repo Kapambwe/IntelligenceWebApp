@@ -1,0 +1,24 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "TransferPricingPath",
+      "Summary": "Identified the 4-step path linking Santorin Investments Limited to offshore service providers where inflated advisory fees are booked before copper exports.",
+      "HighlightedNodes": [
+        "afc24c51-9d4c-4ce4-9ee3-9fc0064ab41d",
+        "955ccc81-822c-4c2c-b2e0-8fe34547eadd",
+        "06f46387-c64a-402f-be89-ad11336148b3",
+        "b03cd297-3871-438a-abaa-0e0aff10b7ee"
+      ]
+    },
+    {
+      "Name": "OwnershipCluster",
+      "Summary": "Detected a cluster of shell entities controlling Junsheng Company Limited and liaising with Mineral Junxion and Transport Limited in a circular ownership pattern.",
+      "HighlightedNodes": [
+        "1777ca15-dfe2-4be2-a3d3-8fa695b5cd7c",
+        "a84dd08c-1ad3-404b-92ff-ff869ff65d32",
+        "f30b4873-dd20-41ef-ad02-1cd9afde0eb3"
+      ]
+    }
+  ]
+}

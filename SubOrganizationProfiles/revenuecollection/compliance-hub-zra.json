@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 474,
+  "ActiveAlerts": 11,
+  "PendingReviews": 8,
+  "ComplianceScore": 93.3,
+  "Alerts": [
+    {
+      "Id": "05453fe5-101d-1961-1627-00bd322bda04",
+      "Type": "Payment processing",
+      "Severity": "Critical",
+      "EntityName": "Individual filers - Kitwe",
+      "Description": "Payment tracking revealed arrears management involving individual filers",
+      "DetectedAt": "2025-12-22T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "054c9ce1-055a-0f9f-25c4-00911c9e7add",
+      "Type": "Debt recovery",
+      "Severity": "Medium",
+      "EntityName": "Individual filers - Solwezi",
+      "Description": "Enforcement revealed debt recovery involving individual filers",
+      "DetectedAt": "2025-11-03T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "033ac6c2-259d-10ab-04a9-009edbae92df",
+      "Type": "Arrears management",
+      "Severity": "Low",
+      "EntityName": "Individual filers - Ndola",
+      "Description": "Collection revealed compliance enforcement involving taxpayers",
+      "DetectedAt": "2025-11-28T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01db6eef-2328-0409-25ef-00903fac262c",
+      "Type": "Debt recovery",
+      "Severity": "Low",
+      "EntityName": "Individual filers - Solwezi",
+      "Description": "Reconciliation revealed arrears management involving corporate entities",
+      "DetectedAt": "2025-10-23T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01c53bb5-1135-0f0e-1c84-009df3fcf754",
+      "Type": "Tax collection",
+      "Severity": "Medium",
+      "EntityName": "Taxpayers - Kitwe",
+      "Description": "Enforcement revealed payment processing involving taxpayers",
+      "DetectedAt": "2025-11-05T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "018e43cd-0615-2275-16de-001e67064e07",
+      "Type": "Payment processing",
+      "Severity": "High",
+      "EntityName": "Debtors - Ndola",
+      "Description": "Arrears recovery revealed payment processing involving individual filers",
+      "DetectedAt": "2025-11-13T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03edd1ac-1470-24ca-098c-00d68b4d3d2c",
+      "Type": "Debt recovery",
+      "Severity": "Low",
+      "EntityName": "Individual filers - Livingstone",
+      "Description": "Payment tracking revealed arrears management involving individual filers",
+      "DetectedAt": "2025-12-05T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "035cf705-1d0e-1372-254a-00314621dd10",
+      "Type": "Compliance enforcement",
+      "Severity": "Critical",
+      "EntityName": "Individual filers - Livingstone",
+      "Description": "Arrears recovery revealed debt recovery involving individual filers",
+      "DetectedAt": "2025-12-25T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04c5f86f-0b5e-1b46-0a75-005c1582ad44",
+      "Type": "Arrears management",
+      "Severity": "Critical",
+      "EntityName": "Debtors - Livingstone",
+      "Description": "Payment tracking revealed arrears management involving individual filers",
+      "DetectedAt": "2025-12-29T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0421e562-1500-0d08-22a7-00e09aa7c888",
+      "Type": "Arrears management",
+      "Severity": "Medium",
+      "EntityName": "Individual filers - Kitwe",
+      "Description": "Payment tracking revealed tax collection involving corporate entities",
+      "DetectedAt": "2025-12-22T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03393435-1ace-051c-1713-006bb0ac81e9",
+      "Type": "Tax collection",
+      "Severity": "Low",
+      "EntityName": "Taxpayers - Kitwe",
+      "Description": "Collection revealed tax collection involving individual filers",
+      "DetectedAt": "2026-01-06T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "033b5595-1bb4-217b-0582-009dbd5c11b8",
+      "Type": "Tax collection",
+      "Severity": "Low",
+      "EntityName": "Debtors - Ndola",
+      "Description": "Payment tracking revealed compliance enforcement involving taxpayers",
+      "DetectedAt": "2025-12-02T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "015d64b5-1901-1df7-1447-0034b377409c",
+      "Type": "Arrears management",
+      "Severity": "Low",
+      "EntityName": "Corporate entities - Kitwe",
+      "Description": "Arrears recovery revealed debt recovery involving corporate entities",
+      "DetectedAt": "2025-11-21T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0420144a-0f71-0b9f-22dc-0071dc2ce696",
+      "Type": "Payment processing",
+      "Severity": "Critical",
+      "EntityName": "Taxpayers - Kitwe",
+      "Description": "Enforcement revealed tax collection involving taxpayers",
+      "DetectedAt": "2025-11-13T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "05bacf83-221e-11f7-1803-005e11241d46",
+      "Type": "Compliance enforcement",
+      "Severity": "Medium",
+      "EntityName": "Corporate entities - Kitwe",
+      "Description": "Reconciliation revealed arrears management involving taxpayers",
+      "DetectedAt": "2025-11-19T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02e8a9d9-0abd-0d44-1856-00dbb05ed3d8",
+      "Type": "Arrears management",
+      "Severity": "Low",
+      "EntityName": "Corporate entities - Kitwe",
+      "Description": "Payment tracking revealed arrears management involving taxpayers",
+      "DetectedAt": "2025-11-26T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "022abd6c-199c-08b9-0940-00ac2e6f1894",
+      "Type": "Tax collection",
+      "Severity": "Low",
+      "EntityName": "Corporate entities - Lusaka",
+      "Description": "Collection revealed payment processing involving debtors",
+      "DetectedAt": "2026-01-14T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "019e1119-1112-1a0a-0fbd-004344086bc7",
+      "Type": "Payment processing",
+      "Severity": "Low",
+      "EntityName": "Taxpayers - Lusaka",
+      "Description": "Arrears recovery revealed tax collection involving individual filers",
+      "DetectedAt": "2026-01-13T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "05113b8f-0d43-0e51-04a5-009f6b62884f",
+      "Type": "Debt recovery",
+      "Severity": "Medium",
+      "EntityName": "Corporate entities - Lusaka",
+      "Description": "Payment tracking revealed tax collection involving taxpayers",
+      "DetectedAt": "2025-11-18T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0438e1d0-1840-2208-1a28-00d5b53c054e",
+      "Type": "Arrears management",
+      "Severity": "Critical",
+      "EntityName": "Debtors - Kitwe",
+      "Description": "Reconciliation revealed payment processing involving debtors",
+      "DetectedAt": "2025-10-29T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01e761b1-0d4d-165d-1edd-0096b4b9c442",
+      "Type": "Tax collection",
+      "Severity": "Medium",
+      "EntityName": "Corporate entities - Ndola",
+      "Description": "Reconciliation revealed tax collection involving corporate entities",
+      "DetectedAt": "2025-11-23T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04d72c28-0fc1-0b1a-0697-006043420f28",
+      "Type": "Debt recovery",
+      "Severity": "High",
+      "EntityName": "Debtors - Livingstone",
+      "Description": "Payment tracking revealed payment processing involving individual filers",
+      "DetectedAt": "2026-01-06T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "009a8b6d-1c80-0614-16cd-00cdab85541d",
+      "Type": "Debt recovery",
+      "Severity": "High",
+      "EntityName": "Taxpayers - Ndola",
+      "Description": "Reconciliation revealed compliance enforcement involving individual filers",
+      "DetectedAt": "2025-12-26T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02a8dfd0-1547-0fb0-1431-001b05405dcf",
+      "Type": "Arrears management",
+      "Severity": "Low",
+      "EntityName": "Taxpayers - Lusaka",
+      "Description": "Enforcement revealed payment processing involving corporate entities",
+      "DetectedAt": "2025-10-23T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00ba6420-26cf-0c20-1c62-008241dc53e2",
+      "Type": "Arrears management",
+      "Severity": "High",
+      "EntityName": "Individual filers - Ndola",
+      "Description": "Reconciliation revealed debt recovery involving taxpayers",
+      "DetectedAt": "2025-12-26T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "026a2720-1037-20f1-1a6d-0068b94897c7",
+      "Type": "Arrears management",
+      "Severity": "High",
+      "EntityName": "Individual filers - Ndola",
+      "Description": "Arrears recovery revealed payment processing involving corporate entities",
+      "DetectedAt": "2025-12-16T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05832425-0859-048f-0814-0063505ac7f9",
+      "Type": "Payment processing",
+      "Severity": "Critical",
+      "EntityName": "Debtors - Lusaka",
+      "Description": "Arrears recovery revealed arrears management involving debtors",
+      "DetectedAt": "2026-01-15T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0249a213-08d4-1282-04e1-00e8c37d29cf",
+      "Type": "Debt recovery",
+      "Severity": "High",
+      "EntityName": "Debtors - Livingstone",
+      "Description": "Enforcement revealed arrears management involving individual filers",
+      "DetectedAt": "2025-12-11T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0458cfeb-13b8-13ea-15c2-007c044f59c7",
+      "Type": "Debt recovery",
+      "Severity": "High",
+      "EntityName": "Debtors - Solwezi",
+      "Description": "Arrears recovery revealed arrears management involving individual filers",
+      "DetectedAt": "2025-12-16T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04dee267-21ce-2446-178c-00a6ba21061b",
+      "Type": "Compliance enforcement",
+      "Severity": "Critical",
+      "EntityName": "Individual filers - Ndola",
+      "Description": "Arrears recovery revealed arrears management involving individual filers",
+      "DetectedAt": "2025-12-15T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0562e2bc-0795-05c5-0aa0-0045824fc6c9",
+      "Type": "Debt recovery",
+      "Severity": "Medium",
+      "EntityName": "Individual filers - Solwezi",
+      "Description": "Arrears recovery revealed compliance enforcement involving individual filers",
+      "DetectedAt": "2025-12-25T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02bd2b82-0baa-2658-147d-0079d8df7651",
+      "Type": "Compliance enforcement",
+      "Severity": "Critical",
+      "EntityName": "Debtors - Solwezi",
+      "Description": "Payment tracking revealed tax collection involving taxpayers",
+      "DetectedAt": "2025-11-27T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "04991f01-0f8a-0a97-2533-00461ee9f1d2",
+      "Type": "Arrears management",
+      "Severity": "Critical",
+      "EntityName": "Individual filers - Kitwe",
+      "Description": "Reconciliation revealed debt recovery involving individual filers",
+      "DetectedAt": "2025-11-20T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "035dd598-13d0-1796-1703-00a3ec8a1140",
+      "Type": "Compliance enforcement",
+      "Severity": "High",
+      "EntityName": "Individual filers - Ndola",
+      "Description": "Enforcement revealed debt recovery involving debtors",
+      "DetectedAt": "2026-01-13T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04fb01c9-07a5-2297-0e26-006924aefd8e",
+      "Type": "Tax collection",
+      "Severity": "High",
+      "EntityName": "Corporate entities - Kitwe",
+      "Description": "Payment tracking revealed compliance enforcement involving debtors",
+      "DetectedAt": "2025-12-13T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "028f737b-0a2a-2457-20ae-00d97f5e4a8f",
+      "Type": "Debt recovery",
+      "Severity": "High",
+      "EntityName": "Debtors - Lusaka",
+      "Description": "Reconciliation revealed tax collection involving corporate entities",
+      "DetectedAt": "2025-10-27T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01ae47b5-062b-1dd9-0430-00e6517cc3e6",
+      "Type": "Arrears management",
+      "Severity": "Low",
+      "EntityName": "Debtors - Lusaka",
+      "Description": "Payment tracking revealed debt recovery involving individual filers",
+      "DetectedAt": "2026-01-08T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04f5bd88-0b82-18f6-0ba9-0071ccdbbcf0",
+      "Type": "Payment processing",
+      "Severity": "High",
+      "EntityName": "Individual filers - Ndola",
+      "Description": "Reconciliation revealed payment processing involving taxpayers",
+      "DetectedAt": "2026-01-03T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04ea61c9-212c-0ac2-214d-00cd8eb7f2cb",
+      "Type": "Arrears management",
+      "Severity": "Low",
+      "EntityName": "Debtors - Solwezi",
+      "Description": "Arrears recovery revealed tax collection involving taxpayers",
+      "DetectedAt": "2025-11-18T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02d60b31-0ecc-0fb9-1f43-0092d7b88391",
+      "Type": "Debt recovery",
+      "Severity": "Low",
+      "EntityName": "Debtors - Lusaka",
+      "Description": "Arrears recovery revealed arrears management involving debtors",
+      "DetectedAt": "2025-12-06T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05853b41-1be0-0867-0d95-004a3d1c630c",
+      "Type": "Payment processing",
+      "Severity": "High",
+      "EntityName": "Taxpayers - Solwezi",
+      "Description": "Payment tracking revealed arrears management involving taxpayers",
+      "DetectedAt": "2025-10-31T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0328dde0-04a2-1ae6-072d-00a5ef7d52be",
+      "Type": "Debt recovery",
+      "Severity": "High",
+      "EntityName": "Corporate entities - Kitwe",
+      "Description": "Reconciliation revealed payment processing involving debtors",
+      "DetectedAt": "2025-12-22T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "032eb6a0-22b2-20e7-184c-0093dbce8791",
+      "Type": "Debt recovery",
+      "Severity": "Medium",
+      "EntityName": "Taxpayers - Kitwe",
+      "Description": "Arrears recovery revealed payment processing involving corporate entities",
+      "DetectedAt": "2025-10-29T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02d4ff3e-232a-2081-12cd-0071eb0bf65b",
+      "Type": "Payment processing",
+      "Severity": "Critical",
+      "EntityName": "Corporate entities - Lusaka",
+      "Description": "Reconciliation revealed tax collection involving taxpayers",
+      "DetectedAt": "2026-01-18T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02d5f9a2-0c74-1559-229c-00be79f658f4",
+      "Type": "Arrears management",
+      "Severity": "High",
+      "EntityName": "Corporate entities - Livingstone",
+      "Description": "Reconciliation revealed compliance enforcement involving debtors",
+      "DetectedAt": "2025-11-26T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "035aa4bc-24ed-16f4-0a9a-0056b00694a3",
+      "Type": "Tax collection",
+      "Severity": "Medium",
+      "EntityName": "Debtors - Ndola",
+      "Description": "Payment tracking revealed payment processing involving taxpayers",
+      "DetectedAt": "2025-11-02T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "043578c6-0a9c-2481-1b18-001d5f500838",
+      "Type": "Debt recovery",
+      "Severity": "High",
+      "EntityName": "Debtors - Livingstone",
+      "Description": "Arrears recovery revealed tax collection involving corporate entities",
+      "DetectedAt": "2025-10-28T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02367230-1cb2-188b-0aa9-0031bfc849d7",
+      "Type": "Payment processing",
+      "Severity": "Critical",
+      "EntityName": "Individual filers - Lusaka",
+      "Description": "Payment tracking revealed payment processing involving debtors",
+      "DetectedAt": "2025-12-03T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "023d801f-1997-065e-21c8-00742f33a990",
+      "Type": "Arrears management",
+      "Severity": "High",
+      "EntityName": "Corporate entities - Livingstone",
+      "Description": "Reconciliation revealed debt recovery involving individual filers",
+      "DetectedAt": "2025-11-18T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04174aa7-0d84-0f36-11c9-004c03d1ea08",
+      "Type": "Tax collection",
+      "Severity": "Critical",
+      "EntityName": "Individual filers - Lusaka",
+      "Description": "Enforcement revealed debt recovery involving debtors",
+      "DetectedAt": "2026-01-09T17:30:31Z",
+      "Status": "Resolved"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 77
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 70
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 71
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 67
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 88
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 81
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 83
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 61
+    }
+  ]
+}

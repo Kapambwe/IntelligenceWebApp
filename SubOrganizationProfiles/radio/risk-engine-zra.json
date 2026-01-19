@@ -1,0 +1,176 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "020bf66b-0c24-0bbd-14e3-0045995f82cb",
+      "Name": "Accountability Risk Model",
+      "Description": "Detects public awareness patterns in Radio Broadcasting operations",
+      "Status": "active",
+      "CreatedAt": "2025-08-12T17:30:31Z",
+      "LastModifiedAt": "2025-12-27T17:30:31Z",
+      "Version": "1.5",
+      "Factors": [
+        {
+          "Id": "01a3369d-227b-05d4-1f46-008b75905266",
+          "Name": "Investigative reporting Indicator",
+          "Description": "Measures public awareness risk across corporations",
+          "Category": "financial",
+          "Weight": 0.18,
+          "MinValue": 0,
+          "MaxValue": 186,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02b8dfa0-1f03-18ec-1b54-004f0df20206",
+          "Name": "Public awareness Indicator",
+          "Description": "Measures news broadcasting risk across corporations",
+          "Category": "financial",
+          "Weight": 0.29,
+          "MinValue": 0,
+          "MaxValue": 107,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04b7906a-066c-10cf-0ff8-00e85d256828",
+          "Name": "News broadcasting Indicator",
+          "Description": "Measures community engagement risk across public officials",
+          "Category": "operational",
+          "Weight": 0.2,
+          "MinValue": 0,
+          "MaxValue": 130,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.82,
+        "Precision": 0.92,
+        "Recall": 0.75,
+        "F1Score": 0.89,
+        "TotalPredictions": 503,
+        "TruePositives": 449,
+        "FalsePositives": 38,
+        "TrueNegatives": 194,
+        "FalseNegatives": 54
+      }
+    },
+    {
+      "Id": "04d00283-23e9-1fac-07f2-00664ebcedf0",
+      "Name": "Investigative reporting Risk Model",
+      "Description": "Detects community engagement patterns in Radio Broadcasting operations",
+      "Status": "active",
+      "CreatedAt": "2025-11-07T17:30:31Z",
+      "LastModifiedAt": "2025-12-27T17:30:31Z",
+      "Version": "1.3",
+      "Factors": [
+        {
+          "Id": "0156c9c3-0adc-1bcc-1c29-0027de37acd0",
+          "Name": "Public awareness Indicator",
+          "Description": "Measures public awareness risk across news subjects",
+          "Category": "financial",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 192,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03efcb11-20ae-1525-199d-009621543d65",
+          "Name": "Accountability Indicator",
+          "Description": "Measures community engagement risk across community leaders",
+          "Category": "operational",
+          "Weight": 0.39,
+          "MinValue": 0,
+          "MaxValue": 171,
+          "IsEnabled": true
+        },
+        {
+          "Id": "05f1c6af-0573-1d89-222b-00733566fbdc",
+          "Name": "Community engagement Indicator",
+          "Description": "Measures investigative reporting risk across community leaders",
+          "Category": "geographic",
+          "Weight": 0.26,
+          "MinValue": 0,
+          "MaxValue": 106,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0202f807-1cb5-0cfa-1579-008cf729f2a5",
+          "Name": "Community engagement Indicator",
+          "Description": "Measures investigative reporting risk across public officials",
+          "Category": "financial",
+          "Weight": 0.36,
+          "MinValue": 0,
+          "MaxValue": 106,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.93,
+        "Precision": 0.84,
+        "Recall": 0.75,
+        "F1Score": 0.87,
+        "TotalPredictions": 363,
+        "TruePositives": 496,
+        "FalsePositives": 49,
+        "TrueNegatives": 151,
+        "FalseNegatives": 18
+      }
+    },
+    {
+      "Id": "041ae49b-1fda-1e1e-24d1-004eb6e7e135",
+      "Name": "Accountability Risk Model",
+      "Description": "Detects community engagement patterns in Radio Broadcasting operations",
+      "Status": "active",
+      "CreatedAt": "2025-07-26T17:30:31Z",
+      "LastModifiedAt": "2026-01-05T17:30:31Z",
+      "Version": "1.8",
+      "Factors": [
+        {
+          "Id": "0281d250-0b02-15f8-1f74-003c4355817c",
+          "Name": "Accountability Indicator",
+          "Description": "Measures accountability risk across public officials",
+          "Category": "operational",
+          "Weight": 0.14,
+          "MinValue": 0,
+          "MaxValue": 190,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04e92763-094f-26c4-21b1-0028ad59f2aa",
+          "Name": "Community engagement Indicator",
+          "Description": "Measures investigative reporting risk across news subjects",
+          "Category": "compliance",
+          "Weight": 0.35,
+          "MinValue": 0,
+          "MaxValue": 173,
+          "IsEnabled": true
+        },
+        {
+          "Id": "053ca119-04b7-17c3-1a9b-00d5f38f0e66",
+          "Name": "Accountability Indicator",
+          "Description": "Measures investigative reporting risk across public officials",
+          "Category": "geographic",
+          "Weight": 0.2,
+          "MinValue": 0,
+          "MaxValue": 150,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.94,
+        "Precision": 0.78,
+        "Recall": 0.8,
+        "F1Score": 0.9,
+        "TotalPredictions": 782,
+        "TruePositives": 339,
+        "FalsePositives": 78,
+        "TrueNegatives": 174,
+        "FalseNegatives": 39
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 10,
+    "AverageRiskScore": 89.7
+  }
+}

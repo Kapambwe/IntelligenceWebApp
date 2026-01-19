@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 316,
+  "ActiveAlerts": 12,
+  "PendingReviews": 10,
+  "ComplianceScore": 69.1,
+  "Alerts": [
+    {
+      "Id": "03952d4b-0ec3-2072-0dc5-0035947f8e22",
+      "Type": "Retail banking",
+      "Severity": "Low",
+      "EntityName": "Corporate clients - Livingstone",
+      "Description": "Account opening revealed credit risk involving business accounts",
+      "DetectedAt": "2025-12-10T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "029f70dd-0f8c-19ea-0939-0098e3ee4fac",
+      "Type": "Retail banking",
+      "Severity": "High",
+      "EntityName": "Business accounts - Ndola",
+      "Description": "Credit assessment revealed credit risk involving individual customers",
+      "DetectedAt": "2026-01-19T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01d9bfb0-0722-13c0-14a1-00ca682ad80b",
+      "Type": "Transaction monitoring",
+      "Severity": "Critical",
+      "EntityName": "Business accounts - Solwezi",
+      "Description": "Credit assessment revealed retail banking involving business accounts",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "037f44db-26fb-1353-2675-00c648ed1c50",
+      "Type": "Retail banking",
+      "Severity": "Low",
+      "EntityName": "Corporate clients - Kitwe",
+      "Description": "Kyc verification revealed transaction monitoring involving corporate clients",
+      "DetectedAt": "2025-11-28T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0142e90c-1622-06e3-0884-00b083b1116d",
+      "Type": "Corporate lending",
+      "Severity": "High",
+      "EntityName": "Smes - Lusaka",
+      "Description": "Transaction processing revealed account management involving SMEs",
+      "DetectedAt": "2026-01-01T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "017bc1c8-0615-175a-0891-00367acd6e9d",
+      "Type": "Corporate lending",
+      "Severity": "Critical",
+      "EntityName": "Corporate clients - Lusaka",
+      "Description": "Loan disbursement revealed credit risk involving business accounts",
+      "DetectedAt": "2025-12-15T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0365782a-2156-05d3-2435-0090b9c3d9f7",
+      "Type": "Transaction monitoring",
+      "Severity": "Medium",
+      "EntityName": "Corporate clients - Livingstone",
+      "Description": "Account opening revealed credit risk involving SMEs",
+      "DetectedAt": "2025-12-24T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04f4d66d-2679-0f85-0a52-00da3c2acfff",
+      "Type": "Credit risk",
+      "Severity": "Medium",
+      "EntityName": "Corporate clients - Ndola",
+      "Description": "Kyc verification revealed retail banking involving corporate clients",
+      "DetectedAt": "2025-10-28T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "056dcaff-1e97-23b4-1c0d-00626a4c5f83",
+      "Type": "Transaction monitoring",
+      "Severity": "High",
+      "EntityName": "Smes - Lusaka",
+      "Description": "Loan disbursement revealed transaction monitoring involving corporate clients",
+      "DetectedAt": "2025-12-30T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "038005cf-18b3-0dbe-1990-006446a2e757",
+      "Type": "Retail banking",
+      "Severity": "Medium",
+      "EntityName": "Smes - Ndola",
+      "Description": "Kyc verification revealed credit risk involving business accounts",
+      "DetectedAt": "2025-12-22T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02b3ea12-1228-07d9-2535-00820ef9d002",
+      "Type": "Retail banking",
+      "Severity": "High",
+      "EntityName": "Smes - Kitwe",
+      "Description": "Account opening revealed account management involving individual customers",
+      "DetectedAt": "2025-11-11T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "036913af-19f3-1ea4-1177-00a0e9fa79d2",
+      "Type": "Credit risk",
+      "Severity": "High",
+      "EntityName": "Smes - Lusaka",
+      "Description": "Credit assessment revealed credit risk involving individual customers",
+      "DetectedAt": "2025-10-30T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "053c7ac8-11d9-1649-0b5a-0087774d22de",
+      "Type": "Transaction monitoring",
+      "Severity": "Low",
+      "EntityName": "Corporate clients - Ndola",
+      "Description": "Kyc verification revealed transaction monitoring involving individual customers",
+      "DetectedAt": "2025-10-28T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03c31d8e-1bf5-147c-2331-006c627570de",
+      "Type": "Retail banking",
+      "Severity": "High",
+      "EntityName": "Individual customers - Kitwe",
+      "Description": "Account opening revealed account management involving individual customers",
+      "DetectedAt": "2025-10-24T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04b223d7-05f9-16da-2175-006158c7117d",
+      "Type": "Account management",
+      "Severity": "High",
+      "EntityName": "Smes - Ndola",
+      "Description": "Loan disbursement revealed credit risk involving SMEs",
+      "DetectedAt": "2025-11-24T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01e7222a-1d50-079c-249b-002e5ac2f11f",
+      "Type": "Retail banking",
+      "Severity": "High",
+      "EntityName": "Smes - Lusaka",
+      "Description": "Transaction processing revealed corporate lending involving corporate clients",
+      "DetectedAt": "2025-12-22T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00e5fa6e-04ae-1eea-09ac-004f39e8b631",
+      "Type": "Account management",
+      "Severity": "Low",
+      "EntityName": "Business accounts - Lusaka",
+      "Description": "Account opening revealed account management involving business accounts",
+      "DetectedAt": "2025-11-06T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01b92b94-132c-09bf-0721-0062d48df1c0",
+      "Type": "Transaction monitoring",
+      "Severity": "High",
+      "EntityName": "Business accounts - Solwezi",
+      "Description": "Account opening revealed corporate lending involving SMEs",
+      "DetectedAt": "2025-12-10T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "011a21d4-0d15-0621-1673-0059d6c44695",
+      "Type": "Account management",
+      "Severity": "High",
+      "EntityName": "Individual customers - Solwezi",
+      "Description": "Account opening revealed retail banking involving individual customers",
+      "DetectedAt": "2026-01-06T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02f6268e-160f-1f71-0fc1-0096fc333576",
+      "Type": "Retail banking",
+      "Severity": "Critical",
+      "EntityName": "Business accounts - Solwezi",
+      "Description": "Loan disbursement revealed credit risk involving business accounts",
+      "DetectedAt": "2025-10-22T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0358d2a3-0578-2459-0e66-00afbb30dcbc",
+      "Type": "Corporate lending",
+      "Severity": "High",
+      "EntityName": "Individual customers - Solwezi",
+      "Description": "Transaction processing revealed transaction monitoring involving individual customers",
+      "DetectedAt": "2025-10-27T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "025d94dc-1ee3-1a34-1623-00e490f773df",
+      "Type": "Retail banking",
+      "Severity": "Critical",
+      "EntityName": "Individual customers - Kitwe",
+      "Description": "Transaction processing revealed transaction monitoring involving business accounts",
+      "DetectedAt": "2025-11-20T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0141ec16-17d0-056c-12bc-00231a32030e",
+      "Type": "Credit risk",
+      "Severity": "Critical",
+      "EntityName": "Individual customers - Kitwe",
+      "Description": "Loan disbursement revealed corporate lending involving SMEs",
+      "DetectedAt": "2025-11-21T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02110d31-05c2-17b7-26b6-00bd75965b5d",
+      "Type": "Credit risk",
+      "Severity": "Low",
+      "EntityName": "Individual customers - Solwezi",
+      "Description": "Kyc verification revealed transaction monitoring involving SMEs",
+      "DetectedAt": "2026-01-10T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "034ee1df-07cf-0f05-11b5-006c26415ed0",
+      "Type": "Retail banking",
+      "Severity": "Critical",
+      "EntityName": "Smes - Ndola",
+      "Description": "Credit assessment revealed credit risk involving individual customers",
+      "DetectedAt": "2025-10-25T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0553a254-1606-2519-1f6d-00aa56682a69",
+      "Type": "Account management",
+      "Severity": "Medium",
+      "EntityName": "Smes - Solwezi",
+      "Description": "Loan disbursement revealed credit risk involving SMEs",
+      "DetectedAt": "2025-11-20T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "026975c8-1a1e-10c6-1e7c-00806adbc08b",
+      "Type": "Retail banking",
+      "Severity": "Critical",
+      "EntityName": "Business accounts - Livingstone",
+      "Description": "Loan disbursement revealed credit risk involving SMEs",
+      "DetectedAt": "2026-01-05T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0345af9a-10f4-10a2-0ab9-003e5821b488",
+      "Type": "Account management",
+      "Severity": "High",
+      "EntityName": "Smes - Livingstone",
+      "Description": "Kyc verification revealed corporate lending involving individual customers",
+      "DetectedAt": "2025-11-01T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02226b62-2308-193b-0db1-00c7c6c6d4f2",
+      "Type": "Account management",
+      "Severity": "Low",
+      "EntityName": "Smes - Solwezi",
+      "Description": "Account opening revealed account management involving SMEs",
+      "DetectedAt": "2025-11-15T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "040da896-17f4-1a6d-217e-00ca3eae0119",
+      "Type": "Corporate lending",
+      "Severity": "Critical",
+      "EntityName": "Business accounts - Solwezi",
+      "Description": "Kyc verification revealed retail banking involving individual customers",
+      "DetectedAt": "2026-01-19T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04d6990a-05e1-1b9b-1b9e-0088cf23b39b",
+      "Type": "Corporate lending",
+      "Severity": "High",
+      "EntityName": "Individual customers - Ndola",
+      "Description": "Account opening revealed account management involving corporate clients",
+      "DetectedAt": "2025-12-10T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "040b31bb-08cb-199e-0ee5-0070d5ed5b6b",
+      "Type": "Credit risk",
+      "Severity": "Critical",
+      "EntityName": "Business accounts - Livingstone",
+      "Description": "Credit assessment revealed account management involving corporate clients",
+      "DetectedAt": "2025-12-30T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00fa248d-21e5-0f2a-2501-0039da2c09bf",
+      "Type": "Retail banking",
+      "Severity": "Critical",
+      "EntityName": "Corporate clients - Lusaka",
+      "Description": "Transaction processing revealed credit risk involving business accounts",
+      "DetectedAt": "2026-01-13T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "034c275b-170f-06a6-0de9-00b53df964d4",
+      "Type": "Retail banking",
+      "Severity": "Low",
+      "EntityName": "Individual customers - Ndola",
+      "Description": "Account opening revealed corporate lending involving business accounts",
+      "DetectedAt": "2025-11-11T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04fdc4e3-1fdf-08ff-14f7-0051d21b57f5",
+      "Type": "Account management",
+      "Severity": "Medium",
+      "EntityName": "Business accounts - Ndola",
+      "Description": "Transaction processing revealed transaction monitoring involving business accounts",
+      "DetectedAt": "2026-01-11T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00c6a191-0c52-25d3-2412-001e1ccf6595",
+      "Type": "Retail banking",
+      "Severity": "Medium",
+      "EntityName": "Business accounts - Lusaka",
+      "Description": "Account opening revealed credit risk involving business accounts",
+      "DetectedAt": "2025-12-21T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "029e9b1a-179f-0a2e-13aa-001de8f0ff39",
+      "Type": "Credit risk",
+      "Severity": "Critical",
+      "EntityName": "Smes - Ndola",
+      "Description": "Transaction processing revealed corporate lending involving SMEs",
+      "DetectedAt": "2025-12-15T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02f47235-042d-0bcf-2265-00c19aad2d38",
+      "Type": "Account management",
+      "Severity": "Medium",
+      "EntityName": "Corporate clients - Ndola",
+      "Description": "Transaction processing revealed account management involving corporate clients",
+      "DetectedAt": "2026-01-11T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "030a20a5-1373-0cf4-0580-00a22e7899fe",
+      "Type": "Credit risk",
+      "Severity": "Medium",
+      "EntityName": "Corporate clients - Ndola",
+      "Description": "Loan disbursement revealed credit risk involving corporate clients",
+      "DetectedAt": "2026-01-05T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "05693f4b-16ec-134b-0769-002b3b17b74d",
+      "Type": "Credit risk",
+      "Severity": "Low",
+      "EntityName": "Corporate clients - Livingstone",
+      "Description": "Account opening revealed retail banking involving SMEs",
+      "DetectedAt": "2025-11-18T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02b67ba1-16e9-0edb-067e-0084198d139a",
+      "Type": "Retail banking",
+      "Severity": "Critical",
+      "EntityName": "Business accounts - Livingstone",
+      "Description": "Credit assessment revealed credit risk involving individual customers",
+      "DetectedAt": "2026-01-04T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01e94554-1cbf-10ce-265d-00332da56b6b",
+      "Type": "Corporate lending",
+      "Severity": "High",
+      "EntityName": "Corporate clients - Lusaka",
+      "Description": "Transaction processing revealed credit risk involving business accounts",
+      "DetectedAt": "2025-12-13T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "057d827b-0b9f-125e-12c4-0031b67cf0a5",
+      "Type": "Transaction monitoring",
+      "Severity": "Critical",
+      "EntityName": "Individual customers - Lusaka",
+      "Description": "Transaction processing revealed transaction monitoring involving corporate clients",
+      "DetectedAt": "2025-12-23T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0241be99-25b1-0414-0cb4-005d849cfc7d",
+      "Type": "Account management",
+      "Severity": "Low",
+      "EntityName": "Individual customers - Ndola",
+      "Description": "Transaction processing revealed credit risk involving SMEs",
+      "DetectedAt": "2025-11-13T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02d12a67-1516-21bd-11a9-00e16f667330",
+      "Type": "Transaction monitoring",
+      "Severity": "Medium",
+      "EntityName": "Corporate clients - Lusaka",
+      "Description": "Credit assessment revealed account management involving corporate clients",
+      "DetectedAt": "2025-12-19T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02b8e12f-1d8e-06ae-136b-0029f4e02099",
+      "Type": "Transaction monitoring",
+      "Severity": "Medium",
+      "EntityName": "Business accounts - Livingstone",
+      "Description": "Transaction processing revealed credit risk involving SMEs",
+      "DetectedAt": "2025-12-01T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03394247-0654-257c-21a1-009fec62270b",
+      "Type": "Corporate lending",
+      "Severity": "Low",
+      "EntityName": "Business accounts - Lusaka",
+      "Description": "Loan disbursement revealed retail banking involving SMEs",
+      "DetectedAt": "2025-12-11T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03c3c3df-0fb2-1e91-1470-00e85f27b750",
+      "Type": "Account management",
+      "Severity": "Low",
+      "EntityName": "Individual customers - Lusaka",
+      "Description": "Credit assessment revealed retail banking involving business accounts",
+      "DetectedAt": "2025-12-24T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01a71217-0ef4-05bb-1327-008542d23e56",
+      "Type": "Transaction monitoring",
+      "Severity": "Critical",
+      "EntityName": "Smes - Ndola",
+      "Description": "Credit assessment revealed credit risk involving individual customers",
+      "DetectedAt": "2025-12-22T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00e58ff2-26c0-1862-25f4-0028c590de7a",
+      "Type": "Credit risk",
+      "Severity": "High",
+      "EntityName": "Business accounts - Lusaka",
+      "Description": "Transaction processing revealed transaction monitoring involving individual customers",
+      "DetectedAt": "2025-11-12T17:30:30Z",
+      "Status": "Investigation"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 71
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 83
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 84
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 80
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 73
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 87
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 65
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 75
+    }
+  ]
+}

@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "039619e2-19cd-1f3d-0dcd-00d97cc1709f",
+      "Name": "Corporate clients - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 39,
+      "CreatedAt": "2024-02-08T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "039eddfb-1a31-06ad-10c2-0025461b3494",
+      "Name": "Smes - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 95,
+      "CreatedAt": "2024-06-18T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "01bb7ec2-26ff-06f9-1fb3-00609adba494",
+      "Name": "Smes - Solwezi",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2023-11-13T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "03c75750-07f3-2388-0924-00d6a8e2922d",
+      "Name": "Smes - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 82,
+      "CreatedAt": "2024-06-30T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "019971f4-09a8-2595-2484-0049dd353bbc",
+      "Name": "Smes - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 77,
+      "CreatedAt": "2025-02-18T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "05e96fa3-1c42-0fdd-03f2-001c4ca01255",
+      "Name": "Individual customers - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 40,
+      "CreatedAt": "2025-03-18T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "01f4196c-11b1-1841-15f1-00db5c1fd18e",
+      "Name": "Smes - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 38,
+      "CreatedAt": "2024-05-31T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "03833a47-0ca7-1960-054e-008319dd6400",
+      "Name": "Business accounts - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 42,
+      "CreatedAt": "2024-10-30T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "05ef1b7b-2311-05a4-10eb-00c354425379",
+      "Name": "Individual customers - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 21,
+      "CreatedAt": "2025-05-19T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "05ad2f18-1f5c-0b89-234b-001f5a314523",
+      "Name": "Business accounts - Solwezi",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 97,
+      "CreatedAt": "2024-09-06T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "054b5a81-1619-1860-0c70-00571b4f1eb0",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2025-04-27T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "01150aef-1d64-063a-2270-003c1096614e",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 55,
+      "CreatedAt": "2025-02-15T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "0378beff-160a-10a8-1070-00e7c7b6ac71",
+      "Name": "Individual customers - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 77,
+      "CreatedAt": "2024-02-19T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "041c126d-2254-2281-12be-008f1ab49a33",
+      "Name": "Individual customers - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 90,
+      "CreatedAt": "2025-03-09T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "019df202-07fe-1cd1-1eee-00c9829bedb9",
+      "Name": "Individual customers - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 78,
+      "CreatedAt": "2024-01-05T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "033581e0-071c-0d9b-21e0-0071c6e0aaf4",
+      "Name": "Business accounts - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 71,
+      "CreatedAt": "2024-06-26T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "013ea7ef-2193-10bc-22cc-00d2ed511ff8",
+      "Name": "Corporate clients - Solwezi",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 30,
+      "CreatedAt": "2025-07-30T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "041a4d12-26cb-1637-1f66-00c3a4f46a30",
+      "Name": "Corporate clients - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 68,
+      "CreatedAt": "2025-09-26T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "03cc02c6-0d84-1bac-0674-00647a2eae31",
+      "Name": "Smes - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 62,
+      "CreatedAt": "2025-08-06T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "009961c5-0b13-1365-2540-00910e51d2ec",
+      "Name": "Smes - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 67,
+      "CreatedAt": "2025-05-05T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "04c2bbff-25de-1648-1480-002d8eaac898",
+      "Name": "Smes - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 81,
+      "CreatedAt": "2025-08-27T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "01f9d051-19f5-0bed-1160-006dc6fee58f",
+      "Name": "Smes - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 37,
+      "CreatedAt": "2025-02-13T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "023bace1-2342-1019-132c-007aa41e0c3c",
+      "Name": "Smes - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 41,
+      "CreatedAt": "2024-06-09T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "03656bf9-1f9c-11c5-061f-00bb7b93251d",
+      "Name": "Smes - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 29,
+      "CreatedAt": "2024-03-21T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "042a0d1a-09c1-257e-06a2-004b7b0026e8",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 35,
+      "CreatedAt": "2024-08-19T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "03846035-0dab-0dde-1e28-00337f1e1b4e",
+      "Name": "Business accounts - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 86,
+      "CreatedAt": "2025-07-06T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "011c7652-067d-1450-2403-00dc637bcbff",
+      "Name": "Business accounts - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 87,
+      "CreatedAt": "2025-03-05T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "058411e8-22eb-1606-165f-003493e164c3",
+      "Name": "Individual customers - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 64,
+      "CreatedAt": "2024-01-20T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "030f2f3b-2622-1ae4-1c55-006c9e797aff",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 35,
+      "CreatedAt": "2024-08-26T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "04f0aa7c-052e-0edc-24d5-004cf5b61f2f",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 27,
+      "CreatedAt": "2024-06-30T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "039d121f-1c8f-1053-095e-0020e97b12d6",
+      "Name": "Corporate clients - Solwezi",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 93,
+      "CreatedAt": "2025-06-08T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "05ec551b-17b1-06c2-1281-0092dc251ca2",
+      "Name": "Individual customers - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 87,
+      "CreatedAt": "2024-07-05T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "05d6a3aa-0b43-2547-100e-00d53c8bda7e",
+      "Name": "Individual customers - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 27,
+      "CreatedAt": "2024-08-27T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "0498a479-1cc7-07bd-1edc-008d1236c2c1",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 86,
+      "CreatedAt": "2024-08-29T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "02315fcb-1786-25ae-1a80-0054008bbde2",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 94,
+      "CreatedAt": "2024-03-09T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z"
+    },
+    {
+      "Id": "05c64319-20d1-141c-2634-0098eac77761",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 35,
+      "CreatedAt": "2024-02-17T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "02fc7480-1b5c-0f55-16e8-008866c01cae",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2024-02-18T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "0491d1e6-0695-054b-2500-00573f9bf696",
+      "Name": "Individual customers - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 94,
+      "CreatedAt": "2025-03-26T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z"
+    },
+    {
+      "Id": "025c5e50-1e05-1f41-1cc5-00bb30ef04fe",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 59,
+      "CreatedAt": "2024-07-01T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "044484da-106a-1e44-164e-0052e9005520",
+      "Name": "Business accounts - Solwezi",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 43,
+      "CreatedAt": "2024-02-16T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "05119027-2450-0dac-0875-00e0cfe13298",
+      "Name": "Smes - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2023-12-14T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "02f87725-264d-1486-1e58-006dd7475faa",
+      "Name": "Smes - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 96,
+      "CreatedAt": "2025-10-10T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "020ff045-260c-204f-1253-00d5b22d7254",
+      "Name": "Individual customers - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 59,
+      "CreatedAt": "2024-02-21T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "046547fa-0b28-15d8-090e-00358a6a9449",
+      "Name": "Smes - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 67,
+      "CreatedAt": "2024-02-06T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "05dd2272-142d-233c-0a46-00b2838ce1f0",
+      "Name": "Smes - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 31,
+      "CreatedAt": "2025-03-15T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "01975456-19a6-1d32-1b25-00e129e631cf",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 42,
+      "CreatedAt": "2023-12-24T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "0133f19f-1a79-117e-110e-002a43cc6180",
+      "Name": "Individual customers - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 27,
+      "CreatedAt": "2024-01-19T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "04f6474c-1473-07ed-073d-00542519ad9a",
+      "Name": "Individual customers - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 77,
+      "CreatedAt": "2025-03-28T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "00ce1063-2579-08f3-05d6-00c51b847b04",
+      "Name": "Individual customers - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2024-02-16T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "02ade358-0762-1e2d-1330-00b92f662d9a",
+      "Name": "Individual customers - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 92,
+      "CreatedAt": "2025-07-30T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "039619e2-19cd-1f3d-0dcd-00d97cc1709f",
+      "Name": "Corporate clients - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 39,
+      "CreatedAt": "2024-02-08T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2026-7742",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transaction monitoring",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Low",
+          "Score": 19
+        },
+        {
+          "Name": "Retail banking",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "039eddfb-1a31-06ad-10c2-0025461b3494",
+      "Name": "Smes - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 95,
+      "CreatedAt": "2024-06-18T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2023-6065",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corporate lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corporate lending",
+          "Severity": "Critical",
+          "Score": 39
+        },
+        {
+          "Name": "Retail banking",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01bb7ec2-26ff-06f9-1fb3-00609adba494",
+      "Name": "Smes - Solwezi",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2023-11-13T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2022-7296",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corporate lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "Medium",
+          "Score": 32
+        },
+        {
+          "Name": "Account management",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03c75750-07f3-2388-0924-00d6a8e2922d",
+      "Name": "Smes - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 82,
+      "CreatedAt": "2024-06-30T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2020-4733",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corporate lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Retail banking",
+          "Severity": "Critical",
+          "Score": 29
+        },
+        {
+          "Name": "Retail banking",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "019971f4-09a8-2595-2484-0049dd353bbc",
+      "Name": "Smes - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 77,
+      "CreatedAt": "2025-02-18T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2021-8114",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Retail banking",
+          "Severity": "High",
+          "Score": 30
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Critical",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05e96fa3-1c42-0fdd-03f2-001c4ca01255",
+      "Name": "Individual customers - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 40,
+      "CreatedAt": "2025-03-18T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2026-8961",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "account management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Retail banking",
+          "Severity": "Low",
+          "Score": 15
+        },
+        {
+          "Name": "Account management",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01f4196c-11b1-1841-15f1-00db5c1fd18e",
+      "Name": "Smes - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 38,
+      "CreatedAt": "2024-05-31T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2023-8001",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "account management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "Critical",
+          "Score": 34
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03833a47-0ca7-1960-054e-008319dd6400",
+      "Name": "Business accounts - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 42,
+      "CreatedAt": "2024-10-30T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2026-8089",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Retail banking",
+          "Severity": "Low",
+          "Score": 44
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "High",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ef1b7b-2311-05a4-10eb-00c354425379",
+      "Name": "Individual customers - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 21,
+      "CreatedAt": "2025-05-19T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2026-7888",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transaction monitoring",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corporate lending",
+          "Severity": "Critical",
+          "Score": 40
+        },
+        {
+          "Name": "Account management",
+          "Severity": "High",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ad2f18-1f5c-0b89-234b-001f5a314523",
+      "Name": "Business accounts - Solwezi",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 97,
+      "CreatedAt": "2024-09-06T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2024-6475",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Retail banking",
+          "Severity": "Critical",
+          "Score": 16
+        },
+        {
+          "Name": "Account management",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "054b5a81-1619-1860-0c70-00571b4f1eb0",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2025-04-27T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2020-2067",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corporate lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corporate lending",
+          "Severity": "Low",
+          "Score": 43
+        },
+        {
+          "Name": "Corporate lending",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01150aef-1d64-063a-2270-003c1096614e",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 55,
+      "CreatedAt": "2025-02-15T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2022-7728",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "Critical",
+          "Score": 15
+        },
+        {
+          "Name": "Account management",
+          "Severity": "Critical",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0378beff-160a-10a8-1070-00e7c7b6ac71",
+      "Name": "Individual customers - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 77,
+      "CreatedAt": "2024-02-19T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2025-6437",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corporate lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Account management",
+          "Severity": "Critical",
+          "Score": 25
+        },
+        {
+          "Name": "Retail banking",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "041c126d-2254-2281-12be-008f1ab49a33",
+      "Name": "Individual customers - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 90,
+      "CreatedAt": "2025-03-09T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2020-6553",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Critical",
+          "Score": 33
+        },
+        {
+          "Name": "Retail banking",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "019df202-07fe-1cd1-1eee-00c9829bedb9",
+      "Name": "Individual customers - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 78,
+      "CreatedAt": "2024-01-05T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2020-2161",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corporate lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "Low",
+          "Score": 19
+        },
+        {
+          "Name": "Retail banking",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "033581e0-071c-0d9b-21e0-0071c6e0aaf4",
+      "Name": "Business accounts - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 71,
+      "CreatedAt": "2024-06-26T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2023-2426",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "account management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Retail banking",
+          "Severity": "Medium",
+          "Score": 38
+        },
+        {
+          "Name": "Corporate lending",
+          "Severity": "High",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "013ea7ef-2193-10bc-22cc-00d2ed511ff8",
+      "Name": "Corporate clients - Solwezi",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 30,
+      "CreatedAt": "2025-07-30T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2021-1243",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 13
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "041a4d12-26cb-1637-1f66-00c3a4f46a30",
+      "Name": "Corporate clients - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 68,
+      "CreatedAt": "2025-09-26T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2022-9455",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Critical",
+          "Score": 13
+        },
+        {
+          "Name": "Account management",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03cc02c6-0d84-1bac-0674-00647a2eae31",
+      "Name": "Smes - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 62,
+      "CreatedAt": "2025-08-06T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2021-7319",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Account management",
+          "Severity": "Low",
+          "Score": 41
+        },
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "009961c5-0b13-1365-2540-00910e51d2ec",
+      "Name": "Smes - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 67,
+      "CreatedAt": "2025-05-05T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2023-7484",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Account management",
+          "Severity": "Critical",
+          "Score": 41
+        },
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04c2bbff-25de-1648-1480-002d8eaac898",
+      "Name": "Smes - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 81,
+      "CreatedAt": "2025-08-27T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2024-4084",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transaction monitoring",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "Critical",
+          "Score": 19
+        },
+        {
+          "Name": "Retail banking",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01f9d051-19f5-0bed-1160-006dc6fee58f",
+      "Name": "Smes - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 37,
+      "CreatedAt": "2025-02-13T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2023-9447",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transaction monitoring",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Retail banking",
+          "Severity": "Critical",
+          "Score": 27
+        },
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "High",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "023bace1-2342-1019-132c-007aa41e0c3c",
+      "Name": "Smes - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 41,
+      "CreatedAt": "2024-06-09T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2020-9359",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "Medium",
+          "Score": 17
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Critical",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03656bf9-1f9c-11c5-061f-00bb7b93251d",
+      "Name": "Smes - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 29,
+      "CreatedAt": "2024-03-21T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2021-7093",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "account management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Retail banking",
+          "Severity": "Medium",
+          "Score": 12
+        },
+        {
+          "Name": "Account management",
+          "Severity": "High",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "042a0d1a-09c1-257e-06a2-004b7b0026e8",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 35,
+      "CreatedAt": "2024-08-19T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2022-8728",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "account management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Account management",
+          "Severity": "Medium",
+          "Score": 37
+        },
+        {
+          "Name": "Account management",
+          "Severity": "Critical",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03846035-0dab-0dde-1e28-00337f1e1b4e",
+      "Name": "Business accounts - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 86,
+      "CreatedAt": "2025-07-06T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2025-3553",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corporate lending",
+          "Severity": "High",
+          "Score": 19
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "011c7652-067d-1450-2403-00dc637bcbff",
+      "Name": "Business accounts - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 87,
+      "CreatedAt": "2025-03-05T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2023-9737",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 37
+        },
+        {
+          "Name": "Corporate lending",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "058411e8-22eb-1606-165f-003493e164c3",
+      "Name": "Individual customers - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 64,
+      "CreatedAt": "2024-01-20T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2026-9074",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "High",
+          "Score": 28
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "030f2f3b-2622-1ae4-1c55-006c9e797aff",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 35,
+      "CreatedAt": "2024-08-26T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2020-6865",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corporate lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 37
+        },
+        {
+          "Name": "Account management",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04f0aa7c-052e-0edc-24d5-004cf5b61f2f",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 27,
+      "CreatedAt": "2024-06-30T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2025-7197",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corporate lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Account management",
+          "Severity": "Critical",
+          "Score": 33
+        },
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "Medium",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "039d121f-1c8f-1053-095e-0020e97b12d6",
+      "Name": "Corporate clients - Solwezi",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 93,
+      "CreatedAt": "2025-06-08T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2021-8899",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corporate lending",
+          "Severity": "Medium",
+          "Score": 42
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ec551b-17b1-06c2-1281-0092dc251ca2",
+      "Name": "Individual customers - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 87,
+      "CreatedAt": "2024-07-05T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2020-6412",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corporate lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Account management",
+          "Severity": "Medium",
+          "Score": 29
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d6a3aa-0b43-2547-100e-00d53c8bda7e",
+      "Name": "Individual customers - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 27,
+      "CreatedAt": "2024-08-27T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2021-4873",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transaction monitoring",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Low",
+          "Score": 41
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0498a479-1cc7-07bd-1edc-008d1236c2c1",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 86,
+      "CreatedAt": "2024-08-29T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2021-2507",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transaction monitoring",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Account management",
+          "Severity": "Low",
+          "Score": 14
+        },
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02315fcb-1786-25ae-1a80-0054008bbde2",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 94,
+      "CreatedAt": "2024-03-09T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2020-7614",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corporate lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Account management",
+          "Severity": "High",
+          "Score": 35
+        },
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "High",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05c64319-20d1-141c-2634-0098eac77761",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 35,
+      "CreatedAt": "2024-02-17T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2021-4925",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Account management",
+          "Severity": "Critical",
+          "Score": 39
+        },
+        {
+          "Name": "Retail banking",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02fc7480-1b5c-0f55-16e8-008866c01cae",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2024-02-18T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2025-7615",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "account management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "High",
+          "Score": 39
+        },
+        {
+          "Name": "Account management",
+          "Severity": "Medium",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0491d1e6-0695-054b-2500-00573f9bf696",
+      "Name": "Individual customers - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 94,
+      "CreatedAt": "2025-03-26T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2026-6821",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Account management",
+          "Severity": "Medium",
+          "Score": 23
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "025c5e50-1e05-1f41-1cc5-00bb30ef04fe",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 59,
+      "CreatedAt": "2024-07-01T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2026-5894",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "High",
+          "Score": 43
+        },
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "044484da-106a-1e44-164e-0052e9005520",
+      "Name": "Business accounts - Solwezi",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 43,
+      "CreatedAt": "2024-02-16T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2023-7583",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corporate lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 17
+        },
+        {
+          "Name": "Account management",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05119027-2450-0dac-0875-00e0cfe13298",
+      "Name": "Smes - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2023-12-14T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2025-1974",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corporate lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Retail banking",
+          "Severity": "Medium",
+          "Score": 15
+        },
+        {
+          "Name": "Retail banking",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f87725-264d-1486-1e58-006dd7475faa",
+      "Name": "Smes - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 96,
+      "CreatedAt": "2025-10-10T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2024-9188",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "Low",
+          "Score": 20
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Critical",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "020ff045-260c-204f-1253-00d5b22d7254",
+      "Name": "Individual customers - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 59,
+      "CreatedAt": "2024-02-21T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2026-3508",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "account management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "High",
+          "Score": 35
+        },
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "046547fa-0b28-15d8-090e-00358a6a9449",
+      "Name": "Smes - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 67,
+      "CreatedAt": "2024-02-06T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2026-3456",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "account management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corporate lending",
+          "Severity": "Critical",
+          "Score": 13
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05dd2272-142d-233c-0a46-00b2838ce1f0",
+      "Name": "Smes - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 31,
+      "CreatedAt": "2025-03-15T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2023-7561",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "account management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Retail banking",
+          "Severity": "Medium",
+          "Score": 13
+        },
+        {
+          "Name": "Retail banking",
+          "Severity": "Critical",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01975456-19a6-1d32-1b25-00e129e631cf",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 42,
+      "CreatedAt": "2023-12-24T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2024-6914",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "account management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corporate lending",
+          "Severity": "Low",
+          "Score": 33
+        },
+        {
+          "Name": "Account management",
+          "Severity": "Critical",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0133f19f-1a79-117e-110e-002a43cc6180",
+      "Name": "Individual customers - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 27,
+      "CreatedAt": "2024-01-19T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2023-2404",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "retail banking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "Medium",
+          "Score": 43
+        },
+        {
+          "Name": "Account management",
+          "Severity": "Medium",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04f6474c-1473-07ed-073d-00542519ad9a",
+      "Name": "Individual customers - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 77,
+      "CreatedAt": "2025-03-28T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2022-7256",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corporate lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Retail banking",
+          "Severity": "High",
+          "Score": 16
+        },
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00ce1063-2579-08f3-05d6-00c51b847b04",
+      "Name": "Individual customers - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2024-02-16T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2024-7418",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transaction monitoring",
+          "Severity": "High",
+          "Score": 39
+        },
+        {
+          "Name": "Corporate lending",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02ade358-0762-1e2d-1330-00b92f662d9a",
+      "Name": "Individual customers - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 92,
+      "CreatedAt": "2025-07-30T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "COM-2025-7998",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Commercial Banking",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Account management",
+          "Severity": "High",
+          "Score": 34
+        },
+        {
+          "Name": "Retail banking",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    }
+  ]
+}

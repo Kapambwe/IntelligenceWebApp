@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "0420a923-0a68-2209-23ee-00987aa6235a",
+      "Name": "Financial institutions - Livingstone",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03
+    },
+    {
+      "Id": "04094512-20db-1df1-0bbe-0057b08abe79",
+      "Name": "Shell companies - Kitwe",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 41.0,
+      "IsCritical": false,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 8311395.1
+    },
+    {
+      "Id": "01dbd9f4-0ded-04a8-260e-001bf6c56a15",
+      "Name": "Financial institutions - Livingstone",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 57.0,
+      "IsCritical": false,
+      "Products": [
+        "terrorism financing"
+      ],
+      "AnnualSpend": 4928390.89
+    },
+    {
+      "Id": "00b9b9b8-074a-1b9f-2390-00c6e6a62722",
+      "Name": "Financial institutions - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 83.6,
+      "IsCritical": false,
+      "Products": [
+        "terrorism financing"
+      ],
+      "AnnualSpend": 4910772.31
+    },
+    {
+      "Id": "059a70a3-1279-169b-0813-001c41a2c786",
+      "Name": "Suspicious persons - Livingstone",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 60.0,
+      "IsCritical": true,
+      "Products": [
+        "terrorism financing"
+      ],
+      "AnnualSpend": 2378728.42
+    },
+    {
+      "Id": "035111e9-04b0-0950-1d16-00cc0a06ce10",
+      "Name": "Shell companies - Livingstone",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 40.9,
+      "IsCritical": true,
+      "Products": [
+        "financial crime"
+      ],
+      "AnnualSpend": 8603740.1
+    },
+    {
+      "Id": "056c740c-0694-11d3-21d1-00bc6df37612",
+      "Name": "Financial institutions - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 62.4,
+      "IsCritical": true,
+      "Products": [
+        "terrorism financing"
+      ],
+      "AnnualSpend": 7018930.38
+    },
+    {
+      "Id": "05c7823f-2450-04be-2480-006fbd12890a",
+      "Name": "Suspicious persons - Chirundu",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 66.1,
+      "IsCritical": false,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 4958756.49
+    },
+    {
+      "Id": "04bfafe5-245d-06af-180c-00ab48868a2e",
+      "Name": "Financial institutions - Chirundu",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 66.3,
+      "IsCritical": false,
+      "Products": [
+        "terrorism financing"
+      ],
+      "AnnualSpend": 573735.96
+    },
+    {
+      "Id": "05ca9683-0bf1-0d29-19a9-00b7ed451a5c",
+      "Name": "Suspicious persons - Livingstone",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 57.2,
+      "IsCritical": true,
+      "Products": [
+        "terrorism financing"
+      ],
+      "AnnualSpend": 8648179.61
+    },
+    {
+      "Id": "027bd667-266b-1daf-1136-003ba25329ad",
+      "Name": "Shell companies - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 59.4,
+      "IsCritical": true,
+      "Products": [
+        "money laundering"
+      ],
+      "AnnualSpend": 2645649.53
+    },
+    {
+      "Id": "00a5f2e0-1c38-260e-25ac-00e534d7d265",
+      "Name": "Suspicious persons - Ndola",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 84.5,
+      "IsCritical": false,
+      "Products": [
+        "financial crime"
+      ],
+      "AnnualSpend": 7643072.43
+    },
+    {
+      "Id": "03302db6-227e-1fe8-2222-0032072eb09d",
+      "Name": "Reporting entities - Ndola",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 86.6,
+      "IsCritical": true,
+      "Products": [
+        "money laundering"
+      ],
+      "AnnualSpend": 8491457.9
+    },
+    {
+      "Id": "01bd540e-1bf1-22c3-270b-005b594a3a77",
+      "Name": "Financial institutions - Livingstone",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 59.8,
+      "IsCritical": true,
+      "Products": [
+        "STR analysis"
+      ],
+      "AnnualSpend": 8751475.74
+    },
+    {
+      "Id": "01e373f7-165a-10e1-1a6c-0058b0ddbfb5",
+      "Name": "Financial institutions - Kitwe",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 63.1,
+      "IsCritical": false,
+      "Products": [
+        "financial crime"
+      ],
+      "AnnualSpend": 4992930.47
+    },
+    {
+      "Id": "012ceda0-1dee-1aaa-15da-0048683c0a53",
+      "Name": "Shell companies - Lusaka",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 73.4,
+      "IsCritical": false,
+      "Products": [
+        "terrorism financing"
+      ],
+      "AnnualSpend": 5677356.91
+    },
+    {
+      "Id": "047d855b-07f3-13fc-2498-00381df906f7",
+      "Name": "Shell companies - Chirundu",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 87.7,
+      "IsCritical": true,
+      "Products": [
+        "money laundering"
+      ],
+      "AnnualSpend": 3890661.79
+    },
+    {
+      "Id": "058abc0b-1711-12f4-1c95-0027e3041b48",
+      "Name": "Reporting entities - Lusaka",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 66.9,
+      "IsCritical": false,
+      "Products": [
+        "STR analysis"
+      ],
+      "AnnualSpend": 9534660.86
+    },
+    {
+      "Id": "050aa498-18c9-1154-1039-0069afe8990e",
+      "Name": "Shell companies - Ndola",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 86.4,
+      "IsCritical": false,
+      "Products": [
+        "money laundering"
+      ],
+      "AnnualSpend": 7999252.01
+    },
+    {
+      "Id": "03b564a5-1b58-0bca-0f80-00cdb2ed9765",
+      "Name": "Reporting entities - Livingstone",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 68.7,
+      "IsCritical": false,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 2300722.9
+    },
+    {
+      "Id": "04dfc549-0a9c-1010-1038-0037b0b18a20",
+      "Name": "Suspicious persons - Chirundu",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 46.4,
+      "IsCritical": true,
+      "Products": [
+        "terrorism financing"
+      ],
+      "AnnualSpend": 6092143.83
+    },
+    {
+      "Id": "015d969a-0ff5-0fb3-13cf-00cf8d8268a3",
+      "Name": "Shell companies - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 54.0,
+      "IsCritical": true,
+      "Products": [
+        "STR analysis"
+      ],
+      "AnnualSpend": 3193254.98
+    },
+    {
+      "Id": "00dc5f5e-24ff-1751-1990-004c4c6adf81",
+      "Name": "Financial institutions - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 48.0,
+      "IsCritical": false,
+      "Products": [
+        "STR analysis"
+      ],
+      "AnnualSpend": 4058513.62
+    },
+    {
+      "Id": "031f4458-0e4a-1b55-103b-009b43b15a9a",
+      "Name": "Financial institutions - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 73.0,
+      "IsCritical": false,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 8534928.98
+    },
+    {
+      "Id": "019d03c0-09c3-04b7-1dfc-006e63ae2ee3",
+      "Name": "Financial institutions - Lusaka",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 51.4,
+      "IsCritical": true,
+      "Products": [
+        "financial crime"
+      ],
+      "AnnualSpend": 5583712.49
+    },
+    {
+      "Id": "05440af6-25c2-131a-1221-003c1fed8fa6",
+      "Name": "Reporting entities - Livingstone",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 91.1,
+      "IsCritical": true,
+      "Products": [
+        "financial crime"
+      ],
+      "AnnualSpend": 7863938.96
+    },
+    {
+      "Id": "045b6957-1e2a-0faf-1a21-0093c2a35e69",
+      "Name": "Reporting entities - Kitwe",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 78.1,
+      "IsCritical": false,
+      "Products": [
+        "money laundering"
+      ],
+      "AnnualSpend": 6277282.26
+    },
+    {
+      "Id": "0301891e-04e1-1b94-21f3-00af59c917ce",
+      "Name": "Suspicious persons - Kitwe",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 48.2,
+      "IsCritical": true,
+      "Products": [
+        "terrorism financing"
+      ],
+      "AnnualSpend": 957755.45
+    },
+    {
+      "Id": "0494363b-14ed-1313-0e18-008f1922d63c",
+      "Name": "Shell companies - Ndola",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 76.8,
+      "IsCritical": true,
+      "Products": [
+        "terrorism financing"
+      ],
+      "AnnualSpend": 7824774.39
+    },
+    {
+      "Id": "02f449bd-1ca4-0bdd-240d-007a92c3f754",
+      "Name": "Financial institutions - Livingstone",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 53.0,
+      "IsCritical": false,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 9264382.16
+    },
+    {
+      "Id": "029535d6-2554-2498-048f-0091ccd6f284",
+      "Name": "Financial institutions - Ndola",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 82.8,
+      "IsCritical": false,
+      "Products": [
+        "terrorism financing"
+      ],
+      "AnnualSpend": 5607238.59
+    },
+    {
+      "Id": "020bb10e-1371-0424-1bb9-00560b921c6f",
+      "Name": "Reporting entities - Kitwe",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 89.5,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5558335.27
+    },
+    {
+      "Id": "05ec5f1d-26bf-1743-0ead-00b1ffd1a079",
+      "Name": "Reporting entities - Kitwe",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 94.5,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 3780198.49
+    },
+    {
+      "Id": "0239cd07-13db-10cc-0a31-00ad43febf2d",
+      "Name": "Suspicious persons - Livingstone",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 88.5,
+      "IsCritical": false,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 1915572.53
+    },
+    {
+      "Id": "01b3183b-048b-0e65-0d34-00c15eea870a",
+      "Name": "Financial institutions - Kitwe",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 67.3,
+      "IsCritical": false,
+      "Products": [
+        "money laundering"
+      ],
+      "AnnualSpend": 7512811.35
+    },
+    {
+      "Id": "0599aa98-096a-0530-1980-0037df6f0bb5",
+      "Name": "Reporting entities - Kitwe",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 57.4,
+      "IsCritical": true,
+      "Products": [
+        "terrorism financing"
+      ],
+      "AnnualSpend": 8558341.48
+    },
+    {
+      "Id": "00df428d-1404-1307-2091-00664f09e58c",
+      "Name": "Financial institutions - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 79.5,
+      "IsCritical": true,
+      "Products": [
+        "financial crime"
+      ],
+      "AnnualSpend": 2413706.43
+    },
+    {
+      "Id": "04e54092-06bf-203b-2118-006eca54c32e",
+      "Name": "Financial institutions - Chirundu",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 70.5,
+      "IsCritical": false,
+      "Products": [
+        "STR analysis"
+      ],
+      "AnnualSpend": 6264424.6
+    },
+    {
+      "Id": "040e4dc8-05f1-078e-2484-001761cd5764",
+      "Name": "Financial institutions - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 72.4,
+      "IsCritical": false,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 2262178.48
+    },
+    {
+      "Id": "0387048c-0815-2601-1a61-00653c89ef1a",
+      "Name": "Suspicious persons - Livingstone",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 40.6,
+      "IsCritical": true,
+      "Products": [
+        "STR analysis"
+      ],
+      "AnnualSpend": 7511061.39
+    },
+    {
+      "Id": "0336198d-07fb-1f6f-15d3-007e1c3daea1",
+      "Name": "Reporting entities - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 94.5,
+      "IsCritical": false,
+      "Products": [
+        "STR analysis"
+      ],
+      "AnnualSpend": 1118276.54
+    },
+    {
+      "Id": "048795b2-1c55-2584-088e-00300f619830",
+      "Name": "Financial institutions - Ndola",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 41.7,
+      "IsCritical": false,
+      "Products": [
+        "money laundering"
+      ],
+      "AnnualSpend": 4072800.7
+    },
+    {
+      "Id": "00a37180-1d37-09f5-1d92-009386d373b1",
+      "Name": "Suspicious persons - Livingstone",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 49.7,
+      "IsCritical": false,
+      "Products": [
+        "terrorism financing"
+      ],
+      "AnnualSpend": 3138664.1
+    },
+    {
+      "Id": "0278ccd3-04fe-0524-202d-00245466eefd",
+      "Name": "Financial institutions - Livingstone",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 90.1,
+      "IsCritical": false,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 9567066.62
+    },
+    {
+      "Id": "059de531-20a5-0a93-162f-007cd797a16b",
+      "Name": "Financial institutions - Lusaka",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 93.2,
+      "IsCritical": false,
+      "Products": [
+        "financial crime"
+      ],
+      "AnnualSpend": 2150633.56
+    },
+    {
+      "Id": "046e4265-1ab7-0c62-0a30-00e33cb0eeae",
+      "Name": "Shell companies - Ndola",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 76.6,
+      "IsCritical": true,
+      "Products": [
+        "money laundering"
+      ],
+      "AnnualSpend": 2791324.38
+    },
+    {
+      "Id": "00b558aa-1205-1794-064c-00a68683d565",
+      "Name": "Financial institutions - Livingstone",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 86.4,
+      "IsCritical": false,
+      "Products": [
+        "STR analysis"
+      ],
+      "AnnualSpend": 1979471.14
+    },
+    {
+      "Id": "03fedbbd-1d04-2240-0d5f-00c69d078913",
+      "Name": "Financial institutions - Livingstone",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 67.6,
+      "IsCritical": false,
+      "Products": [
+        "STR analysis"
+      ],
+      "AnnualSpend": 6276727.77
+    },
+    {
+      "Id": "012392f9-05eb-18a9-2639-002533eed5a8",
+      "Name": "Suspicious persons - Kitwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 69.6,
+      "IsCritical": true,
+      "Products": [
+        "financial crime"
+      ],
+      "AnnualSpend": 6321830.46
+    },
+    {
+      "Id": "01c722d7-0b54-1a39-1923-00ac1c0e9d41",
+      "Name": "Reporting entities - Ndola",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 53.3,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 1198439.47
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "0221bb13-19f3-055f-2541-00dfe7063d08",
+      "FromSupplierId": "00df428d-1404-1307-2091-00664f09e58c",
+      "ToSupplierId": "059de531-20a5-0a93-162f-007cd797a16b",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.84,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0292dfaa-2312-2127-072d-005715d04f24",
+      "FromSupplierId": "01c722d7-0b54-1a39-1923-00ac1c0e9d41",
+      "ToSupplierId": "05ca9683-0bf1-0d29-19a9-00b7ed451a5c",
+      "Type": "supplies",
+      "DependencyLevel": 0.84,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "028f0344-0ada-090f-041d-00d091a511ac",
+      "FromSupplierId": "040e4dc8-05f1-078e-2484-001761cd5764",
+      "ToSupplierId": "015d969a-0ff5-0fb3-13cf-00cf8d8268a3",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.58,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04804cf2-0bfc-1dcb-213b-00b1d185100a",
+      "FromSupplierId": "020bb10e-1371-0424-1bb9-00560b921c6f",
+      "ToSupplierId": "01c722d7-0b54-1a39-1923-00ac1c0e9d41",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.73,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00e09f13-1493-1a7e-181b-006315d853fa",
+      "FromSupplierId": "03302db6-227e-1fe8-2222-0032072eb09d",
+      "ToSupplierId": "020bb10e-1371-0424-1bb9-00560b921c6f",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.69,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0173d692-195c-096e-0969-004bcf4fc24b",
+      "FromSupplierId": "03fedbbd-1d04-2240-0d5f-00c69d078913",
+      "ToSupplierId": "019d03c0-09c3-04b7-1dfc-006e63ae2ee3",
+      "Type": "supplies",
+      "DependencyLevel": 0.66,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04ca55da-11a9-1d4c-2237-00c5b8d16c66",
+      "FromSupplierId": "04e54092-06bf-203b-2118-006eca54c32e",
+      "ToSupplierId": "02f449bd-1ca4-0bdd-240d-007a92c3f754",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.88,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0356edf6-256b-26df-1849-008086db53de",
+      "FromSupplierId": "05ca9683-0bf1-0d29-19a9-00b7ed451a5c",
+      "ToSupplierId": "05ec5f1d-26bf-1743-0ead-00b1ffd1a079",
+      "Type": "supplies",
+      "DependencyLevel": 0.6,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "01cc1212-125f-24ed-1191-005d08e65fed",
+      "FromSupplierId": "035111e9-04b0-0950-1d16-00cc0a06ce10",
+      "ToSupplierId": "0301891e-04e1-1b94-21f3-00af59c917ce",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.88,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0101cb18-085d-1bb3-0902-004bf5a05d3a",
+      "FromSupplierId": "0336198d-07fb-1f6f-15d3-007e1c3daea1",
+      "ToSupplierId": "00df428d-1404-1307-2091-00664f09e58c",
+      "Type": "supplies",
+      "DependencyLevel": 0.88,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01f2d8e8-1f95-17be-1ab2-00bfcd05340d",
+      "FromSupplierId": "05ca9683-0bf1-0d29-19a9-00b7ed451a5c",
+      "ToSupplierId": "012ceda0-1dee-1aaa-15da-0048683c0a53",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.88,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "01fbecdb-184a-20d1-1ba0-00daaa4dee19",
+      "FromSupplierId": "050aa498-18c9-1154-1039-0069afe8990e",
+      "ToSupplierId": "03fedbbd-1d04-2240-0d5f-00c69d078913",
+      "Type": "supplies",
+      "DependencyLevel": 0.53,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02443f88-2560-0f06-1a84-00d12532eb8f",
+      "FromSupplierId": "04e54092-06bf-203b-2118-006eca54c32e",
+      "ToSupplierId": "020bb10e-1371-0424-1bb9-00560b921c6f",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.45,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "00c28177-1ded-1abc-11e7-0019840cc034",
+      "FromSupplierId": "035111e9-04b0-0950-1d16-00cc0a06ce10",
+      "ToSupplierId": "046e4265-1ab7-0c62-0a30-00e33cb0eeae",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.84,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "037c7ab4-192f-0436-1966-002f2473fb04",
+      "FromSupplierId": "031f4458-0e4a-1b55-103b-009b43b15a9a",
+      "ToSupplierId": "029535d6-2554-2498-048f-0091ccd6f284",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.68,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0477c166-0c2c-0cd9-22d3-005d6bb00ebd",
+      "FromSupplierId": "045b6957-1e2a-0faf-1a21-0093c2a35e69",
+      "ToSupplierId": "01e373f7-165a-10e1-1a6c-0058b0ddbfb5",
+      "Type": "partnership",
+      "DependencyLevel": 0.86,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0242a09a-1fb6-1af5-0b09-0051a2159ace",
+      "FromSupplierId": "0420a923-0a68-2209-23ee-00987aa6235a",
+      "ToSupplierId": "019d03c0-09c3-04b7-1dfc-006e63ae2ee3",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.72,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "02759a4c-0e4b-17a4-1d6e-00dc9664d3b0",
+      "FromSupplierId": "01bd540e-1bf1-22c3-270b-005b594a3a77",
+      "ToSupplierId": "00df428d-1404-1307-2091-00664f09e58c",
+      "Type": "supplies",
+      "DependencyLevel": 0.54,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04a3448c-157a-13c0-22c0-008146ec66ee",
+      "FromSupplierId": "050aa498-18c9-1154-1039-0069afe8990e",
+      "ToSupplierId": "01c722d7-0b54-1a39-1923-00ac1c0e9d41",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.46,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00cc0a49-2610-247c-211c-001f80f1d200",
+      "FromSupplierId": "04094512-20db-1df1-0bbe-0057b08abe79",
+      "ToSupplierId": "05ca9683-0bf1-0d29-19a9-00b7ed451a5c",
+      "Type": "supplies",
+      "DependencyLevel": 0.75,
+      "IsCriticalPath": true
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "operational",
+      "Description": "Concentration of STR analysis in Lusaka",
+      "ConcentrationLevel": 63.7,
+      "AffectedSuppliers": [
+        "Suspicious persons - Chirundu",
+        "Suspicious persons - Livingstone",
+        "Shell companies - Ndola"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "03396bce-0e68-0590-048b-0024f39c09ac",
+      "SupplierId": "0420a923-0a68-2209-23ee-00987aa6235a",
+      "SupplierName": "Financial institutions - Livingstone",
+      "RiskType": "compliance",
+      "Severity": "medium",
+      "Description": "Risk detected in money laundering operations",
+      "DetectedAt": "2025-12-22T17:30:30Z",
+      "IsAcknowledged": true,
+      "AffectedDownstreamSuppliers": [
+        "01b3183b-048b-0e65-0d34-00c15eea870a",
+        "05440af6-25c2-131a-1221-003c1fed8fa6"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 23,
+    "HighRiskSuppliers": 14,
+    "AverageRiskScore": 68.2,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "fba86739-8f8c-4827-a312-2f89474f627a",
+      "EntityId": "1f49bec0-3b9c-4157-9780-031b2c6c7256",
+      "EntityName": "Liangyung Company Limited",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-28T09:10:00Z",
+      "CompletedAt": "2025-12-29T15:20:00Z",
+      "Notes": "Document batch validated with forensic invoice comparison.",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-28T11:00:00Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-28T13:30:00Z"
+        }
+      ]
+    },
+    {
+      "Id": "ee3bb489-1481-4e7d-a9b8-a8fcd4c54c5f",
+      "EntityId": "03433221-2b45-457a-8d6e-f2a7268b6db6",
+      "EntityName": "Junsheng Company Limited",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-02T08:45:00Z",
+      "Notes": "Field verification scheduled for Ndola warehouse after robbery incident.",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending Proof of Ownership",
+          "CompletedAt": "2026-01-02T10:15:00Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress"
+        }
+      ]
+    },
+    {
+      "Id": "889874ab-77c5-4e35-8de8-e299bd08c687",
+      "EntityId": "f7caaa88-c093-4aef-9cc9-b62083f8dbb1",
+      "EntityName": "Junsheng Company Limited",
+      "Type": "ownership",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-06T07:30:00Z",
+      "Notes": "Cross-border ownership tiers under review after new nominee directors surfaced.",
+      "Steps": [
+        {
+          "Name": "Structure Mapping",
+          "Status": "inProgress"
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 3,
+    "Completed": 1,
+    "Pending": 2,
+    "Failed": 0
+  }
+}

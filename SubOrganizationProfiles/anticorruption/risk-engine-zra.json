@@ -1,0 +1,206 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "012d42d7-1be8-0985-20fc-0080383287f6",
+      "Name": "Illicit enrichment Risk Model",
+      "Description": "Detects corruption patterns in Anti-Corruption Commission operations",
+      "Status": "active",
+      "CreatedAt": "2025-08-31T17:30:30Z",
+      "LastModifiedAt": "2026-01-08T17:30:30Z",
+      "Version": "1.8",
+      "Factors": [
+        {
+          "Id": "052f10aa-24d8-0b99-1ef0-009794fd3282",
+          "Name": "Bribery Indicator",
+          "Description": "Measures corruption risk across political figures",
+          "Category": "geographic",
+          "Weight": 0.11,
+          "MinValue": 0,
+          "MaxValue": 165,
+          "IsEnabled": true
+        },
+        {
+          "Id": "022a2001-1ebf-1d84-1308-00d48633b3ff",
+          "Name": "Corruption Indicator",
+          "Description": "Measures bribery risk across government departments",
+          "Category": "operational",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 169,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00c55bd8-07d4-223a-0a4b-005a39118728",
+          "Name": "Abuse of office Indicator",
+          "Description": "Measures graft risk across public officials",
+          "Category": "operational",
+          "Weight": 0.18,
+          "MinValue": 0,
+          "MaxValue": 109,
+          "IsEnabled": true
+        },
+        {
+          "Id": "051aab67-1778-1d43-081c-0061830721ef",
+          "Name": "Corruption Indicator",
+          "Description": "Measures corruption risk across government departments",
+          "Category": "financial",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 180,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0439446d-1ce8-1e14-0d9e-005405b6b4fc",
+          "Name": "Bribery Indicator",
+          "Description": "Measures illicit enrichment risk across public officials",
+          "Category": "operational",
+          "Weight": 0.19,
+          "MinValue": 0,
+          "MaxValue": 142,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.89,
+        "Precision": 0.76,
+        "Recall": 0.8,
+        "F1Score": 0.88,
+        "TotalPredictions": 549,
+        "TruePositives": 265,
+        "FalsePositives": 21,
+        "TrueNegatives": 159,
+        "FalseNegatives": 40
+      }
+    },
+    {
+      "Id": "0104a86c-117a-143d-2572-00394c0079b1",
+      "Name": "Bribery Risk Model",
+      "Description": "Detects abuse of office patterns in Anti-Corruption Commission operations",
+      "Status": "active",
+      "CreatedAt": "2025-11-22T17:30:30Z",
+      "LastModifiedAt": "2025-12-21T17:30:30Z",
+      "Version": "1.1",
+      "Factors": [
+        {
+          "Id": "041da7c7-105e-1ddf-11f4-00d4b068f368",
+          "Name": "Graft Indicator",
+          "Description": "Measures illicit enrichment risk across government departments",
+          "Category": "compliance",
+          "Weight": 0.38,
+          "MinValue": 0,
+          "MaxValue": 123,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03b4e02e-20ba-0fc4-2689-007531203257",
+          "Name": "Abuse of office Indicator",
+          "Description": "Measures illicit enrichment risk across contractors",
+          "Category": "compliance",
+          "Weight": 0.31,
+          "MinValue": 0,
+          "MaxValue": 194,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03c7d500-2683-11fc-13eb-00c74354e5f9",
+          "Name": "Graft Indicator",
+          "Description": "Measures illicit enrichment risk across government departments",
+          "Category": "financial",
+          "Weight": 0.38,
+          "MinValue": 0,
+          "MaxValue": 110,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04c02e04-263a-2016-1ffd-0021adb3266a",
+          "Name": "Corruption Indicator",
+          "Description": "Measures bribery risk across political figures",
+          "Category": "operational",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 168,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.86,
+        "Precision": 0.82,
+        "Recall": 0.89,
+        "F1Score": 0.87,
+        "TotalPredictions": 613,
+        "TruePositives": 343,
+        "FalsePositives": 75,
+        "TrueNegatives": 112,
+        "FalseNegatives": 59
+      }
+    },
+    {
+      "Id": "0260eea6-0e56-1cfa-2387-004e43846a27",
+      "Name": "Corruption Risk Model",
+      "Description": "Detects bribery patterns in Anti-Corruption Commission operations",
+      "Status": "active",
+      "CreatedAt": "2025-08-18T17:30:30Z",
+      "LastModifiedAt": "2026-01-17T17:30:30Z",
+      "Version": "2.6",
+      "Factors": [
+        {
+          "Id": "024b12ea-1d7a-0823-1694-008a16add089",
+          "Name": "Bribery Indicator",
+          "Description": "Measures illicit enrichment risk across contractors",
+          "Category": "compliance",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02696be5-0d33-1427-1afd-0035053c2f02",
+          "Name": "Bribery Indicator",
+          "Description": "Measures bribery risk across contractors",
+          "Category": "geographic",
+          "Weight": 0.18,
+          "MinValue": 0,
+          "MaxValue": 178,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00f965b0-252b-2554-1001-00936253b0a4",
+          "Name": "Illicit enrichment Indicator",
+          "Description": "Measures abuse of office risk across political figures",
+          "Category": "financial",
+          "Weight": 0.36,
+          "MinValue": 0,
+          "MaxValue": 153,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01404b58-176c-10ef-0552-00a932ce2328",
+          "Name": "Bribery Indicator",
+          "Description": "Measures bribery risk across political figures",
+          "Category": "operational",
+          "Weight": 0.24,
+          "MinValue": 0,
+          "MaxValue": 198,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.86,
+        "Precision": 0.84,
+        "Recall": 0.76,
+        "F1Score": 0.84,
+        "TotalPredictions": 591,
+        "TruePositives": 429,
+        "FalsePositives": 57,
+        "TrueNegatives": 134,
+        "FalseNegatives": 23
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 13,
+    "AverageRiskScore": 89.6
+  }
+}

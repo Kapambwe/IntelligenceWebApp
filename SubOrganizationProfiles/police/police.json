@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "Police",
+  "DisplayName": "Zambia Police Service",
+  "Country": "Zambia",
+  "Headquarters": "Lusaka, Zambia",
+  "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+  "TopPriorities": [
+    "Disrupt smuggling networks feeding false invoices into the Copperbelt supply chain.",
+    "Enhance community policing in Ndola and Kitwe to gather witness information on VAT fraud cases.",
+    "Digitize crime reporting and integrate with the ZRA intelligence portal."
+  ],
+  "ActiveOperations": [
+    "Joint Chiefs task force that manages asset seizures and evidence handover to the Economic and Financial Crimes Court.",
+    "Rapid response units embedded with ZRA audit teams in high-risk mining zones.",
+    "Public awareness campaigns on financial fraud broadcast across Radio Phoenix and ZNBC."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Recovered stolen laptops and cash from criminal duo in Kitwe",
+      "Date": "2025-12-19T00:00:00Z",
+      "Summary": "A Chinese national and a ZRA official were targeted while carrying recovered evidence in President Avenue, prompting a review of escort protocols."
+    },
+    {
+      "Title": "Escorted VAT fraud suspects to the Economic and Financial Crimes Court",
+      "Date": "2026-01-10T00:00:00Z",
+      "Summary": "Police secured summons for Santorin Investments Limited executives after ACC filings."
+    }
+  ],
+  "KeyPartnerships": [
+    "Zambia Revenue Authority",
+    "Anti-Corruption Commission",
+    "Economic and Financial Crimes Court security detail"
+  ],
+  "Metrics": {
+    "HighRiskOperations": "8 active deployments",
+    "EvidenceTransfers": "12 in past month",
+    "CommunityTips": "320 verified reports"
+  }
+}

@@ -1,0 +1,2002 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "VisionFund Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-10-23T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "9731",
+      "DigitalAccounts": "85% of clients",
+      "FraudReferrals": "19 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "FINCA Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-11T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "14395",
+      "DigitalAccounts": "79% of clients",
+      "FraudReferrals": "26 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Bayport Financial Services",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-13T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-10T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "16919",
+      "DigitalAccounts": "76% of clients",
+      "FraudReferrals": "26 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Letshego Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-14T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "12422",
+      "DigitalAccounts": "79% of clients",
+      "FraudReferrals": "11 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Izwe Savings and Loans",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-26T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "5813",
+      "DigitalAccounts": "95% of clients",
+      "FraudReferrals": "19 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Zoona",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-10T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "16339",
+      "DigitalAccounts": "71% of clients",
+      "FraudReferrals": "29 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Musika Finance",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-10-25T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "16656",
+      "DigitalAccounts": "92% of clients",
+      "FraudReferrals": "29 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "ECLOF Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-02T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "19737",
+      "DigitalAccounts": "77% of clients",
+      "FraudReferrals": "11 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "PULSE Microfinance",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-06T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "12180",
+      "DigitalAccounts": "76% of clients",
+      "FraudReferrals": "29 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Cetzam Microfinance",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-04T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-04T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "17716",
+      "DigitalAccounts": "84% of clients",
+      "FraudReferrals": "26 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Highlander Finance",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-19T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-10-31T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "17541",
+      "DigitalAccounts": "71% of clients",
+      "FraudReferrals": "18 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Express Finance",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "9432",
+      "DigitalAccounts": "77% of clients",
+      "FraudReferrals": "20 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "AB Microfinance Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-18T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "19258",
+      "DigitalAccounts": "70% of clients",
+      "FraudReferrals": "15 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Lusaka Microfinance 1",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-14T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-10-22T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "12817",
+      "DigitalAccounts": "71% of clients",
+      "FraudReferrals": "12 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Chingola Microfinance 2",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-14T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-30T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "7393",
+      "DigitalAccounts": "83% of clients",
+      "FraudReferrals": "16 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Chipata Microfinance 3 - Chingola Branch",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-05T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-02T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "13975",
+      "DigitalAccounts": "92% of clients",
+      "FraudReferrals": "19 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Mongu Microfinance 4 - Chipata Branch",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-21T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "6529",
+      "DigitalAccounts": "70% of clients",
+      "FraudReferrals": "28 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Solwezi Microfinance 5 - Mufulira Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-16T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-06T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "11166",
+      "DigitalAccounts": "74% of clients",
+      "FraudReferrals": "29 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Livingstone Microfinance 6 - Kafue Branch",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-16T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "19430",
+      "DigitalAccounts": "80% of clients",
+      "FraudReferrals": "29 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Mongu Microfinance 7 - Mbala Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-14T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "12608",
+      "DigitalAccounts": "85% of clients",
+      "FraudReferrals": "21 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Solwezi Microfinance 8 - Chipata Branch",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-04T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-10-26T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "19284",
+      "DigitalAccounts": "93% of clients",
+      "FraudReferrals": "29 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Mansa Microfinance 9 - Mongu Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-31T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-04T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "17402",
+      "DigitalAccounts": "85% of clients",
+      "FraudReferrals": "21 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Kafue Microfinance 10 - Mbala Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-21T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-01T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "12356",
+      "DigitalAccounts": "85% of clients",
+      "FraudReferrals": "21 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Mazabuka Microfinance 11 - Mpika Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "12730",
+      "DigitalAccounts": "72% of clients",
+      "FraudReferrals": "14 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Choma Microfinance 12 - Chipata Branch",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-26T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "17400",
+      "DigitalAccounts": "87% of clients",
+      "FraudReferrals": "19 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Monze Microfinance 13 - Solwezi Branch",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-10T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-12-01T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "12034",
+      "DigitalAccounts": "88% of clients",
+      "FraudReferrals": "26 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Mbala Microfinance 14 - Mpika Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-18T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-10-22T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "14679",
+      "DigitalAccounts": "84% of clients",
+      "FraudReferrals": "25 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Chingola Microfinance 15 - Lundazi Branch",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-14T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "14415",
+      "DigitalAccounts": "80% of clients",
+      "FraudReferrals": "23 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Choma Microfinance 16 - Choma Branch",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-24T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "15496",
+      "DigitalAccounts": "93% of clients",
+      "FraudReferrals": "10 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Mpika Microfinance 17 - Mongu Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-16T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-15T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "16930",
+      "DigitalAccounts": "79% of clients",
+      "FraudReferrals": "16 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Chingola Microfinance 18 - Kafue Branch",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-18T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "6717",
+      "DigitalAccounts": "81% of clients",
+      "FraudReferrals": "21 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Mazabuka Microfinance 19 - Mazabuka Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-28T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "9480",
+      "DigitalAccounts": "72% of clients",
+      "FraudReferrals": "22 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Mansa Microfinance 20 - Kafue Branch",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-22T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-21T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "5216",
+      "DigitalAccounts": "84% of clients",
+      "FraudReferrals": "15 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Mongu Microfinance 21 - Ndola Branch",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-11T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "5171",
+      "DigitalAccounts": "94% of clients",
+      "FraudReferrals": "25 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Solwezi Microfinance 22 - Mansa Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-29T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-27T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "12193",
+      "DigitalAccounts": "85% of clients",
+      "FraudReferrals": "12 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Petauke Microfinance 23 - Mazabuka Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "15551",
+      "DigitalAccounts": "78% of clients",
+      "FraudReferrals": "29 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Solwezi Microfinance 24 - Petauke Branch",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-29T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-10-24T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "19679",
+      "DigitalAccounts": "82% of clients",
+      "FraudReferrals": "26 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Petauke Microfinance 25 - Ndola Branch",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-17T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-12-03T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "9259",
+      "DigitalAccounts": "84% of clients",
+      "FraudReferrals": "19 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Kasama Microfinance 26 - Kasama Branch",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-29T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "15076",
+      "DigitalAccounts": "77% of clients",
+      "FraudReferrals": "25 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Ndola Microfinance 27 - Mufulira Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-10T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "17026",
+      "DigitalAccounts": "79% of clients",
+      "FraudReferrals": "10 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Livingstone Microfinance 28 - Solwezi Branch",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "19891",
+      "DigitalAccounts": "71% of clients",
+      "FraudReferrals": "11 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Solwezi Microfinance 29 - Petauke Branch",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "13978",
+      "DigitalAccounts": "80% of clients",
+      "FraudReferrals": "15 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Ndola Microfinance 30 - Kasama Branch",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-07T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-06T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "7254",
+      "DigitalAccounts": "84% of clients",
+      "FraudReferrals": "28 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Mpika Microfinance 31 - Kabwe Branch",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-10-26T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "10266",
+      "DigitalAccounts": "81% of clients",
+      "FraudReferrals": "24 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Kafue Microfinance 32 - Mongu Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "5211",
+      "DigitalAccounts": "89% of clients",
+      "FraudReferrals": "26 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Kitwe Microfinance 33 - Mongu Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-13T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "10385",
+      "DigitalAccounts": "86% of clients",
+      "FraudReferrals": "14 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Ndola Microfinance 34 - Choma Branch",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-28T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-12-04T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "12223",
+      "DigitalAccounts": "76% of clients",
+      "FraudReferrals": "24 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Mongu Microfinance 35 - Kitwe Branch",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-07T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "15734",
+      "DigitalAccounts": "89% of clients",
+      "FraudReferrals": "25 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Mufulira Microfinance 36 - Petauke Branch",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-31T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-30T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "16539",
+      "DigitalAccounts": "94% of clients",
+      "FraudReferrals": "15 referred to authorities"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Lundazi Microfinance 37 - Mazabuka Branch",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-27T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "9736",
+      "DigitalAccounts": "80% of clients",
+      "FraudReferrals": "10 referred to authorities"
+    }
+  }
+]

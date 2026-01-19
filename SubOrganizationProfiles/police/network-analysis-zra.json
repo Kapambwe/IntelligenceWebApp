@@ -1,0 +1,55 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "Drug traffickingPath",
+      "Summary": "Identified 3-step pattern linking suspects to organized crime in Lusaka",
+      "HighlightedNodes": [
+        "018bf436-1634-1761-10aa-0079605baa67",
+        "04fedf8b-1df6-1894-2149-00dfe166ffdd",
+        "051bdbf2-04b4-1eb8-10d5-00b285d3cb66"
+      ]
+    },
+    {
+      "Name": "Copper theftPath",
+      "Summary": "Identified 3-step pattern linking crime syndicates to copper theft in Lusaka",
+      "HighlightedNodes": [
+        "051d6b9a-0954-23b5-1fb4-001a9076996a",
+        "050d0f58-115e-0871-1ad9-007930e61d76",
+        "03c1b1a1-22b8-0bf8-17ab-0087fce6e602"
+      ]
+    },
+    {
+      "Name": "Copper theftPath",
+      "Summary": "Identified 4-step pattern linking crime syndicates to drug trafficking in Ndola",
+      "HighlightedNodes": [
+        "00d29fd2-2352-24aa-1b2e-00559041676d",
+        "04df9468-054e-0de1-20dd-00927ea13e5f",
+        "031ad200-0d96-1eff-07f1-0082a8ed49d4",
+        "03bde5f7-0a28-1210-06ec-00b9bd98203d"
+      ]
+    },
+    {
+      "Name": "Drug traffickingPath",
+      "Summary": "Identified 6-step pattern linking crime syndicates to copper theft in Kitwe",
+      "HighlightedNodes": [
+        "00d74089-0a0a-0a5e-1d37-0024fbb44f11",
+        "05e48223-040e-23af-045e-006cf3f68af6",
+        "034d1680-0b63-1a1e-0e4f-006a24bf50dc",
+        "05edb6da-171f-1d91-0efa-00a947f37936",
+        "04fa732d-1924-1f9b-0b2e-008c2cefe868",
+        "029b85f9-22e2-1481-08a4-00cf51975c1f"
+      ]
+    },
+    {
+      "Name": "Law enforcementPath",
+      "Summary": "Identified 4-step pattern linking criminal networks to organized crime in border posts",
+      "HighlightedNodes": [
+        "02ff9272-0556-1376-2004-001af8030fce",
+        "04a18100-0a1c-20d8-08b7-00b39c7dfae2",
+        "0587a032-12e2-1892-1c1a-0097c920927a",
+        "00ff2ed2-0416-1425-18a7-008c856f63df"
+      ]
+    }
+  ]
+}

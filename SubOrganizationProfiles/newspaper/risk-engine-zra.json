@@ -1,0 +1,186 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "0286fea3-16b3-1498-0e45-006fe7748deb",
+      "Name": "Public interest stories Risk Model",
+      "Description": "Detects public interest stories patterns in Print Media operations",
+      "Status": "active",
+      "CreatedAt": "2025-09-28T17:30:31Z",
+      "LastModifiedAt": "2025-12-31T17:30:31Z",
+      "Version": "1.8",
+      "Factors": [
+        {
+          "Id": "02f7b2f5-16a2-03f6-1178-00c5d9033374",
+          "Name": "Investigative journalism Indicator",
+          "Description": "Measures public interest stories risk across government officials",
+          "Category": "geographic",
+          "Weight": 0.16,
+          "MinValue": 0,
+          "MaxValue": 168,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0574ce4e-0871-094f-1808-007643a56d4f",
+          "Name": "News reporting Indicator",
+          "Description": "Measures investigative journalism risk across public figures",
+          "Category": "compliance",
+          "Weight": 0.22,
+          "MinValue": 0,
+          "MaxValue": 198,
+          "IsEnabled": true
+        },
+        {
+          "Id": "017e63b0-151c-2245-2256-0093bc12b582",
+          "Name": "News reporting Indicator",
+          "Description": "Measures public interest stories risk across government officials",
+          "Category": "geographic",
+          "Weight": 0.23,
+          "MinValue": 0,
+          "MaxValue": 138,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0473dccb-213c-072d-0710-007a8684c76e",
+          "Name": "Government accountability Indicator",
+          "Description": "Measures investigative journalism risk across corporations",
+          "Category": "operational",
+          "Weight": 0.16,
+          "MinValue": 0,
+          "MaxValue": 140,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.9,
+        "Precision": 0.86,
+        "Recall": 0.77,
+        "F1Score": 0.84,
+        "TotalPredictions": 452,
+        "TruePositives": 277,
+        "FalsePositives": 77,
+        "TrueNegatives": 131,
+        "FalseNegatives": 41
+      }
+    },
+    {
+      "Id": "00a81faf-0b46-05c4-085a-005c476cd342",
+      "Name": "Public interest stories Risk Model",
+      "Description": "Detects investigative journalism patterns in Print Media operations",
+      "Status": "active",
+      "CreatedAt": "2025-10-06T17:30:31Z",
+      "LastModifiedAt": "2026-01-05T17:30:31Z",
+      "Version": "3.7",
+      "Factors": [
+        {
+          "Id": "0438d437-0de2-14a2-0a5b-00999ad73514",
+          "Name": "Corruption exposure Indicator",
+          "Description": "Measures public interest stories risk across news sources",
+          "Category": "operational",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 169,
+          "IsEnabled": true
+        },
+        {
+          "Id": "05dca5da-1cb1-1d98-2693-002ec322fd55",
+          "Name": "Corruption exposure Indicator",
+          "Description": "Measures investigative journalism risk across public figures",
+          "Category": "financial",
+          "Weight": 0.3,
+          "MinValue": 0,
+          "MaxValue": 182,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04ba5475-1938-15b0-1466-00bbe9619c6f",
+          "Name": "News reporting Indicator",
+          "Description": "Measures public interest stories risk across news sources",
+          "Category": "financial",
+          "Weight": 0.2,
+          "MinValue": 0,
+          "MaxValue": 145,
+          "IsEnabled": true
+        },
+        {
+          "Id": "05902c69-169f-081f-242e-009e79442bc6",
+          "Name": "Government accountability Indicator",
+          "Description": "Measures government accountability risk across public figures",
+          "Category": "financial",
+          "Weight": 0.38,
+          "MinValue": 0,
+          "MaxValue": 105,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.81,
+        "Precision": 0.81,
+        "Recall": 0.85,
+        "F1Score": 0.85,
+        "TotalPredictions": 680,
+        "TruePositives": 468,
+        "FalsePositives": 33,
+        "TrueNegatives": 121,
+        "FalseNegatives": 60
+      }
+    },
+    {
+      "Id": "01a61127-1e9d-144f-1bce-00806bf7c55a",
+      "Name": "Corruption exposure Risk Model",
+      "Description": "Detects investigative journalism patterns in Print Media operations",
+      "Status": "active",
+      "CreatedAt": "2025-08-23T17:30:31Z",
+      "LastModifiedAt": "2025-12-28T17:30:31Z",
+      "Version": "2.8",
+      "Factors": [
+        {
+          "Id": "04b59677-0792-1af9-240a-0096a7a83c22",
+          "Name": "Government accountability Indicator",
+          "Description": "Measures investigative journalism risk across news sources",
+          "Category": "operational",
+          "Weight": 0.36,
+          "MinValue": 0,
+          "MaxValue": 150,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01db9d88-08ca-0aff-16f5-0042bd92bd9f",
+          "Name": "Corruption exposure Indicator",
+          "Description": "Measures investigative journalism risk across news sources",
+          "Category": "geographic",
+          "Weight": 0.21,
+          "MinValue": 0,
+          "MaxValue": 165,
+          "IsEnabled": true
+        },
+        {
+          "Id": "05517bdb-19d9-06f5-0853-00b13181f492",
+          "Name": "Public interest stories Indicator",
+          "Description": "Measures news reporting risk across news sources",
+          "Category": "operational",
+          "Weight": 0.13,
+          "MinValue": 0,
+          "MaxValue": 113,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.87,
+        "Precision": 0.84,
+        "Recall": 0.83,
+        "F1Score": 0.78,
+        "TotalPredictions": 424,
+        "TruePositives": 260,
+        "FalsePositives": 38,
+        "TrueNegatives": 161,
+        "FalseNegatives": 23
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 11,
+    "AverageRiskScore": 82.9
+  }
+}

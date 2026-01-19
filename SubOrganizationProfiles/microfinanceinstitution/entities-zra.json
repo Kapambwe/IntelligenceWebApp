@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "017fd7f3-0746-26c9-1a87-0056aaa5c3bf",
+      "Name": "Savings groups - Kasama",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 53,
+      "CreatedAt": "2025-05-21T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "03ccfa0c-1041-116d-25ba-007528322753",
+      "Name": "Small businesses - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 94,
+      "CreatedAt": "2024-09-03T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "05715dfe-0ba8-0c79-141c-0084343ea62e",
+      "Name": "Entrepreneurs - Kasama",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 71,
+      "CreatedAt": "2024-06-30T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "03ffb710-1f3d-18c8-2581-002cd8a63a5d",
+      "Name": "Small businesses - Chipata",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 27,
+      "CreatedAt": "2024-02-13T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "04185a06-0e73-1771-0a42-005d49e5653e",
+      "Name": "Small businesses - Chipata",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 66,
+      "CreatedAt": "2025-01-10T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "03425b41-0ac5-1c18-13a5-00686273ac2d",
+      "Name": "Entrepreneurs - Kasama",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2024-05-27T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "039699d3-0eec-11fe-04cf-001b21ce02bb",
+      "Name": "Small businesses - Mongu",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 39,
+      "CreatedAt": "2024-08-05T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "04b9646d-06db-0bff-0c71-00a8774712a4",
+      "Name": "Entrepreneurs - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 38,
+      "CreatedAt": "2025-02-19T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "03fafbed-0b5a-14b0-144e-00dae79f3ec4",
+      "Name": "Individual borrowers - Mongu",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 86,
+      "CreatedAt": "2024-09-07T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "0242853b-0a28-171a-1ae5-00e7267d31a5",
+      "Name": "Entrepreneurs - Chipata",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 61,
+      "CreatedAt": "2025-05-01T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "00fcdb7a-106c-15f1-23bd-004671e22716",
+      "Name": "Small businesses - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 25,
+      "CreatedAt": "2024-06-19T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "04a147f2-235e-0e6c-0dd9-0045265ef1e6",
+      "Name": "Entrepreneurs - Kasama",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 63,
+      "CreatedAt": "2025-05-12T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "0292ea41-06f9-1bd6-146b-00878e873c2d",
+      "Name": "Savings groups - Chipata",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 58,
+      "CreatedAt": "2025-05-09T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "03fd44c3-2072-1702-158b-0036acb86755",
+      "Name": "Savings groups - Chipata",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 28,
+      "CreatedAt": "2024-01-01T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "029b7c94-23a5-055f-0ec5-0072c8b1a0de",
+      "Name": "Individual borrowers - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 94,
+      "CreatedAt": "2024-08-15T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "0518b0e0-1f8e-24b5-0f65-00b99c05a6fd",
+      "Name": "Entrepreneurs - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 22,
+      "CreatedAt": "2025-10-09T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "034724c5-1f00-21ee-0d8f-00e3efeca3f4",
+      "Name": "Individual borrowers - Mongu",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 64,
+      "CreatedAt": "2025-03-27T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "021b124e-1953-091c-13c2-001d9af3fc43",
+      "Name": "Individual borrowers - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 87,
+      "CreatedAt": "2025-02-11T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z"
+    },
+    {
+      "Id": "03f931bf-07db-0873-1185-001a2c592f1d",
+      "Name": "Individual borrowers - Kasama",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 89,
+      "CreatedAt": "2025-04-05T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "02f97574-0872-063a-0fa8-00a580e94f34",
+      "Name": "Individual borrowers - Kasama",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 33,
+      "CreatedAt": "2024-10-23T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "01d5ac12-0643-22ca-16c6-00960bca9fb2",
+      "Name": "Entrepreneurs - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 57,
+      "CreatedAt": "2025-05-14T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "0213a054-1c35-270c-1d5e-00d2fb366667",
+      "Name": "Savings groups - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 99,
+      "CreatedAt": "2025-03-24T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "0533cfa3-19cd-119d-0fd7-00a6b61a5aa9",
+      "Name": "Individual borrowers - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 20,
+      "CreatedAt": "2024-08-25T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "04f46d92-12f9-14c9-170a-00c8fa406564",
+      "Name": "Small businesses - Chipata",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 56,
+      "CreatedAt": "2024-01-20T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "04bcaf40-23ee-0ccb-1b4a-0032fac27060",
+      "Name": "Entrepreneurs - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2025-06-21T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "00d951cb-08b7-044b-1875-00a721cd8d10",
+      "Name": "Entrepreneurs - Chipata",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2024-07-02T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "05b43a9e-111e-10f6-0aac-001f633bca67",
+      "Name": "Savings groups - Chipata",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 77,
+      "CreatedAt": "2025-03-19T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "02918094-1896-1854-17b2-00b365600d20",
+      "Name": "Entrepreneurs - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 47,
+      "CreatedAt": "2025-02-24T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "00a3b63a-08c4-07cd-0a95-00e2145bfed2",
+      "Name": "Individual borrowers - Kasama",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 89,
+      "CreatedAt": "2024-02-16T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "059f0427-05e2-1aab-1fb3-0084bac99c55",
+      "Name": "Entrepreneurs - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 29,
+      "CreatedAt": "2025-01-17T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "053639a0-046a-098f-0c0c-006ab5a4266d",
+      "Name": "Small businesses - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2025-07-11T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "0448ab59-0c99-0868-0610-00c2546dd5d2",
+      "Name": "Small businesses - Chipata",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 85,
+      "CreatedAt": "2024-04-13T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "01bef409-1ee4-1a8f-0aaf-001e2aca03b0",
+      "Name": "Small businesses - Mongu",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 29,
+      "CreatedAt": "2024-11-13T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "0189613c-0a92-0a80-05a5-00882626e227",
+      "Name": "Savings groups - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 81,
+      "CreatedAt": "2025-08-18T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z"
+    },
+    {
+      "Id": "0587e4ff-22bf-1d67-2490-00aafd1ef00d",
+      "Name": "Entrepreneurs - Mongu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 44,
+      "CreatedAt": "2024-07-01T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "048afc97-1e0e-0cde-1ec9-00e1f71bf6a1",
+      "Name": "Savings groups - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 45,
+      "CreatedAt": "2025-07-28T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "0225f19f-0c6a-1bfd-0f9f-00a84264012b",
+      "Name": "Entrepreneurs - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 84,
+      "CreatedAt": "2025-06-06T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "02828a5a-18c8-04d1-26b1-004105ccaf0f",
+      "Name": "Savings groups - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 48,
+      "CreatedAt": "2024-09-15T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "04a468a1-0497-05e8-09fa-0024d5fceed1",
+      "Name": "Savings groups - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 99,
+      "CreatedAt": "2024-06-23T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z"
+    },
+    {
+      "Id": "058fcad0-23dd-0641-1c10-0028cc2a5f3f",
+      "Name": "Savings groups - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 96,
+      "CreatedAt": "2023-12-14T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "03ec4209-0430-2299-0e76-00bcf21014fd",
+      "Name": "Individual borrowers - Chipata",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 86,
+      "CreatedAt": "2024-11-08T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "02770658-1400-1691-2439-00cd99b76e80",
+      "Name": "Individual borrowers - Kasama",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 83,
+      "CreatedAt": "2024-11-23T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "041ddfb3-0b60-1dc3-1fac-008f0d464ccd",
+      "Name": "Entrepreneurs - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 88,
+      "CreatedAt": "2025-05-13T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "04875d10-18fb-1add-0617-00c5139201b9",
+      "Name": "Entrepreneurs - Chipata",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 95,
+      "CreatedAt": "2024-09-04T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "026172de-1348-0ec8-167c-007dd9b0c51d",
+      "Name": "Savings groups - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 46,
+      "CreatedAt": "2025-10-11T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "013f2e70-110f-1b29-1e93-007fe5dcdb05",
+      "Name": "Individual borrowers - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 32,
+      "CreatedAt": "2024-09-29T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z"
+    },
+    {
+      "Id": "04403f7b-16c7-232c-06b8-001f184740f2",
+      "Name": "Individual borrowers - Kasama",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 96,
+      "CreatedAt": "2024-07-07T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "05d97e89-1977-2432-185f-003f98de7e92",
+      "Name": "Small businesses - Mongu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 69,
+      "CreatedAt": "2024-09-10T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "00e1b064-26d4-21da-0667-002905726632",
+      "Name": "Entrepreneurs - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 88,
+      "CreatedAt": "2025-09-24T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "03f378c6-22a0-202b-12ae-0019cc93a988",
+      "Name": "Savings groups - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 28,
+      "CreatedAt": "2024-06-16T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "017fd7f3-0746-26c9-1a87-0056aaa5c3bf",
+      "Name": "Savings groups - Kasama",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 53,
+      "CreatedAt": "2025-05-21T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2025-9797",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Savings mobilization",
+          "Severity": "Low",
+          "Score": 43
+        },
+        {
+          "Name": "Savings mobilization",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03ccfa0c-1041-116d-25ba-007528322753",
+      "Name": "Small businesses - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 94,
+      "CreatedAt": "2024-09-03T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2022-9818",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "Medium",
+          "Score": 38
+        },
+        {
+          "Name": "Sme lending",
+          "Severity": "Medium",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05715dfe-0ba8-0c79-141c-0084343ea62e",
+      "Name": "Entrepreneurs - Kasama",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 71,
+      "CreatedAt": "2024-06-30T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2020-1717",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Savings mobilization",
+          "Severity": "Low",
+          "Score": 22
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03ffb710-1f3d-18c8-2581-002cd8a63a5d",
+      "Name": "Small businesses - Chipata",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 27,
+      "CreatedAt": "2024-02-13T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2020-2751",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Microloans",
+          "Severity": "Critical",
+          "Score": 13
+        },
+        {
+          "Name": "Sme lending",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04185a06-0e73-1771-0a42-005d49e5653e",
+      "Name": "Small businesses - Chipata",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 66,
+      "CreatedAt": "2025-01-10T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2021-3469",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "SME lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Microloans",
+          "Severity": "Medium",
+          "Score": 21
+        },
+        {
+          "Name": "Microloans",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03425b41-0ac5-1c18-13a5-00686273ac2d",
+      "Name": "Entrepreneurs - Kasama",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2024-05-27T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2020-8350",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial inclusion",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 10
+        },
+        {
+          "Name": "Savings mobilization",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "039699d3-0eec-11fe-04cf-001b21ce02bb",
+      "Name": "Small businesses - Mongu",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 39,
+      "CreatedAt": "2024-08-05T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2024-2000",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial inclusion",
+          "Severity": "Critical",
+          "Score": 20
+        },
+        {
+          "Name": "Financial inclusion",
+          "Severity": "Medium",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04b9646d-06db-0bff-0c71-00a8774712a4",
+      "Name": "Entrepreneurs - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 38,
+      "CreatedAt": "2025-02-19T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2026-7863",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Savings mobilization",
+          "Severity": "Medium",
+          "Score": 17
+        },
+        {
+          "Name": "Financial inclusion",
+          "Severity": "Critical",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03fafbed-0b5a-14b0-144e-00dae79f3ec4",
+      "Name": "Individual borrowers - Mongu",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 86,
+      "CreatedAt": "2024-09-07T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2021-9576",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "Low",
+          "Score": 37
+        },
+        {
+          "Name": "Microloans",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0242853b-0a28-171a-1ae5-00e7267d31a5",
+      "Name": "Entrepreneurs - Chipata",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 61,
+      "CreatedAt": "2025-05-01T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2026-8089",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 45
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Critical",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00fcdb7a-106c-15f1-23bd-004671e22716",
+      "Name": "Small businesses - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 25,
+      "CreatedAt": "2024-06-19T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2020-8614",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "microloans",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Microloans",
+          "Severity": "Low",
+          "Score": 42
+        },
+        {
+          "Name": "Microloans",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04a147f2-235e-0e6c-0dd9-0045265ef1e6",
+      "Name": "Entrepreneurs - Kasama",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 63,
+      "CreatedAt": "2025-05-12T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2026-8345",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Low",
+          "Score": 39
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0292ea41-06f9-1bd6-146b-00878e873c2d",
+      "Name": "Savings groups - Chipata",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 58,
+      "CreatedAt": "2025-05-09T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2024-3130",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Microloans",
+          "Severity": "Low",
+          "Score": 19
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03fd44c3-2072-1702-158b-0036acb86755",
+      "Name": "Savings groups - Chipata",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 28,
+      "CreatedAt": "2024-01-01T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2020-5567",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "microloans",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Microloans",
+          "Severity": "Low",
+          "Score": 38
+        },
+        {
+          "Name": "Savings mobilization",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "029b7c94-23a5-055f-0ec5-0072c8b1a0de",
+      "Name": "Individual borrowers - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 94,
+      "CreatedAt": "2024-08-15T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2023-6539",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial inclusion",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial inclusion",
+          "Severity": "Critical",
+          "Score": 18
+        },
+        {
+          "Name": "Savings mobilization",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0518b0e0-1f8e-24b5-0f65-00b99c05a6fd",
+      "Name": "Entrepreneurs - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 22,
+      "CreatedAt": "2025-10-09T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2025-2901",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Low",
+          "Score": 27
+        },
+        {
+          "Name": "Sme lending",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "034724c5-1f00-21ee-0d8f-00e3efeca3f4",
+      "Name": "Individual borrowers - Mongu",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 64,
+      "CreatedAt": "2025-03-27T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2021-9203",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Microloans",
+          "Severity": "High",
+          "Score": 12
+        },
+        {
+          "Name": "Financial inclusion",
+          "Severity": "High",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "021b124e-1953-091c-13c2-001d9af3fc43",
+      "Name": "Individual borrowers - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 87,
+      "CreatedAt": "2025-02-11T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2020-1045",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "SME lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kasama",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "Low",
+          "Score": 43
+        },
+        {
+          "Name": "Financial inclusion",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03f931bf-07db-0873-1185-001a2c592f1d",
+      "Name": "Individual borrowers - Kasama",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 89,
+      "CreatedAt": "2025-04-05T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2026-9576",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "SME lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial inclusion",
+          "Severity": "Low",
+          "Score": 23
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "High",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f97574-0872-063a-0fa8-00a580e94f34",
+      "Name": "Individual borrowers - Kasama",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 33,
+      "CreatedAt": "2024-10-23T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2025-5036",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kasama",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "Low",
+          "Score": 10
+        },
+        {
+          "Name": "Microloans",
+          "Severity": "Medium",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01d5ac12-0643-22ca-16c6-00960bca9fb2",
+      "Name": "Entrepreneurs - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 57,
+      "CreatedAt": "2025-05-14T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2024-3767",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kasama",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "Low",
+          "Score": 33
+        },
+        {
+          "Name": "Sme lending",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0213a054-1c35-270c-1d5e-00d2fb366667",
+      "Name": "Savings groups - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 99,
+      "CreatedAt": "2025-03-24T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2020-5454",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "SME lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Critical",
+          "Score": 43
+        },
+        {
+          "Name": "Sme lending",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0533cfa3-19cd-119d-0fd7-00a6b61a5aa9",
+      "Name": "Individual borrowers - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 20,
+      "CreatedAt": "2024-08-25T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2023-1094",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kasama",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Savings mobilization",
+          "Severity": "Critical",
+          "Score": 18
+        },
+        {
+          "Name": "Sme lending",
+          "Severity": "Medium",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04f46d92-12f9-14c9-170a-00c8fa406564",
+      "Name": "Small businesses - Chipata",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 56,
+      "CreatedAt": "2024-01-20T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2021-2444",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "Medium",
+          "Score": 37
+        },
+        {
+          "Name": "Sme lending",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04bcaf40-23ee-0ccb-1b4a-0032fac27060",
+      "Name": "Entrepreneurs - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2025-06-21T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2026-7464",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "microloans",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "High",
+          "Score": 12
+        },
+        {
+          "Name": "Sme lending",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00d951cb-08b7-044b-1875-00a721cd8d10",
+      "Name": "Entrepreneurs - Chipata",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2024-07-02T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2021-8305",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Microloans",
+          "Severity": "Low",
+          "Score": 44
+        },
+        {
+          "Name": "Microloans",
+          "Severity": "High",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05b43a9e-111e-10f6-0aac-001f633bca67",
+      "Name": "Savings groups - Chipata",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 77,
+      "CreatedAt": "2025-03-19T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2022-1275",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "SME lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kasama",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Savings mobilization",
+          "Severity": "Critical",
+          "Score": 31
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02918094-1896-1854-17b2-00b365600d20",
+      "Name": "Entrepreneurs - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 47,
+      "CreatedAt": "2025-02-24T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2025-5933",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "High",
+          "Score": 10
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a3b63a-08c4-07cd-0a95-00e2145bfed2",
+      "Name": "Individual borrowers - Kasama",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 89,
+      "CreatedAt": "2024-02-16T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2020-4818",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "Critical",
+          "Score": 39
+        },
+        {
+          "Name": "Savings mobilization",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "059f0427-05e2-1aab-1fb3-0084bac99c55",
+      "Name": "Entrepreneurs - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 29,
+      "CreatedAt": "2025-01-17T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2021-2588",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "microloans",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial inclusion",
+          "Severity": "Low",
+          "Score": 12
+        },
+        {
+          "Name": "Microloans",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "053639a0-046a-098f-0c0c-006ab5a4266d",
+      "Name": "Small businesses - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2025-07-11T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2026-6090",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial inclusion",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 35
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0448ab59-0c99-0868-0610-00c2546dd5d2",
+      "Name": "Small businesses - Chipata",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 85,
+      "CreatedAt": "2024-04-13T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2025-7015",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "SME lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kasama",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Savings mobilization",
+          "Severity": "Medium",
+          "Score": 37
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01bef409-1ee4-1a8f-0aaf-001e2aca03b0",
+      "Name": "Small businesses - Mongu",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 29,
+      "CreatedAt": "2024-11-13T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2022-6994",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial inclusion",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Microloans",
+          "Severity": "Low",
+          "Score": 33
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0189613c-0a92-0a80-05a5-00882626e227",
+      "Name": "Savings groups - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 81,
+      "CreatedAt": "2025-08-18T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2021-9022",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial inclusion",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kasama",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial inclusion",
+          "Severity": "High",
+          "Score": 24
+        },
+        {
+          "Name": "Microloans",
+          "Severity": "Critical",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0587e4ff-22bf-1d67-2490-00aafd1ef00d",
+      "Name": "Entrepreneurs - Mongu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 44,
+      "CreatedAt": "2024-07-01T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2021-9890",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial inclusion",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "Medium",
+          "Score": 37
+        },
+        {
+          "Name": "Savings mobilization",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "048afc97-1e0e-0cde-1ec9-00e1f71bf6a1",
+      "Name": "Savings groups - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 45,
+      "CreatedAt": "2025-07-28T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2022-8470",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kasama",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "High",
+          "Score": 27
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "Medium",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0225f19f-0c6a-1bfd-0f9f-00a84264012b",
+      "Name": "Entrepreneurs - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 84,
+      "CreatedAt": "2025-06-06T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2022-9418",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial inclusion",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Savings mobilization",
+          "Severity": "High",
+          "Score": 29
+        },
+        {
+          "Name": "Microloans",
+          "Severity": "Medium",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02828a5a-18c8-04d1-26b1-004105ccaf0f",
+      "Name": "Savings groups - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 48,
+      "CreatedAt": "2024-09-15T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2025-7669",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "microloans",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "Medium",
+          "Score": 15
+        },
+        {
+          "Name": "Financial inclusion",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04a468a1-0497-05e8-09fa-0024d5fceed1",
+      "Name": "Savings groups - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 99,
+      "CreatedAt": "2024-06-23T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2023-7636",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "microloans",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Credit risk",
+          "Severity": "Low",
+          "Score": 27
+        },
+        {
+          "Name": "Sme lending",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "058fcad0-23dd-0641-1c10-0028cc2a5f3f",
+      "Name": "Savings groups - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 96,
+      "CreatedAt": "2023-12-14T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2022-9427",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "microloans",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kasama",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Microloans",
+          "Severity": "Low",
+          "Score": 11
+        },
+        {
+          "Name": "Financial inclusion",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03ec4209-0430-2299-0e76-00bcf21014fd",
+      "Name": "Individual borrowers - Chipata",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 86,
+      "CreatedAt": "2024-11-08T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2025-9138",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Savings mobilization",
+          "Severity": "High",
+          "Score": 10
+        },
+        {
+          "Name": "Sme lending",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02770658-1400-1691-2439-00cd99b76e80",
+      "Name": "Individual borrowers - Kasama",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 83,
+      "CreatedAt": "2024-11-23T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2023-7435",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial inclusion",
+          "Severity": "Critical",
+          "Score": 42
+        },
+        {
+          "Name": "Savings mobilization",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "041ddfb3-0b60-1dc3-1fac-008f0d464ccd",
+      "Name": "Entrepreneurs - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 88,
+      "CreatedAt": "2025-05-13T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2026-9795",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "SME lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial inclusion",
+          "Severity": "Low",
+          "Score": 38
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "High",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04875d10-18fb-1add-0617-00c5139201b9",
+      "Name": "Entrepreneurs - Chipata",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 95,
+      "CreatedAt": "2024-09-04T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2020-3187",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "credit risk",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Savings mobilization",
+          "Severity": "Critical",
+          "Score": 35
+        },
+        {
+          "Name": "Financial inclusion",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "026172de-1348-0ec8-167c-007dd9b0c51d",
+      "Name": "Savings groups - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 46,
+      "CreatedAt": "2025-10-11T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2021-7589",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "microloans",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Microloans",
+          "Severity": "Critical",
+          "Score": 11
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "013f2e70-110f-1b29-1e93-007fe5dcdb05",
+      "Name": "Individual borrowers - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 32,
+      "CreatedAt": "2024-09-29T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2023-4299",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "microloans",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kasama",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Microloans",
+          "Severity": "Low",
+          "Score": 12
+        },
+        {
+          "Name": "Microloans",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04403f7b-16c7-232c-06b8-001f184740f2",
+      "Name": "Individual borrowers - Kasama",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 96,
+      "CreatedAt": "2024-07-07T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2020-1388",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "SME lending",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "High",
+          "Score": 27
+        },
+        {
+          "Name": "Savings mobilization",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d97e89-1977-2432-185f-003f98de7e92",
+      "Name": "Small businesses - Mongu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 69,
+      "CreatedAt": "2024-09-10T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2023-3918",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "savings mobilization",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Sme lending",
+          "Severity": "Medium",
+          "Score": 21
+        },
+        {
+          "Name": "Savings mobilization",
+          "Severity": "High",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00e1b064-26d4-21da-0667-002905726632",
+      "Name": "Entrepreneurs - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 88,
+      "CreatedAt": "2025-09-24T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2020-1217",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial inclusion",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Microloans",
+          "Severity": "Critical",
+          "Score": 28
+        },
+        {
+          "Name": "Microloans",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03f378c6-22a0-202b-12ae-0019cc93a988",
+      "Name": "Savings groups - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 28,
+      "CreatedAt": "2024-06-16T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIC-2020-6719",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "microloans",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Microfinance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Savings mobilization",
+          "Severity": "Low",
+          "Score": 23
+        },
+        {
+          "Name": "Credit risk",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    }
+  ]
+}

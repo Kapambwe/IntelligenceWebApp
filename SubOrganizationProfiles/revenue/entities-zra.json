@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "0548dde4-0a4c-0631-13cf-00e775cf1dc0",
+      "Name": "Mining companies - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 39,
+      "CreatedAt": "2024-10-17T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "02f47d7b-0f14-0fd8-132e-005d023cbb87",
+      "Name": "Taxpayers - Kazungula",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 38,
+      "CreatedAt": "2024-01-28T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "022b6cef-1943-1634-0498-00aab3966387",
+      "Name": "Taxpayers - Nakonde",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 85,
+      "CreatedAt": "2025-04-03T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z"
+    },
+    {
+      "Id": "010848e6-25b1-24c8-0487-0075a140ee69",
+      "Name": "Exporters - Chirundu",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 89,
+      "CreatedAt": "2025-06-07T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "01a12efa-21f1-118b-045b-0097a0e3fc29",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 82,
+      "CreatedAt": "2025-03-07T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "03c52a96-0f35-204f-17e7-00516d3d99e2",
+      "Name": "Mining companies - Chirundu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 80,
+      "CreatedAt": "2024-07-23T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "05f4a2b6-2212-23bf-089d-007493892dfe",
+      "Name": "Exporters - Kazungula",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 62,
+      "CreatedAt": "2024-07-09T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "059b488d-2690-11e1-1ff3-004304aa69c9",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 65,
+      "CreatedAt": "2024-09-09T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "03861a69-1db9-1288-0418-001ba8a1e155",
+      "Name": "Mining companies - Kazungula",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 72,
+      "CreatedAt": "2024-07-14T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "0397780e-0f41-1052-1169-00505413a4c5",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 94,
+      "CreatedAt": "2025-07-14T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "051e7f95-1b89-1407-0e69-007a5d60e7c1",
+      "Name": "Mining companies - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 69,
+      "CreatedAt": "2024-03-01T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "02a715cf-1332-10ac-11e8-008401f07e68",
+      "Name": "Exporters - Chirundu",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2024-10-14T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "01f5230e-0686-100f-1e79-003561f4c8f3",
+      "Name": "Taxpayers - Chirundu",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 52,
+      "CreatedAt": "2024-01-29T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "05101c5f-1032-165e-1e8f-00a48c10c25f",
+      "Name": "Taxpayers - Chirundu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 67,
+      "CreatedAt": "2025-09-21T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "01ed92fe-24d2-23a2-0f50-006545bb4d16",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 66,
+      "CreatedAt": "2025-01-20T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "01854132-18d9-0bd3-2170-008bc4d1ff31",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 74,
+      "CreatedAt": "2023-12-31T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "03151979-1630-07ed-14ad-001b2b6339e7",
+      "Name": "Importers - Nakonde",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2024-11-16T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z"
+    },
+    {
+      "Id": "0220471f-1c1f-07ff-232a-0051250d0662",
+      "Name": "Mining companies - Kazungula",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 91,
+      "CreatedAt": "2024-01-13T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "03e08c5b-0c17-0bbf-0f0e-0052ea5ea23d",
+      "Name": "Importers - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 74,
+      "CreatedAt": "2024-10-24T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "01fc8c9a-1810-2282-1e83-007ac65376c2",
+      "Name": "Importers - Nakonde",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 71,
+      "CreatedAt": "2024-09-10T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "02f6227b-169a-1024-0bfc-0029c0c60efc",
+      "Name": "Importers - Chirundu",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 91,
+      "CreatedAt": "2025-07-23T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "04caf2f1-2021-12bf-1f0c-003f8dbb8c38",
+      "Name": "Mining companies - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 66,
+      "CreatedAt": "2025-02-28T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "02bd3e5c-179e-2023-1adf-0051b068c89d",
+      "Name": "Mining companies - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2025-03-05T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "05118ea0-1af5-19bc-1537-00b6f28c8fd4",
+      "Name": "Exporters - Nakonde",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 89,
+      "CreatedAt": "2024-08-18T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "0428d413-1878-13a1-0c54-00d6f66b3fd0",
+      "Name": "Taxpayers - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 40,
+      "CreatedAt": "2024-07-01T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "01caebf6-06ad-0e66-1a8b-00806761d63a",
+      "Name": "Exporters - Nakonde",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 39,
+      "CreatedAt": "2024-10-27T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "00f3b6d2-0cad-06c1-08e4-0026c182212a",
+      "Name": "Taxpayers - Nakonde",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 61,
+      "CreatedAt": "2023-12-25T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "012fe7e7-0ac4-1bf2-1b7b-004d817622ac",
+      "Name": "Importers - Chirundu",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 58,
+      "CreatedAt": "2025-04-26T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "031c4316-1424-22a6-1b15-00af0e5a25b5",
+      "Name": "Exporters - Nakonde",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2025-10-04T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "047baa0c-210b-0f65-0711-00da10309803",
+      "Name": "Exporters - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 58,
+      "CreatedAt": "2025-01-16T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z"
+    },
+    {
+      "Id": "03661113-1bf9-21de-1cee-00bbbef31266",
+      "Name": "Mining companies - Kazungula",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 72,
+      "CreatedAt": "2023-11-24T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "020a69d5-178d-0f55-0e49-009286dbb965",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 75,
+      "CreatedAt": "2024-04-29T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "03d2297b-243b-0ea3-098f-00dc01f9b537",
+      "Name": "Taxpayers - Kazungula",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 46,
+      "CreatedAt": "2025-01-26T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "0225c3a4-081b-091b-0ef2-00bd072f7b4b",
+      "Name": "Mining companies - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 26,
+      "CreatedAt": "2025-01-17T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "058b82ce-2219-0fea-0f4d-00323bc98f8c",
+      "Name": "Exporters - Nakonde",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 20,
+      "CreatedAt": "2023-11-26T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z"
+    },
+    {
+      "Id": "00d21ca6-16b2-1424-0cc2-007ee7eb844c",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 73,
+      "CreatedAt": "2024-04-22T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z"
+    },
+    {
+      "Id": "057393f4-2535-0545-1255-00483aeb7cda",
+      "Name": "Importers - Kazungula",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 76,
+      "CreatedAt": "2024-10-04T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z"
+    },
+    {
+      "Id": "05b5b2dd-185d-04f0-11bc-007476805e91",
+      "Name": "Importers - Kazungula",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 45,
+      "CreatedAt": "2024-07-31T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "00ab5dba-2657-076f-12ce-00a806851b40",
+      "Name": "Taxpayers - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 55,
+      "CreatedAt": "2024-08-24T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "02771c00-1029-25ae-2115-00bdf7b299e3",
+      "Name": "Taxpayers - Nakonde",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 70,
+      "CreatedAt": "2024-07-19T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "05529e58-1644-261b-0610-001e47077499",
+      "Name": "Importers - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 63,
+      "CreatedAt": "2025-03-21T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "041c8d1c-26de-1bc5-055c-00832f71a230",
+      "Name": "Importers - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2024-05-28T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "0429cb77-08a7-2185-0de2-00ccd34e04fe",
+      "Name": "Exporters - Kazungula",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 72,
+      "CreatedAt": "2024-09-05T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "037add83-14af-09ba-0eea-001efb560a8f",
+      "Name": "Mining companies - Kazungula",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 93,
+      "CreatedAt": "2025-04-14T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "0154eae3-0a82-0d5d-0614-003ceffdfe91",
+      "Name": "Taxpayers - Nakonde",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 57,
+      "CreatedAt": "2024-07-25T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z"
+    },
+    {
+      "Id": "03c86e88-2472-1d7a-1a90-001906153253",
+      "Name": "Importers - Nakonde",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 62,
+      "CreatedAt": "2025-08-22T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z"
+    },
+    {
+      "Id": "020a1650-17e3-0f4b-1299-006001cc080f",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 64,
+      "CreatedAt": "2025-08-04T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "05ddf1da-1d88-1320-2231-008a995dd382",
+      "Name": "Exporters - Chirundu",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 82,
+      "CreatedAt": "2024-07-06T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "02231173-1e10-16be-21a3-00a626d10778",
+      "Name": "Importers - Chirundu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 65,
+      "CreatedAt": "2024-05-01T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "0505b641-1d9c-2355-0cbd-004d7933f8b4",
+      "Name": "Mining companies - Chirundu",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 92,
+      "CreatedAt": "2024-12-23T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "0548dde4-0a4c-0631-13cf-00e775cf1dc0",
+      "Name": "Mining companies - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 39,
+      "CreatedAt": "2024-10-17T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-6453",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax compliance",
+          "Severity": "Low",
+          "Score": 27
+        },
+        {
+          "Name": "Vat fraud",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f47d7b-0f14-0fd8-132e-005d023cbb87",
+      "Name": "Taxpayers - Kazungula",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 38,
+      "CreatedAt": "2024-01-28T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-2159",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Nakonde",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Vat fraud",
+          "Severity": "High",
+          "Score": 42
+        },
+        {
+          "Name": "Vat fraud",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "022b6cef-1943-1634-0498-00aab3966387",
+      "Name": "Taxpayers - Nakonde",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 85,
+      "CreatedAt": "2025-04-03T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-5532",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "customs enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transfer pricing",
+          "Severity": "Medium",
+          "Score": 36
+        },
+        {
+          "Name": "Vat fraud",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "010848e6-25b1-24c8-0487-0075a140ee69",
+      "Name": "Exporters - Chirundu",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 89,
+      "CreatedAt": "2025-06-07T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-4663",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kazungula",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Vat fraud",
+          "Severity": "High",
+          "Score": 41
+        },
+        {
+          "Name": "Revenue collection",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01a12efa-21f1-118b-045b-0097a0e3fc29",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 82,
+      "CreatedAt": "2025-03-07T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-7522",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kazungula",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Revenue collection",
+          "Severity": "Low",
+          "Score": 17
+        },
+        {
+          "Name": "Customs enforcement",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03c52a96-0f35-204f-17e7-00516d3d99e2",
+      "Name": "Mining companies - Chirundu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 80,
+      "CreatedAt": "2024-07-23T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-4827",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transfer pricing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kazungula",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Vat fraud",
+          "Severity": "Low",
+          "Score": 29
+        },
+        {
+          "Name": "Vat fraud",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05f4a2b6-2212-23bf-089d-007493892dfe",
+      "Name": "Exporters - Kazungula",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 62,
+      "CreatedAt": "2024-07-09T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-3240",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kazungula",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Customs enforcement",
+          "Severity": "Medium",
+          "Score": 28
+        },
+        {
+          "Name": "Transfer pricing",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "059b488d-2690-11e1-1ff3-004304aa69c9",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 65,
+      "CreatedAt": "2024-09-09T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-5279",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Vat fraud",
+          "Severity": "Critical",
+          "Score": 35
+        },
+        {
+          "Name": "Vat fraud",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03861a69-1db9-1288-0418-001ba8a1e155",
+      "Name": "Mining companies - Kazungula",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 72,
+      "CreatedAt": "2024-07-14T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-4603",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "customs enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Revenue collection",
+          "Severity": "High",
+          "Score": 44
+        },
+        {
+          "Name": "Transfer pricing",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0397780e-0f41-1052-1169-00505413a4c5",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 94,
+      "CreatedAt": "2025-07-14T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-4102",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Vat fraud",
+          "Severity": "Medium",
+          "Score": 28
+        },
+        {
+          "Name": "Vat fraud",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "051e7f95-1b89-1407-0e69-007a5d60e7c1",
+      "Name": "Mining companies - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 69,
+      "CreatedAt": "2024-03-01T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-4052",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transfer pricing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Vat fraud",
+          "Severity": "Critical",
+          "Score": 28
+        },
+        {
+          "Name": "Transfer pricing",
+          "Severity": "High",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02a715cf-1332-10ac-11e8-008401f07e68",
+      "Name": "Exporters - Chirundu",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2024-10-14T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-8994",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "VAT fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax compliance",
+          "Severity": "High",
+          "Score": 21
+        },
+        {
+          "Name": "Revenue collection",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01f5230e-0686-100f-1e79-003561f4c8f3",
+      "Name": "Taxpayers - Chirundu",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 52,
+      "CreatedAt": "2024-01-29T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-2542",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transfer pricing",
+          "Severity": "Medium",
+          "Score": 45
+        },
+        {
+          "Name": "Tax compliance",
+          "Severity": "Medium",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05101c5f-1032-165e-1e8f-00a48c10c25f",
+      "Name": "Taxpayers - Chirundu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 67,
+      "CreatedAt": "2025-09-21T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-1973",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "customs enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Vat fraud",
+          "Severity": "Medium",
+          "Score": 30
+        },
+        {
+          "Name": "Vat fraud",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01ed92fe-24d2-23a2-0f50-006545bb4d16",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 66,
+      "CreatedAt": "2025-01-20T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-1350",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "customs enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Revenue collection",
+          "Severity": "Low",
+          "Score": 21
+        },
+        {
+          "Name": "Vat fraud",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01854132-18d9-0bd3-2170-008bc4d1ff31",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 74,
+      "CreatedAt": "2023-12-31T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-6407",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transfer pricing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Nakonde",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Customs enforcement",
+          "Severity": "High",
+          "Score": 39
+        },
+        {
+          "Name": "Transfer pricing",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03151979-1630-07ed-14ad-001b2b6339e7",
+      "Name": "Importers - Nakonde",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2024-11-16T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-4255",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Customs enforcement",
+          "Severity": "Critical",
+          "Score": 23
+        },
+        {
+          "Name": "Customs enforcement",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0220471f-1c1f-07ff-232a-0051250d0662",
+      "Name": "Mining companies - Kazungula",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 91,
+      "CreatedAt": "2024-01-13T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-8865",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "VAT fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Nakonde",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Vat fraud",
+          "Severity": "High",
+          "Score": 12
+        },
+        {
+          "Name": "Revenue collection",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03e08c5b-0c17-0bbf-0f0e-0052ea5ea23d",
+      "Name": "Importers - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 74,
+      "CreatedAt": "2024-10-24T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-3660",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Customs enforcement",
+          "Severity": "Critical",
+          "Score": 26
+        },
+        {
+          "Name": "Customs enforcement",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01fc8c9a-1810-2282-1e83-007ac65376c2",
+      "Name": "Importers - Nakonde",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 71,
+      "CreatedAt": "2024-09-10T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-2223",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Vat fraud",
+          "Severity": "Low",
+          "Score": 25
+        },
+        {
+          "Name": "Revenue collection",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f6227b-169a-1024-0bfc-0029c0c60efc",
+      "Name": "Importers - Chirundu",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 91,
+      "CreatedAt": "2025-07-23T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-1642",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Customs enforcement",
+          "Severity": "Medium",
+          "Score": 10
+        },
+        {
+          "Name": "Customs enforcement",
+          "Severity": "High",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04caf2f1-2021-12bf-1f0c-003f8dbb8c38",
+      "Name": "Mining companies - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 66,
+      "CreatedAt": "2025-02-28T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-5675",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kazungula",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Customs enforcement",
+          "Severity": "High",
+          "Score": 20
+        },
+        {
+          "Name": "Tax compliance",
+          "Severity": "High",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02bd3e5c-179e-2023-1adf-0051b068c89d",
+      "Name": "Mining companies - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2025-03-05T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-2293",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "customs enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Vat fraud",
+          "Severity": "Low",
+          "Score": 44
+        },
+        {
+          "Name": "Transfer pricing",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05118ea0-1af5-19bc-1537-00b6f28c8fd4",
+      "Name": "Exporters - Nakonde",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 89,
+      "CreatedAt": "2024-08-18T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-8532",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "VAT fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax compliance",
+          "Severity": "Low",
+          "Score": 45
+        },
+        {
+          "Name": "Tax compliance",
+          "Severity": "Medium",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0428d413-1878-13a1-0c54-00d6f66b3fd0",
+      "Name": "Taxpayers - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 40,
+      "CreatedAt": "2024-07-01T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-7158",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "customs enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kazungula",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transfer pricing",
+          "Severity": "High",
+          "Score": 36
+        },
+        {
+          "Name": "Customs enforcement",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01caebf6-06ad-0e66-1a8b-00806761d63a",
+      "Name": "Exporters - Nakonde",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 39,
+      "CreatedAt": "2024-10-27T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-7822",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kazungula",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transfer pricing",
+          "Severity": "High",
+          "Score": 23
+        },
+        {
+          "Name": "Revenue collection",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00f3b6d2-0cad-06c1-08e4-0026c182212a",
+      "Name": "Taxpayers - Nakonde",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 61,
+      "CreatedAt": "2023-12-25T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-9362",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax compliance",
+          "Severity": "Critical",
+          "Score": 12
+        },
+        {
+          "Name": "Customs enforcement",
+          "Severity": "Medium",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "012fe7e7-0ac4-1bf2-1b7b-004d817622ac",
+      "Name": "Importers - Chirundu",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 58,
+      "CreatedAt": "2025-04-26T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-3393",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Revenue collection",
+          "Severity": "High",
+          "Score": 24
+        },
+        {
+          "Name": "Transfer pricing",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "031c4316-1424-22a6-1b15-00af0e5a25b5",
+      "Name": "Exporters - Nakonde",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2025-10-04T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-5914",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transfer pricing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kazungula",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Customs enforcement",
+          "Severity": "Critical",
+          "Score": 11
+        },
+        {
+          "Name": "Revenue collection",
+          "Severity": "Medium",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "047baa0c-210b-0f65-0711-00da10309803",
+      "Name": "Exporters - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 58,
+      "CreatedAt": "2025-01-16T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-3070",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transfer pricing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transfer pricing",
+          "Severity": "Critical",
+          "Score": 36
+        },
+        {
+          "Name": "Revenue collection",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03661113-1bf9-21de-1cee-00bbbef31266",
+      "Name": "Mining companies - Kazungula",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 72,
+      "CreatedAt": "2023-11-24T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-6027",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Revenue collection",
+          "Severity": "Medium",
+          "Score": 22
+        },
+        {
+          "Name": "Revenue collection",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "020a69d5-178d-0f55-0e49-009286dbb965",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 75,
+      "CreatedAt": "2024-04-29T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-3003",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kazungula",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transfer pricing",
+          "Severity": "Medium",
+          "Score": 37
+        },
+        {
+          "Name": "Transfer pricing",
+          "Severity": "High",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03d2297b-243b-0ea3-098f-00dc01f9b537",
+      "Name": "Taxpayers - Kazungula",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 46,
+      "CreatedAt": "2025-01-26T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-4052",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "customs enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax compliance",
+          "Severity": "Critical",
+          "Score": 20
+        },
+        {
+          "Name": "Customs enforcement",
+          "Severity": "High",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0225c3a4-081b-091b-0ef2-00bd072f7b4b",
+      "Name": "Mining companies - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 26,
+      "CreatedAt": "2025-01-17T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-6361",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "customs enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax compliance",
+          "Severity": "Low",
+          "Score": 30
+        },
+        {
+          "Name": "Revenue collection",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "058b82ce-2219-0fea-0f4d-00323bc98f8c",
+      "Name": "Exporters - Nakonde",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 20,
+      "CreatedAt": "2023-11-26T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-8139",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kazungula",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Customs enforcement",
+          "Severity": "Critical",
+          "Score": 15
+        },
+        {
+          "Name": "Vat fraud",
+          "Severity": "Medium",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00d21ca6-16b2-1424-0cc2-007ee7eb844c",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 73,
+      "CreatedAt": "2024-04-22T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-9057",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "customs enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kazungula",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Revenue collection",
+          "Severity": "High",
+          "Score": 13
+        },
+        {
+          "Name": "Tax compliance",
+          "Severity": "High",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "057393f4-2535-0545-1255-00483aeb7cda",
+      "Name": "Importers - Kazungula",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 76,
+      "CreatedAt": "2024-10-04T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-8592",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Vat fraud",
+          "Severity": "Low",
+          "Score": 21
+        },
+        {
+          "Name": "Vat fraud",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05b5b2dd-185d-04f0-11bc-007476805e91",
+      "Name": "Importers - Kazungula",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 45,
+      "CreatedAt": "2024-07-31T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-6253",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "VAT fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Vat fraud",
+          "Severity": "Medium",
+          "Score": 17
+        },
+        {
+          "Name": "Tax compliance",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00ab5dba-2657-076f-12ce-00a806851b40",
+      "Name": "Taxpayers - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 55,
+      "CreatedAt": "2024-08-24T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-2255",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "revenue collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transfer pricing",
+          "Severity": "High",
+          "Score": 33
+        },
+        {
+          "Name": "Revenue collection",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02771c00-1029-25ae-2115-00bdf7b299e3",
+      "Name": "Taxpayers - Nakonde",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 70,
+      "CreatedAt": "2024-07-19T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-1682",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "customs enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Customs enforcement",
+          "Severity": "Low",
+          "Score": 19
+        },
+        {
+          "Name": "Tax compliance",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05529e58-1644-261b-0610-001e47077499",
+      "Name": "Importers - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 63,
+      "CreatedAt": "2025-03-21T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-4473",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "VAT fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kazungula",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Revenue collection",
+          "Severity": "Medium",
+          "Score": 28
+        },
+        {
+          "Name": "Revenue collection",
+          "Severity": "Critical",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "041c8d1c-26de-1bc5-055c-00832f71a230",
+      "Name": "Importers - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2024-05-28T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-1432",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Revenue collection",
+          "Severity": "Critical",
+          "Score": 22
+        },
+        {
+          "Name": "Vat fraud",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0429cb77-08a7-2185-0de2-00ccd34e04fe",
+      "Name": "Exporters - Kazungula",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 72,
+      "CreatedAt": "2024-09-05T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-3700",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transfer pricing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Vat fraud",
+          "Severity": "Medium",
+          "Score": 35
+        },
+        {
+          "Name": "Customs enforcement",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "037add83-14af-09ba-0eea-001efb560a8f",
+      "Name": "Mining companies - Kazungula",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 93,
+      "CreatedAt": "2025-04-14T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-6420",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "VAT fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transfer pricing",
+          "Severity": "Critical",
+          "Score": 33
+        },
+        {
+          "Name": "Revenue collection",
+          "Severity": "Critical",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0154eae3-0a82-0d5d-0614-003ceffdfe91",
+      "Name": "Taxpayers - Nakonde",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 57,
+      "CreatedAt": "2024-07-25T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-2262",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transfer pricing",
+          "Severity": "Critical",
+          "Score": 13
+        },
+        {
+          "Name": "Transfer pricing",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03c86e88-2472-1d7a-1a90-001906153253",
+      "Name": "Importers - Nakonde",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 62,
+      "CreatedAt": "2025-08-22T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-4513",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transfer pricing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transfer pricing",
+          "Severity": "Medium",
+          "Score": 25
+        },
+        {
+          "Name": "Tax compliance",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "020a1650-17e3-0f4b-1299-006001cc080f",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 64,
+      "CreatedAt": "2025-08-04T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-5126",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "customs enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax compliance",
+          "Severity": "Medium",
+          "Score": 15
+        },
+        {
+          "Name": "Vat fraud",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ddf1da-1d88-1320-2231-008a995dd382",
+      "Name": "Exporters - Chirundu",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 82,
+      "CreatedAt": "2024-07-06T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-6688",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax compliance",
+          "Severity": "Low",
+          "Score": 12
+        },
+        {
+          "Name": "Transfer pricing",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02231173-1e10-16be-21a3-00a626d10778",
+      "Name": "Importers - Chirundu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 65,
+      "CreatedAt": "2024-05-01T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-4049",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "customs enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Transfer pricing",
+          "Severity": "Critical",
+          "Score": 44
+        },
+        {
+          "Name": "Revenue collection",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0505b641-1d9c-2355-0cbd-004d7933f8b4",
+      "Name": "Mining companies - Chirundu",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 92,
+      "CreatedAt": "2024-12-23T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-6664",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "transfer pricing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kazungula",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Revenue Authority",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax compliance",
+          "Severity": "Medium",
+          "Score": 41
+        },
+        {
+          "Name": "Tax compliance",
+          "Severity": "High",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Logs": [
+    {
+      "Id": "b5d32711-3bf7-4c6a-966f-6f838537e9d5",
+      "Timestamp": "2026-01-11T14:08:00Z",
+      "EventType": "InvestigationUpdate",
+      "User": "ftemba@zra.gov.zm",
+      "Action": "Update",
+      "EntityType": "Case",
+      "EntityId": "9bcef851-e607-4d74-b7f6-2384f8b72b27",
+      "IPAddress": "197.255.231.220",
+      "IpAddress": "197.255.231.220",
+      "Details": "Recorded arrest report for Spax Mining Limited owners after VAT refund discrepancy review.",
+      "Status": "Success"
+    },
+    {
+      "Id": "d1c6cd8b-7ace-4f5f-a7d0-a7ce9d7dda21",
+      "Timestamp": "2026-01-09T16:11:00Z",
+      "EventType": "ReportExport",
+      "User": "kgowon@zra.gov.zm",
+      "Action": "Export",
+      "EntityType": "Report",
+      "EntityId": "037dfa2e-e1bf-49cf-9f0c-9dd94c42f1d9",
+      "IPAddress": "196.45.78.19",
+      "IpAddress": "196.45.78.19",
+      "Details": "Shared Kitwe transfer-pricing digest covering Chinese Commercial Trading Centre Limited.",
+      "Status": "Success"
+    },
+    {
+      "Id": "9d8b9a5c-3f88-48f0-9c7d-5e7a925cd9b3",
+      "Timestamp": "2026-01-08T10:55:00Z",
+      "EventType": "EntityUpdate",
+      "User": "mbumba@zra.gov.zm",
+      "Action": "Recalculate",
+      "EntityType": "Entity",
+      "EntityId": "1f49bec0-3b9c-4157-9780-031b2c6c7256",
+      "IPAddress": "197.255.231.112",
+      "IpAddress": "197.255.231.112",
+      "Details": "Updated risk score for Liangyung Company Limited to reflect new false invoicing evidence.",
+      "Status": "Success"
+    },
+    {
+      "Id": "2120fdf6-be8a-4cc0-9fdd-5d99d2b3015f",
+      "Timestamp": "2026-01-07T09:20:00Z",
+      "EventType": "PrivilegeGrant",
+      "User": "slekala@zra.gov.zm",
+      "Action": "Grant",
+      "EntityType": "User",
+      "EntityId": "e3c3d6f0-7f3f-4dd1-b25a-c0a9dfabf5c1",
+      "IPAddress": "196.33.254.67",
+      "IpAddress": "196.33.254.67",
+      "Details": "Granted Mining Compliance Unit temporary access to the Profit Shifting dashboard.",
+      "Status": "Success"
+    }
+  ],
+  "Reports": [
+    {
+      "Id": "c2786af9-170a-4c35-9c3c-9c5f6cd4f77b",
+      "Name": "Copperbelt Transfer Pricing Snapshot",
+      "Description": "Daily AI narrative of transfer pricing randomness across Kitwe and Ndola miners.",
+      "GeneratedAt": "2026-01-09T06:50:00Z",
+      "Status": "Completed"
+    },
+    {
+      "Id": "4d685ec3-6f05-4c28-baf3-24fcb8efb552",
+      "Name": "False Invoice Takedown",
+      "Description": "Summaries of VAT fraud plea deals, penalties, and asset seizures across investigated firms.",
+      "GeneratedAt": "2026-01-05T13:30:00Z",
+      "Status": "Completed"
+    }
+  ],
+  "Statistics": {
+    "TotalEvents": 142,
+    "TodayEvents": 6,
+    "CriticalEvents": 14,
+    "FailedLogins": 0
+  }
+}

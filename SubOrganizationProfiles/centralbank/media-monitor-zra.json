@@ -1,0 +1,1541 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "02e28e3f-04d2-1439-1b96-00ba973f53d0",
+      "Title": "Bank of Zambia policy implementation reserve management",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/2622",
+      "PublishedDate": "2025-11-16T17:30:30Z",
+      "PublishedAt": "2025-11-23T17:30:30Z",
+      "DiscoveredAt": "2025-12-01T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Policy implementation reveals monetary policy in Ndola",
+      "RelatedEntities": [
+        "Microfinance institutions - Livingstone"
+      ],
+      "Entities": [
+        "Microfinance institutions - Livingstone"
+      ],
+      "Keywords": [
+        "monetary policy",
+        "banking supervision",
+        "reserve management"
+      ],
+      "RelevanceScore": 65.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04fca3d5-1717-1d6f-0c44-009516ee068b",
+      "Title": "Bank of Zambia licensing financial stability",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/1601",
+      "PublishedDate": "2025-11-12T17:30:30Z",
+      "PublishedAt": "2025-12-19T17:30:30Z",
+      "DiscoveredAt": "2025-12-29T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Market intervention reveals monetary policy in Livingstone",
+      "RelatedEntities": [
+        "Microfinance institutions - Ndola"
+      ],
+      "Entities": [
+        "Microfinance institutions - Ndola"
+      ],
+      "Keywords": [
+        "reserve management",
+        "monetary policy",
+        "banking supervision"
+      ],
+      "RelevanceScore": 72.8,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "017d9e3d-0991-11c1-116e-00d4c23fd07b",
+      "Title": "Bank of Zambia policy implementation financial stability",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/9398",
+      "PublishedDate": "2025-10-31T17:30:30Z",
+      "PublishedAt": "2025-12-12T17:30:30Z",
+      "DiscoveredAt": "2025-10-27T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Market intervention reveals foreign exchange in Kitwe",
+      "RelatedEntities": [
+        "Financial institutions - Lusaka"
+      ],
+      "Entities": [
+        "Financial institutions - Lusaka"
+      ],
+      "Keywords": [
+        "banking supervision",
+        "financial stability",
+        "monetary policy"
+      ],
+      "RelevanceScore": 91.8,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04f8d9ba-1c75-25ca-18c0-0098968984d6",
+      "Title": "Bank of Zambia policy implementation reserve management",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/5685",
+      "PublishedDate": "2025-12-25T17:30:30Z",
+      "PublishedAt": "2025-11-11T17:30:30Z",
+      "DiscoveredAt": "2026-01-04T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Policy implementation reveals reserve management in Ndola",
+      "RelatedEntities": [
+        "Bureau de change - Ndola"
+      ],
+      "Entities": [
+        "Bureau de change - Ndola"
+      ],
+      "Keywords": [
+        "reserve management",
+        "foreign exchange",
+        "financial stability"
+      ],
+      "RelevanceScore": 91.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04b1379d-24c8-091a-152a-001fc434a646",
+      "Title": "Bank of Zambia licensing financial stability",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/9452",
+      "PublishedDate": "2025-12-24T17:30:30Z",
+      "PublishedAt": "2025-12-07T17:30:30Z",
+      "DiscoveredAt": "2025-11-19T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Policy implementation reveals financial stability in Kabwe",
+      "RelatedEntities": [
+        "Microfinance institutions - Ndola"
+      ],
+      "Entities": [
+        "Microfinance institutions - Ndola"
+      ],
+      "Keywords": [
+        "foreign exchange",
+        "banking supervision",
+        "financial stability"
+      ],
+      "RelevanceScore": 71.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01e5015b-101f-15e6-18a2-00a294cb9bc2",
+      "Title": "Bank of Zambia licensing foreign exchange",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/4529",
+      "PublishedDate": "2025-11-13T17:30:30Z",
+      "PublishedAt": "2025-12-11T17:30:30Z",
+      "DiscoveredAt": "2025-12-11T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Market intervention reveals financial stability in Lusaka",
+      "RelatedEntities": [
+        "Bureau de change - Lusaka"
+      ],
+      "Entities": [
+        "Bureau de change - Lusaka"
+      ],
+      "Keywords": [
+        "monetary policy",
+        "reserve management",
+        "banking supervision"
+      ],
+      "RelevanceScore": 76.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0381744c-18e0-0c80-07db-00da205ecd46",
+      "Title": "Bank of Zambia licensing financial stability",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/7415",
+      "PublishedDate": "2025-11-01T17:30:30Z",
+      "PublishedAt": "2025-11-15T17:30:30Z",
+      "DiscoveredAt": "2025-11-11T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Market intervention reveals foreign exchange in Kabwe",
+      "RelatedEntities": [
+        "Financial institutions - Ndola"
+      ],
+      "Entities": [
+        "Financial institutions - Ndola"
+      ],
+      "Keywords": [
+        "financial stability",
+        "foreign exchange",
+        "banking supervision"
+      ],
+      "RelevanceScore": 88.7,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "054573c1-0421-068e-1744-003881663e82",
+      "Title": "Bank of Zambia market intervention monetary policy",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/7178",
+      "PublishedDate": "2025-12-12T17:30:30Z",
+      "PublishedAt": "2025-11-24T17:30:30Z",
+      "DiscoveredAt": "2025-12-01T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Monetary regulation reveals monetary policy in Kabwe",
+      "RelatedEntities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Entities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Keywords": [
+        "banking supervision",
+        "monetary policy",
+        "foreign exchange"
+      ],
+      "RelevanceScore": 86.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0328ec80-1349-0cbf-12a2-00c278a58420",
+      "Title": "Bank of Zambia licensing monetary policy",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/6762",
+      "PublishedDate": "2026-01-16T17:30:30Z",
+      "PublishedAt": "2026-01-05T17:30:30Z",
+      "DiscoveredAt": "2025-11-06T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Supervision reveals financial stability in Lusaka",
+      "RelatedEntities": [
+        "Financial institutions - Lusaka"
+      ],
+      "Entities": [
+        "Financial institutions - Lusaka"
+      ],
+      "Keywords": [
+        "monetary policy",
+        "financial stability",
+        "banking supervision"
+      ],
+      "RelevanceScore": 87.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01a82534-17cc-0fe0-14bb-0099b6ab3c89",
+      "Title": "Bank of Zambia policy implementation monetary policy",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/3723",
+      "PublishedDate": "2025-12-08T17:30:30Z",
+      "PublishedAt": "2025-11-22T17:30:30Z",
+      "DiscoveredAt": "2025-11-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Policy implementation reveals financial stability in Livingstone",
+      "RelatedEntities": [
+        "Commercial banks - Kitwe"
+      ],
+      "Entities": [
+        "Commercial banks - Kitwe"
+      ],
+      "Keywords": [
+        "financial stability",
+        "foreign exchange",
+        "monetary policy"
+      ],
+      "RelevanceScore": 71.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00afe0be-1081-0e96-0517-00c7446328c1",
+      "Title": "Bank of Zambia market intervention monetary policy",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/9460",
+      "PublishedDate": "2025-11-24T17:30:30Z",
+      "PublishedAt": "2025-11-02T17:30:30Z",
+      "DiscoveredAt": "2025-10-30T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Monetary regulation reveals banking supervision in Livingstone",
+      "RelatedEntities": [
+        "Microfinance institutions - Livingstone"
+      ],
+      "Entities": [
+        "Microfinance institutions - Livingstone"
+      ],
+      "Keywords": [
+        "banking supervision",
+        "foreign exchange",
+        "reserve management"
+      ],
+      "RelevanceScore": 76.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "014ab17d-0fa2-1c58-166b-00c734ae29bd",
+      "Title": "Bank of Zambia policy implementation foreign exchange",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/6965",
+      "PublishedDate": "2025-10-29T17:30:30Z",
+      "PublishedAt": "2025-11-01T17:30:30Z",
+      "DiscoveredAt": "2025-12-10T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Policy implementation reveals reserve management in Livingstone",
+      "RelatedEntities": [
+        "Commercial banks - Lusaka"
+      ],
+      "Entities": [
+        "Commercial banks - Lusaka"
+      ],
+      "Keywords": [
+        "monetary policy",
+        "reserve management",
+        "financial stability"
+      ],
+      "RelevanceScore": 85.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00b64060-116e-14eb-1615-00754909dffe",
+      "Title": "Bank of Zambia policy implementation foreign exchange",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/9583",
+      "PublishedDate": "2025-12-25T17:30:30Z",
+      "PublishedAt": "2025-12-28T17:30:30Z",
+      "DiscoveredAt": "2025-10-23T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Market intervention reveals financial stability in Ndola",
+      "RelatedEntities": [
+        "Commercial banks - Kitwe"
+      ],
+      "Entities": [
+        "Commercial banks - Kitwe"
+      ],
+      "Keywords": [
+        "reserve management",
+        "monetary policy",
+        "banking supervision"
+      ],
+      "RelevanceScore": 69.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01555f2a-1795-1c31-163d-0025bddc36bb",
+      "Title": "Bank of Zambia monetary regulation reserve management",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/1809",
+      "PublishedDate": "2026-01-02T17:30:30Z",
+      "PublishedAt": "2025-11-18T17:30:30Z",
+      "DiscoveredAt": "2025-10-22T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Supervision reveals reserve management in Lusaka",
+      "RelatedEntities": [
+        "Commercial banks - Livingstone"
+      ],
+      "Entities": [
+        "Commercial banks - Livingstone"
+      ],
+      "Keywords": [
+        "monetary policy",
+        "reserve management",
+        "foreign exchange"
+      ],
+      "RelevanceScore": 63.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "015ebe8c-13ea-1073-1348-00d47ce6e386",
+      "Title": "Bank of Zambia policy implementation reserve management",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/3360",
+      "PublishedDate": "2025-11-23T17:30:30Z",
+      "PublishedAt": "2025-11-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-01T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Licensing reveals reserve management in Livingstone",
+      "RelatedEntities": [
+        "Microfinance institutions - Ndola"
+      ],
+      "Entities": [
+        "Microfinance institutions - Ndola"
+      ],
+      "Keywords": [
+        "banking supervision",
+        "financial stability",
+        "foreign exchange"
+      ],
+      "RelevanceScore": 88.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0289ebd7-258d-1142-2663-0065a24857cc",
+      "Title": "Bank of Zambia licensing banking supervision",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/3916",
+      "PublishedDate": "2025-10-22T17:30:30Z",
+      "PublishedAt": "2025-12-22T17:30:30Z",
+      "DiscoveredAt": "2025-12-25T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Supervision reveals reserve management in Ndola",
+      "RelatedEntities": [
+        "Microfinance institutions - Ndola"
+      ],
+      "Entities": [
+        "Microfinance institutions - Ndola"
+      ],
+      "Keywords": [
+        "reserve management",
+        "financial stability",
+        "foreign exchange"
+      ],
+      "RelevanceScore": 78.0,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01b4aa27-253d-0b47-203c-00351003d805",
+      "Title": "Bank of Zambia monetary regulation financial stability",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/6388",
+      "PublishedDate": "2025-11-30T17:30:30Z",
+      "PublishedAt": "2025-12-16T17:30:30Z",
+      "DiscoveredAt": "2025-11-02T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Market intervention reveals monetary policy in Livingstone",
+      "RelatedEntities": [
+        "Microfinance institutions - Ndola"
+      ],
+      "Entities": [
+        "Microfinance institutions - Ndola"
+      ],
+      "Keywords": [
+        "reserve management",
+        "foreign exchange",
+        "financial stability"
+      ],
+      "RelevanceScore": 75.7,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03cf0f7e-09e1-20d2-2216-00d1c631af95",
+      "Title": "Bank of Zambia licensing monetary policy",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/8744",
+      "PublishedDate": "2025-11-13T17:30:30Z",
+      "PublishedAt": "2025-12-27T17:30:30Z",
+      "DiscoveredAt": "2026-01-15T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Supervision reveals monetary policy in Kabwe",
+      "RelatedEntities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Entities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Keywords": [
+        "reserve management",
+        "monetary policy",
+        "banking supervision"
+      ],
+      "RelevanceScore": 70.8,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "040a299b-0d7d-22f4-1f13-003bdd68f6fd",
+      "Title": "Bank of Zambia policy implementation reserve management",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/4436",
+      "PublishedDate": "2025-11-22T17:30:30Z",
+      "PublishedAt": "2026-01-14T17:30:30Z",
+      "DiscoveredAt": "2025-11-13T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Market intervention reveals monetary policy in Ndola",
+      "RelatedEntities": [
+        "Commercial banks - Kitwe"
+      ],
+      "Entities": [
+        "Commercial banks - Kitwe"
+      ],
+      "Keywords": [
+        "reserve management",
+        "monetary policy",
+        "banking supervision"
+      ],
+      "RelevanceScore": 91.5,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0370285c-18c9-1ae0-06a9-0059295a087e",
+      "Title": "Bank of Zambia market intervention foreign exchange",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/5151",
+      "PublishedDate": "2025-11-16T17:30:30Z",
+      "PublishedAt": "2025-12-28T17:30:30Z",
+      "DiscoveredAt": "2025-12-14T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Licensing reveals foreign exchange in Kabwe",
+      "RelatedEntities": [
+        "Commercial banks - Lusaka"
+      ],
+      "Entities": [
+        "Commercial banks - Lusaka"
+      ],
+      "Keywords": [
+        "monetary policy",
+        "reserve management",
+        "financial stability"
+      ],
+      "RelevanceScore": 77.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03998afb-1a3c-2359-179b-0074c018e243",
+      "Title": "Bank of Zambia policy implementation foreign exchange",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/9747",
+      "PublishedDate": "2026-01-11T17:30:30Z",
+      "PublishedAt": "2025-12-26T17:30:30Z",
+      "DiscoveredAt": "2025-12-04T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Policy implementation reveals foreign exchange in Livingstone",
+      "RelatedEntities": [
+        "Commercial banks - Ndola"
+      ],
+      "Entities": [
+        "Commercial banks - Ndola"
+      ],
+      "Keywords": [
+        "monetary policy",
+        "foreign exchange",
+        "banking supervision"
+      ],
+      "RelevanceScore": 93.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05c643ad-1ce4-1a2d-111e-00cf0d28e196",
+      "Title": "Bank of Zambia supervision monetary policy",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/6368",
+      "PublishedDate": "2025-12-16T17:30:30Z",
+      "PublishedAt": "2025-11-15T17:30:30Z",
+      "DiscoveredAt": "2025-10-22T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Policy implementation reveals monetary policy in Lusaka",
+      "RelatedEntities": [
+        "Microfinance institutions - Kabwe"
+      ],
+      "Entities": [
+        "Microfinance institutions - Kabwe"
+      ],
+      "Keywords": [
+        "foreign exchange",
+        "financial stability",
+        "reserve management"
+      ],
+      "RelevanceScore": 86.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "037bd921-0a34-196f-18fd-00d02b774d47",
+      "Title": "Bank of Zambia supervision foreign exchange",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/6756",
+      "PublishedDate": "2025-11-05T17:30:30Z",
+      "PublishedAt": "2026-01-15T17:30:30Z",
+      "DiscoveredAt": "2026-01-11T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Policy implementation reveals monetary policy in Kitwe",
+      "RelatedEntities": [
+        "Commercial banks - Ndola"
+      ],
+      "Entities": [
+        "Commercial banks - Ndola"
+      ],
+      "Keywords": [
+        "foreign exchange",
+        "reserve management",
+        "financial stability"
+      ],
+      "RelevanceScore": 60.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "047ece26-1b62-0d9f-187f-0098ecfec29a",
+      "Title": "Bank of Zambia monetary regulation monetary policy",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/3163",
+      "PublishedDate": "2025-11-02T17:30:30Z",
+      "PublishedAt": "2025-12-20T17:30:30Z",
+      "DiscoveredAt": "2025-12-10T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Supervision reveals reserve management in Lusaka",
+      "RelatedEntities": [
+        "Commercial banks - Kabwe"
+      ],
+      "Entities": [
+        "Commercial banks - Kabwe"
+      ],
+      "Keywords": [
+        "financial stability",
+        "reserve management",
+        "banking supervision"
+      ],
+      "RelevanceScore": 70.5,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05b81e7c-0e0b-0bc4-0e32-00a2da808aa5",
+      "Title": "Bank of Zambia supervision financial stability",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/9638",
+      "PublishedDate": "2026-01-07T17:30:30Z",
+      "PublishedAt": "2025-11-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-18T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Monetary regulation reveals financial stability in Lusaka",
+      "RelatedEntities": [
+        "Microfinance institutions - Kitwe"
+      ],
+      "Entities": [
+        "Microfinance institutions - Kitwe"
+      ],
+      "Keywords": [
+        "foreign exchange",
+        "banking supervision",
+        "financial stability"
+      ],
+      "RelevanceScore": 72.8,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00c8be7a-0a74-0e8e-0d06-00493fb6d014",
+      "Title": "Bank of Zambia policy implementation reserve management",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/8745",
+      "PublishedDate": "2026-01-07T17:30:30Z",
+      "PublishedAt": "2025-12-11T17:30:30Z",
+      "DiscoveredAt": "2025-11-25T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Policy implementation reveals reserve management in Kitwe",
+      "RelatedEntities": [
+        "Commercial banks - Kitwe"
+      ],
+      "Entities": [
+        "Commercial banks - Kitwe"
+      ],
+      "Keywords": [
+        "reserve management",
+        "monetary policy",
+        "foreign exchange"
+      ],
+      "RelevanceScore": 69.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03409698-20e4-20b6-0f1a-00892194280c",
+      "Title": "Bank of Zambia licensing financial stability",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/5807",
+      "PublishedDate": "2025-11-30T17:30:30Z",
+      "PublishedAt": "2025-10-31T17:30:30Z",
+      "DiscoveredAt": "2025-10-31T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Market intervention reveals foreign exchange in Kabwe",
+      "RelatedEntities": [
+        "Microfinance institutions - Ndola"
+      ],
+      "Entities": [
+        "Microfinance institutions - Ndola"
+      ],
+      "Keywords": [
+        "banking supervision",
+        "foreign exchange",
+        "reserve management"
+      ],
+      "RelevanceScore": 69.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03d93a25-17f3-1c17-1c1b-00adc54e277a",
+      "Title": "Bank of Zambia supervision foreign exchange",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/3055",
+      "PublishedDate": "2025-11-05T17:30:30Z",
+      "PublishedAt": "2026-01-18T17:30:30Z",
+      "DiscoveredAt": "2026-01-11T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Policy implementation reveals monetary policy in Livingstone",
+      "RelatedEntities": [
+        "Microfinance institutions - Kitwe"
+      ],
+      "Entities": [
+        "Microfinance institutions - Kitwe"
+      ],
+      "Keywords": [
+        "reserve management",
+        "monetary policy",
+        "financial stability"
+      ],
+      "RelevanceScore": 93.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05284139-1335-1fcb-08d4-007fe2fe1e73",
+      "Title": "Bank of Zambia monetary regulation foreign exchange",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/3699",
+      "PublishedDate": "2026-01-14T17:30:30Z",
+      "PublishedAt": "2026-01-15T17:30:30Z",
+      "DiscoveredAt": "2026-01-07T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Market intervention reveals financial stability in Kitwe",
+      "RelatedEntities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Entities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Keywords": [
+        "reserve management",
+        "monetary policy",
+        "financial stability"
+      ],
+      "RelevanceScore": 63.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "034f2fbe-10f0-0b4e-04f4-0052ddb84172",
+      "Title": "Bank of Zambia market intervention monetary policy",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/7397",
+      "PublishedDate": "2025-11-22T17:30:30Z",
+      "PublishedAt": "2025-11-12T17:30:30Z",
+      "DiscoveredAt": "2025-10-26T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Monetary regulation reveals foreign exchange in Livingstone",
+      "RelatedEntities": [
+        "Commercial banks - Kitwe"
+      ],
+      "Entities": [
+        "Commercial banks - Kitwe"
+      ],
+      "Keywords": [
+        "reserve management",
+        "banking supervision",
+        "financial stability"
+      ],
+      "RelevanceScore": 93.5,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0317f2e8-18f0-1fde-2377-00e2e8e0ca6e",
+      "Title": "Bank of Zambia licensing financial stability",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/7677",
+      "PublishedDate": "2025-12-19T17:30:30Z",
+      "PublishedAt": "2026-01-06T17:30:30Z",
+      "DiscoveredAt": "2025-12-24T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Market intervention reveals foreign exchange in Ndola",
+      "RelatedEntities": [
+        "Microfinance institutions - Lusaka"
+      ],
+      "Entities": [
+        "Microfinance institutions - Lusaka"
+      ],
+      "Keywords": [
+        "reserve management",
+        "foreign exchange",
+        "financial stability"
+      ],
+      "RelevanceScore": 86.8,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01c2053f-2013-2243-0937-002f806e945d",
+      "Title": "Bank of Zambia monetary regulation monetary policy",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/4960",
+      "PublishedDate": "2025-12-28T17:30:30Z",
+      "PublishedAt": "2025-12-23T17:30:30Z",
+      "DiscoveredAt": "2025-12-01T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Market intervention reveals financial stability in Kitwe",
+      "RelatedEntities": [
+        "Commercial banks - Ndola"
+      ],
+      "Entities": [
+        "Commercial banks - Ndola"
+      ],
+      "Keywords": [
+        "foreign exchange",
+        "reserve management",
+        "financial stability"
+      ],
+      "RelevanceScore": 82.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "021da44c-10e1-0bf8-122d-0099a0c4dbc3",
+      "Title": "Bank of Zambia monetary regulation reserve management",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/6778",
+      "PublishedDate": "2025-10-23T17:30:30Z",
+      "PublishedAt": "2025-11-30T17:30:30Z",
+      "DiscoveredAt": "2025-11-25T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Market intervention reveals banking supervision in Kabwe",
+      "RelatedEntities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Entities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Keywords": [
+        "foreign exchange",
+        "reserve management",
+        "monetary policy"
+      ],
+      "RelevanceScore": 73.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "025f0983-0567-0f1f-21e8-005609f6ea1c",
+      "Title": "Bank of Zambia policy implementation financial stability",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/6912",
+      "PublishedDate": "2025-12-18T17:30:30Z",
+      "PublishedAt": "2026-01-02T17:30:30Z",
+      "DiscoveredAt": "2025-12-14T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Policy implementation reveals reserve management in Lusaka",
+      "RelatedEntities": [
+        "Commercial banks - Kitwe"
+      ],
+      "Entities": [
+        "Commercial banks - Kitwe"
+      ],
+      "Keywords": [
+        "banking supervision",
+        "monetary policy",
+        "foreign exchange"
+      ],
+      "RelevanceScore": 77.1,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "051df48c-0a28-238f-1090-0052382d5400",
+      "Title": "Bank of Zambia market intervention foreign exchange",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/4204",
+      "PublishedDate": "2025-11-30T17:30:30Z",
+      "PublishedAt": "2025-12-22T17:30:30Z",
+      "DiscoveredAt": "2025-11-12T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Monetary regulation reveals monetary policy in Livingstone",
+      "RelatedEntities": [
+        "Commercial banks - Ndola"
+      ],
+      "Entities": [
+        "Commercial banks - Ndola"
+      ],
+      "Keywords": [
+        "foreign exchange",
+        "reserve management",
+        "monetary policy"
+      ],
+      "RelevanceScore": 93.5,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03486324-2308-1799-1691-00d5267c3e17",
+      "Title": "Bank of Zambia licensing reserve management",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/8084",
+      "PublishedDate": "2026-01-02T17:30:30Z",
+      "PublishedAt": "2025-11-24T17:30:30Z",
+      "DiscoveredAt": "2025-12-28T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Supervision reveals monetary policy in Livingstone",
+      "RelatedEntities": [
+        "Microfinance institutions - Livingstone"
+      ],
+      "Entities": [
+        "Microfinance institutions - Livingstone"
+      ],
+      "Keywords": [
+        "financial stability",
+        "foreign exchange",
+        "reserve management"
+      ],
+      "RelevanceScore": 76.9,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01936a27-100a-08cf-184b-002cc7fbdcb5",
+      "Title": "Bank of Zambia monetary regulation banking supervision",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/7502",
+      "PublishedDate": "2026-01-05T17:30:30Z",
+      "PublishedAt": "2025-12-22T17:30:30Z",
+      "DiscoveredAt": "2025-12-13T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Licensing reveals foreign exchange in Kabwe",
+      "RelatedEntities": [
+        "Bureau de change - Kabwe"
+      ],
+      "Entities": [
+        "Bureau de change - Kabwe"
+      ],
+      "Keywords": [
+        "reserve management",
+        "monetary policy",
+        "foreign exchange"
+      ],
+      "RelevanceScore": 94.8,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "012376f0-1789-1620-1bb1-001a3d9743c6",
+      "Title": "Bank of Zambia policy implementation financial stability",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/2866",
+      "PublishedDate": "2025-10-28T17:30:30Z",
+      "PublishedAt": "2025-12-12T17:30:30Z",
+      "DiscoveredAt": "2025-10-24T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Licensing reveals foreign exchange in Livingstone",
+      "RelatedEntities": [
+        "Microfinance institutions - Lusaka"
+      ],
+      "Entities": [
+        "Microfinance institutions - Lusaka"
+      ],
+      "Keywords": [
+        "foreign exchange",
+        "monetary policy",
+        "financial stability"
+      ],
+      "RelevanceScore": 94.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05a355a0-170c-189d-0708-00398c929b9e",
+      "Title": "Bank of Zambia monetary regulation foreign exchange",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/7105",
+      "PublishedDate": "2025-11-08T17:30:30Z",
+      "PublishedAt": "2025-12-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-01T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Monetary regulation reveals reserve management in Kabwe",
+      "RelatedEntities": [
+        "Commercial banks - Livingstone"
+      ],
+      "Entities": [
+        "Commercial banks - Livingstone"
+      ],
+      "Keywords": [
+        "monetary policy",
+        "banking supervision",
+        "financial stability"
+      ],
+      "RelevanceScore": 94.8,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "052cc32f-1376-1a75-145f-0055e9e1763b",
+      "Title": "Bank of Zambia licensing financial stability",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/7596",
+      "PublishedDate": "2025-11-18T17:30:30Z",
+      "PublishedAt": "2025-11-21T17:30:30Z",
+      "DiscoveredAt": "2025-11-08T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Monetary regulation reveals financial stability in Lusaka",
+      "RelatedEntities": [
+        "Microfinance institutions - Kabwe"
+      ],
+      "Entities": [
+        "Microfinance institutions - Kabwe"
+      ],
+      "Keywords": [
+        "monetary policy",
+        "banking supervision",
+        "foreign exchange"
+      ],
+      "RelevanceScore": 81.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0385a3ff-1abb-0fa8-1f2d-00d6b801d999",
+      "Title": "Bank of Zambia monetary regulation banking supervision",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/6432",
+      "PublishedDate": "2025-12-12T17:30:30Z",
+      "PublishedAt": "2025-12-21T17:30:30Z",
+      "DiscoveredAt": "2026-01-17T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Market intervention reveals financial stability in Lusaka",
+      "RelatedEntities": [
+        "Bureau de change - Ndola"
+      ],
+      "Entities": [
+        "Bureau de change - Ndola"
+      ],
+      "Keywords": [
+        "financial stability",
+        "monetary policy",
+        "reserve management"
+      ],
+      "RelevanceScore": 93.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01775ca2-1e7d-0a07-0b23-00369b9f33f6",
+      "Title": "Bank of Zambia market intervention foreign exchange",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/1453",
+      "PublishedDate": "2025-12-25T17:30:30Z",
+      "PublishedAt": "2025-12-05T17:30:30Z",
+      "DiscoveredAt": "2026-01-03T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Monetary regulation reveals reserve management in Ndola",
+      "RelatedEntities": [
+        "Microfinance institutions - Kitwe"
+      ],
+      "Entities": [
+        "Microfinance institutions - Kitwe"
+      ],
+      "Keywords": [
+        "monetary policy",
+        "reserve management",
+        "foreign exchange"
+      ],
+      "RelevanceScore": 66.1,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04ac6be0-1739-24f2-0ba3-0069bd1a6eb4",
+      "Title": "Bank of Zambia licensing financial stability",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/3268",
+      "PublishedDate": "2025-11-19T17:30:30Z",
+      "PublishedAt": "2025-10-28T17:30:30Z",
+      "DiscoveredAt": "2025-11-24T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Licensing reveals monetary policy in Kitwe",
+      "RelatedEntities": [
+        "Bureau de change - Livingstone"
+      ],
+      "Entities": [
+        "Bureau de change - Livingstone"
+      ],
+      "Keywords": [
+        "reserve management",
+        "monetary policy",
+        "financial stability"
+      ],
+      "RelevanceScore": 74.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0166f529-08ed-05af-0e59-00995fe1304f",
+      "Title": "Bank of Zambia supervision banking supervision",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/1894",
+      "PublishedDate": "2025-12-23T17:30:30Z",
+      "PublishedAt": "2026-01-06T17:30:30Z",
+      "DiscoveredAt": "2025-11-04T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Monetary regulation reveals monetary policy in Livingstone",
+      "RelatedEntities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Entities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Keywords": [
+        "financial stability",
+        "foreign exchange",
+        "reserve management"
+      ],
+      "RelevanceScore": 80.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "034a98f3-1fe3-1d68-154b-0022c5f03f1d",
+      "Title": "Bank of Zambia monetary regulation financial stability",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/1247",
+      "PublishedDate": "2025-11-19T17:30:30Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2025-11-29T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Monetary regulation reveals foreign exchange in Lusaka",
+      "RelatedEntities": [
+        "Financial institutions - Kabwe"
+      ],
+      "Entities": [
+        "Financial institutions - Kabwe"
+      ],
+      "Keywords": [
+        "banking supervision",
+        "monetary policy",
+        "financial stability"
+      ],
+      "RelevanceScore": 74.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0339c893-260b-0e66-0ca6-00881a352e88",
+      "Title": "Bank of Zambia supervision banking supervision",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/2600",
+      "PublishedDate": "2025-12-03T17:30:30Z",
+      "PublishedAt": "2025-11-23T17:30:30Z",
+      "DiscoveredAt": "2026-01-01T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Policy implementation reveals banking supervision in Lusaka",
+      "RelatedEntities": [
+        "Financial institutions - Kabwe"
+      ],
+      "Entities": [
+        "Financial institutions - Kabwe"
+      ],
+      "Keywords": [
+        "banking supervision",
+        "foreign exchange",
+        "monetary policy"
+      ],
+      "RelevanceScore": 77.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05b948f0-1447-1ecd-15c2-009e16e6ba22",
+      "Title": "Bank of Zambia monetary regulation foreign exchange",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/9328",
+      "PublishedDate": "2025-11-18T17:30:30Z",
+      "PublishedAt": "2025-11-01T17:30:30Z",
+      "DiscoveredAt": "2025-11-07T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Market intervention reveals foreign exchange in Kabwe",
+      "RelatedEntities": [
+        "Microfinance institutions - Livingstone"
+      ],
+      "Entities": [
+        "Microfinance institutions - Livingstone"
+      ],
+      "Keywords": [
+        "banking supervision",
+        "financial stability",
+        "reserve management"
+      ],
+      "RelevanceScore": 61.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03c025c7-1547-0ece-1826-00b9924d8fec",
+      "Title": "Bank of Zambia supervision banking supervision",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/7702",
+      "PublishedDate": "2025-11-24T17:30:30Z",
+      "PublishedAt": "2025-12-31T17:30:30Z",
+      "DiscoveredAt": "2026-01-04T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Supervision reveals financial stability in Lusaka",
+      "RelatedEntities": [
+        "Microfinance institutions - Livingstone"
+      ],
+      "Entities": [
+        "Microfinance institutions - Livingstone"
+      ],
+      "Keywords": [
+        "banking supervision",
+        "financial stability",
+        "monetary policy"
+      ],
+      "RelevanceScore": 86.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01a3cd9d-0828-0e85-16c4-009b9530536f",
+      "Title": "Bank of Zambia policy implementation banking supervision",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/1067",
+      "PublishedDate": "2025-11-01T17:30:30Z",
+      "PublishedAt": "2025-12-17T17:30:30Z",
+      "DiscoveredAt": "2025-10-22T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Policy implementation reveals banking supervision in Kitwe",
+      "RelatedEntities": [
+        "Microfinance institutions - Kitwe"
+      ],
+      "Entities": [
+        "Microfinance institutions - Kitwe"
+      ],
+      "Keywords": [
+        "monetary policy",
+        "foreign exchange",
+        "reserve management"
+      ],
+      "RelevanceScore": 82.7,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02cf31d0-19c6-0c90-15d2-0018f26434af",
+      "Title": "Bank of Zambia supervision financial stability",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/1616",
+      "PublishedDate": "2025-10-26T17:30:30Z",
+      "PublishedAt": "2025-12-13T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Market intervention reveals monetary policy in Kitwe",
+      "RelatedEntities": [
+        "Microfinance institutions - Lusaka"
+      ],
+      "Entities": [
+        "Microfinance institutions - Lusaka"
+      ],
+      "Keywords": [
+        "banking supervision",
+        "financial stability",
+        "reserve management"
+      ],
+      "RelevanceScore": 60.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "03021dbd-264f-144e-2163-00883762a1b1",
+      "ArticleId": "02e28e3f-04d2-1439-1b96-00ba973f53d0",
+      "EntityId": "01c9a56d-2222-1b61-16e7-00aba7b807f0",
+      "EntityName": "Microfinance institutions - Livingstone",
+      "AlertReason": "Adverse media on foreign exchange",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "TriggeredAt": "2026-01-14T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04c9cff1-1aea-07e6-1a46-0081b8cd4044",
+      "ArticleId": "017d9e3d-0991-11c1-116e-00d4c23fd07b",
+      "EntityId": "05199ba3-0a63-147f-2176-00a76b5881ab",
+      "EntityName": "Financial institutions - Lusaka",
+      "AlertReason": "Adverse media on reserve management",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "TriggeredAt": "2025-11-24T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "027dc90c-194d-16c4-2276-00276e7cbf1f",
+      "ArticleId": "054573c1-0421-068e-1744-003881663e82",
+      "EntityId": "03d4b48d-1968-094d-238d-0036ce7428be",
+      "EntityName": "Financial institutions - Kitwe",
+      "AlertReason": "Adverse media on banking supervision",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-12T17:30:30Z",
+      "TriggeredAt": "2025-11-24T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0256cdc6-08c0-120b-0ad5-0061793394f7",
+      "ArticleId": "0328ec80-1349-0cbf-12a2-00c278a58420",
+      "EntityId": "02a8b48a-1de6-2228-1f01-007460f2d35b",
+      "EntityName": "Financial institutions - Lusaka",
+      "AlertReason": "Adverse media on banking supervision",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-30T17:30:30Z",
+      "TriggeredAt": "2025-12-26T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03feedce-1ba9-0aac-22d2-009e1900015f",
+      "ArticleId": "00afe0be-1081-0e96-0517-00c7446328c1",
+      "EntityId": "030f1213-0529-1731-1df7-0066cd12c875",
+      "EntityName": "Microfinance institutions - Livingstone",
+      "AlertReason": "Adverse media on banking supervision",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2026-01-07T17:30:30Z",
+      "TriggeredAt": "2025-11-04T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0510796c-1837-1a5a-1c7d-00837c15b6c9",
+      "ArticleId": "01555f2a-1795-1c31-163d-0025bddc36bb",
+      "EntityId": "057463e0-135b-0c14-1f0d-0032fa43dc2b",
+      "EntityName": "Commercial banks - Livingstone",
+      "AlertReason": "Adverse media on reserve management",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-23T17:30:30Z",
+      "TriggeredAt": "2025-11-09T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "00d3c9b6-118e-06f3-1954-0070bad45df8",
+      "ArticleId": "01b4aa27-253d-0b47-203c-00351003d805",
+      "EntityId": "02014d74-140f-0d36-0658-002d5c82c168",
+      "EntityName": "Microfinance institutions - Ndola",
+      "AlertReason": "Adverse media on financial stability",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-03T17:30:30Z",
+      "TriggeredAt": "2025-11-22T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0492853d-1c18-1687-0c9e-0090a114a0c4",
+      "ArticleId": "03cf0f7e-09e1-20d2-2216-00d1c631af95",
+      "EntityId": "05d67ce2-1d5e-20d6-226c-00a34ea8a908",
+      "EntityName": "Financial institutions - Kitwe",
+      "AlertReason": "Adverse media on banking supervision",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-30T17:30:30Z",
+      "TriggeredAt": "2025-10-23T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0307cc7e-05bf-165a-0d92-00c1f289503b",
+      "ArticleId": "03998afb-1a3c-2359-179b-0074c018e243",
+      "EntityId": "0123532c-23f5-0789-113f-0019b4d329eb",
+      "EntityName": "Commercial banks - Ndola",
+      "AlertReason": "Adverse media on foreign exchange",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-05T17:30:30Z",
+      "TriggeredAt": "2025-12-05T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0423c236-03fb-0f10-0b82-00472a914300",
+      "ArticleId": "05c643ad-1ce4-1a2d-111e-00cf0d28e196",
+      "EntityId": "03685f05-223d-1845-040c-0040fde12d32",
+      "EntityName": "Microfinance institutions - Kabwe",
+      "AlertReason": "Adverse media on banking supervision",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-20T17:30:30Z",
+      "TriggeredAt": "2025-12-16T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02770bb9-14e6-142b-06a4-009e35a987e6",
+      "ArticleId": "037bd921-0a34-196f-18fd-00d02b774d47",
+      "EntityId": "055e95d0-0830-1b90-11f2-004246e56459",
+      "EntityName": "Commercial banks - Ndola",
+      "AlertReason": "Adverse media on financial stability",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-20T17:30:30Z",
+      "TriggeredAt": "2025-12-01T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02563803-151a-1b5e-1fcc-009b0af9d52b",
+      "ArticleId": "03409698-20e4-20b6-0f1a-00892194280c",
+      "EntityId": "05adee4c-1f97-077c-14f2-007e12a704a9",
+      "EntityName": "Microfinance institutions - Ndola",
+      "AlertReason": "Adverse media on financial stability",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "TriggeredAt": "2025-11-05T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "05a04bed-0e26-0960-2012-00c9d7b01bca",
+      "ArticleId": "03d93a25-17f3-1c17-1c1b-00adc54e277a",
+      "EntityId": "021052f1-16a6-0d63-0ff7-006dbe660cab",
+      "EntityName": "Microfinance institutions - Kitwe",
+      "AlertReason": "Adverse media on reserve management",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-26T17:30:30Z",
+      "TriggeredAt": "2025-11-05T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "05af66f9-0f82-1672-109b-00742baef7bb",
+      "ArticleId": "025f0983-0567-0f1f-21e8-005609f6ea1c",
+      "EntityId": "01d40803-1f55-16dc-0bf8-00d43f3b06d5",
+      "EntityName": "Commercial banks - Kitwe",
+      "AlertReason": "Adverse media on reserve management",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-27T17:30:30Z",
+      "TriggeredAt": "2025-10-31T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "00ff18cc-1a02-1c56-0cd0-00a4c6b159f9",
+      "ArticleId": "05a355a0-170c-189d-0708-00398c929b9e",
+      "EntityId": "039bb7a4-23d9-1658-1d66-0086cdf7baf9",
+      "EntityName": "Commercial banks - Livingstone",
+      "AlertReason": "Adverse media on reserve management",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-04T17:30:30Z",
+      "TriggeredAt": "2025-11-01T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01e7dc42-1ac1-0a10-0843-008f6e2551cf",
+      "ArticleId": "0385a3ff-1abb-0fa8-1f2d-00d6b801d999",
+      "EntityId": "02c13848-13e6-08c9-09b9-00c65344ad8a",
+      "EntityName": "Bureau de change - Ndola",
+      "AlertReason": "Adverse media on foreign exchange",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-24T17:30:30Z",
+      "TriggeredAt": "2025-12-19T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02fac9a9-0acf-1a12-219c-005117994ff8",
+      "ArticleId": "01a3cd9d-0828-0e85-16c4-009b9530536f",
+      "EntityId": "02c6d25f-0b15-0733-158b-00a378429316",
+      "EntityName": "Microfinance institutions - Kitwe",
+      "AlertReason": "Adverse media on foreign exchange",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-08T17:30:30Z",
+      "TriggeredAt": "2025-11-25T17:30:30Z",
+      "IsAcknowledged": false
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "04d90589-210d-1e58-173c-0021cfbe9b35",
+      "EntityName": "Bank of Zambia",
+      "Keywords": [
+        "financial stability",
+        "monetary policy",
+        "banking supervision"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 23,
+    "HighRiskArticles": 13,
+    "ActiveAlerts": 17,
+    "MonitoredEntities": 12,
+    "ArticlesByCategory": {
+      "regulatory": 10,
+      "criminal": 10,
+      "financial": 10,
+      "political": 13
+    },
+    "ArticlesBySeverity": {
+      "high": 17,
+      "medium": 15,
+      "low": 10
+    }
+  }
+}

@@ -1,0 +1,1170 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "027ff8a3-1325-0924-0a29-003d711bc850",
+      "EntityId": "03ac68a0-1a12-193f-06c7-009afc09c941",
+      "EntityName": "Importers - Kazungula",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-22T17:30:31Z",
+      "Notes": "Investigation for tax compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-22T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01f59bca-18f6-095b-06fd-00c748ff69f1",
+      "EntityId": "05f3da26-0d2b-26a1-0df1-0096173ec3cc",
+      "EntityName": "Mining companies - Chirundu",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-13T17:30:31Z",
+      "Notes": "Tax audit for customs enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-12T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "052f019c-08b8-0e0f-0d20-00430c233418",
+      "EntityId": "05d701a4-1074-10f2-0742-007f965d647a",
+      "EntityName": "Exporters - Kazungula",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-20T17:30:31Z",
+      "Notes": "Investigation for VAT fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-12T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "03ff7c06-195c-0f65-04b0-0068440f2aae",
+      "EntityId": "0249d461-0d80-0b7d-1567-0057e06e03f9",
+      "EntityName": "Exporters - Lusaka",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-18T17:30:31Z",
+      "Notes": "Tax audit for VAT fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-09T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04635f7b-2056-1361-064b-00afb9d5838f",
+      "EntityId": "00fccfea-133a-1929-07f5-002130470b27",
+      "EntityName": "Exporters - Chirundu",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-14T17:30:31Z",
+      "Notes": "Compliance check for customs enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-27T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-21T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "056e32c4-0c95-123a-077a-00b775b43f48",
+      "EntityId": "030a8394-052c-0645-26a2-0059f6a97809",
+      "EntityName": "Importers - Lusaka",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-13T17:30:31Z",
+      "Notes": "Compliance check for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-31T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "011b060f-05b8-2494-05da-0063f36fa30d",
+      "EntityId": "0497da6f-1d0b-0f81-1873-0046a8481796",
+      "EntityName": "Exporters - Nakonde",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-06T17:30:31Z",
+      "Notes": "Investigation for VAT fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-01T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-20T17:30:31Z"
+    },
+    {
+      "Id": "01a0b5be-253b-0db9-08cb-0064d9061e3e",
+      "EntityId": "04cb7b3a-1042-12eb-1d83-0044616fde0e",
+      "EntityName": "Exporters - Kazungula",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-02T17:30:31Z",
+      "Notes": "Investigation for tax compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-03T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "034a7f3b-0510-066c-0a62-00b0fca68b54",
+      "EntityId": "033fcd56-230d-1169-1f54-003c386aa5d1",
+      "EntityName": "Exporters - Kitwe",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-17T17:30:31Z",
+      "Notes": "Investigation for customs enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-11-21T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0265ad49-1807-0be7-0858-00abaad54bea",
+      "EntityId": "00f3c012-0ade-1c52-234e-00e4425ac512",
+      "EntityName": "Importers - Lusaka",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-28T17:30:31Z",
+      "Notes": "Tax audit for VAT fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-01T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "012c949a-1319-104c-0e77-00b218e5cf04",
+      "EntityId": "028c6a2c-1255-15ce-1bbb-005031f1f9b9",
+      "EntityName": "Mining companies - Nakonde",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-20T17:30:31Z",
+      "Notes": "Revenue assessment for VAT fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-23T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03063576-1e52-2286-2226-00187e70b6c8",
+      "EntityId": "00c05d38-22af-067a-04d2-005f7adbb5d4",
+      "EntityName": "Importers - Nakonde",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-19T17:30:31Z",
+      "Notes": "Customs inspection for VAT fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-21T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "047f9e3a-264a-2218-20c7-00ba57e4b20c",
+      "EntityId": "01e9f124-16db-264c-0493-00e83ddc7bd8",
+      "EntityName": "Importers - Lusaka",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-14T17:30:31Z",
+      "Notes": "Revenue assessment for transfer pricing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-21T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-11-23T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03c9dd67-247a-1de2-12f7-00ae9925503d",
+      "EntityId": "03d34c3f-0ffd-13b3-2595-008057bca90a",
+      "EntityName": "Mining companies - Nakonde",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-25T17:30:31Z",
+      "Notes": "Customs inspection for transfer pricing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-03T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0295ea92-15b5-22b6-0e6b-0066921ceebf",
+      "EntityId": "0277df13-0957-18bf-05ea-00504ceca830",
+      "EntityName": "Taxpayers - Chirundu",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-23T17:30:31Z",
+      "Notes": "Investigation for transfer pricing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "025d29dd-16d9-175e-19ad-005804f9abb4",
+      "EntityId": "01abb08f-08bd-0bea-1658-00e804c1fea5",
+      "EntityName": "Exporters - Kazungula",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-10-24T17:30:31Z",
+      "Notes": "Compliance check for transfer pricing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-24T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01a8e64a-24de-0dd7-0551-0034ab43782e",
+      "EntityId": "0113778d-2082-11dc-1040-009f67698985",
+      "EntityName": "Mining companies - Kitwe",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-11T17:30:31Z",
+      "Notes": "Revenue assessment for customs enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "013a497a-1e00-0f23-1642-00c2e4373445",
+      "EntityId": "0530c842-18bb-08fe-24b5-00bd7c94e0be",
+      "EntityName": "Importers - Kitwe",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-14T17:30:31Z",
+      "Notes": "Customs inspection for customs enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-12T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-25T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-06T17:30:31Z"
+    },
+    {
+      "Id": "00a39bb7-1e8c-143b-14d9-00a236a5848a",
+      "EntityId": "014cae67-2307-046f-1970-0093416caa89",
+      "EntityName": "Mining companies - Chirundu",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-31T17:30:31Z",
+      "Notes": "Revenue assessment for VAT fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-24T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04302870-1116-18cf-1539-005005e37d3b",
+      "EntityId": "021661e6-255f-2421-0a37-005ff8acadb1",
+      "EntityName": "Mining companies - Lusaka",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-04T17:30:31Z",
+      "Notes": "Compliance check for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-26T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01ab077e-259a-0c13-08fe-0039115dca22",
+      "EntityId": "04408f40-15a3-0cd1-0822-00b55cbb803b",
+      "EntityName": "Exporters - Nakonde",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-02T17:30:31Z",
+      "Notes": "Customs inspection for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-27T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-04T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "049cc60f-1468-09d3-0ac4-005f0859a196",
+      "EntityId": "042d2ec0-0cf1-17a1-24f4-00c55aa22868",
+      "EntityName": "Taxpayers - Nakonde",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-10-29T17:30:31Z",
+      "Notes": "Revenue assessment for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-26T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03243557-10cf-15d7-145f-003e69430b5e",
+      "EntityId": "02f1aea5-176d-25f3-0e70-006890f16b51",
+      "EntityName": "Taxpayers - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-19T17:30:31Z",
+      "Notes": "Revenue assessment for transfer pricing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-26T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "045e8d24-10de-0f8b-1d53-0089a6ed5f46",
+      "EntityId": "05b991b9-17b1-0cb5-0d6e-003625f24bda",
+      "EntityName": "Importers - Chirundu",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-09T17:30:31Z",
+      "Notes": "Compliance check for tax compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-26T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-19T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ebdb9b-0ece-128d-22cd-00d20d11bf12",
+      "EntityId": "0533b153-13a6-0ff8-06a2-0053b55402ad",
+      "EntityName": "Mining companies - Nakonde",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-22T17:30:31Z",
+      "Notes": "Tax audit for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-25T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-11-24T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05c2251e-04fb-1469-1f62-00d0a1dfffc0",
+      "EntityId": "01e02ade-181f-159c-22ba-00e4a2cb35f8",
+      "EntityName": "Taxpayers - Lusaka",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-10-25T17:30:31Z",
+      "Notes": "Revenue assessment for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-01T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0364ca75-2275-07d8-1ca4-0086fb00b519",
+      "EntityId": "05b9496f-07da-1e93-1b37-001fed7e7deb",
+      "EntityName": "Exporters - Chirundu",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-12T17:30:31Z",
+      "Notes": "Customs inspection for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-21T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01a734d4-15ee-0ebe-0daa-00870fd9fefb",
+      "EntityId": "00ce5620-0769-062e-13ad-0064b4e061db",
+      "EntityName": "Importers - Nakonde",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-16T17:30:31Z",
+      "Notes": "Compliance check for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-10T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05024700-0bbe-0fea-0fa1-001b1df97b37",
+      "EntityId": "05156f1d-17ed-0ec1-09d8-00462d1cb3d2",
+      "EntityName": "Mining companies - Kitwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-05T17:30:31Z",
+      "Notes": "Revenue assessment for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-29T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0339b892-18a1-25a3-0c65-007543a6565c",
+      "EntityId": "03ffd563-044e-12a9-265d-00655c9b8cb8",
+      "EntityName": "Importers - Nakonde",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-28T17:30:31Z",
+      "Notes": "Revenue assessment for tax compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-15T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0288b399-1865-09bf-0a6c-00d6c4344e45",
+      "EntityId": "01342404-0583-119c-08cf-00dbe3acc39b",
+      "EntityName": "Importers - Kazungula",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-17T17:30:31Z",
+      "Notes": "Revenue assessment for VAT fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-09T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-01T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00f22f55-11cd-0e5f-1d8c-0091d3d922ee",
+      "EntityId": "010b2033-0743-0abe-2393-00df4cdbb2c4",
+      "EntityName": "Taxpayers - Lusaka",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-05T17:30:31Z",
+      "Notes": "Revenue assessment for VAT fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "038e8564-1668-24ac-1323-00c684df2bcb",
+      "EntityId": "012ac088-2032-1ba9-0891-006e295d78cf",
+      "EntityName": "Taxpayers - Chirundu",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-15T17:30:31Z",
+      "Notes": "Compliance check for customs enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-02T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "022ea875-04e7-16d3-168d-004905a34abe",
+      "EntityId": "05f26647-0a1a-17e8-0af0-005861dd9a5c",
+      "EntityName": "Taxpayers - Nakonde",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-15T17:30:31Z",
+      "Notes": "Revenue assessment for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-10T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01515f8b-23ed-16a7-108d-0038023abf78",
+      "EntityId": "00ef5615-09d9-1cfb-0bfa-00dde2fc7a74",
+      "EntityName": "Exporters - Chirundu",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2026-01-01T17:30:31Z",
+      "Notes": "Investigation for tax compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-19T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03e2effe-0461-170b-24be-00719866bc54",
+      "EntityId": "027fd349-0f32-0468-0569-00cd8e983ba5",
+      "EntityName": "Mining companies - Kitwe",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-09T17:30:31Z",
+      "Notes": "Customs inspection for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01f7f401-196c-0bac-1a94-00a6489c856f",
+      "EntityId": "018f85f1-106f-0d32-0d6c-009820a3ba3f",
+      "EntityName": "Mining companies - Kazungula",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2026-01-02T17:30:31Z",
+      "Notes": "Investigation for transfer pricing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "009f8104-1766-2425-0a7b-006f6ed6f67e",
+      "EntityId": "0548c3ca-26be-07f4-1be3-00a4f217649d",
+      "EntityName": "Mining companies - Chirundu",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-11T17:30:31Z",
+      "Notes": "Customs inspection for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-10T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-14T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "02657d18-16d3-1da1-0779-009636fa8c78",
+      "EntityId": "037f9f5c-191b-208b-0a24-0089f171dfae",
+      "EntityName": "Mining companies - Nakonde",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-11T17:30:31Z",
+      "Notes": "Customs inspection for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-15T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05edbd4d-104b-14a0-0750-0057b8b9fecd",
+      "EntityId": "031fbf0a-0556-1426-1b7a-00344f0de0b9",
+      "EntityName": "Importers - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-10-28T17:30:31Z",
+      "Notes": "Tax audit for customs enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0229a46b-0cae-0b0e-229e-0065650a632f",
+      "EntityId": "0412a164-1f09-0cec-14b7-00e3ce701daf",
+      "EntityName": "Importers - Lusaka",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-05T17:30:31Z",
+      "Notes": "Tax audit for tax compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-29T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-27T17:30:31Z"
+    },
+    {
+      "Id": "0255e706-14c6-06fa-1b57-00871f952e75",
+      "EntityId": "015eb929-1afe-12f4-1c99-00db44c1c9ff",
+      "EntityName": "Taxpayers - Lusaka",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-07T17:30:31Z",
+      "Notes": "Revenue assessment for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-24T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "05f4976d-23f4-1e92-150c-00e06e5301fc",
+      "EntityId": "03796735-0c44-24f1-192d-008085541d28",
+      "EntityName": "Importers - Kitwe",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-02T17:30:31Z",
+      "Notes": "Investigation for revenue collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-05T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "026f7e55-26fc-133f-22cc-0096fdf7b878",
+      "EntityId": "00ae7bee-1923-14c1-08b2-0026bbedb1d0",
+      "EntityName": "Mining companies - Kitwe",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-02T17:30:31Z",
+      "Notes": "Investigation for VAT fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-25T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-02T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04ce2568-21e3-0ab2-216b-005139318bb2",
+      "EntityId": "01b73d49-093e-228f-0c23-00e8ccc6f75c",
+      "EntityName": "Mining companies - Chirundu",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-27T17:30:31Z",
+      "Notes": "Tax audit for customs enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-01T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04d6cffa-1abf-26ed-19d6-007466e18d8d",
+      "EntityId": "010d18bd-0979-24c0-0a74-008e2d5ee30d",
+      "EntityName": "Mining companies - Chirundu",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-05T17:30:31Z",
+      "Notes": "Investigation for transfer pricing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-25T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-23T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00b4f3c8-1aab-251f-1347-00735649d6e4",
+      "EntityId": "04328f17-1601-23aa-0dac-001a304dfd35",
+      "EntityName": "Importers - Kazungula",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-12-26T17:30:31Z",
+      "Notes": "Customs inspection for customs enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-26T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-13T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-06T17:30:31Z"
+    },
+    {
+      "Id": "02ed7e02-2184-2306-235c-00b7f9893a04",
+      "EntityId": "01d3c2bf-1597-07cd-03f6-00961895bfc2",
+      "EntityName": "Importers - Lusaka",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-27T17:30:31Z",
+      "Notes": "Revenue assessment for transfer pricing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-29T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-30T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-26T17:30:31Z"
+    },
+    {
+      "Id": "018044fe-12b6-19dd-1470-003e503ef6c3",
+      "EntityId": "02ac082a-184f-16cb-0ad4-0062a07a4061",
+      "EntityName": "Mining companies - Lusaka",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2026-01-03T17:30:31Z",
+      "Notes": "Compliance check for transfer pricing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-29T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "011392eb-0765-1dc2-13a7-0039b98e9f10",
+      "EntityId": "0298c872-1b3b-0686-0721-008fc820ed53",
+      "EntityName": "Mining companies - Kitwe",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-03T17:30:31Z",
+      "Notes": "Compliance check for VAT fraud verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-21T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 9,
+    "Pending": 28,
+    "Failed": 13
+  }
+}

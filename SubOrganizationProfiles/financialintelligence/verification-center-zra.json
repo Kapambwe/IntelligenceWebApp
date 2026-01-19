@@ -1,0 +1,1172 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "013c3f82-0a82-194c-0fe6-00c8d6703b54",
+      "EntityId": "0495c0fe-0ca2-1bc9-0717-0070df7a135f",
+      "EntityName": "Financial institutions - Kitwe",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-12T17:30:30Z",
+      "Notes": "Enforcement for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01f98cea-234c-0e6c-0a03-002007872ce6",
+      "EntityId": "049aea3d-214a-263c-1aa2-00d3b441375d",
+      "EntityName": "Suspicious persons - Kitwe",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2026-01-06T17:30:30Z",
+      "Notes": "Intelligence sharing for financial crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "020071d3-08a5-0706-099d-0086e5763051",
+      "EntityId": "024c88ce-0c76-1ba9-2271-005ff0cd99e7",
+      "EntityName": "Shell companies - Chirundu",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2026-01-18T17:30:30Z",
+      "Notes": "Enforcement for terrorism financing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-23T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-23T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03744a2c-18f6-106a-1f05-00499869dbc5",
+      "EntityId": "029aeae5-05e8-1d8f-086d-0021e2a3fc6d",
+      "EntityName": "Financial institutions - Ndola",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-11T17:30:30Z",
+      "Notes": "Compliance monitoring for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-25T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03b1c1e8-1fc0-0a10-16f3-009fe2987c5b",
+      "EntityId": "0262af9f-158c-211c-0562-002add87d937",
+      "EntityName": "Financial institutions - Kitwe",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-17T17:30:30Z",
+      "Notes": "Str analysis for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-27T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00bc1f5d-1659-1da3-076c-002340203abd",
+      "EntityId": "03e86f20-1a0e-22d2-1ea8-00250b84ab9e",
+      "EntityName": "Financial institutions - Livingstone",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-11T17:30:30Z",
+      "Notes": "Enforcement for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02012de4-0ad9-22ed-05c8-001856e8fcd0",
+      "EntityId": "016c7e72-1431-19ef-199b-00d7495f0201",
+      "EntityName": "Suspicious persons - Chirundu",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-16T17:30:30Z",
+      "Notes": "Str analysis for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-06T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01ae44c5-119b-1891-25f2-00a4afe43ae8",
+      "EntityId": "01a78f38-2682-211b-0c64-00911cc8cd25",
+      "EntityName": "Suspicious persons - Ndola",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-21T17:30:30Z",
+      "Notes": "Investigation for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-26T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "053c616f-2676-164d-0a54-00ca8da21dae",
+      "EntityId": "03b429e9-0f76-04d2-12c1-00da738ab975",
+      "EntityName": "Reporting entities - Lusaka",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-18T17:30:30Z",
+      "Notes": "Enforcement for terrorism financing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04b60121-04a3-1390-0f5c-005cd93d314a",
+      "EntityId": "04ab16fc-1520-0bd2-2474-004416bf79f8",
+      "EntityName": "Reporting entities - Ndola",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "Notes": "Enforcement for financial crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ef426b-07ef-0bf1-1b13-007abe71702b",
+      "EntityId": "02a09b39-228e-1561-21e5-00841eb9e894",
+      "EntityName": "Reporting entities - Chirundu",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-12-14T17:30:30Z",
+      "Notes": "Str analysis for terrorism financing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-02T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0235f575-1aa4-1560-17fe-0047104881ca",
+      "EntityId": "01d37a0d-1158-0ed5-225e-007adddcf720",
+      "EntityName": "Reporting entities - Livingstone",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-10-30T17:30:30Z",
+      "Notes": "Intelligence sharing for financial crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-28T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-11-25T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "01cefd4c-12bf-200b-0e8f-00440b45eed2",
+      "EntityId": "02e04f4b-1903-229c-0a24-00565f43843f",
+      "EntityName": "Shell companies - Chirundu",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-12T17:30:30Z",
+      "Notes": "Investigation for money laundering verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-25T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-20T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "014b4c8d-198b-13e6-2435-00bda23125f9",
+      "EntityId": "01200eb9-16e5-226a-0e34-0097df352f34",
+      "EntityName": "Shell companies - Livingstone",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-30T17:30:30Z",
+      "Notes": "Investigation for terrorism financing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05b784ec-0519-076d-0e6a-0042d2572b99",
+      "EntityId": "04f7ba75-0e28-0880-1d38-00dae289071b",
+      "EntityName": "Financial institutions - Lusaka",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2026-01-05T17:30:30Z",
+      "Notes": "Intelligence sharing for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-22T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-29T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f96d3c-2061-23c8-19b5-0063a538cc10",
+      "EntityId": "0415ece5-1c4b-0ddd-075b-007a98a2258b",
+      "EntityName": "Reporting entities - Ndola",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-07T17:30:30Z",
+      "Notes": "Intelligence sharing for terrorism financing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-03T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-19T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "02ddaf77-265d-1046-26d2-00a84a4faf87",
+      "EntityId": "02c73324-17cb-0ef2-08e6-001cb09d3f8e",
+      "EntityName": "Financial institutions - Livingstone",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2026-01-11T17:30:30Z",
+      "Notes": "Intelligence sharing for terrorism financing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-09T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-04T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "04a4c522-17eb-0429-092e-008fa1761ddc",
+      "EntityId": "04e9890f-0bc2-23ab-0f0e-00423a6e15a7",
+      "EntityName": "Reporting entities - Kitwe",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2026-01-16T17:30:30Z",
+      "Notes": "Compliance monitoring for terrorism financing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "059f52f5-0861-23fa-138b-00e72c303f44",
+      "EntityId": "0171904d-1b59-20e7-0a76-00a7e72ea0e4",
+      "EntityName": "Financial institutions - Chirundu",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-18T17:30:30Z",
+      "Notes": "Enforcement for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-05T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02dec829-121a-2303-0eaf-0081753912c4",
+      "EntityId": "012d7114-1e70-24d1-13ba-00db673401b2",
+      "EntityName": "Suspicious persons - Ndola",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-12-24T17:30:30Z",
+      "Notes": "Intelligence sharing for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-27T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "0192d3f6-0761-1aed-06ac-005773a7478a",
+      "EntityId": "0544f89f-0480-2139-1fdd-008cc1d04d72",
+      "EntityName": "Reporting entities - Lusaka",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-11T17:30:30Z",
+      "Notes": "Enforcement for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-29T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0549ff65-190e-0974-1b65-0031d5faeb88",
+      "EntityId": "0103493b-1a6f-1b09-1809-005bcaa5de71",
+      "EntityName": "Reporting entities - Kitwe",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-23T17:30:30Z",
+      "Notes": "Str analysis for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-08T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-01T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01ebc8ca-1bb8-1baf-15ee-00998eaa1cdd",
+      "EntityId": "00a879b6-1f1b-1523-17b7-00c080adac1a",
+      "EntityName": "Reporting entities - Chirundu",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-12T17:30:30Z",
+      "Notes": "Intelligence sharing for terrorism financing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-21T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-29T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0223cd17-0961-0574-051e-003fb23de73a",
+      "EntityId": "00a42c98-07a1-0f1a-1300-00935a84e254",
+      "EntityName": "Shell companies - Ndola",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-11-06T17:30:30Z",
+      "Notes": "Enforcement for money laundering verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-27T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03fa0cb4-2474-0447-14a1-00d76feeb046",
+      "EntityId": "04101f55-1ae0-1521-1646-0099ad5421c3",
+      "EntityName": "Reporting entities - Livingstone",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-26T17:30:30Z",
+      "Notes": "Enforcement for financial crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0421523b-0f0d-0b30-0994-00358e993589",
+      "EntityId": "041f5fc7-19f3-1a81-17f3-008901d27d89",
+      "EntityName": "Financial institutions - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-14T17:30:30Z",
+      "Notes": "Str analysis for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-22T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0262e62c-0c39-0dea-0554-00a505f2fba4",
+      "EntityId": "020d6b43-23ac-20a7-24ba-00decf1615c2",
+      "EntityName": "Shell companies - Lusaka",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-26T17:30:30Z",
+      "Notes": "Compliance monitoring for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-03T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0420819b-16bd-08ff-087d-003929fc2682",
+      "EntityId": "051e7af5-05eb-0af4-0c0f-0021988de5e9",
+      "EntityName": "Reporting entities - Lusaka",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-12-31T17:30:30Z",
+      "Notes": "Str analysis for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "050c9250-237b-186b-227e-00823769a505",
+      "EntityId": "05335097-1fd7-1f8b-09ac-00dde66a2466",
+      "EntityName": "Shell companies - Livingstone",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-12-20T17:30:30Z",
+      "Notes": "Str analysis for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-19T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05c91795-11ac-140e-06ee-007c2b2b8f34",
+      "EntityId": "01bccb36-22b1-2421-0c1f-00de190dcc9b",
+      "EntityName": "Financial institutions - Ndola",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-10-24T17:30:30Z",
+      "Notes": "Intelligence sharing for financial crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-27T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04acda49-15ac-16ac-10f8-00dd8168498f",
+      "EntityId": "04f7e64b-219a-08cd-15c2-004bcb66447b",
+      "EntityName": "Shell companies - Ndola",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "Notes": "Enforcement for terrorism financing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05019272-1b38-1100-1c32-00e02031f42d",
+      "EntityId": "04927bfb-1d78-0b85-1049-00344100d43b",
+      "EntityName": "Reporting entities - Chirundu",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-02T17:30:30Z",
+      "Notes": "Investigation for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-10T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "045f4653-1086-2344-0cf1-004df3aae964",
+      "EntityId": "058a527d-16c1-1381-19fe-006343b3ab8f",
+      "EntityName": "Financial institutions - Ndola",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-28T17:30:30Z",
+      "Notes": "Enforcement for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-02T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03ac4420-26cf-1608-17be-00894f4f38d4",
+      "EntityId": "01b41f30-1e07-093e-2164-004b7ae8da1d",
+      "EntityName": "Suspicious persons - Chirundu",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-10-27T17:30:30Z",
+      "Notes": "Enforcement for money laundering verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-01T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "04451a65-09fb-1ce9-1bfb-005d59fd162e",
+      "EntityId": "05efbb33-1de9-1fd9-16f3-00dfb30c8305",
+      "EntityName": "Shell companies - Livingstone",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-11T17:30:30Z",
+      "Notes": "Str analysis for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-02T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0446fb7d-0582-1837-1590-0056626dde78",
+      "EntityId": "05d58799-0534-215e-06a8-00a89649f445",
+      "EntityName": "Reporting entities - Livingstone",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-09T17:30:30Z",
+      "Notes": "Str analysis for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-22T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02997aa8-1039-1f05-0486-00d0007f0dde",
+      "EntityId": "053b80b4-2127-0dca-1d93-00b847a87fa0",
+      "EntityName": "Suspicious persons - Ndola",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-11-07T17:30:30Z",
+      "Notes": "Investigation for terrorism financing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-25T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "04dfc291-04cb-214b-2043-002fcec14c40",
+      "EntityId": "03a3c386-0e92-0e98-11ec-004d1e251f21",
+      "EntityName": "Reporting entities - Lusaka",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-05T17:30:30Z",
+      "Notes": "Str analysis for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04c7f8da-20d7-07b6-0b20-00a2406c2ff4",
+      "EntityId": "0377b712-13d4-0d5c-0879-005524360dc8",
+      "EntityName": "Shell companies - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-08T17:30:30Z",
+      "Notes": "Str analysis for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0485d4d3-1afa-2550-1050-004aa60cb4a9",
+      "EntityId": "043e6a59-11ba-260b-21b2-006358d7571f",
+      "EntityName": "Reporting entities - Livingstone",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-10T17:30:30Z",
+      "Notes": "Intelligence sharing for money laundering verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-19T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0420d361-17c7-13dd-2560-008b8e7c6f45",
+      "EntityId": "029c0535-22bb-1021-0fe4-009884332d5a",
+      "EntityName": "Financial institutions - Kitwe",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-06T17:30:30Z",
+      "Notes": "Investigation for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01aa1c4d-22ca-2219-1415-004678beb3dd",
+      "EntityId": "05859b37-11ac-0ca7-1958-002543383bfe",
+      "EntityName": "Financial institutions - Livingstone",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-01T17:30:30Z",
+      "Notes": "Intelligence sharing for financial crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-30T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-27T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01a36188-1fdb-0729-0d8a-00b42f89332f",
+      "EntityId": "02f880b5-23b3-1327-10ce-0029be3bf538",
+      "EntityName": "Financial institutions - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-08T17:30:30Z",
+      "Notes": "Str analysis for financial crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "056ad194-10a5-0420-1938-00e31e0cdbda",
+      "EntityId": "012bdac8-205c-061f-0b56-00af64bd7933",
+      "EntityName": "Reporting entities - Ndola",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-10-21T17:30:30Z",
+      "Notes": "Compliance monitoring for money laundering verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-28T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a915cf-1d33-2465-13db-001e4bbcf7fb",
+      "EntityId": "02b2f8fe-2237-2444-0fd9-007b5c73d201",
+      "EntityName": "Suspicious persons - Kitwe",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-02T17:30:30Z",
+      "Notes": "Compliance monitoring for money laundering verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "023ffba1-0f53-26de-079b-00313390dbb6",
+      "EntityId": "0530f591-1964-0870-09da-001d01a1ae24",
+      "EntityName": "Shell companies - Ndola",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-11T17:30:30Z",
+      "Notes": "Str analysis for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-27T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "012a3582-057e-0db5-0443-00b8f95c8e62",
+      "EntityId": "026257de-14e0-1d76-1835-00a539bb2d9c",
+      "EntityName": "Shell companies - Lusaka",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-27T17:30:30Z",
+      "Notes": "Intelligence sharing for STR analysis verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-25T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03b945cf-04b6-2355-0c78-006c68fead57",
+      "EntityId": "053beec6-08e9-1e92-0559-0028e393116f",
+      "EntityName": "Shell companies - Chirundu",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-11-11T17:30:30Z",
+      "Notes": "Str analysis for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "044935e9-1502-04f4-254a-0020eb967492",
+      "EntityId": "042e3ff6-1ca7-1b28-19c8-00623971efc9",
+      "EntityName": "Suspicious persons - Lusaka",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-01T17:30:30Z",
+      "Notes": "Str analysis for money laundering verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01a54d97-119a-1630-083b-00777ca52036",
+      "EntityId": "03994726-2055-099b-05cc-0020fe9d7854",
+      "EntityName": "Financial institutions - Chirundu",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-02T17:30:30Z",
+      "Notes": "Compliance monitoring for financial crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-03T17:30:30Z"
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 11,
+    "Pending": 23,
+    "Failed": 16
+  }
+}

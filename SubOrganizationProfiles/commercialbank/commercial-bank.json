@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "CommercialBank",
+  "DisplayName": "Zambia National Commercial Bank (Zanaco)",
+  "Country": "Zambia",
+  "Headquarters": "Lusaka, Zambia",
+  "Mandate": "Serve corporate and retail customers, provide trade finance, and comply with AML/CFT requirements.",
+  "TopPriorities": [
+    "Support mining and export clients while managing foreign exchange exposures.",
+    "Integrate tax compliance checks for large VAT refund clients such as Santorin and Liangyung.",
+    "Expand digital onboarding for SME exporters in the North-Western and Copperbelt provinces."
+  ],
+  "ActiveOperations": [
+    "Trade finance desk that ties outward remittances to ZRA export declarations before releasing funds.",
+    "AML alert review squad working with Zambia Financial Intelligence Centre on suspicious transfers.",
+    "SME mentoring program to help companies prepare accurate VAT returns."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Suspended six corporate accounts linked to layered intercompany loans",
+      "Date": "2026-01-06T00:00:00Z",
+      "Summary": "Banks froze accounts once the Bank of Zambia and ZRA provided notice of potential transfer pricing abuse."
+    },
+    {
+      "Title": "Hosted compliance roundtable with telecom and mining clients",
+      "Date": "2025-12-12T00:00:00Z",
+      "Summary": "Shared best practices on document retention to support future audits and cases."
+    }
+  ],
+  "KeyPartnerships": [
+    "Bank of Zambia",
+    "Zambia Revenue Authority",
+    "Financial Intelligence Centre"
+  ],
+  "Metrics": {
+    "CorporateClients": "1,850 active corporate relationships",
+    "AMLInvestigations": "42 alerts handled last quarter",
+    "SMESupported": "260 exporters onboarded"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "National securityPath",
+      "Summary": "Identified 6-step pattern linking persons of interest to threat assessment in Nakonde",
+      "HighlightedNodes": [
+        "042b77c0-159c-0578-1592-008377a9275f",
+        "050b9300-1412-0706-048b-007773a30ef4",
+        "025243aa-19c4-21e9-0b24-0035c735d3aa",
+        "05707486-0ce8-12b1-1e0d-00289e0d8d40",
+        "0264f61a-110f-174b-243b-007b6cae0992",
+        "02a10579-1c5f-083f-11e1-00966528616c"
+      ]
+    },
+    {
+      "Name": "Counter-intelligencePath",
+      "Summary": "Identified 5-step pattern linking security threats to strategic intelligence in Copperbelt",
+      "HighlightedNodes": [
+        "018cb6f6-0958-21f7-1604-00770529244f",
+        "00c9def1-1d8c-1c23-253d-0045a4625245",
+        "05550699-069c-105c-20d5-003454830790",
+        "0233b959-1301-1fc4-1000-0037757a53f9",
+        "0295b79f-1563-1825-10c2-00a48892ebbc"
+      ]
+    },
+    {
+      "Name": "Counter-intelligencePath",
+      "Summary": "Identified 3-step pattern linking intelligence targets to counter-intelligence in Copperbelt",
+      "HighlightedNodes": [
+        "017b2220-1353-08dc-2443-00d777b69c47",
+        "03ba94d8-0d91-14c4-176d-0099b57a5f02",
+        "03b4f5e8-1f04-199f-0737-00bd2368e7db"
+      ]
+    },
+    {
+      "Name": "Threat assessmentPath",
+      "Summary": "Identified 5-step pattern linking persons of interest to threat assessment in Livingstone",
+      "HighlightedNodes": [
+        "036d1d81-1ee4-1036-2235-00cfe7f485c9",
+        "0120a75d-17fb-2254-0cfd-0040eb5085fb",
+        "009d9a0b-249e-1487-189d-009c80133681",
+        "0106b7ad-11dd-0bbd-20ab-0081f2ed700a",
+        "02a0a83b-230a-20aa-1dc5-00e1e1c19b72"
+      ]
+    },
+    {
+      "Name": "Strategic intelligencePath",
+      "Summary": "Identified 3-step pattern linking intelligence targets to national security in Copperbelt",
+      "HighlightedNodes": [
+        "0431a605-0859-20a6-2407-00accd7d5d30",
+        "0370dcbe-14f6-0c19-0e4c-00380097de88",
+        "0126785a-0fed-06cf-0c9a-00a7f857623d"
+      ]
+    }
+  ]
+}

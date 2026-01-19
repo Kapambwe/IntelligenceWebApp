@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "FinancialIntelligence",
+  "DisplayName": "Financial Intelligence Centre - Zambia",
+  "Country": "Zambia",
+  "Headquarters": "Ridgeway, Lusaka",
+  "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+  "TopPriorities": [
+    "Process STRs tied to cross-border copper revenue repatriation within 48 hours.",
+    "Improve compliance training for fintech start-ups in Lusaka and the Copperbelt.",
+    "Strengthen case referrals to the Anti-Corruption Commission and the Economic Crimes Court."
+  ],
+  "ActiveOperations": [
+    "Real-time money laundering risk dashboard that tracks high-value remittances from Chinese-owned logistics firms.",
+    "Digital onboarding of reporting entities with TIGRIS (Tracking, Investigating, and Gathering Real-time Intelligence System).",
+    "Regional FIC collaboration with COMESA to automate share-of-wallet monitoring for commercial banks."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Sent STRs on telecom-based layering to the ACC",
+      "Date": "2026-01-05T00:00:00Z",
+      "Summary": "Transactions flagged for multiple MTN Zambia SIM swaps and suspicious airtime purchases were forwarded for enforcement."
+    },
+    {
+      "Title": "Hosted AML data lab with the Bank of Zambia",
+      "Date": "2025-12-20T00:00:00Z",
+      "Summary": "Financial behavior experts synchronized SWIFT and domestic RTGS feeds to identify unusual loan rollovers."
+    }
+  ],
+  "KeyPartnerships": [
+    "Zambia Revenue Authority",
+    "Zambia Anti-Corruption Commission",
+    "Egmont Group of Financial Intelligence Units"
+  ],
+  "Metrics": {
+    "STRsAnalyzed": "4,120 in the last year",
+    "CaseReferrals": "157 to prosecutors",
+    "EntityCoverage": "95% of licensed banks"
+  }
+}

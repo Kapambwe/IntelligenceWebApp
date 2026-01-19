@@ -1,0 +1,1589 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "030414c8-0737-17b2-05c3-00dc6752b90a",
+      "Title": "Office of the Auditor General compliance review financial irregularities",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/4997",
+      "PublishedDate": "2026-01-04T17:30:30Z",
+      "PublishedAt": "2025-11-03T17:30:30Z",
+      "DiscoveredAt": "2025-12-13T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Forensic analysis reveals procurement fraud in Eastern Province",
+      "RelatedEntities": [
+        "Local authorities - Central Province"
+      ],
+      "Entities": [
+        "Local authorities - Central Province"
+      ],
+      "Keywords": [
+        "compliance",
+        "financial irregularities",
+        "misappropriation"
+      ],
+      "RelevanceScore": 65.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "052b0526-14e6-04b5-0c35-00d827fa2207",
+      "Title": "Office of the Auditor General investigation financial irregularities",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/7876",
+      "PublishedDate": "2025-12-19T17:30:30Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2025-12-20T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Investigation reveals audit findings in Eastern Province",
+      "RelatedEntities": [
+        "Public institutions - Southern Province"
+      ],
+      "Entities": [
+        "Public institutions - Southern Province"
+      ],
+      "Keywords": [
+        "misappropriation",
+        "financial irregularities",
+        "audit findings"
+      ],
+      "RelevanceScore": 70.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01a726a4-1c44-1f09-0aca-007dfa6ac70f",
+      "Title": "Office of the Auditor General audit procurement fraud",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/7096",
+      "PublishedDate": "2026-01-10T17:30:30Z",
+      "PublishedAt": "2025-11-24T17:30:30Z",
+      "DiscoveredAt": "2025-11-02T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Financial examination reveals compliance in Southern Province",
+      "RelatedEntities": [
+        "Statutory bodies - Eastern Province"
+      ],
+      "Entities": [
+        "Statutory bodies - Eastern Province"
+      ],
+      "Keywords": [
+        "misappropriation",
+        "procurement fraud",
+        "audit findings"
+      ],
+      "RelevanceScore": 85.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0267c669-1efc-1ec7-1f2c-0099acf0c1df",
+      "Title": "Office of the Auditor General forensic analysis misappropriation",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/1508",
+      "PublishedDate": "2025-12-09T17:30:30Z",
+      "PublishedAt": "2026-01-09T17:30:30Z",
+      "DiscoveredAt": "2025-12-06T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Forensic analysis reveals compliance in Central Province",
+      "RelatedEntities": [
+        "Public institutions - Central Province"
+      ],
+      "Entities": [
+        "Public institutions - Central Province"
+      ],
+      "Keywords": [
+        "financial irregularities",
+        "procurement fraud",
+        "compliance"
+      ],
+      "RelevanceScore": 83.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "033595b8-1354-0521-1704-005762216123",
+      "Title": "Office of the Auditor General compliance review financial irregularities",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/1292",
+      "PublishedDate": "2026-01-15T17:30:30Z",
+      "PublishedAt": "2025-12-31T17:30:30Z",
+      "DiscoveredAt": "2025-11-16T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Compliance review reveals audit findings in Copperbelt Province",
+      "RelatedEntities": [
+        "Local authorities - Lusaka"
+      ],
+      "Entities": [
+        "Local authorities - Lusaka"
+      ],
+      "Keywords": [
+        "financial irregularities",
+        "compliance",
+        "procurement fraud"
+      ],
+      "RelevanceScore": 84.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0561487c-0bfe-1cc4-1e32-0081ab414d7f",
+      "Title": "Office of the Auditor General forensic analysis procurement fraud",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/4293",
+      "PublishedDate": "2025-12-02T17:30:30Z",
+      "PublishedAt": "2026-01-14T17:30:30Z",
+      "DiscoveredAt": "2025-11-26T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Investigation reveals audit findings in Copperbelt Province",
+      "RelatedEntities": [
+        "Local authorities - Lusaka"
+      ],
+      "Entities": [
+        "Local authorities - Lusaka"
+      ],
+      "Keywords": [
+        "financial irregularities",
+        "compliance",
+        "misappropriation"
+      ],
+      "RelevanceScore": 68.7,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "023dd3bd-14ab-12eb-0da8-00c8464371fe",
+      "Title": "Office of the Auditor General financial examination compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/6535",
+      "PublishedDate": "2025-12-14T17:30:30Z",
+      "PublishedAt": "2025-11-09T17:30:30Z",
+      "DiscoveredAt": "2025-12-01T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Investigation reveals misappropriation in Eastern Province",
+      "RelatedEntities": [
+        "Government ministries - Southern Province"
+      ],
+      "Entities": [
+        "Government ministries - Southern Province"
+      ],
+      "Keywords": [
+        "audit findings",
+        "procurement fraud",
+        "financial irregularities"
+      ],
+      "RelevanceScore": 71.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05f17f21-1f9a-2591-0d83-002ac9c2f353",
+      "Title": "Office of the Auditor General investigation financial irregularities",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/4034",
+      "PublishedDate": "2025-12-11T17:30:30Z",
+      "PublishedAt": "2025-12-08T17:30:30Z",
+      "DiscoveredAt": "2025-11-03T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Audit reveals procurement fraud in Lusaka",
+      "RelatedEntities": [
+        "Local authorities - Central Province"
+      ],
+      "Entities": [
+        "Local authorities - Central Province"
+      ],
+      "Keywords": [
+        "financial irregularities",
+        "audit findings",
+        "misappropriation"
+      ],
+      "RelevanceScore": 61.8,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "010c242f-0727-10f1-0c63-00a7817aa66c",
+      "Title": "Office of the Auditor General audit procurement fraud",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/4213",
+      "PublishedDate": "2025-12-12T17:30:30Z",
+      "PublishedAt": "2025-12-21T17:30:30Z",
+      "DiscoveredAt": "2025-12-28T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Investigation reveals compliance in Central Province",
+      "RelatedEntities": [
+        "Local authorities - Central Province"
+      ],
+      "Entities": [
+        "Local authorities - Central Province"
+      ],
+      "Keywords": [
+        "procurement fraud",
+        "misappropriation",
+        "audit findings"
+      ],
+      "RelevanceScore": 67.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00f59656-2613-089b-1f57-0079dc106fec",
+      "Title": "Office of the Auditor General financial examination financial irregularities",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/1287",
+      "PublishedDate": "2025-12-13T17:30:30Z",
+      "PublishedAt": "2025-10-22T17:30:30Z",
+      "DiscoveredAt": "2025-12-18T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Investigation reveals misappropriation in Lusaka",
+      "RelatedEntities": [
+        "Statutory bodies - Copperbelt Province"
+      ],
+      "Entities": [
+        "Statutory bodies - Copperbelt Province"
+      ],
+      "Keywords": [
+        "compliance",
+        "audit findings",
+        "financial irregularities"
+      ],
+      "RelevanceScore": 61.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02ab290c-1be2-1e18-2688-008f09a8371a",
+      "Title": "Office of the Auditor General audit compliance",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/7559",
+      "PublishedDate": "2025-12-25T17:30:30Z",
+      "PublishedAt": "2025-12-12T17:30:30Z",
+      "DiscoveredAt": "2025-12-26T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Forensic analysis reveals compliance in Central Province",
+      "RelatedEntities": [
+        "Government ministries - Southern Province"
+      ],
+      "Entities": [
+        "Government ministries - Southern Province"
+      ],
+      "Keywords": [
+        "misappropriation",
+        "financial irregularities",
+        "audit findings"
+      ],
+      "RelevanceScore": 86.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0287c4af-1129-0b30-13f1-00aa511515e8",
+      "Title": "Office of the Auditor General forensic analysis misappropriation",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/4263",
+      "PublishedDate": "2025-10-25T17:30:30Z",
+      "PublishedAt": "2025-11-30T17:30:30Z",
+      "DiscoveredAt": "2026-01-06T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Investigation reveals compliance in Lusaka",
+      "RelatedEntities": [
+        "Statutory bodies - Lusaka"
+      ],
+      "Entities": [
+        "Statutory bodies - Lusaka"
+      ],
+      "Keywords": [
+        "misappropriation",
+        "financial irregularities",
+        "procurement fraud"
+      ],
+      "RelevanceScore": 89.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01297d1d-1cdd-1b23-06df-004557a3cc0f",
+      "Title": "Office of the Auditor General financial examination procurement fraud",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/2226",
+      "PublishedDate": "2026-01-05T17:30:30Z",
+      "PublishedAt": "2025-12-23T17:30:30Z",
+      "DiscoveredAt": "2025-11-15T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Compliance review reveals compliance in Lusaka",
+      "RelatedEntities": [
+        "Government ministries - Southern Province"
+      ],
+      "Entities": [
+        "Government ministries - Southern Province"
+      ],
+      "Keywords": [
+        "audit findings",
+        "compliance",
+        "financial irregularities"
+      ],
+      "RelevanceScore": 82.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "046cb92e-23cd-265e-1daa-00e4e7a4e276",
+      "Title": "Office of the Auditor General forensic analysis financial irregularities",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/4107",
+      "PublishedDate": "2025-11-21T17:30:30Z",
+      "PublishedAt": "2025-11-06T17:30:30Z",
+      "DiscoveredAt": "2025-12-06T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Investigation reveals misappropriation in Southern Province",
+      "RelatedEntities": [
+        "Statutory bodies - Lusaka"
+      ],
+      "Entities": [
+        "Statutory bodies - Lusaka"
+      ],
+      "Keywords": [
+        "misappropriation",
+        "procurement fraud",
+        "financial irregularities"
+      ],
+      "RelevanceScore": 83.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00c4265d-064f-166a-255a-00d5b07d1959",
+      "Title": "Office of the Auditor General compliance review procurement fraud",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/9465",
+      "PublishedDate": "2025-11-01T17:30:30Z",
+      "PublishedAt": "2025-11-19T17:30:30Z",
+      "DiscoveredAt": "2025-11-15T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Audit reveals procurement fraud in Southern Province",
+      "RelatedEntities": [
+        "Statutory bodies - Southern Province"
+      ],
+      "Entities": [
+        "Statutory bodies - Southern Province"
+      ],
+      "Keywords": [
+        "compliance",
+        "financial irregularities",
+        "procurement fraud"
+      ],
+      "RelevanceScore": 66.2,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "009dd9d0-0a9c-06b4-08b2-00afdc650f32",
+      "Title": "Office of the Auditor General investigation audit findings",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/8445",
+      "PublishedDate": "2025-11-06T17:30:30Z",
+      "PublishedAt": "2025-11-26T17:30:30Z",
+      "DiscoveredAt": "2026-01-19T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Forensic analysis reveals financial irregularities in Southern Province",
+      "RelatedEntities": [
+        "Statutory bodies - Eastern Province"
+      ],
+      "Entities": [
+        "Statutory bodies - Eastern Province"
+      ],
+      "Keywords": [
+        "financial irregularities",
+        "misappropriation",
+        "audit findings"
+      ],
+      "RelevanceScore": 62.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0289868a-202d-0df9-101d-0082e5df9bc5",
+      "Title": "Office of the Auditor General forensic analysis procurement fraud",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/5677",
+      "PublishedDate": "2025-11-02T17:30:30Z",
+      "PublishedAt": "2025-12-13T17:30:30Z",
+      "DiscoveredAt": "2025-11-20T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Forensic analysis reveals compliance in Central Province",
+      "RelatedEntities": [
+        "Government ministries - Lusaka"
+      ],
+      "Entities": [
+        "Government ministries - Lusaka"
+      ],
+      "Keywords": [
+        "compliance",
+        "procurement fraud",
+        "audit findings"
+      ],
+      "RelevanceScore": 60.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04387bb7-0af6-22e9-0ec2-00489dd07440",
+      "Title": "Office of the Auditor General financial examination misappropriation",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/6072",
+      "PublishedDate": "2025-11-28T17:30:30Z",
+      "PublishedAt": "2025-11-13T17:30:30Z",
+      "DiscoveredAt": "2025-12-22T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Financial examination reveals compliance in Central Province",
+      "RelatedEntities": [
+        "Local authorities - Central Province"
+      ],
+      "Entities": [
+        "Local authorities - Central Province"
+      ],
+      "Keywords": [
+        "financial irregularities",
+        "compliance",
+        "audit findings"
+      ],
+      "RelevanceScore": 91.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03eabf5b-0a69-2229-049c-004c8667e635",
+      "Title": "Office of the Auditor General audit audit findings",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/5409",
+      "PublishedDate": "2025-12-17T17:30:30Z",
+      "PublishedAt": "2025-11-24T17:30:30Z",
+      "DiscoveredAt": "2025-12-06T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Compliance review reveals procurement fraud in Copperbelt Province",
+      "RelatedEntities": [
+        "Local authorities - Copperbelt Province"
+      ],
+      "Entities": [
+        "Local authorities - Copperbelt Province"
+      ],
+      "Keywords": [
+        "audit findings",
+        "compliance",
+        "financial irregularities"
+      ],
+      "RelevanceScore": 89.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02cf9a9f-1e50-1176-0d0c-0024a545f910",
+      "Title": "Office of the Auditor General compliance review audit findings",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/2138",
+      "PublishedDate": "2025-11-07T17:30:30Z",
+      "PublishedAt": "2026-01-13T17:30:30Z",
+      "DiscoveredAt": "2025-11-07T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Financial examination reveals misappropriation in Eastern Province",
+      "RelatedEntities": [
+        "Government ministries - Copperbelt Province"
+      ],
+      "Entities": [
+        "Government ministries - Copperbelt Province"
+      ],
+      "Keywords": [
+        "financial irregularities",
+        "compliance",
+        "misappropriation"
+      ],
+      "RelevanceScore": 89.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03a5631d-09a1-1443-2181-00b495649c7b",
+      "Title": "Office of the Auditor General audit financial irregularities",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/2599",
+      "PublishedDate": "2025-11-19T17:30:30Z",
+      "PublishedAt": "2025-11-04T17:30:30Z",
+      "DiscoveredAt": "2025-12-24T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Audit reveals compliance in Eastern Province",
+      "RelatedEntities": [
+        "Public institutions - Copperbelt Province"
+      ],
+      "Entities": [
+        "Public institutions - Copperbelt Province"
+      ],
+      "Keywords": [
+        "compliance",
+        "misappropriation",
+        "financial irregularities"
+      ],
+      "RelevanceScore": 70.8,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02cbad41-04e0-0c90-1092-001f47036981",
+      "Title": "Office of the Auditor General forensic analysis misappropriation",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/5872",
+      "PublishedDate": "2025-12-19T17:30:30Z",
+      "PublishedAt": "2025-12-29T17:30:30Z",
+      "DiscoveredAt": "2026-01-03T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Financial examination reveals audit findings in Copperbelt Province",
+      "RelatedEntities": [
+        "Public institutions - Eastern Province"
+      ],
+      "Entities": [
+        "Public institutions - Eastern Province"
+      ],
+      "Keywords": [
+        "compliance",
+        "financial irregularities",
+        "audit findings"
+      ],
+      "RelevanceScore": 60.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01cc5611-17f1-1e88-1fbb-007d34d154cd",
+      "Title": "Office of the Auditor General compliance review compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2713",
+      "PublishedDate": "2026-01-01T17:30:30Z",
+      "PublishedAt": "2025-12-23T17:30:30Z",
+      "DiscoveredAt": "2025-12-04T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Financial examination reveals compliance in Copperbelt Province",
+      "RelatedEntities": [
+        "Public institutions - Southern Province"
+      ],
+      "Entities": [
+        "Public institutions - Southern Province"
+      ],
+      "Keywords": [
+        "financial irregularities",
+        "procurement fraud",
+        "audit findings"
+      ],
+      "RelevanceScore": 83.8,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05b0c016-06c7-1d5e-07e7-00a55942deea",
+      "Title": "Office of the Auditor General compliance review misappropriation",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/4805",
+      "PublishedDate": "2026-01-09T17:30:30Z",
+      "PublishedAt": "2025-12-25T17:30:30Z",
+      "DiscoveredAt": "2026-01-02T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Investigation reveals procurement fraud in Central Province",
+      "RelatedEntities": [
+        "Government ministries - Southern Province"
+      ],
+      "Entities": [
+        "Government ministries - Southern Province"
+      ],
+      "Keywords": [
+        "audit findings",
+        "misappropriation",
+        "compliance"
+      ],
+      "RelevanceScore": 70.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0237082f-1ae8-180a-087a-00a5645ad8d4",
+      "Title": "Office of the Auditor General audit procurement fraud",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/4021",
+      "PublishedDate": "2026-01-02T17:30:30Z",
+      "PublishedAt": "2026-01-04T17:30:30Z",
+      "DiscoveredAt": "2025-11-27T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Audit reveals financial irregularities in Lusaka",
+      "RelatedEntities": [
+        "Local authorities - Lusaka"
+      ],
+      "Entities": [
+        "Local authorities - Lusaka"
+      ],
+      "Keywords": [
+        "compliance",
+        "misappropriation",
+        "procurement fraud"
+      ],
+      "RelevanceScore": 67.0,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "051a58c1-0dfc-0d6b-0ddd-0059f870e256",
+      "Title": "Office of the Auditor General forensic analysis financial irregularities",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/7736",
+      "PublishedDate": "2025-11-08T17:30:30Z",
+      "PublishedAt": "2025-11-14T17:30:30Z",
+      "DiscoveredAt": "2026-01-01T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Compliance review reveals misappropriation in Eastern Province",
+      "RelatedEntities": [
+        "Local authorities - Southern Province"
+      ],
+      "Entities": [
+        "Local authorities - Southern Province"
+      ],
+      "Keywords": [
+        "procurement fraud",
+        "compliance",
+        "misappropriation"
+      ],
+      "RelevanceScore": 89.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "033252ea-131b-09a7-0ea4-0060c61387ab",
+      "Title": "Office of the Auditor General financial examination procurement fraud",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/9220",
+      "PublishedDate": "2025-11-27T17:30:30Z",
+      "PublishedAt": "2025-11-30T17:30:30Z",
+      "DiscoveredAt": "2026-01-06T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Compliance review reveals audit findings in Copperbelt Province",
+      "RelatedEntities": [
+        "Government ministries - Central Province"
+      ],
+      "Entities": [
+        "Government ministries - Central Province"
+      ],
+      "Keywords": [
+        "procurement fraud",
+        "audit findings",
+        "compliance"
+      ],
+      "RelevanceScore": 78.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "054c21f8-1ec1-1749-0ee6-006f77128904",
+      "Title": "Office of the Auditor General compliance review compliance",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/5912",
+      "PublishedDate": "2025-12-22T17:30:30Z",
+      "PublishedAt": "2025-12-26T17:30:30Z",
+      "DiscoveredAt": "2025-12-27T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Investigation reveals procurement fraud in Lusaka",
+      "RelatedEntities": [
+        "Local authorities - Lusaka"
+      ],
+      "Entities": [
+        "Local authorities - Lusaka"
+      ],
+      "Keywords": [
+        "misappropriation",
+        "audit findings",
+        "compliance"
+      ],
+      "RelevanceScore": 77.8,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "030cc1da-0888-04e4-20ce-002253987185",
+      "Title": "Office of the Auditor General audit compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/5084",
+      "PublishedDate": "2025-11-15T17:30:30Z",
+      "PublishedAt": "2025-10-23T17:30:30Z",
+      "DiscoveredAt": "2026-01-15T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Audit reveals audit findings in Copperbelt Province",
+      "RelatedEntities": [
+        "Government ministries - Copperbelt Province"
+      ],
+      "Entities": [
+        "Government ministries - Copperbelt Province"
+      ],
+      "Keywords": [
+        "financial irregularities",
+        "audit findings",
+        "procurement fraud"
+      ],
+      "RelevanceScore": 72.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04b0967d-1476-26a8-1397-008ca58134e4",
+      "Title": "Office of the Auditor General investigation audit findings",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/6558",
+      "PublishedDate": "2025-11-06T17:30:30Z",
+      "PublishedAt": "2025-12-06T17:30:30Z",
+      "DiscoveredAt": "2026-01-18T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Financial examination reveals compliance in Eastern Province",
+      "RelatedEntities": [
+        "Government ministries - Central Province"
+      ],
+      "Entities": [
+        "Government ministries - Central Province"
+      ],
+      "Keywords": [
+        "procurement fraud",
+        "audit findings",
+        "financial irregularities"
+      ],
+      "RelevanceScore": 75.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00d12d67-1fba-0e93-1c80-0091358cc891",
+      "Title": "Office of the Auditor General investigation procurement fraud",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/9262",
+      "PublishedDate": "2026-01-12T17:30:30Z",
+      "PublishedAt": "2025-11-24T17:30:30Z",
+      "DiscoveredAt": "2026-01-12T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Investigation reveals compliance in Lusaka",
+      "RelatedEntities": [
+        "Public institutions - Lusaka"
+      ],
+      "Entities": [
+        "Public institutions - Lusaka"
+      ],
+      "Keywords": [
+        "financial irregularities",
+        "compliance",
+        "procurement fraud"
+      ],
+      "RelevanceScore": 86.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05281f9c-12e7-0f0f-24b9-009378f684f6",
+      "Title": "Office of the Auditor General compliance review audit findings",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/1666",
+      "PublishedDate": "2025-12-25T17:30:30Z",
+      "PublishedAt": "2025-12-30T17:30:30Z",
+      "DiscoveredAt": "2025-11-12T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Financial examination reveals procurement fraud in Central Province",
+      "RelatedEntities": [
+        "Statutory bodies - Eastern Province"
+      ],
+      "Entities": [
+        "Statutory bodies - Eastern Province"
+      ],
+      "Keywords": [
+        "procurement fraud",
+        "compliance",
+        "audit findings"
+      ],
+      "RelevanceScore": 92.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "023f31dd-2599-0aa1-042c-001886404504",
+      "Title": "Office of the Auditor General forensic analysis audit findings",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/3294",
+      "PublishedDate": "2026-01-02T17:30:30Z",
+      "PublishedAt": "2025-12-28T17:30:30Z",
+      "DiscoveredAt": "2025-11-29T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Audit reveals compliance in Central Province",
+      "RelatedEntities": [
+        "Government ministries - Central Province"
+      ],
+      "Entities": [
+        "Government ministries - Central Province"
+      ],
+      "Keywords": [
+        "audit findings",
+        "procurement fraud",
+        "misappropriation"
+      ],
+      "RelevanceScore": 83.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "053eb43d-25cb-10e6-1d05-009d9a3473ba",
+      "Title": "Office of the Auditor General investigation compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2578",
+      "PublishedDate": "2025-12-31T17:30:30Z",
+      "PublishedAt": "2025-11-15T17:30:30Z",
+      "DiscoveredAt": "2025-11-22T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Audit reveals procurement fraud in Eastern Province",
+      "RelatedEntities": [
+        "Public institutions - Eastern Province"
+      ],
+      "Entities": [
+        "Public institutions - Eastern Province"
+      ],
+      "Keywords": [
+        "misappropriation",
+        "compliance",
+        "procurement fraud"
+      ],
+      "RelevanceScore": 90.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04d8164a-1cb5-1e1a-25d1-0096c4338385",
+      "Title": "Office of the Auditor General investigation misappropriation",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/2884",
+      "PublishedDate": "2025-11-02T17:30:30Z",
+      "PublishedAt": "2025-11-14T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Forensic analysis reveals compliance in Eastern Province",
+      "RelatedEntities": [
+        "Local authorities - Central Province"
+      ],
+      "Entities": [
+        "Local authorities - Central Province"
+      ],
+      "Keywords": [
+        "audit findings",
+        "misappropriation",
+        "financial irregularities"
+      ],
+      "RelevanceScore": 93.4,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01d17f1b-1386-06df-0e5c-006889b6c9c1",
+      "Title": "Office of the Auditor General forensic analysis procurement fraud",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/6042",
+      "PublishedDate": "2025-10-26T17:30:30Z",
+      "PublishedAt": "2025-11-12T17:30:30Z",
+      "DiscoveredAt": "2026-01-13T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Forensic analysis reveals compliance in Southern Province",
+      "RelatedEntities": [
+        "Public institutions - Lusaka"
+      ],
+      "Entities": [
+        "Public institutions - Lusaka"
+      ],
+      "Keywords": [
+        "compliance",
+        "misappropriation",
+        "financial irregularities"
+      ],
+      "RelevanceScore": 78.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02f6ccda-1b87-1cc8-1a0e-00c10fcab29f",
+      "Title": "Office of the Auditor General investigation procurement fraud",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/4185",
+      "PublishedDate": "2025-11-09T17:30:30Z",
+      "PublishedAt": "2025-10-23T17:30:30Z",
+      "DiscoveredAt": "2025-12-06T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Compliance review reveals misappropriation in Central Province",
+      "RelatedEntities": [
+        "Public institutions - Central Province"
+      ],
+      "Entities": [
+        "Public institutions - Central Province"
+      ],
+      "Keywords": [
+        "procurement fraud",
+        "financial irregularities",
+        "compliance"
+      ],
+      "RelevanceScore": 90.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01a47092-1d8d-1a3a-16a4-004c5f165466",
+      "Title": "Office of the Auditor General investigation procurement fraud",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/8657",
+      "PublishedDate": "2026-01-18T17:30:30Z",
+      "PublishedAt": "2025-11-17T17:30:30Z",
+      "DiscoveredAt": "2025-10-25T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Forensic analysis reveals financial irregularities in Southern Province",
+      "RelatedEntities": [
+        "Government ministries - Central Province"
+      ],
+      "Entities": [
+        "Government ministries - Central Province"
+      ],
+      "Keywords": [
+        "misappropriation",
+        "compliance",
+        "financial irregularities"
+      ],
+      "RelevanceScore": 79.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "048d5823-102f-221c-051e-00a83d285bb0",
+      "Title": "Office of the Auditor General compliance review procurement fraud",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/3257",
+      "PublishedDate": "2026-01-02T17:30:30Z",
+      "PublishedAt": "2026-01-05T17:30:30Z",
+      "DiscoveredAt": "2025-12-16T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Forensic analysis reveals compliance in Central Province",
+      "RelatedEntities": [
+        "Local authorities - Southern Province"
+      ],
+      "Entities": [
+        "Local authorities - Southern Province"
+      ],
+      "Keywords": [
+        "financial irregularities",
+        "misappropriation",
+        "procurement fraud"
+      ],
+      "RelevanceScore": 88.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00c1a61e-1d34-120b-092d-00c068d48226",
+      "Title": "Office of the Auditor General compliance review procurement fraud",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/3029",
+      "PublishedDate": "2026-01-16T17:30:30Z",
+      "PublishedAt": "2025-12-26T17:30:30Z",
+      "DiscoveredAt": "2025-12-16T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Forensic analysis reveals misappropriation in Lusaka",
+      "RelatedEntities": [
+        "Public institutions - Central Province"
+      ],
+      "Entities": [
+        "Public institutions - Central Province"
+      ],
+      "Keywords": [
+        "financial irregularities",
+        "misappropriation",
+        "procurement fraud"
+      ],
+      "RelevanceScore": 68.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0241bccb-19b4-0de0-096e-004ba2f53319",
+      "Title": "Office of the Auditor General financial examination financial irregularities",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/6050",
+      "PublishedDate": "2026-01-16T17:30:30Z",
+      "PublishedAt": "2025-11-06T17:30:30Z",
+      "DiscoveredAt": "2026-01-02T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Audit reveals misappropriation in Southern Province",
+      "RelatedEntities": [
+        "Statutory bodies - Southern Province"
+      ],
+      "Entities": [
+        "Statutory bodies - Southern Province"
+      ],
+      "Keywords": [
+        "procurement fraud",
+        "compliance",
+        "misappropriation"
+      ],
+      "RelevanceScore": 82.2,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05ce83c6-1e44-1086-0998-003692fc579f",
+      "Title": "Office of the Auditor General forensic analysis audit findings",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/8302",
+      "PublishedDate": "2026-01-07T17:30:30Z",
+      "PublishedAt": "2025-12-26T17:30:30Z",
+      "DiscoveredAt": "2025-12-05T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Forensic analysis reveals financial irregularities in Copperbelt Province",
+      "RelatedEntities": [
+        "Statutory bodies - Copperbelt Province"
+      ],
+      "Entities": [
+        "Statutory bodies - Copperbelt Province"
+      ],
+      "Keywords": [
+        "compliance",
+        "procurement fraud",
+        "audit findings"
+      ],
+      "RelevanceScore": 75.9,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "009a58fa-043f-06ee-11e5-007775436a9b",
+      "Title": "Office of the Auditor General audit compliance",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/9008",
+      "PublishedDate": "2026-01-10T17:30:30Z",
+      "PublishedAt": "2026-01-09T17:30:30Z",
+      "DiscoveredAt": "2025-11-01T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Audit reveals financial irregularities in Central Province",
+      "RelatedEntities": [
+        "Local authorities - Eastern Province"
+      ],
+      "Entities": [
+        "Local authorities - Eastern Province"
+      ],
+      "Keywords": [
+        "misappropriation",
+        "compliance",
+        "procurement fraud"
+      ],
+      "RelevanceScore": 86.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "050afbf7-2657-074b-2575-00951d31ceab",
+      "Title": "Office of the Auditor General audit financial irregularities",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/3578",
+      "PublishedDate": "2025-12-30T17:30:30Z",
+      "PublishedAt": "2025-12-28T17:30:30Z",
+      "DiscoveredAt": "2025-11-19T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Financial examination reveals procurement fraud in Eastern Province",
+      "RelatedEntities": [
+        "Statutory bodies - Lusaka"
+      ],
+      "Entities": [
+        "Statutory bodies - Lusaka"
+      ],
+      "Keywords": [
+        "misappropriation",
+        "compliance",
+        "audit findings"
+      ],
+      "RelevanceScore": 82.7,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03edbb72-133a-09cd-071c-00663fc6506f",
+      "Title": "Office of the Auditor General forensic analysis procurement fraud",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/4756",
+      "PublishedDate": "2025-12-08T17:30:30Z",
+      "PublishedAt": "2025-12-13T17:30:30Z",
+      "DiscoveredAt": "2025-11-01T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Investigation reveals misappropriation in Southern Province",
+      "RelatedEntities": [
+        "Statutory bodies - Lusaka"
+      ],
+      "Entities": [
+        "Statutory bodies - Lusaka"
+      ],
+      "Keywords": [
+        "audit findings",
+        "misappropriation",
+        "compliance"
+      ],
+      "RelevanceScore": 73.3,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00bb06bd-12a4-12e9-1ffc-0055356435c0",
+      "Title": "Office of the Auditor General investigation procurement fraud",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/4054",
+      "PublishedDate": "2025-12-18T17:30:30Z",
+      "PublishedAt": "2025-12-10T17:30:30Z",
+      "DiscoveredAt": "2025-10-29T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Financial examination reveals compliance in Southern Province",
+      "RelatedEntities": [
+        "Public institutions - Lusaka"
+      ],
+      "Entities": [
+        "Public institutions - Lusaka"
+      ],
+      "Keywords": [
+        "audit findings",
+        "procurement fraud",
+        "misappropriation"
+      ],
+      "RelevanceScore": 88.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01cfe139-2543-082e-111f-004a5a2de9c7",
+      "Title": "Office of the Auditor General audit financial irregularities",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/9908",
+      "PublishedDate": "2026-01-02T17:30:30Z",
+      "PublishedAt": "2025-12-27T17:30:30Z",
+      "DiscoveredAt": "2025-12-31T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Investigation reveals financial irregularities in Southern Province",
+      "RelatedEntities": [
+        "Government ministries - Southern Province"
+      ],
+      "Entities": [
+        "Government ministries - Southern Province"
+      ],
+      "Keywords": [
+        "procurement fraud",
+        "audit findings",
+        "financial irregularities"
+      ],
+      "RelevanceScore": 69.9,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03732aa0-0d05-078e-18c8-004180044e1b",
+      "Title": "Office of the Auditor General financial examination misappropriation",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/4975",
+      "PublishedDate": "2025-12-26T17:30:30Z",
+      "PublishedAt": "2026-01-01T17:30:30Z",
+      "DiscoveredAt": "2026-01-01T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Forensic analysis reveals financial irregularities in Lusaka",
+      "RelatedEntities": [
+        "Local authorities - Copperbelt Province"
+      ],
+      "Entities": [
+        "Local authorities - Copperbelt Province"
+      ],
+      "Keywords": [
+        "procurement fraud",
+        "financial irregularities",
+        "compliance"
+      ],
+      "RelevanceScore": 72.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0251e708-1981-0a02-18e4-004fa948889b",
+      "Title": "Office of the Auditor General compliance review financial irregularities",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/7341",
+      "PublishedDate": "2026-01-16T17:30:30Z",
+      "PublishedAt": "2025-11-11T17:30:30Z",
+      "DiscoveredAt": "2025-12-16T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Audit reveals procurement fraud in Central Province",
+      "RelatedEntities": [
+        "Statutory bodies - Southern Province"
+      ],
+      "Entities": [
+        "Statutory bodies - Southern Province"
+      ],
+      "Keywords": [
+        "financial irregularities",
+        "misappropriation",
+        "compliance"
+      ],
+      "RelevanceScore": 83.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "056783e7-1be7-21fe-20c7-001bc983b55c",
+      "Title": "Office of the Auditor General compliance review audit findings",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/6110",
+      "PublishedDate": "2025-11-06T17:30:30Z",
+      "PublishedAt": "2025-11-25T17:30:30Z",
+      "DiscoveredAt": "2026-01-09T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Financial examination reveals procurement fraud in Lusaka",
+      "RelatedEntities": [
+        "Statutory bodies - Lusaka"
+      ],
+      "Entities": [
+        "Statutory bodies - Lusaka"
+      ],
+      "Keywords": [
+        "procurement fraud",
+        "financial irregularities",
+        "audit findings"
+      ],
+      "RelevanceScore": 66.5,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "0157b4e0-116c-1df8-0549-00d73f56a6f2",
+      "ArticleId": "023dd3bd-14ab-12eb-0da8-00c8464371fe",
+      "EntityId": "03b8f7ad-1328-155c-0961-00e7a07107ea",
+      "EntityName": "Government ministries - Southern Province",
+      "AlertReason": "Adverse media on audit findings",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-20T17:30:30Z",
+      "TriggeredAt": "2025-12-12T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0236fec8-13f9-1151-1ee6-005de80fbdf0",
+      "ArticleId": "00f59656-2613-089b-1f57-0079dc106fec",
+      "EntityId": "03f1d10a-042f-0d3e-0c55-0044095acb4a",
+      "EntityName": "Statutory bodies - Copperbelt Province",
+      "AlertReason": "Adverse media on financial irregularities",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "TriggeredAt": "2025-11-10T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04c7f65e-0cb9-2241-2687-006fc8d4d26f",
+      "ArticleId": "02ab290c-1be2-1e18-2688-008f09a8371a",
+      "EntityId": "00fcb35e-0f3d-228b-17e8-0031c4827e3b",
+      "EntityName": "Government ministries - Southern Province",
+      "AlertReason": "Adverse media on audit findings",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-15T17:30:30Z",
+      "TriggeredAt": "2025-12-30T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "00bf0ed1-0f9b-238c-1cd1-00bd43d0fb4f",
+      "ArticleId": "046cb92e-23cd-265e-1daa-00e4e7a4e276",
+      "EntityId": "01ff3c46-1584-1118-2521-002b459f83ce",
+      "EntityName": "Statutory bodies - Lusaka",
+      "AlertReason": "Adverse media on financial irregularities",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-22T17:30:30Z",
+      "TriggeredAt": "2025-10-27T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "00c4e6f2-0d80-08db-216e-00d5b46087ae",
+      "ArticleId": "0289868a-202d-0df9-101d-0082e5df9bc5",
+      "EntityId": "02067845-1cc3-187c-0b91-007385d5fecb",
+      "EntityName": "Government ministries - Lusaka",
+      "AlertReason": "Adverse media on financial irregularities",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-16T17:30:30Z",
+      "TriggeredAt": "2025-11-08T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "022aa582-09e1-112c-0872-007aebafac31",
+      "ArticleId": "04387bb7-0af6-22e9-0ec2-00489dd07440",
+      "EntityId": "04e57390-11bb-2476-107f-008a938d0a3e",
+      "EntityName": "Local authorities - Central Province",
+      "AlertReason": "Adverse media on audit findings",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-27T17:30:30Z",
+      "TriggeredAt": "2025-10-28T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0356c404-068b-0fae-2670-00d8d508a5dc",
+      "ArticleId": "03a5631d-09a1-1443-2181-00b495649c7b",
+      "EntityId": "00b76b2e-2157-09bb-133e-002c0f55aff5",
+      "EntityName": "Public institutions - Copperbelt Province",
+      "AlertReason": "Adverse media on procurement fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-19T17:30:30Z",
+      "TriggeredAt": "2025-11-23T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0590cadd-061a-0977-2421-00afe8e2189b",
+      "ArticleId": "02cbad41-04e0-0c90-1092-001f47036981",
+      "EntityId": "046dc70c-0c72-0db8-238a-0041a590530c",
+      "EntityName": "Public institutions - Eastern Province",
+      "AlertReason": "Adverse media on procurement fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-16T17:30:30Z",
+      "TriggeredAt": "2025-12-25T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "00e6f155-14d8-04c7-0bac-00a14db07d61",
+      "ArticleId": "01cc5611-17f1-1e88-1fbb-007d34d154cd",
+      "EntityId": "043eab2c-156e-20e1-1ea8-00866c61252a",
+      "EntityName": "Public institutions - Southern Province",
+      "AlertReason": "Adverse media on procurement fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-23T17:30:30Z",
+      "TriggeredAt": "2026-01-16T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "026ddc33-0eb8-076f-0613-0065423c965f",
+      "ArticleId": "05b0c016-06c7-1d5e-07e7-00a55942deea",
+      "EntityId": "019d0ca4-261a-04b6-1eab-0060f7803032",
+      "EntityName": "Government ministries - Southern Province",
+      "AlertReason": "Adverse media on compliance",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-23T17:30:30Z",
+      "TriggeredAt": "2025-12-25T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "026277bf-0e11-0cf3-2291-00c22449abc4",
+      "ArticleId": "033252ea-131b-09a7-0ea4-0060c61387ab",
+      "EntityId": "03e36ecd-0ed8-0af8-08cc-005d41a8a896",
+      "EntityName": "Government ministries - Central Province",
+      "AlertReason": "Adverse media on procurement fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-06T17:30:30Z",
+      "TriggeredAt": "2025-11-05T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02675f26-1904-0d88-153f-00979891a18f",
+      "ArticleId": "054c21f8-1ec1-1749-0ee6-006f77128904",
+      "EntityId": "02f5e78c-06ad-1ea8-24c1-00251852dc1f",
+      "EntityName": "Local authorities - Lusaka",
+      "AlertReason": "Adverse media on audit findings",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2026-01-11T17:30:30Z",
+      "TriggeredAt": "2025-11-15T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "03cd141c-063b-14d6-07ea-00638d44c58e",
+      "ArticleId": "04b0967d-1476-26a8-1397-008ca58134e4",
+      "EntityId": "03bc279e-1150-14c8-08fc-00799603e344",
+      "EntityName": "Government ministries - Central Province",
+      "AlertReason": "Adverse media on misappropriation",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-06T17:30:30Z",
+      "TriggeredAt": "2026-01-19T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02afec03-2073-154d-0479-0080365de24a",
+      "ArticleId": "00d12d67-1fba-0e93-1c80-0091358cc891",
+      "EntityId": "03f9bc7c-19e6-2039-13cb-00540bdeb067",
+      "EntityName": "Public institutions - Lusaka",
+      "AlertReason": "Adverse media on misappropriation",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2026-01-19T17:30:30Z",
+      "TriggeredAt": "2025-10-29T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0423ce49-03eb-0ba9-1ba9-0028f9532dbb",
+      "ArticleId": "023f31dd-2599-0aa1-042c-001886404504",
+      "EntityId": "01696895-1e30-1bab-0689-004656ea7d0b",
+      "EntityName": "Government ministries - Central Province",
+      "AlertReason": "Adverse media on procurement fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-01T17:30:30Z",
+      "TriggeredAt": "2026-01-06T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "029adfbc-0bd4-0a99-1858-007f422a7e69",
+      "ArticleId": "01d17f1b-1386-06df-0e5c-006889b6c9c1",
+      "EntityId": "05dd1d5e-2031-1b62-0a2e-00d9ead7d940",
+      "EntityName": "Public institutions - Lusaka",
+      "AlertReason": "Adverse media on procurement fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-25T17:30:30Z",
+      "TriggeredAt": "2025-11-24T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03cdc66a-0985-1877-1fab-00ba84ad1464",
+      "ArticleId": "048d5823-102f-221c-051e-00a83d285bb0",
+      "EntityId": "016477af-1aa0-0512-1257-003c4e035fe2",
+      "EntityName": "Local authorities - Southern Province",
+      "AlertReason": "Adverse media on financial irregularities",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2026-01-19T17:30:30Z",
+      "TriggeredAt": "2025-12-01T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0262ce8f-1112-11fc-1a9c-00c5c3aaa57b",
+      "ArticleId": "05ce83c6-1e44-1086-0998-003692fc579f",
+      "EntityId": "03c196e3-112d-049a-1bb2-00c471a44e7e",
+      "EntityName": "Statutory bodies - Copperbelt Province",
+      "AlertReason": "Adverse media on procurement fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-13T17:30:30Z",
+      "TriggeredAt": "2025-12-25T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "01b14e8a-0f70-076a-0c85-00b6e4f04248",
+      "ArticleId": "050afbf7-2657-074b-2575-00951d31ceab",
+      "EntityId": "0396f13f-1e3d-1004-0d8c-0093cc5c64a0",
+      "EntityName": "Statutory bodies - Lusaka",
+      "AlertReason": "Adverse media on audit findings",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-10-28T17:30:30Z",
+      "TriggeredAt": "2025-12-17T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0426ffb9-0bb1-1ba8-1415-0083181b4429",
+      "ArticleId": "00bb06bd-12a4-12e9-1ffc-0055356435c0",
+      "EntityId": "0350a5e9-26bf-055b-0782-0055dc191b91",
+      "EntityName": "Public institutions - Lusaka",
+      "AlertReason": "Adverse media on compliance",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "TriggeredAt": "2025-12-08T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0236645c-1128-12f9-0a33-006b24f23845",
+      "ArticleId": "01cfe139-2543-082e-111f-004a5a2de9c7",
+      "EntityId": "0486fa87-220e-1946-1477-0065df9522b3",
+      "EntityName": "Government ministries - Southern Province",
+      "AlertReason": "Adverse media on procurement fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-12T17:30:30Z",
+      "TriggeredAt": "2025-12-10T17:30:30Z",
+      "IsAcknowledged": false
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "0125efe1-0657-2458-1070-0050dcba77b3",
+      "EntityName": "Office of the Auditor General",
+      "Keywords": [
+        "financial irregularities",
+        "audit findings",
+        "compliance"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 25,
+    "HighRiskArticles": 14,
+    "ActiveAlerts": 21,
+    "MonitoredEntities": 17,
+    "ArticlesByCategory": {
+      "regulatory": 12,
+      "criminal": 11,
+      "financial": 14,
+      "political": 13
+    },
+    "ArticlesBySeverity": {
+      "high": 18,
+      "medium": 15,
+      "low": 10
+    }
+  }
+}

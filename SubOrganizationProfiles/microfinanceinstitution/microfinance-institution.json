@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "MicrofinanceInstitution",
+  "DisplayName": "VisionFund Zambia",
+  "Country": "Zambia",
+  "Headquarters": "Lusaka, Zambia",
+  "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+  "TopPriorities": [
+    "Keep disbursements compliant with KYC requirements and share red flags with national authorities.",
+    "Bridge the digital gap for rural SMEs so they can bill through approved channels.",
+    "Monitor loan client cash flows for early indicators of forced invoicing or bogus suppliers."
+  ],
+  "ActiveOperations": [
+    "Field agents in Lusaka Province scanning receipts before disbursing micro-loans.",
+    "Financial literacy programs in Mukuba and Sesheke that cover tax obligations.",
+    "Match payment data against known revenue collection cases to avoid being used in false VAT claims."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Flagged circular loan requests tied to commodity trading firms",
+      "Date": "2025-12-22T00:00:00Z",
+      "Summary": "The operations team referred the cases to the Financial Intelligence Centre after noticing recurring fund loops."
+    },
+    {
+      "Title": "Graduated 48 women-led cooperatives into the digital payment eco-system",
+      "Date": "2025-12-01T00:00:00Z",
+      "Summary": "Each cooperative now submits quarterly VAT and tax statements through ZRA channels."
+    }
+  ],
+  "KeyPartnerships": [
+    "Zambia Revenue Authority",
+    "Financial Intelligence Centre",
+    "USAID - Financial Inclusion Program"
+  ],
+  "Metrics": {
+    "ActiveBorrowers": "12,340",
+    "DigitalAccounts": "87% of clients",
+    "FraudReferrals": "15 referred to authorities"
+  }
+}

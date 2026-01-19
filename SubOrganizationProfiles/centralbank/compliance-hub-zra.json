@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 348,
+  "ActiveAlerts": 18,
+  "PendingReviews": 14,
+  "ComplianceScore": 67.5,
+  "Alerts": [
+    {
+      "Id": "03a37b6d-05c1-0acc-12a9-00d66075b9a3",
+      "Type": "Financial stability",
+      "Severity": "Medium",
+      "EntityName": "Commercial banks - Livingstone",
+      "Description": "Supervision revealed reserve management involving financial institutions",
+      "DetectedAt": "2026-01-13T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "026a61d1-151c-0e40-0c9c-0033f5576448",
+      "Type": "Monetary policy",
+      "Severity": "Critical",
+      "EntityName": "Bureau de change - Lusaka",
+      "Description": "Monetary regulation revealed monetary policy involving bureau de change",
+      "DetectedAt": "2025-12-28T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02b2d892-13cb-17d7-22d5-004f372a2083",
+      "Type": "Foreign exchange",
+      "Severity": "Critical",
+      "EntityName": "Commercial banks - Livingstone",
+      "Description": "Market intervention revealed foreign exchange involving commercial banks",
+      "DetectedAt": "2026-01-16T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00d7cb25-0d0b-17fe-1bca-00e39165ca49",
+      "Type": "Reserve management",
+      "Severity": "Critical",
+      "EntityName": "Bureau de change - Ndola",
+      "Description": "Monetary regulation revealed financial stability involving microfinance institutions",
+      "DetectedAt": "2026-01-07T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "025fe517-209b-2058-07a9-002805b747b2",
+      "Type": "Foreign exchange",
+      "Severity": "High",
+      "EntityName": "Microfinance institutions - Kabwe",
+      "Description": "Supervision revealed monetary policy involving commercial banks",
+      "DetectedAt": "2025-12-27T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00b4c592-104e-12c6-1b40-0032dc318579",
+      "Type": "Banking supervision",
+      "Severity": "High",
+      "EntityName": "Microfinance institutions - Livingstone",
+      "Description": "Market intervention revealed foreign exchange involving bureau de change",
+      "DetectedAt": "2026-01-07T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02d3feab-238f-2095-0bae-00a2f044b876",
+      "Type": "Banking supervision",
+      "Severity": "High",
+      "EntityName": "Financial institutions - Kabwe",
+      "Description": "Licensing revealed financial stability involving commercial banks",
+      "DetectedAt": "2025-12-11T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00d8bb71-1a4b-159f-0a29-005aa47d9c20",
+      "Type": "Foreign exchange",
+      "Severity": "Low",
+      "EntityName": "Microfinance institutions - Ndola",
+      "Description": "Policy implementation revealed reserve management involving microfinance institutions",
+      "DetectedAt": "2026-01-08T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04476146-1462-0998-1eca-00d489ba4e40",
+      "Type": "Financial stability",
+      "Severity": "Critical",
+      "EntityName": "Financial institutions - Kitwe",
+      "Description": "Licensing revealed banking supervision involving bureau de change",
+      "DetectedAt": "2025-10-30T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02d22cb2-0b0d-240d-1dca-00cb83cc8994",
+      "Type": "Financial stability",
+      "Severity": "Low",
+      "EntityName": "Bureau de change - Livingstone",
+      "Description": "Supervision revealed monetary policy involving bureau de change",
+      "DetectedAt": "2025-11-26T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "050e61db-1513-14a8-182c-00a6e1860760",
+      "Type": "Financial stability",
+      "Severity": "High",
+      "EntityName": "Commercial banks - Kabwe",
+      "Description": "Supervision revealed banking supervision involving microfinance institutions",
+      "DetectedAt": "2026-01-12T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03003fd4-1e74-24d8-1ab4-001975585e78",
+      "Type": "Financial stability",
+      "Severity": "Critical",
+      "EntityName": "Commercial banks - Kabwe",
+      "Description": "Market intervention revealed foreign exchange involving bureau de change",
+      "DetectedAt": "2025-12-29T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03d4a93c-263c-0bf5-08e1-008ef36b7ebe",
+      "Type": "Monetary policy",
+      "Severity": "Critical",
+      "EntityName": "Commercial banks - Kabwe",
+      "Description": "Market intervention revealed reserve management involving microfinance institutions",
+      "DetectedAt": "2026-01-06T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "012862b3-0b33-0eb4-15cc-002a496f4f0e",
+      "Type": "Foreign exchange",
+      "Severity": "Low",
+      "EntityName": "Commercial banks - Kitwe",
+      "Description": "Monetary regulation revealed monetary policy involving microfinance institutions",
+      "DetectedAt": "2025-11-10T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02534d6e-22e6-0d6b-1433-003750aa2f21",
+      "Type": "Reserve management",
+      "Severity": "High",
+      "EntityName": "Bureau de change - Kabwe",
+      "Description": "Policy implementation revealed banking supervision involving bureau de change",
+      "DetectedAt": "2025-12-26T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02745191-1710-11d9-06b9-00d6f82139f6",
+      "Type": "Monetary policy",
+      "Severity": "High",
+      "EntityName": "Commercial banks - Kabwe",
+      "Description": "Policy implementation revealed banking supervision involving commercial banks",
+      "DetectedAt": "2026-01-11T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00dd4dde-0f81-19c9-10c3-004242ea7baa",
+      "Type": "Financial stability",
+      "Severity": "Low",
+      "EntityName": "Commercial banks - Kabwe",
+      "Description": "Market intervention revealed banking supervision involving bureau de change",
+      "DetectedAt": "2025-12-11T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "035ca4ca-1909-0b51-2482-00e69932a382",
+      "Type": "Monetary policy",
+      "Severity": "Critical",
+      "EntityName": "Commercial banks - Livingstone",
+      "Description": "Supervision revealed banking supervision involving financial institutions",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04af0f79-12bb-217c-0d6f-00909cadb8e8",
+      "Type": "Monetary policy",
+      "Severity": "Low",
+      "EntityName": "Bureau de change - Ndola",
+      "Description": "Market intervention revealed financial stability involving financial institutions",
+      "DetectedAt": "2025-11-21T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02390159-1ba5-154f-15e6-004d2f5f383c",
+      "Type": "Foreign exchange",
+      "Severity": "Critical",
+      "EntityName": "Commercial banks - Ndola",
+      "Description": "Policy implementation revealed monetary policy involving bureau de change",
+      "DetectedAt": "2026-01-08T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01a3f60d-09eb-2304-1b09-009e77743c0a",
+      "Type": "Banking supervision",
+      "Severity": "High",
+      "EntityName": "Microfinance institutions - Ndola",
+      "Description": "Supervision revealed financial stability involving bureau de change",
+      "DetectedAt": "2025-11-29T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "024870b4-0f98-19d9-0867-003ce7f063be",
+      "Type": "Foreign exchange",
+      "Severity": "Low",
+      "EntityName": "Financial institutions - Kitwe",
+      "Description": "Supervision revealed banking supervision involving microfinance institutions",
+      "DetectedAt": "2025-10-26T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05890099-0aeb-0ddd-0429-002404472050",
+      "Type": "Monetary policy",
+      "Severity": "Medium",
+      "EntityName": "Financial institutions - Ndola",
+      "Description": "Supervision revealed reserve management involving commercial banks",
+      "DetectedAt": "2025-11-12T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "042eb2d8-08b8-1b0b-2080-0042b05c36c0",
+      "Type": "Banking supervision",
+      "Severity": "Medium",
+      "EntityName": "Commercial banks - Lusaka",
+      "Description": "Market intervention revealed financial stability involving bureau de change",
+      "DetectedAt": "2025-11-20T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0383324a-0903-24b0-2250-009a484d8474",
+      "Type": "Banking supervision",
+      "Severity": "Low",
+      "EntityName": "Bureau de change - Lusaka",
+      "Description": "Licensing revealed foreign exchange involving microfinance institutions",
+      "DetectedAt": "2026-01-14T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0354a0aa-07d7-06e6-0601-00e35f7e3909",
+      "Type": "Monetary policy",
+      "Severity": "Medium",
+      "EntityName": "Financial institutions - Kabwe",
+      "Description": "Licensing revealed financial stability involving microfinance institutions",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04dc5c3c-2624-1867-1f4e-00712972ffab",
+      "Type": "Reserve management",
+      "Severity": "Medium",
+      "EntityName": "Bureau de change - Lusaka",
+      "Description": "Monetary regulation revealed reserve management involving bureau de change",
+      "DetectedAt": "2025-11-23T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0290c441-0807-0d50-1f1b-003050a73f13",
+      "Type": "Financial stability",
+      "Severity": "Critical",
+      "EntityName": "Bureau de change - Livingstone",
+      "Description": "Licensing revealed foreign exchange involving commercial banks",
+      "DetectedAt": "2025-11-17T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0456ea0f-2131-0d63-227f-00ceee82bc0a",
+      "Type": "Monetary policy",
+      "Severity": "Medium",
+      "EntityName": "Financial institutions - Livingstone",
+      "Description": "Licensing revealed monetary policy involving bureau de change",
+      "DetectedAt": "2025-11-28T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00bd02f4-1c90-23e9-1073-00449c23ab94",
+      "Type": "Financial stability",
+      "Severity": "High",
+      "EntityName": "Bureau de change - Kabwe",
+      "Description": "Licensing revealed foreign exchange involving commercial banks",
+      "DetectedAt": "2026-01-06T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04e7aec6-0b0e-172d-1f1f-00cf8fde867b",
+      "Type": "Banking supervision",
+      "Severity": "Low",
+      "EntityName": "Microfinance institutions - Kabwe",
+      "Description": "Licensing revealed foreign exchange involving bureau de change",
+      "DetectedAt": "2025-11-24T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0510c385-06ca-13ea-1949-007eceee9a8e",
+      "Type": "Reserve management",
+      "Severity": "Medium",
+      "EntityName": "Commercial banks - Ndola",
+      "Description": "Licensing revealed reserve management involving bureau de change",
+      "DetectedAt": "2025-12-31T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "032b7cd0-15dd-1d41-224e-001f33984103",
+      "Type": "Financial stability",
+      "Severity": "High",
+      "EntityName": "Commercial banks - Kitwe",
+      "Description": "Licensing revealed monetary policy involving microfinance institutions",
+      "DetectedAt": "2025-11-24T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01de9589-053f-083a-0e50-0047f8bff095",
+      "Type": "Banking supervision",
+      "Severity": "Medium",
+      "EntityName": "Commercial banks - Lusaka",
+      "Description": "Market intervention revealed financial stability involving financial institutions",
+      "DetectedAt": "2025-10-25T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00be08ec-1259-0c34-1e3a-006fff8cd1e3",
+      "Type": "Reserve management",
+      "Severity": "Critical",
+      "EntityName": "Bureau de change - Lusaka",
+      "Description": "Licensing revealed banking supervision involving financial institutions",
+      "DetectedAt": "2025-11-24T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "034361b5-2398-207f-13c1-0051511a3f72",
+      "Type": "Financial stability",
+      "Severity": "Critical",
+      "EntityName": "Bureau de change - Ndola",
+      "Description": "Monetary regulation revealed banking supervision involving financial institutions",
+      "DetectedAt": "2025-11-11T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "027a04e7-2132-15b6-0ced-0078d1fa6cb1",
+      "Type": "Foreign exchange",
+      "Severity": "Low",
+      "EntityName": "Bureau de change - Kabwe",
+      "Description": "Policy implementation revealed foreign exchange involving microfinance institutions",
+      "DetectedAt": "2026-01-18T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "056a415a-1b71-1cca-23a7-0057e6b40453",
+      "Type": "Banking supervision",
+      "Severity": "Critical",
+      "EntityName": "Microfinance institutions - Lusaka",
+      "Description": "Policy implementation revealed reserve management involving microfinance institutions",
+      "DetectedAt": "2026-01-16T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00e274e8-22a2-0b83-11aa-006bab14c077",
+      "Type": "Banking supervision",
+      "Severity": "Critical",
+      "EntityName": "Bureau de change - Livingstone",
+      "Description": "Monetary regulation revealed banking supervision involving bureau de change",
+      "DetectedAt": "2025-11-17T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03fc729f-2301-0fe3-0a01-00b9bf5169ae",
+      "Type": "Monetary policy",
+      "Severity": "Medium",
+      "EntityName": "Bureau de change - Kitwe",
+      "Description": "Policy implementation revealed banking supervision involving bureau de change",
+      "DetectedAt": "2025-11-13T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "057504a8-1cd6-1606-16e4-00acfea720f6",
+      "Type": "Banking supervision",
+      "Severity": "Medium",
+      "EntityName": "Bureau de change - Kabwe",
+      "Description": "Supervision revealed monetary policy involving financial institutions",
+      "DetectedAt": "2026-01-18T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "016c8d7e-23af-0dce-268b-008abf5b98eb",
+      "Type": "Foreign exchange",
+      "Severity": "High",
+      "EntityName": "Bureau de change - Livingstone",
+      "Description": "Monetary regulation revealed banking supervision involving bureau de change",
+      "DetectedAt": "2026-01-12T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03cc4b7f-0769-254c-081f-00e5be30615c",
+      "Type": "Monetary policy",
+      "Severity": "Medium",
+      "EntityName": "Microfinance institutions - Ndola",
+      "Description": "Licensing revealed banking supervision involving commercial banks",
+      "DetectedAt": "2025-12-15T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0468666b-0578-173d-04b9-005641517f8b",
+      "Type": "Financial stability",
+      "Severity": "Low",
+      "EntityName": "Financial institutions - Livingstone",
+      "Description": "Licensing revealed monetary policy involving microfinance institutions",
+      "DetectedAt": "2026-01-19T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05db3832-0c77-2040-1575-0088e289ef00",
+      "Type": "Reserve management",
+      "Severity": "Critical",
+      "EntityName": "Commercial banks - Lusaka",
+      "Description": "Licensing revealed monetary policy involving commercial banks",
+      "DetectedAt": "2025-11-07T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03c6b621-219a-2199-160d-00a6f1d732bc",
+      "Type": "Financial stability",
+      "Severity": "High",
+      "EntityName": "Commercial banks - Kitwe",
+      "Description": "Policy implementation revealed reserve management involving commercial banks",
+      "DetectedAt": "2025-12-15T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "050947d0-057d-1d18-24c5-009b89c286ab",
+      "Type": "Monetary policy",
+      "Severity": "High",
+      "EntityName": "Microfinance institutions - Livingstone",
+      "Description": "Supervision revealed monetary policy involving commercial banks",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03085be8-1a66-0f3b-1db7-004c78afb5d2",
+      "Type": "Banking supervision",
+      "Severity": "Critical",
+      "EntityName": "Commercial banks - Livingstone",
+      "Description": "Licensing revealed financial stability involving microfinance institutions",
+      "DetectedAt": "2026-01-13T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04e2caf6-1c4c-1f1a-2158-00ded463eed9",
+      "Type": "Financial stability",
+      "Severity": "High",
+      "EntityName": "Microfinance institutions - Livingstone",
+      "Description": "Market intervention revealed foreign exchange involving financial institutions",
+      "DetectedAt": "2025-10-25T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "010622b6-0997-0912-0645-006643c4898d",
+      "Type": "Reserve management",
+      "Severity": "High",
+      "EntityName": "Microfinance institutions - Ndola",
+      "Description": "Monetary regulation revealed banking supervision involving bureau de change",
+      "DetectedAt": "2025-12-06T17:30:30Z",
+      "Status": "Resolved"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 61
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 62
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 84
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 89
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 77
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 87
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 85
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 62
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "Development projectsPath",
+      "Summary": "Identified 4-step pattern linking beneficiaries to program implementation in rural areas",
+      "HighlightedNodes": [
+        "04f2f501-1813-055e-0872-00bfb4c165f1",
+        "01180723-0f21-20b6-0e7e-0062fe994b5c",
+        "03ff5f38-2143-2280-0ac6-00ae5e7a41bf",
+        "00c411e3-0bd3-1bf4-2175-002a1c194604"
+      ]
+    },
+    {
+      "Name": "Development projectsPath",
+      "Summary": "Identified 5-step pattern linking partner organizations to impact assessment in Luapula Province",
+      "HighlightedNodes": [
+        "009b64b9-221b-1cbf-2091-00711b2d93a6",
+        "02a4f256-1625-12dc-0ec5-00c64837e22b",
+        "047bb502-141f-1a75-0cb9-003c9de64e14",
+        "00c46e20-223c-23fc-15c3-0049ffbbdf7d",
+        "051b1ddb-222d-1fd4-1b87-00b56d0c5da7"
+      ]
+    },
+    {
+      "Name": "Development projectsPath",
+      "Summary": "Identified 5-step pattern linking implementing partners to impact assessment in Southern Province",
+      "HighlightedNodes": [
+        "0309b1ad-18f9-0d3d-0724-004f3d5fc1b3",
+        "00d9cd55-0d32-241d-0a44-00d1473b9318",
+        "02a458a5-1f6d-0c82-17cf-00baa7fcf78f",
+        "00ef3b7e-270b-1838-0ec9-00b9d4c3e29f",
+        "024727d1-1130-0fc1-1959-00445c544965"
+      ]
+    },
+    {
+      "Name": "Donor fundingPath",
+      "Summary": "Identified 3-step pattern linking beneficiaries to impact assessment in Eastern Province",
+      "HighlightedNodes": [
+        "0420687d-2462-131f-0adf-0057a4749722",
+        "037fd6f9-1a0f-1451-04a4-006875c9ef27",
+        "053eab46-1aef-19f4-211e-00cdbe16b0c6"
+      ]
+    },
+    {
+      "Name": "Development projectsPath",
+      "Summary": "Identified 3-step pattern linking beneficiaries to impact assessment in Southern Province",
+      "HighlightedNodes": [
+        "01b12580-1300-054a-164c-0074c7243c09",
+        "01d2a8c4-04a8-1aa1-19ea-0051d5f7710b",
+        "02731baf-229d-0f59-203e-00d667f7fa78"
+      ]
+    }
+  ]
+}

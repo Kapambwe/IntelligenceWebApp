@@ -1,0 +1,1171 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "05389b57-2071-0a06-0dcf-009c2ce0a28e",
+      "EntityId": "0561a9c7-15c6-1ec1-0b9f-0087ee760014",
+      "EntityName": "Government entities - Copperbelt",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-11-17T17:30:31Z",
+      "Notes": "Fact-checking for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-25T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0203f0a4-14a2-1405-0ad3-00218cb3aa3c",
+      "EntityId": "034d4dcb-07db-2432-1880-00c9ba2e9451",
+      "EntityName": "Featured subjects - Lusaka",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-29T17:30:31Z",
+      "Notes": "Investigation for documentary production verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-15T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03eba905-0fcb-0d00-0d3d-0057c3f6a40d",
+      "EntityId": "01914124-1ae8-0f28-0f1f-0065b4dd34d5",
+      "EntityName": "Featured subjects - Copperbelt",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-10T17:30:31Z",
+      "Notes": "Investigation for media scrutiny verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-13T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0206906a-0747-24b2-14c4-0087847a9426",
+      "EntityId": "05d44be3-22b5-16a3-1680-007dc0133d44",
+      "EntityName": "Corporations - Copperbelt",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2026-01-08T17:30:31Z",
+      "Notes": "Fact-checking for public accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "033651da-2209-221a-07ba-009e9b2ea36a",
+      "EntityId": "0580603a-0632-0edd-08fb-00776e78e5cf",
+      "EntityName": "Government entities - Southern Province",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-10-23T17:30:31Z",
+      "Notes": "Investigation for news coverage verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-25T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "02ef06b1-1ea4-18ee-1a00-00685721109f",
+      "EntityId": "04e29bb9-04bf-2280-2707-00dd14712939",
+      "EntityName": "Featured subjects - Copperbelt",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-21T17:30:31Z",
+      "Notes": "Filming for news coverage verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-08T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "05140e9e-1b35-0fc5-0f34-007411e09a54",
+      "EntityId": "03e3fa37-1c88-10a4-1d80-0096534fc679",
+      "EntityName": "Government entities - nationwide coverage",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-15T17:30:31Z",
+      "Notes": "Broadcast for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-17T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04c88d5b-24bc-17a0-1283-00bf4d132e05",
+      "EntityId": "03d10f5a-2286-04d9-09ff-0056b68be63d",
+      "EntityName": "Public figures - Kitwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2026-01-10T17:30:31Z",
+      "Notes": "Filming for media scrutiny verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-11-24T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03f4c9e8-1c85-24e1-238e-00e3234ddc8d",
+      "EntityId": "02794216-223f-19b9-1935-0081c2ee8521",
+      "EntityName": "Featured subjects - Southern Province",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-02T17:30:31Z",
+      "Notes": "Investigation for media scrutiny verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "00e4421d-2034-076d-1efd-006e6d8953bf",
+      "EntityId": "020191ae-1086-191c-191d-00b3fbc636f5",
+      "EntityName": "Featured subjects - Lusaka",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2026-01-17T17:30:31Z",
+      "Notes": "Editorial review for news coverage verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-24T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-30T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "016be438-0efb-10f9-12f9-00586fa799dc",
+      "EntityId": "04083d02-20e2-0440-1170-006474106777",
+      "EntityName": "Corporations - Lusaka",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2026-01-07T17:30:31Z",
+      "Notes": "Filming for public accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "01fe0e6a-0d48-20b0-0407-006ee745202c",
+      "EntityId": "04307a00-0afa-1a58-1512-002e4bba1e2d",
+      "EntityName": "Corporations - Kitwe",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-26T17:30:31Z",
+      "Notes": "Fact-checking for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-23T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01fdebeb-2251-0eda-19af-00b8916a8ea7",
+      "EntityId": "0455e3ca-1702-264f-0559-004a5408a1db",
+      "EntityName": "Corporations - Southern Province",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-10T17:30:31Z",
+      "Notes": "Filming for media scrutiny verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-28T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "043395fd-14ab-0971-1495-00b2bbf3e8cc",
+      "EntityId": "028582ab-2657-2223-18b0-005e1200c771",
+      "EntityName": "Public figures - Kitwe",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-05T17:30:31Z",
+      "Notes": "Broadcast for public accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-26T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-11-21T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "031e4bd5-18a2-1b1d-26da-00e1aff42dc1",
+      "EntityId": "04f1c7e1-23a8-245d-09b7-00477f79ec9a",
+      "EntityName": "Public figures - Lusaka",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-19T17:30:31Z",
+      "Notes": "Filming for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-21T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-03T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0490ae82-1590-2447-1037-00d486986cfa",
+      "EntityId": "04aa8af0-08d2-09ac-1292-0050a13033e5",
+      "EntityName": "Corporations - Southern Province",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-30T17:30:31Z",
+      "Notes": "Investigation for public accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-31T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-05T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "05289d67-13f1-0ca3-1019-00acbbc28ed1",
+      "EntityId": "01852b84-0d7a-0878-18af-00ac6e44a98a",
+      "EntityName": "Featured subjects - Kitwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-23T17:30:31Z",
+      "Notes": "Filming for public accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0296c1c4-200a-052d-06d3-00198d1b5000",
+      "EntityId": "04cc9abe-2420-05e6-0cc5-00aa62979088",
+      "EntityName": "Government entities - Kitwe",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-18T17:30:31Z",
+      "Notes": "Broadcast for news coverage verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-17T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04d4dc1c-1120-1d9c-0df7-00bdcb9f3e15",
+      "EntityId": "03d85a7e-23b7-2104-0e25-00278b629855",
+      "EntityName": "Featured subjects - Copperbelt",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-06T17:30:31Z",
+      "Notes": "Fact-checking for public accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-11T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "02240d3e-15c8-0ff1-049b-002cf7a64a77",
+      "EntityId": "011be312-0426-13ed-1e71-002b55d54877",
+      "EntityName": "Government entities - Kitwe",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-15T17:30:31Z",
+      "Notes": "Fact-checking for public accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-24T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-24T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-18T17:30:31Z"
+    },
+    {
+      "Id": "03d8bcc4-24ed-07e9-0c23-00c5866c317f",
+      "EntityId": "02d63564-25f5-17ae-1278-00889b96e32b",
+      "EntityName": "Government entities - Southern Province",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-28T17:30:31Z",
+      "Notes": "Fact-checking for documentary production verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-01T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-21T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04b8ae47-13cb-075b-105c-00d14fbdb826",
+      "EntityId": "01a63928-1573-213e-1564-00246dc42491",
+      "EntityName": "Government entities - Southern Province",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-10-24T17:30:31Z",
+      "Notes": "Filming for documentary production verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "034dd91a-0ae9-1fb6-2654-008129b48f0a",
+      "EntityId": "02f56d1a-0dd4-1bcb-16e7-00d6157118f5",
+      "EntityName": "Government entities - Kitwe",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-22T17:30:31Z",
+      "Notes": "Filming for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-21T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-11-21T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "05b0d9d0-1f59-053c-1321-0033acecfc4b",
+      "EntityId": "03e00280-146f-12dd-12ee-00d4e62ccc09",
+      "EntityName": "Corporations - Copperbelt",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-23T17:30:31Z",
+      "Notes": "Fact-checking for news coverage verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-20T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-30T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "028a5988-24de-06e5-1d14-007b4d7b1443",
+      "EntityId": "0296fcb0-204a-1c51-2545-00c3d6d428f1",
+      "EntityName": "Government entities - Southern Province",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-25T17:30:31Z",
+      "Notes": "Investigation for public accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-13T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01573f75-0e4d-224d-2391-00e52da9dc0a",
+      "EntityId": "01426c15-1ae4-0991-2664-0096e5333a7c",
+      "EntityName": "Government entities - Copperbelt",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-03T17:30:31Z",
+      "Notes": "Investigation for media scrutiny verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-26T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01b4a526-1e31-135c-105e-0020e1fecadb",
+      "EntityId": "02a4d9cf-0bcc-18cf-05df-005c6186da48",
+      "EntityName": "Corporations - Copperbelt",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-02T17:30:31Z",
+      "Notes": "Investigation for news coverage verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-26T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-26T17:30:31Z"
+    },
+    {
+      "Id": "017fe158-2700-1148-0a40-0091ed9043e5",
+      "EntityId": "0294328a-162b-09ee-0881-008023d04f36",
+      "EntityName": "Featured subjects - Lusaka",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-10-26T17:30:31Z",
+      "Notes": "Broadcast for media scrutiny verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "033840ef-0808-1b51-0f59-002d6f1413c2",
+      "EntityId": "00a5f247-1aca-1265-17e7-0072607d3d5a",
+      "EntityName": "Government entities - Kitwe",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-12T17:30:31Z",
+      "Notes": "Fact-checking for public accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "02b05be1-10c5-07c8-04ae-003858981aa3",
+      "EntityId": "013242fd-1ebf-047d-16cd-009d931633c4",
+      "EntityName": "Corporations - Copperbelt",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-15T17:30:31Z",
+      "Notes": "Editorial review for media scrutiny verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-29T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-30T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04164f0a-1f0f-1852-22dd-00dcd6daf8c5",
+      "EntityId": "04f93f6b-1bac-18a6-1096-00c99511ff3d",
+      "EntityName": "Corporations - Copperbelt",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-14T17:30:31Z",
+      "Notes": "Broadcast for media scrutiny verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-23T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04924178-0504-2553-197e-009f0f748a64",
+      "EntityId": "00f4305d-1d0d-0e04-0caf-0084dbb2c613",
+      "EntityName": "Public figures - Southern Province",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-14T17:30:31Z",
+      "Notes": "Editorial review for documentary production verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-28T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "019791ce-04ac-19b6-1f46-0075362879d2",
+      "EntityId": "0492ac95-1b8a-1e13-1773-0028f0197176",
+      "EntityName": "Featured subjects - Southern Province",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-10T17:30:31Z",
+      "Notes": "Filming for news coverage verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-16T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-21T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "043228c6-2262-0bef-1f00-00e740f078c9",
+      "EntityId": "029c6a3a-0c8a-2441-2132-0093e9a3b31e",
+      "EntityName": "Featured subjects - Copperbelt",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-10-22T17:30:31Z",
+      "Notes": "Editorial review for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-29T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-28T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "043fb680-0a4f-0e1c-0c13-002b889dc37b",
+      "EntityId": "038f7b1e-0ca1-09fd-2000-00886c328639",
+      "EntityName": "Public figures - Southern Province",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-08T17:30:31Z",
+      "Notes": "Filming for documentary production verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-20T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-23T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0101f6d0-13c4-244e-047a-007737934a69",
+      "EntityId": "05362d5e-0dc1-0bda-128b-0058d8559531",
+      "EntityName": "Featured subjects - Kitwe",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-07T17:30:31Z",
+      "Notes": "Broadcast for public accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-12T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "04807d1f-164f-0dc2-13fd-00e8a19682aa",
+      "EntityId": "059ba640-269a-1fba-1206-0087a2958681",
+      "EntityName": "Corporations - Southern Province",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2026-01-14T17:30:31Z",
+      "Notes": "Fact-checking for documentary production verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-17T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01ee4b95-14af-1701-1ae8-0088e24ecfda",
+      "EntityId": "04d46973-180c-0d7a-07a4-0098801c7e83",
+      "EntityName": "Corporations - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-10-27T17:30:31Z",
+      "Notes": "Editorial review for public accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-07T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-03T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05cd8088-206c-1ea4-193e-00b47a1c1f9e",
+      "EntityId": "0370000b-18b7-1463-0d5e-008d44e47945",
+      "EntityName": "Featured subjects - Southern Province",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-08T17:30:31Z",
+      "Notes": "Broadcast for media scrutiny verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-26T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0465eb7e-245e-1914-1891-00e4f6508dc1",
+      "EntityId": "046db50d-03fc-14e3-193c-0082c3f893ac",
+      "EntityName": "Corporations - Copperbelt",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-07T17:30:31Z",
+      "Notes": "Editorial review for media scrutiny verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-20T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "03117272-0b80-24ac-090c-00bbce6b7971",
+      "EntityId": "02e11093-1277-0b49-14bd-00235ebafe47",
+      "EntityName": "Government entities - Kitwe",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-13T17:30:31Z",
+      "Notes": "Editorial review for news coverage verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-26T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-22T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03592980-0e92-1e13-20e1-0094581b685b",
+      "EntityId": "0421b948-22b5-18fe-18d5-0035ff931609",
+      "EntityName": "Public figures - Kitwe",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-02T17:30:31Z",
+      "Notes": "Editorial review for documentary production verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-25T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02b1782e-12c2-1ee7-1641-00d4a5425713",
+      "EntityId": "00ee60a4-0440-2272-1102-00904c36975b",
+      "EntityName": "Featured subjects - Copperbelt",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-22T17:30:31Z",
+      "Notes": "Editorial review for media scrutiny verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-20T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03b0de17-152a-1474-2317-0073ca88f40f",
+      "EntityId": "017988ee-0656-155d-0fe6-00a8aa579ec2",
+      "EntityName": "Public figures - nationwide coverage",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-10-29T17:30:31Z",
+      "Notes": "Broadcast for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "011002f4-23a9-0a99-1af2-00b9f2e16ed0",
+      "EntityId": "033a66cd-198b-1b42-18ac-001bd5506b29",
+      "EntityName": "Corporations - Kitwe",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-23T17:30:31Z",
+      "Notes": "Editorial review for media scrutiny verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-19T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "056a67d7-1100-26a3-045c-0067fb3d66bf",
+      "EntityId": "037cd451-1471-156c-0728-006fb3a39f45",
+      "EntityName": "Featured subjects - Lusaka",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-10-30T17:30:31Z",
+      "Notes": "Investigation for media scrutiny verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "05de8bed-1635-06a3-130d-0031bb7a4fd6",
+      "EntityId": "035c42de-17a8-041d-1719-00c86f0e45bd",
+      "EntityName": "Government entities - nationwide coverage",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2026-01-04T17:30:31Z",
+      "Notes": "Filming for documentary production verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-16T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05e67339-12c6-232c-1e27-00e3e5187b6e",
+      "EntityId": "024fca06-25a3-2047-23d7-00500c56c98b",
+      "EntityName": "Public figures - Lusaka",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-18T17:30:31Z",
+      "Notes": "Editorial review for documentary production verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-03T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "026a32b6-0da9-07c3-0ab4-00b910bc8b18",
+      "EntityId": "051b8a18-19ad-1ba0-1416-008010eee69a",
+      "EntityName": "Public figures - Copperbelt",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2026-01-01T17:30:31Z",
+      "Notes": "Broadcast for public accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-13T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "04cb90cf-08e3-0e0e-1416-00797c580c55",
+      "EntityId": "0337a8be-2668-1767-2012-0083ee87df31",
+      "EntityName": "Corporations - Lusaka",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-24T17:30:31Z",
+      "Notes": "Filming for documentary production verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-05T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 10,
+    "Pending": 26,
+    "Failed": 14
+  }
+}

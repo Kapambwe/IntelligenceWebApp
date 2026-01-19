@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 417,
+  "ActiveAlerts": 10,
+  "PendingReviews": 13,
+  "ComplianceScore": 72.2,
+  "Alerts": [
+    {
+      "Id": "04c3849f-1863-1ab4-0577-0037951378e9",
+      "Type": "Transfer pricing",
+      "Severity": "Medium",
+      "EntityName": "Importers - Kazungula",
+      "Description": "Investigation revealed tax compliance involving taxpayers",
+      "DetectedAt": "2025-11-20T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01ca3108-1007-1b58-203f-009023343f95",
+      "Type": "Transfer pricing",
+      "Severity": "Low",
+      "EntityName": "Taxpayers - Lusaka",
+      "Description": "Investigation revealed customs enforcement involving mining companies",
+      "DetectedAt": "2026-01-09T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "05231e2a-1f48-09e3-0e7e-0034a1fd68a1",
+      "Type": "Tax compliance",
+      "Severity": "Medium",
+      "EntityName": "Mining companies - Lusaka",
+      "Description": "Customs inspection revealed transfer pricing involving exporters",
+      "DetectedAt": "2025-12-05T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "017102ee-1301-156d-1a00-00636b213986",
+      "Type": "Transfer pricing",
+      "Severity": "Medium",
+      "EntityName": "Taxpayers - Chirundu",
+      "Description": "Investigation revealed VAT fraud involving exporters",
+      "DetectedAt": "2025-12-05T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05902d18-160f-0b1d-1d95-00e1c3db9074",
+      "Type": "Customs enforcement",
+      "Severity": "Low",
+      "EntityName": "Importers - Nakonde",
+      "Description": "Customs inspection revealed customs enforcement involving taxpayers",
+      "DetectedAt": "2025-11-24T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "024c5a76-07e0-1d3f-13b4-0026f14ed202",
+      "Type": "Vat fraud",
+      "Severity": "Medium",
+      "EntityName": "Taxpayers - Kazungula",
+      "Description": "Investigation revealed transfer pricing involving mining companies",
+      "DetectedAt": "2026-01-10T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03bcf946-26e0-255a-1fb0-006f928dda23",
+      "Type": "Vat fraud",
+      "Severity": "Low",
+      "EntityName": "Importers - Nakonde",
+      "Description": "Tax audit revealed customs enforcement involving mining companies",
+      "DetectedAt": "2025-12-23T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01b43597-0627-05dc-13ea-005aba0e196d",
+      "Type": "Tax compliance",
+      "Severity": "Low",
+      "EntityName": "Exporters - Kitwe",
+      "Description": "Revenue assessment revealed revenue collection involving taxpayers",
+      "DetectedAt": "2025-12-22T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "025b4b3b-25f7-0442-2085-00b496b6ce8e",
+      "Type": "Transfer pricing",
+      "Severity": "Critical",
+      "EntityName": "Taxpayers - Chirundu",
+      "Description": "Tax audit revealed tax compliance involving exporters",
+      "DetectedAt": "2025-10-29T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03524711-2375-0aa9-1fc3-0097f046f07d",
+      "Type": "Revenue collection",
+      "Severity": "High",
+      "EntityName": "Mining companies - Nakonde",
+      "Description": "Compliance check revealed tax compliance involving exporters",
+      "DetectedAt": "2025-10-27T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "018d4285-2141-238f-0a0b-006f8933c563",
+      "Type": "Tax compliance",
+      "Severity": "High",
+      "EntityName": "Importers - Lusaka",
+      "Description": "Revenue assessment revealed tax compliance involving importers",
+      "DetectedAt": "2025-12-07T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00df303b-054a-1a1f-1c09-00893633e1c6",
+      "Type": "Revenue collection",
+      "Severity": "Low",
+      "EntityName": "Exporters - Nakonde",
+      "Description": "Investigation revealed revenue collection involving mining companies",
+      "DetectedAt": "2025-11-17T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00c66c58-14b0-075a-0cf7-007bd7353cb3",
+      "Type": "Vat fraud",
+      "Severity": "Critical",
+      "EntityName": "Importers - Nakonde",
+      "Description": "Revenue assessment revealed tax compliance involving mining companies",
+      "DetectedAt": "2025-11-12T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01f40f98-0fb9-1765-2664-00626d47e082",
+      "Type": "Transfer pricing",
+      "Severity": "Critical",
+      "EntityName": "Exporters - Kitwe",
+      "Description": "Revenue assessment revealed VAT fraud involving importers",
+      "DetectedAt": "2026-01-10T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "044a3739-26b0-18b5-1834-004bf1ffa882",
+      "Type": "Tax compliance",
+      "Severity": "Medium",
+      "EntityName": "Taxpayers - Nakonde",
+      "Description": "Investigation revealed VAT fraud involving taxpayers",
+      "DetectedAt": "2025-11-22T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02d6744e-26f0-0844-05d4-008682e5de17",
+      "Type": "Tax compliance",
+      "Severity": "Low",
+      "EntityName": "Mining companies - Lusaka",
+      "Description": "Revenue assessment revealed tax compliance involving exporters",
+      "DetectedAt": "2025-11-13T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02f5eac6-10d8-0551-0583-00a18699b8f5",
+      "Type": "Revenue collection",
+      "Severity": "Critical",
+      "EntityName": "Exporters - Lusaka",
+      "Description": "Compliance check revealed customs enforcement involving taxpayers",
+      "DetectedAt": "2026-01-06T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "029bb095-0e2e-1719-1bfe-0057a11b580b",
+      "Type": "Revenue collection",
+      "Severity": "Medium",
+      "EntityName": "Importers - Lusaka",
+      "Description": "Customs inspection revealed VAT fraud involving importers",
+      "DetectedAt": "2026-01-08T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0227ddf7-13d3-0e51-2342-0093e3460a65",
+      "Type": "Revenue collection",
+      "Severity": "Medium",
+      "EntityName": "Mining companies - Kitwe",
+      "Description": "Tax audit revealed customs enforcement involving exporters",
+      "DetectedAt": "2025-12-17T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01592006-23d4-18ba-20eb-0089a7c8987b",
+      "Type": "Transfer pricing",
+      "Severity": "Low",
+      "EntityName": "Taxpayers - Nakonde",
+      "Description": "Compliance check revealed transfer pricing involving taxpayers",
+      "DetectedAt": "2026-01-15T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05d031ce-1d31-1827-156f-008e64821917",
+      "Type": "Vat fraud",
+      "Severity": "Medium",
+      "EntityName": "Taxpayers - Chirundu",
+      "Description": "Compliance check revealed transfer pricing involving taxpayers",
+      "DetectedAt": "2025-12-26T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0405dc66-2382-0a12-26a8-00464e571b0b",
+      "Type": "Tax compliance",
+      "Severity": "Medium",
+      "EntityName": "Importers - Lusaka",
+      "Description": "Compliance check revealed VAT fraud involving taxpayers",
+      "DetectedAt": "2025-12-24T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "036106b5-1650-267e-1c99-0065d3bf55d9",
+      "Type": "Revenue collection",
+      "Severity": "Critical",
+      "EntityName": "Exporters - Lusaka",
+      "Description": "Revenue assessment revealed customs enforcement involving exporters",
+      "DetectedAt": "2025-12-26T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "05437ed5-193c-0ec6-1e64-0071567fcfac",
+      "Type": "Tax compliance",
+      "Severity": "Medium",
+      "EntityName": "Mining companies - Kazungula",
+      "Description": "Customs inspection revealed tax compliance involving exporters",
+      "DetectedAt": "2025-12-02T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03e1bb6d-0e62-259a-162a-002c391e117f",
+      "Type": "Tax compliance",
+      "Severity": "Medium",
+      "EntityName": "Exporters - Chirundu",
+      "Description": "Investigation revealed customs enforcement involving mining companies",
+      "DetectedAt": "2026-01-11T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "010fd558-223c-260f-0b9e-0045ddd35b66",
+      "Type": "Vat fraud",
+      "Severity": "High",
+      "EntityName": "Mining companies - Nakonde",
+      "Description": "Tax audit revealed customs enforcement involving importers",
+      "DetectedAt": "2025-10-23T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "010477cb-08a3-0f87-0671-009fd53bc348",
+      "Type": "Tax compliance",
+      "Severity": "Medium",
+      "EntityName": "Taxpayers - Kitwe",
+      "Description": "Investigation revealed tax compliance involving mining companies",
+      "DetectedAt": "2025-12-09T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "028eb8f2-1fe9-0f5a-1ceb-008ec64e444f",
+      "Type": "Tax compliance",
+      "Severity": "Critical",
+      "EntityName": "Mining companies - Nakonde",
+      "Description": "Compliance check revealed tax compliance involving mining companies",
+      "DetectedAt": "2025-12-22T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "033d84ff-1f00-069e-0ee1-00e7445197f0",
+      "Type": "Revenue collection",
+      "Severity": "Medium",
+      "EntityName": "Mining companies - Kitwe",
+      "Description": "Compliance check revealed revenue collection involving importers",
+      "DetectedAt": "2026-01-13T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "038c8679-2286-1e2f-0f4b-00c8c55dbd4a",
+      "Type": "Vat fraud",
+      "Severity": "High",
+      "EntityName": "Taxpayers - Kazungula",
+      "Description": "Customs inspection revealed tax compliance involving mining companies",
+      "DetectedAt": "2025-10-24T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03f12378-1351-1e9a-2198-00d232d24d70",
+      "Type": "Transfer pricing",
+      "Severity": "Critical",
+      "EntityName": "Taxpayers - Chirundu",
+      "Description": "Customs inspection revealed customs enforcement involving importers",
+      "DetectedAt": "2025-12-29T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02fd70c0-0c4e-2504-0d5b-006a3e3a6d6a",
+      "Type": "Vat fraud",
+      "Severity": "Critical",
+      "EntityName": "Importers - Nakonde",
+      "Description": "Compliance check revealed revenue collection involving mining companies",
+      "DetectedAt": "2025-11-14T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01942249-0996-1b11-0f5a-009d923ed714",
+      "Type": "Revenue collection",
+      "Severity": "Low",
+      "EntityName": "Exporters - Chirundu",
+      "Description": "Tax audit revealed VAT fraud involving importers",
+      "DetectedAt": "2025-12-13T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03284ad7-15e3-0760-0601-00e5eb2d4945",
+      "Type": "Transfer pricing",
+      "Severity": "High",
+      "EntityName": "Exporters - Lusaka",
+      "Description": "Revenue assessment revealed customs enforcement involving mining companies",
+      "DetectedAt": "2025-12-26T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01d1b949-0f0b-0508-207b-00c29324ebe2",
+      "Type": "Tax compliance",
+      "Severity": "Medium",
+      "EntityName": "Exporters - Kitwe",
+      "Description": "Investigation revealed transfer pricing involving mining companies",
+      "DetectedAt": "2025-12-03T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00abb533-2441-04f0-24e4-00a5f1da3316",
+      "Type": "Customs enforcement",
+      "Severity": "High",
+      "EntityName": "Mining companies - Lusaka",
+      "Description": "Customs inspection revealed customs enforcement involving taxpayers",
+      "DetectedAt": "2025-11-11T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00edc185-1f50-1333-1fcd-006ed2f672f2",
+      "Type": "Vat fraud",
+      "Severity": "Critical",
+      "EntityName": "Exporters - Kitwe",
+      "Description": "Compliance check revealed VAT fraud involving taxpayers",
+      "DetectedAt": "2025-12-17T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0196fe82-2050-1712-2680-006bc21c1750",
+      "Type": "Revenue collection",
+      "Severity": "Critical",
+      "EntityName": "Mining companies - Lusaka",
+      "Description": "Investigation revealed revenue collection involving taxpayers",
+      "DetectedAt": "2025-12-21T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "058f83c0-22c3-076d-0d22-00bbe70f8376",
+      "Type": "Tax compliance",
+      "Severity": "Low",
+      "EntityName": "Mining companies - Kazungula",
+      "Description": "Compliance check revealed customs enforcement involving mining companies",
+      "DetectedAt": "2025-11-10T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "028c632e-0dfc-0834-0c70-0070ae838abf",
+      "Type": "Vat fraud",
+      "Severity": "Low",
+      "EntityName": "Mining companies - Kitwe",
+      "Description": "Tax audit revealed tax compliance involving mining companies",
+      "DetectedAt": "2025-12-08T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "05ad630f-2148-07c9-16cb-0045f3ee945a",
+      "Type": "Vat fraud",
+      "Severity": "High",
+      "EntityName": "Taxpayers - Lusaka",
+      "Description": "Revenue assessment revealed transfer pricing involving taxpayers",
+      "DetectedAt": "2025-11-15T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "020d3a27-1c44-1c4b-269d-0038ef84be05",
+      "Type": "Revenue collection",
+      "Severity": "Critical",
+      "EntityName": "Mining companies - Kazungula",
+      "Description": "Customs inspection revealed customs enforcement involving importers",
+      "DetectedAt": "2026-01-15T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "037d6a18-1b86-0ea8-1a47-00d5a702c15d",
+      "Type": "Tax compliance",
+      "Severity": "High",
+      "EntityName": "Mining companies - Nakonde",
+      "Description": "Customs inspection revealed tax compliance involving exporters",
+      "DetectedAt": "2025-12-31T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "05d80977-1acc-045f-0752-00431bf09e12",
+      "Type": "Revenue collection",
+      "Severity": "Low",
+      "EntityName": "Taxpayers - Kazungula",
+      "Description": "Investigation revealed tax compliance involving taxpayers",
+      "DetectedAt": "2025-12-26T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03b805c2-0b06-0857-1350-00a993808e49",
+      "Type": "Tax compliance",
+      "Severity": "Critical",
+      "EntityName": "Taxpayers - Chirundu",
+      "Description": "Revenue assessment revealed tax compliance involving taxpayers",
+      "DetectedAt": "2025-12-23T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05407860-2178-20ad-246a-0043d79f7b3e",
+      "Type": "Customs enforcement",
+      "Severity": "Critical",
+      "EntityName": "Taxpayers - Lusaka",
+      "Description": "Customs inspection revealed customs enforcement involving taxpayers",
+      "DetectedAt": "2026-01-04T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03045f0e-1f50-1443-059a-00b6329d9308",
+      "Type": "Transfer pricing",
+      "Severity": "Medium",
+      "EntityName": "Importers - Kazungula",
+      "Description": "Investigation revealed customs enforcement involving exporters",
+      "DetectedAt": "2025-10-30T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "051c1b72-1519-2462-17c0-0032523d7a43",
+      "Type": "Vat fraud",
+      "Severity": "High",
+      "EntityName": "Exporters - Lusaka",
+      "Description": "Compliance check revealed VAT fraud involving taxpayers",
+      "DetectedAt": "2025-11-22T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "021f5a10-2366-1c82-2308-00436cc7f321",
+      "Type": "Tax compliance",
+      "Severity": "Medium",
+      "EntityName": "Exporters - Lusaka",
+      "Description": "Revenue assessment revealed customs enforcement involving taxpayers",
+      "DetectedAt": "2025-12-19T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "037ce75f-194f-2094-1f58-003e0e1f93e9",
+      "Type": "Vat fraud",
+      "Severity": "Medium",
+      "EntityName": "Mining companies - Lusaka",
+      "Description": "Tax audit revealed VAT fraud involving exporters",
+      "DetectedAt": "2026-01-11T17:30:31Z",
+      "Status": "Escalated"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 68
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 90
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 66
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 67
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 76
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 80
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 75
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 70
+    }
+  ]
+}

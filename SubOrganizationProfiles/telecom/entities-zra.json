@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "01185499-0e2d-1952-1b28-00b8df47f41f",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49,
+      "CreatedAt": "2025-02-21T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "0504b987-15b4-1060-0ee5-001cc3ea72fa",
+      "Name": "Dealers - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 21,
+      "CreatedAt": "2025-01-29T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "0335df03-1c41-0d39-1fa0-00539ae76a07",
+      "Name": "Dealers - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 27,
+      "CreatedAt": "2025-07-17T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "04e7682c-1973-2654-0c5a-003d602e8487",
+      "Name": "Service users - nationwide network",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 61,
+      "CreatedAt": "2024-07-27T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "0443308d-0a30-1da3-0b63-00e776322619",
+      "Name": "Subscribers - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 98,
+      "CreatedAt": "2024-01-03T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "00effbde-1141-0a9b-153a-006df721d956",
+      "Name": "Dealers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 87,
+      "CreatedAt": "2025-06-30T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "01c343ba-24b7-1182-06e4-00af51fa0f09",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 81,
+      "CreatedAt": "2024-08-29T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "020afb5f-0dfe-22ad-0db7-0019e297e102",
+      "Name": "Subscribers - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 53,
+      "CreatedAt": "2024-06-18T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z"
+    },
+    {
+      "Id": "05ee5b88-2606-07e5-0b6b-009b1fcc4bb3",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 89,
+      "CreatedAt": "2025-08-10T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "045a359b-10d8-18b0-240c-00455bee24f9",
+      "Name": "Dealers - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 65,
+      "CreatedAt": "2023-12-19T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "01f39915-23f5-0a89-0503-009ac27aa7a5",
+      "Name": "Dealers - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 83,
+      "CreatedAt": "2024-12-16T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "051c71ed-0b6a-142e-0c54-0089d74ea83a",
+      "Name": "Service users - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 34,
+      "CreatedAt": "2023-11-11T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "0235f6c5-0cde-0ccb-1918-007dad034601",
+      "Name": "Dealers - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 64,
+      "CreatedAt": "2024-12-14T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "028748d3-0796-13e2-0d68-00773ab6ee82",
+      "Name": "Service users - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2025-02-16T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "050816eb-07c3-0dde-0578-00526f8e640e",
+      "Name": "Subscribers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2024-12-09T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "02f2b1bc-0f80-1ec1-183d-00b4a6f7f331",
+      "Name": "Dealers - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 89,
+      "CreatedAt": "2024-03-05T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "0384f8e4-136e-2365-1b76-0073b66bc6a2",
+      "Name": "Dealers - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 73,
+      "CreatedAt": "2025-06-19T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "022764f0-1339-18b1-1e53-00affc75b53f",
+      "Name": "Corporate clients - nationwide network",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 96,
+      "CreatedAt": "2023-11-29T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "0414319c-1447-11b5-0b0d-00cefa5f9054",
+      "Name": "Subscribers - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2025-08-08T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "02a12e70-1e16-152f-2206-00e6fc311645",
+      "Name": "Dealers - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 20,
+      "CreatedAt": "2025-10-11T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "03d3c8a3-2353-2493-14b7-00d69388604f",
+      "Name": "Service users - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 63,
+      "CreatedAt": "2025-02-13T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "042760f4-21ff-0fbb-078f-00781db70c83",
+      "Name": "Service users - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 21,
+      "CreatedAt": "2024-10-20T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z"
+    },
+    {
+      "Id": "0118f063-1005-0612-1f75-00255af2c1d9",
+      "Name": "Subscribers - nationwide network",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 71,
+      "CreatedAt": "2025-09-06T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "05e75332-205a-0495-0ad4-007430e0a798",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 62,
+      "CreatedAt": "2023-12-19T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "04dbade7-2389-1c8a-0a22-0055faed0fca",
+      "Name": "Subscribers - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 67,
+      "CreatedAt": "2024-12-07T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "00aa9236-122e-06b6-068f-00c105058505",
+      "Name": "Service users - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 95,
+      "CreatedAt": "2024-05-12T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "01293180-18fc-21cb-1454-005d196b64f8",
+      "Name": "Subscribers - nationwide network",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 28,
+      "CreatedAt": "2024-07-17T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z"
+    },
+    {
+      "Id": "04662db5-0bdb-22b6-2638-005529141448",
+      "Name": "Dealers - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 89,
+      "CreatedAt": "2025-03-09T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "0456d549-167a-17cb-1d45-00844996c131",
+      "Name": "Service users - nationwide network",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 62,
+      "CreatedAt": "2024-09-04T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z"
+    },
+    {
+      "Id": "031fe760-1693-1eae-2052-00978cabf090",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 96,
+      "CreatedAt": "2024-03-03T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "0489bd61-1d5b-14a0-0c3e-009ed0bac464",
+      "Name": "Subscribers - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 69,
+      "CreatedAt": "2025-02-26T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "03c9dcc4-1596-0d8f-1621-0060a089fbf3",
+      "Name": "Dealers - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 34,
+      "CreatedAt": "2025-05-19T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "046f4ade-15ea-257c-230d-00ada6787ce3",
+      "Name": "Subscribers - nationwide network",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2024-12-02T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "0318ca99-188b-0e3c-0fd8-001f9b0da6fb",
+      "Name": "Subscribers - nationwide network",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 94,
+      "CreatedAt": "2024-04-21T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "04916bf8-0cd6-0d5d-12d4-00334e59213f",
+      "Name": "Dealers - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 74,
+      "CreatedAt": "2024-04-05T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "034d6073-0669-0d22-1cef-00a7dbe33030",
+      "Name": "Service users - nationwide network",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 67,
+      "CreatedAt": "2025-05-07T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "010c8608-1db1-189f-2567-00cd6774c2f8",
+      "Name": "Service users - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 80,
+      "CreatedAt": "2024-03-07T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z"
+    },
+    {
+      "Id": "04a23126-0aa2-138d-238f-0036b9b0bcfc",
+      "Name": "Subscribers - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 68,
+      "CreatedAt": "2024-02-05T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "026edcf3-1204-2111-1b7e-00941cec31d3",
+      "Name": "Service users - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 51,
+      "CreatedAt": "2024-08-22T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "023506a8-2253-1fb3-1380-00954910104c",
+      "Name": "Dealers - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 51,
+      "CreatedAt": "2025-02-28T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z"
+    },
+    {
+      "Id": "03db70d0-0bd1-0aa4-21d1-0042864c769d",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 93,
+      "CreatedAt": "2023-11-30T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "036016c7-269f-23cf-1a91-004042129e6e",
+      "Name": "Corporate clients - nationwide network",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 70,
+      "CreatedAt": "2025-06-13T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "010d331a-22de-18c3-0fba-009946c10159",
+      "Name": "Dealers - nationwide network",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 59,
+      "CreatedAt": "2024-01-30T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "02a68e9a-25cb-214d-0b6b-00d9a11df157",
+      "Name": "Service users - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 77,
+      "CreatedAt": "2024-05-22T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "009b2f16-0b84-1a40-1e9f-00db443d0842",
+      "Name": "Dealers - nationwide network",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 21,
+      "CreatedAt": "2024-05-27T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "02d41b7c-116f-0702-068d-006d317e7ba9",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 70,
+      "CreatedAt": "2025-08-19T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z"
+    },
+    {
+      "Id": "00c70586-0ea7-0866-1750-0090c2ab93ac",
+      "Name": "Dealers - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2025-07-19T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "05981fc9-25f4-132f-2708-0099becd7a3a",
+      "Name": "Dealers - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 32,
+      "CreatedAt": "2025-02-24T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "020143ce-199d-2373-0cb3-008f041d817f",
+      "Name": "Subscribers - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 68,
+      "CreatedAt": "2025-05-07T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z"
+    },
+    {
+      "Id": "058f444a-25ac-1f9f-1b7d-00992ef20377",
+      "Name": "Subscribers - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 69,
+      "CreatedAt": "2024-11-20T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "01185499-0e2d-1952-1b28-00b8df47f41f",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49,
+      "CreatedAt": "2025-02-21T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-1190",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Critical",
+          "Score": 25
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0504b987-15b4-1060-0ee5-001cc3ea72fa",
+      "Name": "Dealers - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 21,
+      "CreatedAt": "2025-01-29T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2024-5643",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 15
+        },
+        {
+          "Name": "Fraud prevention",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0335df03-1c41-0d39-1fa0-00539ae76a07",
+      "Name": "Dealers - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 27,
+      "CreatedAt": "2025-07-17T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-8083",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "fraud prevention",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide network",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 16
+        },
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Critical",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04e7682c-1973-2654-0c5a-003d602e8487",
+      "Name": "Service users - nationwide network",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 61,
+      "CreatedAt": "2024-07-27T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2025-4181",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide network",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 20
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0443308d-0a30-1da3-0b63-00e776322619",
+      "Name": "Subscribers - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 98,
+      "CreatedAt": "2024-01-03T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2026-7883",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Subscriber management",
+          "Severity": "Critical",
+          "Score": 25
+        },
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00effbde-1141-0a9b-153a-006df721d956",
+      "Name": "Dealers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 87,
+      "CreatedAt": "2025-06-30T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-3671",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "network operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide network",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 38
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01c343ba-24b7-1182-06e4-00af51fa0f09",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 81,
+      "CreatedAt": "2024-08-29T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-1907",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "fraud prevention",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Low",
+          "Score": 15
+        },
+        {
+          "Name": "Network operations",
+          "Severity": "Medium",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "020afb5f-0dfe-22ad-0db7-0019e297e102",
+      "Name": "Subscribers - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 53,
+      "CreatedAt": "2024-06-18T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-9336",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "fraud prevention",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 16
+        },
+        {
+          "Name": "Network operations",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ee5b88-2606-07e5-0b6b-009b1fcc4bb3",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 89,
+      "CreatedAt": "2025-08-10T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-7443",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "subscriber management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Medium",
+          "Score": 11
+        },
+        {
+          "Name": "Subscriber management",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "045a359b-10d8-18b0-240c-00455bee24f9",
+      "Name": "Dealers - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 65,
+      "CreatedAt": "2023-12-19T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2025-5460",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "fraud prevention",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Subscriber management",
+          "Severity": "Critical",
+          "Score": 37
+        },
+        {
+          "Name": "Network operations",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01f39915-23f5-0a89-0503-009ac27aa7a5",
+      "Name": "Dealers - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 83,
+      "CreatedAt": "2024-12-16T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2026-9937",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "fraud prevention",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "High",
+          "Score": 36
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "051c71ed-0b6a-142e-0c54-0089d74ea83a",
+      "Name": "Service users - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 34,
+      "CreatedAt": "2023-11-11T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2026-6024",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "network operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Critical",
+          "Score": 18
+        },
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Medium",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0235f6c5-0cde-0ccb-1918-007dad034601",
+      "Name": "Dealers - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 64,
+      "CreatedAt": "2024-12-14T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2026-5273",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "network operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Low",
+          "Score": 31
+        },
+        {
+          "Name": "Network operations",
+          "Severity": "Critical",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "028748d3-0796-13e2-0d68-00773ab6ee82",
+      "Name": "Service users - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2025-02-16T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-6034",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "fraud prevention",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "Medium",
+          "Score": 11
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Critical",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "050816eb-07c3-0dde-0578-00526f8e640e",
+      "Name": "Subscribers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2024-12-09T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2024-4252",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "Medium",
+          "Score": 44
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f2b1bc-0f80-1ec1-183d-00b4a6f7f331",
+      "Name": "Dealers - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 89,
+      "CreatedAt": "2024-03-05T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2025-4298",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Low",
+          "Score": 22
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0384f8e4-136e-2365-1b76-0073b66bc6a2",
+      "Name": "Dealers - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 73,
+      "CreatedAt": "2025-06-19T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2026-7072",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "subscriber management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide network",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Low",
+          "Score": 13
+        },
+        {
+          "Name": "Subscriber management",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "022764f0-1339-18b1-1e53-00affc75b53f",
+      "Name": "Corporate clients - nationwide network",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 96,
+      "CreatedAt": "2023-11-29T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-5912",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "network operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "High",
+          "Score": 28
+        },
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0414319c-1447-11b5-0b0d-00cefa5f9054",
+      "Name": "Subscribers - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2025-08-08T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-3420",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide network",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "High",
+          "Score": 30
+        },
+        {
+          "Name": "Network operations",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02a12e70-1e16-152f-2206-00e6fc311645",
+      "Name": "Dealers - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 20,
+      "CreatedAt": "2025-10-11T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-8410",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 17
+        },
+        {
+          "Name": "Subscriber management",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03d3c8a3-2353-2493-14b7-00d69388604f",
+      "Name": "Service users - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 63,
+      "CreatedAt": "2025-02-13T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2025-2906",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "fraud prevention",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Low",
+          "Score": 10
+        },
+        {
+          "Name": "Network operations",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "042760f4-21ff-0fbb-078f-00781db70c83",
+      "Name": "Service users - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 21,
+      "CreatedAt": "2024-10-20T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-4944",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "network operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Critical",
+          "Score": 12
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0118f063-1005-0612-1f75-00255af2c1d9",
+      "Name": "Subscribers - nationwide network",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 71,
+      "CreatedAt": "2025-09-06T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-5363",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "network operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Medium",
+          "Score": 38
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05e75332-205a-0495-0ad4-007430e0a798",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 62,
+      "CreatedAt": "2023-12-19T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-2555",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "subscriber management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Medium",
+          "Score": 24
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04dbade7-2389-1c8a-0a22-0055faed0fca",
+      "Name": "Subscribers - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 67,
+      "CreatedAt": "2024-12-07T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-2903",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "fraud prevention",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide network",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "Critical",
+          "Score": 31
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00aa9236-122e-06b6-068f-00c105058505",
+      "Name": "Service users - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 95,
+      "CreatedAt": "2024-05-12T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2025-8653",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "network operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Subscriber management",
+          "Severity": "Critical",
+          "Score": 34
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01293180-18fc-21cb-1454-005d196b64f8",
+      "Name": "Subscribers - nationwide network",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 28,
+      "CreatedAt": "2024-07-17T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2024-4104",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "subscriber management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "High",
+          "Score": 40
+        },
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Medium",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04662db5-0bdb-22b6-2638-005529141448",
+      "Name": "Dealers - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 89,
+      "CreatedAt": "2025-03-09T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-4785",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide network",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "High",
+          "Score": 27
+        },
+        {
+          "Name": "Network operations",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0456d549-167a-17cb-1d45-00844996c131",
+      "Name": "Service users - nationwide network",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 62,
+      "CreatedAt": "2024-09-04T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-3858",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "Critical",
+          "Score": 11
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "High",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "031fe760-1693-1eae-2052-00978cabf090",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 96,
+      "CreatedAt": "2024-03-03T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-2907",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "subscriber management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide network",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Low",
+          "Score": 14
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0489bd61-1d5b-14a0-0c3e-009ed0bac464",
+      "Name": "Subscribers - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 69,
+      "CreatedAt": "2025-02-26T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2022-1883",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "subscriber management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "High",
+          "Score": 45
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03c9dcc4-1596-0d8f-1621-0060a089fbf3",
+      "Name": "Dealers - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 34,
+      "CreatedAt": "2025-05-19T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2022-8991",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "subscriber management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "High",
+          "Score": 24
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "046f4ade-15ea-257c-230d-00ada6787ce3",
+      "Name": "Subscribers - nationwide network",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2024-12-02T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-8760",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide network",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Low",
+          "Score": 30
+        },
+        {
+          "Name": "Network operations",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0318ca99-188b-0e3c-0fd8-001f9b0da6fb",
+      "Name": "Subscribers - nationwide network",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 94,
+      "CreatedAt": "2024-04-21T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2025-1505",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Critical",
+          "Score": 36
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04916bf8-0cd6-0d5d-12d4-00334e59213f",
+      "Name": "Dealers - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 74,
+      "CreatedAt": "2024-04-05T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2024-5158",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Subscriber management",
+          "Severity": "High",
+          "Score": 23
+        },
+        {
+          "Name": "Network operations",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "034d6073-0669-0d22-1cef-00a7dbe33030",
+      "Name": "Service users - nationwide network",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 67,
+      "CreatedAt": "2025-05-07T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-7877",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "network operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide network",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 18
+        },
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "010c8608-1db1-189f-2567-00cd6774c2f8",
+      "Name": "Service users - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 80,
+      "CreatedAt": "2024-03-07T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-8100",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "fraud prevention",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Subscriber management",
+          "Severity": "Medium",
+          "Score": 17
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04a23126-0aa2-138d-238f-0036b9b0bcfc",
+      "Name": "Subscribers - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 68,
+      "CreatedAt": "2024-02-05T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-7639",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "subscriber management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide network",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "Medium",
+          "Score": 21
+        },
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "026edcf3-1204-2111-1b7e-00941cec31d3",
+      "Name": "Service users - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 51,
+      "CreatedAt": "2024-08-22T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2022-8940",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "subscriber management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "Low",
+          "Score": 17
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "023506a8-2253-1fb3-1380-00954910104c",
+      "Name": "Dealers - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 51,
+      "CreatedAt": "2025-02-28T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2026-8646",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Subscriber management",
+          "Severity": "High",
+          "Score": 30
+        },
+        {
+          "Name": "Network operations",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03db70d0-0bd1-0aa4-21d1-0042864c769d",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 93,
+      "CreatedAt": "2023-11-30T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2024-2046",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "Low",
+          "Score": 37
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "Medium",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "036016c7-269f-23cf-1a91-004042129e6e",
+      "Name": "Corporate clients - nationwide network",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 70,
+      "CreatedAt": "2025-06-13T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2022-1892",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Fraud prevention",
+          "Severity": "High",
+          "Score": 44
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "010d331a-22de-18c3-0fba-009946c10159",
+      "Name": "Dealers - nationwide network",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 59,
+      "CreatedAt": "2024-01-30T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-2561",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "Medium",
+          "Score": 22
+        },
+        {
+          "Name": "Subscriber management",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02a68e9a-25cb-214d-0b6b-00d9a11df157",
+      "Name": "Service users - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 77,
+      "CreatedAt": "2024-05-22T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2025-8881",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "subscriber management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Subscriber management",
+          "Severity": "Medium",
+          "Score": 38
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "009b2f16-0b84-1a40-1e9f-00db443d0842",
+      "Name": "Dealers - nationwide network",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 21,
+      "CreatedAt": "2024-05-27T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2023-4275",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "network operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide network",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance",
+          "Severity": "Critical",
+          "Score": 19
+        },
+        {
+          "Name": "Network operations",
+          "Severity": "Critical",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02d41b7c-116f-0702-068d-006d317e7ba9",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 70,
+      "CreatedAt": "2025-08-19T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2020-4908",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "fraud prevention",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "High",
+          "Score": 25
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00c70586-0ea7-0866-1750-0090c2ab93ac",
+      "Name": "Dealers - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2025-07-19T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2026-8691",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "network operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "High",
+          "Score": 16
+        },
+        {
+          "Name": "Fraud prevention",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05981fc9-25f4-132f-2708-0099becd7a3a",
+      "Name": "Dealers - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 32,
+      "CreatedAt": "2025-02-24T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2024-6737",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "fraud prevention",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Low",
+          "Score": 14
+        },
+        {
+          "Name": "Network operations",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "020143ce-199d-2373-0cb3-008f041d817f",
+      "Name": "Subscribers - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 68,
+      "CreatedAt": "2025-05-07T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2021-9253",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Fraud prevention",
+          "Severity": "Critical",
+          "Score": 14
+        },
+        {
+          "Name": "Compliance",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "058f444a-25ac-1f9f-1b7d-00992ef20377",
+      "Name": "Subscribers - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 69,
+      "CreatedAt": "2024-11-20T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "TEL-2025-1406",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Telecommunications",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Network operations",
+          "Severity": "Low",
+          "Score": 12
+        },
+        {
+          "Name": "Subscriber management",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    }
+  ]
+}

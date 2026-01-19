@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "Television",
+  "DisplayName": "ZNBC - Zambia National Broadcasting Corporation",
+  "Country": "Zambia",
+  "Headquarters": "Lusaka, Zambia",
+  "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+  "TopPriorities": [
+    "Produce primetime coverage of the Economic and Financial Crimes Court docket.",
+    "Demystify tax policy changes from the Ministry of Finance.",
+    "Spotlight regional offices such as the Kitwe ZRA hub to reassure citizens."
+  ],
+  "ActiveOperations": [
+    "Magazine programs that feature ZRA analysts and local business leaders.",
+    "Documentaries on copper revenue chains to explain how VAT fraud occurs.",
+    "Collaborations with public prosecutors to show court proceedings responsibly."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Broadcast special on the Copperbelt profit shifting battle",
+      "Date": "2026-01-08T00:00:00Z",
+      "Summary": "Combined interviews with ZRA, ZNIC, and ACC officials to explain the data behind flagged alerts."
+    },
+    {
+      "Title": "Live-streamed Economic Crimes Court hearings",
+      "Date": "2026-01-05T00:00:00Z",
+      "Summary": "Offered real-time captions and analysis for viewers tracking VAT fraud cases."
+    }
+  ],
+  "KeyPartnerships": [
+    "Zambia Revenue Authority",
+    "Anti-Corruption Commission",
+    "Judiciary communications office"
+  ],
+  "Metrics": {
+    "PrimeSegments": "6 per week",
+    "InvestigationDocumentaries": "4 in 2025",
+    "CourtStreams": "8 sessions"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "LogisticsPath",
+      "Summary": "Identified 4-step pattern linking security personnel to security operations in Livingstone",
+      "HighlightedNodes": [
+        "05a80e73-0f4a-242e-141f-00daa31dd1b3",
+        "00b504ca-0b15-1578-16b3-007fd960ca29",
+        "01a2e80c-2518-2121-09e9-00819d19888c",
+        "04b76238-1d08-1fee-1d39-004c63416a36"
+      ]
+    },
+    {
+      "Name": "Defense contractsPath",
+      "Summary": "Identified 3-step pattern linking security personnel to defense contracts in Ndola",
+      "HighlightedNodes": [
+        "05160947-1ee2-132f-1c6e-005d9cb305aa",
+        "04534188-137c-23d4-1055-0075ef14af22",
+        "01d239e3-0fe2-1f26-0a59-0071bac612a9"
+      ]
+    },
+    {
+      "Name": "Security operationsPath",
+      "Summary": "Identified 3-step pattern linking military units to security operations in Livingstone",
+      "HighlightedNodes": [
+        "046756aa-0ce2-2047-180f-007b764e2fbe",
+        "023cd320-0cad-1fc6-1ed7-003a54aa768c",
+        "056fb804-1663-2296-062a-00c68c61011f"
+      ]
+    },
+    {
+      "Name": "Defense contractsPath",
+      "Summary": "Identified 4-step pattern linking suppliers to defense contracts in Kabwe",
+      "HighlightedNodes": [
+        "00f5ff19-08c8-1dc4-1d66-006387056a49",
+        "05ea597b-0ffb-0533-2274-0093c7182e52",
+        "0169b32c-0c2b-194d-1a47-0048ccbba307",
+        "0246d1bc-1b05-25d2-1a9f-008388443610"
+      ]
+    },
+    {
+      "Name": "Security operationsPath",
+      "Summary": "Identified 6-step pattern linking security personnel to defense contracts in Kabwe",
+      "HighlightedNodes": [
+        "043a6fd5-09fb-18b0-077b-00186a1bd829",
+        "057203bc-0d46-0f91-04ea-0021f2c38a2c",
+        "00c0a5f5-204c-0fc5-17d2-0062b446e72d",
+        "00c7694f-067b-2241-1d58-005334a0cb9f",
+        "03722f62-06da-0d5f-0797-007d3714ee19",
+        "022f8ea9-04ef-1402-266e-0065dce1156a"
+      ]
+    }
+  ]
+}

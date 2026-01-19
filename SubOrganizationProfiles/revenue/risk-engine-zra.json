@@ -1,0 +1,216 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "0120f781-1dd6-21eb-12f4-0020164a04c9",
+      "Name": "Revenue collection Risk Model",
+      "Description": "Detects revenue collection patterns in Zambia Revenue Authority operations",
+      "Status": "active",
+      "CreatedAt": "2025-11-16T17:30:31Z",
+      "LastModifiedAt": "2026-01-11T17:30:31Z",
+      "Version": "1.1",
+      "Factors": [
+        {
+          "Id": "04ba3a19-1453-1764-1334-0078150177ef",
+          "Name": "Customs enforcement Indicator",
+          "Description": "Measures tax compliance risk across mining companies",
+          "Category": "operational",
+          "Weight": 0.17,
+          "MinValue": 0,
+          "MaxValue": 147,
+          "IsEnabled": true
+        },
+        {
+          "Id": "048850bc-12fe-0e52-19a8-00316c4a400a",
+          "Name": "Revenue collection Indicator",
+          "Description": "Measures transfer pricing risk across mining companies",
+          "Category": "compliance",
+          "Weight": 0.23,
+          "MinValue": 0,
+          "MaxValue": 147,
+          "IsEnabled": true
+        },
+        {
+          "Id": "05542b80-1342-1be0-1d87-00b2cb670b64",
+          "Name": "Vat fraud Indicator",
+          "Description": "Measures revenue collection risk across taxpayers",
+          "Category": "geographic",
+          "Weight": 0.13,
+          "MinValue": 0,
+          "MaxValue": 142,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02b6b0e8-151d-2154-200a-005b429020bd",
+          "Name": "Transfer pricing Indicator",
+          "Description": "Measures transfer pricing risk across exporters",
+          "Category": "geographic",
+          "Weight": 0.1,
+          "MinValue": 0,
+          "MaxValue": 145,
+          "IsEnabled": true
+        },
+        {
+          "Id": "012739e8-1ac5-25c3-08ae-00822c84f2f5",
+          "Name": "Vat fraud Indicator",
+          "Description": "Measures revenue collection risk across mining companies",
+          "Category": "compliance",
+          "Weight": 0.11,
+          "MinValue": 0,
+          "MaxValue": 166,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.91,
+        "Precision": 0.88,
+        "Recall": 0.84,
+        "F1Score": 0.77,
+        "TotalPredictions": 473,
+        "TruePositives": 389,
+        "FalsePositives": 37,
+        "TrueNegatives": 149,
+        "FalseNegatives": 48
+      }
+    },
+    {
+      "Id": "00c33b78-0953-1ae9-0e25-006993dae7ef",
+      "Name": "Customs enforcement Risk Model",
+      "Description": "Detects revenue collection patterns in Zambia Revenue Authority operations",
+      "Status": "active",
+      "CreatedAt": "2025-08-13T17:30:31Z",
+      "LastModifiedAt": "2025-12-25T17:30:31Z",
+      "Version": "3.1",
+      "Factors": [
+        {
+          "Id": "0312cbd8-18cb-05b2-13d2-008092d95f15",
+          "Name": "Revenue collection Indicator",
+          "Description": "Measures VAT fraud risk across taxpayers",
+          "Category": "financial",
+          "Weight": 0.32,
+          "MinValue": 0,
+          "MaxValue": 197,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04f9ff00-1a3e-258f-148c-0082c419ea59",
+          "Name": "Transfer pricing Indicator",
+          "Description": "Measures transfer pricing risk across importers",
+          "Category": "geographic",
+          "Weight": 0.26,
+          "MinValue": 0,
+          "MaxValue": 153,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0334512d-1b18-0d43-21f2-0075935c5a14",
+          "Name": "Tax compliance Indicator",
+          "Description": "Measures customs enforcement risk across exporters",
+          "Category": "financial",
+          "Weight": 0.13,
+          "MinValue": 0,
+          "MaxValue": 155,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02170396-1596-1d72-236e-005444768675",
+          "Name": "Revenue collection Indicator",
+          "Description": "Measures customs enforcement risk across importers",
+          "Category": "geographic",
+          "Weight": 0.33,
+          "MinValue": 0,
+          "MaxValue": 133,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.85,
+        "Precision": 0.82,
+        "Recall": 0.83,
+        "F1Score": 0.88,
+        "TotalPredictions": 418,
+        "TruePositives": 432,
+        "FalsePositives": 30,
+        "TrueNegatives": 160,
+        "FalseNegatives": 48
+      }
+    },
+    {
+      "Id": "00faf7da-209d-1260-16ab-00bdbea33623",
+      "Name": "Vat fraud Risk Model",
+      "Description": "Detects tax compliance patterns in Zambia Revenue Authority operations",
+      "Status": "active",
+      "CreatedAt": "2025-08-03T17:30:31Z",
+      "LastModifiedAt": "2025-12-23T17:30:31Z",
+      "Version": "2.0",
+      "Factors": [
+        {
+          "Id": "05d4d241-248c-0a29-051e-00de15232e22",
+          "Name": "Transfer pricing Indicator",
+          "Description": "Measures revenue collection risk across taxpayers",
+          "Category": "operational",
+          "Weight": 0.21,
+          "MinValue": 0,
+          "MaxValue": 141,
+          "IsEnabled": true
+        },
+        {
+          "Id": "042684a7-2094-185d-04cc-00422ba07163",
+          "Name": "Revenue collection Indicator",
+          "Description": "Measures revenue collection risk across mining companies",
+          "Category": "compliance",
+          "Weight": 0.23,
+          "MinValue": 0,
+          "MaxValue": 123,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02c94835-10df-0fca-18a7-0041218f13e3",
+          "Name": "Vat fraud Indicator",
+          "Description": "Measures revenue collection risk across importers",
+          "Category": "operational",
+          "Weight": 0.13,
+          "MinValue": 0,
+          "MaxValue": 104,
+          "IsEnabled": true
+        },
+        {
+          "Id": "017e5cf0-169c-1d20-0499-005eb5ac9994",
+          "Name": "Revenue collection Indicator",
+          "Description": "Measures transfer pricing risk across importers",
+          "Category": "operational",
+          "Weight": 0.27,
+          "MinValue": 0,
+          "MaxValue": 165,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04470747-2056-1831-226b-00a1e5e44529",
+          "Name": "Vat fraud Indicator",
+          "Description": "Measures tax compliance risk across exporters",
+          "Category": "financial",
+          "Weight": 0.22,
+          "MinValue": 0,
+          "MaxValue": 119,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.81,
+        "Precision": 0.8,
+        "Recall": 0.8,
+        "F1Score": 0.75,
+        "TotalPredictions": 617,
+        "TruePositives": 290,
+        "FalsePositives": 79,
+        "TrueNegatives": 146,
+        "FalseNegatives": 52
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 14,
+    "AverageRiskScore": 78.4
+  }
+}

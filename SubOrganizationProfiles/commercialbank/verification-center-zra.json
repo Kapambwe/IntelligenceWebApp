@@ -1,0 +1,1175 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "02c928dd-1b79-269b-06bf-0021b3a6f0a1",
+      "EntityId": "03c0ac99-12de-0fcb-1fb3-001acd679aeb",
+      "EntityName": "Corporate clients - Ndola",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-08T17:30:30Z",
+      "Notes": "Credit assessment for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-13T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01d45d7e-1ee3-1669-0a48-008abb0aa083",
+      "EntityId": "027e60fd-06e3-04fd-1ae2-0065c61fd89d",
+      "EntityName": "Business accounts - Solwezi",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-24T17:30:30Z",
+      "Notes": "Account opening for account management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-28T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "056b6b1b-1726-11d3-1def-00ccf1cd1728",
+      "EntityId": "01994d94-06af-144b-0a8a-00e3ec269179",
+      "EntityName": "Business accounts - Ndola",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-18T17:30:30Z",
+      "Notes": "Account opening for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-02T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04eddf03-0ddb-0551-0fc0-008e3c4b7b66",
+      "EntityId": "00a62cd8-1987-2436-07d7-00c23faa69b4",
+      "EntityName": "Individual customers - Kitwe",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-08T17:30:30Z",
+      "Notes": "Credit assessment for account management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "03ec2b84-07e3-0d4b-1c4b-0096324296fc",
+      "EntityId": "03b7a221-1a29-1a91-058a-005825b52a12",
+      "EntityName": "Business accounts - Livingstone",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-10-26T17:30:30Z",
+      "Notes": "Kyc verification for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0243c715-0471-1f53-072e-00645bac0671",
+      "EntityId": "05a64fc2-1ac9-07cc-1171-006fbf4a60ea",
+      "EntityName": "Business accounts - Livingstone",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-14T17:30:30Z",
+      "Notes": "Transaction processing for corporate lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "039b6962-1b54-0c7e-26c1-00260c9a1d8f",
+      "EntityId": "011d0c2f-24ee-0602-21fe-00abea5bd0ee",
+      "EntityName": "Corporate clients - Solwezi",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-28T17:30:30Z",
+      "Notes": "Loan disbursement for account management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-30T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0581d7fb-2577-0963-1533-00a2c05fcb01",
+      "EntityId": "0308a0ad-043c-09cb-12b4-009e71e35d78",
+      "EntityName": "Individual customers - Solwezi",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-01T17:30:30Z",
+      "Notes": "Kyc verification for corporate lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "056ee820-18b6-148b-0db3-00bf0ed83b74",
+      "EntityId": "03d7414e-0f01-1671-0e64-0082a0452e56",
+      "EntityName": "Individual customers - Ndola",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-09T17:30:30Z",
+      "Notes": "Transaction processing for account management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-25T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "00c1d8dd-0a78-1071-192e-008a22b8a184",
+      "EntityId": "04828354-0784-1b51-2051-0057897d23fa",
+      "EntityName": "Business accounts - Solwezi",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-10-25T17:30:30Z",
+      "Notes": "Loan disbursement for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-23T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02ab9290-1913-1e03-205a-002018aa5b4b",
+      "EntityId": "0174d429-1ab8-127b-0e97-00e123ab6dd5",
+      "EntityName": "Individual customers - Ndola",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-10-27T17:30:30Z",
+      "Notes": "Loan disbursement for corporate lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-25T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00cf15aa-2486-0aed-19eb-0030c5543589",
+      "EntityId": "0199fb76-0c4e-0c8e-24d4-00e59344fa9b",
+      "EntityName": "Business accounts - Lusaka",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-10-29T17:30:30Z",
+      "Notes": "Account opening for corporate lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-30T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-21T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02964c53-080b-1d8c-1b15-00185affcc64",
+      "EntityId": "0489ea0f-13da-1980-266a-0079142d9350",
+      "EntityName": "Corporate clients - Solwezi",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-15T17:30:30Z",
+      "Notes": "Loan disbursement for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-25T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "0231ca5c-211a-264b-09f7-00725a0a2f0f",
+      "EntityId": "00b444ea-239c-0688-2189-00c4548a910e",
+      "EntityName": "Business accounts - Livingstone",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "Notes": "Transaction processing for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "04c95241-24b6-2542-15aa-005aaec579d4",
+      "EntityId": "0327bd43-107b-12ff-20f0-00385a3533b9",
+      "EntityName": "Corporate clients - Kitwe",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2026-01-15T17:30:30Z",
+      "Notes": "Kyc verification for account management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-20T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "010a8798-0617-12c4-0f41-002a625c4927",
+      "EntityId": "018194c5-21f6-0666-0f68-00a9c218bdbd",
+      "EntityName": "Smes - Ndola",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-03T17:30:30Z",
+      "Notes": "Account opening for transaction monitoring verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-31T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "028a079d-113a-0de7-2298-0045c396e85d",
+      "EntityId": "0325f4f3-15b3-1c20-141e-006ca628e795",
+      "EntityName": "Smes - Livingstone",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-12-18T17:30:30Z",
+      "Notes": "Account opening for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-29T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "00f2bf41-2139-1fba-218d-00e80043cd73",
+      "EntityId": "05bc8d45-07ac-2295-0660-00c7334a5dbf",
+      "EntityName": "Smes - Kitwe",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-07T17:30:30Z",
+      "Notes": "Credit assessment for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-19T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "053f30f0-2412-11d5-1711-00a580d40fc3",
+      "EntityId": "01f90092-1e24-2156-2375-00b03070f22a",
+      "EntityName": "Business accounts - Solwezi",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-04T17:30:30Z",
+      "Notes": "Loan disbursement for corporate lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-11-23T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "056452d1-0d76-14c7-1fff-003131c10397",
+      "EntityId": "04f3c146-1277-11ba-175c-009d49bf0cd2",
+      "EntityName": "Business accounts - Livingstone",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-10-26T17:30:30Z",
+      "Notes": "Credit assessment for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "01408f86-0e76-2295-0e3d-0037578ede54",
+      "EntityId": "057987ed-2417-197f-0af2-00c7e519856a",
+      "EntityName": "Smes - Lusaka",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-09T17:30:30Z",
+      "Notes": "Account opening for corporate lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-04T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0245731e-2234-14d3-1c84-0083b0f0b89c",
+      "EntityId": "03c022f1-1036-0be0-1713-00aab2984384",
+      "EntityName": "Corporate clients - Kitwe",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-12-16T17:30:30Z",
+      "Notes": "Transaction processing for corporate lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "02f9ccf7-1ad6-12a6-1017-00b52d08c118",
+      "EntityId": "01ed08da-15cf-04c8-2546-009e207f6058",
+      "EntityName": "Individual customers - Livingstone",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-10-21T17:30:30Z",
+      "Notes": "Kyc verification for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-21T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-07T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-11T17:30:30Z"
+    },
+    {
+      "Id": "04310275-229e-2492-0e88-00d5cc96b210",
+      "EntityId": "04ec85b5-07e5-21ce-243d-008a29768f51",
+      "EntityName": "Smes - Lusaka",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2026-01-12T17:30:30Z",
+      "Notes": "Account opening for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-19T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03360414-102b-05ad-0d49-0055a02b2462",
+      "EntityId": "01ba45a0-0b53-20e1-140d-00b476a8d7a9",
+      "EntityName": "Corporate clients - Lusaka",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-10T17:30:30Z",
+      "Notes": "Account opening for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-21T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-04T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "01eeac90-0e34-1385-0bb0-001d3b37f974",
+      "EntityId": "05d0eb1a-1d4f-0ae7-1c18-007603d41046",
+      "EntityName": "Smes - Kitwe",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2026-01-13T17:30:30Z",
+      "Notes": "Transaction processing for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04880336-233f-2648-1b4b-00b7ee05dadc",
+      "EntityId": "0500e1c5-212c-094b-0531-0087321f4d66",
+      "EntityName": "Business accounts - Livingstone",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2026-01-10T17:30:30Z",
+      "Notes": "Credit assessment for corporate lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03540023-05f2-1c9f-1c09-00901a0a37d9",
+      "EntityId": "03edc51f-1aef-18bc-1344-008eaa1046a9",
+      "EntityName": "Corporate clients - Kitwe",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-12-05T17:30:30Z",
+      "Notes": "Credit assessment for corporate lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-25T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "023df3c8-1186-21b2-242b-00b6e8151d4e",
+      "EntityId": "0280e549-06c0-1d01-08f0-0069d88d5020",
+      "EntityName": "Smes - Lusaka",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-24T17:30:30Z",
+      "Notes": "Account opening for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-27T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-29T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "048a0bb2-1b2b-167c-1e82-0027c3cec464",
+      "EntityId": "039a6d9a-13a6-26f6-123c-00770a3c5087",
+      "EntityName": "Smes - Solwezi",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "Notes": "Credit assessment for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "050f0e16-10f6-041e-1fbe-0081d70e83ac",
+      "EntityId": "025fa74e-25ed-0b75-10be-00e274b467e7",
+      "EntityName": "Smes - Solwezi",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-29T17:30:30Z",
+      "Notes": "Loan disbursement for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-01T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "015b8dc7-0e77-0938-0f5e-00cb74402a84",
+      "EntityId": "03359a16-1fb7-1170-1223-0035e6c36986",
+      "EntityName": "Smes - Livingstone",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-22T17:30:30Z",
+      "Notes": "Account opening for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "036da091-08ca-1e5a-13dc-00b1c4af13ec",
+      "EntityId": "028536ca-2281-1b03-2238-0023592d7bdf",
+      "EntityName": "Individual customers - Kitwe",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2026-01-14T17:30:30Z",
+      "Notes": "Credit assessment for corporate lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "028bbaa7-14ab-14e7-0f3a-00c2f15bdb5a",
+      "EntityId": "0420f58e-0a8c-18bb-2663-00a9fd1e0c38",
+      "EntityName": "Smes - Lusaka",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-15T17:30:30Z",
+      "Notes": "Kyc verification for corporate lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "028b3072-1281-1749-0d7e-00b885d50a6e",
+      "EntityId": "04a9953a-15cc-1cc6-1297-00b1367ded24",
+      "EntityName": "Individual customers - Solwezi",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-02T17:30:30Z",
+      "Notes": "Kyc verification for transaction monitoring verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-30T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0520fe25-0a72-1f63-044e-0031cb979208",
+      "EntityId": "00a41bf2-211c-11b0-0471-0041119204ad",
+      "EntityName": "Smes - Solwezi",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "Notes": "Credit assessment for account management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-07T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03017475-24ed-0438-04c6-003edf1f9d2c",
+      "EntityId": "03763ac8-0d0f-2696-1532-00c4ceb18ecd",
+      "EntityName": "Smes - Livingstone",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-19T17:30:30Z",
+      "Notes": "Account opening for transaction monitoring verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02b3ff00-1bb8-08e2-090c-009f814286ae",
+      "EntityId": "02347be3-0fdf-13cf-20f9-006f1d005dd3",
+      "EntityName": "Individual customers - Lusaka",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-22T17:30:30Z",
+      "Notes": "Account opening for account management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "052f74e4-24b2-1c6e-07c7-00b2a7434985",
+      "EntityId": "00aff630-1054-19a2-1161-006fae75bd33",
+      "EntityName": "Corporate clients - Solwezi",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-10-27T17:30:30Z",
+      "Notes": "Account opening for account management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0593cc80-0bf6-21e8-1719-00ba574f3d01",
+      "EntityId": "057602d0-2174-0a3d-17fd-00879ab07030",
+      "EntityName": "Individual customers - Livingstone",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-25T17:30:30Z",
+      "Notes": "Transaction processing for account management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-26T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "049a1c62-19eb-0c92-167e-0063a6748e57",
+      "EntityId": "047c47ba-07dd-1dd7-15c0-00c937c0418a",
+      "EntityName": "Smes - Ndola",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-10-29T17:30:30Z",
+      "Notes": "Credit assessment for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04f7f20c-0730-06a1-143d-0030f12387fb",
+      "EntityId": "05db1afa-1bf1-0ae8-0de4-004a203003f0",
+      "EntityName": "Business accounts - Kitwe",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-07T17:30:30Z",
+      "Notes": "Transaction processing for transaction monitoring verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-23T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0218fb21-21c0-05c7-16e5-0033d22e2398",
+      "EntityId": "01841e14-13c1-1250-1908-0051c1896c09",
+      "EntityName": "Smes - Ndola",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-23T17:30:30Z",
+      "Notes": "Loan disbursement for retail banking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-26T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03255e27-131b-22d1-123e-00507c4a2bcf",
+      "EntityId": "00d843ed-252d-0a32-152e-0085ae9c1384",
+      "EntityName": "Individual customers - Ndola",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-28T17:30:30Z",
+      "Notes": "Loan disbursement for account management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-11T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03998358-26b3-065c-1769-00e2a07761fc",
+      "EntityId": "040d8f50-1a45-1bce-1f69-00314a5158c3",
+      "EntityName": "Smes - Ndola",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-03T17:30:30Z",
+      "Notes": "Transaction processing for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04ee210d-26c3-181f-0abc-0094b87b4f85",
+      "EntityId": "04e09956-1466-052c-08ff-006f78cb8cd9",
+      "EntityName": "Smes - Kitwe",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-07T17:30:30Z",
+      "Notes": "Credit assessment for corporate lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-08T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-19T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0520eb71-15f8-2558-0b1b-006d67069f72",
+      "EntityId": "01e14293-2222-0857-11f7-00414f213b58",
+      "EntityName": "Business accounts - Kitwe",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-09T17:30:30Z",
+      "Notes": "Credit assessment for account management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03a16569-0b13-07bc-07b4-00a419e7da28",
+      "EntityId": "04aa4584-175b-1382-1714-00aa03477b7c",
+      "EntityName": "Corporate clients - Ndola",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-13T17:30:30Z",
+      "Notes": "Transaction processing for corporate lending verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04693994-2249-0927-1d9a-005cdce61792",
+      "EntityId": "05dc98fb-2348-2477-2434-006ed95d29b5",
+      "EntityName": "Smes - Lusaka",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-22T17:30:30Z",
+      "Notes": "Credit assessment for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-31T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "056625aa-1429-1ea0-0c64-0091ccecd918",
+      "EntityId": "04a20546-0e86-049a-16d4-00571d9e5cc9",
+      "EntityName": "Smes - Ndola",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-10-21T17:30:30Z",
+      "Notes": "Credit assessment for credit risk verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 14,
+    "Pending": 22,
+    "Failed": 14
+  }
+}

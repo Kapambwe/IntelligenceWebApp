@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "03df1229-0a7f-15c8-125d-003a3dbfd199",
+      "Name": "Mining companies - Kazungula",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 53.3,
+      "IsCritical": false,
+      "Products": [
+        "VAT fraud"
+      ],
+      "AnnualSpend": 1398124.92
+    },
+    {
+      "Id": "033bb0e0-08e8-1bff-08f6-0087341df63c",
+      "Name": "Importers - Lusaka",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 41.7,
+      "IsCritical": false,
+      "Products": [
+        "customs enforcement"
+      ],
+      "AnnualSpend": 5922824.63
+    },
+    {
+      "Id": "02cb08c3-1b0f-112c-219b-00a4a486f4fd",
+      "Name": "Importers - Lusaka",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 68.9,
+      "IsCritical": false,
+      "Products": [
+        "revenue collection"
+      ],
+      "AnnualSpend": 2348559.62
+    },
+    {
+      "Id": "01b9c129-07e9-05f5-1ffc-0054557b9e4d",
+      "Name": "Mining companies - Kazungula",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 94.6,
+      "IsCritical": false,
+      "Products": [
+        "tax compliance"
+      ],
+      "AnnualSpend": 7692502.4
+    },
+    {
+      "Id": "0255aa27-055f-066e-1010-002d6a8a8c9c",
+      "Name": "Importers - Lusaka",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 62.7,
+      "IsCritical": true,
+      "Products": [
+        "customs enforcement"
+      ],
+      "AnnualSpend": 4375751.79
+    },
+    {
+      "Id": "02f9ec8b-1032-20eb-0c48-0095e3e0ae34",
+      "Name": "Mining companies - Chirundu",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 56.9,
+      "IsCritical": false,
+      "Products": [
+        "tax compliance"
+      ],
+      "AnnualSpend": 9654942.29
+    },
+    {
+      "Id": "02fa1a22-2685-17af-0c17-005d881f90b0",
+      "Name": "Exporters - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 62.0,
+      "IsCritical": false,
+      "Products": [
+        "customs enforcement"
+      ],
+      "AnnualSpend": 8309258.87
+    },
+    {
+      "Id": "01019d73-114c-0eb0-20e5-0029fe048861",
+      "Name": "Taxpayers - Chirundu",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 75.9,
+      "IsCritical": true,
+      "Products": [
+        "tax compliance"
+      ],
+      "AnnualSpend": 8411742.16
+    },
+    {
+      "Id": "0290d7d0-22c4-1a56-15d6-00836673814c",
+      "Name": "Mining companies - Nakonde",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 77.2,
+      "IsCritical": true,
+      "Products": [
+        "VAT fraud"
+      ],
+      "AnnualSpend": 645340.93
+    },
+    {
+      "Id": "05dc19b4-1ce0-111d-121b-00e2637f0f78",
+      "Name": "Taxpayers - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 83.1,
+      "IsCritical": false,
+      "Products": [
+        "tax compliance"
+      ],
+      "AnnualSpend": 4054100.75
+    },
+    {
+      "Id": "03843063-24ac-2669-2346-001be53442b6",
+      "Name": "Mining companies - Chirundu",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 55.8,
+      "IsCritical": false,
+      "Products": [
+        "revenue collection"
+      ],
+      "AnnualSpend": 3978655.11
+    },
+    {
+      "Id": "00a236d9-0669-0d93-0877-00aeeca3c1db",
+      "Name": "Mining companies - Chirundu",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 69.2,
+      "IsCritical": true,
+      "Products": [
+        "revenue collection"
+      ],
+      "AnnualSpend": 7582227.16
+    },
+    {
+      "Id": "03afa813-2583-221f-06b6-00594d12a7e6",
+      "Name": "Mining companies - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 45.2,
+      "IsCritical": false,
+      "Products": [
+        "revenue collection"
+      ],
+      "AnnualSpend": 8811650.34
+    },
+    {
+      "Id": "0167fd90-1eeb-2268-237e-008d79000940",
+      "Name": "Mining companies - Chirundu",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 86.6,
+      "IsCritical": false,
+      "Products": [
+        "transfer pricing"
+      ],
+      "AnnualSpend": 5471414.82
+    },
+    {
+      "Id": "05d483fb-1a9d-1f11-253f-00ba8e7f24dc",
+      "Name": "Taxpayers - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 64.1,
+      "IsCritical": false,
+      "Products": [
+        "customs enforcement"
+      ],
+      "AnnualSpend": 2550691.16
+    },
+    {
+      "Id": "030e255e-206e-1dcb-105d-009a60b5db6a",
+      "Name": "Exporters - Chirundu",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 86.3,
+      "IsCritical": false,
+      "Products": [
+        "revenue collection"
+      ],
+      "AnnualSpend": 5736302.41
+    },
+    {
+      "Id": "04b495b0-2480-188d-19d7-006b1c52a0a8",
+      "Name": "Mining companies - Kazungula",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 91.3,
+      "IsCritical": false,
+      "Products": [
+        "revenue collection"
+      ],
+      "AnnualSpend": 6986703.15
+    },
+    {
+      "Id": "010eb9a7-05c1-1c51-114b-0018e2ba6db7",
+      "Name": "Mining companies - Chirundu",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 88.5,
+      "IsCritical": true,
+      "Products": [
+        "revenue collection"
+      ],
+      "AnnualSpend": 6461373.53
+    },
+    {
+      "Id": "0513848e-08d3-1e9f-0523-0017dff1b437",
+      "Name": "Exporters - Lusaka",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 67.8,
+      "IsCritical": true,
+      "Products": [
+        "tax compliance"
+      ],
+      "AnnualSpend": 6094292.76
+    },
+    {
+      "Id": "04e44f34-208a-21e9-13e9-004b15778c68",
+      "Name": "Mining companies - Kitwe",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 63.3,
+      "IsCritical": false,
+      "Products": [
+        "customs enforcement"
+      ],
+      "AnnualSpend": 3471779.59
+    },
+    {
+      "Id": "050e611b-0810-0c46-17a5-00871b237677",
+      "Name": "Importers - Nakonde",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 77.8,
+      "IsCritical": false,
+      "Products": [
+        "tax compliance"
+      ],
+      "AnnualSpend": 9895940.35
+    },
+    {
+      "Id": "02a1555a-12b2-1e44-2154-0092756f4c40",
+      "Name": "Importers - Kitwe",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 64.6,
+      "IsCritical": false,
+      "Products": [
+        "tax compliance"
+      ],
+      "AnnualSpend": 7959103.23
+    },
+    {
+      "Id": "020427e2-20bb-105d-1dac-00901ff67195",
+      "Name": "Taxpayers - Kitwe",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 49.1,
+      "IsCritical": false,
+      "Products": [
+        "VAT fraud"
+      ],
+      "AnnualSpend": 3241610.69
+    },
+    {
+      "Id": "021d32bd-254b-1656-2012-00d9099d1a84",
+      "Name": "Taxpayers - Nakonde",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 62.3,
+      "IsCritical": false,
+      "Products": [
+        "customs enforcement"
+      ],
+      "AnnualSpend": 7689114.41
+    },
+    {
+      "Id": "04a77a54-05db-08f3-22da-0040b735100e",
+      "Name": "Taxpayers - Nakonde",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 56.5,
+      "IsCritical": false,
+      "Products": [
+        "transfer pricing"
+      ],
+      "AnnualSpend": 1950256.72
+    },
+    {
+      "Id": "04fe190f-18d8-2577-16d6-0060f5d25147",
+      "Name": "Exporters - Kazungula",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 82.6,
+      "IsCritical": false,
+      "Products": [
+        "revenue collection"
+      ],
+      "AnnualSpend": 2476466.16
+    },
+    {
+      "Id": "04812f26-055e-2545-1cff-001ed4bb1bcb",
+      "Name": "Mining companies - Kitwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 44.1,
+      "IsCritical": true,
+      "Products": [
+        "transfer pricing"
+      ],
+      "AnnualSpend": 9955887.16
+    },
+    {
+      "Id": "00a2fda4-1c2a-0ed8-1d63-00cb1414d6d7",
+      "Name": "Taxpayers - Nakonde",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 93.8,
+      "IsCritical": true,
+      "Products": [
+        "tax compliance"
+      ],
+      "AnnualSpend": 8650462.08
+    },
+    {
+      "Id": "01852f81-1d6b-11c8-20ac-00c8384279ef",
+      "Name": "Taxpayers - Nakonde",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 63.2,
+      "IsCritical": false,
+      "Products": [
+        "transfer pricing"
+      ],
+      "AnnualSpend": 2337782.65
+    },
+    {
+      "Id": "024e28b4-1170-086e-141d-008923d32d4a",
+      "Name": "Importers - Kazungula",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 48.4,
+      "IsCritical": false,
+      "Products": [
+        "transfer pricing"
+      ],
+      "AnnualSpend": 8122735.6
+    },
+    {
+      "Id": "01161454-18d9-0bee-14c3-001d6aa56b65",
+      "Name": "Taxpayers - Kitwe",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 72.5,
+      "IsCritical": false,
+      "Products": [
+        "transfer pricing"
+      ],
+      "AnnualSpend": 2387835.7
+    },
+    {
+      "Id": "02bf6fe5-1e00-12d2-194c-00782a1426e6",
+      "Name": "Exporters - Nakonde",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 51.1,
+      "IsCritical": false,
+      "Products": [
+        "transfer pricing"
+      ],
+      "AnnualSpend": 602560.85
+    },
+    {
+      "Id": "01f6bdf7-1ef2-2152-161d-008c9aa98893",
+      "Name": "Importers - Chirundu",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 95.0,
+      "IsCritical": true,
+      "Products": [
+        "customs enforcement"
+      ],
+      "AnnualSpend": 5184695.6
+    },
+    {
+      "Id": "00e2fdff-18f1-15ef-10b7-005fcd942a02",
+      "Name": "Exporters - Nakonde",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 68.3,
+      "IsCritical": true,
+      "Products": [
+        "tax compliance"
+      ],
+      "AnnualSpend": 6197961.84
+    },
+    {
+      "Id": "04c7372e-0bcf-05ff-11c7-0053d77bac85",
+      "Name": "Exporters - Kazungula",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 65.5,
+      "IsCritical": false,
+      "Products": [
+        "transfer pricing"
+      ],
+      "AnnualSpend": 7492925.71
+    },
+    {
+      "Id": "044fe81a-0ed4-1c38-1089-007472639629",
+      "Name": "Mining companies - Kitwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 48.8,
+      "IsCritical": false,
+      "Products": [
+        "tax compliance"
+      ],
+      "AnnualSpend": 8194525.43
+    },
+    {
+      "Id": "03c3242b-1cdb-22b9-1ab2-00abec3d0ac4",
+      "Name": "Mining companies - Kitwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 43.5,
+      "IsCritical": false,
+      "Products": [
+        "transfer pricing"
+      ],
+      "AnnualSpend": 8178913.1
+    },
+    {
+      "Id": "00aad1e4-24fd-195d-07a0-0057ff3df44c",
+      "Name": "Importers - Kazungula",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 49.3,
+      "IsCritical": false,
+      "Products": [
+        "tax compliance"
+      ],
+      "AnnualSpend": 6055898.62
+    },
+    {
+      "Id": "02796eef-0fd9-13e4-19c6-0062ce83eff4",
+      "Name": "Taxpayers - Nakonde",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 82.4,
+      "IsCritical": false,
+      "Products": [
+        "customs enforcement"
+      ],
+      "AnnualSpend": 2695068.29
+    },
+    {
+      "Id": "02b6e8f8-05e0-0c34-211b-00c9276ed073",
+      "Name": "Importers - Kazungula",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 42.8,
+      "IsCritical": false,
+      "Products": [
+        "VAT fraud"
+      ],
+      "AnnualSpend": 7564815.28
+    },
+    {
+      "Id": "05121803-14ba-0b40-19b2-002ddc8a1c62",
+      "Name": "Exporters - Kitwe",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 94.1,
+      "IsCritical": false,
+      "Products": [
+        "VAT fraud"
+      ],
+      "AnnualSpend": 4141366.39
+    },
+    {
+      "Id": "04377ee6-0fc5-0662-10c1-0023e5a184b3",
+      "Name": "Exporters - Nakonde",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 84.9,
+      "IsCritical": true,
+      "Products": [
+        "revenue collection"
+      ],
+      "AnnualSpend": 4043211.74
+    },
+    {
+      "Id": "047a2e02-1733-1aed-0e9d-0034eca1b5b4",
+      "Name": "Exporters - Kazungula",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 73.2,
+      "IsCritical": false,
+      "Products": [
+        "VAT fraud"
+      ],
+      "AnnualSpend": 2039284.69
+    },
+    {
+      "Id": "00cde86c-0e37-1865-16a3-00e553e9cba4",
+      "Name": "Mining companies - Chirundu",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 41.0,
+      "IsCritical": true,
+      "Products": [
+        "revenue collection"
+      ],
+      "AnnualSpend": 6475363.93
+    },
+    {
+      "Id": "03c48b83-0dd4-10b8-19aa-00b685bf6341",
+      "Name": "Mining companies - Kazungula",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 60.9,
+      "IsCritical": false,
+      "Products": [
+        "VAT fraud"
+      ],
+      "AnnualSpend": 9842368.98
+    },
+    {
+      "Id": "012184aa-0df6-2161-2135-006666bfdcbb",
+      "Name": "Exporters - Nakonde",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 76.3,
+      "IsCritical": true,
+      "Products": [
+        "revenue collection"
+      ],
+      "AnnualSpend": 5604376.86
+    },
+    {
+      "Id": "0293f2f9-0674-14da-0b07-00c33fcf79ea",
+      "Name": "Importers - Chirundu",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 45.0,
+      "IsCritical": true,
+      "Products": [
+        "customs enforcement"
+      ],
+      "AnnualSpend": 3101549.42
+    },
+    {
+      "Id": "04eb0bed-12e9-1d3c-2007-00aef6d0e786",
+      "Name": "Importers - Nakonde",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 94.0,
+      "IsCritical": true,
+      "Products": [
+        "transfer pricing"
+      ],
+      "AnnualSpend": 9071716.45
+    },
+    {
+      "Id": "0192098c-1843-099b-1ff6-003e080b0e69",
+      "Name": "Taxpayers - Kazungula",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 69.6,
+      "IsCritical": true,
+      "Products": [
+        "customs enforcement"
+      ],
+      "AnnualSpend": 580203.9
+    },
+    {
+      "Id": "0397ddb4-2167-1894-18b7-00bed325d68b",
+      "Name": "Exporters - Chirundu",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 61.5,
+      "IsCritical": true,
+      "Products": [
+        "customs enforcement"
+      ],
+      "AnnualSpend": 1176155.4
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "01f98580-2635-12ff-2276-00e4ec596278",
+      "FromSupplierId": "00a236d9-0669-0d93-0877-00aeeca3c1db",
+      "ToSupplierId": "04b495b0-2480-188d-19d7-006b1c52a0a8",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.85,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04f9b5db-1000-0c03-1acd-00d108528677",
+      "FromSupplierId": "01f6bdf7-1ef2-2152-161d-008c9aa98893",
+      "ToSupplierId": "04c7372e-0bcf-05ff-11c7-0053d77bac85",
+      "Type": "partnership",
+      "DependencyLevel": 0.44,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01c3f49b-0506-1bd3-0ac2-005796523d41",
+      "FromSupplierId": "021d32bd-254b-1656-2012-00d9099d1a84",
+      "ToSupplierId": "04eb0bed-12e9-1d3c-2007-00aef6d0e786",
+      "Type": "partnership",
+      "DependencyLevel": 0.52,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "01f6798c-1c91-18e7-26fa-002bb690eaf5",
+      "FromSupplierId": "00e2fdff-18f1-15ef-10b7-005fcd942a02",
+      "ToSupplierId": "04e44f34-208a-21e9-13e9-004b15778c68",
+      "Type": "supplies",
+      "DependencyLevel": 0.54,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0563c4c8-0e7d-0848-0455-00b29128ba25",
+      "FromSupplierId": "04b495b0-2480-188d-19d7-006b1c52a0a8",
+      "ToSupplierId": "04812f26-055e-2545-1cff-001ed4bb1bcb",
+      "Type": "supplies",
+      "DependencyLevel": 0.79,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02255434-22d6-18f1-16d4-0084c8ab5b20",
+      "FromSupplierId": "04a77a54-05db-08f3-22da-0040b735100e",
+      "ToSupplierId": "01161454-18d9-0bee-14c3-001d6aa56b65",
+      "Type": "partnership",
+      "DependencyLevel": 0.54,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "035ef7e8-0c90-140b-081a-00436e8b3c65",
+      "FromSupplierId": "04eb0bed-12e9-1d3c-2007-00aef6d0e786",
+      "ToSupplierId": "01b9c129-07e9-05f5-1ffc-0054557b9e4d",
+      "Type": "partnership",
+      "DependencyLevel": 0.87,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "05b15b2e-2370-1c65-0d26-00700bb174f5",
+      "FromSupplierId": "02cb08c3-1b0f-112c-219b-00a4a486f4fd",
+      "ToSupplierId": "04fe190f-18d8-2577-16d6-0060f5d25147",
+      "Type": "partnership",
+      "DependencyLevel": 0.6,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "045501ed-070d-0480-207f-001f14a61dda",
+      "FromSupplierId": "0167fd90-1eeb-2268-237e-008d79000940",
+      "ToSupplierId": "04a77a54-05db-08f3-22da-0040b735100e",
+      "Type": "supplies",
+      "DependencyLevel": 0.53,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03880b4a-0eb2-07ec-20aa-0083ea02ba92",
+      "FromSupplierId": "04c7372e-0bcf-05ff-11c7-0053d77bac85",
+      "ToSupplierId": "03843063-24ac-2669-2346-001be53442b6",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.81,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00d560d3-20c8-2211-1b49-00d6a59e10e6",
+      "FromSupplierId": "03843063-24ac-2669-2346-001be53442b6",
+      "ToSupplierId": "01852f81-1d6b-11c8-20ac-00c8384279ef",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.63,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04a32d0a-17de-14e5-1cff-0021b939519b",
+      "FromSupplierId": "010eb9a7-05c1-1c51-114b-0018e2ba6db7",
+      "ToSupplierId": "03afa813-2583-221f-06b6-00594d12a7e6",
+      "Type": "supplies",
+      "DependencyLevel": 0.88,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04088459-2589-1c53-0dbc-00cf655cb310",
+      "FromSupplierId": "020427e2-20bb-105d-1dac-00901ff67195",
+      "ToSupplierId": "0513848e-08d3-1e9f-0523-0017dff1b437",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.66,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0271bd75-25ae-18a5-1ac5-00a9d745de66",
+      "FromSupplierId": "02cb08c3-1b0f-112c-219b-00a4a486f4fd",
+      "ToSupplierId": "0255aa27-055f-066e-1010-002d6a8a8c9c",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.49,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "05c55e14-084d-22a9-131a-00ac454f2236",
+      "FromSupplierId": "03c3242b-1cdb-22b9-1ab2-00abec3d0ac4",
+      "ToSupplierId": "05d483fb-1a9d-1f11-253f-00ba8e7f24dc",
+      "Type": "supplies",
+      "DependencyLevel": 0.55,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03a8890a-0d65-1be2-1e79-0050d9cd6159",
+      "FromSupplierId": "033bb0e0-08e8-1bff-08f6-0087341df63c",
+      "ToSupplierId": "02796eef-0fd9-13e4-19c6-0062ce83eff4",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.52,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "009dd064-0f32-092e-1da5-003864f5e09d",
+      "FromSupplierId": "0290d7d0-22c4-1a56-15d6-00836673814c",
+      "ToSupplierId": "044fe81a-0ed4-1c38-1089-007472639629",
+      "Type": "partnership",
+      "DependencyLevel": 0.4,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "040921db-1e87-2284-096b-0061b1977010",
+      "FromSupplierId": "02796eef-0fd9-13e4-19c6-0062ce83eff4",
+      "ToSupplierId": "00cde86c-0e37-1865-16a3-00e553e9cba4",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.89,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01224a03-0af8-1c94-1877-00c0ce4a83e8",
+      "FromSupplierId": "03c3242b-1cdb-22b9-1ab2-00abec3d0ac4",
+      "ToSupplierId": "04c7372e-0bcf-05ff-11c7-0053d77bac85",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.72,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0402ac90-20c3-0e8e-1ec4-00ca0c0396c9",
+      "FromSupplierId": "04377ee6-0fc5-0662-10c1-0023e5a184b3",
+      "ToSupplierId": "0290d7d0-22c4-1a56-15d6-00836673814c",
+      "Type": "supplies",
+      "DependencyLevel": 0.81,
+      "IsCriticalPath": false
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "geographic",
+      "Description": "Concentration of transfer pricing in Kazungula",
+      "ConcentrationLevel": 52.1,
+      "AffectedSuppliers": [
+        "Exporters - Nakonde",
+        "Importers - Kazungula",
+        "Mining companies - Kazungula"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "032d159b-0990-141b-212f-00cc8397863e",
+      "SupplierId": "03df1229-0a7f-15c8-125d-003a3dbfd199",
+      "SupplierName": "Mining companies - Kazungula",
+      "RiskType": "financial",
+      "Severity": "low",
+      "Description": "Risk detected in VAT fraud operations",
+      "DetectedAt": "2025-12-20T17:30:31Z",
+      "IsAcknowledged": true,
+      "AffectedDownstreamSuppliers": [
+        "02b6e8f8-05e0-0c34-211b-00c9276ed073",
+        "02a1555a-12b2-1e44-2154-0092756f4c40"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 17,
+    "HighRiskSuppliers": 13,
+    "AverageRiskScore": 67.1,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

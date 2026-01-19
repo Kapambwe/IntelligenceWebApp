@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "Defense",
+  "DisplayName": "Zambia Defence Force",
+  "Country": "Zambia",
+  "Headquarters": "Kansenshi, Ndola",
+  "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+  "TopPriorities": [
+    "Secure mineral-rich borders and Copperbelt transit corridors.",
+    "Support humanitarian logistics for flood relief and energy infrastructure.",
+    "Cooperate with regional defense forces on cross-border crime interdiction."
+  ],
+  "ActiveOperations": [
+    "Joint patrols with the Zambia Revenue Authority along the DRC border to fight illicit copper smuggling.",
+    "Logistics support for the Ministry of Health vaccine cold chain.",
+    "Intelligence sharing with Zambia Police Service on organized crime groups that fund illegal mining."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Deployed engineering units to repair electricity feed near Kitwe",
+      "Date": "2026-01-08T00:00:00Z",
+      "Summary": "Military engineers worked with ZESCO and civil contractors to restore feeder lines that mining auditors flagged as tampered with."
+    },
+    {
+      "Title": "Hosted Southern African Defense Transparency Forum",
+      "Date": "2025-12-02T00:00:00Z",
+      "Summary": "Shared best practices for civilian oversight and budget compliance while inviting ZRA auditors to participate."
+    }
+  ],
+  "KeyPartnerships": [
+    "Zambia Revenue Authority",
+    "Zambia Police Service",
+    "Southern African Development Community (SADC) standby forces"
+  ],
+  "Metrics": {
+    "BorderIncidents": "6 resolved incidents in past quarter",
+    "CivilSupportMissions": "14 flood response deployments",
+    "TransparencyReviews": "3 field audits by Ministry of Defense"
+  }
+}

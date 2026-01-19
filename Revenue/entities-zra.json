@@ -1,0 +1,204 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "1f49bec0-3b9c-4157-9780-031b2c6c7256",
+      "Name": "Liangyung Company Limited",
+      "Type": "organization",
+      "Status": "flagged",
+      "RiskScore": 94,
+      "CreatedAt": "2025-12-15T07:30:00Z",
+      "UpdatedAt": "2026-01-12T09:10:00Z"
+    },
+    {
+      "Id": "15d338f6-270a-4a9a-a884-4baa8c3a9c4f",
+      "Name": "Santorin Investments Limited",
+      "Type": "organization",
+      "Status": "flagged",
+      "RiskScore": 92,
+      "CreatedAt": "2025-12-08T08:00:00Z",
+      "UpdatedAt": "2026-01-10T11:20:00Z"
+    },
+    {
+      "Id": "eb2717c4-7f3e-4439-993d-fbcd5811162e",
+      "Name": "Chinese Commercial Trading Centre Limited",
+      "Type": "organization",
+      "Status": "underReview",
+      "RiskScore": 88,
+      "CreatedAt": "2025-12-18T06:45:00Z",
+      "UpdatedAt": "2026-01-11T13:50:00Z"
+    },
+    {
+      "Id": "9bcef851-e607-4d74-b7f6-2384f8b72b27",
+      "Name": "Spax Mining Limited",
+      "Type": "organization",
+      "Status": "underReview",
+      "RiskScore": 87,
+      "CreatedAt": "2025-11-28T09:12:00Z",
+      "UpdatedAt": "2026-01-08T14:35:00Z"
+    },
+    {
+      "Id": "c80a1ece-6ea6-4a2f-9fac-5a5d8f9b718a",
+      "Name": "Taurus Mining Resources Limited",
+      "Type": "organization",
+      "Status": "flagged",
+      "RiskScore": 91,
+      "CreatedAt": "2025-11-22T10:45:00Z",
+      "UpdatedAt": "2026-01-09T11:05:00Z"
+    },
+    {
+      "Id": "32086712-0754-40ce-ab82-f799daa88401",
+      "Name": "ZRA Profit Shifting Taskforce",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 35,
+      "CreatedAt": "2024-03-15T09:00:00Z",
+      "UpdatedAt": "2026-01-12T08:00:00Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "1f49bec0-3b9c-4157-9780-031b2c6c7256",
+      "Name": "Liangyung Company Limited",
+      "Type": "organization",
+      "Status": "flagged",
+      "RiskScore": 94,
+      "CreatedAt": "2025-12-15T07:30:00Z",
+      "UpdatedAt": "2026-01-12T09:10:00Z",
+      "Attributes": [
+        { "Name": "Legal Name", "Value": "Liangyung Company Limited", "IsCore": true },
+        { "Name": "Registration Number", "Value": "REG-947531", "IsCore": true },
+        { "Name": "Jurisdiction", "Value": "Zambia", "IsCore": true },
+        { "Name": "Industry", "Value": "Mining Services", "IsCore": false },
+        { "Name": "Address", "Value": "Plot 88, President Avenue, Kitwe", "IsCore": false },
+        { "Name": "Local Partner", "Value": "Zambia Copper Leasing Co", "IsCore": false }
+      ],
+      "RiskFactors": [
+        { "Name": "False Invoice Loop", "Severity": "Critical", "Score": 35 },
+        { "Name": "Unreported Copper Sales", "Severity": "High", "Score": 27 }
+      ],
+      "ScreeningResults": [
+        { "ScreeningType": "Sanctions", "HasMatch": false, "CheckedAt": "2026-01-10T08:00:00Z" },
+        { "ScreeningType": "PEP", "HasMatch": false, "CheckedAt": "2026-01-09T11:20:00Z" },
+        { "ScreeningType": "Adverse Media", "HasMatch": true, "CheckedAt": "2026-01-11T14:10:00Z" }
+      ]
+    },
+    {
+      "Id": "15d338f6-270a-4a9a-a884-4baa8c3a9c4f",
+      "Name": "Santorin Investments Limited",
+      "Type": "organization",
+      "Status": "flagged",
+      "RiskScore": 92,
+      "CreatedAt": "2025-12-08T08:00:00Z",
+      "UpdatedAt": "2026-01-10T11:20:00Z",
+      "Attributes": [
+        { "Name": "Legal Name", "Value": "Santorin Investments Limited", "IsCore": true },
+        { "Name": "Registration Number", "Value": "REG-993402", "IsCore": true },
+        { "Name": "Business Unit", "Value": "Copperbelt Sustained Resources", "IsCore": false },
+        { "Name": "Primary Activity", "Value": "Mine Management and Loan Structuring", "IsCore": false }
+      ],
+      "RiskFactors": [
+        { "Name": "Intercompany Loan Spike", "Severity": "High", "Score": 30 },
+        { "Name": "AI Transfer Pricing Alert", "Severity": "High", "Score": 30 }
+      ],
+      "ScreeningResults": [
+        { "ScreeningType": "Sanctions", "HasMatch": false, "CheckedAt": "2026-01-09T09:05:00Z" },
+        { "ScreeningType": "PEP", "HasMatch": true, "CheckedAt": "2026-01-08T12:30:00Z" },
+        { "ScreeningType": "Adverse Media", "HasMatch": true, "CheckedAt": "2026-01-10T07:45:00Z" }
+      ]
+    },
+    {
+      "Id": "eb2717c4-7f3e-4439-993d-fbcd5811162e",
+      "Name": "Chinese Commercial Trading Centre Limited",
+      "Type": "organization",
+      "Status": "underReview",
+      "RiskScore": 88,
+      "CreatedAt": "2025-12-18T06:45:00Z",
+      "UpdatedAt": "2026-01-11T13:50:00Z",
+      "Attributes": [
+        { "Name": "Legal Name", "Value": "Chinese Commercial Trading Centre Limited", "IsCore": true },
+        { "Name": "Registration Number", "Value": "REG-731210", "IsCore": true },
+        { "Name": "Jurisdiction", "Value": "China / Zambia", "IsCore": true },
+        { "Name": "Industry", "Value": "Logistics & Trade", "IsCore": false },
+        { "Name": "Business Address", "Value": "Plot 124, Kitwe Industrial Park", "IsCore": false }
+      ],
+      "RiskFactors": [
+        { "Name": "False VAT Claims", "Severity": "High", "Score": 33 },
+        { "Name": "Layered Imports", "Severity": "Medium", "Score": 20 }
+      ],
+      "ScreeningResults": [
+        { "ScreeningType": "Sanctions", "HasMatch": false, "CheckedAt": "2026-01-11T12:00:00Z" },
+        { "ScreeningType": "PEP", "HasMatch": false, "CheckedAt": "2026-01-09T16:00:00Z" },
+        { "ScreeningType": "Adverse Media", "HasMatch": true, "CheckedAt": "2026-01-10T05:55:00Z" }
+      ]
+    },
+    {
+      "Id": "9bcef851-e607-4d74-b7f6-2384f8b72b27",
+      "Name": "Spax Mining Limited",
+      "Type": "organization",
+      "Status": "underReview",
+      "RiskScore": 87,
+      "CreatedAt": "2025-11-28T09:12:00Z",
+      "UpdatedAt": "2026-01-08T14:35:00Z",
+      "Attributes": [
+        { "Name": "Legal Name", "Value": "Spax Mining Limited", "IsCore": true },
+        { "Name": "Registration Number", "Value": "REG-481020", "IsCore": true },
+        { "Name": "Location", "Value": "Solwezi, North-Western Province", "IsCore": false },
+        { "Name": "Primary Trade", "Value": "Copper Ore Supply", "IsCore": false }
+      ],
+      "RiskFactors": [
+        { "Name": "False Supply Declarations", "Severity": "High", "Score": 29 },
+        { "Name": "Document Tampering", "Severity": "Medium", "Score": 18 }
+      ],
+      "ScreeningResults": [
+        { "ScreeningType": "Sanctions", "HasMatch": false, "CheckedAt": "2026-01-08T13:40:00Z" },
+        { "ScreeningType": "PEP", "HasMatch": false, "CheckedAt": "2026-01-07T15:20:00Z" },
+        { "ScreeningType": "Adverse Media", "HasMatch": true, "CheckedAt": "2026-01-09T06:00:00Z" }
+      ]
+    },
+    {
+      "Id": "c80a1ece-6ea6-4a2f-9fac-5a5d8f9b718a",
+      "Name": "Taurus Mining Resources Limited",
+      "Type": "organization",
+      "Status": "flagged",
+      "RiskScore": 91,
+      "CreatedAt": "2025-11-22T10:45:00Z",
+      "UpdatedAt": "2026-01-09T11:05:00Z",
+      "Attributes": [
+        { "Name": "Legal Name", "Value": "Taurus Mining Resources Limited", "IsCore": true },
+        { "Name": "Registration Number", "Value": "REG-583410", "IsCore": true },
+        { "Name": "Energy Partner", "Value": "Focus on Equipment and Services Limited", "IsCore": false },
+        { "Name": "Reported Loss", "Value": "K10.7M VAT discrepancy", "IsCore": false }
+      ],
+      "RiskFactors": [
+        { "Name": "VAT Fraud Cluster", "Severity": "High", "Score": 32 },
+        { "Name": "Related Party Advance", "Severity": "Medium", "Score": 22 }
+      ],
+      "ScreeningResults": [
+        { "ScreeningType": "Sanctions", "HasMatch": false, "CheckedAt": "2026-01-10T08:10:00Z" },
+        { "ScreeningType": "PEP", "HasMatch": false, "CheckedAt": "2026-01-07T09:15:00Z" },
+        { "ScreeningType": "Adverse Media", "HasMatch": true, "CheckedAt": "2026-01-08T16:20:00Z" }
+      ]
+    },
+    {
+      "Id": "32086712-0754-40ce-ab82-f799daa88401",
+      "Name": "ZRA Profit Shifting Taskforce",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 35,
+      "CreatedAt": "2024-03-15T09:00:00Z",
+      "UpdatedAt": "2026-01-12T08:00:00Z",
+      "Attributes": [
+        { "Name": "Department", "Value": "Copperbelt Risk Intelligence", "IsCore": true },
+        { "Name": "Location", "Value": "President Avenue, Kitwe", "IsCore": true },
+        { "Name": "Investigations", "Value": "Liangyung, Santorin, Spax, Taurus", "IsCore": false }
+      ],
+      "RiskFactors": [
+        { "Name": "AI Anomaly Detection", "Severity": "Low", "Score": 10 }
+      ],
+      "ScreeningResults": [
+        { "ScreeningType": "Internal Review", "HasMatch": true, "CheckedAt": "2026-01-12T07:30:00Z" }
+      ]
+    }
+  ]
+}

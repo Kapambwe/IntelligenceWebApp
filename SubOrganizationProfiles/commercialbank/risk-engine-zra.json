@@ -1,0 +1,196 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "02c6c76b-189c-17b0-1dc8-00dbc6025354",
+      "Name": "Transaction monitoring Risk Model",
+      "Description": "Detects corporate lending patterns in Commercial Banking operations",
+      "Status": "active",
+      "CreatedAt": "2025-11-08T17:30:30Z",
+      "LastModifiedAt": "2026-01-08T17:30:30Z",
+      "Version": "1.6",
+      "Factors": [
+        {
+          "Id": "02b3b44e-0995-186c-212a-00b682d69b6e",
+          "Name": "Account management Indicator",
+          "Description": "Measures retail banking risk across business accounts",
+          "Category": "financial",
+          "Weight": 0.18,
+          "MinValue": 0,
+          "MaxValue": 157,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02482750-1f87-1485-0c30-009d1414dd5c",
+          "Name": "Transaction monitoring Indicator",
+          "Description": "Measures transaction monitoring risk across business accounts",
+          "Category": "geographic",
+          "Weight": 0.16,
+          "MinValue": 0,
+          "MaxValue": 125,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01d3c32e-17ef-195c-0907-007086933279",
+          "Name": "Corporate lending Indicator",
+          "Description": "Measures credit risk risk across SMEs",
+          "Category": "financial",
+          "Weight": 0.31,
+          "MinValue": 0,
+          "MaxValue": 177,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.95,
+        "Precision": 0.83,
+        "Recall": 0.87,
+        "F1Score": 0.79,
+        "TotalPredictions": 509,
+        "TruePositives": 226,
+        "FalsePositives": 51,
+        "TrueNegatives": 119,
+        "FalseNegatives": 25
+      }
+    },
+    {
+      "Id": "021d65d9-1b61-0db7-1150-0099c2a8165a",
+      "Name": "Transaction monitoring Risk Model",
+      "Description": "Detects corporate lending patterns in Commercial Banking operations",
+      "Status": "active",
+      "CreatedAt": "2025-10-23T17:30:30Z",
+      "LastModifiedAt": "2026-01-15T17:30:30Z",
+      "Version": "2.2",
+      "Factors": [
+        {
+          "Id": "00c5b5f6-2160-11da-0478-0058cb880b0a",
+          "Name": "Retail banking Indicator",
+          "Description": "Measures account management risk across individual customers",
+          "Category": "financial",
+          "Weight": 0.32,
+          "MinValue": 0,
+          "MaxValue": 141,
+          "IsEnabled": true
+        },
+        {
+          "Id": "046bf8ff-09a6-0b0a-1ca5-00c9b4c4db61",
+          "Name": "Corporate lending Indicator",
+          "Description": "Measures transaction monitoring risk across individual customers",
+          "Category": "financial",
+          "Weight": 0.24,
+          "MinValue": 0,
+          "MaxValue": 103,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0129d0d7-234a-0b6b-08e8-00d4d3b8b45f",
+          "Name": "Account management Indicator",
+          "Description": "Measures transaction monitoring risk across individual customers",
+          "Category": "compliance",
+          "Weight": 0.29,
+          "MinValue": 0,
+          "MaxValue": 148,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02984757-2310-0e25-1fbe-006891831132",
+          "Name": "Credit risk Indicator",
+          "Description": "Measures retail banking risk across individual customers",
+          "Category": "geographic",
+          "Weight": 0.29,
+          "MinValue": 0,
+          "MaxValue": 146,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0343faa0-0873-1f6c-1359-00b49409cf5b",
+          "Name": "Retail banking Indicator",
+          "Description": "Measures corporate lending risk across SMEs",
+          "Category": "geographic",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 115,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.85,
+        "Precision": 0.87,
+        "Recall": 0.78,
+        "F1Score": 0.86,
+        "TotalPredictions": 535,
+        "TruePositives": 489,
+        "FalsePositives": 21,
+        "TrueNegatives": 187,
+        "FalseNegatives": 20
+      }
+    },
+    {
+      "Id": "02335a55-262c-1c89-23f1-00be8218ddbf",
+      "Name": "Credit risk Risk Model",
+      "Description": "Detects account management patterns in Commercial Banking operations",
+      "Status": "active",
+      "CreatedAt": "2025-12-14T17:30:30Z",
+      "LastModifiedAt": "2026-01-04T17:30:30Z",
+      "Version": "2.3",
+      "Factors": [
+        {
+          "Id": "04a436ac-1667-0850-04c4-00237e76ae53",
+          "Name": "Transaction monitoring Indicator",
+          "Description": "Measures credit risk risk across SMEs",
+          "Category": "geographic",
+          "Weight": 0.35,
+          "MinValue": 0,
+          "MaxValue": 102,
+          "IsEnabled": true
+        },
+        {
+          "Id": "039dfc3d-0bf0-20c3-0ffe-00b87a485a86",
+          "Name": "Credit risk Indicator",
+          "Description": "Measures account management risk across business accounts",
+          "Category": "operational",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 163,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01726f8c-1429-07bd-0940-00be7ea892fb",
+          "Name": "Credit risk Indicator",
+          "Description": "Measures transaction monitoring risk across SMEs",
+          "Category": "financial",
+          "Weight": 0.2,
+          "MinValue": 0,
+          "MaxValue": 144,
+          "IsEnabled": true
+        },
+        {
+          "Id": "05c08dbe-04eb-074e-2661-00d6f4e2fd2e",
+          "Name": "Retail banking Indicator",
+          "Description": "Measures transaction monitoring risk across individual customers",
+          "Category": "operational",
+          "Weight": 0.17,
+          "MinValue": 0,
+          "MaxValue": 122,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.89,
+        "Precision": 0.76,
+        "Recall": 0.78,
+        "F1Score": 0.78,
+        "TotalPredictions": 526,
+        "TruePositives": 235,
+        "FalsePositives": 59,
+        "TrueNegatives": 182,
+        "FalseNegatives": 49
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 12,
+    "AverageRiskScore": 80.6
+  }
+}

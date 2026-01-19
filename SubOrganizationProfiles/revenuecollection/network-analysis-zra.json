@@ -1,0 +1,56 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "Arrears managementPath",
+      "Summary": "Identified 3-step pattern linking individual filers to debt recovery in Lusaka",
+      "HighlightedNodes": [
+        "0582b520-2360-0460-0de0-00a923e1404f",
+        "0269f6de-201e-19a7-12af-007e02cbc53c",
+        "0324a4b4-0dc4-06cc-224c-006c3a711763"
+      ]
+    },
+    {
+      "Name": "Tax collectionPath",
+      "Summary": "Identified 5-step pattern linking corporate entities to compliance enforcement in Livingstone",
+      "HighlightedNodes": [
+        "0225cf9c-181e-04c6-1e02-007dc34b97fd",
+        "027469d7-1d9e-23b3-125b-00d3eaf00b43",
+        "0377ee41-1d0b-079f-1d4b-0020f69e431e",
+        "0345f01a-1869-0cd8-1a2c-00b33e42f907",
+        "0552b8fe-06b5-04f1-19bf-006e8e25b3b4"
+      ]
+    },
+    {
+      "Name": "Debt recoveryPath",
+      "Summary": "Identified 5-step pattern linking taxpayers to arrears management in Ndola",
+      "HighlightedNodes": [
+        "034c96dc-25e4-0db5-1548-008016f520cd",
+        "03643b0b-161b-23fb-05fb-0031dfdec76e",
+        "02813469-224c-117f-067e-0044ffad7dea",
+        "027eaefa-168c-1622-10bf-006f3b55feaa",
+        "033d8a4c-1c8f-20f0-1281-00811b8f57db"
+      ]
+    },
+    {
+      "Name": "Compliance enforcementPath",
+      "Summary": "Identified 3-step pattern linking corporate entities to arrears management in Kitwe",
+      "HighlightedNodes": [
+        "02debcb9-1164-1367-23c0-003dd8086dc0",
+        "0372939e-1780-209b-2050-00d99ad92a56",
+        "01575889-0962-041a-1695-00696f999255"
+      ]
+    },
+    {
+      "Name": "Compliance enforcementPath",
+      "Summary": "Identified 5-step pattern linking taxpayers to tax collection in Lusaka",
+      "HighlightedNodes": [
+        "0416cad3-19ac-09a8-1cdd-00b644fddb9b",
+        "05257f98-230b-129e-09ee-00b9d000b2e4",
+        "020cdd32-14e4-06c6-1f7b-00a1cede82fe",
+        "02c3bea7-1d94-13e0-198e-00751708dfbc",
+        "036e9409-0a72-17a3-2259-00bf612ac99c"
+      ]
+    }
+  ]
+}

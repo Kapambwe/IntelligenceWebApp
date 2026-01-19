@@ -1,0 +1,2002 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Chingola Special Operations Unit",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Chingola area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Chingola",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-12-05T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "12 operations",
+      "EvidenceTransfers": "9 in past month",
+      "CommunityTips": "452 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Petauke Community Policing Unit",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Petauke area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Petauke",
+        "Date": "2025-12-22T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-14T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "15 operations",
+      "EvidenceTransfers": "8 in past month",
+      "CommunityTips": "357 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Livingstone Fraud Investigation Unit",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Livingstone area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Livingstone",
+        "Date": "2026-01-16T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "7 operations",
+      "EvidenceTransfers": "15 in past month",
+      "CommunityTips": "463 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Lusaka Criminal Investigation Department",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Lusaka area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Lusaka",
+        "Date": "2025-12-07T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-25T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "6 operations",
+      "EvidenceTransfers": "15 in past month",
+      "CommunityTips": "349 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Mazabuka Community Policing Unit",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Mazabuka area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Mazabuka",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-10-22T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "15 operations",
+      "EvidenceTransfers": "17 in past month",
+      "CommunityTips": "236 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Mpika Cyber Crime Unit",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Mpika area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Mpika",
+        "Date": "2026-01-04T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-10T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "11 operations",
+      "EvidenceTransfers": "14 in past month",
+      "CommunityTips": "415 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Mufulira Community Policing Unit",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Mufulira area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Mufulira",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-10-24T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "14 operations",
+      "EvidenceTransfers": "15 in past month",
+      "CommunityTips": "127 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Lundazi Drug Enforcement Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Lundazi area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Lundazi",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-10-24T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "5 operations",
+      "EvidenceTransfers": "17 in past month",
+      "CommunityTips": "405 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Monze Border Patrol Unit",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Monze area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Monze",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-24T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "7 operations",
+      "EvidenceTransfers": "9 in past month",
+      "CommunityTips": "224 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Solwezi Cyber Crime Unit",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Solwezi area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Solwezi",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "8 operations",
+      "EvidenceTransfers": "18 in past month",
+      "CommunityTips": "172 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Chipata Fraud Investigation Unit",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Chipata area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Chipata",
+        "Date": "2025-12-13T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-16T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "11 operations",
+      "EvidenceTransfers": "11 in past month",
+      "CommunityTips": "350 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Solwezi Traffic Division",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Solwezi area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Solwezi",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-15T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "10 operations",
+      "EvidenceTransfers": "20 in past month",
+      "CommunityTips": "174 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Chingola Special Operations Unit",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Chingola area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Chingola",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-12-03T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "8 operations",
+      "EvidenceTransfers": "11 in past month",
+      "CommunityTips": "407 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Choma Criminal Investigation Department",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Choma area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Choma",
+        "Date": "2025-12-10T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-02T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "11 operations",
+      "EvidenceTransfers": "17 in past month",
+      "CommunityTips": "158 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Choma Border Patrol Unit",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Choma area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Choma",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-07T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "5 operations",
+      "EvidenceTransfers": "11 in past month",
+      "CommunityTips": "195 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Mazabuka Fraud Investigation Unit",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Mazabuka area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Mazabuka",
+        "Date": "2026-01-07T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-24T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "12 operations",
+      "EvidenceTransfers": "7 in past month",
+      "CommunityTips": "408 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Lusaka Border Patrol Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Lusaka area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Lusaka",
+        "Date": "2025-12-13T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-10-30T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "10 operations",
+      "EvidenceTransfers": "7 in past month",
+      "CommunityTips": "157 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Mbala Drug Enforcement Unit",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Mbala area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Mbala",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-12-05T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "9 operations",
+      "EvidenceTransfers": "18 in past month",
+      "CommunityTips": "474 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Choma Economic Crimes Unit",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Choma area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Choma",
+        "Date": "2025-12-12T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-12-03T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "15 operations",
+      "EvidenceTransfers": "11 in past month",
+      "CommunityTips": "109 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Kabwe Anti-Smuggling Unit",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Kabwe area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Kabwe",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-18T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "12 operations",
+      "EvidenceTransfers": "16 in past month",
+      "CommunityTips": "175 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Kasama Anti-Smuggling Unit",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Kasama area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Kasama",
+        "Date": "2026-01-04T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "6 operations",
+      "EvidenceTransfers": "19 in past month",
+      "CommunityTips": "452 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Petauke Drug Enforcement Unit",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Petauke area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Petauke",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "13 operations",
+      "EvidenceTransfers": "19 in past month",
+      "CommunityTips": "287 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Mufulira Traffic Division",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Mufulira area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Mufulira",
+        "Date": "2026-01-07T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "5 operations",
+      "EvidenceTransfers": "10 in past month",
+      "CommunityTips": "153 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Livingstone Anti-Smuggling Unit",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Livingstone area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Livingstone",
+        "Date": "2026-01-14T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-10-31T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "9 operations",
+      "EvidenceTransfers": "14 in past month",
+      "CommunityTips": "436 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Lundazi Economic Crimes Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Lundazi area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Lundazi",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-10T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "7 operations",
+      "EvidenceTransfers": "11 in past month",
+      "CommunityTips": "424 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Solwezi Traffic Division",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Solwezi area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Solwezi",
+        "Date": "2026-01-04T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "5 operations",
+      "EvidenceTransfers": "20 in past month",
+      "CommunityTips": "494 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Mpika Criminal Investigation Department",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Mpika area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Mpika",
+        "Date": "2026-01-02T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-01T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "7 operations",
+      "EvidenceTransfers": "7 in past month",
+      "CommunityTips": "372 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Kafue Community Policing Unit",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Kafue area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Kafue",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-10T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "8 operations",
+      "EvidenceTransfers": "6 in past month",
+      "CommunityTips": "132 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Mufulira Criminal Investigation Department",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Mufulira area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Mufulira",
+        "Date": "2026-01-02T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-10-26T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "13 operations",
+      "EvidenceTransfers": "5 in past month",
+      "CommunityTips": "458 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Livingstone Anti-Smuggling Unit",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Livingstone area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Livingstone",
+        "Date": "2025-12-07T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-24T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "13 operations",
+      "EvidenceTransfers": "20 in past month",
+      "CommunityTips": "292 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Chingola Cyber Crime Unit",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Chingola area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Chingola",
+        "Date": "2025-12-22T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "7 operations",
+      "EvidenceTransfers": "9 in past month",
+      "CommunityTips": "330 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Kabwe Anti-Smuggling Unit",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Kabwe area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Kabwe",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-04T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "8 operations",
+      "EvidenceTransfers": "16 in past month",
+      "CommunityTips": "493 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Petauke Police Station",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Petauke area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Petauke",
+        "Date": "2025-12-13T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "15 operations",
+      "EvidenceTransfers": "10 in past month",
+      "CommunityTips": "453 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Petauke Community Policing Unit",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Petauke area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Petauke",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "7 operations",
+      "EvidenceTransfers": "20 in past month",
+      "CommunityTips": "356 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Kasama Community Policing Unit",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Kasama area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Kasama",
+        "Date": "2026-01-02T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-13T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "14 operations",
+      "EvidenceTransfers": "16 in past month",
+      "CommunityTips": "218 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Kafue Criminal Investigation Department",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Kafue area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Kafue",
+        "Date": "2025-12-26T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "6 operations",
+      "EvidenceTransfers": "9 in past month",
+      "CommunityTips": "336 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Mansa Border Patrol Unit",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Mansa area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Mansa",
+        "Date": "2025-12-15T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-06T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "5 operations",
+      "EvidenceTransfers": "8 in past month",
+      "CommunityTips": "450 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Kabwe Police Station",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Kabwe area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Kabwe",
+        "Date": "2025-12-21T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-10-22T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "7 operations",
+      "EvidenceTransfers": "15 in past month",
+      "CommunityTips": "409 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Choma Traffic Division",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Choma area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Choma",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "10 operations",
+      "EvidenceTransfers": "10 in past month",
+      "CommunityTips": "382 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Livingstone Police Station",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Livingstone area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Livingstone",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-11T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "12 operations",
+      "EvidenceTransfers": "14 in past month",
+      "CommunityTips": "377 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Mufulira Police Station",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Mufulira area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Mufulira",
+        "Date": "2025-12-15T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-10-24T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "14 operations",
+      "EvidenceTransfers": "5 in past month",
+      "CommunityTips": "473 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Solwezi Anti-Smuggling Unit",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Solwezi area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Solwezi",
+        "Date": "2025-12-17T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-08T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "12 operations",
+      "EvidenceTransfers": "17 in past month",
+      "CommunityTips": "341 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Mazabuka Police Station",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Mazabuka area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Mazabuka",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-27T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "15 operations",
+      "EvidenceTransfers": "7 in past month",
+      "CommunityTips": "128 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Kabwe Cyber Crime Unit",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Kabwe area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Kabwe",
+        "Date": "2026-01-02T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "6 operations",
+      "EvidenceTransfers": "20 in past month",
+      "CommunityTips": "469 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Mongu Economic Crimes Unit",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Mongu area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Mongu",
+        "Date": "2025-12-14T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-24T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "7 operations",
+      "EvidenceTransfers": "13 in past month",
+      "CommunityTips": "422 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Monze Police Station",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Monze area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Monze",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-12-05T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "10 operations",
+      "EvidenceTransfers": "20 in past month",
+      "CommunityTips": "406 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Petauke Police Station",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Petauke area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Petauke",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "6 operations",
+      "EvidenceTransfers": "11 in past month",
+      "CommunityTips": "450 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Livingstone Traffic Division",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Livingstone area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Livingstone",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-07T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "11 operations",
+      "EvidenceTransfers": "5 in past month",
+      "CommunityTips": "110 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Mongu Drug Enforcement Unit",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Mongu area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Mongu",
+        "Date": "2025-12-08T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-11-26T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "6 operations",
+      "EvidenceTransfers": "20 in past month",
+      "CommunityTips": "156 verified reports"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Police",
+    "DisplayName": "Livingstone Community Policing Unit",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Maintain law and order, protect lives and property, and support anti-crime intelligence efforts.",
+    "TopPriorities": [
+      "Disrupt smuggling networks and fraudulent supply chains in Livingstone area.",
+      "Enhance community policing to gather witness information on VAT fraud cases.",
+      "Digitize crime reporting and integrate with ZRA intelligence portal."
+    ],
+    "ActiveOperations": [
+      "Joint task force managing asset seizures and evidence handover to Economic and Financial Crimes Court.",
+      "Rapid response units embedded with ZRA audit teams in high-risk zones.",
+      "Public awareness campaigns on financial fraud broadcast on local media."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Crime prevention operation in Livingstone",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Conducted patrols and community engagement to prevent criminal activities."
+      },
+      {
+        "Title": "Support for revenue fraud investigation",
+        "Date": "2025-10-27T00:00:00Z",
+        "Summary": "Provided security escort and investigative support for tax fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Economic and Financial Crimes Court security detail"
+    ],
+    "Metrics": {
+      "ActiveDeployments": "8 operations",
+      "EvidenceTransfers": "20 in past month",
+      "CommunityTips": "439 verified reports"
+    }
+  }
+]

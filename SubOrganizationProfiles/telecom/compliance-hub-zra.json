@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 394,
+  "ActiveAlerts": 11,
+  "PendingReviews": 7,
+  "ComplianceScore": 80.6,
+  "Alerts": [
+    {
+      "Id": "03015c5c-0629-160f-1e32-00985841a874",
+      "Type": "Service delivery",
+      "Severity": "Medium",
+      "EntityName": "Subscribers - Kitwe",
+      "Description": "Service activation revealed network operations involving corporate clients",
+      "DetectedAt": "2025-12-31T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01235562-222d-1f8e-1f95-00ab9d76e888",
+      "Type": "Fraud prevention",
+      "Severity": "Critical",
+      "EntityName": "Service users - Livingstone",
+      "Description": "Network monitoring revealed fraud prevention involving corporate clients",
+      "DetectedAt": "2026-01-13T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0222f685-17a0-256e-0b0f-006d1494865f",
+      "Type": "Fraud prevention",
+      "Severity": "Critical",
+      "EntityName": "Dealers - Kitwe",
+      "Description": "Compliance check revealed fraud prevention involving service users",
+      "DetectedAt": "2025-11-22T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "036b16c2-2279-1a9c-1bfe-006e5bb1afc6",
+      "Type": "Fraud prevention",
+      "Severity": "Low",
+      "EntityName": "Subscribers - Livingstone",
+      "Description": "Compliance check revealed service delivery involving corporate clients",
+      "DetectedAt": "2025-10-30T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00fdd653-1c13-2364-2298-00ac7ebeec86",
+      "Type": "Network operations",
+      "Severity": "High",
+      "EntityName": "Dealers - Ndola",
+      "Description": "Network monitoring revealed subscriber management involving dealers",
+      "DetectedAt": "2025-12-29T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0277e1aa-0880-204b-0bb3-0021a0598a2c",
+      "Type": "Network operations",
+      "Severity": "Critical",
+      "EntityName": "Service users - nationwide network",
+      "Description": "Network monitoring revealed service delivery involving corporate clients",
+      "DetectedAt": "2025-10-26T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02c8f340-03ed-1587-0e9e-00528f685c81",
+      "Type": "Network operations",
+      "Severity": "High",
+      "EntityName": "Corporate clients - Ndola",
+      "Description": "Fraud detection revealed service delivery involving service users",
+      "DetectedAt": "2025-11-18T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "010ad5e4-1893-1e35-113c-0040b58713cb",
+      "Type": "Service delivery",
+      "Severity": "Low",
+      "EntityName": "Corporate clients - Livingstone",
+      "Description": "Subscriber onboarding revealed service delivery involving subscribers",
+      "DetectedAt": "2025-12-19T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00dd2b1a-21d9-11f1-04c9-00de6ce5888d",
+      "Type": "Subscriber management",
+      "Severity": "Low",
+      "EntityName": "Service users - Livingstone",
+      "Description": "Network monitoring revealed subscriber management involving service users",
+      "DetectedAt": "2025-12-23T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04e996bc-123e-0d51-04d6-00ac36dab92c",
+      "Type": "Network operations",
+      "Severity": "Critical",
+      "EntityName": "Service users - Livingstone",
+      "Description": "Network monitoring revealed fraud prevention involving service users",
+      "DetectedAt": "2025-10-30T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "05767bbe-0589-097f-1e89-007473f2b251",
+      "Type": "Compliance",
+      "Severity": "Medium",
+      "EntityName": "Dealers - Kitwe",
+      "Description": "Network monitoring revealed service delivery involving service users",
+      "DetectedAt": "2025-11-13T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05393a4d-12ef-0c98-0c30-00753019452c",
+      "Type": "Network operations",
+      "Severity": "Low",
+      "EntityName": "Corporate clients - nationwide network",
+      "Description": "Subscriber onboarding revealed network operations involving dealers",
+      "DetectedAt": "2025-12-22T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01af3f9f-10f6-0d30-1f6e-008ea37532b4",
+      "Type": "Subscriber management",
+      "Severity": "Medium",
+      "EntityName": "Service users - Livingstone",
+      "Description": "Fraud detection revealed subscriber management involving service users",
+      "DetectedAt": "2026-01-09T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01513aae-0906-1d3f-2670-00cfb312c847",
+      "Type": "Compliance",
+      "Severity": "Medium",
+      "EntityName": "Subscribers - Ndola",
+      "Description": "Service activation revealed compliance involving corporate clients",
+      "DetectedAt": "2025-10-25T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03b627eb-1681-171a-195c-009b3ed33f16",
+      "Type": "Subscriber management",
+      "Severity": "Medium",
+      "EntityName": "Corporate clients - nationwide network",
+      "Description": "Fraud detection revealed service delivery involving corporate clients",
+      "DetectedAt": "2025-11-09T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "053431f1-1b28-2640-2654-00def4604f27",
+      "Type": "Service delivery",
+      "Severity": "Medium",
+      "EntityName": "Subscribers - nationwide network",
+      "Description": "Service activation revealed network operations involving service users",
+      "DetectedAt": "2025-10-28T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0144f5b6-2192-042b-26dd-002aca6226bd",
+      "Type": "Subscriber management",
+      "Severity": "Medium",
+      "EntityName": "Subscribers - Livingstone",
+      "Description": "Compliance check revealed service delivery involving subscribers",
+      "DetectedAt": "2025-11-23T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0539f1aa-161a-25ec-0442-002b2317914a",
+      "Type": "Compliance",
+      "Severity": "High",
+      "EntityName": "Subscribers - Ndola",
+      "Description": "Service activation revealed service delivery involving subscribers",
+      "DetectedAt": "2025-11-15T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "047500d3-191d-1bb9-0a47-001e69975f2e",
+      "Type": "Subscriber management",
+      "Severity": "Critical",
+      "EntityName": "Corporate clients - Livingstone",
+      "Description": "Service activation revealed network operations involving corporate clients",
+      "DetectedAt": "2025-11-15T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01742b68-1b2d-0a74-1d23-004447b2f446",
+      "Type": "Compliance",
+      "Severity": "High",
+      "EntityName": "Corporate clients - Lusaka",
+      "Description": "Fraud detection revealed subscriber management involving corporate clients",
+      "DetectedAt": "2025-11-30T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03638c30-1043-1e8b-0ded-004af116c555",
+      "Type": "Compliance",
+      "Severity": "Low",
+      "EntityName": "Subscribers - Livingstone",
+      "Description": "Network monitoring revealed network operations involving corporate clients",
+      "DetectedAt": "2026-01-19T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04de13c1-225d-2566-0537-00da25f0ce46",
+      "Type": "Subscriber management",
+      "Severity": "Low",
+      "EntityName": "Dealers - Lusaka",
+      "Description": "Compliance check revealed network operations involving dealers",
+      "DetectedAt": "2026-01-16T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02852081-0e8d-10e3-0eef-00b37ac6d0b5",
+      "Type": "Service delivery",
+      "Severity": "Low",
+      "EntityName": "Subscribers - Ndola",
+      "Description": "Subscriber onboarding revealed service delivery involving subscribers",
+      "DetectedAt": "2025-11-07T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "019916fd-074e-0f4a-1dfd-001baa5d40cd",
+      "Type": "Fraud prevention",
+      "Severity": "Medium",
+      "EntityName": "Service users - Ndola",
+      "Description": "Network monitoring revealed network operations involving subscribers",
+      "DetectedAt": "2025-11-22T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05a27a9f-1280-0c79-2236-006d70297439",
+      "Type": "Compliance",
+      "Severity": "Critical",
+      "EntityName": "Service users - nationwide network",
+      "Description": "Subscriber onboarding revealed subscriber management involving subscribers",
+      "DetectedAt": "2025-12-12T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "049c61f9-1352-217c-1478-00a2436c64e8",
+      "Type": "Subscriber management",
+      "Severity": "Low",
+      "EntityName": "Corporate clients - Kitwe",
+      "Description": "Subscriber onboarding revealed fraud prevention involving corporate clients",
+      "DetectedAt": "2025-11-25T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "04fd17fd-1843-1cbc-1c6a-00196adb86e4",
+      "Type": "Subscriber management",
+      "Severity": "Medium",
+      "EntityName": "Corporate clients - Livingstone",
+      "Description": "Compliance check revealed compliance involving subscribers",
+      "DetectedAt": "2025-11-26T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0413e6f9-05c4-0d48-26dc-0031a4f8a1e0",
+      "Type": "Service delivery",
+      "Severity": "Low",
+      "EntityName": "Corporate clients - Ndola",
+      "Description": "Subscriber onboarding revealed fraud prevention involving dealers",
+      "DetectedAt": "2025-12-15T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0171ee87-0b74-0477-0de9-004c0cc9c031",
+      "Type": "Compliance",
+      "Severity": "Critical",
+      "EntityName": "Dealers - Livingstone",
+      "Description": "Network monitoring revealed fraud prevention involving corporate clients",
+      "DetectedAt": "2025-12-16T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "04640822-1c13-2605-23e7-007b402802f1",
+      "Type": "Service delivery",
+      "Severity": "High",
+      "EntityName": "Dealers - Lusaka",
+      "Description": "Compliance check revealed service delivery involving corporate clients",
+      "DetectedAt": "2025-11-18T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02708d60-0d11-1598-06e6-00c7415e2978",
+      "Type": "Compliance",
+      "Severity": "Critical",
+      "EntityName": "Corporate clients - Kitwe",
+      "Description": "Service activation revealed service delivery involving dealers",
+      "DetectedAt": "2025-12-19T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02c1f3c7-269a-090b-11e9-00af0cd1f31b",
+      "Type": "Network operations",
+      "Severity": "High",
+      "EntityName": "Service users - nationwide network",
+      "Description": "Compliance check revealed compliance involving service users",
+      "DetectedAt": "2026-01-08T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0185c1a1-11a0-1c76-1d42-00b2996e31b6",
+      "Type": "Service delivery",
+      "Severity": "Medium",
+      "EntityName": "Subscribers - Ndola",
+      "Description": "Fraud detection revealed compliance involving subscribers",
+      "DetectedAt": "2025-11-15T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "031202ea-155e-1a70-26a5-004f323d772d",
+      "Type": "Service delivery",
+      "Severity": "Critical",
+      "EntityName": "Subscribers - Lusaka",
+      "Description": "Subscriber onboarding revealed network operations involving corporate clients",
+      "DetectedAt": "2025-12-22T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "041a4d24-0a8b-1ef1-211f-00251a064655",
+      "Type": "Service delivery",
+      "Severity": "Critical",
+      "EntityName": "Service users - Livingstone",
+      "Description": "Compliance check revealed fraud prevention involving corporate clients",
+      "DetectedAt": "2025-12-28T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00f06783-088f-16d4-0e99-0063b89ffba8",
+      "Type": "Fraud prevention",
+      "Severity": "Critical",
+      "EntityName": "Dealers - Lusaka",
+      "Description": "Service activation revealed subscriber management involving subscribers",
+      "DetectedAt": "2025-11-01T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "031fd1e2-188d-1d39-060f-006b92001027",
+      "Type": "Fraud prevention",
+      "Severity": "Low",
+      "EntityName": "Service users - Ndola",
+      "Description": "Subscriber onboarding revealed fraud prevention involving dealers",
+      "DetectedAt": "2025-10-28T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "055ef60e-19be-103d-2323-005ef7fde3b8",
+      "Type": "Service delivery",
+      "Severity": "Medium",
+      "EntityName": "Corporate clients - Ndola",
+      "Description": "Subscriber onboarding revealed fraud prevention involving corporate clients",
+      "DetectedAt": "2025-11-21T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0231678d-1e51-209a-0a77-00bdda92d1e4",
+      "Type": "Compliance",
+      "Severity": "Critical",
+      "EntityName": "Service users - Kitwe",
+      "Description": "Service activation revealed network operations involving corporate clients",
+      "DetectedAt": "2025-12-26T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0503c192-083a-0783-0ad6-005dbdbd99cf",
+      "Type": "Subscriber management",
+      "Severity": "Critical",
+      "EntityName": "Corporate clients - nationwide network",
+      "Description": "Network monitoring revealed service delivery involving service users",
+      "DetectedAt": "2025-12-10T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03a61bab-111f-1d1a-17e4-00b54f66eca3",
+      "Type": "Compliance",
+      "Severity": "Low",
+      "EntityName": "Service users - nationwide network",
+      "Description": "Network monitoring revealed subscriber management involving corporate clients",
+      "DetectedAt": "2026-01-07T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04573028-0994-1a9c-2195-006e667d1ad9",
+      "Type": "Compliance",
+      "Severity": "Low",
+      "EntityName": "Service users - Kitwe",
+      "Description": "Compliance check revealed subscriber management involving subscribers",
+      "DetectedAt": "2026-01-11T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "056390e1-0d0d-1675-1fa6-00361e3ad0c0",
+      "Type": "Compliance",
+      "Severity": "Low",
+      "EntityName": "Dealers - nationwide network",
+      "Description": "Compliance check revealed compliance involving dealers",
+      "DetectedAt": "2026-01-14T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0254f6b6-2183-1d38-0f5e-00e4dc6bb1ce",
+      "Type": "Subscriber management",
+      "Severity": "Critical",
+      "EntityName": "Subscribers - nationwide network",
+      "Description": "Service activation revealed subscriber management involving corporate clients",
+      "DetectedAt": "2025-12-10T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04af6ff8-10cd-174a-1a65-00929e1b446e",
+      "Type": "Network operations",
+      "Severity": "Critical",
+      "EntityName": "Dealers - Ndola",
+      "Description": "Network monitoring revealed compliance involving service users",
+      "DetectedAt": "2025-11-20T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02f6b570-17ad-22d8-1214-00bc5382229d",
+      "Type": "Network operations",
+      "Severity": "Medium",
+      "EntityName": "Dealers - nationwide network",
+      "Description": "Network monitoring revealed network operations involving subscribers",
+      "DetectedAt": "2026-01-14T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "055515e4-0f42-150b-0b01-0091f04e5ff0",
+      "Type": "Fraud prevention",
+      "Severity": "Low",
+      "EntityName": "Dealers - Livingstone",
+      "Description": "Fraud detection revealed compliance involving dealers",
+      "DetectedAt": "2025-12-06T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00a3b60a-0a89-0ca8-0f2c-00baa653cd5d",
+      "Type": "Service delivery",
+      "Severity": "High",
+      "EntityName": "Dealers - nationwide network",
+      "Description": "Service activation revealed subscriber management involving subscribers",
+      "DetectedAt": "2026-01-07T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "009c6ac0-19b5-15d7-088e-00d944e0663f",
+      "Type": "Service delivery",
+      "Severity": "High",
+      "EntityName": "Corporate clients - Kitwe",
+      "Description": "Service activation revealed compliance involving dealers",
+      "DetectedAt": "2025-10-29T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "042ebc10-1426-2623-241c-00a3a72b57b3",
+      "Type": "Subscriber management",
+      "Severity": "Medium",
+      "EntityName": "Subscribers - nationwide network",
+      "Description": "Subscriber onboarding revealed network operations involving service users",
+      "DetectedAt": "2025-11-12T17:30:31Z",
+      "Status": "Resolved"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 60
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 78
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 61
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 74
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 75
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 71
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 78
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 69
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "Service deliveryPath",
+      "Summary": "Identified 4-step pattern linking dealers to fraud prevention in Livingstone",
+      "HighlightedNodes": [
+        "00cc4d19-16ad-09dd-1c9f-009c57777e11",
+        "02bc1a64-12c4-190f-1c3f-00c14b7f6a1c",
+        "0368a09f-1fd6-0aa8-1be1-00b3324ea0bb",
+        "00cd25c9-2119-2150-0b3b-0096ab9774cc"
+      ]
+    },
+    {
+      "Name": "Service deliveryPath",
+      "Summary": "Identified 4-step pattern linking dealers to service delivery in Kitwe",
+      "HighlightedNodes": [
+        "02bc6cc6-23d1-20a6-2667-0078ae092840",
+        "047753a5-1bbf-1ea8-21ea-0054cc712256",
+        "02be3ebc-1489-1b89-0ec3-008c44ebdfe6",
+        "0588c041-107f-0752-0bbb-00d915038f26"
+      ]
+    },
+    {
+      "Name": "Fraud preventionPath",
+      "Summary": "Identified 4-step pattern linking subscribers to service delivery in Kitwe",
+      "HighlightedNodes": [
+        "0330dc7f-25fe-13f3-0828-006c10b162c7",
+        "02572949-20a6-0c6c-1023-00cd705436e6",
+        "01e23461-1a16-20bb-10d4-008946151e3a",
+        "0264f817-1ca9-2053-1084-008f2e32a5d8"
+      ]
+    },
+    {
+      "Name": "Service deliveryPath",
+      "Summary": "Identified 3-step pattern linking corporate clients to compliance in Ndola",
+      "HighlightedNodes": [
+        "03ff95ca-20fb-0ddf-222d-0028ae02f845",
+        "0524a089-1221-049a-265d-00649befa33b",
+        "02d68403-049d-11e2-1b19-002bc7c4e1c2"
+      ]
+    },
+    {
+      "Name": "Service deliveryPath",
+      "Summary": "Identified 3-step pattern linking service users to subscriber management in Ndola",
+      "HighlightedNodes": [
+        "01f89603-0993-0439-1bcb-00692e5c8ae9",
+        "03b5b72b-044b-150e-0bf2-00547ea31f6f",
+        "01607ead-24c4-0761-048e-00da6ec4261d"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "d464ee16-7815-44fd-a001-af18e94d2db3",
+      "Title": "ZRA deploys AI to detect profit shifting in mining firms",
+      "Source": "Zambia Business Daily",
+      "Url": "https://zbdaily.co.zm/reports/zra-ai-mining",
+      "PublishedDate": "2026-01-07T05:00:00Z",
+      "PublishedAt": "2026-01-07T05:00:00Z",
+      "DiscoveredAt": "2026-01-07T10:20:00Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "The Zambia Revenue Authority is combining machine learning with anomaly detection to flag inflated fees and sham loans in the Copperbelt mining sector.",
+      "RelatedEntities": [
+        "Zambia Revenue Authority",
+        "Santorin Investments Limited"
+      ],
+      "Entities": [
+        "Santorin Investments Limited"
+      ],
+      "Keywords": [
+        "profit shifting",
+        "transfer pricing",
+        "AI"
+      ],
+      "RelevanceScore": 92.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "ac66e132-b8d3-460e-a4ce-9e6176a1c105",
+      "Title": "Chinese firms face court for false VAT claims",
+      "Source": "Kitwe Chronicle",
+      "Url": "https://kitwechronicle.com/stories/zra-vat-cases",
+      "PublishedDate": "2026-01-05T13:45:00Z",
+      "PublishedAt": "2026-01-05T13:45:00Z",
+      "DiscoveredAt": "2026-01-05T14:10:00Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Liangyung Company Limited, Santorin and Junsheng are being prosecuted for VAT fraud and false invoicing in the Copperbelt.",
+      "RelatedEntities": [
+        "Liangyung Company Limited",
+        "Junsheng Company Limited"
+      ],
+      "Entities": [
+        "Liangyung Company Limited",
+        "Junsheng Company Limited"
+      ],
+      "Keywords": [
+        "VAT fraud",
+        "false invoices",
+        "Copperbelt"
+      ],
+      "RelevanceScore": 85.0,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "f6b77d8f-7a9c-4f49-a5aa-26c8815e8c85",
+      "Title": "ZRA warns of VAT refund spikes tied to equipment leasing scams",
+      "Source": "Ndola Ledger",
+      "Url": "https://ndolaledger.com/mining/zra-refund-scams",
+      "PublishedDate": "2025-12-29T06:30:00Z",
+      "PublishedAt": "2025-12-29T06:30:00Z",
+      "DiscoveredAt": "2025-12-29T12:05:00Z",
+      "Category": "investigative",
+      "Severity": "high",
+      "Summary": "Focus on Equipment and Services Limited and Taurus Mining Resources are accused of submitting inflated equipment invoices after being named in a Probe on Kitwe roadshows.",
+      "RelatedEntities": [
+        "Focus on Equipment and Services Limited",
+        "Taurus Mining Resources Limited"
+      ],
+      "Entities": [
+        "Taurus Mining Resources Limited"
+      ],
+      "Keywords": [
+        "VAT refund",
+        "equipment",
+        "Kitwe"
+      ],
+      "RelevanceScore": 87.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "75daa11c-6039-4556-b79e-aaa82fac6f39",
+      "ArticleId": "d464ee16-7815-44fd-a001-af18e94d2db3",
+      "EntityId": "ee2ce252-14f5-4694-8b7b-f952f1b1a24c",
+      "EntityName": "Santorin Investments Limited",
+      "AlertReason": "High-risk transfer pricing narrative",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-07T11:00:00Z",
+      "TriggeredAt": "2026-01-07T11:00:00Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "8d4b5128-9281-4dd0-a1dd-acfd9d00a4c8",
+      "ArticleId": "ac66e132-b8d3-460e-a4ce-9e6176a1c105",
+      "EntityId": "28eea087-ad28-432e-ae57-b3b86009477c",
+      "EntityName": "Liangyung Company Limited",
+      "AlertReason": "False invoicing story matched compliance keywords",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-05T15:00:00Z",
+      "TriggeredAt": "2026-01-05T15:00:00Z",
+      "IsAcknowledged": true,
+      "ReviewNotes": "Reviewed by media analyst, follow-up on adjudication docket."
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "54fb95b9-2553-4649-912c-529c93c84e8a",
+      "EntityName": "Zambia Revenue Authority",
+      "Keywords": [
+        "profit shifting",
+        "Copperbelt",
+        "false invoicing"
+      ],
+      "IsActive": true
+    },
+    {
+      "Id": "065beb1a-244e-4319-847c-328e9ce9d0c1",
+      "EntityName": "Chinese Commercial Trading Centre Limited",
+      "Keywords": [
+        "VAT",
+        "import-export",
+        "Kitwe"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 3,
+    "UnreviewedArticles": 1,
+    "HighRiskArticles": 2,
+    "ActiveAlerts": 1,
+    "MonitoredEntities": 3,
+    "ArticlesByCategory": {
+      "regulatory": 1,
+      "criminal": 1,
+      "investigative": 1
+    },
+    "ArticlesBySeverity": {
+      "high": 2,
+      "medium": 1
+    }
+  }
+}

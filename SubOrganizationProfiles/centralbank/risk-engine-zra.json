@@ -1,0 +1,196 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "0418cda0-1e22-0f09-15bd-003a39b37f6b",
+      "Name": "Reserve management Risk Model",
+      "Description": "Detects financial stability patterns in Bank of Zambia operations",
+      "Status": "active",
+      "CreatedAt": "2025-07-29T17:30:30Z",
+      "LastModifiedAt": "2026-01-04T17:30:30Z",
+      "Version": "1.6",
+      "Factors": [
+        {
+          "Id": "0221326e-10e3-18e1-1ca8-00abfd67a51f",
+          "Name": "Banking supervision Indicator",
+          "Description": "Measures monetary policy risk across financial institutions",
+          "Category": "financial",
+          "Weight": 0.21,
+          "MinValue": 0,
+          "MaxValue": 102,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01e0202e-15b8-10a2-2427-0084e7e9c028",
+          "Name": "Foreign exchange Indicator",
+          "Description": "Measures banking supervision risk across microfinance institutions",
+          "Category": "compliance",
+          "Weight": 0.33,
+          "MinValue": 0,
+          "MaxValue": 174,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0493d43c-203c-1c56-0c0c-007b7d9eb447",
+          "Name": "Reserve management Indicator",
+          "Description": "Measures foreign exchange risk across financial institutions",
+          "Category": "geographic",
+          "Weight": 0.24,
+          "MinValue": 0,
+          "MaxValue": 158,
+          "IsEnabled": true
+        },
+        {
+          "Id": "036f151d-1ca9-19c8-0e83-001a613d2198",
+          "Name": "Foreign exchange Indicator",
+          "Description": "Measures monetary policy risk across bureau de change",
+          "Category": "operational",
+          "Weight": 0.2,
+          "MinValue": 0,
+          "MaxValue": 132,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.9,
+        "Precision": 0.82,
+        "Recall": 0.85,
+        "F1Score": 0.89,
+        "TotalPredictions": 608,
+        "TruePositives": 390,
+        "FalsePositives": 27,
+        "TrueNegatives": 178,
+        "FalseNegatives": 51
+      }
+    },
+    {
+      "Id": "04810d96-1bbc-0f1e-1eab-005096f9c50a",
+      "Name": "Financial stability Risk Model",
+      "Description": "Detects financial stability patterns in Bank of Zambia operations",
+      "Status": "active",
+      "CreatedAt": "2025-09-16T17:30:30Z",
+      "LastModifiedAt": "2026-01-08T17:30:30Z",
+      "Version": "3.5",
+      "Factors": [
+        {
+          "Id": "04ddadc5-1830-2676-08e3-00c261d85b11",
+          "Name": "Reserve management Indicator",
+          "Description": "Measures financial stability risk across bureau de change",
+          "Category": "compliance",
+          "Weight": 0.26,
+          "MinValue": 0,
+          "MaxValue": 162,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0371c185-138c-086c-1e10-00cddcf28239",
+          "Name": "Monetary policy Indicator",
+          "Description": "Measures foreign exchange risk across commercial banks",
+          "Category": "compliance",
+          "Weight": 0.33,
+          "MinValue": 0,
+          "MaxValue": 126,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03067fea-0e38-24db-1d7a-00ca7af0b555",
+          "Name": "Monetary policy Indicator",
+          "Description": "Measures monetary policy risk across microfinance institutions",
+          "Category": "financial",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 198,
+          "IsEnabled": true
+        },
+        {
+          "Id": "037406b1-05e7-0f51-1e31-00aa6c148b7f",
+          "Name": "Banking supervision Indicator",
+          "Description": "Measures monetary policy risk across financial institutions",
+          "Category": "compliance",
+          "Weight": 0.31,
+          "MinValue": 0,
+          "MaxValue": 150,
+          "IsEnabled": true
+        },
+        {
+          "Id": "05e514e8-0bef-0413-1c5d-0093ce85e35c",
+          "Name": "Monetary policy Indicator",
+          "Description": "Measures monetary policy risk across financial institutions",
+          "Category": "financial",
+          "Weight": 0.11,
+          "MinValue": 0,
+          "MaxValue": 136,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.81,
+        "Precision": 0.82,
+        "Recall": 0.85,
+        "F1Score": 0.82,
+        "TotalPredictions": 794,
+        "TruePositives": 376,
+        "FalsePositives": 64,
+        "TrueNegatives": 109,
+        "FalseNegatives": 42
+      }
+    },
+    {
+      "Id": "054a945e-0996-228b-0e2c-006514adaa3a",
+      "Name": "Financial stability Risk Model",
+      "Description": "Detects monetary policy patterns in Bank of Zambia operations",
+      "Status": "active",
+      "CreatedAt": "2025-09-19T17:30:30Z",
+      "LastModifiedAt": "2026-01-10T17:30:30Z",
+      "Version": "2.5",
+      "Factors": [
+        {
+          "Id": "036b6bca-0c6b-0f1a-1739-00c7c05b128d",
+          "Name": "Financial stability Indicator",
+          "Description": "Measures foreign exchange risk across microfinance institutions",
+          "Category": "operational",
+          "Weight": 0.31,
+          "MinValue": 0,
+          "MaxValue": 169,
+          "IsEnabled": true
+        },
+        {
+          "Id": "009971cd-10ff-1145-091c-009ef0fc99f8",
+          "Name": "Banking supervision Indicator",
+          "Description": "Measures reserve management risk across microfinance institutions",
+          "Category": "compliance",
+          "Weight": 0.11,
+          "MinValue": 0,
+          "MaxValue": 137,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04c5aeb3-05aa-08c1-1919-00c867633e5d",
+          "Name": "Reserve management Indicator",
+          "Description": "Measures foreign exchange risk across bureau de change",
+          "Category": "operational",
+          "Weight": 0.16,
+          "MinValue": 0,
+          "MaxValue": 154,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.92,
+        "Precision": 0.9,
+        "Recall": 0.83,
+        "F1Score": 0.76,
+        "TotalPredictions": 735,
+        "TruePositives": 260,
+        "FalsePositives": 48,
+        "TrueNegatives": 129,
+        "FalseNegatives": 50
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 12,
+    "AverageRiskScore": 89.4
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "SubOrganizationType": "Auditing",
+  "DisplayName": "Office of the Auditor General",
+  "Country": "Zambia",
+  "Headquarters": "Lusaka, Zambia",
+  "Mandate": "Audit public accounts, issue performance reports, and support prosecutions when fraud is identified.",
+  "TopPriorities": [
+    "Audit revenue streams from mining royalties and VAT refunds.",
+    "Coordinate with the ACC and ZRA when discrepancies exceed K1 million.",
+    "Digitize audit trails for cash transfer agencies and energy departments."
+  ],
+  "ActiveOperations": [
+    "Fiscal transparency reviews of the Ministry of Mines and the Ministry of Health.",
+    "Field audits at President Avenue offices to trace suspicious cash handling during VAT investigations.",
+    "Collaboration with the International Organization of Supreme Audit Institutions (INTOSAI) on risk-based auditing."
+  ],
+  "RecentActions": [
+    {
+      "Title": "Filed a special audit on VAT rebate claims",
+      "Date": "2025-12-30T00:00:00Z",
+      "Summary": "Coordinated with ZRA to trace K4.4M in questionable Li Heng invoices that lacked supporting dispatch documents."
+    },
+    {
+      "Title": "Published the 2025 Public Enterprises performance report",
+      "Date": "2025-12-10T00:00:00Z",
+      "Summary": "Highlighted governance weaknesses at parastatal suppliers to the mining sector."
+    }
+  ],
+  "KeyPartnerships": [
+    "Zambia Revenue Authority",
+    "Anti-Corruption Commission",
+    "INTOSAI"
+  ],
+  "Metrics": {
+    "ReportsReleased": "26 annual/performance reviews",
+    "HighRiskAudits": "9 currently active",
+    "FollowUpActions": "Proceedings opened in 14% of cases"
+  }
+}

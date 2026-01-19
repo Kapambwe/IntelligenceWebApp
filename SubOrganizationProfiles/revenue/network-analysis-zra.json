@@ -1,0 +1,54 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "Transfer pricingPath",
+      "Summary": "Identified 3-step pattern linking exporters to transfer pricing in Lusaka",
+      "HighlightedNodes": [
+        "02c3bdb0-209c-219a-0f22-0019840620ae",
+        "01d74e18-1f6b-1332-103b-0025f2157019",
+        "00db23eb-2152-0dfa-1d3a-00d453c6523f"
+      ]
+    },
+    {
+      "Name": "Transfer pricingPath",
+      "Summary": "Identified 3-step pattern linking mining companies to customs enforcement in Kitwe",
+      "HighlightedNodes": [
+        "021b1721-0b03-1018-18ff-00980ae87722",
+        "058a88dd-1de2-1669-1a2e-0021249cd053",
+        "04bff28c-0ac9-1ac2-0f86-004f249916f3"
+      ]
+    },
+    {
+      "Name": "Tax compliancePath",
+      "Summary": "Identified 3-step pattern linking importers to tax compliance in Chirundu",
+      "HighlightedNodes": [
+        "0458028e-042b-1a52-2090-00d145b0868e",
+        "03ebb618-0fa5-14a6-0bc8-00b34c40c272",
+        "0512893e-1faa-086e-0d12-0025936c5adb"
+      ]
+    },
+    {
+      "Name": "Tax compliancePath",
+      "Summary": "Identified 5-step pattern linking mining companies to VAT fraud in Kazungula",
+      "HighlightedNodes": [
+        "00a45fb4-1fbf-229c-224b-005372c17bbf",
+        "027e5888-0757-0a64-261b-0031cb16fd9a",
+        "03edac39-1ae4-0754-0a6a-002ee7856f30",
+        "037c39de-18f6-1fb6-199e-0051b3b73688",
+        "046a7e30-133f-0cc5-1ceb-0050426d36f8"
+      ]
+    },
+    {
+      "Name": "Transfer pricingPath",
+      "Summary": "Identified 5-step pattern linking taxpayers to VAT fraud in Kazungula",
+      "HighlightedNodes": [
+        "01984c2d-0536-1c5a-1652-00c77e70b041",
+        "00f349ef-155f-0bce-0776-00472960acc1",
+        "0333c82a-1672-0d71-1f84-003577ebfb92",
+        "0159c536-1b61-14f9-1cbd-002972d18d78",
+        "0590c82f-1be4-1600-2174-0067209a94a0"
+      ]
+    }
+  ]
+}

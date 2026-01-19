@@ -1,0 +1,56 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "Financial stabilityPath",
+      "Summary": "Identified 4-step pattern linking microfinance institutions to monetary policy in Livingstone",
+      "HighlightedNodes": [
+        "0597f013-1e0a-0922-19ec-007722f56f89",
+        "053617c1-1bb6-1bd5-1b56-0058f69ab015",
+        "04e35cbf-0bf3-0e30-0efe-003d38e16f13",
+        "0106112b-1b55-1d90-1d0d-00d949df5e80"
+      ]
+    },
+    {
+      "Name": "Reserve managementPath",
+      "Summary": "Identified 3-step pattern linking commercial banks to banking supervision in Kabwe",
+      "HighlightedNodes": [
+        "039bb819-2358-096a-118d-00dff5e8a55e",
+        "035d185d-175d-0c55-2452-00ac33146160",
+        "0244fce3-23ec-1663-1ed1-00b8c3f93a39"
+      ]
+    },
+    {
+      "Name": "Monetary policyPath",
+      "Summary": "Identified 5-step pattern linking microfinance institutions to monetary policy in Ndola",
+      "HighlightedNodes": [
+        "03aba7ac-0945-1e67-1c86-007939478eed",
+        "01e52db7-172e-073f-1379-00d2843f37c9",
+        "03e0a705-18a2-212c-1a87-00b8f679de59",
+        "05df5465-0dec-1e34-2274-00387e28d07e",
+        "0384e908-2686-18d1-1586-009d97089a75"
+      ]
+    },
+    {
+      "Name": "Monetary policyPath",
+      "Summary": "Identified 5-step pattern linking microfinance institutions to foreign exchange in Livingstone",
+      "HighlightedNodes": [
+        "0596dffd-0e03-0b3e-1527-001ed7dcd80e",
+        "052bd9c2-11ad-1140-15a1-007e0620c15b",
+        "02572913-04ee-05c6-0f9f-00b5af6c3631",
+        "01cd9965-0af9-1f5a-260b-00785f2e5134",
+        "0263754f-10a1-0e0a-0fc0-00bd4205c876"
+      ]
+    },
+    {
+      "Name": "Banking supervisionPath",
+      "Summary": "Identified 4-step pattern linking commercial banks to reserve management in Kitwe",
+      "HighlightedNodes": [
+        "015455fc-11e7-257e-2477-0089eb303f1d",
+        "04934b34-210d-04d8-2062-00db55a696fc",
+        "03003fbd-0a38-1769-24b5-00c8268933bf",
+        "03aa984a-0ee8-1b09-198e-005c8c5cf531"
+      ]
+    }
+  ]
+}

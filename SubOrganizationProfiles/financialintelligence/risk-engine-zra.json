@@ -1,0 +1,196 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "03c10180-15ad-0484-1629-00c80079720a",
+      "Name": "Money laundering Risk Model",
+      "Description": "Detects terrorism financing patterns in Financial Intelligence Centre operations",
+      "Status": "active",
+      "CreatedAt": "2025-08-08T17:30:30Z",
+      "LastModifiedAt": "2025-12-27T17:30:30Z",
+      "Version": "3.5",
+      "Factors": [
+        {
+          "Id": "0229cc33-2181-0bab-2422-006d110227f0",
+          "Name": "Terrorism financing Indicator",
+          "Description": "Measures financial crime risk across financial institutions",
+          "Category": "operational",
+          "Weight": 0.23,
+          "MinValue": 0,
+          "MaxValue": 156,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03c283b4-0ee9-2382-10c1-0097e8b4ed97",
+          "Name": "Suspicious transactions Indicator",
+          "Description": "Measures money laundering risk across financial institutions",
+          "Category": "compliance",
+          "Weight": 0.29,
+          "MinValue": 0,
+          "MaxValue": 170,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01146406-0c8d-11c7-2618-00c141d8d250",
+          "Name": "Str analysis Indicator",
+          "Description": "Measures suspicious transactions risk across suspicious persons",
+          "Category": "financial",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 165,
+          "IsEnabled": true
+        },
+        {
+          "Id": "052dbe7a-16ee-0a73-22fd-008936a631a0",
+          "Name": "Terrorism financing Indicator",
+          "Description": "Measures financial crime risk across suspicious persons",
+          "Category": "operational",
+          "Weight": 0.3,
+          "MinValue": 0,
+          "MaxValue": 188,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.86,
+        "Precision": 0.76,
+        "Recall": 0.88,
+        "F1Score": 0.81,
+        "TotalPredictions": 463,
+        "TruePositives": 296,
+        "FalsePositives": 36,
+        "TrueNegatives": 179,
+        "FalseNegatives": 39
+      }
+    },
+    {
+      "Id": "05e195b1-0cfc-08a9-241c-008c5c73d4d4",
+      "Name": "Money laundering Risk Model",
+      "Description": "Detects terrorism financing patterns in Financial Intelligence Centre operations",
+      "Status": "active",
+      "CreatedAt": "2025-10-24T17:30:30Z",
+      "LastModifiedAt": "2026-01-12T17:30:30Z",
+      "Version": "2.6",
+      "Factors": [
+        {
+          "Id": "0564e26f-1fab-0de2-166d-007cad1c6e46",
+          "Name": "Terrorism financing Indicator",
+          "Description": "Measures STR analysis risk across shell companies",
+          "Category": "operational",
+          "Weight": 0.36,
+          "MinValue": 0,
+          "MaxValue": 175,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01a7b9e0-26b7-17f7-19bb-001e1fa190da",
+          "Name": "Money laundering Indicator",
+          "Description": "Measures terrorism financing risk across shell companies",
+          "Category": "geographic",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 163,
+          "IsEnabled": true
+        },
+        {
+          "Id": "04524d1c-0f54-0656-126d-002348329ae0",
+          "Name": "Money laundering Indicator",
+          "Description": "Measures financial crime risk across suspicious persons",
+          "Category": "geographic",
+          "Weight": 0.35,
+          "MinValue": 0,
+          "MaxValue": 150,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0516eb7b-1fa6-085d-26d8-00d3813f48d7",
+          "Name": "Str analysis Indicator",
+          "Description": "Measures terrorism financing risk across reporting entities",
+          "Category": "operational",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 104,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02d4f75a-0c90-09b5-1432-00e7a03652d4",
+          "Name": "Str analysis Indicator",
+          "Description": "Measures STR analysis risk across reporting entities",
+          "Category": "financial",
+          "Weight": 0.14,
+          "MinValue": 0,
+          "MaxValue": 162,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.89,
+        "Precision": 0.86,
+        "Recall": 0.7,
+        "F1Score": 0.75,
+        "TotalPredictions": 663,
+        "TruePositives": 298,
+        "FalsePositives": 32,
+        "TrueNegatives": 180,
+        "FalseNegatives": 47
+      }
+    },
+    {
+      "Id": "056b8c0e-070e-0aa3-1059-009ef0ffce40",
+      "Name": "Financial crime Risk Model",
+      "Description": "Detects terrorism financing patterns in Financial Intelligence Centre operations",
+      "Status": "active",
+      "CreatedAt": "2025-10-12T17:30:30Z",
+      "LastModifiedAt": "2025-12-20T17:30:30Z",
+      "Version": "1.1",
+      "Factors": [
+        {
+          "Id": "0353f54a-19ea-16ac-16aa-002755ee9bdb",
+          "Name": "Suspicious transactions Indicator",
+          "Description": "Measures suspicious transactions risk across suspicious persons",
+          "Category": "compliance",
+          "Weight": 0.26,
+          "MinValue": 0,
+          "MaxValue": 109,
+          "IsEnabled": true
+        },
+        {
+          "Id": "031001dc-0401-2296-0ab7-00d3ed4eb838",
+          "Name": "Suspicious transactions Indicator",
+          "Description": "Measures STR analysis risk across suspicious persons",
+          "Category": "geographic",
+          "Weight": 0.17,
+          "MinValue": 0,
+          "MaxValue": 129,
+          "IsEnabled": true
+        },
+        {
+          "Id": "02d8dd16-0e96-16bd-0abb-00a7cc1d272e",
+          "Name": "Money laundering Indicator",
+          "Description": "Measures financial crime risk across reporting entities",
+          "Category": "compliance",
+          "Weight": 0.38,
+          "MinValue": 0,
+          "MaxValue": 139,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.82,
+        "Precision": 0.76,
+        "Recall": 0.87,
+        "F1Score": 0.85,
+        "TotalPredictions": 629,
+        "TruePositives": 210,
+        "FalsePositives": 40,
+        "TrueNegatives": 100,
+        "FalseNegatives": 27
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 12,
+    "AverageRiskScore": 75.2
+  }
+}

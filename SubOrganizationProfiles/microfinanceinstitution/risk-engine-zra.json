@@ -1,0 +1,196 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "02da85a9-11b7-1a89-088d-004ddf6dad20",
+      "Name": "Microloans Risk Model",
+      "Description": "Detects savings mobilization patterns in Microfinance operations",
+      "Status": "active",
+      "CreatedAt": "2025-09-12T17:30:30Z",
+      "LastModifiedAt": "2025-12-30T17:30:30Z",
+      "Version": "2.2",
+      "Factors": [
+        {
+          "Id": "04dcd0b7-1ce7-12d8-1820-0027b537552b",
+          "Name": "Credit risk Indicator",
+          "Description": "Measures SME lending risk across entrepreneurs",
+          "Category": "compliance",
+          "Weight": 0.24,
+          "MinValue": 0,
+          "MaxValue": 157,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01e1bb25-1577-1b41-1f24-001d724d7f26",
+          "Name": "Savings mobilization Indicator",
+          "Description": "Measures SME lending risk across individual borrowers",
+          "Category": "compliance",
+          "Weight": 0.39,
+          "MinValue": 0,
+          "MaxValue": 146,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01338447-0515-1768-1814-00a8213c4a07",
+          "Name": "Savings mobilization Indicator",
+          "Description": "Measures savings mobilization risk across individual borrowers",
+          "Category": "geographic",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 137,
+          "IsEnabled": true
+        },
+        {
+          "Id": "03920686-2134-26a3-2320-00897a79a8ec",
+          "Name": "Financial inclusion Indicator",
+          "Description": "Measures SME lending risk across entrepreneurs",
+          "Category": "operational",
+          "Weight": 0.18,
+          "MinValue": 0,
+          "MaxValue": 165,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00dd9b4a-11ea-0fba-0ca8-0045276e0267",
+          "Name": "Financial inclusion Indicator",
+          "Description": "Measures savings mobilization risk across small businesses",
+          "Category": "geographic",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 192,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.95,
+        "Precision": 0.83,
+        "Recall": 0.75,
+        "F1Score": 0.86,
+        "TotalPredictions": 310,
+        "TruePositives": 488,
+        "FalsePositives": 69,
+        "TrueNegatives": 171,
+        "FalseNegatives": 58
+      }
+    },
+    {
+      "Id": "01c6e7c3-12e7-23b1-1a2b-00a08247091c",
+      "Name": "Savings mobilization Risk Model",
+      "Description": "Detects financial inclusion patterns in Microfinance operations",
+      "Status": "active",
+      "CreatedAt": "2025-10-07T17:30:30Z",
+      "LastModifiedAt": "2025-12-31T17:30:30Z",
+      "Version": "2.7",
+      "Factors": [
+        {
+          "Id": "00d05ac5-1eef-094c-1a86-00850bac3185",
+          "Name": "Microloans Indicator",
+          "Description": "Measures credit risk risk across individual borrowers",
+          "Category": "geographic",
+          "Weight": 0.19,
+          "MinValue": 0,
+          "MaxValue": 147,
+          "IsEnabled": true
+        },
+        {
+          "Id": "028ec225-062e-2290-18ab-00658fe1ead4",
+          "Name": "Financial inclusion Indicator",
+          "Description": "Measures savings mobilization risk across individual borrowers",
+          "Category": "financial",
+          "Weight": 0.28,
+          "MinValue": 0,
+          "MaxValue": 186,
+          "IsEnabled": true
+        },
+        {
+          "Id": "05511c63-04d7-17ea-0ee3-00adcd92a6f3",
+          "Name": "Microloans Indicator",
+          "Description": "Measures financial inclusion risk across entrepreneurs",
+          "Category": "geographic",
+          "Weight": 0.11,
+          "MinValue": 0,
+          "MaxValue": 162,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.92,
+        "Precision": 0.77,
+        "Recall": 0.88,
+        "F1Score": 0.79,
+        "TotalPredictions": 762,
+        "TruePositives": 222,
+        "FalsePositives": 75,
+        "TrueNegatives": 195,
+        "FalseNegatives": 40
+      }
+    },
+    {
+      "Id": "053e7fe9-0628-18c7-07bc-00a6bb7857d9",
+      "Name": "Microloans Risk Model",
+      "Description": "Detects microloans patterns in Microfinance operations",
+      "Status": "active",
+      "CreatedAt": "2025-09-30T17:30:30Z",
+      "LastModifiedAt": "2025-12-29T17:30:30Z",
+      "Version": "3.5",
+      "Factors": [
+        {
+          "Id": "058680fb-23d2-1366-193d-0037d9e2c876",
+          "Name": "Financial inclusion Indicator",
+          "Description": "Measures savings mobilization risk across entrepreneurs",
+          "Category": "compliance",
+          "Weight": 0.17,
+          "MinValue": 0,
+          "MaxValue": 149,
+          "IsEnabled": true
+        },
+        {
+          "Id": "01346195-1ba6-0c92-1e74-00c959b3c9d3",
+          "Name": "Savings mobilization Indicator",
+          "Description": "Measures credit risk risk across small businesses",
+          "Category": "compliance",
+          "Weight": 0.26,
+          "MinValue": 0,
+          "MaxValue": 133,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00ff0102-14b0-1dd1-0466-00a44a20ef34",
+          "Name": "Financial inclusion Indicator",
+          "Description": "Measures SME lending risk across entrepreneurs",
+          "Category": "compliance",
+          "Weight": 0.39,
+          "MinValue": 0,
+          "MaxValue": 123,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0382bbf1-178b-096c-21b5-00a30a658085",
+          "Name": "Credit risk Indicator",
+          "Description": "Measures SME lending risk across individual borrowers",
+          "Category": "financial",
+          "Weight": 0.39,
+          "MinValue": 0,
+          "MaxValue": 168,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.9,
+        "Precision": 0.79,
+        "Recall": 0.9,
+        "F1Score": 0.84,
+        "TotalPredictions": 516,
+        "TruePositives": 220,
+        "FalsePositives": 80,
+        "TrueNegatives": 168,
+        "FalseNegatives": 51
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 12,
+    "AverageRiskScore": 74.3
+  }
+}
