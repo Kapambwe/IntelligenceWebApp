@@ -1,0 +1,2002 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "Zambia Revenue Authority - Headquarters",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-19T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K4.2B annually",
+      "Investigations": "39 open cases",
+      "ComplianceGain": "19% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Customs Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-02T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K9.9B annually",
+      "Investigations": "26 open cases",
+      "ComplianceGain": "13% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Domestic Taxes Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-18T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-25T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K9.3B annually",
+      "Investigations": "28 open cases",
+      "ComplianceGain": "9% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Investigations and Enforcement",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K9.6B annually",
+      "Investigations": "28 open cases",
+      "ComplianceGain": "9% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Taxpayer Services and Education",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-10-24T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K5.5B annually",
+      "Investigations": "33 open cases",
+      "ComplianceGain": "18% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Revenue Accounting and Treasury",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-12T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K2.3B annually",
+      "Investigations": "39 open cases",
+      "ComplianceGain": "15% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Legal Services Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-10-22T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K3.6B annually",
+      "Investigations": "32 open cases",
+      "ComplianceGain": "15% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Internal Audit Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-21T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K9.7B annually",
+      "Investigations": "24 open cases",
+      "ComplianceGain": "10% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA ICT and Innovation Department",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-15T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K2.2B annually",
+      "Investigations": "35 open cases",
+      "ComplianceGain": "8% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Mpika Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-10-21T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K5.1B annually",
+      "Investigations": "34 open cases",
+      "ComplianceGain": "8% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Kafue Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-06T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-20T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K8.7B annually",
+      "Investigations": "35 open cases",
+      "ComplianceGain": "8% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Mongu Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-16T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-27T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K7.7B annually",
+      "Investigations": "37 open cases",
+      "ComplianceGain": "13% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Mbala Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K3.7B annually",
+      "Investigations": "27 open cases",
+      "ComplianceGain": "20% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Lusaka Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-31T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-02T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K9.0B annually",
+      "Investigations": "28 open cases",
+      "ComplianceGain": "7% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Ndola Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-04T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K3.9B annually",
+      "Investigations": "16 open cases",
+      "ComplianceGain": "12% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Chingola Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-10T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K4.6B annually",
+      "Investigations": "31 open cases",
+      "ComplianceGain": "13% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Solwezi Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-15T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-12-03T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K5.1B annually",
+      "Investigations": "21 open cases",
+      "ComplianceGain": "8% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Petauke Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-18T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-10-24T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K4.8B annually",
+      "Investigations": "36 open cases",
+      "ComplianceGain": "18% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Mpika Regional Office - Unit 19",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-13T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K5.6B annually",
+      "Investigations": "23 open cases",
+      "ComplianceGain": "17% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Kabwe Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-10-28T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K9.7B annually",
+      "Investigations": "37 open cases",
+      "ComplianceGain": "10% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Mongu Regional Office - Unit 21",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-10-31T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K9.5B annually",
+      "Investigations": "19 open cases",
+      "ComplianceGain": "19% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Monze Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-14T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K4.4B annually",
+      "Investigations": "34 open cases",
+      "ComplianceGain": "20% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Kafue Regional Office - Unit 23",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K6.2B annually",
+      "Investigations": "32 open cases",
+      "ComplianceGain": "12% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Mongu Regional Office - Unit 24",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-05T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K9.6B annually",
+      "Investigations": "15 open cases",
+      "ComplianceGain": "17% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Lundazi Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-29T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-10-24T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K8.7B annually",
+      "Investigations": "23 open cases",
+      "ComplianceGain": "17% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Lusaka Regional Office - Unit 26",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-30T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K7.2B annually",
+      "Investigations": "16 open cases",
+      "ComplianceGain": "12% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Kitwe Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-11T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-01T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K5.6B annually",
+      "Investigations": "24 open cases",
+      "ComplianceGain": "16% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Monze Regional Office - Unit 28",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-05T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K9.5B annually",
+      "Investigations": "34 open cases",
+      "ComplianceGain": "20% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Mbala Regional Office - Unit 29",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-26T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K4.1B annually",
+      "Investigations": "18 open cases",
+      "ComplianceGain": "13% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Chingola Regional Office - Unit 30",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-24T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K7.9B annually",
+      "Investigations": "20 open cases",
+      "ComplianceGain": "16% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Kitwe Regional Office - Unit 31",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-04T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-07T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K2.4B annually",
+      "Investigations": "27 open cases",
+      "ComplianceGain": "18% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Kitwe Regional Office - Unit 32",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-26T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-07T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K2.3B annually",
+      "Investigations": "35 open cases",
+      "ComplianceGain": "8% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Mazabuka Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-05T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K4.4B annually",
+      "Investigations": "18 open cases",
+      "ComplianceGain": "11% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Chipata Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-29T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-12-03T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K5.3B annually",
+      "Investigations": "38 open cases",
+      "ComplianceGain": "9% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Chingola Regional Office - Unit 35",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-13T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-29T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K4.2B annually",
+      "Investigations": "26 open cases",
+      "ComplianceGain": "7% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Choma Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-07T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-05T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K3.0B annually",
+      "Investigations": "17 open cases",
+      "ComplianceGain": "20% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Kafue Regional Office - Unit 37",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-28T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-14T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K3.0B annually",
+      "Investigations": "15 open cases",
+      "ComplianceGain": "17% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Mongu Regional Office - Unit 38",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-12-03T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K7.1B annually",
+      "Investigations": "32 open cases",
+      "ComplianceGain": "8% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Kitwe Regional Office - Unit 39",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-07T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-12-01T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K6.3B annually",
+      "Investigations": "39 open cases",
+      "ComplianceGain": "8% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Choma Regional Office - Unit 40",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-21T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K7.4B annually",
+      "Investigations": "16 open cases",
+      "ComplianceGain": "6% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Mazabuka Regional Office - Unit 41",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-02T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K4.3B annually",
+      "Investigations": "30 open cases",
+      "ComplianceGain": "7% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Chipata Regional Office - Unit 42",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-16T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K8.7B annually",
+      "Investigations": "20 open cases",
+      "ComplianceGain": "19% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Kasama Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-17T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K2.9B annually",
+      "Investigations": "15 open cases",
+      "ComplianceGain": "12% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Chipata Regional Office - Unit 44",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-06T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K7.1B annually",
+      "Investigations": "39 open cases",
+      "ComplianceGain": "12% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Chipata Regional Office - Unit 45",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K6.5B annually",
+      "Investigations": "39 open cases",
+      "ComplianceGain": "19% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Ndola Regional Office - Unit 46",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2026-01-14T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-10-30T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K8.6B annually",
+      "Investigations": "31 open cases",
+      "ComplianceGain": "6% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Kitwe Regional Office - Unit 47",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-10T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-10-25T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K5.0B annually",
+      "Investigations": "36 open cases",
+      "ComplianceGain": "12% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Lundazi Regional Office - Unit 48",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-10T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-12-04T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K9.0B annually",
+      "Investigations": "34 open cases",
+      "ComplianceGain": "12% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Mufulira Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K4.7B annually",
+      "Investigations": "31 open cases",
+      "ComplianceGain": "17% year-on-year"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "RevenueCollection",
+    "DisplayName": "ZRA Lusaka Regional Office - Unit 50",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Collect taxes from mining, trade, and services to fund public investment in healthcare, education, and infrastructure.",
+    "TopPriorities": [
+      "Close transfer pricing and VAT refund gaps in mining value chain.",
+      "Modernize compliance data ingestion tying customs to domestic invoices.",
+      "Support SMEs with risk-based audits to free staff for high-risk sectors."
+    ],
+    "ActiveOperations": [
+      "Task forces combining court evidence with analytics on entities.",
+      "Machine-learning VAT refund scanners matching freight manifests to declarations.",
+      "Stakeholder roadshows explaining obligations under new tax schedules."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced tax compliance measures",
+        "Date": "2025-12-21T00:00:00Z",
+        "Summary": "Implemented new systems to detect and prevent tax evasion."
+      },
+      {
+        "Title": "Presented revenue analysis to government",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "AI-based alerts triggered joint briefings with partner agencies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia analytics lab",
+      "International tax cooperation agencies"
+    ],
+    "Metrics": {
+      "Collections": "K3.4B annually",
+      "Investigations": "26 open cases",
+      "ComplianceGain": "14% year-on-year"
+    }
+  }
+]

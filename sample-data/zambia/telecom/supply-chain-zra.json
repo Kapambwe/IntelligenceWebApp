@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "034d3a48-24de-0687-0bf6-004f5d20f328",
+      "Name": "Dealers - nationwide network",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 70.6,
+      "IsCritical": true,
+      "Products": [
+        "compliance"
+      ],
+      "AnnualSpend": 2813783.41
+    },
+    {
+      "Id": "02ba21a8-1ac7-1567-13d6-0070db4c9a99",
+      "Name": "Dealers - nationwide network",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 56.2,
+      "IsCritical": true,
+      "Products": [
+        "fraud prevention"
+      ],
+      "AnnualSpend": 1682371.45
+    },
+    {
+      "Id": "0199a395-1e21-1a3b-2101-00adce2ff00f",
+      "Name": "Corporate clients - Ndola",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 91.3,
+      "IsCritical": false,
+      "Products": [
+        "network operations"
+      ],
+      "AnnualSpend": 5551932.84
+    },
+    {
+      "Id": "05a3ccd3-237e-144a-1b37-00e28d17ea07",
+      "Name": "Dealers - Kitwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 46.5,
+      "IsCritical": true,
+      "Products": [
+        "network operations"
+      ],
+      "AnnualSpend": 3205705.96
+    },
+    {
+      "Id": "05a41d51-0c4b-124d-1007-00ca27a3f969",
+      "Name": "Service users - Lusaka",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 79.1,
+      "IsCritical": true,
+      "Products": [
+        "fraud prevention"
+      ],
+      "AnnualSpend": 5425973.93
+    },
+    {
+      "Id": "03996a4b-19bb-09a7-15bf-00e6310ab5e1",
+      "Name": "Dealers - Livingstone",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 84.3,
+      "IsCritical": false,
+      "Products": [
+        "compliance"
+      ],
+      "AnnualSpend": 1631565.63
+    },
+    {
+      "Id": "0183a178-19cf-080f-10f7-0099fb58e6ba",
+      "Name": "Service users - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 87.0,
+      "IsCritical": true,
+      "Products": [
+        "network operations"
+      ],
+      "AnnualSpend": 2592166.54
+    },
+    {
+      "Id": "01be60cb-0f75-0b09-1c64-009966b405f7",
+      "Name": "Corporate clients - Livingstone",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 54.4,
+      "IsCritical": false,
+      "Products": [
+        "network operations"
+      ],
+      "AnnualSpend": 704009.09
+    },
+    {
+      "Id": "018a6615-132b-104a-10b7-002925e07f96",
+      "Name": "Dealers - nationwide network",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 88.1,
+      "IsCritical": false,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 1679214.68
+    },
+    {
+      "Id": "03fec11c-132f-1bc1-183d-00c224aeea4f",
+      "Name": "Dealers - Kitwe",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 70.0,
+      "IsCritical": true,
+      "Products": [
+        "subscriber management"
+      ],
+      "AnnualSpend": 7805779.8
+    },
+    {
+      "Id": "04cc5440-0db9-1a54-0739-00e7f7ef571e",
+      "Name": "Subscribers - nationwide network",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 53.9,
+      "IsCritical": true,
+      "Products": [
+        "fraud prevention"
+      ],
+      "AnnualSpend": 2409207.14
+    },
+    {
+      "Id": "03f1808a-05c5-06b4-052e-005a63404748",
+      "Name": "Service users - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 87.5,
+      "IsCritical": false,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 3909804.34
+    },
+    {
+      "Id": "041fe41a-1ffa-21b6-1d1e-00cc7cb12e7b",
+      "Name": "Dealers - nationwide network",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 66.2,
+      "IsCritical": true,
+      "Products": [
+        "subscriber management"
+      ],
+      "AnnualSpend": 9891178.16
+    },
+    {
+      "Id": "012dda2c-2093-0682-1386-00a3e35ed0ac",
+      "Name": "Dealers - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 44.2,
+      "IsCritical": true,
+      "Products": [
+        "network operations"
+      ],
+      "AnnualSpend": 5065899.51
+    },
+    {
+      "Id": "00c47c2b-1e33-0f5c-0bc4-00e1279b157c",
+      "Name": "Subscribers - nationwide network",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 69.0,
+      "IsCritical": false,
+      "Products": [
+        "network operations"
+      ],
+      "AnnualSpend": 8241851.99
+    },
+    {
+      "Id": "03a680a8-19ae-1b62-0422-00bd02469683",
+      "Name": "Corporate clients - Ndola",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 84.9,
+      "IsCritical": false,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 5465973.81
+    },
+    {
+      "Id": "05a967a2-11fa-1514-1fe0-00a757814ab4",
+      "Name": "Subscribers - Kitwe",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 63.2,
+      "IsCritical": true,
+      "Products": [
+        "subscriber management"
+      ],
+      "AnnualSpend": 2652149.47
+    },
+    {
+      "Id": "01f06f82-24e1-06c5-2380-00ba7a72705b",
+      "Name": "Corporate clients - Lusaka",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 77.2,
+      "IsCritical": false,
+      "Products": [
+        "network operations"
+      ],
+      "AnnualSpend": 6518810.18
+    },
+    {
+      "Id": "05f0f35c-156c-16e7-0574-001912d6a28f",
+      "Name": "Dealers - Kitwe",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 92.0,
+      "IsCritical": false,
+      "Products": [
+        "subscriber management"
+      ],
+      "AnnualSpend": 9391708.12
+    },
+    {
+      "Id": "01975ff1-2646-14d9-2471-00612d41b322",
+      "Name": "Corporate clients - Livingstone",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 75.6,
+      "IsCritical": true,
+      "Products": [
+        "fraud prevention"
+      ],
+      "AnnualSpend": 6807476.44
+    },
+    {
+      "Id": "019d58a2-0812-0a58-265b-00ba00fe1103",
+      "Name": "Dealers - Ndola",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 45.4,
+      "IsCritical": false,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 5530500.22
+    },
+    {
+      "Id": "01ab27e6-0b6c-081a-1d6e-00c29bf359b6",
+      "Name": "Subscribers - nationwide network",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 60.5,
+      "IsCritical": false,
+      "Products": [
+        "fraud prevention"
+      ],
+      "AnnualSpend": 3234285.98
+    },
+    {
+      "Id": "01396d05-0a23-0c7b-09be-00b1ee465a5a",
+      "Name": "Subscribers - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 85.9,
+      "IsCritical": false,
+      "Products": [
+        "subscriber management"
+      ],
+      "AnnualSpend": 8059859.41
+    },
+    {
+      "Id": "00fa2afd-1755-18fe-1d42-00c207c05ed7",
+      "Name": "Subscribers - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 49.1,
+      "IsCritical": false,
+      "Products": [
+        "compliance"
+      ],
+      "AnnualSpend": 4507816.79
+    },
+    {
+      "Id": "0379d3e9-1fd9-1af5-09e0-004aa9c9037e",
+      "Name": "Service users - Livingstone",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 86.0,
+      "IsCritical": true,
+      "Products": [
+        "fraud prevention"
+      ],
+      "AnnualSpend": 1630437.75
+    },
+    {
+      "Id": "03b774ab-207a-0422-2692-004fa1d4eb60",
+      "Name": "Subscribers - nationwide network",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 80.3,
+      "IsCritical": true,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 9669846.43
+    },
+    {
+      "Id": "05f5a688-099a-24c7-1671-00990caceb2c",
+      "Name": "Service users - Kitwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 63.8,
+      "IsCritical": false,
+      "Products": [
+        "network operations"
+      ],
+      "AnnualSpend": 4963724.12
+    },
+    {
+      "Id": "01e7c12a-116f-1c6d-1d1f-007fb0433b37",
+      "Name": "Service users - nationwide network",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 90.4,
+      "IsCritical": false,
+      "Products": [
+        "subscriber management"
+      ],
+      "AnnualSpend": 8527046.13
+    },
+    {
+      "Id": "04276b23-2565-0a94-24e1-00b00b6dda37",
+      "Name": "Service users - Ndola",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 42.2,
+      "IsCritical": true,
+      "Products": [
+        "subscriber management"
+      ],
+      "AnnualSpend": 7002470.14
+    },
+    {
+      "Id": "03c5bbeb-0f67-07da-1af8-00d7e56e2756",
+      "Name": "Dealers - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 78.7,
+      "IsCritical": false,
+      "Products": [
+        "fraud prevention"
+      ],
+      "AnnualSpend": 8067946.25
+    },
+    {
+      "Id": "044615e0-14e8-0c35-1b5e-004f3e03348d",
+      "Name": "Subscribers - nationwide network",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 72.0,
+      "IsCritical": true,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 6781380.56
+    },
+    {
+      "Id": "05d89f67-05cb-0ec4-0d16-00a40731e08c",
+      "Name": "Service users - Kitwe",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 73.7,
+      "IsCritical": true,
+      "Products": [
+        "network operations"
+      ],
+      "AnnualSpend": 9246407.41
+    },
+    {
+      "Id": "02eaddfb-1c25-16fd-1104-00bcd9492497",
+      "Name": "Dealers - nationwide network",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 46.5,
+      "IsCritical": false,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 4560243.38
+    },
+    {
+      "Id": "00dcf797-0f75-1b6b-099d-007530a0af11",
+      "Name": "Dealers - Kitwe",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 76.3,
+      "IsCritical": false,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 4371267.14
+    },
+    {
+      "Id": "0527ff83-2142-05e9-11e5-00d69be7b571",
+      "Name": "Dealers - Livingstone",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 41.3,
+      "IsCritical": false,
+      "Products": [
+        "network operations"
+      ],
+      "AnnualSpend": 9083366.81
+    },
+    {
+      "Id": "03c024d0-0d83-095d-09d3-0083b450e41f",
+      "Name": "Service users - nationwide network",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 85.7,
+      "IsCritical": true,
+      "Products": [
+        "network operations"
+      ],
+      "AnnualSpend": 6536014.66
+    },
+    {
+      "Id": "0153ed36-2381-0647-1359-002718b808ac",
+      "Name": "Corporate clients - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 47.4,
+      "IsCritical": true,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 9817881.35
+    },
+    {
+      "Id": "04ea614f-0ce8-1c0a-11bb-0061d732265c",
+      "Name": "Dealers - Lusaka",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 48.3,
+      "IsCritical": false,
+      "Products": [
+        "subscriber management"
+      ],
+      "AnnualSpend": 3246269.27
+    },
+    {
+      "Id": "02a7b0d6-1ba1-12a8-1598-00dae1730d02",
+      "Name": "Dealers - nationwide network",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 80.8,
+      "IsCritical": true,
+      "Products": [
+        "subscriber management"
+      ],
+      "AnnualSpend": 6251362.17
+    },
+    {
+      "Id": "01d23589-20c4-1e79-166a-00b5418b175d",
+      "Name": "Dealers - Lusaka",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 79.7,
+      "IsCritical": true,
+      "Products": [
+        "compliance"
+      ],
+      "AnnualSpend": 2993411.27
+    },
+    {
+      "Id": "0594c263-1a1f-1b39-0d4a-0051f611f977",
+      "Name": "Subscribers - nationwide network",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 63.7,
+      "IsCritical": false,
+      "Products": [
+        "service delivery"
+      ],
+      "AnnualSpend": 3820630.12
+    },
+    {
+      "Id": "05d9b773-0c1b-0c8d-0659-00e15be25114",
+      "Name": "Corporate clients - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 87.6,
+      "IsCritical": false,
+      "Products": [
+        "fraud prevention"
+      ],
+      "AnnualSpend": 7413813.27
+    },
+    {
+      "Id": "03edf598-210c-20e2-2628-008f703229c7",
+      "Name": "Subscribers - Kitwe",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 89.7,
+      "IsCritical": true,
+      "Products": [
+        "network operations"
+      ],
+      "AnnualSpend": 2772349.58
+    },
+    {
+      "Id": "0290de78-1e67-2000-0bfd-0017e93f8c91",
+      "Name": "Dealers - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 58.6,
+      "IsCritical": true,
+      "Products": [
+        "fraud prevention"
+      ],
+      "AnnualSpend": 8742951.54
+    },
+    {
+      "Id": "0212e7e8-0714-10ce-22e7-008ea0a53d55",
+      "Name": "Service users - nationwide network",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 54.6,
+      "IsCritical": false,
+      "Products": [
+        "subscriber management"
+      ],
+      "AnnualSpend": 6466387.51
+    },
+    {
+      "Id": "05684b39-0b79-0afa-064d-003e9f0c994f",
+      "Name": "Dealers - Livingstone",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 79.4,
+      "IsCritical": true,
+      "Products": [
+        "subscriber management"
+      ],
+      "AnnualSpend": 2596854.35
+    },
+    {
+      "Id": "04c393d6-0e52-1870-0eb5-0066d7679a99",
+      "Name": "Service users - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 79.7,
+      "IsCritical": false,
+      "Products": [
+        "fraud prevention"
+      ],
+      "AnnualSpend": 9788742.98
+    },
+    {
+      "Id": "05a191f7-0cd6-1da1-0f93-00dfe72f4bc5",
+      "Name": "Subscribers - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 72.9,
+      "IsCritical": true,
+      "Products": [
+        "subscriber management"
+      ],
+      "AnnualSpend": 8518184.93
+    },
+    {
+      "Id": "0276dae3-143e-13bd-0757-00be0b708b89",
+      "Name": "Subscribers - Ndola",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 51.3,
+      "IsCritical": false,
+      "Products": [
+        "network operations"
+      ],
+      "AnnualSpend": 7640268.19
+    },
+    {
+      "Id": "017738ec-2463-120e-044a-002a96a06548",
+      "Name": "Service users - Livingstone",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 47.1,
+      "IsCritical": true,
+      "Products": [
+        "subscriber management"
+      ],
+      "AnnualSpend": 2370227.53
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "0538243e-0629-06ec-0b4f-00cbca1276ed",
+      "FromSupplierId": "02ba21a8-1ac7-1567-13d6-0070db4c9a99",
+      "ToSupplierId": "00c47c2b-1e33-0f5c-0bc4-00e1279b157c",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.48,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "057992e4-13a4-0771-18c6-005690628d06",
+      "FromSupplierId": "04ea614f-0ce8-1c0a-11bb-0061d732265c",
+      "ToSupplierId": "01396d05-0a23-0c7b-09be-00b1ee465a5a",
+      "Type": "partnership",
+      "DependencyLevel": 0.81,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "00d4e8c6-1319-133e-1729-00ad43b51961",
+      "FromSupplierId": "01396d05-0a23-0c7b-09be-00b1ee465a5a",
+      "ToSupplierId": "017738ec-2463-120e-044a-002a96a06548",
+      "Type": "supplies",
+      "DependencyLevel": 0.72,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "013a136d-0f77-13b8-2614-00a6dc0ca866",
+      "FromSupplierId": "05a191f7-0cd6-1da1-0f93-00dfe72f4bc5",
+      "ToSupplierId": "017738ec-2463-120e-044a-002a96a06548",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.65,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00f5b277-0a0d-1ea0-1be8-0040e9b69f55",
+      "FromSupplierId": "01be60cb-0f75-0b09-1c64-009966b405f7",
+      "ToSupplierId": "02ba21a8-1ac7-1567-13d6-0070db4c9a99",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.6,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03a47de1-102e-18f4-1278-001a264416f8",
+      "FromSupplierId": "01396d05-0a23-0c7b-09be-00b1ee465a5a",
+      "ToSupplierId": "05d9b773-0c1b-0c8d-0659-00e15be25114",
+      "Type": "partnership",
+      "DependencyLevel": 0.66,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02bcd32d-26e1-1d0c-26f8-008c4258592c",
+      "FromSupplierId": "05a191f7-0cd6-1da1-0f93-00dfe72f4bc5",
+      "ToSupplierId": "03c024d0-0d83-095d-09d3-0083b450e41f",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.47,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00adca54-0542-1fde-0603-0069fcc9ed72",
+      "FromSupplierId": "0527ff83-2142-05e9-11e5-00d69be7b571",
+      "ToSupplierId": "03c5bbeb-0f67-07da-1af8-00d7e56e2756",
+      "Type": "supplies",
+      "DependencyLevel": 0.57,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03abaa29-04de-11b1-0cf1-00a14a8d51d2",
+      "FromSupplierId": "04ea614f-0ce8-1c0a-11bb-0061d732265c",
+      "ToSupplierId": "0199a395-1e21-1a3b-2101-00adce2ff00f",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.41,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0264582d-1bd9-1296-1b31-0054fa9b6dca",
+      "FromSupplierId": "0153ed36-2381-0647-1359-002718b808ac",
+      "ToSupplierId": "0276dae3-143e-13bd-0757-00be0b708b89",
+      "Type": "partnership",
+      "DependencyLevel": 0.68,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "010ba9bb-075b-1804-1f61-00177b74ad31",
+      "FromSupplierId": "0379d3e9-1fd9-1af5-09e0-004aa9c9037e",
+      "ToSupplierId": "03edf598-210c-20e2-2628-008f703229c7",
+      "Type": "supplies",
+      "DependencyLevel": 0.81,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "00ee463b-0ed3-1277-1e2e-00bd5ba17f40",
+      "FromSupplierId": "019d58a2-0812-0a58-265b-00ba00fe1103",
+      "ToSupplierId": "05d89f67-05cb-0ec4-0d16-00a40731e08c",
+      "Type": "supplies",
+      "DependencyLevel": 0.58,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0488ffd5-2450-05f1-18ea-0027eb23d6a3",
+      "FromSupplierId": "02eaddfb-1c25-16fd-1104-00bcd9492497",
+      "ToSupplierId": "01f06f82-24e1-06c5-2380-00ba7a72705b",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.51,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "021dfb68-108c-21c9-10fa-008ea4348cac",
+      "FromSupplierId": "01ab27e6-0b6c-081a-1d6e-00c29bf359b6",
+      "ToSupplierId": "01d23589-20c4-1e79-166a-00b5418b175d",
+      "Type": "supplies",
+      "DependencyLevel": 0.57,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03f9364a-0ad1-084b-24f4-00444d799d68",
+      "FromSupplierId": "0527ff83-2142-05e9-11e5-00d69be7b571",
+      "ToSupplierId": "0276dae3-143e-13bd-0757-00be0b708b89",
+      "Type": "partnership",
+      "DependencyLevel": 0.61,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "01cced10-0ec5-2587-04d2-0086f36f7c86",
+      "FromSupplierId": "034d3a48-24de-0687-0bf6-004f5d20f328",
+      "ToSupplierId": "03996a4b-19bb-09a7-15bf-00e6310ab5e1",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.89,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "035706c1-1ff9-168b-114d-00e0c4850d36",
+      "FromSupplierId": "0594c263-1a1f-1b39-0d4a-0051f611f977",
+      "ToSupplierId": "01d23589-20c4-1e79-166a-00b5418b175d",
+      "Type": "supplies",
+      "DependencyLevel": 0.79,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "012e2bbf-0873-0d24-243e-004ec634fcd9",
+      "FromSupplierId": "012dda2c-2093-0682-1386-00a3e35ed0ac",
+      "ToSupplierId": "01d23589-20c4-1e79-166a-00b5418b175d",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.5,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04561140-2632-1c13-13bb-00ac4cfd502c",
+      "FromSupplierId": "00dcf797-0f75-1b6b-099d-007530a0af11",
+      "ToSupplierId": "0199a395-1e21-1a3b-2101-00adce2ff00f",
+      "Type": "supplies",
+      "DependencyLevel": 0.78,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0101295e-2132-2412-0a13-009f2e901086",
+      "FromSupplierId": "05a3ccd3-237e-144a-1b37-00e28d17ea07",
+      "ToSupplierId": "02a7b0d6-1ba1-12a8-1598-00dae1730d02",
+      "Type": "partnership",
+      "DependencyLevel": 0.67,
+      "IsCriticalPath": false
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "operational",
+      "Description": "Concentration of fraud prevention in Ndola",
+      "ConcentrationLevel": 63.9,
+      "AffectedSuppliers": [
+        "Service users - nationwide network",
+        "Dealers - Lusaka",
+        "Corporate clients - Livingstone"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "01b078f2-1811-1409-043f-005fabc76f5d",
+      "SupplierId": "034d3a48-24de-0687-0bf6-004f5d20f328",
+      "SupplierName": "Dealers - nationwide network",
+      "RiskType": "operational",
+      "Severity": "medium",
+      "Description": "Risk detected in service delivery operations",
+      "DetectedAt": "2025-12-22T17:30:31Z",
+      "IsAcknowledged": false,
+      "AffectedDownstreamSuppliers": [
+        "03c024d0-0d83-095d-09d3-0083b450e41f",
+        "03c5bbeb-0f67-07da-1af8-00d7e56e2756"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 25,
+    "HighRiskSuppliers": 15,
+    "AverageRiskScore": 69.2,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

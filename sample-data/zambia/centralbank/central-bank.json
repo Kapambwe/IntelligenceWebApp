@@ -1,0 +1,2002 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Monetary Policy Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Monetary Policy Division",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.2 months of imports",
+      "PaymentsMonitor": "1986 high-value trades daily",
+      "ProblemAssets": "1.4% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Banking Supervision Department",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Banking Supervision Department",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-12-05T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "5.1 months of imports",
+      "PaymentsMonitor": "1969 high-value trades daily",
+      "ProblemAssets": "0.8% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Financial Markets Department",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Financial Markets Department",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-12-01T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "5.3 months of imports",
+      "PaymentsMonitor": "1967 high-value trades daily",
+      "ProblemAssets": "1.3% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Payment Systems Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Payment Systems Division",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-25T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "3.9 months of imports",
+      "PaymentsMonitor": "1625 high-value trades daily",
+      "ProblemAssets": "0.6% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Financial Stability Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Financial Stability Unit",
+        "Date": "2026-01-10T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "3.5 months of imports",
+      "PaymentsMonitor": "820 high-value trades daily",
+      "ProblemAssets": "1.4% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Currency Management Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Currency Management Division",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.8 months of imports",
+      "PaymentsMonitor": "1381 high-value trades daily",
+      "ProblemAssets": "0.5% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Foreign Exchange Department",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Foreign Exchange Department",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-21T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "3.6 months of imports",
+      "PaymentsMonitor": "1542 high-value trades daily",
+      "ProblemAssets": "0.6% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Economic Research Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Economic Research Unit",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-18T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "5.0 months of imports",
+      "PaymentsMonitor": "1476 high-value trades daily",
+      "ProblemAssets": "1.5% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Financial Intelligence Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Financial Intelligence Division",
+        "Date": "2025-12-26T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-27T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.9 months of imports",
+      "PaymentsMonitor": "1427 high-value trades daily",
+      "ProblemAssets": "0.9% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Bank Regulation Department",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Bank Regulation Department",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-30T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "5.5 months of imports",
+      "PaymentsMonitor": "816 high-value trades daily",
+      "ProblemAssets": "1.5% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Financial Inclusion Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Financial Inclusion Unit",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "5.3 months of imports",
+      "PaymentsMonitor": "1326 high-value trades daily",
+      "ProblemAssets": "1.2% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Consumer Protection Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Consumer Protection Division",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-18T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "5.5 months of imports",
+      "PaymentsMonitor": "862 high-value trades daily",
+      "ProblemAssets": "0.5% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Financial Technology Department",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Financial Technology Department",
+        "Date": "2026-01-14T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-06T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.8 months of imports",
+      "PaymentsMonitor": "1214 high-value trades daily",
+      "ProblemAssets": "0.9% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Risk Management Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Risk Management Unit",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-28T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.1 months of imports",
+      "PaymentsMonitor": "1523 high-value trades daily",
+      "ProblemAssets": "1.1% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Internal Audit Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Internal Audit Division",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "5.3 months of imports",
+      "PaymentsMonitor": "857 high-value trades daily",
+      "ProblemAssets": "0.6% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Reserve Management Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Reserve Management Unit",
+        "Date": "2026-01-05T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.9 months of imports",
+      "PaymentsMonitor": "1737 high-value trades daily",
+      "ProblemAssets": "1.8% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Credit Reference Bureau",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Credit Reference Bureau",
+        "Date": "2025-12-26T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-26T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "3.5 months of imports",
+      "PaymentsMonitor": "1857 high-value trades daily",
+      "ProblemAssets": "1.0% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - National Payment Systems",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - National Payment Systems",
+        "Date": "2026-01-07T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.2 months of imports",
+      "PaymentsMonitor": "1523 high-value trades daily",
+      "ProblemAssets": "1.5% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Banking Compliance Office",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Banking Compliance Office",
+        "Date": "2026-01-05T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-28T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "3.5 months of imports",
+      "PaymentsMonitor": "1776 high-value trades daily",
+      "ProblemAssets": "1.7% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Fintech Innovation Hub",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Fintech Innovation Hub",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-27T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.8 months of imports",
+      "PaymentsMonitor": "1450 high-value trades daily",
+      "ProblemAssets": "0.9% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Mazabuka",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Mazabuka",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-12-07T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.0 months of imports",
+      "PaymentsMonitor": "1195 high-value trades daily",
+      "ProblemAssets": "1.2% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Kafue",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Kafue",
+        "Date": "2026-01-04T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-12-18T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.9 months of imports",
+      "PaymentsMonitor": "957 high-value trades daily",
+      "ProblemAssets": "0.9% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Lundazi",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Lundazi",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-12-13T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.7 months of imports",
+      "PaymentsMonitor": "1966 high-value trades daily",
+      "ProblemAssets": "1.5% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Choma",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Choma",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.7 months of imports",
+      "PaymentsMonitor": "1238 high-value trades daily",
+      "ProblemAssets": "1.7% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Choma",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Choma",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-21T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.5 months of imports",
+      "PaymentsMonitor": "1465 high-value trades daily",
+      "ProblemAssets": "1.4% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Monze",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Monze",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-30T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.6 months of imports",
+      "PaymentsMonitor": "1787 high-value trades daily",
+      "ProblemAssets": "1.2% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Petauke",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Petauke",
+        "Date": "2025-12-26T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-18T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.7 months of imports",
+      "PaymentsMonitor": "1151 high-value trades daily",
+      "ProblemAssets": "1.6% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Livingstone",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Livingstone",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-01T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "3.8 months of imports",
+      "PaymentsMonitor": "1762 high-value trades daily",
+      "ProblemAssets": "0.7% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Lusaka",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Lusaka",
+        "Date": "2025-12-22T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-30T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "5.2 months of imports",
+      "PaymentsMonitor": "1040 high-value trades daily",
+      "ProblemAssets": "0.8% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Chipata",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Chipata",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-26T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "3.7 months of imports",
+      "PaymentsMonitor": "1436 high-value trades daily",
+      "ProblemAssets": "1.6% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Choma",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Choma",
+        "Date": "2026-01-05T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-12-04T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "5.3 months of imports",
+      "PaymentsMonitor": "1026 high-value trades daily",
+      "ProblemAssets": "1.0% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Mazabuka",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Mazabuka",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-30T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.7 months of imports",
+      "PaymentsMonitor": "827 high-value trades daily",
+      "ProblemAssets": "1.3% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Mongu",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Mongu",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-30T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.0 months of imports",
+      "PaymentsMonitor": "855 high-value trades daily",
+      "ProblemAssets": "1.6% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Lusaka",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Lusaka",
+        "Date": "2025-12-28T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-26T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.2 months of imports",
+      "PaymentsMonitor": "1162 high-value trades daily",
+      "ProblemAssets": "1.9% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Mufulira",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Mufulira",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-25T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "3.7 months of imports",
+      "PaymentsMonitor": "1556 high-value trades daily",
+      "ProblemAssets": "0.7% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Mazabuka",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Mazabuka",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-12-17T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.8 months of imports",
+      "PaymentsMonitor": "1905 high-value trades daily",
+      "ProblemAssets": "2.0% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Kitwe",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Kitwe",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-26T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "5.1 months of imports",
+      "PaymentsMonitor": "1741 high-value trades daily",
+      "ProblemAssets": "1.1% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Lundazi",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Lundazi",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.3 months of imports",
+      "PaymentsMonitor": "853 high-value trades daily",
+      "ProblemAssets": "1.2% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Mazabuka",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Mazabuka",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-01T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.7 months of imports",
+      "PaymentsMonitor": "1988 high-value trades daily",
+      "ProblemAssets": "1.1% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Mansa",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Mansa",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-16T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "3.9 months of imports",
+      "PaymentsMonitor": "1788 high-value trades daily",
+      "ProblemAssets": "1.7% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Mongu",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Mongu",
+        "Date": "2026-01-16T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.2 months of imports",
+      "PaymentsMonitor": "935 high-value trades daily",
+      "ProblemAssets": "0.9% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Livingstone",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Livingstone",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.6 months of imports",
+      "PaymentsMonitor": "1453 high-value trades daily",
+      "ProblemAssets": "1.4% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Mbala",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Mbala",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-14T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.8 months of imports",
+      "PaymentsMonitor": "858 high-value trades daily",
+      "ProblemAssets": "1.4% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Chipata",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Chipata",
+        "Date": "2026-01-09T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-01T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.4 months of imports",
+      "PaymentsMonitor": "1135 high-value trades daily",
+      "ProblemAssets": "0.7% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Mazabuka",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Mazabuka",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-27T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "5.4 months of imports",
+      "PaymentsMonitor": "1951 high-value trades daily",
+      "ProblemAssets": "0.9% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Ndola",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Ndola",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.0 months of imports",
+      "PaymentsMonitor": "1658 high-value trades daily",
+      "ProblemAssets": "1.9% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Ndola",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Ndola",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-13T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "3.7 months of imports",
+      "PaymentsMonitor": "875 high-value trades daily",
+      "ProblemAssets": "1.8% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Livingstone",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Livingstone",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-21T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.1 months of imports",
+      "PaymentsMonitor": "1730 high-value trades daily",
+      "ProblemAssets": "1.3% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Mufulira",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Mufulira",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-10-31T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "5.0 months of imports",
+      "PaymentsMonitor": "1252 high-value trades daily",
+      "ProblemAssets": "0.8% of banking assets"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CentralBank",
+    "DisplayName": "Bank of Zambia - Regional Office - Chipata",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Maintain price stability, manage foreign reserves, and oversee the payment system while supporting financial sector integrity.",
+    "TopPriorities": [
+      "Ensure liquidity in the banking system during mining revenue volatility.",
+      "Coordinate with ZRA to detect currency outflows that hide VAT rebates.",
+      "Spread cybersecurity best practices to banks and financial institutions."
+    ],
+    "ActiveOperations": [
+      "RTGS monitoring cell flagging foreign exchange trades tied to flagged mining exporters.",
+      "Open banking data-sharing initiative with commercial banks for AML screening.",
+      "Financial stability reports citing revenue leaks uncovered by partners."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Financial stability review - Regional Office - Chipata",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Published analysis of banking sector performance and systemic risk factors."
+      },
+      {
+        "Title": "Joint cyber response enhancement",
+        "Date": "2025-11-30T00:00:00Z",
+        "Summary": "Upgraded monitoring systems to track suspicious payment settlement activities."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Commercial banking sector",
+      "Reserve Bank of South Africa"
+    ],
+    "Metrics": {
+      "ReservesCoverage": "4.6 months of imports",
+      "PaymentsMonitor": "1725 high-value trades daily",
+      "ProblemAssets": "0.9% of banking assets"
+    }
+  }
+]

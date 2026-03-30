@@ -1,0 +1,2002 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "ZNBC - Zambia National Broadcasting Corporation",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-18T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "9 per week",
+      "Documentaries": "6 in 2025",
+      "CourtStreams": "15 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Muvi TV",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "10 per week",
+      "Documentaries": "3 in 2025",
+      "CourtStreams": "15 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Prime Television",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-24T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "5 per week",
+      "Documentaries": "4 in 2025",
+      "CourtStreams": "9 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Diamond TV",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-21T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-29T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "7 per week",
+      "Documentaries": "5 in 2025",
+      "CourtStreams": "6 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "KNC TV",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-21T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-05T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "7 per week",
+      "Documentaries": "6 in 2025",
+      "CourtStreams": "5 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Chipata TV",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-02T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-07T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "7 per week",
+      "Documentaries": "6 in 2025",
+      "CourtStreams": "11 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Kantanshi TV",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-10T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-26T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "9 per week",
+      "Documentaries": "6 in 2025",
+      "CourtStreams": "10 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Ebony Life TV Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-29T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "7 per week",
+      "Documentaries": "7 in 2025",
+      "CourtStreams": "11 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Joy TV",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "5 per week",
+      "Documentaries": "4 in 2025",
+      "CourtStreams": "14 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Trinity Broadcasting Network Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-22T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-10T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "7 per week",
+      "Documentaries": "8 in 2025",
+      "CourtStreams": "6 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Kwese TV Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-01T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "8 per week",
+      "Documentaries": "6 in 2025",
+      "CourtStreams": "11 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Hope Channel Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "10 per week",
+      "Documentaries": "3 in 2025",
+      "CourtStreams": "13 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Moyo TV",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-16T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "10 per week",
+      "Documentaries": "7 in 2025",
+      "CourtStreams": "8 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Kabwe Television Network 1",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-24T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "6 per week",
+      "Documentaries": "7 in 2025",
+      "CourtStreams": "9 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mazabuka Television Network 2",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-08T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "9 per week",
+      "Documentaries": "5 in 2025",
+      "CourtStreams": "15 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Kabwe Television Network 3",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-26T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "7 per week",
+      "Documentaries": "4 in 2025",
+      "CourtStreams": "9 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Chipata Television Network 4",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "8 per week",
+      "Documentaries": "4 in 2025",
+      "CourtStreams": "8 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Kasama Television Network 5",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-02T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-25T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "4 per week",
+      "Documentaries": "5 in 2025",
+      "CourtStreams": "11 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mpika Television Network 6",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-20T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "5 per week",
+      "Documentaries": "8 in 2025",
+      "CourtStreams": "8 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Ndola Television Network 7",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-03T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "5 per week",
+      "Documentaries": "4 in 2025",
+      "CourtStreams": "5 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Kafue Television Network 8",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-22T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-24T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "6 per week",
+      "Documentaries": "3 in 2025",
+      "CourtStreams": "15 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Kasama Television Network 9",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-08T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "9 per week",
+      "Documentaries": "5 in 2025",
+      "CourtStreams": "7 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mufulira Television Network 10",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "6 per week",
+      "Documentaries": "7 in 2025",
+      "CourtStreams": "15 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Kitwe Television Network 11",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "5 per week",
+      "Documentaries": "8 in 2025",
+      "CourtStreams": "7 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mazabuka Television Network 12",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-05T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "10 per week",
+      "Documentaries": "5 in 2025",
+      "CourtStreams": "12 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Ndola Television Network 13",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-05T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-17T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "6 per week",
+      "Documentaries": "3 in 2025",
+      "CourtStreams": "5 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mufulira Television Network 14",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-06T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "4 per week",
+      "Documentaries": "6 in 2025",
+      "CourtStreams": "10 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Kabwe Television Network 15",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-18T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-15T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "7 per week",
+      "Documentaries": "8 in 2025",
+      "CourtStreams": "9 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Solwezi Television Network 16",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-04T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "5 per week",
+      "Documentaries": "4 in 2025",
+      "CourtStreams": "11 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Chipata Television Network 17",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-26T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "6 per week",
+      "Documentaries": "4 in 2025",
+      "CourtStreams": "7 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Livingstone Television Network 18",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-17T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "5 per week",
+      "Documentaries": "8 in 2025",
+      "CourtStreams": "6 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mazabuka Television Network 19",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "10 per week",
+      "Documentaries": "5 in 2025",
+      "CourtStreams": "8 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mansa Television Network 20",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-09T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "8 per week",
+      "Documentaries": "4 in 2025",
+      "CourtStreams": "8 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Lundazi Television Network 21",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-26T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "5 per week",
+      "Documentaries": "4 in 2025",
+      "CourtStreams": "11 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Choma Television Network 22",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-25T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "5 per week",
+      "Documentaries": "3 in 2025",
+      "CourtStreams": "10 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Solwezi Television Network 23",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "9 per week",
+      "Documentaries": "6 in 2025",
+      "CourtStreams": "13 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Kafue Television Network 24",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-22T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-04T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "9 per week",
+      "Documentaries": "3 in 2025",
+      "CourtStreams": "12 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mbala Television Network 25",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-11T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "8 per week",
+      "Documentaries": "5 in 2025",
+      "CourtStreams": "14 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mbala Television Network 26",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-18T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "6 per week",
+      "Documentaries": "3 in 2025",
+      "CourtStreams": "10 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Monze Television Network 27",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-22T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-05T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "10 per week",
+      "Documentaries": "3 in 2025",
+      "CourtStreams": "14 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mufulira Television Network 28",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-24T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "7 per week",
+      "Documentaries": "3 in 2025",
+      "CourtStreams": "14 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mongu Television Network 29",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "5 per week",
+      "Documentaries": "3 in 2025",
+      "CourtStreams": "11 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mufulira Television Network 30",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-30T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "6 per week",
+      "Documentaries": "4 in 2025",
+      "CourtStreams": "11 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mpika Television Network 31",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-10T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "8 per week",
+      "Documentaries": "8 in 2025",
+      "CourtStreams": "10 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mufulira Television Network 32",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-10T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-07T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "10 per week",
+      "Documentaries": "4 in 2025",
+      "CourtStreams": "8 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Solwezi Television Network 33",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-15T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "5 per week",
+      "Documentaries": "4 in 2025",
+      "CourtStreams": "10 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Choma Television Network 34",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-10T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-18T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "9 per week",
+      "Documentaries": "3 in 2025",
+      "CourtStreams": "8 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Kasama Television Network 35",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2025-12-22T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-12-13T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "7 per week",
+      "Documentaries": "3 in 2025",
+      "CourtStreams": "7 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Mufulira Television Network 36",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-20T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "8 per week",
+      "Documentaries": "7 in 2025",
+      "CourtStreams": "13 sessions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Livingstone Television Network 37",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-29T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "4 per week",
+      "Documentaries": "5 in 2025",
+      "CourtStreams": "13 sessions"
+    }
+  }
+]

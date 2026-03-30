@@ -1,0 +1,46 @@
+/* Platform Color Palette */
+
+:root {
+    /* Primary Brand Colors */
+    --platform-primary: #2563eb;        /* Blue */
+    --platform-secondary: #7c3aed;      /* Purple */
+    --platform-accent: #06b6d4;         /* Cyan */
+
+    /* Entity Type Colors */
+    --platform-person: #3b82f6;         /* Blue */
+    --platform-org: #8b5cf6;            /* Purple */
+    --platform-account: #10b981;        /* Green */
+    --platform-transaction: #f59e0b;    /* Amber */
+    --platform-address: #ec4899;        /* Pink */
+    --platform-document: #6366f1;       /* Indigo */
+
+    /* Risk Gradient */
+    --platform-risk-critical: #dc2626;  /* Red */
+    --platform-risk-high: #ea580c;      /* Orange */
+    --platform-risk-medium: #f59e0b;    /* Amber */
+    --platform-risk-low: #84cc16;       /* Lime */
+    --platform-risk-safe: #10b981;      /* Emerald */
+
+    /* UI Colors */
+    --platform-bg-primary: #ffffff;
+    --platform-bg-secondary: #f8fafc;
+    --platform-bg-hover: #f1f5f9;
+    --platform-border: #e2e8f0;
+    --platform-text-primary: #0f172a;
+    --platform-text-secondary: #64748b;
+    --platform-text-tertiary: #94a3b8;
+
+    /* Status Colors */
+    --platform-success: #10b981;
+    --platform-warning: #f59e0b;
+    --platform-danger: #ef4444;
+    --platform-info: #3b82f6;
+
+    /* Cluster Colors */
+    --platform-cluster-1: #3b82f6;      /* Blue */
+    --platform-cluster-2: #8b5cf6;      /* Purple */
+    --platform-cluster-3: #10b981;      /* Green */
+    --platform-cluster-4: #f59e0b;      /* Orange */
+    --platform-cluster-5: #ec4899;      /* Pink */
+    --platform-cluster-6: #06b6d4;      /* Cyan */
+}

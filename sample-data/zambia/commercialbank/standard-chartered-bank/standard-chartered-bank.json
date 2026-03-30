@@ -1,0 +1,42 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "CommercialBank",
+    "DisplayName": "Standard Chartered Bank",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Serve corporate and retail customers, provide trade finance, and comply with AML/CFT requirements.",
+    "TopPriorities": [
+      "Support mining and export clients while managing foreign exchange exposures.",
+      "Integrate tax compliance checks for large VAT refund clients.",
+      "Expand digital onboarding for SME exporters in the region."
+    ],
+    "ActiveOperations": [
+      "Trade finance desk managing outward remittances tied to ZRA export declarations.",
+      "AML alert review team working with Financial Intelligence Centre on suspicious transfers.",
+      "SME mentoring program to help companies prepare accurate VAT returns."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced AML monitoring systems",
+        "Date": "2026-01-16T00:00:00Z",
+        "Summary": "Implemented advanced transaction monitoring to detect and report suspicious activities."
+      },
+      {
+        "Title": "Compliance roundtable with corporate clients",
+        "Date": "2025-11-01T00:00:00Z",
+        "Summary": "Shared best practices on document retention to support future audits."
+      }
+    ],
+    "KeyPartnerships": [
+      "Bank of Zambia",
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre"
+    ],
+    "Metrics": {
+      "CorporateClients": "1495 active corporate relationships",
+      "AMLInvestigations": "62 alerts handled last quarter",
+      "SMESupported": "267 exporters onboarded"
+    }
+  }
+]

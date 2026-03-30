@@ -1,0 +1,57 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "Investigative reportingPath",
+      "Summary": "Identified 5-step pattern linking news subjects to investigative reporting in Chipata",
+      "HighlightedNodes": [
+        "00e20ed5-0bce-1464-1b86-00ca6682e399",
+        "034da9aa-0aac-0b55-2661-00c8e73e943f",
+        "04116913-13e6-22b7-05f1-00a58bc03745",
+        "03f939d0-19ce-0869-1407-00299fb1e67b",
+        "01713421-12c2-20b4-05c4-00a328e796f0"
+      ]
+    },
+    {
+      "Name": "Community engagementPath",
+      "Summary": "Identified 4-step pattern linking corporations to news broadcasting in nationwide broadcast",
+      "HighlightedNodes": [
+        "03e7fd5a-147b-1c63-0e7a-00d76ec3facb",
+        "00b3b29f-0ab7-0fe0-1aea-00a9bc771202",
+        "019f7604-1f7b-2101-0c09-001b2e66df1b",
+        "01c2095d-1173-1c1c-26fb-005b65ca824d"
+      ]
+    },
+    {
+      "Name": "Investigative reportingPath",
+      "Summary": "Identified 5-step pattern linking news subjects to investigative reporting in Kitwe",
+      "HighlightedNodes": [
+        "05572853-13e0-0fb4-259f-00da56c6ca0e",
+        "018dfae2-22de-0ef7-06b4-00d4f330de68",
+        "013ddc61-2425-12a4-1247-0072a52d7fb6",
+        "00a8f847-137f-1c1f-1ebb-008e85f59a5a",
+        "047b2e84-1865-2203-1bc9-00a62c1ebac6"
+      ]
+    },
+    {
+      "Name": "Public awarenessPath",
+      "Summary": "Identified 4-step pattern linking news subjects to accountability in nationwide broadcast",
+      "HighlightedNodes": [
+        "018b4da1-223c-162c-206f-003009df43bf",
+        "041fab83-13cf-05fb-1f07-0060c9844c6f",
+        "05009d21-1f1e-1258-150b-0071864dd9a1",
+        "00b0fd49-0c31-26b8-0807-006f1aff7847"
+      ]
+    },
+    {
+      "Name": "Investigative reportingPath",
+      "Summary": "Identified 4-step pattern linking community leaders to news broadcasting in Kitwe",
+      "HighlightedNodes": [
+        "018f4a26-1b9b-0ce2-0c6b-00369c91bb12",
+        "031dd97f-059a-25f2-103f-005f0b4a9497",
+        "015b9857-0dbf-07b6-1b0d-00a7de4ae46c",
+        "00b8c65d-2587-0f4c-12a8-006f2d910bc6"
+      ]
+    }
+  ]
+}

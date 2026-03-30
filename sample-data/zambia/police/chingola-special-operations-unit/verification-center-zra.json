@@ -1,0 +1,1171 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "01c29a59-143e-1ff5-0a09-006b072ee178",
+      "EntityId": "043817aa-0d1d-1566-078a-001ca43e3e6e",
+      "EntityName": "Criminal networks - Livingstone",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-21T17:30:31Z",
+      "Notes": "Prosecution for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-10T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04c97a68-0f0b-1478-1afa-00568a4498aa",
+      "EntityId": "026ad993-2689-1659-25d7-005754bc42f0",
+      "EntityName": "Crime syndicates - border posts",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-21T17:30:31Z",
+      "Notes": "Crime prevention for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-09T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-24T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "039bca75-0d36-0a05-2390-004bb9400118",
+      "EntityId": "014aabbc-1486-07d2-14db-00694d482d96",
+      "EntityName": "Investigation units - border posts",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2026-01-12T17:30:31Z",
+      "Notes": "Arrest for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-23T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02925d35-1cac-254d-1e2a-001f1ebcfec0",
+      "EntityId": "04d6415b-1374-07d8-0a7e-00625f55015c",
+      "EntityName": "Investigation units - Lusaka",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-06T17:30:31Z",
+      "Notes": "Intelligence gathering for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-23T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "042f8bc7-1401-1e91-098c-006f7c95f2b3",
+      "EntityId": "046a9e35-0aba-1682-17a8-00b77d064c9f",
+      "EntityName": "Criminal networks - Lusaka",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-29T17:30:31Z",
+      "Notes": "Investigation for criminal investigations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-03T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-21T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0215f7cc-0c29-2561-09e2-005699f01214",
+      "EntityId": "05d9102e-052b-1d34-2257-004d6af20351",
+      "EntityName": "Crime syndicates - Ndola",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2026-01-17T17:30:31Z",
+      "Notes": "Intelligence gathering for organized crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01fcd1b1-17a5-25e8-1cd5-00da9cd0ee90",
+      "EntityId": "0125bafb-0da8-0d35-0a68-00629445ed75",
+      "EntityName": "Crime syndicates - Kitwe",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-22T17:30:31Z",
+      "Notes": "Investigation for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-20T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0259675f-1850-26de-0d8b-002065bbe660",
+      "EntityId": "05c5caae-0c4a-0fd2-21c2-0026ac460463",
+      "EntityName": "Crime syndicates - Lusaka",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-23T17:30:31Z",
+      "Notes": "Crime prevention for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e30d9d-1136-1d90-1cac-00b52731c298",
+      "EntityId": "03e581f0-211b-1473-126c-003f916f2521",
+      "EntityName": "Investigation units - Kitwe",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-14T17:30:31Z",
+      "Notes": "Prosecution for organized crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-14T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01f7079a-12eb-104a-1528-00dcf23036ca",
+      "EntityId": "04a55dde-0f44-0b67-217a-008015ead5d1",
+      "EntityName": "Suspects - Ndola",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2026-01-06T17:30:31Z",
+      "Notes": "Crime prevention for criminal investigations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-20T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "021b8f82-175f-1462-1865-002388e91a2a",
+      "EntityId": "04dde2db-2224-0e23-23cb-00983c7471b8",
+      "EntityName": "Investigation units - Livingstone",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-10T17:30:31Z",
+      "Notes": "Intelligence gathering for organized crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-05T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "0358b67f-0f73-100e-0f86-0057633451af",
+      "EntityId": "00dfb51e-1429-25bf-0737-007d2d45e418",
+      "EntityName": "Crime syndicates - Ndola",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-19T17:30:31Z",
+      "Notes": "Prosecution for organized crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-30T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-02T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "00d02f5f-1f47-0dbf-1816-006298e0dffc",
+      "EntityId": "03bc3d98-0421-1f50-102c-005a03fb9023",
+      "EntityName": "Investigation units - Livingstone",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-25T17:30:31Z",
+      "Notes": "Prosecution for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-04T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "039e4640-0a5d-04b3-1e00-00a31a9e2c81",
+      "EntityId": "022e8705-0e2d-0c49-0500-009f136efd15",
+      "EntityName": "Crime syndicates - Livingstone",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-23T17:30:31Z",
+      "Notes": "Arrest for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0407cb93-1b66-21a7-13c0-009394ac6b28",
+      "EntityId": "05a07b45-0406-0e07-26c5-0085ab4003ec",
+      "EntityName": "Crime syndicates - Kitwe",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-28T17:30:31Z",
+      "Notes": "Investigation for criminal investigations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-20T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "057374be-0d81-041b-066d-00cb823e249a",
+      "EntityId": "032ca39e-158e-258b-166b-006fe08e7c3b",
+      "EntityName": "Suspects - Kitwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2026-01-14T17:30:31Z",
+      "Notes": "Crime prevention for organized crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "024f529b-1d1c-160f-1caa-00ad5d6f39e2",
+      "EntityId": "048118e7-1804-0e45-191b-00b797f87c35",
+      "EntityName": "Investigation units - Livingstone",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-07T17:30:31Z",
+      "Notes": "Prosecution for copper theft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-06T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-03T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "030cdd65-0edf-1d26-174b-007ea3432c1f",
+      "EntityId": "00a51b3c-215f-1491-09fe-00d5fa2b0b08",
+      "EntityName": "Criminal networks - border posts",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2026-01-06T17:30:31Z",
+      "Notes": "Investigation for law enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-23T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "046d0718-0459-0b90-20cc-00e657e6c91c",
+      "EntityId": "058815e8-064d-0a52-058d-00229a2823dc",
+      "EntityName": "Suspects - Livingstone",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-03T17:30:31Z",
+      "Notes": "Intelligence gathering for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-14T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "01c33f29-0a9c-24d2-087b-0079e8c01fc0",
+      "EntityId": "0285fa83-258c-2600-0b59-0097974af2fa",
+      "EntityName": "Criminal networks - Livingstone",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-01T17:30:31Z",
+      "Notes": "Prosecution for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-23T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "01164b1f-0d64-1dec-0a5c-00851ded4d0a",
+      "EntityId": "059cf118-158b-04ec-1c1e-00bdc8681c26",
+      "EntityName": "Suspects - Ndola",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2026-01-16T17:30:31Z",
+      "Notes": "Investigation for copper theft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-26T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-19T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01deb2d2-23db-2600-0ed1-001778bc51f2",
+      "EntityId": "047ea0d4-139e-178f-2114-0073e5b828e6",
+      "EntityName": "Suspects - border posts",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-21T17:30:31Z",
+      "Notes": "Prosecution for organized crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-03T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05220752-1a58-0667-079b-00d9958d8595",
+      "EntityId": "023f9586-1910-1b7e-2570-009bce9bd491",
+      "EntityName": "Criminal networks - Livingstone",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-12T17:30:31Z",
+      "Notes": "Intelligence gathering for law enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-31T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "055defa3-04fd-11ba-119b-00d6f61a4703",
+      "EntityId": "01e74c5b-144e-23c5-04a7-00369a6b5d0b",
+      "EntityName": "Crime syndicates - Lusaka",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-14T17:30:31Z",
+      "Notes": "Crime prevention for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03ae3e5e-20e3-1aa0-1f11-00a38cb5f007",
+      "EntityId": "02d26f93-24be-2265-191a-00cbb04ef6e3",
+      "EntityName": "Investigation units - Lusaka",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2026-01-09T17:30:31Z",
+      "Notes": "Crime prevention for criminal investigations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-24T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04ecef35-0687-1952-26fa-0040dbbdb07d",
+      "EntityId": "0423950c-23d0-0867-173f-002b024015d7",
+      "EntityName": "Investigation units - Ndola",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-30T17:30:31Z",
+      "Notes": "Prosecution for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-25T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-07T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "03a3e6d9-14cf-0913-23f7-0095a245da2a",
+      "EntityId": "01f2712c-1d65-2557-0a77-0030f76338fa",
+      "EntityName": "Suspects - Livingstone",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-23T17:30:31Z",
+      "Notes": "Crime prevention for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "00b804d8-0e78-050d-2215-007467b6b08a",
+      "EntityId": "048bde6e-0e5a-2464-1a3b-0026b8413d9d",
+      "EntityName": "Investigation units - border posts",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-12T17:30:31Z",
+      "Notes": "Prosecution for copper theft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "05b4430c-24de-16f6-080f-009ad98a99bf",
+      "EntityId": "01d0cd5b-2377-12c3-24f8-00a91ff2ca61",
+      "EntityName": "Crime syndicates - border posts",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-18T17:30:31Z",
+      "Notes": "Intelligence gathering for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-23T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03940444-0715-20a3-1d4f-00d41c3d1366",
+      "EntityId": "02a74122-0852-0f5f-21fc-002750e725cf",
+      "EntityName": "Crime syndicates - Lusaka",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-12T17:30:31Z",
+      "Notes": "Prosecution for organized crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-20T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "01434654-06fc-223d-0cc6-007d12b2294f",
+      "EntityId": "023627b3-21bb-04ef-15b3-0073c47f5c6e",
+      "EntityName": "Investigation units - Lusaka",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-22T17:30:31Z",
+      "Notes": "Prosecution for copper theft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-28T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01cfe0c6-11c7-21eb-2018-00dfd7cb5467",
+      "EntityId": "010aad56-08bd-0899-239a-00c46e9ee11d",
+      "EntityName": "Criminal networks - Lusaka",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-12-05T17:30:31Z",
+      "Notes": "Investigation for organized crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-08T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "016b4889-1aeb-2310-1d03-00c1515028a0",
+      "EntityId": "009ded2f-1787-17e7-16f4-0051dbce9372",
+      "EntityName": "Criminal networks - border posts",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-02T17:30:31Z",
+      "Notes": "Prosecution for copper theft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04b8cf8f-1b98-2699-24f4-003870da3409",
+      "EntityId": "01533a0e-05ea-184b-181f-00aef716f615",
+      "EntityName": "Investigation units - Ndola",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-18T17:30:31Z",
+      "Notes": "Intelligence gathering for law enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "03755924-098b-0949-0c27-007b5ee72262",
+      "EntityId": "03530bb2-14dc-1870-1ee9-00431719d524",
+      "EntityName": "Criminal networks - border posts",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2026-01-15T17:30:31Z",
+      "Notes": "Arrest for law enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e1ba2f-1bd7-06d1-0c74-0056f5ac2ea3",
+      "EntityId": "05291c43-0e60-09b0-155d-003b75e89d32",
+      "EntityName": "Criminal networks - Kitwe",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-16T17:30:31Z",
+      "Notes": "Arrest for criminal investigations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0457d469-0ef5-0ecf-16f8-003446b82978",
+      "EntityId": "029c3c9f-0766-2472-1b78-005f066f53f2",
+      "EntityName": "Investigation units - Lusaka",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-28T17:30:31Z",
+      "Notes": "Intelligence gathering for copper theft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-01T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "052c0f67-1f8d-15dc-0a4c-0062a9146d56",
+      "EntityId": "03fbd156-077d-1923-138f-009e3e9ed38e",
+      "EntityName": "Criminal networks - Ndola",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2026-01-15T17:30:31Z",
+      "Notes": "Intelligence gathering for law enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-28T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02564dfa-20f0-0792-0957-00ad9f64518b",
+      "EntityId": "0269c300-0cf7-0d5e-26d9-0025a51c2f11",
+      "EntityName": "Criminal networks - border posts",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-20T17:30:31Z",
+      "Notes": "Intelligence gathering for organized crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-24T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-22T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00ec6603-0605-210b-21e3-00dda41eba1f",
+      "EntityId": "03506d12-1e24-1d05-103b-0079465c1012",
+      "EntityName": "Suspects - Ndola",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-10-23T17:30:31Z",
+      "Notes": "Investigation for criminal investigations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-20T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "010f9536-09f5-0b95-1f56-003b0c03fc66",
+      "EntityId": "019916a4-1fa1-255b-076f-009ea7b1aa7a",
+      "EntityName": "Investigation units - Ndola",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-05T17:30:31Z",
+      "Notes": "Prosecution for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03064aea-1042-06cb-16bc-00992285bc72",
+      "EntityId": "037f8b02-2278-0b43-040a-00e0dc51bf64",
+      "EntityName": "Crime syndicates - Kitwe",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-25T17:30:31Z",
+      "Notes": "Arrest for organized crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "020d596d-08ba-2357-142a-0039cd34b2c5",
+      "EntityId": "01905187-11ee-20d7-1bb9-00af05466073",
+      "EntityName": "Suspects - border posts",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-10-21T17:30:31Z",
+      "Notes": "Intelligence gathering for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-13T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-18T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "02f7b550-213a-078b-19c5-00a8351f53ea",
+      "EntityId": "04f76104-1960-0935-06bc-0088c22a191c",
+      "EntityName": "Suspects - Ndola",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-11T17:30:31Z",
+      "Notes": "Crime prevention for organized crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-25T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-01T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04b84da5-1048-175c-1691-002e565d0fa5",
+      "EntityId": "0417c3a2-2027-24d5-1c50-006bb9117beb",
+      "EntityName": "Crime syndicates - Lusaka",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-10-26T17:30:31Z",
+      "Notes": "Intelligence gathering for drug trafficking verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-29T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04141273-2012-10cd-23d8-009cb8aee20e",
+      "EntityId": "03acc4c5-201e-0e82-0edb-008f7f92ae1a",
+      "EntityName": "Crime syndicates - Kitwe",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-12T17:30:31Z",
+      "Notes": "Crime prevention for law enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-23T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-27T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "040dc146-1100-0b56-2350-0040c0f634c8",
+      "EntityId": "03aa28b2-195c-1eb1-1df8-00ab21853a31",
+      "EntityName": "Crime syndicates - Livingstone",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2026-01-10T17:30:31Z",
+      "Notes": "Arrest for organized crime verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02d66cf7-1565-06b7-1a36-009aafcb5416",
+      "EntityId": "047665a1-0a6f-0e32-119a-0083c8516d19",
+      "EntityName": "Criminal networks - Kitwe",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-04T17:30:31Z",
+      "Notes": "Crime prevention for criminal investigations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-02T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "037ae3bf-1bf7-069a-178c-00a36b1b256e",
+      "EntityId": "01fda257-2090-1694-2284-00903c44a53b",
+      "EntityName": "Criminal networks - Ndola",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2026-01-14T17:30:31Z",
+      "Notes": "Prosecution for criminal investigations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-30T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00d23523-11d6-1a8f-144b-00a6dbf6203b",
+      "EntityId": "00fdfe0f-0909-1dac-1c44-005ea71a3b56",
+      "EntityName": "Crime syndicates - Livingstone",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2026-01-03T17:30:31Z",
+      "Notes": "Arrest for criminal investigations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-20T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 10,
+    "Pending": 32,
+    "Failed": 8
+  }
+}

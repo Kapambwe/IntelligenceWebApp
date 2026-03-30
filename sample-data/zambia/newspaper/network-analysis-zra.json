@@ -1,0 +1,57 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "Shell Company Ownership Network",
+      "Summary": "Mapped 7 dormant shell companies linked to investigation subject Chanda Kasonde through FOIA-obtained PACRA registration records and archival research of historical print newspaper filings. Network reveals layered ownership structure using family members and former business associates across Lusaka, Copperbelt, and Southern provinces.",
+      "HighlightedNodes": [
+        "f5e6a7b8-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+        "d3c4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+        "b7a8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+        "e0d1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a"
+      ]
+    },
+    {
+      "Name": "Source Reliability Scoring Network",
+      "Summary": "Analysis of 42 anonymous and named sources across five Zambian print newspapers. Scored source reliability based on document corroboration rates, tip accuracy over time, and independent verification through FOIA cross-referencing. Identified 8 high-reliability sources and 3 sources requiring additional credibility assessment before print publication.",
+      "HighlightedNodes": [
+        "b1a2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+        "b7a8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+        "c2b3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+        "e4d5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+        "c8b9d0e1-2f3a-4b5c-6d7e-8f9a0b1c2d3e"
+      ]
+    },
+    {
+      "Name": "Political Donor-Procurement Beneficiary Map",
+      "Summary": "Cross-referenced political campaign donation records obtained via FOIA with government procurement award data from archival print records. Identified 14 instances where major political donors received government contracts within 12 months of documented donations. Network spans 3 ministries and 22 individual entities.",
+      "HighlightedNodes": [
+        "f5e6a7b8-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+        "d3c4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+        "d9c0e1f2-3a4b-5c6d-7e8f-9a0b1c2d3e4f"
+      ]
+    },
+    {
+      "Name": "Cross-Border Trade Misinvoicing Chain",
+      "Summary": "Mapped trade invoice discrepancies between Zambian customs declarations and corresponding export records from DRC and Tanzania. Print investigation data combined with ICIJ partnership database reveals 5 key intermediary companies facilitating systematic under-declaration of copper and cobalt export values.",
+      "HighlightedNodes": [
+        "c2b3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+        "e4d5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+        "e0d1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+        "b1a2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
+      ]
+    },
+    {
+      "Name": "Journalist-Editor Investigation Collaboration Graph",
+      "Summary": "Visualised working relationships between investigative journalists and editors across News Diggers, The Mast, Daily Nation, Times of Zambia, and Zambia Daily Mail for operational security assessment. Identified information flow patterns and potential leak points in the multi-newspaper print collaboration on the Copperbelt mining investigation.",
+      "HighlightedNodes": [
+        "b1a2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+        "c2b3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+        "e4d5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+        "a6f7b8c9-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+        "c8b9d0e1-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+        "e0d1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "markers": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "name": "Garden Compound Drug Operation",
+      "description": "High-volume drug trafficking operation with connections to regional cartels",
+      "latitude": -15.4173,
+      "longitude": 28.2871,
+      "location": "Garden Compound, Lusaka",
+      "country": "Zambia",
+      "markerType": "incident",
+      "markerColor": "#ef4444",
+      "riskLevel": 85,
+      "entityType": "GangActivity",
+      "eventDate": "2024-01-15T10:30:00Z",
+      "properties": {
+        "suspects": "12",
+        "status": "Active Investigation",
+        "agency": "Drug Enforcement Commission"
+      }
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f23456789012",
+      "name": "Highway Robbery Incident",
+      "description": "Armed robbery of commercial convoy on Great East Road",
+      "latitude": -14.0647,
+      "longitude": 32.0444,
+      "location": "Great East Road, Katete",
+      "country": "Zambia",
+      "markerType": "incident",
+      "markerColor": "#dc2626",
+      "riskLevel": 95,
+      "entityType": "GangActivity",
+      "eventDate": "2024-01-20T14:45:00Z",
+      "properties": {
+        "casualties": "2",
+        "valueLost": "USD 150,000",
+        "status": "Under Investigation"
+      }
+    },
+    {
+      "id": "c3d4e5f6-a7b8-9012-cdef-345678901234",
+      "name": "Trafficking Hub - Lusaka Central",
+      "description": "Known hub for human trafficking operations targeting vulnerable populations",
+      "latitude": -15.4167,
+      "longitude": 28.2833,
+      "location": "Lusaka Central",
+      "country": "Zambia",
+      "markerType": "hotspot",
+      "markerColor": "#f59e0b",
+      "riskLevel": 92,
+      "entityType": "TraffickingCase",
+      "eventDate": "2024-01-05T08:00:00Z",
+      "properties": {
+        "victimsRescued": "15",
+        "suspectedNetwork": "Cross-border syndicate",
+        "status": "Active Surveillance"
+      }
+    },
+    {
+      "id": "d4e5f6a7-b8c9-0123-defa-456789012345",
+      "name": "Copperbelt Mining Exploitation",
+      "description": "Forced labor in unregistered mining operations with child workers",
+      "latitude": -12.9717,
+      "longitude": 28.6366,
+      "location": "Ndola, Copperbelt",
+      "country": "Zambia",
+      "markerType": "hotspot",
+      "markerColor": "#f59e0b",
+      "riskLevel": 78,
+      "entityType": "TraffickingCase",
+      "eventDate": "2023-11-20T06:00:00Z",
+      "properties": {
+        "estimatedVictims": "45",
+        "mineType": "Artisanal Copper",
+        "status": "Joint Operation Planned"
+      }
+    },
+    {
+      "id": "e5f6a7b8-c9d0-1234-efab-567890123456",
+      "name": "Gang Territory - Kanyama",
+      "description": "Kanyama Enforcers gang territory - drug distribution and extortion",
+      "latitude": -15.4500,
+      "longitude": 28.2500,
+      "location": "Kanyama Compound, Lusaka",
+      "country": "Zambia",
+      "markerType": "territory",
+      "markerColor": "#8b5cf6",
+      "riskLevel": 70,
+      "entityType": "GangActivity",
+      "eventDate": "2024-01-18T00:00:00Z",
+      "properties": {
+        "gangName": "Kanyama Enforcers",
+        "estimatedMembers": "85",
+        "primaryActivity": "Drug Distribution"
+      }
+    },
+    {
+      "id": "f6a7b8c9-d0e1-2345-fabc-678901234567",
+      "name": "Chirundu Border Smuggling Point",
+      "description": "High-traffic smuggling route for contraband and human trafficking",
+      "latitude": -15.9994,
+      "longitude": 28.8508,
+      "location": "Chirundu Border Post",
+      "country": "Zambia",
+      "markerType": "hotspot",
+      "markerColor": "#ef4444",
+      "riskLevel": 88,
+      "entityType": "Smuggling",
+      "eventDate": "2024-01-22T16:30:00Z",
+      "properties": {
+        "routeType": "Cross-border",
+        "primaryGoods": "Contraband, Humans",
+        "monthlyIncidents": "35"
+      }
+    },
+    {
+      "id": "a7b8c9d0-e1f2-3456-abcd-789012345678",
+      "name": "Matero Youth Gang Conflict",
+      "description": "Ongoing territorial dispute between rival youth gangs",
+      "latitude": -15.3833,
+      "longitude": 28.3167,
+      "location": "Matero, Lusaka",
+      "country": "Zambia",
+      "markerType": "territory",
+      "markerColor": "#8b5cf6",
+      "riskLevel": 65,
+      "entityType": "GangActivity",
+      "eventDate": "2024-01-19T22:00:00Z",
+      "properties": {
+        "gangName": "Matero Boys",
+        "rivalGang": "Chawama Kings",
+        "recentIncidents": "7"
+      }
+    },
+    {
+      "id": "b8c9d0e1-f2a3-4567-bcde-890123456789",
+      "name": "Livingstone Tourist Scam Ring",
+      "description": "Organized criminal network targeting tourists near Victoria Falls",
+      "latitude": -17.8419,
+      "longitude": 25.8544,
+      "location": "Livingstone",
+      "country": "Zambia",
+      "markerType": "incident",
+      "markerColor": "#f59e0b",
+      "riskLevel": 55,
+      "entityType": "Fraud",
+      "eventDate": "2024-01-21T11:00:00Z",
+      "properties": {
+        "victimsReported": "28",
+        "estimatedLosses": "USD 45,000",
+        "status": "Active Investigation"
+      }
+    },
+    {
+      "id": "c9d0e1f2-a3b4-5678-cdef-901234567890",
+      "name": "Kabwe Lead Contamination Zone",
+      "description": "Environmental crime - illegal disposal of industrial waste",
+      "latitude": -14.4469,
+      "longitude": 28.4464,
+      "location": "Kabwe",
+      "country": "Zambia",
+      "markerType": "incident",
+      "markerColor": "#22c55e",
+      "riskLevel": 72,
+      "entityType": "EnvironmentalCrime",
+      "eventDate": "2023-12-15T09:00:00Z",
+      "properties": {
+        "affectedPopulation": "12,000",
+        "contaminationType": "Lead",
+        "status": "Remediation Ongoing"
+      }
+    },
+    {
+      "id": "d0e1f2a3-b4c5-6789-defa-012345678901",
+      "name": "Solwezi Illegal Mining Operation",
+      "description": "Large-scale illegal copper mining with environmental violations",
+      "latitude": -12.1667,
+      "longitude": 26.3833,
+      "location": "Solwezi, North-Western",
+      "country": "Zambia",
+      "markerType": "hotspot",
+      "markerColor": "#ef4444",
+      "riskLevel": 82,
+      "entityType": "IllegalMining",
+      "eventDate": "2024-01-10T07:00:00Z",
+      "properties": {
+        "estimatedWorkers": "200",
+        "chemicalsUsed": "Mercury, Cyanide",
+        "status": "Enforcement Action Pending"
+      }
+    },
+    {
+      "id": "e1f2a3b4-c5d6-7890-efab-123456789012",
+      "name": "Kasama Poaching Network Base",
+      "description": "Headquarters of wildlife poaching syndicate targeting elephants",
+      "latitude": -10.2129,
+      "longitude": 31.1808,
+      "location": "Kasama, Northern",
+      "country": "Zambia",
+      "markerType": "territory",
+      "markerColor": "#dc2626",
+      "riskLevel": 90,
+      "entityType": "WildlifeCrime",
+      "eventDate": "2024-01-08T05:00:00Z",
+      "properties": {
+        "targetSpecies": "Elephants, Rhinos",
+        "estimatedMembers": "35",
+        "recentSeizures": "150kg ivory"
+      }
+    },
+    {
+      "id": "f2a3b4c5-d6e7-8901-fabc-234567890123",
+      "name": "Choma Cattle Rustling Hotspot",
+      "description": "Organized cattle theft affecting rural farming communities",
+      "latitude": -16.6333,
+      "longitude": 26.9833,
+      "location": "Choma, Southern",
+      "country": "Zambia",
+      "markerType": "incident",
+      "markerColor": "#f59e0b",
+      "riskLevel": 60,
+      "entityType": "RuralCrime",
+      "eventDate": "2024-01-17T03:00:00Z",
+      "properties": {
+        "cattleStolen": "245",
+        "affectedFarmers": "38",
+        "estimatedValue": "USD 120,000"
+      }
+    }
+  ],
+  "traffickingRoutes": [
+    {
+      "id": "route-001-uae",
+      "name": "Zambia to UAE Labor Trafficking Route",
+      "description": "Major labor trafficking route exploiting domestic workers",
+      "estimatedVictimCount": 23,
+      "riskScore": 87.5,
+      "isActive": true,
+      "routeType": "International",
+      "points": [
+        { "latitude": -15.4167, "longitude": 28.2833, "location": "Lusaka, Zambia", "pointType": "Origin", "order": 1 },
+        { "latitude": 9.0320, "longitude": 38.7469, "location": "Addis Ababa, Ethiopia", "pointType": "Transit", "order": 2 },
+        { "latitude": 25.2048, "longitude": 55.2708, "location": "Dubai, UAE", "pointType": "Destination", "order": 3 },
+        { "latitude": 24.4539, "longitude": 54.3773, "location": "Abu Dhabi, UAE", "pointType": "Destination", "order": 4 }
+      ]
+    },
+    {
+      "id": "route-002-sadc",
+      "name": "Regional Sex Trafficking Route",
+      "description": "SADC regional trafficking route targeting young women",
+      "estimatedVictimCount": 19,
+      "riskScore": 92.3,
+      "isActive": true,
+      "routeType": "Regional",
+      "points": [
+        { "latitude": -15.4167, "longitude": 28.2833, "location": "Lusaka, Zambia", "pointType": "Origin", "order": 1 },
+        { "latitude": -17.8252, "longitude": 31.0335, "location": "Harare, Zimbabwe", "pointType": "Origin", "order": 2 },
+        { "latitude": -24.6282, "longitude": 25.9231, "location": "Gaborone, Botswana", "pointType": "Transit", "order": 3 },
+        { "latitude": -33.9249, "longitude": 18.4241, "location": "Cape Town, South Africa", "pointType": "Destination", "order": 4 },
+        { "latitude": -26.2041, "longitude": 28.0473, "location": "Johannesburg, South Africa", "pointType": "Destination", "order": 5 }
+      ]
+    },
+    {
+      "id": "route-003-copperbelt",
+      "name": "Copperbelt Labor Exploitation Route",
+      "description": "Cross-border labor exploitation in mining sector",
+      "estimatedVictimCount": 31,
+      "riskScore": 78.9,
+      "isActive": true,
+      "routeType": "Cross-border",
+      "points": [
+        { "latitude": -11.6609, "longitude": 27.4794, "location": "DRC Border", "pointType": "Origin", "order": 1 },
+        { "latitude": -12.9717, "longitude": 28.6366, "location": "Ndola, Zambia", "pointType": "Destination", "order": 2 },
+        { "latitude": -12.8009, "longitude": 28.2137, "location": "Kitwe, Zambia", "pointType": "Destination", "order": 3 }
+      ]
+    },
+    {
+      "id": "route-004-tanzania",
+      "name": "Tanzania Transit Corridor",
+      "description": "Transit route through Tanzania for East African trafficking",
+      "estimatedVictimCount": 15,
+      "riskScore": 75.2,
+      "isActive": true,
+      "routeType": "International",
+      "points": [
+        { "latitude": -15.4167, "longitude": 28.2833, "location": "Lusaka, Zambia", "pointType": "Origin", "order": 1 },
+        { "latitude": -8.9094, "longitude": 33.4608, "location": "Mbeya, Tanzania", "pointType": "Transit", "order": 2 },
+        { "latitude": -6.7924, "longitude": 39.2083, "location": "Dar es Salaam, Tanzania", "pointType": "Transit", "order": 3 },
+        { "latitude": 1.2921, "longitude": 36.8219, "location": "Nairobi, Kenya", "pointType": "Destination", "order": 4 }
+      ]
+    }
+  ],
+  "heatmapData": {
+    "crime": {
+      "title": "Crime Activity Heatmap",
+      "description": "Concentration of reported criminal activities",
+      "points": [
+        { "latitude": -15.4173, "longitude": 28.2871, "intensity": 0.95, "count": 45 },
+        { "latitude": -15.4200, "longitude": 28.2900, "intensity": 0.85, "count": 38 },
+        { "latitude": -15.4100, "longitude": 28.2750, "intensity": 0.78, "count": 32 },
+        { "latitude": -15.4500, "longitude": 28.2500, "intensity": 0.92, "count": 41 },
+        { "latitude": -15.3833, "longitude": 28.3167, "intensity": 0.72, "count": 28 },
+        { "latitude": -15.4300, "longitude": 28.3000, "intensity": 0.65, "count": 22 },
+        { "latitude": -15.4050, "longitude": 28.2600, "intensity": 0.58, "count": 19 },
+        { "latitude": -15.4400, "longitude": 28.2700, "intensity": 0.82, "count": 35 },
+        { "latitude": -15.3900, "longitude": 28.2950, "intensity": 0.55, "count": 17 },
+        { "latitude": -15.4250, "longitude": 28.2400, "intensity": 0.68, "count": 25 }
+      ]
+    },
+    "trafficking": {
+      "title": "Trafficking Activity Heatmap",
+      "description": "Areas with reported trafficking incidents",
+      "points": [
+        { "latitude": -15.4167, "longitude": 28.2833, "intensity": 0.98, "count": 12 },
+        { "latitude": -15.9994, "longitude": 28.8508, "intensity": 0.88, "count": 9 },
+        { "latitude": -12.9717, "longitude": 28.6366, "intensity": 0.75, "count": 7 },
+        { "latitude": -17.8419, "longitude": 25.8544, "intensity": 0.62, "count": 5 },
+        { "latitude": -14.4469, "longitude": 28.4464, "intensity": 0.45, "count": 3 }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2024-01-23T12:00:00Z",
+    "dataSource": "Intelligence Platform Mock Data",
+    "version": "1.0",
+    "defaultCenter": { "latitude": -15.4167, "longitude": 28.2833 },
+    "defaultZoom": 7,
+    "markerTypes": [
+      { "type": "incident", "label": "Incident", "color": "#ef4444", "icon": "report" },
+      { "type": "hotspot", "label": "Hotspot", "color": "#f59e0b", "icon": "whatshot" },
+      { "type": "territory", "label": "Territory", "color": "#8b5cf6", "icon": "location_city" },
+      { "type": "route", "label": "Route Point", "color": "#3b82f6", "icon": "route" }
+    ]
+  }
+}

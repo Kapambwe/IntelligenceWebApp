@@ -1,0 +1,1171 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "02723830-192e-1945-0e7d-006918a5cce3",
+      "EntityId": "04b6384d-13d5-12fc-1612-00b1b656d827",
+      "EntityName": "Commercial banks - Kitwe",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2026-01-09T17:30:30Z",
+      "Notes": "Licensing for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-08T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02532508-0ca4-227c-250e-00560fc4240f",
+      "EntityId": "0496b602-0ae8-0fb7-25b1-002206ab96cf",
+      "EntityName": "Bureau de change - Lusaka",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-24T17:30:30Z",
+      "Notes": "Licensing for financial stability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-21T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "04236afe-07d3-048e-096c-0074a8272cd3",
+      "EntityId": "01da6f28-082e-1423-1b36-009947e51481",
+      "EntityName": "Microfinance institutions - Lusaka",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-26T17:30:30Z",
+      "Notes": "Market intervention for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-13T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-01T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04e140a4-1e9b-1344-1ead-00e85f2cafe2",
+      "EntityId": "01c5142f-1c88-0bbc-21da-00499df1446c",
+      "EntityName": "Microfinance institutions - Livingstone",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-08T17:30:30Z",
+      "Notes": "Market intervention for reserve management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-30T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-23T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02230c96-0913-13b7-1d9a-00223a0fe06f",
+      "EntityId": "03624877-1763-0574-18fe-00995f321515",
+      "EntityName": "Bureau de change - Ndola",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-18T17:30:30Z",
+      "Notes": "Monetary regulation for financial stability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-27T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-22T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "038724cd-0497-1873-1831-00630e86efa6",
+      "EntityId": "012c0e72-2253-1106-1e00-0084f2d10133",
+      "EntityName": "Commercial banks - Livingstone",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-24T17:30:30Z",
+      "Notes": "Supervision for financial stability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "034d7de8-26a9-0daf-200b-003dcdfc8ea7",
+      "EntityId": "034cea78-0f4a-20e8-0441-00946b238abf",
+      "EntityName": "Bureau de change - Ndola",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-11T17:30:30Z",
+      "Notes": "Licensing for reserve management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-23T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02b5aef8-20d1-231a-1f8d-00bb276f6b1e",
+      "EntityId": "00a3b5f1-21d8-1b19-0fd5-0053f3ca8bee",
+      "EntityName": "Microfinance institutions - Livingstone",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-02T17:30:30Z",
+      "Notes": "Market intervention for foreign exchange verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "033cd8d6-2318-1917-1a18-0097209c3448",
+      "EntityId": "039b0d3e-1970-1bd9-1d22-0044e8aab42b",
+      "EntityName": "Bureau de change - Livingstone",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-01T17:30:30Z",
+      "Notes": "Licensing for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0216797d-172f-25c8-0b86-00992cc31061",
+      "EntityId": "0140ccb1-2035-1f2b-1157-00bbb518bfde",
+      "EntityName": "Microfinance institutions - Kitwe",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2026-01-16T17:30:30Z",
+      "Notes": "Market intervention for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00b8ca52-17e6-2394-2249-0056236869fc",
+      "EntityId": "03fa42d0-1c8b-1efa-1450-006de1e30688",
+      "EntityName": "Commercial banks - Livingstone",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-11-18T17:30:30Z",
+      "Notes": "Licensing for financial stability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-02T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-17T17:30:30Z"
+    },
+    {
+      "Id": "01f3b5bb-1ab8-22bf-118c-00730514155b",
+      "EntityId": "04bb6f96-159c-1937-1eaa-005528d41289",
+      "EntityName": "Financial institutions - Kabwe",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-23T17:30:30Z",
+      "Notes": "Monetary regulation for financial stability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-23T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-14T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-06T17:30:30Z"
+    },
+    {
+      "Id": "03b1104f-1a96-1102-2068-001b372b594d",
+      "EntityId": "03051eb3-22c3-0684-0ee2-00aba7d9f5a3",
+      "EntityName": "Commercial banks - Livingstone",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-06T17:30:30Z",
+      "Notes": "Supervision for reserve management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-01T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-28T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e23e01-0509-19fa-26f1-001ce456ae13",
+      "EntityId": "01444d6a-1b83-0a7e-18b9-00ddf86ed971",
+      "EntityName": "Microfinance institutions - Livingstone",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-02T17:30:30Z",
+      "Notes": "Market intervention for monetary policy verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04562be2-05ae-251d-0f07-007796d05cc4",
+      "EntityId": "01dc5978-1e90-1d7e-23b0-00875bbf8403",
+      "EntityName": "Financial institutions - Kabwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "Notes": "Licensing for foreign exchange verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0494e861-1109-1eb9-2178-00ce3d273b10",
+      "EntityId": "05770a65-1168-1a6c-2181-00542618cb79",
+      "EntityName": "Financial institutions - Ndola",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-17T17:30:30Z",
+      "Notes": "Supervision for monetary policy verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-20T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "00d3b3d5-1317-07a3-2457-0055e188c3dd",
+      "EntityId": "053126e2-13a7-069f-265b-001a86adbb53",
+      "EntityName": "Bureau de change - Ndola",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-03T17:30:30Z",
+      "Notes": "Supervision for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-21T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03168937-1803-23b9-23c4-002dde4fecf0",
+      "EntityId": "03c3848a-0ef6-1900-1449-00b549f61da3",
+      "EntityName": "Bureau de change - Livingstone",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-08T17:30:30Z",
+      "Notes": "Licensing for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-06T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00d708c5-2125-0db8-06e9-00a91e439bd3",
+      "EntityId": "00a414a1-1cc4-1c10-16e6-00dc27b2b83f",
+      "EntityName": "Bureau de change - Ndola",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-29T17:30:30Z",
+      "Notes": "Policy implementation for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "053c6d2d-113b-2057-2041-005db8788436",
+      "EntityId": "036edfb3-1075-1129-0d4b-009ec69cbf8a",
+      "EntityName": "Bureau de change - Kabwe",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-22T17:30:30Z",
+      "Notes": "Licensing for monetary policy verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-29T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-09T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "051a2908-19bf-1220-0b52-00cc849269e8",
+      "EntityId": "03f377ad-204d-1545-157b-002f849919a1",
+      "EntityName": "Commercial banks - Kitwe",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-11-15T17:30:30Z",
+      "Notes": "Supervision for reserve management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "027ef335-2557-1b4e-1a1f-00958370ebd3",
+      "EntityId": "012a8515-0957-2069-14a7-008d101351ed",
+      "EntityName": "Commercial banks - Ndola",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-24T17:30:30Z",
+      "Notes": "Supervision for financial stability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-06T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-11T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "051ba3b2-25ae-24a2-1bf6-00dedbc1eaba",
+      "EntityId": "02730b21-13b5-1a35-2167-0058610159a9",
+      "EntityName": "Commercial banks - Kitwe",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-31T17:30:30Z",
+      "Notes": "Monetary regulation for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04bb8bf6-0c43-20ec-175b-005e1b41bbf1",
+      "EntityId": "02116a86-0f28-03fd-1929-00c0ca69238e",
+      "EntityName": "Commercial banks - Livingstone",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-08T17:30:30Z",
+      "Notes": "Market intervention for reserve management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03c62a14-26e8-155f-1565-001bdd18ad29",
+      "EntityId": "00a70680-2302-152b-1751-00cd9aad53e8",
+      "EntityName": "Commercial banks - Kabwe",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-27T17:30:30Z",
+      "Notes": "Supervision for monetary policy verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05f2a1ed-133c-0938-04ef-005f5f4daa6a",
+      "EntityId": "04b94bc3-0664-06d8-16e7-007ec8b15dd9",
+      "EntityName": "Commercial banks - Lusaka",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-12-30T17:30:30Z",
+      "Notes": "Market intervention for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-29T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0125fdf7-2030-1a2c-0a82-00199682e4a7",
+      "EntityId": "0451d0bb-1e8b-0850-1c6d-007b4c11a2ab",
+      "EntityName": "Financial institutions - Kitwe",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-24T17:30:30Z",
+      "Notes": "Supervision for reserve management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-06T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02ca64e8-1d8d-21c4-23fc-00c5700810f0",
+      "EntityId": "05716249-13d9-1e43-08cd-007c68dcb60b",
+      "EntityName": "Microfinance institutions - Lusaka",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-10T17:30:30Z",
+      "Notes": "Supervision for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "048995c1-20be-250a-158b-0098a1aace5d",
+      "EntityId": "00b3a001-0c34-1beb-134f-009ce12275fa",
+      "EntityName": "Financial institutions - Livingstone",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-03T17:30:30Z",
+      "Notes": "Supervision for financial stability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-26T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-11-21T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "047d1c73-1fa1-08b9-140b-00205470059c",
+      "EntityId": "02d153be-1dea-0aaf-1f61-003b5162cffd",
+      "EntityName": "Microfinance institutions - Lusaka",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-12-05T17:30:30Z",
+      "Notes": "Monetary regulation for foreign exchange verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-28T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "02bef927-03e8-0591-2464-0055cb6636b8",
+      "EntityId": "00da0f07-20d6-10f7-1f8a-00a335ccfdde",
+      "EntityName": "Commercial banks - Lusaka",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-10T17:30:30Z",
+      "Notes": "Supervision for financial stability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-20T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02b046ed-0815-0467-1684-00a13b583eaf",
+      "EntityId": "02eb8b81-1d98-18ea-05f6-00e8bbe69f0b",
+      "EntityName": "Commercial banks - Lusaka",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-05T17:30:30Z",
+      "Notes": "Policy implementation for financial stability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-02T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04160669-1fed-124c-1343-004105275736",
+      "EntityId": "04abb1aa-2199-09dc-166c-007b63be12a8",
+      "EntityName": "Financial institutions - Livingstone",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-07T17:30:30Z",
+      "Notes": "Licensing for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-23T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0235ceff-08de-11e7-21b7-00482bc04902",
+      "EntityId": "01570b14-2692-092b-229c-00e3bee8a1f5",
+      "EntityName": "Microfinance institutions - Ndola",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-10T17:30:30Z",
+      "Notes": "Monetary regulation for reserve management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-03T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "057b5a42-0c06-1eb5-228a-0094381fe6e5",
+      "EntityId": "00c636ee-1139-0dc5-09db-002996e8e565",
+      "EntityName": "Financial institutions - Livingstone",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-25T17:30:30Z",
+      "Notes": "Licensing for foreign exchange verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01eed311-22e8-1f66-1904-0018f75e80a7",
+      "EntityId": "031ffdce-1014-1163-2189-00798dc23c04",
+      "EntityName": "Financial institutions - Kitwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-10-29T17:30:30Z",
+      "Notes": "Licensing for foreign exchange verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-23T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02ff8f13-1e52-0f01-1898-003d4770b443",
+      "EntityId": "03dc7002-0a9c-1534-225b-009badcafca7",
+      "EntityName": "Commercial banks - Kabwe",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-25T17:30:30Z",
+      "Notes": "Policy implementation for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05992aae-1be1-096c-0524-00e5b6b67e58",
+      "EntityId": "0541cb6a-0555-26f9-1fae-00a62abaf7b7",
+      "EntityName": "Financial institutions - Ndola",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-30T17:30:30Z",
+      "Notes": "Licensing for monetary policy verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-28T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "046f99c9-176c-2415-0562-00a8191a05e1",
+      "EntityId": "01bee7ed-17ed-24a1-130e-005f5c210431",
+      "EntityName": "Commercial banks - Lusaka",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-07T17:30:30Z",
+      "Notes": "Monetary regulation for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04c366c1-10d8-1071-1b6c-003fba01d4e4",
+      "EntityId": "052ac423-0da3-2539-162f-00c9d8299126",
+      "EntityName": "Bureau de change - Kabwe",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-18T17:30:30Z",
+      "Notes": "Supervision for monetary policy verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-29T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "015ed9a3-1d5e-1b1c-1c4b-00dfbf8a3b75",
+      "EntityId": "0598d121-257f-1e3c-0446-0072513179b0",
+      "EntityName": "Bureau de change - Livingstone",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-17T17:30:30Z",
+      "Notes": "Supervision for monetary policy verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-21T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "03edfae7-1554-1208-16c6-0073f8827d98",
+      "EntityId": "05430192-26a4-0432-245b-00ca06e32e09",
+      "EntityName": "Financial institutions - Kabwe",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-10-26T17:30:30Z",
+      "Notes": "Monetary regulation for reserve management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "02c11606-12f6-0420-0f46-00cda5d3fa3e",
+      "EntityId": "02156cf7-1bd2-2405-21ce-004d0c0c3250",
+      "EntityName": "Financial institutions - Kitwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2026-01-12T17:30:30Z",
+      "Notes": "Policy implementation for monetary policy verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-28T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "011191b1-2254-16d6-1325-0027b37ea314",
+      "EntityId": "012664ee-0dd0-17f7-11e4-00cc33b256b7",
+      "EntityName": "Bureau de change - Ndola",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-28T17:30:30Z",
+      "Notes": "Monetary regulation for foreign exchange verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-25T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "00bb8e7d-23bf-20d4-1cf4-00d16a4e015b",
+      "EntityId": "050d52cd-06d2-0ff6-07c3-00cc475fe098",
+      "EntityName": "Financial institutions - Ndola",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-06T17:30:30Z",
+      "Notes": "Supervision for foreign exchange verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-25T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "054bac05-0847-22d1-1b88-00b3e7ac56a4",
+      "EntityId": "023a0290-222b-17c9-0c31-009bb80ace79",
+      "EntityName": "Commercial banks - Livingstone",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-06T17:30:30Z",
+      "Notes": "Market intervention for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-06T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "023a57d8-135f-0a4e-096a-00c177583748",
+      "EntityId": "05d934d2-1ed3-2538-19ac-00e0eb94ec8b",
+      "EntityName": "Commercial banks - Ndola",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-18T17:30:30Z",
+      "Notes": "Market intervention for reserve management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-21T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04dc5b8c-11e1-0dae-046a-00663e3fb580",
+      "EntityId": "01057f99-08bb-2482-061c-001f2af5041f",
+      "EntityName": "Bureau de change - Kabwe",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-01T17:30:30Z",
+      "Notes": "Licensing for foreign exchange verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "00a2502d-0891-0f45-0db8-00a8e9097f9f",
+      "EntityId": "03b039ef-0834-20a7-0d00-00779e038d71",
+      "EntityName": "Commercial banks - Kitwe",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-10-26T17:30:30Z",
+      "Notes": "Licensing for banking supervision verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02e2c12b-0eac-0b74-0a6e-001e33d2eee4",
+      "EntityId": "01a4e2f5-06d0-1c86-0da1-00c876443261",
+      "EntityName": "Commercial banks - Livingstone",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-23T17:30:30Z",
+      "Notes": "Supervision for monetary policy verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-25T17:30:30Z"
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 10,
+    "Pending": 25,
+    "Failed": 15
+  }
+}

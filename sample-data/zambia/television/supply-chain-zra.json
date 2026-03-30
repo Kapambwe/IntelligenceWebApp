@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "0386207a-238b-0ec8-2522-0085bc123bdf",
+      "Name": "Featured subjects - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 76.4,
+      "IsCritical": false,
+      "Products": [
+        "investigative journalism"
+      ],
+      "AnnualSpend": 1085540.62
+    },
+    {
+      "Id": "02f4e499-1657-0f22-0959-00227c86561f",
+      "Name": "Public figures - Kitwe",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 86.5,
+      "IsCritical": true,
+      "Products": [
+        "news coverage"
+      ],
+      "AnnualSpend": 6013497.43
+    },
+    {
+      "Id": "042bc9c7-1f7b-1518-1879-00be3e217636",
+      "Name": "Public figures - Kitwe",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 88.4,
+      "IsCritical": true,
+      "Products": [
+        "news coverage"
+      ],
+      "AnnualSpend": 1341159.84
+    },
+    {
+      "Id": "05d7a7ba-0587-0f02-24bb-0022dfe50587",
+      "Name": "Public figures - nationwide coverage",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 48.1,
+      "IsCritical": false,
+      "Products": [
+        "news coverage"
+      ],
+      "AnnualSpend": 4460932.14
+    },
+    {
+      "Id": "00aa1235-1595-0da8-24d9-001ff0573f1c",
+      "Name": "Public figures - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 93.8,
+      "IsCritical": true,
+      "Products": [
+        "documentary production"
+      ],
+      "AnnualSpend": 4341818.91
+    },
+    {
+      "Id": "023a6a03-164d-10ca-1af4-003ca9677880",
+      "Name": "Government entities - Southern Province",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 47.3,
+      "IsCritical": false,
+      "Products": [
+        "media scrutiny"
+      ],
+      "AnnualSpend": 8890740.16
+    },
+    {
+      "Id": "051b32ea-1149-2185-2641-006637f3f2dc",
+      "Name": "Public figures - nationwide coverage",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 46.0,
+      "IsCritical": false,
+      "Products": [
+        "media scrutiny"
+      ],
+      "AnnualSpend": 6255465.08
+    },
+    {
+      "Id": "01bf18ec-245f-06fd-12e9-009a7849bec1",
+      "Name": "Government entities - Copperbelt",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 63.9,
+      "IsCritical": false,
+      "Products": [
+        "investigative journalism"
+      ],
+      "AnnualSpend": 3631162.53
+    },
+    {
+      "Id": "02d155d8-2701-253b-1214-009215fcc4ca",
+      "Name": "Corporations - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 57.9,
+      "IsCritical": true,
+      "Products": [
+        "news coverage"
+      ],
+      "AnnualSpend": 7493575.99
+    },
+    {
+      "Id": "0227d8ef-0683-1a55-14fd-001c8e7549d4",
+      "Name": "Public figures - Lusaka",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 68.6,
+      "IsCritical": false,
+      "Products": [
+        "public accountability"
+      ],
+      "AnnualSpend": 6212298.38
+    },
+    {
+      "Id": "0517f6d7-129e-0b39-1a80-0047a9357211",
+      "Name": "Government entities - nationwide coverage",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 53.5,
+      "IsCritical": false,
+      "Products": [
+        "investigative journalism"
+      ],
+      "AnnualSpend": 2500711.42
+    },
+    {
+      "Id": "02ab6c3c-055a-264b-0f19-001a6752e685",
+      "Name": "Public figures - Southern Province",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 57.1,
+      "IsCritical": false,
+      "Products": [
+        "media scrutiny"
+      ],
+      "AnnualSpend": 1493608.65
+    },
+    {
+      "Id": "056b834b-1496-2173-09db-00b10b050e41",
+      "Name": "Government entities - Copperbelt",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 90.9,
+      "IsCritical": false,
+      "Products": [
+        "news coverage"
+      ],
+      "AnnualSpend": 6059349.5
+    },
+    {
+      "Id": "04f2bb9a-04e1-12bf-127e-00763d87c2cc",
+      "Name": "Public figures - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 92.7,
+      "IsCritical": true,
+      "Products": [
+        "documentary production"
+      ],
+      "AnnualSpend": 1859111.35
+    },
+    {
+      "Id": "0467b359-0adb-1180-2330-004cf6937176",
+      "Name": "Government entities - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 66.7,
+      "IsCritical": false,
+      "Products": [
+        "documentary production"
+      ],
+      "AnnualSpend": 3726080.11
+    },
+    {
+      "Id": "015c816a-1358-0757-09b3-006f3c763cf2",
+      "Name": "Featured subjects - Copperbelt",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 79.2,
+      "IsCritical": false,
+      "Products": [
+        "public accountability"
+      ],
+      "AnnualSpend": 6060454.4
+    },
+    {
+      "Id": "04007388-16c5-1cb6-19b0-00e287e9e783",
+      "Name": "Featured subjects - Lusaka",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 70.0,
+      "IsCritical": true,
+      "Products": [
+        "investigative journalism"
+      ],
+      "AnnualSpend": 9988743.1
+    },
+    {
+      "Id": "01359baa-03ef-0f31-05bf-006f6366e7b9",
+      "Name": "Public figures - Kitwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 65.2,
+      "IsCritical": false,
+      "Products": [
+        "investigative journalism"
+      ],
+      "AnnualSpend": 6277485.77
+    },
+    {
+      "Id": "01a824aa-090d-1614-0937-0018f7e9e742",
+      "Name": "Featured subjects - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 74.2,
+      "IsCritical": false,
+      "Products": [
+        "media scrutiny"
+      ],
+      "AnnualSpend": 4451435.91
+    },
+    {
+      "Id": "00f10d03-2305-17ce-0601-00bd2c18e468",
+      "Name": "Public figures - nationwide coverage",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 68.4,
+      "IsCritical": true,
+      "Products": [
+        "public accountability"
+      ],
+      "AnnualSpend": 7970005.35
+    },
+    {
+      "Id": "04f94d6f-09d2-043f-24e7-00510aefa25e",
+      "Name": "Featured subjects - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 52.3,
+      "IsCritical": true,
+      "Products": [
+        "media scrutiny"
+      ],
+      "AnnualSpend": 5654047.22
+    },
+    {
+      "Id": "0504132a-1432-1869-26be-00277c747bc1",
+      "Name": "Corporations - nationwide coverage",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 41.9,
+      "IsCritical": true,
+      "Products": [
+        "documentary production"
+      ],
+      "AnnualSpend": 4007686.87
+    },
+    {
+      "Id": "02d41194-25f1-0b59-19d4-00594af7c231",
+      "Name": "Government entities - Southern Province",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 44.2,
+      "IsCritical": true,
+      "Products": [
+        "documentary production"
+      ],
+      "AnnualSpend": 1866794.26
+    },
+    {
+      "Id": "029195f9-0ad5-07ff-1041-007f86a0687a",
+      "Name": "Public figures - Copperbelt",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 48.7,
+      "IsCritical": false,
+      "Products": [
+        "documentary production"
+      ],
+      "AnnualSpend": 1124920.42
+    },
+    {
+      "Id": "0338f204-175c-1c23-09ab-009e36c5fe1b",
+      "Name": "Government entities - nationwide coverage",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 77.1,
+      "IsCritical": true,
+      "Products": [
+        "public accountability"
+      ],
+      "AnnualSpend": 2449507.81
+    },
+    {
+      "Id": "03652f67-0803-0c29-22a5-003c4ac0c111",
+      "Name": "Government entities - nationwide coverage",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 72.5,
+      "IsCritical": false,
+      "Products": [
+        "investigative journalism"
+      ],
+      "AnnualSpend": 6134804.98
+    },
+    {
+      "Id": "04ff2731-1cdf-2217-232f-005c5b281381",
+      "Name": "Government entities - Southern Province",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 82.0,
+      "IsCritical": false,
+      "Products": [
+        "documentary production"
+      ],
+      "AnnualSpend": 6833810.0
+    },
+    {
+      "Id": "02e25430-0a40-0e62-1156-00691a06a6ef",
+      "Name": "Corporations - Copperbelt",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 49.4,
+      "IsCritical": false,
+      "Products": [
+        "investigative journalism"
+      ],
+      "AnnualSpend": 847825.25
+    },
+    {
+      "Id": "03acc894-1e2b-1380-0ad4-00c1416ad235",
+      "Name": "Corporations - Southern Province",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 44.2,
+      "IsCritical": false,
+      "Products": [
+        "news coverage"
+      ],
+      "AnnualSpend": 9608607.96
+    },
+    {
+      "Id": "0252a6ea-21be-054f-0f2c-006f3446305a",
+      "Name": "Government entities - Southern Province",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 91.8,
+      "IsCritical": false,
+      "Products": [
+        "media scrutiny"
+      ],
+      "AnnualSpend": 5408451.33
+    },
+    {
+      "Id": "05330b79-0bfe-2204-0bf2-004aa941e167",
+      "Name": "Corporations - Southern Province",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 57.1,
+      "IsCritical": false,
+      "Products": [
+        "news coverage"
+      ],
+      "AnnualSpend": 7524957.68
+    },
+    {
+      "Id": "01952d48-1491-1962-0e6d-00d38f15576a",
+      "Name": "Government entities - Copperbelt",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 91.1,
+      "IsCritical": true,
+      "Products": [
+        "news coverage"
+      ],
+      "AnnualSpend": 7147714.31
+    },
+    {
+      "Id": "021fffcd-1978-18e4-143c-005030404a84",
+      "Name": "Government entities - nationwide coverage",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 76.9,
+      "IsCritical": false,
+      "Products": [
+        "documentary production"
+      ],
+      "AnnualSpend": 8745950.87
+    },
+    {
+      "Id": "04d642f9-09c5-107c-0b26-002905feb21d",
+      "Name": "Featured subjects - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 80.4,
+      "IsCritical": true,
+      "Products": [
+        "media scrutiny"
+      ],
+      "AnnualSpend": 2598529.51
+    },
+    {
+      "Id": "0189436a-14ae-056c-0d39-00bbeb781a31",
+      "Name": "Public figures - Kitwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 56.2,
+      "IsCritical": true,
+      "Products": [
+        "public accountability"
+      ],
+      "AnnualSpend": 5878867.67
+    },
+    {
+      "Id": "023fab64-1bfe-1758-0d03-00d2cda27451",
+      "Name": "Public figures - Southern Province",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 85.8,
+      "IsCritical": true,
+      "Products": [
+        "media scrutiny"
+      ],
+      "AnnualSpend": 585881.58
+    },
+    {
+      "Id": "05bffd54-1fb4-1d92-1690-008bcfe311dd",
+      "Name": "Government entities - Lusaka",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 72.4,
+      "IsCritical": true,
+      "Products": [
+        "public accountability"
+      ],
+      "AnnualSpend": 6660635.79
+    },
+    {
+      "Id": "045c7788-1050-261a-06be-0023d167aefe",
+      "Name": "Government entities - Southern Province",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 93.4,
+      "IsCritical": true,
+      "Products": [
+        "investigative journalism"
+      ],
+      "AnnualSpend": 506154.84
+    },
+    {
+      "Id": "053695ec-2473-0983-2437-00ab4d6183fc",
+      "Name": "Corporations - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 88.5,
+      "IsCritical": false,
+      "Products": [
+        "news coverage"
+      ],
+      "AnnualSpend": 3447339.23
+    },
+    {
+      "Id": "00a35fd7-153a-0e18-1bf2-0087555a4b39",
+      "Name": "Public figures - Kitwe",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 88.5,
+      "IsCritical": false,
+      "Products": [
+        "media scrutiny"
+      ],
+      "AnnualSpend": 3301976.38
+    },
+    {
+      "Id": "01a6d227-0753-23be-0bd2-001749a4b832",
+      "Name": "Public figures - nationwide coverage",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 51.8,
+      "IsCritical": false,
+      "Products": [
+        "media scrutiny"
+      ],
+      "AnnualSpend": 6241328.42
+    },
+    {
+      "Id": "00f405c5-161f-07bb-2488-006309336c39",
+      "Name": "Public figures - Southern Province",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 60.1,
+      "IsCritical": true,
+      "Products": [
+        "media scrutiny"
+      ],
+      "AnnualSpend": 3909703.61
+    },
+    {
+      "Id": "05e49ecc-1e01-196d-209b-00a9ae6d16f0",
+      "Name": "Corporations - Southern Province",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 44.0,
+      "IsCritical": false,
+      "Products": [
+        "news coverage"
+      ],
+      "AnnualSpend": 8902737.54
+    },
+    {
+      "Id": "00dc2fd8-2200-16f2-1185-005002daba54",
+      "Name": "Public figures - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 56.0,
+      "IsCritical": false,
+      "Products": [
+        "public accountability"
+      ],
+      "AnnualSpend": 5668872.78
+    },
+    {
+      "Id": "035c97a1-0bb3-0738-055b-00e83d82d762",
+      "Name": "Corporations - Southern Province",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 65.7,
+      "IsCritical": true,
+      "Products": [
+        "investigative journalism"
+      ],
+      "AnnualSpend": 3610022.64
+    },
+    {
+      "Id": "04faba47-163b-104f-1f91-0051abf4fcbc",
+      "Name": "Featured subjects - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 88.5,
+      "IsCritical": false,
+      "Products": [
+        "investigative journalism"
+      ],
+      "AnnualSpend": 8578926.92
+    },
+    {
+      "Id": "03611c81-05ec-2268-20d7-00920c40a309",
+      "Name": "Government entities - Lusaka",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 80.3,
+      "IsCritical": true,
+      "Products": [
+        "media scrutiny"
+      ],
+      "AnnualSpend": 4547689.13
+    },
+    {
+      "Id": "0391e94c-0929-2090-0f44-00e7ea53ee1f",
+      "Name": "Featured subjects - Kitwe",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 67.6,
+      "IsCritical": true,
+      "Products": [
+        "news coverage"
+      ],
+      "AnnualSpend": 7922236.19
+    },
+    {
+      "Id": "04404f62-14a5-26e7-165a-001c041d62d5",
+      "Name": "Featured subjects - Southern Province",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 53.9,
+      "IsCritical": false,
+      "Products": [
+        "public accountability"
+      ],
+      "AnnualSpend": 4245313.8
+    },
+    {
+      "Id": "022f7dfe-2428-1a73-1cbd-00409bd13fb5",
+      "Name": "Public figures - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 84.1,
+      "IsCritical": true,
+      "Products": [
+        "public accountability"
+      ],
+      "AnnualSpend": 3870493.4
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "0189057f-20af-1015-20ce-00977c574942",
+      "FromSupplierId": "04007388-16c5-1cb6-19b0-00e287e9e783",
+      "ToSupplierId": "023fab64-1bfe-1758-0d03-00d2cda27451",
+      "Type": "supplies",
+      "DependencyLevel": 0.65,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04338292-1cc5-19db-21cc-009c648c87f4",
+      "FromSupplierId": "0252a6ea-21be-054f-0f2c-006f3446305a",
+      "ToSupplierId": "02e25430-0a40-0e62-1156-00691a06a6ef",
+      "Type": "partnership",
+      "DependencyLevel": 0.53,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "00a326d6-1af1-0688-1429-00ba28e90c65",
+      "FromSupplierId": "05330b79-0bfe-2204-0bf2-004aa941e167",
+      "ToSupplierId": "03acc894-1e2b-1380-0ad4-00c1416ad235",
+      "Type": "supplies",
+      "DependencyLevel": 0.49,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "021ca1e6-127e-08e0-12a2-0098a97d407f",
+      "FromSupplierId": "01a824aa-090d-1614-0937-0018f7e9e742",
+      "ToSupplierId": "04faba47-163b-104f-1f91-0051abf4fcbc",
+      "Type": "supplies",
+      "DependencyLevel": 0.87,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00ca45f3-1261-1875-1cb5-00765cf4c13c",
+      "FromSupplierId": "01359baa-03ef-0f31-05bf-006f6366e7b9",
+      "ToSupplierId": "00f10d03-2305-17ce-0601-00bd2c18e468",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.42,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03143ded-1403-1622-2283-00cafa5eb3d8",
+      "FromSupplierId": "02f4e499-1657-0f22-0959-00227c86561f",
+      "ToSupplierId": "04007388-16c5-1cb6-19b0-00e287e9e783",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.75,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "023f5028-13c8-131e-1011-007162ba6cd4",
+      "FromSupplierId": "04404f62-14a5-26e7-165a-001c041d62d5",
+      "ToSupplierId": "02e25430-0a40-0e62-1156-00691a06a6ef",
+      "Type": "supplies",
+      "DependencyLevel": 0.87,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "045e0801-159a-113c-1cfd-005739bafce7",
+      "FromSupplierId": "0467b359-0adb-1180-2330-004cf6937176",
+      "ToSupplierId": "01a824aa-090d-1614-0937-0018f7e9e742",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.76,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "052ea51c-0ff4-1dad-1f42-00c0167f7812",
+      "FromSupplierId": "023fab64-1bfe-1758-0d03-00d2cda27451",
+      "ToSupplierId": "0252a6ea-21be-054f-0f2c-006f3446305a",
+      "Type": "supplies",
+      "DependencyLevel": 0.78,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04113006-2337-0a76-14c8-007130ffe316",
+      "FromSupplierId": "053695ec-2473-0983-2437-00ab4d6183fc",
+      "ToSupplierId": "0504132a-1432-1869-26be-00277c747bc1",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.4,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01f7d0f6-0bd1-04da-1da8-00bafc669164",
+      "FromSupplierId": "04faba47-163b-104f-1f91-0051abf4fcbc",
+      "ToSupplierId": "04f94d6f-09d2-043f-24e7-00510aefa25e",
+      "Type": "partnership",
+      "DependencyLevel": 0.41,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02cc838a-0577-08d8-1255-0080a866255a",
+      "FromSupplierId": "00aa1235-1595-0da8-24d9-001ff0573f1c",
+      "ToSupplierId": "045c7788-1050-261a-06be-0023d167aefe",
+      "Type": "partnership",
+      "DependencyLevel": 0.51,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "055145c3-0660-0dac-0f53-00c55864a1c0",
+      "FromSupplierId": "053695ec-2473-0983-2437-00ab4d6183fc",
+      "ToSupplierId": "00dc2fd8-2200-16f2-1185-005002daba54",
+      "Type": "partnership",
+      "DependencyLevel": 0.57,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "022a9d92-2342-2412-0c67-008db4c1163d",
+      "FromSupplierId": "03acc894-1e2b-1380-0ad4-00c1416ad235",
+      "ToSupplierId": "00f405c5-161f-07bb-2488-006309336c39",
+      "Type": "partnership",
+      "DependencyLevel": 0.63,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "00f40a97-2532-0aa9-069d-00cda3711598",
+      "FromSupplierId": "023a6a03-164d-10ca-1af4-003ca9677880",
+      "ToSupplierId": "00dc2fd8-2200-16f2-1185-005002daba54",
+      "Type": "partnership",
+      "DependencyLevel": 0.86,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0415f6f8-1005-08a9-0fa8-0096a96083c9",
+      "FromSupplierId": "01359baa-03ef-0f31-05bf-006f6366e7b9",
+      "ToSupplierId": "05bffd54-1fb4-1d92-1690-008bcfe311dd",
+      "Type": "supplies",
+      "DependencyLevel": 0.72,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "052aebf6-0e4c-1a99-116d-001aa81c3311",
+      "FromSupplierId": "0338f204-175c-1c23-09ab-009e36c5fe1b",
+      "ToSupplierId": "02ab6c3c-055a-264b-0f19-001a6752e685",
+      "Type": "partnership",
+      "DependencyLevel": 0.46,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01ebbdb9-1958-1db0-14ee-0024d0235508",
+      "FromSupplierId": "01a824aa-090d-1614-0937-0018f7e9e742",
+      "ToSupplierId": "015c816a-1358-0757-09b3-006f3c763cf2",
+      "Type": "partnership",
+      "DependencyLevel": 0.4,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "042f9cd8-0ddd-1523-1e11-0066fb79dbc9",
+      "FromSupplierId": "0227d8ef-0683-1a55-14fd-001c8e7549d4",
+      "ToSupplierId": "05d7a7ba-0587-0f02-24bb-0022dfe50587",
+      "Type": "partnership",
+      "DependencyLevel": 0.43,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0572e421-12b0-0b62-17fa-00a4e762cce4",
+      "FromSupplierId": "029195f9-0ad5-07ff-1041-007f86a0687a",
+      "ToSupplierId": "029195f9-0ad5-07ff-1041-007f86a0687a",
+      "Type": "partnership",
+      "DependencyLevel": 0.4,
+      "IsCriticalPath": false
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "operational",
+      "Description": "Concentration of investigative journalism in Southern Province",
+      "ConcentrationLevel": 80.9,
+      "AffectedSuppliers": [
+        "Government entities - Kitwe",
+        "Public figures - Southern Province",
+        "Government entities - nationwide coverage"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "009fd93f-12d6-1ac3-0628-008ee0f076c3",
+      "SupplierId": "0386207a-238b-0ec8-2522-0085bc123bdf",
+      "SupplierName": "Featured subjects - Lusaka",
+      "RiskType": "financial",
+      "Severity": "medium",
+      "Description": "Risk detected in documentary production operations",
+      "DetectedAt": "2025-12-30T17:30:31Z",
+      "IsAcknowledged": true,
+      "AffectedDownstreamSuppliers": [
+        "0517f6d7-129e-0b39-1a80-0047a9357211",
+        "03611c81-05ec-2268-20d7-00920c40a309"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 22,
+    "HighRiskSuppliers": 16,
+    "AverageRiskScore": 68.8,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

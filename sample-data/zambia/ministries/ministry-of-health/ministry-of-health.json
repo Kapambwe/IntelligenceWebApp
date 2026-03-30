@@ -1,0 +1,122 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Ministries",
+    "DisplayName": "Ministry of Health",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Set policy, manage budgets, and coordinate multi-sector responses to revenue and security challenges.",
+    "TopPriorities": [
+      "Prioritize expenditures while improving budget transparency.",
+      "Coordinate with ZRA and Bank of Zambia on revenue vulnerabilities.",
+      "Sustain public-private dialogue on sector reforms."
+    ],
+    "ActiveOperations": [
+      "Budget performance committees reviewing monthly revenue-expenditure data.",
+      "Macro-financial risk analysis modeling using sector data.",
+      "Oversight of transparency initiatives publishing registers online."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Policy announcement on sector transparency",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Required enhanced disclosure and reporting requirements."
+      },
+      {
+        "Title": "Strategic sector review launched",
+        "Date": "2025-12-05T00:00:00Z",
+        "Summary": "Published outlook linking forecasts to development programs."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Related sector ministries",
+      "International development partners"
+    ],
+    "Metrics": {
+      "BudgetCoverage": "80% of planned projects",
+      "ForecastAccuracy": "+/- 1% variance",
+      "Reviews": "14 peer reviews completed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Ministries",
+    "DisplayName": "Ministry of Health - Chipata Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Set policy, manage budgets, and coordinate multi-sector responses to revenue and security challenges.",
+    "TopPriorities": [
+      "Prioritize expenditures while improving budget transparency.",
+      "Coordinate with ZRA and Bank of Zambia on revenue vulnerabilities.",
+      "Sustain public-private dialogue on sector reforms."
+    ],
+    "ActiveOperations": [
+      "Budget performance committees reviewing monthly revenue-expenditure data.",
+      "Macro-financial risk analysis modeling using sector data.",
+      "Oversight of transparency initiatives publishing registers online."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Policy announcement on sector transparency",
+        "Date": "2025-12-22T00:00:00Z",
+        "Summary": "Required enhanced disclosure and reporting requirements."
+      },
+      {
+        "Title": "Strategic sector review launched",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Published outlook linking forecasts to development programs."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Related sector ministries",
+      "International development partners"
+    ],
+    "Metrics": {
+      "BudgetCoverage": "88% of planned projects",
+      "ForecastAccuracy": "+/- 1% variance",
+      "Reviews": "9 peer reviews completed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Ministries",
+    "DisplayName": "Ministry of Health - Chipata Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Set policy, manage budgets, and coordinate multi-sector responses to revenue and security challenges.",
+    "TopPriorities": [
+      "Prioritize expenditures while improving budget transparency.",
+      "Coordinate with ZRA and Bank of Zambia on revenue vulnerabilities.",
+      "Sustain public-private dialogue on sector reforms."
+    ],
+    "ActiveOperations": [
+      "Budget performance committees reviewing monthly revenue-expenditure data.",
+      "Macro-financial risk analysis modeling using sector data.",
+      "Oversight of transparency initiatives publishing registers online."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Policy announcement on sector transparency",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Required enhanced disclosure and reporting requirements."
+      },
+      {
+        "Title": "Strategic sector review launched",
+        "Date": "2025-11-06T00:00:00Z",
+        "Summary": "Published outlook linking forecasts to development programs."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Related sector ministries",
+      "International development partners"
+    ],
+    "Metrics": {
+      "BudgetCoverage": "95% of planned projects",
+      "ForecastAccuracy": "+/- 1% variance",
+      "Reviews": "20 peer reviews completed"
+    }
+  }
+]

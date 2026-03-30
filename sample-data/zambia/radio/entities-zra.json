@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "0350c06a-2095-1f7b-158f-00cb8738ff14",
+      "Name": "News subjects - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 91,
+      "CreatedAt": "2025-02-28T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z"
+    },
+    {
+      "Id": "01e5c830-1233-1014-1239-0064f0645268",
+      "Name": "Public officials - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 44,
+      "CreatedAt": "2023-12-04T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "05b6b6e9-1cdf-0d20-10e0-00e646bcddac",
+      "Name": "Corporations - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 44,
+      "CreatedAt": "2024-01-17T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "042b4158-1063-2615-155a-00bcbe3b019a",
+      "Name": "Public officials - Chipata",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 22,
+      "CreatedAt": "2024-09-22T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "0273a9ba-0fb6-0a47-0d9f-009483dea3a4",
+      "Name": "Corporations - nationwide broadcast",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 89,
+      "CreatedAt": "2023-12-18T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z"
+    },
+    {
+      "Id": "04751859-1fa6-1fcb-1cc3-00c8dec9774d",
+      "Name": "News subjects - Mongu",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 47,
+      "CreatedAt": "2024-12-23T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "01db5ee9-1a70-05a4-2221-00dadbdffc16",
+      "Name": "Public officials - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 83,
+      "CreatedAt": "2024-03-18T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "05a31244-075d-079e-0be9-00346d1e1840",
+      "Name": "Corporations - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2025-01-22T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z"
+    },
+    {
+      "Id": "031d5c57-15f5-1d69-06ac-00a7400984a0",
+      "Name": "News subjects - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 25,
+      "CreatedAt": "2024-11-15T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z"
+    },
+    {
+      "Id": "043ad953-1a0e-109d-1fc2-0021a7334291",
+      "Name": "News subjects - nationwide broadcast",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 71,
+      "CreatedAt": "2025-06-13T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z"
+    },
+    {
+      "Id": "01dc6a5e-1b06-24b6-22cf-001de98318e2",
+      "Name": "Public officials - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 71,
+      "CreatedAt": "2024-08-06T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z"
+    },
+    {
+      "Id": "030373c7-1b0e-1f49-24b3-0062c93302ab",
+      "Name": "Community leaders - Mongu",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 54,
+      "CreatedAt": "2024-01-11T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z"
+    },
+    {
+      "Id": "02b0c632-1ed5-136f-05f4-009132d9c45e",
+      "Name": "Community leaders - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 27,
+      "CreatedAt": "2025-07-23T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z"
+    },
+    {
+      "Id": "03b9b35f-0709-24cc-146c-002bcd5bd05b",
+      "Name": "News subjects - Chipata",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 60,
+      "CreatedAt": "2024-01-06T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z"
+    },
+    {
+      "Id": "028a9c0f-0c98-224e-1813-002f629ddf17",
+      "Name": "News subjects - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 80,
+      "CreatedAt": "2025-07-11T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "04557030-23d2-14bf-0df8-00476db6df3a",
+      "Name": "Public officials - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 62,
+      "CreatedAt": "2023-11-16T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "05d0eb52-1f61-1adf-2206-006358ee98c2",
+      "Name": "News subjects - Chipata",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2025-08-05T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "039e6b53-20b2-233b-05f5-00c1db302124",
+      "Name": "News subjects - Mongu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2025-04-18T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "05c9ed49-1980-052d-1432-007b8f2506d2",
+      "Name": "News subjects - Mongu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 93,
+      "CreatedAt": "2024-04-09T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "04964b30-0e1a-0afa-196f-00c8b89ec30a",
+      "Name": "News subjects - nationwide broadcast",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 94,
+      "CreatedAt": "2024-11-22T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "036c6e48-086b-175b-0dee-004c2c1ec6db",
+      "Name": "Public officials - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 36,
+      "CreatedAt": "2025-03-16T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "00e795bb-0b7c-091b-1580-00204a3475b4",
+      "Name": "News subjects - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 68,
+      "CreatedAt": "2024-05-20T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z"
+    },
+    {
+      "Id": "03a74760-1637-1910-15ba-003c96eb1acd",
+      "Name": "Community leaders - Chipata",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 84,
+      "CreatedAt": "2024-03-26T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "05ac5b05-085f-25c9-14cf-00c156f6ea13",
+      "Name": "Corporations - Mongu",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 79,
+      "CreatedAt": "2023-12-01T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "023f255b-09dc-0834-1fc9-003c0fb77180",
+      "Name": "Corporations - Chipata",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 68,
+      "CreatedAt": "2024-04-05T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "0108919d-10a3-1af3-0f95-008b6abde0ec",
+      "Name": "Community leaders - Chipata",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 88,
+      "CreatedAt": "2025-01-19T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "04020988-113d-0f66-1f38-00aaf3e36cfe",
+      "Name": "Community leaders - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 64,
+      "CreatedAt": "2024-02-23T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "031cb03d-0a26-17ef-181a-00d40e7143ed",
+      "Name": "Corporations - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 56,
+      "CreatedAt": "2024-11-07T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "037e0a35-1f0f-23dd-0843-00a08474ae33",
+      "Name": "Community leaders - Chipata",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 63,
+      "CreatedAt": "2024-01-23T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "0509e42d-061c-1d21-05e7-00de987286ad",
+      "Name": "News subjects - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 84,
+      "CreatedAt": "2025-08-07T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "04a1d90a-0ba6-084c-0888-00a605de2cec",
+      "Name": "News subjects - Mongu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2024-07-30T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "00a192b1-1e4e-2253-0c45-00a7f07e1f5e",
+      "Name": "Public officials - Mongu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 38,
+      "CreatedAt": "2025-10-05T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z"
+    },
+    {
+      "Id": "02422c78-0df0-066f-1dd1-00c83caeaf4a",
+      "Name": "Corporations - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 98,
+      "CreatedAt": "2025-05-23T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "01d37f2b-1eae-1bf8-1477-00c8a02a856c",
+      "Name": "Public officials - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 45,
+      "CreatedAt": "2024-10-30T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "00a671cc-0bb8-09ad-2467-007b7255221e",
+      "Name": "Public officials - Mongu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 50,
+      "CreatedAt": "2024-09-16T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "01e68e9c-145f-1f8a-1530-0021842f8a4a",
+      "Name": "Community leaders - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 83,
+      "CreatedAt": "2024-01-09T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z"
+    },
+    {
+      "Id": "0109c80a-0b13-2130-11ed-005f6e62220b",
+      "Name": "Public officials - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 67,
+      "CreatedAt": "2024-01-19T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "024c3b2e-04e8-0784-1a8b-002311c7df1f",
+      "Name": "Public officials - Mongu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 87,
+      "CreatedAt": "2025-07-14T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "01564fd8-127b-0749-1f82-0059a639d902",
+      "Name": "Public officials - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 54,
+      "CreatedAt": "2025-07-18T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "05af8bfb-2099-1a3a-0a86-00ddc45e92b9",
+      "Name": "Community leaders - Mongu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 51,
+      "CreatedAt": "2023-11-17T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "04ecdb7c-1077-190e-1aa0-00177ad6eade",
+      "Name": "Public officials - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 24,
+      "CreatedAt": "2024-05-14T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z"
+    },
+    {
+      "Id": "059a5c37-07bd-1396-143e-00238b2fb1b2",
+      "Name": "Public officials - nationwide broadcast",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 42,
+      "CreatedAt": "2024-04-03T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "01759e74-0d08-0dfc-1175-0054c946f44b",
+      "Name": "News subjects - Chipata",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 50,
+      "CreatedAt": "2025-01-07T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "00a12d2c-1383-0f52-22d8-00747d162e45",
+      "Name": "News subjects - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 54,
+      "CreatedAt": "2025-09-12T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "05642307-2385-1400-1f67-00c598fc57d2",
+      "Name": "News subjects - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 85,
+      "CreatedAt": "2025-01-01T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "04cb6348-21bf-0a37-0a39-00525005ba4b",
+      "Name": "Corporations - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 38,
+      "CreatedAt": "2024-05-01T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "020fbe3d-25c8-0790-04a6-00b974d2f912",
+      "Name": "Public officials - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2025-10-09T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "03762d16-19a6-0a6b-0cda-00d7f9850210",
+      "Name": "Community leaders - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 50,
+      "CreatedAt": "2024-04-19T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "050dba54-102e-0906-1765-00b298ce13b2",
+      "Name": "Corporations - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 63,
+      "CreatedAt": "2024-01-12T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "0250afdf-04eb-1450-0edf-00b9fd2f70e4",
+      "Name": "News subjects - Chipata",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 45,
+      "CreatedAt": "2025-05-24T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "0350c06a-2095-1f7b-158f-00cb8738ff14",
+      "Name": "News subjects - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 91,
+      "CreatedAt": "2025-02-28T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2022-9482",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public awareness",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative reporting",
+          "Severity": "Medium",
+          "Score": 14
+        },
+        {
+          "Name": "News broadcasting",
+          "Severity": "Critical",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e5c830-1233-1014-1239-0064f0645268",
+      "Name": "Public officials - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 44,
+      "CreatedAt": "2023-12-04T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2024-9944",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Accountability",
+          "Severity": "Critical",
+          "Score": 22
+        },
+        {
+          "Name": "News broadcasting",
+          "Severity": "Medium",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05b6b6e9-1cdf-0d20-10e0-00e646bcddac",
+      "Name": "Corporations - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 44,
+      "CreatedAt": "2024-01-17T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2026-9937",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public awareness",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News broadcasting",
+          "Severity": "Critical",
+          "Score": 29
+        },
+        {
+          "Name": "Investigative reporting",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "042b4158-1063-2615-155a-00bcbe3b019a",
+      "Name": "Public officials - Chipata",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 22,
+      "CreatedAt": "2024-09-22T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2022-7608",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public awareness",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Accountability",
+          "Severity": "Medium",
+          "Score": 38
+        },
+        {
+          "Name": "News broadcasting",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0273a9ba-0fb6-0a47-0d9f-009483dea3a4",
+      "Name": "Corporations - nationwide broadcast",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 89,
+      "CreatedAt": "2023-12-18T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2022-4492",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "community engagement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative reporting",
+          "Severity": "High",
+          "Score": 27
+        },
+        {
+          "Name": "Community engagement",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04751859-1fa6-1fcb-1cc3-00c8dec9774d",
+      "Name": "News subjects - Mongu",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 47,
+      "CreatedAt": "2024-12-23T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2026-1237",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public awareness",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide broadcast",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "High",
+          "Score": 36
+        },
+        {
+          "Name": "Accountability",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01db5ee9-1a70-05a4-2221-00dadbdffc16",
+      "Name": "Public officials - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 83,
+      "CreatedAt": "2024-03-18T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2024-6836",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "Low",
+          "Score": 17
+        },
+        {
+          "Name": "Community engagement",
+          "Severity": "Critical",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05a31244-075d-079e-0be9-00346d1e1840",
+      "Name": "Corporations - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2025-01-22T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2022-3129",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "community engagement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative reporting",
+          "Severity": "High",
+          "Score": 12
+        },
+        {
+          "Name": "Community engagement",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "031d5c57-15f5-1d69-06ac-00a7400984a0",
+      "Name": "News subjects - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 25,
+      "CreatedAt": "2024-11-15T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2024-9323",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public awareness",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News broadcasting",
+          "Severity": "High",
+          "Score": 32
+        },
+        {
+          "Name": "Public awareness",
+          "Severity": "High",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "043ad953-1a0e-109d-1fc2-0021a7334291",
+      "Name": "News subjects - nationwide broadcast",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 71,
+      "CreatedAt": "2025-06-13T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2022-1987",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "High",
+          "Score": 43
+        },
+        {
+          "Name": "Public awareness",
+          "Severity": "Medium",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01dc6a5e-1b06-24b6-22cf-001de98318e2",
+      "Name": "Public officials - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 71,
+      "CreatedAt": "2024-08-06T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2021-4312",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide broadcast",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Community engagement",
+          "Severity": "Low",
+          "Score": 20
+        },
+        {
+          "Name": "Public awareness",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "030373c7-1b0e-1f49-24b3-0062c93302ab",
+      "Name": "Community leaders - Mongu",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 54,
+      "CreatedAt": "2024-01-11T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2020-1378",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news broadcasting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Accountability",
+          "Severity": "High",
+          "Score": 43
+        },
+        {
+          "Name": "News broadcasting",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02b0c632-1ed5-136f-05f4-009132d9c45e",
+      "Name": "Community leaders - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 27,
+      "CreatedAt": "2025-07-23T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2022-4487",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "community engagement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative reporting",
+          "Severity": "High",
+          "Score": 12
+        },
+        {
+          "Name": "Community engagement",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03b9b35f-0709-24cc-146c-002bcd5bd05b",
+      "Name": "News subjects - Chipata",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 60,
+      "CreatedAt": "2024-01-06T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2025-2985",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "Medium",
+          "Score": 39
+        },
+        {
+          "Name": "Accountability",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "028a9c0f-0c98-224e-1813-002f629ddf17",
+      "Name": "News subjects - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 80,
+      "CreatedAt": "2025-07-11T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2023-8671",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Accountability",
+          "Severity": "High",
+          "Score": 13
+        },
+        {
+          "Name": "Accountability",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04557030-23d2-14bf-0df8-00476db6df3a",
+      "Name": "Public officials - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 62,
+      "CreatedAt": "2023-11-16T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2023-9076",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news broadcasting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Community engagement",
+          "Severity": "Low",
+          "Score": 10
+        },
+        {
+          "Name": "Accountability",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d0eb52-1f61-1adf-2206-006358ee98c2",
+      "Name": "News subjects - Chipata",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2025-08-05T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2020-2431",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative reporting",
+          "Severity": "High",
+          "Score": 20
+        },
+        {
+          "Name": "Public awareness",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "039e6b53-20b2-233b-05f5-00c1db302124",
+      "Name": "News subjects - Mongu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2025-04-18T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2022-7871",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public awareness",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative reporting",
+          "Severity": "Low",
+          "Score": 26
+        },
+        {
+          "Name": "News broadcasting",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05c9ed49-1980-052d-1432-007b8f2506d2",
+      "Name": "News subjects - Mongu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 93,
+      "CreatedAt": "2024-04-09T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2020-1121",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news broadcasting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "High",
+          "Score": 39
+        },
+        {
+          "Name": "Investigative reporting",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04964b30-0e1a-0afa-196f-00c8b89ec30a",
+      "Name": "News subjects - nationwide broadcast",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 94,
+      "CreatedAt": "2024-11-22T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2020-7684",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news broadcasting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative reporting",
+          "Severity": "Critical",
+          "Score": 12
+        },
+        {
+          "Name": "News broadcasting",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "036c6e48-086b-175b-0dee-004c2c1ec6db",
+      "Name": "Public officials - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 36,
+      "CreatedAt": "2025-03-16T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2021-9681",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "Critical",
+          "Score": 44
+        },
+        {
+          "Name": "Accountability",
+          "Severity": "High",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00e795bb-0b7c-091b-1580-00204a3475b4",
+      "Name": "News subjects - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 68,
+      "CreatedAt": "2024-05-20T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2022-6646",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News broadcasting",
+          "Severity": "Low",
+          "Score": 16
+        },
+        {
+          "Name": "Public awareness",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03a74760-1637-1910-15ba-003c96eb1acd",
+      "Name": "Community leaders - Chipata",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 84,
+      "CreatedAt": "2024-03-26T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2025-2758",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public awareness",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News broadcasting",
+          "Severity": "Critical",
+          "Score": 42
+        },
+        {
+          "Name": "Accountability",
+          "Severity": "High",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ac5b05-085f-25c9-14cf-00c156f6ea13",
+      "Name": "Corporations - Mongu",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 79,
+      "CreatedAt": "2023-12-01T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2025-1466",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative reporting",
+          "Severity": "Critical",
+          "Score": 18
+        },
+        {
+          "Name": "News broadcasting",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "023f255b-09dc-0834-1fc9-003c0fb77180",
+      "Name": "Corporations - Chipata",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 68,
+      "CreatedAt": "2024-04-05T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2026-3960",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Community engagement",
+          "Severity": "Medium",
+          "Score": 31
+        },
+        {
+          "Name": "Public awareness",
+          "Severity": "Medium",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0108919d-10a3-1af3-0f95-008b6abde0ec",
+      "Name": "Community leaders - Chipata",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 88,
+      "CreatedAt": "2025-01-19T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2022-2818",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide broadcast",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "Medium",
+          "Score": 13
+        },
+        {
+          "Name": "News broadcasting",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04020988-113d-0f66-1f38-00aaf3e36cfe",
+      "Name": "Community leaders - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 64,
+      "CreatedAt": "2024-02-23T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2023-4913",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "High",
+          "Score": 45
+        },
+        {
+          "Name": "Accountability",
+          "Severity": "High",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "031cb03d-0a26-17ef-181a-00d40e7143ed",
+      "Name": "Corporations - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 56,
+      "CreatedAt": "2024-11-07T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2025-1763",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "community engagement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Accountability",
+          "Severity": "Medium",
+          "Score": 12
+        },
+        {
+          "Name": "Public awareness",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "037e0a35-1f0f-23dd-0843-00a08474ae33",
+      "Name": "Community leaders - Chipata",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 63,
+      "CreatedAt": "2024-01-23T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2023-8992",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "community engagement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative reporting",
+          "Severity": "Critical",
+          "Score": 14
+        },
+        {
+          "Name": "News broadcasting",
+          "Severity": "Medium",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0509e42d-061c-1d21-05e7-00de987286ad",
+      "Name": "News subjects - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 84,
+      "CreatedAt": "2025-08-07T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2023-5808",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "community engagement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "Critical",
+          "Score": 10
+        },
+        {
+          "Name": "Community engagement",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04a1d90a-0ba6-084c-0888-00a605de2cec",
+      "Name": "News subjects - Mongu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2024-07-30T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2025-5600",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Community engagement",
+          "Severity": "High",
+          "Score": 26
+        },
+        {
+          "Name": "Investigative reporting",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a192b1-1e4e-2253-0c45-00a7f07e1f5e",
+      "Name": "Public officials - Mongu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 38,
+      "CreatedAt": "2025-10-05T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2021-7341",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news broadcasting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "Critical",
+          "Score": 11
+        },
+        {
+          "Name": "Community engagement",
+          "Severity": "Critical",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02422c78-0df0-066f-1dd1-00c83caeaf4a",
+      "Name": "Corporations - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 98,
+      "CreatedAt": "2025-05-23T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2022-8908",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "Low",
+          "Score": 23
+        },
+        {
+          "Name": "Accountability",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01d37f2b-1eae-1bf8-1477-00c8a02a856c",
+      "Name": "Public officials - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 45,
+      "CreatedAt": "2024-10-30T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2024-2022",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news broadcasting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide broadcast",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative reporting",
+          "Severity": "Low",
+          "Score": 36
+        },
+        {
+          "Name": "Public awareness",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a671cc-0bb8-09ad-2467-007b7255221e",
+      "Name": "Public officials - Mongu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 50,
+      "CreatedAt": "2024-09-16T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2025-5607",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Community engagement",
+          "Severity": "High",
+          "Score": 37
+        },
+        {
+          "Name": "Accountability",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e68e9c-145f-1f8a-1530-0021842f8a4a",
+      "Name": "Community leaders - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 83,
+      "CreatedAt": "2024-01-09T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2026-8549",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Accountability",
+          "Severity": "High",
+          "Score": 23
+        },
+        {
+          "Name": "News broadcasting",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0109c80a-0b13-2130-11ed-005f6e62220b",
+      "Name": "Public officials - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 67,
+      "CreatedAt": "2024-01-19T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2024-6265",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news broadcasting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Accountability",
+          "Severity": "Medium",
+          "Score": 34
+        },
+        {
+          "Name": "Investigative reporting",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "024c3b2e-04e8-0784-1a8b-002311c7df1f",
+      "Name": "Public officials - Mongu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 87,
+      "CreatedAt": "2025-07-14T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2025-9267",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "nationwide broadcast",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "High",
+          "Score": 20
+        },
+        {
+          "Name": "News broadcasting",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01564fd8-127b-0749-1f82-0059a639d902",
+      "Name": "Public officials - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 54,
+      "CreatedAt": "2025-07-18T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2023-4470",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "Medium",
+          "Score": 10
+        },
+        {
+          "Name": "Community engagement",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05af8bfb-2099-1a3a-0a86-00ddc45e92b9",
+      "Name": "Community leaders - Mongu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 51,
+      "CreatedAt": "2023-11-17T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2020-7870",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Community engagement",
+          "Severity": "Medium",
+          "Score": 24
+        },
+        {
+          "Name": "Accountability",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04ecdb7c-1077-190e-1aa0-00177ad6eade",
+      "Name": "Public officials - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 24,
+      "CreatedAt": "2024-05-14T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2021-1302",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Accountability",
+          "Severity": "High",
+          "Score": 27
+        },
+        {
+          "Name": "Public awareness",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "059a5c37-07bd-1396-143e-00238b2fb1b2",
+      "Name": "Public officials - nationwide broadcast",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 42,
+      "CreatedAt": "2024-04-03T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2022-3124",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "investigative reporting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Community engagement",
+          "Severity": "Medium",
+          "Score": 21
+        },
+        {
+          "Name": "News broadcasting",
+          "Severity": "Critical",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01759e74-0d08-0dfc-1175-0054c946f44b",
+      "Name": "News subjects - Chipata",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 50,
+      "CreatedAt": "2025-01-07T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2020-2699",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news broadcasting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Accountability",
+          "Severity": "Critical",
+          "Score": 22
+        },
+        {
+          "Name": "Community engagement",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a12d2c-1383-0f52-22d8-00747d162e45",
+      "Name": "News subjects - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 54,
+      "CreatedAt": "2025-09-12T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2023-6087",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news broadcasting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chipata",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public awareness",
+          "Severity": "High",
+          "Score": 30
+        },
+        {
+          "Name": "Investigative reporting",
+          "Severity": "High",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05642307-2385-1400-1f67-00c598fc57d2",
+      "Name": "News subjects - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 85,
+      "CreatedAt": "2025-01-01T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2025-9894",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "accountability",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative reporting",
+          "Severity": "Critical",
+          "Score": 22
+        },
+        {
+          "Name": "Accountability",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04cb6348-21bf-0a37-0a39-00525005ba4b",
+      "Name": "Corporations - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 38,
+      "CreatedAt": "2024-05-01T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2022-8618",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public awareness",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Accountability",
+          "Severity": "Low",
+          "Score": 44
+        },
+        {
+          "Name": "Community engagement",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "020fbe3d-25c8-0790-04a6-00b974d2f912",
+      "Name": "Public officials - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2025-10-09T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2025-6080",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "community engagement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Investigative reporting",
+          "Severity": "Low",
+          "Score": 39
+        },
+        {
+          "Name": "Investigative reporting",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03762d16-19a6-0a6b-0cda-00d7f9850210",
+      "Name": "Community leaders - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 50,
+      "CreatedAt": "2024-04-19T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2020-6955",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public awareness",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "News broadcasting",
+          "Severity": "Medium",
+          "Score": 12
+        },
+        {
+          "Name": "Public awareness",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "050dba54-102e-0906-1765-00b298ce13b2",
+      "Name": "Corporations - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 63,
+      "CreatedAt": "2024-01-12T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2025-1998",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news broadcasting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mongu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Community engagement",
+          "Severity": "Medium",
+          "Score": 26
+        },
+        {
+          "Name": "Accountability",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0250afdf-04eb-1450-0edf-00b9fd2f70e4",
+      "Name": "News subjects - Chipata",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 45,
+      "CreatedAt": "2025-05-24T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "RAD-2021-5220",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "news broadcasting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Radio Broadcasting",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Accountability",
+          "Severity": "Medium",
+          "Score": 43
+        },
+        {
+          "Name": "News broadcasting",
+          "Severity": "Critical",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    }
+  ]
+}

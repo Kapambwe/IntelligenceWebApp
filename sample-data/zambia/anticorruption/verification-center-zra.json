@@ -1,0 +1,1173 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "0514d6e9-04d6-0748-1b36-00a25598bf25",
+      "EntityId": "027a472b-1bde-179a-0be2-003b2951b8de",
+      "EntityName": "Contractors - Ndola",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-29T17:30:30Z",
+      "Notes": "Investigation for abuse of office verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "035ff191-0cdf-08ed-1be1-00926f785e65",
+      "EntityId": "05691358-0a5d-0c8b-2437-006001bec8ce",
+      "EntityName": "Public officials - Kabwe",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-14T17:30:30Z",
+      "Notes": "Investigation for illicit enrichment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-27T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01623a28-0503-1277-04d4-0096180b496a",
+      "EntityId": "02d01858-095b-0d99-18a7-003fa3fd10ce",
+      "EntityName": "Contractors - Kabwe",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "Notes": "Plea agreement for bribery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03fa6ea8-2105-1f5e-1675-008c534762e8",
+      "EntityId": "0102c5ea-0b81-0de9-1fbb-00bba61608a5",
+      "EntityName": "Public officials - Kitwe",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-13T17:30:30Z",
+      "Notes": "Investigation for illicit enrichment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-06T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-11T17:30:30Z"
+    },
+    {
+      "Id": "0426e5ef-1f9f-05eb-145c-0049dc662fe8",
+      "EntityId": "0181b4ee-0992-1f3e-0e1d-0063419e7d25",
+      "EntityName": "Contractors - Ndola",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-29T17:30:30Z",
+      "Notes": "Conviction for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-30T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05cde832-1fa7-1cdf-1378-00a740cb420b",
+      "EntityId": "010c562a-0b25-13f3-2342-001ef60252f2",
+      "EntityName": "Contractors - Kabwe",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-01T17:30:30Z",
+      "Notes": "Asset recovery for graft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-21T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "036bfc08-1de4-20c1-26bc-0095223a8995",
+      "EntityId": "03ef3e30-2188-21e4-05d8-00bb249b87c1",
+      "EntityName": "Political figures - Ndola",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2026-01-11T17:30:30Z",
+      "Notes": "Asset recovery for abuse of office verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-25T17:30:30Z"
+    },
+    {
+      "Id": "03071824-191d-1b81-0ff1-004b88a5df06",
+      "EntityId": "05224959-0f69-17cc-2343-0080d36c97f9",
+      "EntityName": "Government departments - Kitwe",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-22T17:30:30Z",
+      "Notes": "Investigation for abuse of office verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0133e0fc-15e1-124a-256e-00c3216d6fc3",
+      "EntityId": "04072e7f-1f22-09d6-1c4c-009d0d5a1aee",
+      "EntityName": "Government departments - Kitwe",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-18T17:30:30Z",
+      "Notes": "Asset forfeiture for bribery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03f38fa8-0c6d-198c-0afa-009385f9545d",
+      "EntityId": "01858d94-1215-09b3-25d7-00ba9cafd465",
+      "EntityName": "Political figures - Kitwe",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-04T17:30:30Z",
+      "Notes": "Plea agreement for graft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-29T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "023b2164-257b-13c9-0a12-0041d4ca9550",
+      "EntityId": "04633f35-224d-11e1-216c-0019250a6582",
+      "EntityName": "Contractors - Kitwe",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-07T17:30:30Z",
+      "Notes": "Asset recovery for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-20T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "020756a4-0a16-1e38-194f-009fd870b22b",
+      "EntityId": "01a08420-2226-1a55-1e2b-00272e48ad2e",
+      "EntityName": "Political figures - Livingstone",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-14T17:30:30Z",
+      "Notes": "Conviction for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-13T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-23T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "05ba787b-095c-0f93-23bd-0020151b4ab7",
+      "EntityId": "01448330-1830-1e52-1224-00a040f79c46",
+      "EntityName": "Government departments - Lusaka",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-14T17:30:30Z",
+      "Notes": "Investigation for graft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-01T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03768f33-1983-1883-2557-0057df619d74",
+      "EntityId": "04e974e8-10be-222d-1b57-0047f3eb2949",
+      "EntityName": "Political figures - Lusaka",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-27T17:30:30Z",
+      "Notes": "Plea agreement for graft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-14T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "011abe98-2129-09fa-2563-0069d660907e",
+      "EntityId": "036abd26-2512-073d-1917-003f9ba1242e",
+      "EntityName": "Contractors - Lusaka",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-15T17:30:30Z",
+      "Notes": "Asset recovery for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-08T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03d2d10f-1088-2457-126b-005841f7d859",
+      "EntityId": "04bd3f06-1157-2279-0898-007933456e28",
+      "EntityName": "Political figures - Kitwe",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-04T17:30:30Z",
+      "Notes": "Investigation for illicit enrichment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f0c96e-15a5-0d41-053b-009c95853d8a",
+      "EntityId": "00b15ca3-0d6e-1b29-14a1-003fd9e92ecb",
+      "EntityName": "Public officials - Ndola",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-16T17:30:30Z",
+      "Notes": "Asset forfeiture for abuse of office verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-09T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03d96b01-1ec6-0cb8-06fc-004c017a33d0",
+      "EntityId": "0336d87d-231e-1734-126d-00567dfd14dc",
+      "EntityName": "Public officials - Kabwe",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-22T17:30:30Z",
+      "Notes": "Conviction for illicit enrichment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-29T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03001ae1-24b4-10e7-125b-00b34e40238f",
+      "EntityId": "00ea5e77-1cc7-0dba-1000-008284662119",
+      "EntityName": "Political figures - Kitwe",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-24T17:30:30Z",
+      "Notes": "Investigation for graft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-11T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04399be8-17ec-0ca2-04a2-0079e5dc8674",
+      "EntityId": "02cc8b17-13af-1018-2113-00b84edbc31c",
+      "EntityName": "Contractors - Kitwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-20T17:30:30Z",
+      "Notes": "Conviction for graft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "011384c7-1523-18b3-1b5e-001aa36d28ba",
+      "EntityId": "01a634bb-1fce-1ae8-1f7b-00997116a3ea",
+      "EntityName": "Public officials - Livingstone",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-19T17:30:30Z",
+      "Notes": "Asset forfeiture for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-22T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-26T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01a975d0-0cba-20f0-2564-0067cc7c8b54",
+      "EntityId": "024be62f-0d1c-140f-0f86-002d4a23ea05",
+      "EntityName": "Political figures - Kabwe",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-29T17:30:30Z",
+      "Notes": "Investigation for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "042ad132-261c-1aa3-0fc4-00b71e3183e1",
+      "EntityId": "02421672-1971-1989-1f0f-003f9c3e44e6",
+      "EntityName": "Contractors - Kabwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-10T17:30:30Z",
+      "Notes": "Asset recovery for bribery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-27T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0101329e-126c-08e5-0d57-001a8bc50a25",
+      "EntityId": "05a3e9d3-0b88-18d0-1e56-00e868b5d571",
+      "EntityName": "Public officials - Ndola",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-12-30T17:30:30Z",
+      "Notes": "Asset forfeiture for bribery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-21T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d17201-099b-1475-197c-00562cc1d6e6",
+      "EntityId": "01fd396b-25f7-06f2-0c23-00384583a161",
+      "EntityName": "Political figures - Kabwe",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "Notes": "Asset recovery for illicit enrichment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-27T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-18T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "0290c1e4-1af8-1218-1a9f-0062a4f0c0f3",
+      "EntityId": "01d20b7c-11b1-2578-0739-00b479ce411f",
+      "EntityName": "Government departments - Lusaka",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-20T17:30:30Z",
+      "Notes": "Asset forfeiture for graft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01b08974-0d18-20f6-1295-003adc315a7c",
+      "EntityId": "02bfa3ea-226b-0518-215d-009100e037fd",
+      "EntityName": "Contractors - Livingstone",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-10-30T17:30:30Z",
+      "Notes": "Investigation for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-07T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-28T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01869e3e-0dad-1ce1-2517-00d420c2644a",
+      "EntityId": "01d7a099-1c77-064b-041d-00d1a1732cd4",
+      "EntityName": "Government departments - Livingstone",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-29T17:30:30Z",
+      "Notes": "Asset forfeiture for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-25T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-31T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "041bf8fa-2311-164c-19e2-003885035eab",
+      "EntityId": "05886243-231c-1364-0826-003ede602c86",
+      "EntityName": "Public officials - Kabwe",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2026-01-18T17:30:30Z",
+      "Notes": "Investigation for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-13T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "04d5c8cd-26bf-22fe-07a9-00c7f8d2749b",
+      "EntityId": "03b95934-2219-0c08-10b2-007481fb6dc5",
+      "EntityName": "Political figures - Livingstone",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-23T17:30:30Z",
+      "Notes": "Asset forfeiture for abuse of office verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-28T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-10T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "0512782b-2142-12b3-169d-0035f682f704",
+      "EntityId": "035bd804-118c-20f9-1ef7-008d1b12dc82",
+      "EntityName": "Government departments - Kabwe",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-22T17:30:30Z",
+      "Notes": "Conviction for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-28T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "00e87d03-1a86-21eb-24c1-009329143de0",
+      "EntityId": "04a78d3f-0c6f-270d-0417-00a43e4b1e79",
+      "EntityName": "Political figures - Ndola",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-06T17:30:30Z",
+      "Notes": "Asset recovery for abuse of office verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05206ece-225a-0638-2183-0082f883b2ce",
+      "EntityId": "02c4540d-0cab-069c-219c-0040a30c5605",
+      "EntityName": "Political figures - Livingstone",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2026-01-18T17:30:30Z",
+      "Notes": "Investigation for bribery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-06T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-20T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02769287-105f-0c3f-09ec-00c9a0ff96bb",
+      "EntityId": "0124355e-2044-0f53-0d93-00a56ca85d1c",
+      "EntityName": "Public officials - Livingstone",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-07T17:30:30Z",
+      "Notes": "Plea agreement for bribery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0282d614-19eb-12cd-04dd-00216e850c29",
+      "EntityId": "037409a2-2529-11ba-164d-00b7b7ad2be2",
+      "EntityName": "Contractors - Kabwe",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-01T17:30:30Z",
+      "Notes": "Conviction for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05e8c4c4-1151-10eb-1f87-00ac34b34ae4",
+      "EntityId": "0182c35f-15df-09c8-2255-002249ce8ff1",
+      "EntityName": "Contractors - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-10-22T17:30:30Z",
+      "Notes": "Conviction for bribery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-21T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03eff01b-144f-0538-20cb-00a9fd092e96",
+      "EntityId": "044647e4-13cf-073a-1bf2-00d2e73f32e4",
+      "EntityName": "Public officials - Livingstone",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-09T17:30:30Z",
+      "Notes": "Investigation for abuse of office verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-04T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "058371bf-267f-1d6c-0509-00c451ccb26f",
+      "EntityId": "01408ee4-25e7-0e5d-2085-0031f8d2b363",
+      "EntityName": "Contractors - Livingstone",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-16T17:30:30Z",
+      "Notes": "Asset recovery for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "00b7b79c-20ca-0f22-1a81-002e2543e1be",
+      "EntityId": "05778f0b-1848-1e89-0c88-002974d79a38",
+      "EntityName": "Political figures - Kabwe",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-11T17:30:30Z",
+      "Notes": "Plea agreement for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "00ef2992-0f46-1aa9-095f-00e470de12f1",
+      "EntityId": "0219c215-1c0a-1c12-10c8-00911849af11",
+      "EntityName": "Government departments - Lusaka",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-25T17:30:30Z",
+      "Notes": "Conviction for abuse of office verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0575af73-05bf-0da6-16ee-00c20c21b008",
+      "EntityId": "01613798-1ef9-0b96-2117-007431da0992",
+      "EntityName": "Government departments - Lusaka",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-12-30T17:30:30Z",
+      "Notes": "Asset forfeiture for graft verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-27T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "036923cd-0687-1432-1053-00bb4e1f7406",
+      "EntityId": "0323d51a-0660-0b7a-1aab-00584b0ed688",
+      "EntityName": "Contractors - Livingstone",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2026-01-08T17:30:30Z",
+      "Notes": "Plea agreement for abuse of office verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "009c2151-23f1-09a1-1953-0068f01c5d72",
+      "EntityId": "041c3afa-18aa-0480-111b-00e5e3925076",
+      "EntityName": "Public officials - Kitwe",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2026-01-11T17:30:30Z",
+      "Notes": "Plea agreement for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04e6e4f4-08f9-0d80-1cf7-005f7bc86211",
+      "EntityId": "02372bca-06cb-2236-195b-0040957193c7",
+      "EntityName": "Political figures - Ndola",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-22T17:30:30Z",
+      "Notes": "Investigation for corruption verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03210298-16e2-1d85-091d-00d7905c83fd",
+      "EntityId": "022666e2-1829-0c90-1a6a-003641abc77b",
+      "EntityName": "Public officials - Kabwe",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-12-11T17:30:30Z",
+      "Notes": "Plea agreement for illicit enrichment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0131d2bc-13d5-0659-15cf-0048c98be0da",
+      "EntityId": "02207389-1530-2428-1b5a-00d41adf571f",
+      "EntityName": "Political figures - Kitwe",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-08T17:30:30Z",
+      "Notes": "Plea agreement for bribery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "00b37600-2693-25ef-0e2c-00cc2de1d3ac",
+      "EntityId": "03ebd263-1550-19e3-1b5d-00a9d719b28a",
+      "EntityName": "Public officials - Ndola",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-05T17:30:30Z",
+      "Notes": "Investigation for bribery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-16T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "0188a5a8-1012-10af-1ac3-00c5cf9ae3e6",
+      "EntityId": "03d5b78d-1a45-0e17-1da8-00ac652a4247",
+      "EntityName": "Political figures - Livingstone",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-18T17:30:30Z",
+      "Notes": "Asset forfeiture for abuse of office verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01b300bc-164a-06e6-0dc4-00919ae60c25",
+      "EntityId": "0314c94a-08dc-1e7b-10e1-00be69942e8e",
+      "EntityName": "Public officials - Kabwe",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-24T17:30:30Z",
+      "Notes": "Investigation for bribery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-02T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "00f8cf97-2665-1a33-1fe3-00880efae8a3",
+      "EntityId": "02691842-23b2-16b1-0d9a-00c73b9c5407",
+      "EntityName": "Government departments - Livingstone",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-12-28T17:30:30Z",
+      "Notes": "Conviction for bribery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-25T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 12,
+    "Pending": 29,
+    "Failed": 9
+  }
+}

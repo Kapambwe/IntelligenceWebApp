@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "01186569-23f5-15a5-1f36-009872a14e82",
+      "Name": "Claimants - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 98,
+      "CreatedAt": "2024-10-30T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "01389b73-0758-1283-1a33-001873a8a4f4",
+      "Name": "Claimants - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 22,
+      "CreatedAt": "2024-05-18T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "04a48b32-1907-19af-0951-00c29aaacf7c",
+      "Name": "Policyholders - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 42,
+      "CreatedAt": "2023-11-21T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "0372a8c8-0543-1992-11d2-00967901b8e2",
+      "Name": "Brokers - Kabwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 24,
+      "CreatedAt": "2024-12-01T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "00ebf311-0d5c-245b-1c0c-0049df24145e",
+      "Name": "Policyholders - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 86,
+      "CreatedAt": "2024-02-01T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "056b3391-14a1-1483-0c1c-00aaeb23a617",
+      "Name": "Corporate clients - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 36,
+      "CreatedAt": "2024-11-08T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "0575649b-052b-0da3-14be-00906d506ced",
+      "Name": "Policyholders - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 46,
+      "CreatedAt": "2024-04-04T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "01415ffa-1344-2484-260d-00249e2c8fda",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 80,
+      "CreatedAt": "2025-10-09T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "0528a9f6-0c8d-236f-0817-008ff259b43c",
+      "Name": "Corporate clients - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2024-07-01T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "0176c557-0f03-0bc7-23eb-00866b8e4bd3",
+      "Name": "Policyholders - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 91,
+      "CreatedAt": "2025-04-20T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "019d7d62-1d74-255c-0b5b-00e6205c536c",
+      "Name": "Claimants - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 89,
+      "CreatedAt": "2023-11-20T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "01ebd0b5-2333-232f-09ad-004544568bf1",
+      "Name": "Corporate clients - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 24,
+      "CreatedAt": "2024-01-16T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "03d53fc8-1e2a-1cfc-09be-00c9657eabef",
+      "Name": "Claimants - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 21,
+      "CreatedAt": "2024-10-19T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "012924d5-16f4-17df-0ed1-0098ce17b5c8",
+      "Name": "Claimants - Kabwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 93,
+      "CreatedAt": "2025-03-24T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "02d33df5-162c-0c77-174a-002e9fb0d12e",
+      "Name": "Brokers - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 60,
+      "CreatedAt": "2024-09-23T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "0234c3bf-159a-1074-11db-00e26f277b72",
+      "Name": "Claimants - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 91,
+      "CreatedAt": "2024-03-19T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "055f6773-0e5c-146d-1bd0-00953e54897c",
+      "Name": "Claimants - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 46,
+      "CreatedAt": "2024-07-21T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "031587f1-1709-1568-0b6f-0031d110ef07",
+      "Name": "Brokers - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 44,
+      "CreatedAt": "2024-11-04T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z"
+    },
+    {
+      "Id": "03c662f9-2230-0865-096f-0071187b7149",
+      "Name": "Policyholders - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 41,
+      "CreatedAt": "2024-06-16T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "02e78940-202c-0a3e-132d-007e2b57e8ba",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 34,
+      "CreatedAt": "2025-03-01T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "00c76be4-1880-12a8-10b7-00d0a64cb94d",
+      "Name": "Claimants - Kabwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 68,
+      "CreatedAt": "2024-03-22T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "02809e35-1e3c-1657-0737-0019b25fae4f",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 59,
+      "CreatedAt": "2024-03-31T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "03baf663-13fe-05e9-093a-0026b41e7d5d",
+      "Name": "Claimants - Kabwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 36,
+      "CreatedAt": "2024-04-04T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "03ab17b6-1332-0936-15ea-00c85d2c629d",
+      "Name": "Corporate clients - Kabwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 37,
+      "CreatedAt": "2024-02-02T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "05e195a7-12cb-12ea-0c0c-00c212add973",
+      "Name": "Brokers - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2025-04-28T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "0579ee4b-0ae6-06bc-11cc-006a1814b02e",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 70,
+      "CreatedAt": "2025-09-01T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "05d63596-22d7-06db-19be-00787fb397f0",
+      "Name": "Policyholders - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2024-10-11T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "05344c52-1d08-2061-2148-00b1b99c0624",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 65,
+      "CreatedAt": "2025-03-01T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "04c68fce-1071-1d33-063a-00a847055451",
+      "Name": "Claimants - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 28,
+      "CreatedAt": "2025-02-17T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "04263275-23a6-2191-1091-00b84e899ae1",
+      "Name": "Policyholders - Kabwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2024-04-07T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "05af7b11-0440-1a95-09c8-00395cceec94",
+      "Name": "Corporate clients - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 77,
+      "CreatedAt": "2024-04-22T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z"
+    },
+    {
+      "Id": "00eef846-040e-1f65-20c6-00ac445fed06",
+      "Name": "Brokers - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 96,
+      "CreatedAt": "2025-02-08T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z"
+    },
+    {
+      "Id": "025ad620-2202-1bde-125c-004b52e9f65e",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 96,
+      "CreatedAt": "2025-02-08T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "029b3122-215b-0cf4-2515-00d76f683f95",
+      "Name": "Brokers - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 96,
+      "CreatedAt": "2024-11-12T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "01ba71d0-25a1-23e3-2158-007629163053",
+      "Name": "Policyholders - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2024-01-01T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "049e4e12-185c-085a-04bb-00d4e24dde33",
+      "Name": "Brokers - Kabwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2025-05-08T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "0401b68e-15bf-0c3f-18be-0068b7142335",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 57,
+      "CreatedAt": "2024-10-21T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "03a49ee8-2129-0e4f-1954-00b519d8765e",
+      "Name": "Brokers - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 76,
+      "CreatedAt": "2025-07-25T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "027bde71-267b-25d6-206d-009430a68638",
+      "Name": "Brokers - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 80,
+      "CreatedAt": "2024-09-15T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "05b13be8-1854-0ffe-074b-005eb15d26fe",
+      "Name": "Policyholders - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 73,
+      "CreatedAt": "2024-03-06T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "03edca5c-0d6e-1041-0b54-0070e7ee44ab",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2024-06-10T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "04f4c1cd-215f-236f-1497-00800d090c0a",
+      "Name": "Brokers - Kabwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 90,
+      "CreatedAt": "2024-01-09T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "0323c112-136e-16ce-15a8-002b28a609f4",
+      "Name": "Brokers - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 69,
+      "CreatedAt": "2025-02-04T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "042efc85-0950-0af5-0c47-00cddea697f3",
+      "Name": "Brokers - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 75,
+      "CreatedAt": "2025-06-02T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "05b86234-09d6-05e1-1dfd-00c92fea989b",
+      "Name": "Claimants - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 24,
+      "CreatedAt": "2024-07-27T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "0222ea85-20ef-0593-0803-00843e4ae4bf",
+      "Name": "Policyholders - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 73,
+      "CreatedAt": "2025-05-11T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "02913e10-0819-0acd-1155-003cd98d4677",
+      "Name": "Brokers - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 71,
+      "CreatedAt": "2024-10-11T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "051a5dfa-1608-1166-12f8-00972c54b892",
+      "Name": "Policyholders - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 28,
+      "CreatedAt": "2024-11-20T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "025b0433-1328-1f2d-252c-00842718f03d",
+      "Name": "Brokers - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 73,
+      "CreatedAt": "2024-04-05T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "0526c2c7-1a1e-2573-09fa-004efdbab43b",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 87,
+      "CreatedAt": "2025-03-01T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "01186569-23f5-15a5-1f36-009872a14e82",
+      "Name": "Claimants - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 98,
+      "CreatedAt": "2024-10-30T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2025-7021",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Claims processing",
+          "Severity": "High",
+          "Score": 16
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01389b73-0758-1283-1a33-001873a8a4f4",
+      "Name": "Claimants - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 22,
+      "CreatedAt": "2024-05-18T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2024-1043",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "insurance fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Risk assessment",
+          "Severity": "High",
+          "Score": 10
+        },
+        {
+          "Name": "Policy management",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04a48b32-1907-19af-0951-00c29aaacf7c",
+      "Name": "Policyholders - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 42,
+      "CreatedAt": "2023-11-21T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2026-6636",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "insurance fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Underwriting",
+          "Severity": "High",
+          "Score": 18
+        },
+        {
+          "Name": "Claims processing",
+          "Severity": "High",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0372a8c8-0543-1992-11d2-00967901b8e2",
+      "Name": "Brokers - Kabwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 24,
+      "CreatedAt": "2024-12-01T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2021-7845",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "underwriting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy management",
+          "Severity": "Critical",
+          "Score": 45
+        },
+        {
+          "Name": "Insurance fraud",
+          "Severity": "Critical",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00ebf311-0d5c-245b-1c0c-0049df24145e",
+      "Name": "Policyholders - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 86,
+      "CreatedAt": "2024-02-01T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2020-8820",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "risk assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Insurance fraud",
+          "Severity": "Critical",
+          "Score": 37
+        },
+        {
+          "Name": "Claims processing",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "056b3391-14a1-1483-0c1c-00aaeb23a617",
+      "Name": "Corporate clients - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 36,
+      "CreatedAt": "2024-11-08T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2026-8908",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "claims processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy management",
+          "Severity": "High",
+          "Score": 21
+        },
+        {
+          "Name": "Risk assessment",
+          "Severity": "Critical",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0575649b-052b-0da3-14be-00906d506ced",
+      "Name": "Policyholders - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 46,
+      "CreatedAt": "2024-04-04T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2021-4201",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "underwriting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Claims processing",
+          "Severity": "Critical",
+          "Score": 11
+        },
+        {
+          "Name": "Policy management",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01415ffa-1344-2484-260d-00249e2c8fda",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 80,
+      "CreatedAt": "2025-10-09T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2022-9198",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "claims processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Underwriting",
+          "Severity": "High",
+          "Score": 37
+        },
+        {
+          "Name": "Risk assessment",
+          "Severity": "High",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0528a9f6-0c8d-236f-0817-008ff259b43c",
+      "Name": "Corporate clients - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2024-07-01T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2025-8851",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "risk assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Risk assessment",
+          "Severity": "Low",
+          "Score": 29
+        },
+        {
+          "Name": "Insurance fraud",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0176c557-0f03-0bc7-23eb-00866b8e4bd3",
+      "Name": "Policyholders - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 91,
+      "CreatedAt": "2025-04-20T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2024-7703",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "claims processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Risk assessment",
+          "Severity": "Critical",
+          "Score": 22
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "019d7d62-1d74-255c-0b5b-00e6205c536c",
+      "Name": "Claimants - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 89,
+      "CreatedAt": "2023-11-20T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2020-4382",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "insurance fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Underwriting",
+          "Severity": "Low",
+          "Score": 43
+        },
+        {
+          "Name": "Risk assessment",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01ebd0b5-2333-232f-09ad-004544568bf1",
+      "Name": "Corporate clients - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 24,
+      "CreatedAt": "2024-01-16T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2020-8176",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "insurance fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Risk assessment",
+          "Severity": "Low",
+          "Score": 32
+        },
+        {
+          "Name": "Insurance fraud",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03d53fc8-1e2a-1cfc-09be-00c9657eabef",
+      "Name": "Claimants - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 21,
+      "CreatedAt": "2024-10-19T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2022-9088",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy management",
+          "Severity": "Critical",
+          "Score": 38
+        },
+        {
+          "Name": "Policy management",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "012924d5-16f4-17df-0ed1-0098ce17b5c8",
+      "Name": "Claimants - Kabwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 93,
+      "CreatedAt": "2025-03-24T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2024-2844",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "risk assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Risk assessment",
+          "Severity": "High",
+          "Score": 36
+        },
+        {
+          "Name": "Policy management",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02d33df5-162c-0c77-174a-002e9fb0d12e",
+      "Name": "Brokers - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 60,
+      "CreatedAt": "2024-09-23T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2022-7196",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "claims processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy management",
+          "Severity": "Low",
+          "Score": 34
+        },
+        {
+          "Name": "Claims processing",
+          "Severity": "Critical",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0234c3bf-159a-1074-11db-00e26f277b72",
+      "Name": "Claimants - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 91,
+      "CreatedAt": "2024-03-19T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2026-6377",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "underwriting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Insurance fraud",
+          "Severity": "Low",
+          "Score": 17
+        },
+        {
+          "Name": "Claims processing",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "055f6773-0e5c-146d-1bd0-00953e54897c",
+      "Name": "Claimants - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 46,
+      "CreatedAt": "2024-07-21T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2025-9811",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "underwriting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Risk assessment",
+          "Severity": "High",
+          "Score": 36
+        },
+        {
+          "Name": "Insurance fraud",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "031587f1-1709-1568-0b6f-0031d110ef07",
+      "Name": "Brokers - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 44,
+      "CreatedAt": "2024-11-04T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2026-1427",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "underwriting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Insurance fraud",
+          "Severity": "Critical",
+          "Score": 26
+        },
+        {
+          "Name": "Risk assessment",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03c662f9-2230-0865-096f-0071187b7149",
+      "Name": "Policyholders - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 41,
+      "CreatedAt": "2024-06-16T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2020-1998",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "insurance fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Underwriting",
+          "Severity": "Critical",
+          "Score": 39
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02e78940-202c-0a3e-132d-007e2b57e8ba",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 34,
+      "CreatedAt": "2025-03-01T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2025-1725",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "claims processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Insurance fraud",
+          "Severity": "Medium",
+          "Score": 33
+        },
+        {
+          "Name": "Claims processing",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00c76be4-1880-12a8-10b7-00d0a64cb94d",
+      "Name": "Claimants - Kabwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 68,
+      "CreatedAt": "2024-03-22T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2024-1248",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "risk assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Insurance fraud",
+          "Severity": "Low",
+          "Score": 35
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02809e35-1e3c-1657-0737-0019b25fae4f",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 59,
+      "CreatedAt": "2024-03-31T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2026-9373",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "claims processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy management",
+          "Severity": "High",
+          "Score": 21
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03baf663-13fe-05e9-093a-0026b41e7d5d",
+      "Name": "Claimants - Kabwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 36,
+      "CreatedAt": "2024-04-04T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2022-8416",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "insurance fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Risk assessment",
+          "Severity": "Medium",
+          "Score": 20
+        },
+        {
+          "Name": "Policy management",
+          "Severity": "High",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03ab17b6-1332-0936-15ea-00c85d2c629d",
+      "Name": "Corporate clients - Kabwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 37,
+      "CreatedAt": "2024-02-02T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2023-3499",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "risk assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Claims processing",
+          "Severity": "Critical",
+          "Score": 15
+        },
+        {
+          "Name": "Insurance fraud",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05e195a7-12cb-12ea-0c0c-00c212add973",
+      "Name": "Brokers - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2025-04-28T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2024-8291",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "underwriting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Claims processing",
+          "Severity": "Critical",
+          "Score": 40
+        },
+        {
+          "Name": "Claims processing",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0579ee4b-0ae6-06bc-11cc-006a1814b02e",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 70,
+      "CreatedAt": "2025-09-01T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2024-9597",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "risk assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy management",
+          "Severity": "Critical",
+          "Score": 20
+        },
+        {
+          "Name": "Claims processing",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d63596-22d7-06db-19be-00787fb397f0",
+      "Name": "Policyholders - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2024-10-11T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2020-7082",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "insurance fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Claims processing",
+          "Severity": "Medium",
+          "Score": 12
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05344c52-1d08-2061-2148-00b1b99c0624",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 65,
+      "CreatedAt": "2025-03-01T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2023-1404",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "underwriting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy management",
+          "Severity": "Low",
+          "Score": 40
+        },
+        {
+          "Name": "Insurance fraud",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04c68fce-1071-1d33-063a-00a847055451",
+      "Name": "Claimants - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 28,
+      "CreatedAt": "2025-02-17T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2021-8363",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "claims processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Insurance fraud",
+          "Severity": "High",
+          "Score": 38
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04263275-23a6-2191-1091-00b84e899ae1",
+      "Name": "Policyholders - Kabwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2024-04-07T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2026-1907",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "underwriting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy management",
+          "Severity": "Critical",
+          "Score": 21
+        },
+        {
+          "Name": "Claims processing",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05af7b11-0440-1a95-09c8-00395cceec94",
+      "Name": "Corporate clients - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 77,
+      "CreatedAt": "2024-04-22T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2022-2252",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "insurance fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Risk assessment",
+          "Severity": "High",
+          "Score": 23
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00eef846-040e-1f65-20c6-00ac445fed06",
+      "Name": "Brokers - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 96,
+      "CreatedAt": "2025-02-08T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2023-4184",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Risk assessment",
+          "Severity": "Low",
+          "Score": 39
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "Critical",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "025ad620-2202-1bde-125c-004b52e9f65e",
+      "Name": "Corporate clients - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 96,
+      "CreatedAt": "2025-02-08T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2021-9312",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "risk assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Claims processing",
+          "Severity": "High",
+          "Score": 36
+        },
+        {
+          "Name": "Policy management",
+          "Severity": "Medium",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "029b3122-215b-0cf4-2515-00d76f683f95",
+      "Name": "Brokers - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 96,
+      "CreatedAt": "2024-11-12T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2023-1130",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "insurance fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Risk assessment",
+          "Severity": "Critical",
+          "Score": 39
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "Medium",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01ba71d0-25a1-23e3-2158-007629163053",
+      "Name": "Policyholders - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2024-01-01T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2025-4882",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "insurance fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy management",
+          "Severity": "Medium",
+          "Score": 30
+        },
+        {
+          "Name": "Claims processing",
+          "Severity": "Critical",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "049e4e12-185c-085a-04bb-00d4e24dde33",
+      "Name": "Brokers - Kabwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2025-05-08T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2026-3741",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "risk assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Claims processing",
+          "Severity": "Medium",
+          "Score": 31
+        },
+        {
+          "Name": "Policy management",
+          "Severity": "Critical",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0401b68e-15bf-0c3f-18be-0068b7142335",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 57,
+      "CreatedAt": "2024-10-21T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2024-3137",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "claims processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy management",
+          "Severity": "High",
+          "Score": 19
+        },
+        {
+          "Name": "Insurance fraud",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03a49ee8-2129-0e4f-1954-00b519d8765e",
+      "Name": "Brokers - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 76,
+      "CreatedAt": "2025-07-25T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2025-1289",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "claims processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy management",
+          "Severity": "Low",
+          "Score": 15
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "027bde71-267b-25d6-206d-009430a68638",
+      "Name": "Brokers - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 80,
+      "CreatedAt": "2024-09-15T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2020-5791",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "underwriting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Insurance fraud",
+          "Severity": "High",
+          "Score": 43
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "Critical",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05b13be8-1854-0ffe-074b-005eb15d26fe",
+      "Name": "Policyholders - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 73,
+      "CreatedAt": "2024-03-06T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2023-9717",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "underwriting",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Claims processing",
+          "Severity": "Low",
+          "Score": 11
+        },
+        {
+          "Name": "Risk assessment",
+          "Severity": "Critical",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03edca5c-0d6e-1041-0b54-0070e7ee44ab",
+      "Name": "Corporate clients - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2024-06-10T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2026-4369",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "insurance fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Insurance fraud",
+          "Severity": "High",
+          "Score": 29
+        },
+        {
+          "Name": "Insurance fraud",
+          "Severity": "High",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04f4c1cd-215f-236f-1497-00800d090c0a",
+      "Name": "Brokers - Kabwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 90,
+      "CreatedAt": "2024-01-09T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2026-8677",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "insurance fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Risk assessment",
+          "Severity": "High",
+          "Score": 30
+        },
+        {
+          "Name": "Insurance fraud",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0323c112-136e-16ce-15a8-002b28a609f4",
+      "Name": "Brokers - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 69,
+      "CreatedAt": "2025-02-04T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2024-6230",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "insurance fraud",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Claims processing",
+          "Severity": "Critical",
+          "Score": 22
+        },
+        {
+          "Name": "Policy management",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "042efc85-0950-0af5-0c47-00cddea697f3",
+      "Name": "Brokers - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 75,
+      "CreatedAt": "2025-06-02T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2025-6647",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Underwriting",
+          "Severity": "Low",
+          "Score": 27
+        },
+        {
+          "Name": "Policy management",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05b86234-09d6-05e1-1dfd-00c92fea989b",
+      "Name": "Claimants - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 24,
+      "CreatedAt": "2024-07-27T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2023-5087",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "risk assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Insurance fraud",
+          "Severity": "Critical",
+          "Score": 40
+        },
+        {
+          "Name": "Policy management",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0222ea85-20ef-0593-0803-00843e4ae4bf",
+      "Name": "Policyholders - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 73,
+      "CreatedAt": "2025-05-11T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2024-8966",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "claims processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Underwriting",
+          "Severity": "Medium",
+          "Score": 14
+        },
+        {
+          "Name": "Insurance fraud",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02913e10-0819-0acd-1155-003cd98d4677",
+      "Name": "Brokers - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 71,
+      "CreatedAt": "2024-10-11T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2024-5191",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "risk assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Underwriting",
+          "Severity": "Medium",
+          "Score": 36
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "051a5dfa-1608-1166-12f8-00972c54b892",
+      "Name": "Policyholders - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 28,
+      "CreatedAt": "2024-11-20T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2022-7397",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "risk assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy management",
+          "Severity": "Critical",
+          "Score": 31
+        },
+        {
+          "Name": "Insurance fraud",
+          "Severity": "High",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "025b0433-1328-1f2d-252c-00842718f03d",
+      "Name": "Brokers - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 73,
+      "CreatedAt": "2024-04-05T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2023-1726",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "claims processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Risk assessment",
+          "Severity": "Low",
+          "Score": 27
+        },
+        {
+          "Name": "Underwriting",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0526c2c7-1a1e-2573-09fa-004efdbab43b",
+      "Name": "Corporate clients - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 87,
+      "CreatedAt": "2025-03-01T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INS-2025-6633",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "claims processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Insurance",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Risk assessment",
+          "Severity": "Medium",
+          "Score": 23
+        },
+        {
+          "Name": "Claims processing",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    }
+  ]
+}

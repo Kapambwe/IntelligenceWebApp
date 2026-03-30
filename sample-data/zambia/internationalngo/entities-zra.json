@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "0235b05b-1a57-156a-2089-0080ac7cb57e",
+      "Name": "Partner organizations - Southern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 61,
+      "CreatedAt": "2024-06-03T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "014455e1-1109-05cf-2049-002171998063",
+      "Name": "Implementing partners - Luapula Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 38,
+      "CreatedAt": "2025-06-28T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "04dc5ce2-1ec4-2092-0d60-006f362555ca",
+      "Name": "Implementing partners - Southern Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 32,
+      "CreatedAt": "2024-12-04T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "0562c5d1-15fc-154e-22af-00ba613a0fd4",
+      "Name": "Partner organizations - Eastern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2025-04-03T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "055d445f-0d74-1a42-25f9-003e4981a54e",
+      "Name": "Donors - Luapula Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 30,
+      "CreatedAt": "2025-03-20T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z"
+    },
+    {
+      "Id": "0179fcfe-1456-051e-1f36-00a2927a744b",
+      "Name": "Partner organizations - rural areas",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 92,
+      "CreatedAt": "2024-02-04T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "00df28d0-2325-1ea2-0ce1-00552ac8af11",
+      "Name": "Donors - Southern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2025-10-02T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "051a7bd3-203f-23e7-204f-00baf773e831",
+      "Name": "Beneficiaries - Eastern Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 83,
+      "CreatedAt": "2025-05-16T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "0559bd0a-1376-2141-0a43-006041650741",
+      "Name": "Implementing partners - Southern Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 20,
+      "CreatedAt": "2024-07-03T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "039055d9-2601-0c30-046d-0040d21c2695",
+      "Name": "Partner organizations - Luapula Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 27,
+      "CreatedAt": "2025-02-12T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "0429bb73-060b-0b60-1bce-00499343e657",
+      "Name": "Implementing partners - Southern Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 51,
+      "CreatedAt": "2024-02-23T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z"
+    },
+    {
+      "Id": "01e26bdb-1f29-0a3d-12a0-007dd7f48a8a",
+      "Name": "Donors - Luapula Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 79,
+      "CreatedAt": "2025-09-22T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z"
+    },
+    {
+      "Id": "04378bdd-1f9c-26a3-1d0b-00427b09aed1",
+      "Name": "Partner organizations - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 37,
+      "CreatedAt": "2024-09-18T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "05d56886-0c33-0c6b-0fc2-003417f3a78c",
+      "Name": "Beneficiaries - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 21,
+      "CreatedAt": "2024-03-16T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "05bd9d7c-0e57-1f9f-0de3-001c6150b1a8",
+      "Name": "Partner organizations - Luapula Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 38,
+      "CreatedAt": "2025-04-06T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "050c3a7a-2689-0e52-04f6-0058dde1c7a4",
+      "Name": "Implementing partners - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 67,
+      "CreatedAt": "2025-06-16T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "046a2cdb-1660-1cff-08ec-00818d237b8b",
+      "Name": "Partner organizations - rural areas",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 62,
+      "CreatedAt": "2024-09-22T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "00d44b6c-0cde-182d-1a81-00682ba3aeed",
+      "Name": "Donors - Eastern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 91,
+      "CreatedAt": "2023-12-29T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "0447b8c4-239e-1575-1d61-00e4f48da1a7",
+      "Name": "Beneficiaries - Southern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 47,
+      "CreatedAt": "2024-04-20T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "041ed4b4-14ad-1e8f-122b-004e92cfde4f",
+      "Name": "Implementing partners - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 72,
+      "CreatedAt": "2025-04-12T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "030014f7-2532-1e51-178c-00319ce98220",
+      "Name": "Partner organizations - Eastern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 28,
+      "CreatedAt": "2025-06-05T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "04582f83-255c-093e-0f94-00e56ec7a3c3",
+      "Name": "Donors - Luapula Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 43,
+      "CreatedAt": "2025-01-01T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "0318982f-0ab1-24c4-20c7-00da95cedbfe",
+      "Name": "Beneficiaries - rural areas",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 55,
+      "CreatedAt": "2024-08-13T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "0507267b-1103-179e-1781-007f035c30a0",
+      "Name": "Partner organizations - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 88,
+      "CreatedAt": "2025-07-13T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "0529a21f-0945-1bcf-2514-0028910e22df",
+      "Name": "Donors - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 45,
+      "CreatedAt": "2024-04-06T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "0305fca1-2394-1a53-0ab5-005fdd8eea23",
+      "Name": "Implementing partners - Southern Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 32,
+      "CreatedAt": "2025-05-14T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z"
+    },
+    {
+      "Id": "01d9ec96-133e-2436-12ee-004e8a50a1cc",
+      "Name": "Partner organizations - Southern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 44,
+      "CreatedAt": "2025-06-13T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "047058d9-1d74-1361-1d3e-005d5bddcdfe",
+      "Name": "Beneficiaries - Luapula Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2025-04-12T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "0396d904-2354-0fd4-16dd-005c8fcff29d",
+      "Name": "Implementing partners - Southern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 25,
+      "CreatedAt": "2024-05-06T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "025cc2f8-1b23-26f0-0570-0068b9793600",
+      "Name": "Donors - Southern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 20,
+      "CreatedAt": "2024-04-22T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "0279df19-19b1-18c9-2287-002578756659",
+      "Name": "Donors - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 21,
+      "CreatedAt": "2024-08-28T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "05a1b88d-090e-141e-16fe-0073f425c535",
+      "Name": "Implementing partners - Eastern Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 25,
+      "CreatedAt": "2025-02-12T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "0476303d-1323-233a-0da1-00301225d4d7",
+      "Name": "Implementing partners - Luapula Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 34,
+      "CreatedAt": "2025-05-04T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "0552b598-1dc9-1022-2006-00b8ddd0d8a3",
+      "Name": "Implementing partners - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 45,
+      "CreatedAt": "2024-03-01T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "03142dc6-1ec9-09f0-250c-00d54fb5d184",
+      "Name": "Implementing partners - Luapula Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 92,
+      "CreatedAt": "2025-01-23T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "0199122f-180d-223f-22f5-00d85a969a2a",
+      "Name": "Beneficiaries - Luapula Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 88,
+      "CreatedAt": "2025-08-21T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z"
+    },
+    {
+      "Id": "0113699a-15da-1757-138e-0066300ae8cd",
+      "Name": "Beneficiaries - Luapula Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 33,
+      "CreatedAt": "2024-07-21T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "0199d5c6-227e-1b2b-04b0-005785df223b",
+      "Name": "Partner organizations - Eastern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 84,
+      "CreatedAt": "2025-02-12T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "031b2444-15da-092f-236d-00886860cf7f",
+      "Name": "Partner organizations - Eastern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 32,
+      "CreatedAt": "2024-12-27T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "0501dc9d-23ac-055b-1948-0062f0edfadd",
+      "Name": "Partner organizations - Southern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 92,
+      "CreatedAt": "2025-01-12T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "04388ceb-0bc9-1a5b-1208-00af68d55c37",
+      "Name": "Beneficiaries - Eastern Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 87,
+      "CreatedAt": "2024-03-20T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "030ab4ff-21f3-1f24-1b9e-00c780d02af8",
+      "Name": "Implementing partners - Eastern Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 32,
+      "CreatedAt": "2024-07-05T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "04bc20ba-09c2-1410-14f7-0083cce8b55d",
+      "Name": "Implementing partners - rural areas",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2023-12-14T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "03031aa1-0a38-0927-0dec-00c7484d0cd0",
+      "Name": "Beneficiaries - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 76,
+      "CreatedAt": "2024-02-29T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "03122f1a-1cdb-0638-10f5-00dffe8420f5",
+      "Name": "Donors - Southern Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2024-06-10T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "00ac139f-19d0-0540-1c5e-004294c5300b",
+      "Name": "Partner organizations - Eastern Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 79,
+      "CreatedAt": "2024-09-05T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "050813f3-0dc8-18c2-0c79-00b68ef63cee",
+      "Name": "Partner organizations - rural areas",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 93,
+      "CreatedAt": "2024-07-24T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "055b45f0-0f44-14d6-0f2a-00d366bd35db",
+      "Name": "Implementing partners - Eastern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 80,
+      "CreatedAt": "2024-07-10T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "0545f03f-0958-10cb-0fb8-003b5ec99be6",
+      "Name": "Donors - Luapula Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 68,
+      "CreatedAt": "2024-01-14T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "04f94be9-0b12-1f62-16b1-00bd6e3b8389",
+      "Name": "Partner organizations - Eastern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 57,
+      "CreatedAt": "2025-03-15T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "0235b05b-1a57-156a-2089-0080ac7cb57e",
+      "Name": "Partner organizations - Southern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 61,
+      "CreatedAt": "2024-06-03T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2026-3411",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "impact assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Donor funding",
+          "Severity": "Low",
+          "Score": 23
+        },
+        {
+          "Name": "Impact assessment",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "014455e1-1109-05cf-2049-002171998063",
+      "Name": "Implementing partners - Luapula Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 38,
+      "CreatedAt": "2025-06-28T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2021-9166",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "impact assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "Critical",
+          "Score": 11
+        },
+        {
+          "Name": "Development projects",
+          "Severity": "Critical",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04dc5ce2-1ec4-2092-0d60-006f362555ca",
+      "Name": "Implementing partners - Southern Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 32,
+      "CreatedAt": "2024-12-04T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2026-9082",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "development projects",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Development projects",
+          "Severity": "Critical",
+          "Score": 22
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Critical",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0562c5d1-15fc-154e-22af-00ba613a0fd4",
+      "Name": "Partner organizations - Eastern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2025-04-03T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2023-8746",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Development projects",
+          "Severity": "High",
+          "Score": 27
+        },
+        {
+          "Name": "Development projects",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "055d445f-0d74-1a42-25f9-003e4981a54e",
+      "Name": "Donors - Luapula Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 30,
+      "CreatedAt": "2025-03-20T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2021-6066",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Donor funding",
+          "Severity": "Low",
+          "Score": 20
+        },
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "Critical",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0179fcfe-1456-051e-1f36-00a2927a744b",
+      "Name": "Partner organizations - rural areas",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 92,
+      "CreatedAt": "2024-02-04T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2022-9985",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "rural areas",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Development projects",
+          "Severity": "High",
+          "Score": 31
+        },
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00df28d0-2325-1ea2-0ce1-00552ac8af11",
+      "Name": "Donors - Southern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2025-10-02T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2022-1724",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "impact assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "rural areas",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Development projects",
+          "Severity": "Low",
+          "Score": 20
+        },
+        {
+          "Name": "Donor funding",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "051a7bd3-203f-23e7-204f-00baf773e831",
+      "Name": "Beneficiaries - Eastern Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 83,
+      "CreatedAt": "2025-05-16T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2023-3799",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "rural areas",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Program implementation",
+          "Severity": "Medium",
+          "Score": 35
+        },
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0559bd0a-1376-2141-0a43-006041650741",
+      "Name": "Implementing partners - Southern Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 20,
+      "CreatedAt": "2024-07-03T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2024-8959",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Luapula Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "Critical",
+          "Score": 38
+        },
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "039055d9-2601-0c30-046d-0040d21c2695",
+      "Name": "Partner organizations - Luapula Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 27,
+      "CreatedAt": "2025-02-12T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2022-1608",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Program implementation",
+          "Severity": "High",
+          "Score": 26
+        },
+        {
+          "Name": "Impact assessment",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0429bb73-060b-0b60-1bce-00499343e657",
+      "Name": "Implementing partners - Southern Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 51,
+      "CreatedAt": "2024-02-23T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2020-1096",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "High",
+          "Score": 31
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e26bdb-1f29-0a3d-12a0-007dd7f48a8a",
+      "Name": "Donors - Luapula Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 79,
+      "CreatedAt": "2025-09-22T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2022-6062",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Donor funding",
+          "Severity": "High",
+          "Score": 34
+        },
+        {
+          "Name": "Development projects",
+          "Severity": "Medium",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04378bdd-1f9c-26a3-1d0b-00427b09aed1",
+      "Name": "Partner organizations - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 37,
+      "CreatedAt": "2024-09-18T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2021-5734",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Program implementation",
+          "Severity": "Critical",
+          "Score": 18
+        },
+        {
+          "Name": "Development projects",
+          "Severity": "Critical",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d56886-0c33-0c6b-0fc2-003417f3a78c",
+      "Name": "Beneficiaries - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 21,
+      "CreatedAt": "2024-03-16T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2020-6177",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "High",
+          "Score": 27
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05bd9d7c-0e57-1f9f-0de3-001c6150b1a8",
+      "Name": "Partner organizations - Luapula Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 38,
+      "CreatedAt": "2025-04-06T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2022-4589",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "rural areas",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "Critical",
+          "Score": 22
+        },
+        {
+          "Name": "Impact assessment",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "050c3a7a-2689-0e52-04f6-0058dde1c7a4",
+      "Name": "Implementing partners - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 67,
+      "CreatedAt": "2025-06-16T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2025-2345",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "Critical",
+          "Score": 30
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "046a2cdb-1660-1cff-08ec-00818d237b8b",
+      "Name": "Partner organizations - rural areas",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 62,
+      "CreatedAt": "2024-09-22T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2026-7962",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Luapula Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "Low",
+          "Score": 45
+        },
+        {
+          "Name": "Impact assessment",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00d44b6c-0cde-182d-1a81-00682ba3aeed",
+      "Name": "Donors - Eastern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 91,
+      "CreatedAt": "2023-12-29T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2020-2055",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "rural areas",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "Critical",
+          "Score": 43
+        },
+        {
+          "Name": "Donor funding",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0447b8c4-239e-1575-1d61-00e4f48da1a7",
+      "Name": "Beneficiaries - Southern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 47,
+      "CreatedAt": "2024-04-20T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2021-8192",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "impact assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Luapula Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "Low",
+          "Score": 36
+        },
+        {
+          "Name": "Impact assessment",
+          "Severity": "Critical",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "041ed4b4-14ad-1e8f-122b-004e92cfde4f",
+      "Name": "Implementing partners - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 72,
+      "CreatedAt": "2025-04-12T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2025-2819",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "development projects",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "Medium",
+          "Score": 41
+        },
+        {
+          "Name": "Impact assessment",
+          "Severity": "High",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "030014f7-2532-1e51-178c-00319ce98220",
+      "Name": "Partner organizations - Eastern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 28,
+      "CreatedAt": "2025-06-05T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2023-9129",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "development projects",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "Critical",
+          "Score": 34
+        },
+        {
+          "Name": "Donor funding",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04582f83-255c-093e-0f94-00e56ec7a3c3",
+      "Name": "Donors - Luapula Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 43,
+      "CreatedAt": "2025-01-01T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2026-8612",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "development projects",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Luapula Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "High",
+          "Score": 40
+        },
+        {
+          "Name": "Impact assessment",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0318982f-0ab1-24c4-20c7-00da95cedbfe",
+      "Name": "Beneficiaries - rural areas",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 55,
+      "CreatedAt": "2024-08-13T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2023-4215",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "rural areas",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Development projects",
+          "Severity": "Critical",
+          "Score": 12
+        },
+        {
+          "Name": "Development projects",
+          "Severity": "Critical",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0507267b-1103-179e-1781-007f035c30a0",
+      "Name": "Partner organizations - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 88,
+      "CreatedAt": "2025-07-13T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2024-1878",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Luapula Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Development projects",
+          "Severity": "Low",
+          "Score": 10
+        },
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "High",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0529a21f-0945-1bcf-2514-0028910e22df",
+      "Name": "Donors - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 45,
+      "CreatedAt": "2024-04-06T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2020-7580",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Luapula Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Development projects",
+          "Severity": "Medium",
+          "Score": 22
+        },
+        {
+          "Name": "Impact assessment",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0305fca1-2394-1a53-0ab5-005fdd8eea23",
+      "Name": "Implementing partners - Southern Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 32,
+      "CreatedAt": "2025-05-14T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2023-3598",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "impact assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Luapula Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "High",
+          "Score": 20
+        },
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01d9ec96-133e-2436-12ee-004e8a50a1cc",
+      "Name": "Partner organizations - Southern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 44,
+      "CreatedAt": "2025-06-13T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2025-8625",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "Medium",
+          "Score": 41
+        },
+        {
+          "Name": "Impact assessment",
+          "Severity": "Medium",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "047058d9-1d74-1361-1d3e-005d5bddcdfe",
+      "Name": "Beneficiaries - Luapula Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2025-04-12T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2022-2099",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "impact assessment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Program implementation",
+          "Severity": "Medium",
+          "Score": 16
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0396d904-2354-0fd4-16dd-005c8fcff29d",
+      "Name": "Implementing partners - Southern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 25,
+      "CreatedAt": "2024-05-06T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2024-2919",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "Critical",
+          "Score": 34
+        },
+        {
+          "Name": "Development projects",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "025cc2f8-1b23-26f0-0570-0068b9793600",
+      "Name": "Donors - Southern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 20,
+      "CreatedAt": "2024-04-22T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2022-9322",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Development projects",
+          "Severity": "Low",
+          "Score": 21
+        },
+        {
+          "Name": "Development projects",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0279df19-19b1-18c9-2287-002578756659",
+      "Name": "Donors - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 21,
+      "CreatedAt": "2024-08-28T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2026-5328",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "development projects",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "Low",
+          "Score": 38
+        },
+        {
+          "Name": "Development projects",
+          "Severity": "Critical",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05a1b88d-090e-141e-16fe-0073f425c535",
+      "Name": "Implementing partners - Eastern Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 25,
+      "CreatedAt": "2025-02-12T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2021-4302",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Donor funding",
+          "Severity": "Medium",
+          "Score": 24
+        },
+        {
+          "Name": "Impact assessment",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0476303d-1323-233a-0da1-00301225d4d7",
+      "Name": "Implementing partners - Luapula Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 34,
+      "CreatedAt": "2025-05-04T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2024-8624",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Donor funding",
+          "Severity": "Low",
+          "Score": 27
+        },
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "High",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0552b598-1dc9-1022-2006-00b8ddd0d8a3",
+      "Name": "Implementing partners - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 45,
+      "CreatedAt": "2024-03-01T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2024-5071",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "rural areas",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Donor funding",
+          "Severity": "Low",
+          "Score": 14
+        },
+        {
+          "Name": "Development projects",
+          "Severity": "Medium",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03142dc6-1ec9-09f0-250c-00d54fb5d184",
+      "Name": "Implementing partners - Luapula Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 92,
+      "CreatedAt": "2025-01-23T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2021-1763",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "rural areas",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "Low",
+          "Score": 28
+        },
+        {
+          "Name": "Donor funding",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0199122f-180d-223f-22f5-00d85a969a2a",
+      "Name": "Beneficiaries - Luapula Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 88,
+      "CreatedAt": "2025-08-21T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2020-4667",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "High",
+          "Score": 40
+        },
+        {
+          "Name": "Donor funding",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0113699a-15da-1757-138e-0066300ae8cd",
+      "Name": "Beneficiaries - Luapula Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 33,
+      "CreatedAt": "2024-07-21T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2024-8343",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "Medium",
+          "Score": 40
+        },
+        {
+          "Name": "Donor funding",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0199d5c6-227e-1b2b-04b0-005785df223b",
+      "Name": "Partner organizations - Eastern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 84,
+      "CreatedAt": "2025-02-12T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2025-5782",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Donor funding",
+          "Severity": "Low",
+          "Score": 44
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "031b2444-15da-092f-236d-00886860cf7f",
+      "Name": "Partner organizations - Eastern Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 32,
+      "CreatedAt": "2024-12-27T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2023-6133",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Southern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Development projects",
+          "Severity": "Medium",
+          "Score": 19
+        },
+        {
+          "Name": "Development projects",
+          "Severity": "Medium",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0501dc9d-23ac-055b-1948-0062f0edfadd",
+      "Name": "Partner organizations - Southern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 92,
+      "CreatedAt": "2025-01-12T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2025-8460",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "High",
+          "Score": 32
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Critical",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04388ceb-0bc9-1a5b-1208-00af68d55c37",
+      "Name": "Beneficiaries - Eastern Province",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 87,
+      "CreatedAt": "2024-03-20T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2026-4349",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "Critical",
+          "Score": 43
+        },
+        {
+          "Name": "Development projects",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "030ab4ff-21f3-1f24-1b9e-00c780d02af8",
+      "Name": "Implementing partners - Eastern Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 32,
+      "CreatedAt": "2024-07-05T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2023-8862",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "development projects",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "rural areas",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "Medium",
+          "Score": 35
+        },
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "Medium",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04bc20ba-09c2-1410-14f7-0083cce8b55d",
+      "Name": "Implementing partners - rural areas",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2023-12-14T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2026-5605",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Development projects",
+          "Severity": "High",
+          "Score": 33
+        },
+        {
+          "Name": "Impact assessment",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03031aa1-0a38-0927-0dec-00c7484d0cd0",
+      "Name": "Beneficiaries - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 76,
+      "CreatedAt": "2024-02-29T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2023-6681",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "rural areas",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "Critical",
+          "Score": 41
+        },
+        {
+          "Name": "Donor funding",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03122f1a-1cdb-0638-10f5-00dffe8420f5",
+      "Name": "Donors - Southern Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2024-06-10T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2025-3254",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "development projects",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Donor funding",
+          "Severity": "Medium",
+          "Score": 43
+        },
+        {
+          "Name": "Impact assessment",
+          "Severity": "Medium",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00ac139f-19d0-0540-1c5e-004294c5300b",
+      "Name": "Partner organizations - Eastern Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 79,
+      "CreatedAt": "2024-09-05T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2021-6008",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "donor funding",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Luapula Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Impact assessment",
+          "Severity": "Critical",
+          "Score": 29
+        },
+        {
+          "Name": "Donor funding",
+          "Severity": "High",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "050813f3-0dc8-18c2-0c79-00b68ef63cee",
+      "Name": "Partner organizations - rural areas",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 93,
+      "CreatedAt": "2024-07-24T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2023-7020",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "humanitarian aid",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Development projects",
+          "Severity": "High",
+          "Score": 28
+        },
+        {
+          "Name": "Donor funding",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "055b45f0-0f44-14d6-0f2a-00d366bd35db",
+      "Name": "Implementing partners - Eastern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 80,
+      "CreatedAt": "2024-07-10T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2023-5598",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Luapula Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Development projects",
+          "Severity": "Medium",
+          "Score": 25
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0545f03f-0958-10cb-0fb8-003b5ec99be6",
+      "Name": "Donors - Luapula Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 68,
+      "CreatedAt": "2024-01-14T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2026-2354",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "development projects",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Development projects",
+          "Severity": "Critical",
+          "Score": 29
+        },
+        {
+          "Name": "Humanitarian aid",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04f94be9-0b12-1f62-16b1-00bd6e3b8389",
+      "Name": "Partner organizations - Eastern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 57,
+      "CreatedAt": "2025-03-15T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "INT-2021-5002",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Eastern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "International NGOs",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Donor funding",
+          "Severity": "High",
+          "Score": 11
+        },
+        {
+          "Name": "Donor funding",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    }
+  ]
+}

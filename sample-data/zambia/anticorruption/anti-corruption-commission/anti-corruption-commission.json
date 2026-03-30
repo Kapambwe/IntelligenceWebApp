@@ -1,0 +1,2002 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "Zambia Anti-Corruption Commission - Headquarters",
+    "Country": "Zambia",
+    "Headquarters": "Chilanga, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-27T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "24",
+      "AssetsRecovered": "K24.4M",
+      "CourtConvictions": "11 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Investigation Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-15T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "35",
+      "AssetsRecovered": "K24.7M",
+      "CourtConvictions": "19 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Prosecution Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-03T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "41",
+      "AssetsRecovered": "K29.2M",
+      "CourtConvictions": "18 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Intelligence Section",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-03T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-21T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "60",
+      "AssetsRecovered": "K22.2M",
+      "CourtConvictions": "10 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Prevention Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-05T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-11-10T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "25",
+      "AssetsRecovered": "K20.9M",
+      "CourtConvictions": "14 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Asset Recovery Team",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-11-29T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-21T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "60",
+      "AssetsRecovered": "K21.2M",
+      "CourtConvictions": "14 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Whistleblower Protection Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-14T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-11-15T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "22",
+      "AssetsRecovered": "K20.1M",
+      "CourtConvictions": "16 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Public Education Department",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-28T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "47",
+      "AssetsRecovered": "K31.0M",
+      "CourtConvictions": "19 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Kitwe",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-11-06T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "42",
+      "AssetsRecovered": "K25.0M",
+      "CourtConvictions": "13 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Kasama",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-05T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-25T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "24",
+      "AssetsRecovered": "K38.4M",
+      "CourtConvictions": "11 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Kafue",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-13T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-05T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "26",
+      "AssetsRecovered": "K38.7M",
+      "CourtConvictions": "24 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Mazabuka",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-10T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-11-15T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "29",
+      "AssetsRecovered": "K18.5M",
+      "CourtConvictions": "22 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Mongu",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-08T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-13T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "40",
+      "AssetsRecovered": "K21.9M",
+      "CourtConvictions": "17 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Petauke",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-25T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "30",
+      "AssetsRecovered": "K34.5M",
+      "CourtConvictions": "23 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Kabwe",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-03T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "55",
+      "AssetsRecovered": "K22.1M",
+      "CourtConvictions": "12 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Petauke",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-19T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-10T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "48",
+      "AssetsRecovered": "K36.6M",
+      "CourtConvictions": "10 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Mbala",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-11-14T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "24",
+      "AssetsRecovered": "K12.7M",
+      "CourtConvictions": "15 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Lusaka",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-31T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-27T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "52",
+      "AssetsRecovered": "K30.9M",
+      "CourtConvictions": "13 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Ndola",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-28T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-24T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "34",
+      "AssetsRecovered": "K33.4M",
+      "CourtConvictions": "21 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Lundazi",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-31T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "35",
+      "AssetsRecovered": "K12.1M",
+      "CourtConvictions": "10 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Solwezi",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-28T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "56",
+      "AssetsRecovered": "K13.5M",
+      "CourtConvictions": "25 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Monze",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-11-21T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "53",
+      "AssetsRecovered": "K20.1M",
+      "CourtConvictions": "20 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Lusaka",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-11-02T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "40",
+      "AssetsRecovered": "K23.2M",
+      "CourtConvictions": "14 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Petauke",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-23T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "36",
+      "AssetsRecovered": "K36.7M",
+      "CourtConvictions": "12 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Chingola",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-03T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-24T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "55",
+      "AssetsRecovered": "K26.2M",
+      "CourtConvictions": "19 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Chipata",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-11-14T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "26",
+      "AssetsRecovered": "K36.2M",
+      "CourtConvictions": "20 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Kasama",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-10T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-25T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "49",
+      "AssetsRecovered": "K27.1M",
+      "CourtConvictions": "24 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Mongu",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-08T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-27T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "56",
+      "AssetsRecovered": "K11.8M",
+      "CourtConvictions": "25 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Mpika",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-11-27T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-21T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "22",
+      "AssetsRecovered": "K31.7M",
+      "CourtConvictions": "13 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Kafue",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-20T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "23",
+      "AssetsRecovered": "K31.6M",
+      "CourtConvictions": "16 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Kafue",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-11-06T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "25",
+      "AssetsRecovered": "K28.2M",
+      "CourtConvictions": "18 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Mongu",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-10T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-11-03T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "59",
+      "AssetsRecovered": "K33.2M",
+      "CourtConvictions": "16 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Monze",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-27T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "53",
+      "AssetsRecovered": "K33.5M",
+      "CourtConvictions": "20 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Solwezi",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-28T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-11-15T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "47",
+      "AssetsRecovered": "K32.7M",
+      "CourtConvictions": "23 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Mansa",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-09T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "26",
+      "AssetsRecovered": "K21.5M",
+      "CourtConvictions": "11 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Petauke",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-05T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-27T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "35",
+      "AssetsRecovered": "K26.6M",
+      "CourtConvictions": "23 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Choma",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-21T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "33",
+      "AssetsRecovered": "K23.0M",
+      "CourtConvictions": "12 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Choma",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-06T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-11-11T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "21",
+      "AssetsRecovered": "K13.0M",
+      "CourtConvictions": "24 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Choma",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-06T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-19T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "43",
+      "AssetsRecovered": "K20.1M",
+      "CourtConvictions": "22 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Mbala",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-03T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "38",
+      "AssetsRecovered": "K18.8M",
+      "CourtConvictions": "14 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Monze",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2026-01-02T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-30T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "39",
+      "AssetsRecovered": "K27.1M",
+      "CourtConvictions": "18 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Mpika",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-14T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-30T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "55",
+      "AssetsRecovered": "K15.8M",
+      "CourtConvictions": "11 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Petauke",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-08T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-23T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "42",
+      "AssetsRecovered": "K25.4M",
+      "CourtConvictions": "14 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Mongu",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-14T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-05T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "44",
+      "AssetsRecovered": "K18.0M",
+      "CourtConvictions": "22 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Lundazi",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-04T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-14T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "21",
+      "AssetsRecovered": "K29.7M",
+      "CourtConvictions": "22 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Mongu",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-05T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-20T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "37",
+      "AssetsRecovered": "K34.2M",
+      "CourtConvictions": "22 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Livingstone",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-10-27T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "59",
+      "AssetsRecovered": "K23.4M",
+      "CourtConvictions": "17 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Mongu",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-22T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "42",
+      "AssetsRecovered": "K30.2M",
+      "CourtConvictions": "14 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Livingstone",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-28T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-11-06T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "32",
+      "AssetsRecovered": "K20.5M",
+      "CourtConvictions": "16 in past six months"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "ACC Regional Office - Lundazi",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Investigate corruption allegations, recover stolen assets, and support prosecutions in the Economic and Financial Crimes Court.",
+    "TopPriorities": [
+      "Bring high-value bribery and procurement fraud cases to trial.",
+      "Expand whistleblower protections and secure anonymous tips electronically.",
+      "Publish integrity dashboards tracing asset recovery flows."
+    ],
+    "ActiveOperations": [
+      "Cross-border procurement fraud investigations in partnership with ZRA.",
+      "Live corruption risk scoring for supply chains using financial monitoring.",
+      "Integrity training for public officials and local councils."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Recovered misappropriated public funds",
+        "Date": "2025-12-10T00:00:00Z",
+        "Summary": "Tracked fictitious suppliers and returned funds to government projects."
+      },
+      {
+        "Title": "Filed charges against corrupt officials",
+        "Date": "2025-09-22T00:00:00Z",
+        "Summary": "Presented evidence of procurement fraud in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court",
+      "Bank of Zambia Financial Intelligence Centre",
+      "Transparency International Zambia"
+    ],
+    "Metrics": {
+      "InvestigationsOpen": "38",
+      "AssetsRecovered": "K27.4M",
+      "CourtConvictions": "21 in past six months"
+    }
+  }
+]

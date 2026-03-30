@@ -1,0 +1,1175 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "0595d43e-1225-098f-1f3d-00c6be99846a",
+      "EntityId": "042570b4-05fe-0c65-178e-00d6a6760621",
+      "EntityName": "Government officials - Livingstone",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-01T17:30:31Z",
+      "Notes": "Story publication for corruption exposure verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-24T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "05e51204-14f1-25bd-11be-00527f12a706",
+      "EntityId": "0300dbb5-132c-06f0-2140-00926fd81a6e",
+      "EntityName": "Government officials - Lusaka",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-03T17:30:31Z",
+      "Notes": "Fact-checking for government accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "03abe506-1f15-255c-2492-009ccfaeb632",
+      "EntityId": "0279329f-1369-1654-1a97-007553882c10",
+      "EntityName": "Corporations - Kitwe",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-30T17:30:31Z",
+      "Notes": "Editorial review for news reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-30T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03923f54-0503-1a60-0452-00d7261f07a6",
+      "EntityId": "01ffb454-26a9-0b5f-06b6-005b63911d73",
+      "EntityName": "Public figures - Livingstone",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-02T17:30:31Z",
+      "Notes": "Source verification for corruption exposure verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-06T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "00fd1715-0ec7-0819-095c-00b696737d12",
+      "EntityId": "03f08e5e-2304-0d5c-0859-008219a4499d",
+      "EntityName": "News sources - Kitwe",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-06T17:30:31Z",
+      "Notes": "Investigation for government accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-25T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02853f62-057e-0b49-1e2b-00cd24027777",
+      "EntityId": "02777b28-0c84-0afb-0961-008cab38caa0",
+      "EntityName": "News sources - Lusaka",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2026-01-03T17:30:31Z",
+      "Notes": "Story publication for public interest stories verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-28T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "041ebe98-0815-1765-1ea0-002db98570ed",
+      "EntityId": "04ea7426-1a24-1a5d-0f53-0023da2c5a4e",
+      "EntityName": "Government officials - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-10-27T17:30:31Z",
+      "Notes": "Story publication for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-29T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-03T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04cdde68-23e9-1625-101f-00959a231962",
+      "EntityId": "0141f0d3-0ca6-0c6b-0daf-006c347d7c90",
+      "EntityName": "Government officials - Copperbelt",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-04T17:30:31Z",
+      "Notes": "Source verification for corruption exposure verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-10T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-21T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05328dfe-086a-262b-19de-009b2147462b",
+      "EntityId": "01cb6016-2137-180a-22ff-00e1ace42392",
+      "EntityName": "News sources - Copperbelt",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2026-01-12T17:30:31Z",
+      "Notes": "Investigation for public interest stories verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-06T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-25T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02a64d72-089a-1f12-1f28-002b015bf344",
+      "EntityId": "05275e00-1568-23ef-2258-00c1f2a4238a",
+      "EntityName": "Corporations - Copperbelt",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2026-01-18T17:30:31Z",
+      "Notes": "Fact-checking for public interest stories verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-13T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-30T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01469c1a-1532-0cac-17c9-00a1df89b156",
+      "EntityId": "05aec187-1713-22e7-1413-003d2de0d63d",
+      "EntityName": "Government officials - Copperbelt",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2026-01-04T17:30:31Z",
+      "Notes": "Source verification for public interest stories verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-25T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01809b19-092f-1eb5-1dda-0041b1479ea7",
+      "EntityId": "05edeb75-2147-258c-0c8f-00c6952bee72",
+      "EntityName": "Corporations - Kitwe",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-30T17:30:31Z",
+      "Notes": "Source verification for government accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-25T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "045d5222-2007-11ba-0f22-005cfdb6b4c3",
+      "EntityId": "04a4b3b9-051b-20ff-253c-00a225c9dc50",
+      "EntityName": "Public figures - Kitwe",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-08T17:30:31Z",
+      "Notes": "Investigation for public interest stories verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "026a2565-06e3-136b-25c1-0096cf04e3a7",
+      "EntityId": "036182b8-0d3c-0b8b-048e-00299edcf1f0",
+      "EntityName": "Government officials - Livingstone",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-02T17:30:31Z",
+      "Notes": "Story publication for government accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-13T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-19T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-26T17:30:31Z"
+    },
+    {
+      "Id": "02026b20-2050-25a9-07cb-00cd27f0ba0d",
+      "EntityId": "03ed26b1-2379-0c95-239f-00b1ea91804b",
+      "EntityName": "Government officials - Lusaka",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-10-27T17:30:31Z",
+      "Notes": "Editorial review for government accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-29T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-21T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "027f672b-1829-07df-26f7-005134ac58ad",
+      "EntityId": "05d07742-12f4-0cce-0ee2-0058480d344f",
+      "EntityName": "Government officials - Copperbelt",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-15T17:30:31Z",
+      "Notes": "Source verification for government accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-30T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0297f81b-26bf-136d-160d-00d63d6a3c62",
+      "EntityId": "01a0e52d-1edd-1609-1613-008b71fff16e",
+      "EntityName": "Public figures - Lusaka",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-15T17:30:31Z",
+      "Notes": "Story publication for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-13T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-13T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-16T17:30:31Z"
+    },
+    {
+      "Id": "014b1524-1e54-1edc-1bb4-007311cbd2e5",
+      "EntityId": "038549d1-07d8-25a1-1aa9-00beea391f5f",
+      "EntityName": "Government officials - nationwide coverage",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-31T17:30:31Z",
+      "Notes": "Editorial review for public interest stories verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-14T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-11-23T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "023a8230-1671-1bcd-1a42-002a255031ad",
+      "EntityId": "056e7630-0ee7-0ec2-1319-002f891777d5",
+      "EntityName": "Government officials - Copperbelt",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-06T17:30:31Z",
+      "Notes": "Investigation for government accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-12T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "05df3365-0cdf-0d69-16c3-00461b9ec102",
+      "EntityId": "051ed1f8-0f68-0883-140a-0089eecb8880",
+      "EntityName": "Corporations - Copperbelt",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-13T17:30:31Z",
+      "Notes": "Editorial review for news reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "013091f1-18ed-0f8b-23b9-002653ca473a",
+      "EntityId": "04f0f7fa-1790-0948-2660-00e6157e565c",
+      "EntityName": "Government officials - Kitwe",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2026-01-16T17:30:31Z",
+      "Notes": "Fact-checking for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-02T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04db4e06-10fd-1a23-2321-00c7e5df7fe9",
+      "EntityId": "049873f8-0503-22f0-1ce5-0084294c5ab8",
+      "EntityName": "Government officials - Livingstone",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-12-24T17:30:31Z",
+      "Notes": "Investigation for public interest stories verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03b877aa-25aa-0dd9-1d59-0019f6028cc9",
+      "EntityId": "044b104d-0e2e-0998-19ce-006392c363ff",
+      "EntityName": "News sources - Kitwe",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-12T17:30:31Z",
+      "Notes": "Fact-checking for news reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03f50d95-158d-1086-185d-001b0a07af01",
+      "EntityId": "0467bc7a-079f-0a73-22f9-00259398d71f",
+      "EntityName": "Government officials - Kitwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-03T17:30:31Z",
+      "Notes": "Editorial review for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-27T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01f04fb1-14da-1193-0d9e-004341f5f67b",
+      "EntityId": "03103a0f-040b-20dc-08f1-00dcf75f58a0",
+      "EntityName": "News sources - Copperbelt",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-12T17:30:31Z",
+      "Notes": "Investigation for public interest stories verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-06T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-11T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-06T17:30:31Z"
+    },
+    {
+      "Id": "025b342a-046e-1778-154e-00479dad9b3b",
+      "EntityId": "0116f7a5-211c-0a58-252f-0043294e1865",
+      "EntityName": "Government officials - Copperbelt",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-13T17:30:31Z",
+      "Notes": "Source verification for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-09T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-07T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "009fd42d-10ef-061c-0957-00d9c844580a",
+      "EntityId": "02e908c5-2351-2379-1d9b-00364976e681",
+      "EntityName": "News sources - Copperbelt",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-17T17:30:31Z",
+      "Notes": "Editorial review for government accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-11T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01e8f4dd-0c7d-227e-110c-00a31d0c5d69",
+      "EntityId": "022b3b43-1924-10fa-0e41-001d8e1b5666",
+      "EntityName": "Corporations - Livingstone",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-02T17:30:31Z",
+      "Notes": "Editorial review for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-29T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0344271e-060c-1530-0d52-00199915c660",
+      "EntityId": "01f0c27d-140e-1b70-0d85-00d612509990",
+      "EntityName": "News sources - Lusaka",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-31T17:30:31Z",
+      "Notes": "Story publication for news reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "057d3e21-08ce-24cf-1633-00d77f11f7ae",
+      "EntityId": "00e18c66-1f05-2674-23d8-0097ccb304e3",
+      "EntityName": "Public figures - Livingstone",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2026-01-09T17:30:31Z",
+      "Notes": "Investigation for public interest stories verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-11T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "049091cb-22b4-0e56-0fbe-005831e95e76",
+      "EntityId": "04220fc2-134e-13a5-177e-00795a472367",
+      "EntityName": "Corporations - Lusaka",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-12-24T17:30:31Z",
+      "Notes": "Investigation for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03c1b5e3-1b34-136e-2656-00a861218338",
+      "EntityId": "0567143d-0645-1423-0fc3-004ad9060451",
+      "EntityName": "Public figures - Kitwe",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-12-26T17:30:31Z",
+      "Notes": "Editorial review for public interest stories verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-31T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-25T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "03838a1b-26f5-0bc1-0ab8-008596b8ce45",
+      "EntityId": "00a60188-03ed-2576-0665-00cc90b96b30",
+      "EntityName": "Corporations - Copperbelt",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-19T17:30:31Z",
+      "Notes": "Fact-checking for government accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-25T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00d176fe-195f-20d3-063a-00e054f3ea16",
+      "EntityId": "02dd0db7-0e14-07c2-1b1f-006f7971cb6a",
+      "EntityName": "Public figures - nationwide coverage",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-21T17:30:31Z",
+      "Notes": "Story publication for corruption exposure verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-11T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "050154ec-18fd-1b2e-0ce8-0026584932d3",
+      "EntityId": "00e96b4d-1061-102d-21b3-00e6e6c46c99",
+      "EntityName": "News sources - nationwide coverage",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-13T17:30:31Z",
+      "Notes": "Investigation for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-24T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03f668d9-0b66-15cb-20f2-001e1c512db5",
+      "EntityId": "04bff458-1ce4-1989-1d5f-004f2fa708dc",
+      "EntityName": "Corporations - nationwide coverage",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-09T17:30:31Z",
+      "Notes": "Investigation for corruption exposure verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-20T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-01T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0153a59c-1e5c-212b-218e-0066615041e0",
+      "EntityId": "01292188-198f-0a55-0de8-008bfa0ab7de",
+      "EntityName": "Corporations - Livingstone",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2026-01-05T17:30:31Z",
+      "Notes": "Investigation for news reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-23T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-01T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03919b86-04e4-0cc2-1453-00369acfd9a5",
+      "EntityId": "0129457d-1eab-100d-0df0-005bb8607686",
+      "EntityName": "News sources - Kitwe",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-13T17:30:31Z",
+      "Notes": "Editorial review for public interest stories verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-11T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-28T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-27T17:30:31Z"
+    },
+    {
+      "Id": "024cb701-0add-257d-1136-003687bd92f1",
+      "EntityId": "01468d28-0ae3-15d5-256b-00ccf67534e6",
+      "EntityName": "News sources - Kitwe",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-28T17:30:31Z",
+      "Notes": "Editorial review for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "00b679f5-2419-0608-1c3f-00b0c45cd6c1",
+      "EntityId": "0247a9c1-181e-04a6-13f9-001f9c4a05a5",
+      "EntityName": "Corporations - Copperbelt",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-10T17:30:31Z",
+      "Notes": "Source verification for news reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-10T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-31T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03587d02-1871-264b-16e2-00e026d3c6b9",
+      "EntityId": "01bbd4eb-16ee-0cd6-2080-00d657f567ef",
+      "EntityName": "News sources - Copperbelt",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-02T17:30:31Z",
+      "Notes": "Story publication for corruption exposure verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-22T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "03ffb4d0-16fc-1e9e-1f4a-0098b7e88522",
+      "EntityId": "03ef5fb1-0868-0b7e-1f14-00a9a92bd27a",
+      "EntityName": "Public figures - nationwide coverage",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-30T17:30:31Z",
+      "Notes": "Investigation for public interest stories verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-29T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ea604f-057f-22a9-1bb6-00e6145b62da",
+      "EntityId": "0141c6fc-0db6-0f3b-19b5-0074497c3b97",
+      "EntityName": "Government officials - nationwide coverage",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2026-01-10T17:30:31Z",
+      "Notes": "Editorial review for investigative journalism verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-03T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "058f957a-1afe-06a7-0b87-0034212362aa",
+      "EntityId": "017f8ad8-25a7-0a5d-0424-00d299b5333d",
+      "EntityName": "News sources - Copperbelt",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-10-22T17:30:31Z",
+      "Notes": "Editorial review for news reporting verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "058a4127-04b6-0985-2509-00d6116277fc",
+      "EntityId": "0145efd8-0b22-21c3-1d02-009888bf8961",
+      "EntityName": "Corporations - Lusaka",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-17T17:30:31Z",
+      "Notes": "Source verification for government accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-24T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "03940b15-0700-2058-0e1d-00cca625ca24",
+      "EntityId": "03e026e4-216b-065a-087e-00a902600596",
+      "EntityName": "Public figures - Lusaka",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-12T17:30:31Z",
+      "Notes": "Source verification for government accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "014e7552-0c94-1649-1b44-003358579f85",
+      "EntityId": "028f0dd1-1584-121f-265d-002f048d3a20",
+      "EntityName": "News sources - Lusaka",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-17T17:30:31Z",
+      "Notes": "Story publication for corruption exposure verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-09T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02d91b6a-079e-095c-0693-005746b98062",
+      "EntityId": "0368cf4c-0704-0ed3-1f2c-00a663768dd1",
+      "EntityName": "Corporations - nationwide coverage",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2026-01-13T17:30:31Z",
+      "Notes": "Editorial review for government accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01491a66-09b6-23fe-085b-00661ed0d9bb",
+      "EntityId": "05cc1405-1c04-0a00-0402-00c2ebf5fbff",
+      "EntityName": "News sources - Livingstone",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-02T17:30:31Z",
+      "Notes": "Story publication for government accountability verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02a96138-20e6-2152-1e5a-00221ff35d97",
+      "EntityId": "05ea0c36-0e44-13cb-0504-0033be9f224d",
+      "EntityName": "Government officials - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-02T17:30:31Z",
+      "Notes": "Fact-checking for public interest stories verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-30T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-21T17:30:31Z"
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 14,
+    "Pending": 22,
+    "Failed": 14
+  }
+}

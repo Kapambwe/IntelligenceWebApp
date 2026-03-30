@@ -1,0 +1,122 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Ministries",
+    "DisplayName": "Ministry of Finance, Economic Development and National Planning",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Set policy, manage budgets, and coordinate multi-sector responses to revenue and security challenges.",
+    "TopPriorities": [
+      "Prioritize expenditures while improving budget transparency.",
+      "Coordinate with ZRA and Bank of Zambia on revenue vulnerabilities.",
+      "Sustain public-private dialogue on sector reforms."
+    ],
+    "ActiveOperations": [
+      "Budget performance committees reviewing monthly revenue-expenditure data.",
+      "Macro-financial risk analysis modeling using sector data.",
+      "Oversight of transparency initiatives publishing registers online."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Policy announcement on sector transparency",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Required enhanced disclosure and reporting requirements."
+      },
+      {
+        "Title": "Strategic sector review launched",
+        "Date": "2025-11-29T00:00:00Z",
+        "Summary": "Published outlook linking forecasts to development programs."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Related sector ministries",
+      "International development partners"
+    ],
+    "Metrics": {
+      "BudgetCoverage": "76% of planned projects",
+      "ForecastAccuracy": "+/- 1% variance",
+      "Reviews": "16 peer reviews completed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Ministries",
+    "DisplayName": "Ministry of Finance, Economic Development and National Planning - Mansa Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Set policy, manage budgets, and coordinate multi-sector responses to revenue and security challenges.",
+    "TopPriorities": [
+      "Prioritize expenditures while improving budget transparency.",
+      "Coordinate with ZRA and Bank of Zambia on revenue vulnerabilities.",
+      "Sustain public-private dialogue on sector reforms."
+    ],
+    "ActiveOperations": [
+      "Budget performance committees reviewing monthly revenue-expenditure data.",
+      "Macro-financial risk analysis modeling using sector data.",
+      "Oversight of transparency initiatives publishing registers online."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Policy announcement on sector transparency",
+        "Date": "2025-12-29T00:00:00Z",
+        "Summary": "Required enhanced disclosure and reporting requirements."
+      },
+      {
+        "Title": "Strategic sector review launched",
+        "Date": "2025-11-11T00:00:00Z",
+        "Summary": "Published outlook linking forecasts to development programs."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Related sector ministries",
+      "International development partners"
+    ],
+    "Metrics": {
+      "BudgetCoverage": "91% of planned projects",
+      "ForecastAccuracy": "+/- 5% variance",
+      "Reviews": "14 peer reviews completed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Ministries",
+    "DisplayName": "Ministry of Finance, Economic Development and National Planning - Chingola Regional Office",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Set policy, manage budgets, and coordinate multi-sector responses to revenue and security challenges.",
+    "TopPriorities": [
+      "Prioritize expenditures while improving budget transparency.",
+      "Coordinate with ZRA and Bank of Zambia on revenue vulnerabilities.",
+      "Sustain public-private dialogue on sector reforms."
+    ],
+    "ActiveOperations": [
+      "Budget performance committees reviewing monthly revenue-expenditure data.",
+      "Macro-financial risk analysis modeling using sector data.",
+      "Oversight of transparency initiatives publishing registers online."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Policy announcement on sector transparency",
+        "Date": "2025-12-12T00:00:00Z",
+        "Summary": "Required enhanced disclosure and reporting requirements."
+      },
+      {
+        "Title": "Strategic sector review launched",
+        "Date": "2025-10-23T00:00:00Z",
+        "Summary": "Published outlook linking forecasts to development programs."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Related sector ministries",
+      "International development partners"
+    ],
+    "Metrics": {
+      "BudgetCoverage": "79% of planned projects",
+      "ForecastAccuracy": "+/- 4% variance",
+      "Reviews": "19 peer reviews completed"
+    }
+  }
+]

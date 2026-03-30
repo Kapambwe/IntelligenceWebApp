@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "03eccb55-0bc0-0c6d-22ca-00aa47f5002d",
+      "Name": "Military units - Mumbwa",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 99,
+      "CreatedAt": "2024-07-01T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "01e74c77-10d0-1eb0-1edc-0094c893ed9d",
+      "Name": "Military units - Mumbwa",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 59,
+      "CreatedAt": "2023-12-19T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "024eb4ee-101d-0f6a-219d-004ab221696a",
+      "Name": "Security personnel - Mumbwa",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 29,
+      "CreatedAt": "2024-09-04T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "01e76b83-201e-1566-1a24-0043c0ecea29",
+      "Name": "Military units - Kabwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 27,
+      "CreatedAt": "2024-04-10T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "03f16045-2647-1f98-220e-00c10ddd821a",
+      "Name": "Defense contractors - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 92,
+      "CreatedAt": "2024-08-13T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "01035391-0d2c-217d-1a94-009b7fdc9201",
+      "Name": "Military units - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 83,
+      "CreatedAt": "2025-09-09T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "041e0265-0d0b-1a0c-0c0e-0040c280d508",
+      "Name": "Security personnel - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 79,
+      "CreatedAt": "2025-07-18T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "03738c1b-0431-2080-08ea-00c1790381e9",
+      "Name": "Defense contractors - Kabwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 71,
+      "CreatedAt": "2024-08-19T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "05549f35-17f8-08c4-0aad-00c18395f2ff",
+      "Name": "Security personnel - Mumbwa",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 23,
+      "CreatedAt": "2025-09-13T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "01e05284-1b8c-0501-12ea-003edb95ef29",
+      "Name": "Defense contractors - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 92,
+      "CreatedAt": "2025-01-30T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "03285322-1541-1ae9-19fb-00c668d0fa5e",
+      "Name": "Security personnel - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 65,
+      "CreatedAt": "2025-09-10T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z"
+    },
+    {
+      "Id": "00a76e86-1120-0510-0c5a-008bb99e7a9c",
+      "Name": "Security personnel - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2024-10-12T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "04ae49f1-0b4f-069a-1738-003b94f5175e",
+      "Name": "Security personnel - Kabwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 97,
+      "CreatedAt": "2025-08-08T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "0594c93e-0aa3-13a9-075c-0045de939d8e",
+      "Name": "Security personnel - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 47,
+      "CreatedAt": "2024-11-16T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "01c7c613-2598-0620-1ed0-00840ac26f1c",
+      "Name": "Suppliers - Kabwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2025-05-27T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "027da336-0544-21e6-20e4-00cc05987c45",
+      "Name": "Defense contractors - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 88,
+      "CreatedAt": "2024-05-02T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "05cc3bb3-1e42-1d37-1d87-00d62fbb237f",
+      "Name": "Military units - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 57,
+      "CreatedAt": "2024-10-17T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z"
+    },
+    {
+      "Id": "0212ef95-19d8-10b1-22e3-00d1da368194",
+      "Name": "Security personnel - Kabwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 61,
+      "CreatedAt": "2023-11-26T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "031b3655-2566-0e2a-1038-00b300612049",
+      "Name": "Military units - Mumbwa",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 71,
+      "CreatedAt": "2024-10-07T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "04d50a76-1c9c-1737-195f-0092653da077",
+      "Name": "Suppliers - Mumbwa",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 90,
+      "CreatedAt": "2024-12-27T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "01709496-0f4a-1547-15a7-0054567da806",
+      "Name": "Defense contractors - Kabwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2025-09-08T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "01a898d2-1b4e-1a2b-21e4-008898641e44",
+      "Name": "Security personnel - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 61,
+      "CreatedAt": "2023-12-07T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "02e6540c-0b46-1221-0429-008fc13a6683",
+      "Name": "Military units - Kabwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 44,
+      "CreatedAt": "2024-05-01T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "0174222f-1ff8-0539-0d04-00bea055c045",
+      "Name": "Military units - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 31,
+      "CreatedAt": "2024-05-21T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "04a4062e-12f7-1195-0c39-00acfc240dcb",
+      "Name": "Defense contractors - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 73,
+      "CreatedAt": "2024-04-10T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "01851890-2538-178d-0f74-00ccc206c782",
+      "Name": "Military units - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 92,
+      "CreatedAt": "2024-04-02T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "0245273b-1c55-182c-06ef-00a6d33ba371",
+      "Name": "Security personnel - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 73,
+      "CreatedAt": "2024-08-26T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "04f45856-14ff-2408-1a98-003655a514f3",
+      "Name": "Suppliers - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 49,
+      "CreatedAt": "2023-11-20T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "01faf3d0-0fff-1928-25db-00470a4fb045",
+      "Name": "Defense contractors - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 71,
+      "CreatedAt": "2024-08-28T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "022c8418-074f-1bb0-0d6d-006f0ebbed8b",
+      "Name": "Military units - Mumbwa",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 54,
+      "CreatedAt": "2024-02-07T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "04110973-1a93-26ca-1e4b-002c201eaf66",
+      "Name": "Defense contractors - Kabwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 94,
+      "CreatedAt": "2025-01-29T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "03ee0658-112e-0eda-1579-003aa2b26055",
+      "Name": "Suppliers - Kabwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 37,
+      "CreatedAt": "2024-06-14T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "04e6d2ec-2018-11a7-223b-00c91e649312",
+      "Name": "Defense contractors - Mumbwa",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 74,
+      "CreatedAt": "2025-05-22T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "04a779e4-0db6-0f19-0ee8-00e86719fa0c",
+      "Name": "Defense contractors - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 86,
+      "CreatedAt": "2024-07-20T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "05cae657-1139-04dc-07ca-0083321c9f18",
+      "Name": "Security personnel - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 45,
+      "CreatedAt": "2025-08-02T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "03105993-0bba-0f58-1489-0062761926d2",
+      "Name": "Defense contractors - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 95,
+      "CreatedAt": "2025-06-07T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z"
+    },
+    {
+      "Id": "00b89ce5-12e3-1ab4-1478-0021fc2151e2",
+      "Name": "Suppliers - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 54,
+      "CreatedAt": "2024-10-25T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "052b2dde-147a-2197-157b-0039d2e6397f",
+      "Name": "Security personnel - Kabwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 23,
+      "CreatedAt": "2024-01-21T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "00e1a8b0-0ab6-0455-0d18-0041fd130603",
+      "Name": "Defense contractors - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 36,
+      "CreatedAt": "2024-05-14T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "0504eae5-1bf7-0732-14c8-0086b112091b",
+      "Name": "Defense contractors - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 35,
+      "CreatedAt": "2025-07-29T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "02668e1b-113c-1a33-0fb3-0087b0ab1fc0",
+      "Name": "Defense contractors - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 85,
+      "CreatedAt": "2025-06-26T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "0243cb47-0c54-09fc-1e21-00aae80ff315",
+      "Name": "Military units - Mumbwa",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 96,
+      "CreatedAt": "2024-08-29T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "026969ff-186e-0b7a-132a-00e881ddef8b",
+      "Name": "Defense contractors - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 27,
+      "CreatedAt": "2024-04-23T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "04707fb6-0892-23ac-0912-009a673b048c",
+      "Name": "Military units - Mumbwa",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 65,
+      "CreatedAt": "2024-11-30T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "01cd4c29-14f4-1744-1ab7-0047a05bff13",
+      "Name": "Security personnel - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 51,
+      "CreatedAt": "2025-01-16T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "05f5baab-2429-1bc4-08b3-009eeab11c87",
+      "Name": "Military units - Kabwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 87,
+      "CreatedAt": "2023-12-13T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "039db4a5-2203-0db4-0940-00ca46b38fe8",
+      "Name": "Suppliers - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 48,
+      "CreatedAt": "2025-03-06T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "05d5737e-15d1-0db1-05c1-00649b158bf6",
+      "Name": "Military units - Mumbwa",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 33,
+      "CreatedAt": "2025-10-05T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "00c86a79-0e84-2692-20af-00616722ed24",
+      "Name": "Military units - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 55,
+      "CreatedAt": "2024-06-18T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "0438ee1e-1057-178a-109d-008f324a871d",
+      "Name": "Military units - Kabwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 76,
+      "CreatedAt": "2025-08-09T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "03eccb55-0bc0-0c6d-22ca-00aa47f5002d",
+      "Name": "Military units - Mumbwa",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 99,
+      "CreatedAt": "2024-07-01T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2024-8214",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "equipment acquisition",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "Low",
+          "Score": 11
+        },
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e74c77-10d0-1eb0-1edc-0094c893ed9d",
+      "Name": "Military units - Mumbwa",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 59,
+      "CreatedAt": "2023-12-19T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2022-9156",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "High",
+          "Score": 35
+        },
+        {
+          "Name": "Logistics",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "024eb4ee-101d-0f6a-219d-004ab221696a",
+      "Name": "Security personnel - Mumbwa",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 29,
+      "CreatedAt": "2024-09-04T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2020-8237",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "security operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "Critical",
+          "Score": 20
+        },
+        {
+          "Name": "Defense contracts",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e76b83-201e-1566-1a24-0043c0ecea29",
+      "Name": "Military units - Kabwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 27,
+      "CreatedAt": "2024-04-10T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2020-6453",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "defense contracts",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "Medium",
+          "Score": 28
+        },
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03f16045-2647-1f98-220e-00c10ddd821a",
+      "Name": "Defense contractors - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 92,
+      "CreatedAt": "2024-08-13T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2026-8890",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "equipment acquisition",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mumbwa",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Logistics",
+          "Severity": "Low",
+          "Score": 30
+        },
+        {
+          "Name": "Defense contracts",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01035391-0d2c-217d-1a94-009b7fdc9201",
+      "Name": "Military units - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 83,
+      "CreatedAt": "2025-09-09T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2023-2405",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "defense contracts",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Defense contracts",
+          "Severity": "Low",
+          "Score": 39
+        },
+        {
+          "Name": "Security operations",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "041e0265-0d0b-1a0c-0c0e-0040c280d508",
+      "Name": "Security personnel - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 79,
+      "CreatedAt": "2025-07-18T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2022-2322",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "logistics",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mumbwa",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "High",
+          "Score": 27
+        },
+        {
+          "Name": "Security operations",
+          "Severity": "Critical",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03738c1b-0431-2080-08ea-00c1790381e9",
+      "Name": "Defense contractors - Kabwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 71,
+      "CreatedAt": "2024-08-19T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2021-6132",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "logistics",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Defense contracts",
+          "Severity": "Critical",
+          "Score": 38
+        },
+        {
+          "Name": "Defense contracts",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05549f35-17f8-08c4-0aad-00c18395f2ff",
+      "Name": "Security personnel - Mumbwa",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 23,
+      "CreatedAt": "2025-09-13T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2020-3374",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "logistics",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Logistics",
+          "Severity": "High",
+          "Score": 32
+        },
+        {
+          "Name": "Military procurement",
+          "Severity": "Medium",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e05284-1b8c-0501-12ea-003edb95ef29",
+      "Name": "Defense contractors - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 92,
+      "CreatedAt": "2025-01-30T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2025-8009",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "equipment acquisition",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Defense contracts",
+          "Severity": "Medium",
+          "Score": 21
+        },
+        {
+          "Name": "Security operations",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03285322-1541-1ae9-19fb-00c668d0fa5e",
+      "Name": "Security personnel - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 65,
+      "CreatedAt": "2025-09-10T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2026-1763",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "logistics",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Logistics",
+          "Severity": "High",
+          "Score": 23
+        },
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a76e86-1120-0510-0c5a-008bb99e7a9c",
+      "Name": "Security personnel - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2024-10-12T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2024-4104",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "Critical",
+          "Score": 16
+        },
+        {
+          "Name": "Defense contracts",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04ae49f1-0b4f-069a-1738-003b94f5175e",
+      "Name": "Security personnel - Kabwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 97,
+      "CreatedAt": "2025-08-08T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2024-4350",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "High",
+          "Score": 35
+        },
+        {
+          "Name": "Military procurement",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0594c93e-0aa3-13a9-075c-0045de939d8e",
+      "Name": "Security personnel - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 47,
+      "CreatedAt": "2024-11-16T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2026-1014",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "security operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "Medium",
+          "Score": 44
+        },
+        {
+          "Name": "Military procurement",
+          "Severity": "Medium",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01c7c613-2598-0620-1ed0-00840ac26f1c",
+      "Name": "Suppliers - Kabwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2025-05-27T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2022-1113",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "defense contracts",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Logistics",
+          "Severity": "Low",
+          "Score": 23
+        },
+        {
+          "Name": "Defense contracts",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "027da336-0544-21e6-20e4-00cc05987c45",
+      "Name": "Defense contractors - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 88,
+      "CreatedAt": "2024-05-02T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2026-2661",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "defense contracts",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Logistics",
+          "Severity": "Critical",
+          "Score": 28
+        },
+        {
+          "Name": "Security operations",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05cc3bb3-1e42-1d37-1d87-00d62fbb237f",
+      "Name": "Military units - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 57,
+      "CreatedAt": "2024-10-17T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2022-8328",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Logistics",
+          "Severity": "High",
+          "Score": 41
+        },
+        {
+          "Name": "Defense contracts",
+          "Severity": "High",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0212ef95-19d8-10b1-22e3-00d1da368194",
+      "Name": "Security personnel - Kabwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 61,
+      "CreatedAt": "2023-11-26T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2021-6763",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "logistics",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "Low",
+          "Score": 39
+        },
+        {
+          "Name": "Military procurement",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "031b3655-2566-0e2a-1038-00b300612049",
+      "Name": "Military units - Mumbwa",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 71,
+      "CreatedAt": "2024-10-07T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2022-3462",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "equipment acquisition",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mumbwa",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "Medium",
+          "Score": 22
+        },
+        {
+          "Name": "Defense contracts",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04d50a76-1c9c-1737-195f-0092653da077",
+      "Name": "Suppliers - Mumbwa",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 90,
+      "CreatedAt": "2024-12-27T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2024-5167",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mumbwa",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Military procurement",
+          "Severity": "Medium",
+          "Score": 14
+        },
+        {
+          "Name": "Security operations",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01709496-0f4a-1547-15a7-0054567da806",
+      "Name": "Defense contractors - Kabwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2025-09-08T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2025-8926",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "Critical",
+          "Score": 39
+        },
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "High",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01a898d2-1b4e-1a2b-21e4-008898641e44",
+      "Name": "Security personnel - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 61,
+      "CreatedAt": "2023-12-07T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2024-5320",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "Critical",
+          "Score": 27
+        },
+        {
+          "Name": "Military procurement",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02e6540c-0b46-1221-0429-008fc13a6683",
+      "Name": "Military units - Kabwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 44,
+      "CreatedAt": "2024-05-01T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2024-7927",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "security operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "Critical",
+          "Score": 44
+        },
+        {
+          "Name": "Security operations",
+          "Severity": "Critical",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0174222f-1ff8-0539-0d04-00bea055c045",
+      "Name": "Military units - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 31,
+      "CreatedAt": "2024-05-21T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2022-9505",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "equipment acquisition",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Logistics",
+          "Severity": "Critical",
+          "Score": 33
+        },
+        {
+          "Name": "Security operations",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04a4062e-12f7-1195-0c39-00acfc240dcb",
+      "Name": "Defense contractors - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 73,
+      "CreatedAt": "2024-04-10T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2026-7939",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "equipment acquisition",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "Critical",
+          "Score": 29
+        },
+        {
+          "Name": "Defense contracts",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01851890-2538-178d-0f74-00ccc206c782",
+      "Name": "Military units - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 92,
+      "CreatedAt": "2024-04-02T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2024-5480",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mumbwa",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "High",
+          "Score": 22
+        },
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0245273b-1c55-182c-06ef-00a6d33ba371",
+      "Name": "Security personnel - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 73,
+      "CreatedAt": "2024-08-26T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2021-9633",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "defense contracts",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "Medium",
+          "Score": 20
+        },
+        {
+          "Name": "Defense contracts",
+          "Severity": "Critical",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04f45856-14ff-2408-1a98-003655a514f3",
+      "Name": "Suppliers - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 49,
+      "CreatedAt": "2023-11-20T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2020-8012",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "High",
+          "Score": 24
+        },
+        {
+          "Name": "Security operations",
+          "Severity": "Critical",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01faf3d0-0fff-1928-25db-00470a4fb045",
+      "Name": "Defense contractors - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 71,
+      "CreatedAt": "2024-08-28T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2023-9985",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "security operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mumbwa",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "Critical",
+          "Score": 43
+        },
+        {
+          "Name": "Defense contracts",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "022c8418-074f-1bb0-0d6d-006f0ebbed8b",
+      "Name": "Military units - Mumbwa",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 54,
+      "CreatedAt": "2024-02-07T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2021-1165",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "logistics",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Military procurement",
+          "Severity": "Critical",
+          "Score": 34
+        },
+        {
+          "Name": "Security operations",
+          "Severity": "Critical",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04110973-1a93-26ca-1e4b-002c201eaf66",
+      "Name": "Defense contractors - Kabwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 94,
+      "CreatedAt": "2025-01-29T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2024-9485",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "High",
+          "Score": 17
+        },
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "Medium",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03ee0658-112e-0eda-1579-003aa2b26055",
+      "Name": "Suppliers - Kabwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 37,
+      "CreatedAt": "2024-06-14T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2021-2258",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Defense contracts",
+          "Severity": "Medium",
+          "Score": 45
+        },
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04e6d2ec-2018-11a7-223b-00c91e649312",
+      "Name": "Defense contractors - Mumbwa",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 74,
+      "CreatedAt": "2025-05-22T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2024-6031",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "logistics",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mumbwa",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "High",
+          "Score": 44
+        },
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "Critical",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04a779e4-0db6-0f19-0ee8-00e86719fa0c",
+      "Name": "Defense contractors - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 86,
+      "CreatedAt": "2024-07-20T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2020-9288",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "security operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Military procurement",
+          "Severity": "Medium",
+          "Score": 33
+        },
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05cae657-1139-04dc-07ca-0083321c9f18",
+      "Name": "Security personnel - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 45,
+      "CreatedAt": "2025-08-02T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2026-7782",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "logistics",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mumbwa",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Military procurement",
+          "Severity": "Medium",
+          "Score": 12
+        },
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03105993-0bba-0f58-1489-0062761926d2",
+      "Name": "Defense contractors - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 95,
+      "CreatedAt": "2025-06-07T17:30:30Z",
+      "UpdatedAt": "2026-01-06T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2024-7190",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "security operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Military procurement",
+          "Severity": "Low",
+          "Score": 30
+        },
+        {
+          "Name": "Military procurement",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00b89ce5-12e3-1ab4-1478-0021fc2151e2",
+      "Name": "Suppliers - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 54,
+      "CreatedAt": "2024-10-25T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2021-7771",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "security operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "Medium",
+          "Score": 30
+        },
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "052b2dde-147a-2197-157b-0039d2e6397f",
+      "Name": "Security personnel - Kabwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 23,
+      "CreatedAt": "2024-01-21T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2026-2738",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "equipment acquisition",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Military procurement",
+          "Severity": "High",
+          "Score": 36
+        },
+        {
+          "Name": "Military procurement",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00e1a8b0-0ab6-0455-0d18-0041fd130603",
+      "Name": "Defense contractors - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 36,
+      "CreatedAt": "2024-05-14T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2020-9431",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "security operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "High",
+          "Score": 35
+        },
+        {
+          "Name": "Military procurement",
+          "Severity": "Medium",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0504eae5-1bf7-0732-14c8-0086b112091b",
+      "Name": "Defense contractors - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 35,
+      "CreatedAt": "2025-07-29T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2021-1793",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "security operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mumbwa",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Defense contracts",
+          "Severity": "Medium",
+          "Score": 31
+        },
+        {
+          "Name": "Military procurement",
+          "Severity": "Critical",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02668e1b-113c-1a33-0fb3-0087b0ab1fc0",
+      "Name": "Defense contractors - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 85,
+      "CreatedAt": "2025-06-26T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2022-7307",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "equipment acquisition",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "Medium",
+          "Score": 21
+        },
+        {
+          "Name": "Security operations",
+          "Severity": "Medium",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0243cb47-0c54-09fc-1e21-00aae80ff315",
+      "Name": "Military units - Mumbwa",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 96,
+      "CreatedAt": "2024-08-29T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2023-7436",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "security operations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Defense contracts",
+          "Severity": "Medium",
+          "Score": 33
+        },
+        {
+          "Name": "Defense contracts",
+          "Severity": "Medium",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "026969ff-186e-0b7a-132a-00e881ddef8b",
+      "Name": "Defense contractors - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 27,
+      "CreatedAt": "2024-04-23T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2021-4486",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mumbwa",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "Low",
+          "Score": 43
+        },
+        {
+          "Name": "Logistics",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04707fb6-0892-23ac-0912-009a673b048c",
+      "Name": "Military units - Mumbwa",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 65,
+      "CreatedAt": "2024-11-30T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2024-6157",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Mumbwa",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Logistics",
+          "Severity": "Low",
+          "Score": 10
+        },
+        {
+          "Name": "Security operations",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01cd4c29-14f4-1744-1ab7-0047a05bff13",
+      "Name": "Security personnel - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 51,
+      "CreatedAt": "2025-01-16T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2023-5961",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "equipment acquisition",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Security operations",
+          "Severity": "Medium",
+          "Score": 11
+        },
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "High",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05f5baab-2429-1bc4-08b3-009eeab11c87",
+      "Name": "Military units - Kabwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 87,
+      "CreatedAt": "2023-12-13T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2021-5247",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "equipment acquisition",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Logistics",
+          "Severity": "High",
+          "Score": 39
+        },
+        {
+          "Name": "Military procurement",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "039db4a5-2203-0db4-0940-00ca46b38fe8",
+      "Name": "Suppliers - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 48,
+      "CreatedAt": "2025-03-06T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2023-9930",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "equipment acquisition",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Defense contracts",
+          "Severity": "Low",
+          "Score": 38
+        },
+        {
+          "Name": "Defense contracts",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d5737e-15d1-0db1-05c1-00649b158bf6",
+      "Name": "Military units - Mumbwa",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 33,
+      "CreatedAt": "2025-10-05T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2020-5996",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "logistics",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Defense contracts",
+          "Severity": "Critical",
+          "Score": 32
+        },
+        {
+          "Name": "Defense contracts",
+          "Severity": "High",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00c86a79-0e84-2692-20af-00616722ed24",
+      "Name": "Military units - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 55,
+      "CreatedAt": "2024-06-18T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2024-4579",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Equipment acquisition",
+          "Severity": "Low",
+          "Score": 45
+        },
+        {
+          "Name": "Military procurement",
+          "Severity": "High",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0438ee1e-1057-178a-109d-008f324a871d",
+      "Name": "Military units - Kabwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 76,
+      "CreatedAt": "2025-08-09T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "MIN-2024-9740",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "military procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Ministry of Defence",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Logistics",
+          "Severity": "Critical",
+          "Score": 32
+        },
+        {
+          "Name": "Security operations",
+          "Severity": "Critical",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    }
+  ]
+}

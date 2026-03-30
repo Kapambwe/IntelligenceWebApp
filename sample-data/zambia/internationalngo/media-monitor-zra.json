@@ -1,0 +1,1529 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "00cf3958-1964-2603-07aa-009911314e0c",
+      "Title": "International NGOs fund disbursement humanitarian aid",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/5430",
+      "PublishedDate": "2026-01-11T17:30:30Z",
+      "PublishedAt": "2025-12-20T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Beneficiary verification reveals program implementation in rural areas",
+      "RelatedEntities": [
+        "Partner organizations - Luapula Province"
+      ],
+      "Entities": [
+        "Partner organizations - Luapula Province"
+      ],
+      "Keywords": [
+        "impact assessment",
+        "development projects",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 65.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05410825-05f2-22a5-1698-00aa4f6ad120",
+      "Title": "International NGOs beneficiary verification development projects",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/5569",
+      "PublishedDate": "2025-10-24T17:30:30Z",
+      "PublishedAt": "2025-10-22T17:30:30Z",
+      "DiscoveredAt": "2025-11-03T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Beneficiary verification reveals donor funding in Southern Province",
+      "RelatedEntities": [
+        "Beneficiaries - Eastern Province"
+      ],
+      "Entities": [
+        "Beneficiaries - Eastern Province"
+      ],
+      "Keywords": [
+        "donor funding",
+        "development projects",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 75.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "025c876c-230f-18a8-0761-0053fdd2d5aa",
+      "Title": "International NGOs compliance audit donor funding",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/8021",
+      "PublishedDate": "2026-01-01T17:30:30Z",
+      "PublishedAt": "2025-11-25T17:30:30Z",
+      "DiscoveredAt": "2025-11-05T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Fund disbursement reveals donor funding in Luapula Province",
+      "RelatedEntities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Entities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Keywords": [
+        "program implementation",
+        "development projects",
+        "donor funding"
+      ],
+      "RelevanceScore": 78.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0179e321-1334-0fba-1e7a-00b35fdb4945",
+      "Title": "International NGOs beneficiary verification impact assessment",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/5761",
+      "PublishedDate": "2025-10-22T17:30:30Z",
+      "PublishedAt": "2026-01-18T17:30:30Z",
+      "DiscoveredAt": "2025-12-21T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Fund disbursement reveals program implementation in rural areas",
+      "RelatedEntities": [
+        "Partner organizations - Eastern Province"
+      ],
+      "Entities": [
+        "Partner organizations - Eastern Province"
+      ],
+      "Keywords": [
+        "program implementation",
+        "impact assessment",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 90.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01a2bd4d-04c2-1f75-264a-0086f11c3cfa",
+      "Title": "International NGOs compliance audit humanitarian aid",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/9301",
+      "PublishedDate": "2025-12-15T17:30:30Z",
+      "PublishedAt": "2025-11-02T17:30:30Z",
+      "DiscoveredAt": "2025-11-22T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Impact evaluation reveals program implementation in rural areas",
+      "RelatedEntities": [
+        "Partner organizations - Luapula Province"
+      ],
+      "Entities": [
+        "Partner organizations - Luapula Province"
+      ],
+      "Keywords": [
+        "donor funding",
+        "program implementation",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 78.3,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "050ccc6d-2139-1741-0dbe-0033540e4c01",
+      "Title": "International NGOs fund disbursement impact assessment",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/6790",
+      "PublishedDate": "2025-12-06T17:30:30Z",
+      "PublishedAt": "2025-12-08T17:30:30Z",
+      "DiscoveredAt": "2025-11-03T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Compliance audit reveals program implementation in Eastern Province",
+      "RelatedEntities": [
+        "Implementing partners - Luapula Province"
+      ],
+      "Entities": [
+        "Implementing partners - Luapula Province"
+      ],
+      "Keywords": [
+        "development projects",
+        "program implementation",
+        "donor funding"
+      ],
+      "RelevanceScore": 86.6,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0345e08d-1449-24ca-2496-006a7cab3189",
+      "Title": "International NGOs beneficiary verification impact assessment",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/7503",
+      "PublishedDate": "2025-10-27T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2025-11-12T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Fund disbursement reveals humanitarian aid in Lusaka",
+      "RelatedEntities": [
+        "Implementing partners - Lusaka"
+      ],
+      "Entities": [
+        "Implementing partners - Lusaka"
+      ],
+      "Keywords": [
+        "impact assessment",
+        "donor funding",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 81.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0535bff2-1721-171b-242a-00caae272648",
+      "Title": "International NGOs impact evaluation impact assessment",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/1990",
+      "PublishedDate": "2025-11-10T17:30:30Z",
+      "PublishedAt": "2025-12-21T17:30:30Z",
+      "DiscoveredAt": "2025-12-20T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Fund disbursement reveals impact assessment in Southern Province",
+      "RelatedEntities": [
+        "Partner organizations - rural areas"
+      ],
+      "Entities": [
+        "Partner organizations - rural areas"
+      ],
+      "Keywords": [
+        "humanitarian aid",
+        "impact assessment",
+        "donor funding"
+      ],
+      "RelevanceScore": 67.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0247e83b-11c5-2205-2369-005f436ebad3",
+      "Title": "International NGOs impact evaluation donor funding",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/8049",
+      "PublishedDate": "2025-11-05T17:30:30Z",
+      "PublishedAt": "2025-10-21T17:30:30Z",
+      "DiscoveredAt": "2025-12-12T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Compliance audit reveals humanitarian aid in rural areas",
+      "RelatedEntities": [
+        "Implementing partners - Eastern Province"
+      ],
+      "Entities": [
+        "Implementing partners - Eastern Province"
+      ],
+      "Keywords": [
+        "donor funding",
+        "impact assessment",
+        "development projects"
+      ],
+      "RelevanceScore": 84.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00b9d863-118c-15c0-1239-0089380ee050",
+      "Title": "International NGOs impact evaluation impact assessment",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/3485",
+      "PublishedDate": "2025-12-02T17:30:30Z",
+      "PublishedAt": "2025-12-20T17:30:30Z",
+      "DiscoveredAt": "2025-10-23T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Project monitoring reveals program implementation in Eastern Province",
+      "RelatedEntities": [
+        "Donors - Southern Province"
+      ],
+      "Entities": [
+        "Donors - Southern Province"
+      ],
+      "Keywords": [
+        "development projects",
+        "program implementation",
+        "donor funding"
+      ],
+      "RelevanceScore": 63.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0352e0a0-224b-1c3e-155c-006fb52f7d84",
+      "Title": "International NGOs fund disbursement humanitarian aid",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/4902",
+      "PublishedDate": "2025-12-24T17:30:30Z",
+      "PublishedAt": "2025-12-21T17:30:30Z",
+      "DiscoveredAt": "2025-12-07T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Project monitoring reveals donor funding in rural areas",
+      "RelatedEntities": [
+        "Partner organizations - Eastern Province"
+      ],
+      "Entities": [
+        "Partner organizations - Eastern Province"
+      ],
+      "Keywords": [
+        "impact assessment",
+        "donor funding",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 88.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01296c59-2626-177d-0fba-00aa1cf88085",
+      "Title": "International NGOs compliance audit program implementation",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/4212",
+      "PublishedDate": "2025-10-22T17:30:30Z",
+      "PublishedAt": "2025-12-30T17:30:30Z",
+      "DiscoveredAt": "2025-11-05T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Fund disbursement reveals program implementation in Eastern Province",
+      "RelatedEntities": [
+        "Donors - Eastern Province"
+      ],
+      "Entities": [
+        "Donors - Eastern Province"
+      ],
+      "Keywords": [
+        "development projects",
+        "donor funding",
+        "impact assessment"
+      ],
+      "RelevanceScore": 85.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02218148-09c2-1f3f-1014-008e751fc067",
+      "Title": "International NGOs fund disbursement development projects",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/1139",
+      "PublishedDate": "2025-12-28T17:30:30Z",
+      "PublishedAt": "2025-10-31T17:30:30Z",
+      "DiscoveredAt": "2026-01-03T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Beneficiary verification reveals development projects in rural areas",
+      "RelatedEntities": [
+        "Beneficiaries - Southern Province"
+      ],
+      "Entities": [
+        "Beneficiaries - Southern Province"
+      ],
+      "Keywords": [
+        "donor funding",
+        "development projects",
+        "program implementation"
+      ],
+      "RelevanceScore": 69.7,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01388f30-2462-1f2e-058f-0031756beb24",
+      "Title": "International NGOs project monitoring development projects",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/2749",
+      "PublishedDate": "2025-11-23T17:30:30Z",
+      "PublishedAt": "2026-01-18T17:30:30Z",
+      "DiscoveredAt": "2025-11-21T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Beneficiary verification reveals humanitarian aid in Lusaka",
+      "RelatedEntities": [
+        "Partner organizations - Eastern Province"
+      ],
+      "Entities": [
+        "Partner organizations - Eastern Province"
+      ],
+      "Keywords": [
+        "impact assessment",
+        "development projects",
+        "program implementation"
+      ],
+      "RelevanceScore": 74.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0327250e-23e0-053e-102d-0065e38c5b22",
+      "Title": "International NGOs fund disbursement donor funding",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/9395",
+      "PublishedDate": "2025-12-26T17:30:30Z",
+      "PublishedAt": "2025-10-23T17:30:30Z",
+      "DiscoveredAt": "2025-12-14T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Impact evaluation reveals impact assessment in Southern Province",
+      "RelatedEntities": [
+        "Donors - Southern Province"
+      ],
+      "Entities": [
+        "Donors - Southern Province"
+      ],
+      "Keywords": [
+        "development projects",
+        "humanitarian aid",
+        "donor funding"
+      ],
+      "RelevanceScore": 89.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0357f574-0cbd-078b-0c05-00344912a305",
+      "Title": "International NGOs compliance audit program implementation",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/5786",
+      "PublishedDate": "2025-11-27T17:30:30Z",
+      "PublishedAt": "2025-12-21T17:30:30Z",
+      "DiscoveredAt": "2026-01-11T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Impact evaluation reveals impact assessment in Southern Province",
+      "RelatedEntities": [
+        "Partner organizations - rural areas"
+      ],
+      "Entities": [
+        "Partner organizations - rural areas"
+      ],
+      "Keywords": [
+        "program implementation",
+        "impact assessment",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 76.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03aed75c-1f01-0628-0f97-0059adf17883",
+      "Title": "International NGOs impact evaluation donor funding",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/2592",
+      "PublishedDate": "2025-11-22T17:30:30Z",
+      "PublishedAt": "2025-12-15T17:30:30Z",
+      "DiscoveredAt": "2026-01-19T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Compliance audit reveals humanitarian aid in rural areas",
+      "RelatedEntities": [
+        "Partner organizations - Eastern Province"
+      ],
+      "Entities": [
+        "Partner organizations - Eastern Province"
+      ],
+      "Keywords": [
+        "program implementation",
+        "donor funding",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 65.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0402f501-0779-1463-251f-00562606e077",
+      "Title": "International NGOs fund disbursement development projects",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/4630",
+      "PublishedDate": "2025-11-28T17:30:30Z",
+      "PublishedAt": "2025-10-26T17:30:30Z",
+      "DiscoveredAt": "2025-11-14T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Project monitoring reveals development projects in rural areas",
+      "RelatedEntities": [
+        "Implementing partners - rural areas"
+      ],
+      "Entities": [
+        "Implementing partners - rural areas"
+      ],
+      "Keywords": [
+        "humanitarian aid",
+        "program implementation",
+        "development projects"
+      ],
+      "RelevanceScore": 72.8,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0304a2f4-1767-05c7-2025-00a0845c8e62",
+      "Title": "International NGOs project monitoring impact assessment",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/4601",
+      "PublishedDate": "2025-12-25T17:30:30Z",
+      "PublishedAt": "2025-11-15T17:30:30Z",
+      "DiscoveredAt": "2025-12-26T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Fund disbursement reveals program implementation in Luapula Province",
+      "RelatedEntities": [
+        "Implementing partners - Southern Province"
+      ],
+      "Entities": [
+        "Implementing partners - Southern Province"
+      ],
+      "Keywords": [
+        "impact assessment",
+        "program implementation",
+        "donor funding"
+      ],
+      "RelevanceScore": 77.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00ab4b8e-106b-1f8c-0519-00acb5646ace",
+      "Title": "International NGOs fund disbursement program implementation",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/6881",
+      "PublishedDate": "2025-11-24T17:30:30Z",
+      "PublishedAt": "2026-01-02T17:30:30Z",
+      "DiscoveredAt": "2025-11-21T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Compliance audit reveals donor funding in Luapula Province",
+      "RelatedEntities": [
+        "Partner organizations - Southern Province"
+      ],
+      "Entities": [
+        "Partner organizations - Southern Province"
+      ],
+      "Keywords": [
+        "development projects",
+        "impact assessment",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 93.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00efc39a-0669-247a-181d-0092dcb33d74",
+      "Title": "International NGOs fund disbursement development projects",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/3323",
+      "PublishedDate": "2025-11-02T17:30:30Z",
+      "PublishedAt": "2025-10-31T17:30:30Z",
+      "DiscoveredAt": "2025-11-04T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Compliance audit reveals donor funding in rural areas",
+      "RelatedEntities": [
+        "Donors - Lusaka"
+      ],
+      "Entities": [
+        "Donors - Lusaka"
+      ],
+      "Keywords": [
+        "humanitarian aid",
+        "program implementation",
+        "donor funding"
+      ],
+      "RelevanceScore": 71.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05d61225-12a3-2617-1aac-00839c96d5f1",
+      "Title": "International NGOs compliance audit development projects",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/4855",
+      "PublishedDate": "2025-12-29T17:30:30Z",
+      "PublishedAt": "2026-01-05T17:30:30Z",
+      "DiscoveredAt": "2026-01-02T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Impact evaluation reveals donor funding in Lusaka",
+      "RelatedEntities": [
+        "Partner organizations - Lusaka"
+      ],
+      "Entities": [
+        "Partner organizations - Lusaka"
+      ],
+      "Keywords": [
+        "program implementation",
+        "donor funding",
+        "impact assessment"
+      ],
+      "RelevanceScore": 70.7,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02952c6a-26e6-1837-2701-00710e5682f2",
+      "Title": "International NGOs compliance audit donor funding",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/8684",
+      "PublishedDate": "2025-12-19T17:30:30Z",
+      "PublishedAt": "2025-11-09T17:30:30Z",
+      "DiscoveredAt": "2025-11-21T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Compliance audit reveals impact assessment in Eastern Province",
+      "RelatedEntities": [
+        "Partner organizations - Eastern Province"
+      ],
+      "Entities": [
+        "Partner organizations - Eastern Province"
+      ],
+      "Keywords": [
+        "development projects",
+        "donor funding",
+        "program implementation"
+      ],
+      "RelevanceScore": 74.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04e30e7a-1743-05c0-04cc-00c315ddfd95",
+      "Title": "International NGOs fund disbursement donor funding",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/6399",
+      "PublishedDate": "2025-11-10T17:30:30Z",
+      "PublishedAt": "2025-11-29T17:30:30Z",
+      "DiscoveredAt": "2025-11-16T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Impact evaluation reveals donor funding in Southern Province",
+      "RelatedEntities": [
+        "Implementing partners - rural areas"
+      ],
+      "Entities": [
+        "Implementing partners - rural areas"
+      ],
+      "Keywords": [
+        "donor funding",
+        "development projects",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 90.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03cb93d4-15de-1b4c-13e1-0091712c3394",
+      "Title": "International NGOs fund disbursement impact assessment",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/9867",
+      "PublishedDate": "2025-12-20T17:30:30Z",
+      "PublishedAt": "2026-01-18T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Beneficiary verification reveals humanitarian aid in Eastern Province",
+      "RelatedEntities": [
+        "Donors - rural areas"
+      ],
+      "Entities": [
+        "Donors - rural areas"
+      ],
+      "Keywords": [
+        "program implementation",
+        "donor funding",
+        "impact assessment"
+      ],
+      "RelevanceScore": 70.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "027b8954-0469-0990-1dde-00de0a7d871f",
+      "Title": "International NGOs impact evaluation humanitarian aid",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/9841",
+      "PublishedDate": "2025-10-31T17:30:30Z",
+      "PublishedAt": "2025-12-22T17:30:30Z",
+      "DiscoveredAt": "2025-10-31T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Impact evaluation reveals impact assessment in Southern Province",
+      "RelatedEntities": [
+        "Implementing partners - Southern Province"
+      ],
+      "Entities": [
+        "Implementing partners - Southern Province"
+      ],
+      "Keywords": [
+        "development projects",
+        "donor funding",
+        "impact assessment"
+      ],
+      "RelevanceScore": 90.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02e6d3fb-0668-1500-0699-00d73e883bba",
+      "Title": "International NGOs fund disbursement development projects",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/8727",
+      "PublishedDate": "2025-12-09T17:30:30Z",
+      "PublishedAt": "2025-12-26T17:30:30Z",
+      "DiscoveredAt": "2026-01-07T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Compliance audit reveals impact assessment in Eastern Province",
+      "RelatedEntities": [
+        "Beneficiaries - Southern Province"
+      ],
+      "Entities": [
+        "Beneficiaries - Southern Province"
+      ],
+      "Keywords": [
+        "program implementation",
+        "donor funding",
+        "development projects"
+      ],
+      "RelevanceScore": 81.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04658535-1933-1aaa-1429-003e9f2ab348",
+      "Title": "International NGOs fund disbursement development projects",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/3191",
+      "PublishedDate": "2025-12-18T17:30:30Z",
+      "PublishedAt": "2025-11-11T17:30:30Z",
+      "DiscoveredAt": "2025-10-31T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Project monitoring reveals impact assessment in Southern Province",
+      "RelatedEntities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Entities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Keywords": [
+        "development projects",
+        "impact assessment",
+        "program implementation"
+      ],
+      "RelevanceScore": 93.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "036d5862-0e34-1e90-05fd-004a426863f8",
+      "Title": "International NGOs fund disbursement donor funding",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/5978",
+      "PublishedDate": "2025-11-29T17:30:30Z",
+      "PublishedAt": "2026-01-09T17:30:30Z",
+      "DiscoveredAt": "2025-11-29T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Compliance audit reveals development projects in Lusaka",
+      "RelatedEntities": [
+        "Donors - Luapula Province"
+      ],
+      "Entities": [
+        "Donors - Luapula Province"
+      ],
+      "Keywords": [
+        "donor funding",
+        "impact assessment",
+        "program implementation"
+      ],
+      "RelevanceScore": 63.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03d6decd-22a5-1616-1a55-00511ed0dd77",
+      "Title": "International NGOs fund disbursement program implementation",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/7499",
+      "PublishedDate": "2025-10-26T17:30:30Z",
+      "PublishedAt": "2025-11-28T17:30:30Z",
+      "DiscoveredAt": "2026-01-18T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Compliance audit reveals humanitarian aid in rural areas",
+      "RelatedEntities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Entities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Keywords": [
+        "donor funding",
+        "development projects",
+        "program implementation"
+      ],
+      "RelevanceScore": 60.1,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "038b958f-250c-0fa8-17d7-00d75e0fc61e",
+      "Title": "International NGOs beneficiary verification program implementation",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/4521",
+      "PublishedDate": "2025-10-26T17:30:30Z",
+      "PublishedAt": "2026-01-06T17:30:30Z",
+      "DiscoveredAt": "2025-11-07T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Compliance audit reveals donor funding in Southern Province",
+      "RelatedEntities": [
+        "Donors - Luapula Province"
+      ],
+      "Entities": [
+        "Donors - Luapula Province"
+      ],
+      "Keywords": [
+        "donor funding",
+        "impact assessment",
+        "program implementation"
+      ],
+      "RelevanceScore": 86.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0270724a-1f17-05c0-2063-00e637f27aeb",
+      "Title": "International NGOs project monitoring donor funding",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/3262",
+      "PublishedDate": "2025-11-27T17:30:30Z",
+      "PublishedAt": "2025-10-30T17:30:30Z",
+      "DiscoveredAt": "2025-12-06T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Impact evaluation reveals impact assessment in Eastern Province",
+      "RelatedEntities": [
+        "Implementing partners - Luapula Province"
+      ],
+      "Entities": [
+        "Implementing partners - Luapula Province"
+      ],
+      "Keywords": [
+        "donor funding",
+        "development projects",
+        "impact assessment"
+      ],
+      "RelevanceScore": 74.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05d6706a-0825-124e-0902-00550b66bb12",
+      "Title": "International NGOs fund disbursement donor funding",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/3150",
+      "PublishedDate": "2025-12-25T17:30:30Z",
+      "PublishedAt": "2025-11-21T17:30:30Z",
+      "DiscoveredAt": "2025-11-29T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Project monitoring reveals program implementation in Eastern Province",
+      "RelatedEntities": [
+        "Beneficiaries - rural areas"
+      ],
+      "Entities": [
+        "Beneficiaries - rural areas"
+      ],
+      "Keywords": [
+        "humanitarian aid",
+        "program implementation",
+        "development projects"
+      ],
+      "RelevanceScore": 65.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0146c942-0519-1a26-0cf7-005757d48221",
+      "Title": "International NGOs fund disbursement program implementation",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/9238",
+      "PublishedDate": "2025-12-17T17:30:30Z",
+      "PublishedAt": "2025-12-07T17:30:30Z",
+      "DiscoveredAt": "2025-10-23T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Fund disbursement reveals impact assessment in Lusaka",
+      "RelatedEntities": [
+        "Beneficiaries - rural areas"
+      ],
+      "Entities": [
+        "Beneficiaries - rural areas"
+      ],
+      "Keywords": [
+        "donor funding",
+        "development projects",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 89.3,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04a5d711-2583-0c0b-208d-0066993b6816",
+      "Title": "International NGOs compliance audit program implementation",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/1108",
+      "PublishedDate": "2025-11-29T17:30:30Z",
+      "PublishedAt": "2025-12-08T17:30:30Z",
+      "DiscoveredAt": "2025-10-23T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Impact evaluation reveals impact assessment in Southern Province",
+      "RelatedEntities": [
+        "Donors - Luapula Province"
+      ],
+      "Entities": [
+        "Donors - Luapula Province"
+      ],
+      "Keywords": [
+        "impact assessment",
+        "program implementation",
+        "donor funding"
+      ],
+      "RelevanceScore": 84.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0575dbfc-104b-1a10-1a0d-00bc26d762a7",
+      "Title": "International NGOs impact evaluation humanitarian aid",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/6546",
+      "PublishedDate": "2025-12-30T17:30:30Z",
+      "PublishedAt": "2025-11-23T17:30:30Z",
+      "DiscoveredAt": "2025-11-08T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Fund disbursement reveals humanitarian aid in rural areas",
+      "RelatedEntities": [
+        "Partner organizations - rural areas"
+      ],
+      "Entities": [
+        "Partner organizations - rural areas"
+      ],
+      "Keywords": [
+        "donor funding",
+        "development projects",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 64.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05f58a61-1ebb-19c3-10c5-00db518ed9ba",
+      "Title": "International NGOs impact evaluation impact assessment",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/5468",
+      "PublishedDate": "2026-01-18T17:30:30Z",
+      "PublishedAt": "2025-11-05T17:30:30Z",
+      "DiscoveredAt": "2025-12-26T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Project monitoring reveals program implementation in Southern Province",
+      "RelatedEntities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Entities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Keywords": [
+        "impact assessment",
+        "donor funding",
+        "development projects"
+      ],
+      "RelevanceScore": 87.8,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0456ada6-2130-1bd3-14e8-009746068d7a",
+      "Title": "International NGOs impact evaluation development projects",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/4308",
+      "PublishedDate": "2025-12-19T17:30:30Z",
+      "PublishedAt": "2025-11-27T17:30:30Z",
+      "DiscoveredAt": "2025-10-26T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Project monitoring reveals program implementation in Eastern Province",
+      "RelatedEntities": [
+        "Donors - Southern Province"
+      ],
+      "Entities": [
+        "Donors - Southern Province"
+      ],
+      "Keywords": [
+        "impact assessment",
+        "donor funding",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 73.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03034ada-1f68-1a5e-22d7-0059dd32614d",
+      "Title": "International NGOs compliance audit donor funding",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/9885",
+      "PublishedDate": "2025-11-25T17:30:30Z",
+      "PublishedAt": "2025-10-30T17:30:30Z",
+      "DiscoveredAt": "2025-12-09T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Project monitoring reveals program implementation in rural areas",
+      "RelatedEntities": [
+        "Donors - Eastern Province"
+      ],
+      "Entities": [
+        "Donors - Eastern Province"
+      ],
+      "Keywords": [
+        "humanitarian aid",
+        "program implementation",
+        "impact assessment"
+      ],
+      "RelevanceScore": 67.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "009e24e0-04f9-1698-266e-0036e8dbb399",
+      "Title": "International NGOs beneficiary verification impact assessment",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/9896",
+      "PublishedDate": "2025-12-02T17:30:30Z",
+      "PublishedAt": "2026-01-18T17:30:30Z",
+      "DiscoveredAt": "2025-11-09T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Compliance audit reveals program implementation in rural areas",
+      "RelatedEntities": [
+        "Partner organizations - Lusaka"
+      ],
+      "Entities": [
+        "Partner organizations - Lusaka"
+      ],
+      "Keywords": [
+        "donor funding",
+        "program implementation",
+        "impact assessment"
+      ],
+      "RelevanceScore": 64.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04d39f57-0ac4-1eda-13ad-00c6db85a50c",
+      "Title": "International NGOs beneficiary verification impact assessment",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/2704",
+      "PublishedDate": "2026-01-03T17:30:30Z",
+      "PublishedAt": "2026-01-06T17:30:30Z",
+      "DiscoveredAt": "2025-12-29T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Fund disbursement reveals impact assessment in Southern Province",
+      "RelatedEntities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Entities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Keywords": [
+        "development projects",
+        "program implementation",
+        "humanitarian aid"
+      ],
+      "RelevanceScore": 88.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02f2e594-0c47-251a-1d6a-00766bdcfcd0",
+      "Title": "International NGOs impact evaluation donor funding",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/7888",
+      "PublishedDate": "2025-12-15T17:30:30Z",
+      "PublishedAt": "2025-12-31T17:30:30Z",
+      "DiscoveredAt": "2025-10-25T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Fund disbursement reveals development projects in rural areas",
+      "RelatedEntities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Entities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Keywords": [
+        "humanitarian aid",
+        "impact assessment",
+        "development projects"
+      ],
+      "RelevanceScore": 91.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "048055bb-0b2f-1ba5-10dd-0093a02e5451",
+      "Title": "International NGOs beneficiary verification humanitarian aid",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/5802",
+      "PublishedDate": "2026-01-04T17:30:30Z",
+      "PublishedAt": "2025-10-24T17:30:30Z",
+      "DiscoveredAt": "2025-11-30T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Compliance audit reveals development projects in Lusaka",
+      "RelatedEntities": [
+        "Implementing partners - Lusaka"
+      ],
+      "Entities": [
+        "Implementing partners - Lusaka"
+      ],
+      "Keywords": [
+        "humanitarian aid",
+        "development projects",
+        "impact assessment"
+      ],
+      "RelevanceScore": 65.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0342c0e2-158f-101d-191b-003ea91ca4e2",
+      "Title": "International NGOs impact evaluation development projects",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/8411",
+      "PublishedDate": "2025-12-08T17:30:30Z",
+      "PublishedAt": "2025-12-22T17:30:30Z",
+      "DiscoveredAt": "2025-12-26T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Impact evaluation reveals humanitarian aid in Eastern Province",
+      "RelatedEntities": [
+        "Donors - Eastern Province"
+      ],
+      "Entities": [
+        "Donors - Eastern Province"
+      ],
+      "Keywords": [
+        "program implementation",
+        "development projects",
+        "donor funding"
+      ],
+      "RelevanceScore": 89.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01c060e3-104e-1ea1-1b51-001fdb5b4666",
+      "Title": "International NGOs compliance audit donor funding",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/1234",
+      "PublishedDate": "2026-01-02T17:30:30Z",
+      "PublishedAt": "2025-12-22T17:30:30Z",
+      "DiscoveredAt": "2025-12-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Fund disbursement reveals donor funding in Southern Province",
+      "RelatedEntities": [
+        "Partner organizations - Luapula Province"
+      ],
+      "Entities": [
+        "Partner organizations - Luapula Province"
+      ],
+      "Keywords": [
+        "impact assessment",
+        "donor funding",
+        "development projects"
+      ],
+      "RelevanceScore": 74.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01bd7946-12b4-122e-1f0b-00cf380eae97",
+      "Title": "International NGOs beneficiary verification impact assessment",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/5770",
+      "PublishedDate": "2026-01-14T17:30:30Z",
+      "PublishedAt": "2025-12-19T17:30:30Z",
+      "DiscoveredAt": "2025-12-15T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Beneficiary verification reveals program implementation in Eastern Province",
+      "RelatedEntities": [
+        "Beneficiaries - Lusaka"
+      ],
+      "Entities": [
+        "Beneficiaries - Lusaka"
+      ],
+      "Keywords": [
+        "donor funding",
+        "program implementation",
+        "development projects"
+      ],
+      "RelevanceScore": 74.5,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03854b73-059d-1c1b-1a06-00b6bbb68f9d",
+      "Title": "International NGOs fund disbursement program implementation",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/3677",
+      "PublishedDate": "2025-10-29T17:30:30Z",
+      "PublishedAt": "2025-12-26T17:30:30Z",
+      "DiscoveredAt": "2025-12-17T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Fund disbursement reveals development projects in Luapula Province",
+      "RelatedEntities": [
+        "Donors - Lusaka"
+      ],
+      "Entities": [
+        "Donors - Lusaka"
+      ],
+      "Keywords": [
+        "donor funding",
+        "program implementation",
+        "impact assessment"
+      ],
+      "RelevanceScore": 81.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "049e5b2a-061d-1cc4-12f3-00a915a50898",
+      "Title": "International NGOs fund disbursement donor funding",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/4891",
+      "PublishedDate": "2025-11-13T17:30:30Z",
+      "PublishedAt": "2025-12-04T17:30:30Z",
+      "DiscoveredAt": "2025-10-29T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Beneficiary verification reveals humanitarian aid in rural areas",
+      "RelatedEntities": [
+        "Implementing partners - Southern Province"
+      ],
+      "Entities": [
+        "Implementing partners - Southern Province"
+      ],
+      "Keywords": [
+        "humanitarian aid",
+        "program implementation",
+        "development projects"
+      ],
+      "RelevanceScore": 75.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "024402b0-1789-0568-0d98-00a4be7dfdc9",
+      "Title": "International NGOs compliance audit impact assessment",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/4930",
+      "PublishedDate": "2025-10-31T17:30:30Z",
+      "PublishedAt": "2025-11-15T17:30:30Z",
+      "DiscoveredAt": "2025-11-01T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Fund disbursement reveals donor funding in Southern Province",
+      "RelatedEntities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Entities": [
+        "Beneficiaries - Luapula Province"
+      ],
+      "Keywords": [
+        "impact assessment",
+        "donor funding",
+        "development projects"
+      ],
+      "RelevanceScore": 92.7,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04285792-25d5-1dbe-1db4-008e35326294",
+      "Title": "International NGOs impact evaluation program implementation",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2745",
+      "PublishedDate": "2025-11-29T17:30:30Z",
+      "PublishedAt": "2025-11-12T17:30:30Z",
+      "DiscoveredAt": "2025-11-02T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Project monitoring reveals donor funding in Luapula Province",
+      "RelatedEntities": [
+        "Beneficiaries - rural areas"
+      ],
+      "Entities": [
+        "Beneficiaries - rural areas"
+      ],
+      "Keywords": [
+        "development projects",
+        "impact assessment",
+        "donor funding"
+      ],
+      "RelevanceScore": 78.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "03c45abb-214e-0f60-0480-001c740482d7",
+      "ArticleId": "00cf3958-1964-2603-07aa-009911314e0c",
+      "EntityId": "0286e4bd-1108-1e94-252f-004f0e786dbe",
+      "EntityName": "Partner organizations - Luapula Province",
+      "AlertReason": "Adverse media on program implementation",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-29T17:30:30Z",
+      "TriggeredAt": "2025-11-23T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04b19b89-22a0-0990-13cf-00dd635d6cac",
+      "ArticleId": "025c876c-230f-18a8-0761-0053fdd2d5aa",
+      "EntityId": "01d07f1d-1488-10b4-1295-00c13e6a25b0",
+      "EntityName": "Beneficiaries - Luapula Province",
+      "AlertReason": "Adverse media on program implementation",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-06T17:30:30Z",
+      "TriggeredAt": "2025-10-27T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "021299d9-1487-2421-0fd8-0088506b52ec",
+      "ArticleId": "0247e83b-11c5-2205-2369-005f436ebad3",
+      "EntityId": "0257bdee-1bd9-1c5b-0a69-005378c97c3c",
+      "EntityName": "Implementing partners - Eastern Province",
+      "AlertReason": "Adverse media on impact assessment",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-05T17:30:30Z",
+      "TriggeredAt": "2025-12-29T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02b2874e-1b89-2142-1cb9-00c748976f82",
+      "ArticleId": "02218148-09c2-1f3f-1014-008e751fc067",
+      "EntityId": "024500f0-123a-1a43-0440-0072c9f017aa",
+      "EntityName": "Beneficiaries - Southern Province",
+      "AlertReason": "Adverse media on humanitarian aid",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-26T17:30:30Z",
+      "TriggeredAt": "2025-10-23T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "039e3562-196f-1683-1781-006d90a253c8",
+      "ArticleId": "01388f30-2462-1f2e-058f-0031756beb24",
+      "EntityId": "03942558-05f8-0e92-15f1-004a15a7353e",
+      "EntityName": "Partner organizations - Eastern Province",
+      "AlertReason": "Adverse media on development projects",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-22T17:30:30Z",
+      "TriggeredAt": "2025-12-08T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "041be280-1176-1803-0b2d-00492b1f2417",
+      "ArticleId": "00ab4b8e-106b-1f8c-0519-00acb5646ace",
+      "EntityId": "015ea006-15d5-10ca-182d-004b7bbfb107",
+      "EntityName": "Partner organizations - Southern Province",
+      "AlertReason": "Adverse media on humanitarian aid",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-17T17:30:30Z",
+      "TriggeredAt": "2025-11-19T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03a4a1d6-0ae6-1651-1180-0026b20519d9",
+      "ArticleId": "05d61225-12a3-2617-1aac-00839c96d5f1",
+      "EntityId": "05c9050b-1193-14ee-0e26-00e54ee5ad2a",
+      "EntityName": "Partner organizations - Lusaka",
+      "AlertReason": "Adverse media on humanitarian aid",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-17T17:30:30Z",
+      "TriggeredAt": "2025-12-01T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0267867f-181c-2594-0ebb-005ecfa64d33",
+      "ArticleId": "03cb93d4-15de-1b4c-13e1-0091712c3394",
+      "EntityId": "04a18141-0557-17ad-20b7-00a523d5a73e",
+      "EntityName": "Donors - rural areas",
+      "AlertReason": "Adverse media on program implementation",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-10-26T17:30:30Z",
+      "TriggeredAt": "2026-01-11T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0399efd7-2314-1c75-08d5-002aa971fb39",
+      "ArticleId": "02e6d3fb-0668-1500-0699-00d73e883bba",
+      "EntityId": "0180758d-1405-1870-1e26-00dc159f68d5",
+      "EntityName": "Beneficiaries - Southern Province",
+      "AlertReason": "Adverse media on development projects",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-13T17:30:30Z",
+      "TriggeredAt": "2025-12-27T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01b9a3c5-2116-0cfc-256e-00395eb1056b",
+      "ArticleId": "04658535-1933-1aaa-1429-003e9f2ab348",
+      "EntityId": "016cd522-08ef-1086-13ea-00b89c0756ff",
+      "EntityName": "Beneficiaries - Luapula Province",
+      "AlertReason": "Adverse media on impact assessment",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-20T17:30:30Z",
+      "TriggeredAt": "2025-11-28T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "05d82466-0f2f-1cd0-1f52-006e034c3506",
+      "ArticleId": "0146c942-0519-1a26-0cf7-005757d48221",
+      "EntityId": "05b8a085-24de-0728-270e-00d3bdbdad1d",
+      "EntityName": "Beneficiaries - rural areas",
+      "AlertReason": "Adverse media on development projects",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-16T17:30:30Z",
+      "TriggeredAt": "2026-01-17T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "029ac021-113e-1125-1233-004493cadf86",
+      "ArticleId": "04a5d711-2583-0c0b-208d-0066993b6816",
+      "EntityId": "04f8ed76-05cb-07aa-0e33-00d8ac0ec536",
+      "EntityName": "Donors - Luapula Province",
+      "AlertReason": "Adverse media on humanitarian aid",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "TriggeredAt": "2026-01-15T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "044aff5c-0829-1676-12f0-003e01113113",
+      "ArticleId": "03034ada-1f68-1a5e-22d7-0059dd32614d",
+      "EntityId": "02f6c475-1494-0915-264c-00ac300c7dd1",
+      "EntityName": "Donors - Eastern Province",
+      "AlertReason": "Adverse media on development projects",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-11T17:30:30Z",
+      "TriggeredAt": "2025-12-09T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01543d6a-05a8-1afe-1ebc-008c53b2009e",
+      "ArticleId": "02f2e594-0c47-251a-1d6a-00766bdcfcd0",
+      "EntityId": "029e96e1-068b-04a7-04d4-009127611992",
+      "EntityName": "Beneficiaries - Luapula Province",
+      "AlertReason": "Adverse media on humanitarian aid",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-16T17:30:30Z",
+      "TriggeredAt": "2025-12-06T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "04b38f85-1fa9-1824-0dba-00cad26e0780",
+      "ArticleId": "048055bb-0b2f-1ba5-10dd-0093a02e5451",
+      "EntityId": "0130496b-072e-0cd8-078b-00363c56edb3",
+      "EntityName": "Implementing partners - Lusaka",
+      "AlertReason": "Adverse media on development projects",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-08T17:30:30Z",
+      "TriggeredAt": "2025-11-11T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0459eea1-12e1-0fe3-1f32-005acdb26927",
+      "ArticleId": "0342c0e2-158f-101d-191b-003ea91ca4e2",
+      "EntityId": "05bba8dc-059a-1c9d-064b-00c57b625dd8",
+      "EntityName": "Donors - Eastern Province",
+      "AlertReason": "Adverse media on donor funding",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-25T17:30:30Z",
+      "TriggeredAt": "2026-01-17T17:30:30Z",
+      "IsAcknowledged": false
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "05bed843-1494-06d3-0a95-00bd2f9388ab",
+      "EntityName": "International NGOs",
+      "Keywords": [
+        "impact assessment",
+        "program implementation",
+        "donor funding"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 30,
+    "HighRiskArticles": 19,
+    "ActiveAlerts": 16,
+    "MonitoredEntities": 18,
+    "ArticlesByCategory": {
+      "regulatory": 15,
+      "criminal": 8,
+      "financial": 11,
+      "political": 7
+    },
+    "ArticlesBySeverity": {
+      "high": 10,
+      "medium": 10,
+      "low": 12
+    }
+  }
+}

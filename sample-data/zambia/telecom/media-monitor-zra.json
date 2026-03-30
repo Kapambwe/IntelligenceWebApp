@@ -1,0 +1,1529 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "01ce9e08-0c26-0b98-1b74-0077bcde7f04",
+      "Title": "Telecommunications compliance check compliance",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/3150",
+      "PublishedDate": "2026-01-02T17:30:31Z",
+      "PublishedAt": "2025-11-29T17:30:31Z",
+      "DiscoveredAt": "2025-11-11T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Subscriber onboarding reveals fraud prevention in nationwide network",
+      "RelatedEntities": [
+        "Service users - Ndola"
+      ],
+      "Entities": [
+        "Service users - Ndola"
+      ],
+      "Keywords": [
+        "network operations",
+        "fraud prevention",
+        "subscriber management"
+      ],
+      "RelevanceScore": 91.8,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "037b8b2a-14eb-2201-13d1-0025b7034162",
+      "Title": "Telecommunications network monitoring fraud prevention",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/3182",
+      "PublishedDate": "2025-10-29T17:30:31Z",
+      "PublishedAt": "2026-01-14T17:30:31Z",
+      "DiscoveredAt": "2026-01-06T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Fraud detection reveals service delivery in Livingstone",
+      "RelatedEntities": [
+        "Subscribers - Ndola"
+      ],
+      "Entities": [
+        "Subscribers - Ndola"
+      ],
+      "Keywords": [
+        "network operations",
+        "compliance",
+        "subscriber management"
+      ],
+      "RelevanceScore": 73.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "047a0029-19e5-1a68-1f64-00cc2c5504bb",
+      "Title": "Telecommunications service activation fraud prevention",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/1845",
+      "PublishedDate": "2025-11-26T17:30:31Z",
+      "PublishedAt": "2026-01-15T17:30:31Z",
+      "DiscoveredAt": "2025-11-27T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Fraud detection reveals service delivery in Ndola",
+      "RelatedEntities": [
+        "Service users - Kitwe"
+      ],
+      "Entities": [
+        "Service users - Kitwe"
+      ],
+      "Keywords": [
+        "fraud prevention",
+        "network operations",
+        "service delivery"
+      ],
+      "RelevanceScore": 89.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02bc9be5-05e6-1e95-0a75-009feea78191",
+      "Title": "Telecommunications service activation network operations",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/4627",
+      "PublishedDate": "2026-01-17T17:30:31Z",
+      "PublishedAt": "2025-11-21T17:30:31Z",
+      "DiscoveredAt": "2025-12-14T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Subscriber onboarding reveals subscriber management in nationwide network",
+      "RelatedEntities": [
+        "Dealers - nationwide network"
+      ],
+      "Entities": [
+        "Dealers - nationwide network"
+      ],
+      "Keywords": [
+        "network operations",
+        "fraud prevention",
+        "compliance"
+      ],
+      "RelevanceScore": 67.4,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05dcb598-1946-22b9-1727-00c16d841333",
+      "Title": "Telecommunications subscriber onboarding subscriber management",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/2700",
+      "PublishedDate": "2025-11-02T17:30:31Z",
+      "PublishedAt": "2026-01-07T17:30:31Z",
+      "DiscoveredAt": "2026-01-12T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Subscriber onboarding reveals compliance in Ndola",
+      "RelatedEntities": [
+        "Dealers - Lusaka"
+      ],
+      "Entities": [
+        "Dealers - Lusaka"
+      ],
+      "Keywords": [
+        "service delivery",
+        "fraud prevention",
+        "network operations"
+      ],
+      "RelevanceScore": 86.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03d19527-0b4e-1600-0545-00568384b885",
+      "Title": "Telecommunications service activation compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2051",
+      "PublishedDate": "2025-11-27T17:30:31Z",
+      "PublishedAt": "2025-12-30T17:30:31Z",
+      "DiscoveredAt": "2025-11-13T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Subscriber onboarding reveals fraud prevention in Livingstone",
+      "RelatedEntities": [
+        "Dealers - Lusaka"
+      ],
+      "Entities": [
+        "Dealers - Lusaka"
+      ],
+      "Keywords": [
+        "fraud prevention",
+        "subscriber management",
+        "network operations"
+      ],
+      "RelevanceScore": 90.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00fd24d6-1778-0dc6-16cd-008fa2c83ba7",
+      "Title": "Telecommunications fraud detection network operations",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/2420",
+      "PublishedDate": "2025-11-06T17:30:31Z",
+      "PublishedAt": "2025-11-08T17:30:31Z",
+      "DiscoveredAt": "2025-11-14T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Service activation reveals service delivery in Livingstone",
+      "RelatedEntities": [
+        "Dealers - Ndola"
+      ],
+      "Entities": [
+        "Dealers - Ndola"
+      ],
+      "Keywords": [
+        "service delivery",
+        "fraud prevention",
+        "subscriber management"
+      ],
+      "RelevanceScore": 86.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04dede92-0936-1e6c-213b-00dc90e2e404",
+      "Title": "Telecommunications compliance check compliance",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/2297",
+      "PublishedDate": "2025-10-30T17:30:31Z",
+      "PublishedAt": "2026-01-14T17:30:31Z",
+      "DiscoveredAt": "2025-11-30T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Compliance check reveals subscriber management in Kitwe",
+      "RelatedEntities": [
+        "Dealers - Kitwe"
+      ],
+      "Entities": [
+        "Dealers - Kitwe"
+      ],
+      "Keywords": [
+        "network operations",
+        "subscriber management",
+        "fraud prevention"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05d452b1-206a-1dc0-1d93-00d337705160",
+      "Title": "Telecommunications subscriber onboarding network operations",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/9726",
+      "PublishedDate": "2026-01-17T17:30:31Z",
+      "PublishedAt": "2025-11-03T17:30:31Z",
+      "DiscoveredAt": "2025-11-02T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Service activation reveals compliance in nationwide network",
+      "RelatedEntities": [
+        "Dealers - Lusaka"
+      ],
+      "Entities": [
+        "Dealers - Lusaka"
+      ],
+      "Keywords": [
+        "fraud prevention",
+        "compliance",
+        "subscriber management"
+      ],
+      "RelevanceScore": 89.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "011d084c-2532-21a8-1b15-00dd56556972",
+      "Title": "Telecommunications compliance check fraud prevention",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/4034",
+      "PublishedDate": "2026-01-14T17:30:31Z",
+      "PublishedAt": "2025-12-01T17:30:31Z",
+      "DiscoveredAt": "2025-11-30T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Subscriber onboarding reveals compliance in nationwide network",
+      "RelatedEntities": [
+        "Subscribers - Kitwe"
+      ],
+      "Entities": [
+        "Subscribers - Kitwe"
+      ],
+      "Keywords": [
+        "service delivery",
+        "network operations",
+        "compliance"
+      ],
+      "RelevanceScore": 92.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0177123c-2375-0efc-1646-005234994b63",
+      "Title": "Telecommunications service activation subscriber management",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/1088",
+      "PublishedDate": "2025-10-23T17:30:31Z",
+      "PublishedAt": "2026-01-09T17:30:31Z",
+      "DiscoveredAt": "2025-12-06T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Network monitoring reveals subscriber management in Livingstone",
+      "RelatedEntities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Entities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Keywords": [
+        "network operations",
+        "compliance",
+        "subscriber management"
+      ],
+      "RelevanceScore": 90.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04a118b0-058f-0e68-08a1-0033a5f62ea2",
+      "Title": "Telecommunications network monitoring fraud prevention",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/5781",
+      "PublishedDate": "2025-10-25T17:30:31Z",
+      "PublishedAt": "2025-12-19T17:30:31Z",
+      "DiscoveredAt": "2025-12-19T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Compliance check reveals service delivery in Lusaka",
+      "RelatedEntities": [
+        "Dealers - nationwide network"
+      ],
+      "Entities": [
+        "Dealers - nationwide network"
+      ],
+      "Keywords": [
+        "compliance",
+        "service delivery",
+        "network operations"
+      ],
+      "RelevanceScore": 63.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "019e1a07-1d40-1937-0b92-00b9e20136b5",
+      "Title": "Telecommunications fraud detection subscriber management",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/1853",
+      "PublishedDate": "2025-11-19T17:30:31Z",
+      "PublishedAt": "2026-01-08T17:30:31Z",
+      "DiscoveredAt": "2025-11-23T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Subscriber onboarding reveals service delivery in Livingstone",
+      "RelatedEntities": [
+        "Service users - Kitwe"
+      ],
+      "Entities": [
+        "Service users - Kitwe"
+      ],
+      "Keywords": [
+        "subscriber management",
+        "network operations",
+        "service delivery"
+      ],
+      "RelevanceScore": 71.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "056c16e2-060b-1cd5-08aa-00d31876772e",
+      "Title": "Telecommunications subscriber onboarding compliance",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/3969",
+      "PublishedDate": "2025-10-29T17:30:31Z",
+      "PublishedAt": "2025-12-29T17:30:31Z",
+      "DiscoveredAt": "2025-10-26T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Subscriber onboarding reveals subscriber management in Kitwe",
+      "RelatedEntities": [
+        "Subscribers - Lusaka"
+      ],
+      "Entities": [
+        "Subscribers - Lusaka"
+      ],
+      "Keywords": [
+        "service delivery",
+        "compliance",
+        "network operations"
+      ],
+      "RelevanceScore": 65.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04265d8b-1c12-20b8-10f4-00dc03307878",
+      "Title": "Telecommunications service activation subscriber management",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/4714",
+      "PublishedDate": "2025-12-23T17:30:31Z",
+      "PublishedAt": "2026-01-08T17:30:31Z",
+      "DiscoveredAt": "2025-11-16T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Subscriber onboarding reveals network operations in Livingstone",
+      "RelatedEntities": [
+        "Subscribers - Lusaka"
+      ],
+      "Entities": [
+        "Subscribers - Lusaka"
+      ],
+      "Keywords": [
+        "service delivery",
+        "fraud prevention",
+        "subscriber management"
+      ],
+      "RelevanceScore": 83.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02883326-0ff6-0794-10ba-00beaa597b64",
+      "Title": "Telecommunications network monitoring compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/9281",
+      "PublishedDate": "2025-12-17T17:30:31Z",
+      "PublishedAt": "2025-11-11T17:30:31Z",
+      "DiscoveredAt": "2025-11-08T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Service activation reveals network operations in nationwide network",
+      "RelatedEntities": [
+        "Corporate clients - Ndola"
+      ],
+      "Entities": [
+        "Corporate clients - Ndola"
+      ],
+      "Keywords": [
+        "service delivery",
+        "fraud prevention",
+        "network operations"
+      ],
+      "RelevanceScore": 69.5,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01ef957f-1096-0535-2184-00182d660a1a",
+      "Title": "Telecommunications network monitoring subscriber management",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/5868",
+      "PublishedDate": "2025-11-07T17:30:31Z",
+      "PublishedAt": "2025-10-21T17:30:31Z",
+      "DiscoveredAt": "2025-11-07T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Fraud detection reveals fraud prevention in Livingstone",
+      "RelatedEntities": [
+        "Service users - Lusaka"
+      ],
+      "Entities": [
+        "Service users - Lusaka"
+      ],
+      "Keywords": [
+        "service delivery",
+        "network operations",
+        "compliance"
+      ],
+      "RelevanceScore": 79.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01641318-24c6-2044-1f68-00a10f302ec1",
+      "Title": "Telecommunications fraud detection fraud prevention",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/1222",
+      "PublishedDate": "2025-10-30T17:30:31Z",
+      "PublishedAt": "2025-11-10T17:30:31Z",
+      "DiscoveredAt": "2025-11-06T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Subscriber onboarding reveals compliance in Lusaka",
+      "RelatedEntities": [
+        "Service users - Kitwe"
+      ],
+      "Entities": [
+        "Service users - Kitwe"
+      ],
+      "Keywords": [
+        "fraud prevention",
+        "network operations",
+        "compliance"
+      ],
+      "RelevanceScore": 76.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0119ef4a-09be-1ba9-06f6-004198c710f5",
+      "Title": "Telecommunications subscriber onboarding fraud prevention",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/3838",
+      "PublishedDate": "2025-11-19T17:30:31Z",
+      "PublishedAt": "2025-12-19T17:30:31Z",
+      "DiscoveredAt": "2025-12-05T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Compliance check reveals subscriber management in Ndola",
+      "RelatedEntities": [
+        "Service users - nationwide network"
+      ],
+      "Entities": [
+        "Service users - nationwide network"
+      ],
+      "Keywords": [
+        "service delivery",
+        "compliance",
+        "subscriber management"
+      ],
+      "RelevanceScore": 63.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04e917f2-0565-1ef1-0af8-00aba73fda41",
+      "Title": "Telecommunications network monitoring subscriber management",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/2101",
+      "PublishedDate": "2025-11-12T17:30:31Z",
+      "PublishedAt": "2025-12-15T17:30:31Z",
+      "DiscoveredAt": "2025-11-23T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Fraud detection reveals network operations in Ndola",
+      "RelatedEntities": [
+        "Service users - Kitwe"
+      ],
+      "Entities": [
+        "Service users - Kitwe"
+      ],
+      "Keywords": [
+        "service delivery",
+        "subscriber management",
+        "network operations"
+      ],
+      "RelevanceScore": 85.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02b34648-187b-17eb-0fcb-004900eb5e1d",
+      "Title": "Telecommunications fraud detection compliance",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/9859",
+      "PublishedDate": "2025-10-29T17:30:31Z",
+      "PublishedAt": "2025-11-24T17:30:31Z",
+      "DiscoveredAt": "2025-11-01T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Fraud detection reveals fraud prevention in Kitwe",
+      "RelatedEntities": [
+        "Subscribers - Ndola"
+      ],
+      "Entities": [
+        "Subscribers - Ndola"
+      ],
+      "Keywords": [
+        "subscriber management",
+        "compliance",
+        "network operations"
+      ],
+      "RelevanceScore": 68.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0233de61-12fa-0f2a-0f11-007af9faebaa",
+      "Title": "Telecommunications network monitoring service delivery",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/7642",
+      "PublishedDate": "2026-01-08T17:30:31Z",
+      "PublishedAt": "2025-11-25T17:30:31Z",
+      "DiscoveredAt": "2025-11-05T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Network monitoring reveals subscriber management in Lusaka",
+      "RelatedEntities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Entities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Keywords": [
+        "service delivery",
+        "fraud prevention",
+        "network operations"
+      ],
+      "RelevanceScore": 92.5,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01d70803-15c4-0d0d-24dc-009d481439ef",
+      "Title": "Telecommunications subscriber onboarding compliance",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/8927",
+      "PublishedDate": "2025-11-28T17:30:31Z",
+      "PublishedAt": "2025-12-05T17:30:31Z",
+      "DiscoveredAt": "2025-11-07T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Network monitoring reveals network operations in Kitwe",
+      "RelatedEntities": [
+        "Service users - Ndola"
+      ],
+      "Entities": [
+        "Service users - Ndola"
+      ],
+      "Keywords": [
+        "subscriber management",
+        "network operations",
+        "service delivery"
+      ],
+      "RelevanceScore": 94.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01a85a92-0af3-1462-2706-0092aea06149",
+      "Title": "Telecommunications compliance check service delivery",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/5169",
+      "PublishedDate": "2025-11-09T17:30:31Z",
+      "PublishedAt": "2025-11-16T17:30:31Z",
+      "DiscoveredAt": "2025-12-02T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Compliance check reveals network operations in nationwide network",
+      "RelatedEntities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Entities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Keywords": [
+        "network operations",
+        "fraud prevention",
+        "service delivery"
+      ],
+      "RelevanceScore": 94.7,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03184c4c-1c8a-1845-0e06-00bd1430bcba",
+      "Title": "Telecommunications network monitoring fraud prevention",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/7669",
+      "PublishedDate": "2025-12-02T17:30:31Z",
+      "PublishedAt": "2025-12-20T17:30:31Z",
+      "DiscoveredAt": "2025-10-23T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Compliance check reveals fraud prevention in Livingstone",
+      "RelatedEntities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Entities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Keywords": [
+        "subscriber management",
+        "compliance",
+        "fraud prevention"
+      ],
+      "RelevanceScore": 91.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05b73049-2660-19b3-25e6-00bcac6859b4",
+      "Title": "Telecommunications subscriber onboarding compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/2293",
+      "PublishedDate": "2025-11-04T17:30:31Z",
+      "PublishedAt": "2025-12-06T17:30:31Z",
+      "DiscoveredAt": "2025-12-15T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Fraud detection reveals subscriber management in Livingstone",
+      "RelatedEntities": [
+        "Subscribers - Lusaka"
+      ],
+      "Entities": [
+        "Subscribers - Lusaka"
+      ],
+      "Keywords": [
+        "service delivery",
+        "fraud prevention",
+        "subscriber management"
+      ],
+      "RelevanceScore": 77.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "018abea3-0443-0c64-0581-0038f530c8b0",
+      "Title": "Telecommunications fraud detection compliance",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/9323",
+      "PublishedDate": "2025-11-07T17:30:31Z",
+      "PublishedAt": "2026-01-08T17:30:31Z",
+      "DiscoveredAt": "2026-01-07T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Subscriber onboarding reveals compliance in Livingstone",
+      "RelatedEntities": [
+        "Service users - Ndola"
+      ],
+      "Entities": [
+        "Service users - Ndola"
+      ],
+      "Keywords": [
+        "subscriber management",
+        "compliance",
+        "service delivery"
+      ],
+      "RelevanceScore": 61.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0335273d-07a6-16e8-1d93-00a8b68eb6c7",
+      "Title": "Telecommunications service activation service delivery",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/6538",
+      "PublishedDate": "2025-12-14T17:30:31Z",
+      "PublishedAt": "2025-10-27T17:30:31Z",
+      "DiscoveredAt": "2025-12-03T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Compliance check reveals compliance in Ndola",
+      "RelatedEntities": [
+        "Subscribers - Ndola"
+      ],
+      "Entities": [
+        "Subscribers - Ndola"
+      ],
+      "Keywords": [
+        "compliance",
+        "fraud prevention",
+        "service delivery"
+      ],
+      "RelevanceScore": 64.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0219c0e8-21e2-1532-1888-004f1bfc9087",
+      "Title": "Telecommunications subscriber onboarding compliance",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/8797",
+      "PublishedDate": "2025-12-24T17:30:31Z",
+      "PublishedAt": "2025-11-05T17:30:31Z",
+      "DiscoveredAt": "2025-11-08T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Compliance check reveals subscriber management in Lusaka",
+      "RelatedEntities": [
+        "Subscribers - Lusaka"
+      ],
+      "Entities": [
+        "Subscribers - Lusaka"
+      ],
+      "Keywords": [
+        "service delivery",
+        "compliance",
+        "subscriber management"
+      ],
+      "RelevanceScore": 90.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0169fa8a-12f9-1d22-06ba-006abe2200a5",
+      "Title": "Telecommunications compliance check service delivery",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/5574",
+      "PublishedDate": "2025-10-21T17:30:31Z",
+      "PublishedAt": "2025-11-12T17:30:31Z",
+      "DiscoveredAt": "2025-12-21T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Service activation reveals network operations in Kitwe",
+      "RelatedEntities": [
+        "Service users - Kitwe"
+      ],
+      "Entities": [
+        "Service users - Kitwe"
+      ],
+      "Keywords": [
+        "service delivery",
+        "fraud prevention",
+        "network operations"
+      ],
+      "RelevanceScore": 87.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00e35a18-1084-04fc-055c-00cdec8f630d",
+      "Title": "Telecommunications service activation service delivery",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/6650",
+      "PublishedDate": "2025-11-28T17:30:31Z",
+      "PublishedAt": "2026-01-02T17:30:31Z",
+      "DiscoveredAt": "2025-11-13T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Fraud detection reveals fraud prevention in Kitwe",
+      "RelatedEntities": [
+        "Subscribers - Livingstone"
+      ],
+      "Entities": [
+        "Subscribers - Livingstone"
+      ],
+      "Keywords": [
+        "service delivery",
+        "fraud prevention",
+        "network operations"
+      ],
+      "RelevanceScore": 83.5,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "013e2991-0739-1a24-1569-0074118aae50",
+      "Title": "Telecommunications network monitoring subscriber management",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/3919",
+      "PublishedDate": "2026-01-02T17:30:31Z",
+      "PublishedAt": "2026-01-11T17:30:31Z",
+      "DiscoveredAt": "2025-12-02T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Compliance check reveals network operations in Kitwe",
+      "RelatedEntities": [
+        "Subscribers - Lusaka"
+      ],
+      "Entities": [
+        "Subscribers - Lusaka"
+      ],
+      "Keywords": [
+        "service delivery",
+        "compliance",
+        "network operations"
+      ],
+      "RelevanceScore": 82.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03185009-09db-2287-182e-004f8ff70c9c",
+      "Title": "Telecommunications subscriber onboarding compliance",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/8300",
+      "PublishedDate": "2026-01-18T17:30:31Z",
+      "PublishedAt": "2026-01-06T17:30:31Z",
+      "DiscoveredAt": "2025-11-01T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Service activation reveals network operations in Ndola",
+      "RelatedEntities": [
+        "Subscribers - Lusaka"
+      ],
+      "Entities": [
+        "Subscribers - Lusaka"
+      ],
+      "Keywords": [
+        "fraud prevention",
+        "service delivery",
+        "compliance"
+      ],
+      "RelevanceScore": 83.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "020901da-0ac1-10de-0c95-00ae9127b95c",
+      "Title": "Telecommunications fraud detection network operations",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/7520",
+      "PublishedDate": "2025-11-04T17:30:31Z",
+      "PublishedAt": "2025-12-03T17:30:31Z",
+      "DiscoveredAt": "2025-12-20T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Network monitoring reveals compliance in nationwide network",
+      "RelatedEntities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Entities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Keywords": [
+        "compliance",
+        "service delivery",
+        "network operations"
+      ],
+      "RelevanceScore": 85.1,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05926cc4-089c-0f98-12c3-0068d4edba3b",
+      "Title": "Telecommunications subscriber onboarding network operations",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/3171",
+      "PublishedDate": "2025-11-02T17:30:31Z",
+      "PublishedAt": "2025-11-06T17:30:31Z",
+      "DiscoveredAt": "2025-12-14T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Network monitoring reveals service delivery in Kitwe",
+      "RelatedEntities": [
+        "Subscribers - nationwide network"
+      ],
+      "Entities": [
+        "Subscribers - nationwide network"
+      ],
+      "Keywords": [
+        "fraud prevention",
+        "network operations",
+        "subscriber management"
+      ],
+      "RelevanceScore": 92.3,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0434fa14-1f6e-0c71-0539-0055064e422b",
+      "Title": "Telecommunications fraud detection subscriber management",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/6611",
+      "PublishedDate": "2025-11-14T17:30:31Z",
+      "PublishedAt": "2025-12-11T17:30:31Z",
+      "DiscoveredAt": "2025-11-08T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Network monitoring reveals network operations in Ndola",
+      "RelatedEntities": [
+        "Dealers - Ndola"
+      ],
+      "Entities": [
+        "Dealers - Ndola"
+      ],
+      "Keywords": [
+        "subscriber management",
+        "network operations",
+        "service delivery"
+      ],
+      "RelevanceScore": 65.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0246aaab-1466-1531-1134-00d062f93208",
+      "Title": "Telecommunications fraud detection subscriber management",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/5356",
+      "PublishedDate": "2025-12-03T17:30:31Z",
+      "PublishedAt": "2025-11-03T17:30:31Z",
+      "DiscoveredAt": "2025-12-29T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Network monitoring reveals fraud prevention in Livingstone",
+      "RelatedEntities": [
+        "Subscribers - Lusaka"
+      ],
+      "Entities": [
+        "Subscribers - Lusaka"
+      ],
+      "Keywords": [
+        "network operations",
+        "fraud prevention",
+        "compliance"
+      ],
+      "RelevanceScore": 66.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02bcfa4d-0f60-05d9-0867-0065c0c3237f",
+      "Title": "Telecommunications network monitoring compliance",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/1135",
+      "PublishedDate": "2025-11-29T17:30:31Z",
+      "PublishedAt": "2025-11-28T17:30:31Z",
+      "DiscoveredAt": "2025-12-14T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Subscriber onboarding reveals subscriber management in Kitwe",
+      "RelatedEntities": [
+        "Subscribers - Livingstone"
+      ],
+      "Entities": [
+        "Subscribers - Livingstone"
+      ],
+      "Keywords": [
+        "service delivery",
+        "fraud prevention",
+        "subscriber management"
+      ],
+      "RelevanceScore": 66.7,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0191f364-2506-07b9-1403-00dd8ae6a6f7",
+      "Title": "Telecommunications subscriber onboarding fraud prevention",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/7991",
+      "PublishedDate": "2025-11-24T17:30:31Z",
+      "PublishedAt": "2025-10-31T17:30:31Z",
+      "DiscoveredAt": "2025-12-01T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Fraud detection reveals fraud prevention in Livingstone",
+      "RelatedEntities": [
+        "Corporate clients - Lusaka"
+      ],
+      "Entities": [
+        "Corporate clients - Lusaka"
+      ],
+      "Keywords": [
+        "compliance",
+        "fraud prevention",
+        "subscriber management"
+      ],
+      "RelevanceScore": 81.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0314a0dd-149d-166f-1967-00ac96bc3e03",
+      "Title": "Telecommunications service activation subscriber management",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/9147",
+      "PublishedDate": "2025-10-22T17:30:31Z",
+      "PublishedAt": "2025-12-29T17:30:31Z",
+      "DiscoveredAt": "2025-11-22T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Compliance check reveals service delivery in Kitwe",
+      "RelatedEntities": [
+        "Subscribers - Ndola"
+      ],
+      "Entities": [
+        "Subscribers - Ndola"
+      ],
+      "Keywords": [
+        "service delivery",
+        "network operations",
+        "fraud prevention"
+      ],
+      "RelevanceScore": 87.5,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01b24a60-1750-0a97-0941-003dea321bd1",
+      "Title": "Telecommunications service activation compliance",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/1747",
+      "PublishedDate": "2025-12-08T17:30:31Z",
+      "PublishedAt": "2026-01-13T17:30:31Z",
+      "DiscoveredAt": "2025-11-07T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Service activation reveals subscriber management in Kitwe",
+      "RelatedEntities": [
+        "Subscribers - Kitwe"
+      ],
+      "Entities": [
+        "Subscribers - Kitwe"
+      ],
+      "Keywords": [
+        "network operations",
+        "compliance",
+        "service delivery"
+      ],
+      "RelevanceScore": 72.5,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "056d9a30-0e26-0b4b-115a-00c4417ecd49",
+      "Title": "Telecommunications network monitoring subscriber management",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/4818",
+      "PublishedDate": "2025-12-28T17:30:31Z",
+      "PublishedAt": "2025-11-21T17:30:31Z",
+      "DiscoveredAt": "2025-10-30T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Fraud detection reveals network operations in nationwide network",
+      "RelatedEntities": [
+        "Corporate clients - Lusaka"
+      ],
+      "Entities": [
+        "Corporate clients - Lusaka"
+      ],
+      "Keywords": [
+        "subscriber management",
+        "network operations",
+        "service delivery"
+      ],
+      "RelevanceScore": 63.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "011d5499-22c4-10a4-1d78-006f382f0dfb",
+      "Title": "Telecommunications subscriber onboarding compliance",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/8867",
+      "PublishedDate": "2025-11-22T17:30:31Z",
+      "PublishedAt": "2025-11-13T17:30:31Z",
+      "DiscoveredAt": "2025-11-11T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Subscriber onboarding reveals network operations in Livingstone",
+      "RelatedEntities": [
+        "Service users - Kitwe"
+      ],
+      "Entities": [
+        "Service users - Kitwe"
+      ],
+      "Keywords": [
+        "compliance",
+        "network operations",
+        "service delivery"
+      ],
+      "RelevanceScore": 91.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03175b04-0bf0-106a-1b9c-00cfecccb1d7",
+      "Title": "Telecommunications service activation compliance",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/3844",
+      "PublishedDate": "2025-12-16T17:30:31Z",
+      "PublishedAt": "2025-12-17T17:30:31Z",
+      "DiscoveredAt": "2025-12-15T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Network monitoring reveals network operations in Ndola",
+      "RelatedEntities": [
+        "Dealers - Lusaka"
+      ],
+      "Entities": [
+        "Dealers - Lusaka"
+      ],
+      "Keywords": [
+        "service delivery",
+        "fraud prevention",
+        "subscriber management"
+      ],
+      "RelevanceScore": 87.1,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04007c8b-05b5-2273-07a3-00e288b60c83",
+      "Title": "Telecommunications service activation compliance",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/5447",
+      "PublishedDate": "2026-01-08T17:30:31Z",
+      "PublishedAt": "2025-11-01T17:30:31Z",
+      "DiscoveredAt": "2025-11-24T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Service activation reveals subscriber management in Ndola",
+      "RelatedEntities": [
+        "Dealers - Ndola"
+      ],
+      "Entities": [
+        "Dealers - Ndola"
+      ],
+      "Keywords": [
+        "network operations",
+        "subscriber management",
+        "service delivery"
+      ],
+      "RelevanceScore": 67.9,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05d856fe-1caa-0fa5-13b7-00d578dbbafa",
+      "Title": "Telecommunications network monitoring network operations",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/8097",
+      "PublishedDate": "2025-11-16T17:30:31Z",
+      "PublishedAt": "2025-11-18T17:30:31Z",
+      "DiscoveredAt": "2025-12-13T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Network monitoring reveals compliance in nationwide network",
+      "RelatedEntities": [
+        "Corporate clients - nationwide network"
+      ],
+      "Entities": [
+        "Corporate clients - nationwide network"
+      ],
+      "Keywords": [
+        "compliance",
+        "network operations",
+        "subscriber management"
+      ],
+      "RelevanceScore": 71.9,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00d5ee2b-199c-1066-1811-00b20ebcf084",
+      "Title": "Telecommunications service activation network operations",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/7442",
+      "PublishedDate": "2025-12-24T17:30:31Z",
+      "PublishedAt": "2025-12-18T17:30:31Z",
+      "DiscoveredAt": "2026-01-02T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Network monitoring reveals service delivery in Kitwe",
+      "RelatedEntities": [
+        "Subscribers - nationwide network"
+      ],
+      "Entities": [
+        "Subscribers - nationwide network"
+      ],
+      "Keywords": [
+        "network operations",
+        "service delivery",
+        "compliance"
+      ],
+      "RelevanceScore": 88.6,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0211d11f-2446-247e-0f38-00d973105c70",
+      "Title": "Telecommunications subscriber onboarding subscriber management",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/7294",
+      "PublishedDate": "2025-11-21T17:30:31Z",
+      "PublishedAt": "2025-10-23T17:30:31Z",
+      "DiscoveredAt": "2025-12-31T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Compliance check reveals service delivery in Livingstone",
+      "RelatedEntities": [
+        "Service users - Livingstone"
+      ],
+      "Entities": [
+        "Service users - Livingstone"
+      ],
+      "Keywords": [
+        "fraud prevention",
+        "service delivery",
+        "network operations"
+      ],
+      "RelevanceScore": 69.1,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03fa1996-0c74-149d-0ab1-00c1d9934a2b",
+      "Title": "Telecommunications compliance check compliance",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/3755",
+      "PublishedDate": "2025-11-02T17:30:31Z",
+      "PublishedAt": "2025-12-07T17:30:31Z",
+      "DiscoveredAt": "2025-11-04T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Compliance check reveals compliance in nationwide network",
+      "RelatedEntities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Entities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Keywords": [
+        "fraud prevention",
+        "service delivery",
+        "network operations"
+      ],
+      "RelevanceScore": 81.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "023016c2-11fe-1c7b-0fc2-00dd66c1fb57",
+      "Title": "Telecommunications network monitoring network operations",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/4554",
+      "PublishedDate": "2025-11-17T17:30:31Z",
+      "PublishedAt": "2025-12-04T17:30:31Z",
+      "DiscoveredAt": "2025-11-03T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Network monitoring reveals service delivery in Lusaka",
+      "RelatedEntities": [
+        "Subscribers - nationwide network"
+      ],
+      "Entities": [
+        "Subscribers - nationwide network"
+      ],
+      "Keywords": [
+        "service delivery",
+        "compliance",
+        "fraud prevention"
+      ],
+      "RelevanceScore": 61.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "04780704-0994-16f1-1c73-0030cf320fbb",
+      "ArticleId": "01ce9e08-0c26-0b98-1b74-0077bcde7f04",
+      "EntityId": "01c95163-149f-16cb-1c26-007594df72e5",
+      "EntityName": "Service users - Ndola",
+      "AlertReason": "Adverse media on compliance",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-09T17:30:31Z",
+      "TriggeredAt": "2025-12-16T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "03a1bae3-0dae-1bb0-1241-004a93cfff6e",
+      "ArticleId": "047a0029-19e5-1a68-1f64-00cc2c5504bb",
+      "EntityId": "028a4d78-0abc-20e4-1b75-001a9f2fd016",
+      "EntityName": "Service users - Kitwe",
+      "AlertReason": "Adverse media on subscriber management",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-07T17:30:31Z",
+      "TriggeredAt": "2025-11-05T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "041fecd3-1ed7-1bd6-0a29-00a6f7637c32",
+      "ArticleId": "05dcb598-1946-22b9-1727-00c16d841333",
+      "EntityId": "021d54e8-0ccf-1bdf-149f-00b17e546e71",
+      "EntityName": "Dealers - Lusaka",
+      "AlertReason": "Adverse media on network operations",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-11T17:30:31Z",
+      "TriggeredAt": "2025-11-02T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "027cd8c6-0874-26c5-08cf-006408d8fa4c",
+      "ArticleId": "056c16e2-060b-1cd5-08aa-00d31876772e",
+      "EntityId": "042dfe7b-2136-1644-1457-007770ff0625",
+      "EntityName": "Subscribers - Lusaka",
+      "AlertReason": "Adverse media on service delivery",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-08T17:30:31Z",
+      "TriggeredAt": "2026-01-03T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02e4fd85-0515-24bc-191c-00acaeb22e9c",
+      "ArticleId": "01641318-24c6-2044-1f68-00a10f302ec1",
+      "EntityId": "05cf7609-1f9a-1da8-1e8b-003ce6e20440",
+      "EntityName": "Service users - Kitwe",
+      "AlertReason": "Adverse media on service delivery",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-04T17:30:31Z",
+      "TriggeredAt": "2025-12-09T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02ea7fcd-1964-0688-0b2e-0087cea47f5a",
+      "ArticleId": "0119ef4a-09be-1ba9-06f6-004198c710f5",
+      "EntityId": "01bef63e-0ba1-2694-20fa-00c581e63ae8",
+      "EntityName": "Service users - nationwide network",
+      "AlertReason": "Adverse media on subscriber management",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-09T17:30:31Z",
+      "TriggeredAt": "2025-12-06T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "041c412d-055c-19e3-1db8-009dbaf71b93",
+      "ArticleId": "03184c4c-1c8a-1845-0e06-00bd1430bcba",
+      "EntityId": "04c7f54a-1b01-26d7-07b1-004716556fc4",
+      "EntityName": "Corporate clients - Kitwe",
+      "AlertReason": "Adverse media on service delivery",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-18T17:30:31Z",
+      "TriggeredAt": "2025-10-21T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "05b4eb20-0bb2-11ab-0ae6-009c73da84a2",
+      "ArticleId": "0335273d-07a6-16e8-1d93-00a8b68eb6c7",
+      "EntityId": "04ee8a82-1bd6-1526-0e7f-0041ac3dfc1b",
+      "EntityName": "Subscribers - Ndola",
+      "AlertReason": "Adverse media on service delivery",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-15T17:30:31Z",
+      "TriggeredAt": "2025-12-17T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "051409ae-0f3b-1bd4-12d8-002999ca1af3",
+      "ArticleId": "0219c0e8-21e2-1532-1888-004f1bfc9087",
+      "EntityId": "04ff1f8c-26d9-2046-1725-003aaf3359b6",
+      "EntityName": "Subscribers - Lusaka",
+      "AlertReason": "Adverse media on service delivery",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-27T17:30:31Z",
+      "TriggeredAt": "2025-12-03T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04e6b48e-10cd-08fd-0735-00c17fcc002c",
+      "ArticleId": "0169fa8a-12f9-1d22-06ba-006abe2200a5",
+      "EntityId": "0395cd3b-13fd-139f-2152-009268e164b8",
+      "EntityName": "Service users - Kitwe",
+      "AlertReason": "Adverse media on service delivery",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-13T17:30:31Z",
+      "TriggeredAt": "2025-11-27T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "00a37bff-0b49-13c1-1372-00c44b9234b2",
+      "ArticleId": "013e2991-0739-1a24-1569-0074118aae50",
+      "EntityId": "05282549-2241-1789-0835-005c7234e0be",
+      "EntityName": "Subscribers - Lusaka",
+      "AlertReason": "Adverse media on service delivery",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-28T17:30:31Z",
+      "TriggeredAt": "2025-11-01T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0315673f-228e-1679-1140-007de6727d57",
+      "ArticleId": "0246aaab-1466-1531-1134-00d062f93208",
+      "EntityId": "02cc223f-26ed-1b17-19aa-009dd65fe83a",
+      "EntityName": "Subscribers - Lusaka",
+      "AlertReason": "Adverse media on service delivery",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-26T17:30:31Z",
+      "TriggeredAt": "2025-11-06T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0173f799-21aa-1896-1a07-00721c6488f7",
+      "ArticleId": "0314a0dd-149d-166f-1967-00ac96bc3e03",
+      "EntityId": "04653da4-1d60-23c7-177c-0066cace254d",
+      "EntityName": "Subscribers - Ndola",
+      "AlertReason": "Adverse media on compliance",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-26T17:30:31Z",
+      "TriggeredAt": "2025-12-24T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0235420d-14ef-131f-22ee-005ec685fb79",
+      "ArticleId": "01b24a60-1750-0a97-0941-003dea321bd1",
+      "EntityId": "033d239b-23ac-2002-190f-001a17fd7ce1",
+      "EntityName": "Subscribers - Kitwe",
+      "AlertReason": "Adverse media on subscriber management",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-03T17:30:31Z",
+      "TriggeredAt": "2025-11-08T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04847c76-0826-21bd-266e-006f0b8d686f",
+      "ArticleId": "011d5499-22c4-10a4-1d78-006f382f0dfb",
+      "EntityId": "04552e7c-1c84-0d02-0f67-0036a47e188a",
+      "EntityName": "Service users - Kitwe",
+      "AlertReason": "Adverse media on subscriber management",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-25T17:30:31Z",
+      "TriggeredAt": "2025-11-14T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "050d7cc2-19be-1f3d-231c-002841ae961c",
+      "ArticleId": "05d856fe-1caa-0fa5-13b7-00d578dbbafa",
+      "EntityId": "03bcb34c-099b-16d5-0e86-00dc27527964",
+      "EntityName": "Corporate clients - nationwide network",
+      "AlertReason": "Adverse media on compliance",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-06T17:30:31Z",
+      "TriggeredAt": "2025-10-22T17:30:31Z",
+      "IsAcknowledged": false
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "050be309-0bde-24dd-22e5-006d3966fd94",
+      "EntityName": "Telecommunications",
+      "Keywords": [
+        "compliance",
+        "fraud prevention",
+        "network operations"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 27,
+    "HighRiskArticles": 15,
+    "ActiveAlerts": 16,
+    "MonitoredEntities": 5,
+    "ArticlesByCategory": {
+      "regulatory": 13,
+      "criminal": 8,
+      "financial": 5,
+      "political": 12
+    },
+    "ArticlesBySeverity": {
+      "high": 19,
+      "medium": 14,
+      "low": 12
+    }
+  }
+}

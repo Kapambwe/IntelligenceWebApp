@@ -1,0 +1,1565 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "0426537d-0791-256c-0cb2-00288aeeb3ca",
+      "Title": "Commercial Banking loan disbursement corporate lending",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/6331",
+      "PublishedDate": "2025-10-29T17:30:30Z",
+      "PublishedAt": "2025-12-17T17:30:30Z",
+      "DiscoveredAt": "2025-11-09T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Kyc verification reveals corporate lending in Kitwe",
+      "RelatedEntities": [
+        "Business accounts - Livingstone"
+      ],
+      "Entities": [
+        "Business accounts - Livingstone"
+      ],
+      "Keywords": [
+        "retail banking",
+        "account management",
+        "credit risk"
+      ],
+      "RelevanceScore": 70.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0142c18d-24c8-09a1-1e4c-0065d19d06ec",
+      "Title": "Commercial Banking transaction processing retail banking",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/7158",
+      "PublishedDate": "2025-12-22T17:30:30Z",
+      "PublishedAt": "2025-10-28T17:30:30Z",
+      "DiscoveredAt": "2025-11-06T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Account opening reveals transaction monitoring in Ndola",
+      "RelatedEntities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Entities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Keywords": [
+        "account management",
+        "transaction monitoring",
+        "corporate lending"
+      ],
+      "RelevanceScore": 78.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0291f77d-242f-12dc-0c72-00c6031b6e02",
+      "Title": "Commercial Banking KYC verification transaction monitoring",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/2311",
+      "PublishedDate": "2025-11-27T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2025-12-24T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Account opening reveals retail banking in Ndola",
+      "RelatedEntities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Entities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Keywords": [
+        "credit risk",
+        "retail banking",
+        "corporate lending"
+      ],
+      "RelevanceScore": 83.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04e1f322-0e45-2201-141e-0038aa59aba9",
+      "Title": "Commercial Banking credit assessment account management",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/4444",
+      "PublishedDate": "2025-12-18T17:30:30Z",
+      "PublishedAt": "2026-01-08T17:30:30Z",
+      "DiscoveredAt": "2026-01-08T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Transaction processing reveals account management in Lusaka",
+      "RelatedEntities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Entities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Keywords": [
+        "corporate lending",
+        "credit risk",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 77.5,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "028e00f1-22c6-15da-1b71-00593a213be4",
+      "Title": "Commercial Banking loan disbursement corporate lending",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/8463",
+      "PublishedDate": "2025-12-05T17:30:30Z",
+      "PublishedAt": "2025-12-20T17:30:30Z",
+      "DiscoveredAt": "2025-12-15T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Account opening reveals corporate lending in Kitwe",
+      "RelatedEntities": [
+        "Smes - Lusaka"
+      ],
+      "Entities": [
+        "Smes - Lusaka"
+      ],
+      "Keywords": [
+        "transaction monitoring",
+        "retail banking",
+        "account management"
+      ],
+      "RelevanceScore": 94.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04f1768a-0d6f-1db8-1ef6-0054acfebcf6",
+      "Title": "Commercial Banking loan disbursement credit risk",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/5276",
+      "PublishedDate": "2026-01-08T17:30:30Z",
+      "PublishedAt": "2025-11-13T17:30:30Z",
+      "DiscoveredAt": "2025-11-24T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Transaction processing reveals account management in Livingstone",
+      "RelatedEntities": [
+        "Individual customers - Livingstone"
+      ],
+      "Entities": [
+        "Individual customers - Livingstone"
+      ],
+      "Keywords": [
+        "transaction monitoring",
+        "corporate lending",
+        "retail banking"
+      ],
+      "RelevanceScore": 87.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04d270ba-0e5c-07ef-1e9a-0042b60b2063",
+      "Title": "Commercial Banking credit assessment transaction monitoring",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/3882",
+      "PublishedDate": "2025-11-23T17:30:30Z",
+      "PublishedAt": "2025-12-12T17:30:30Z",
+      "DiscoveredAt": "2025-12-19T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Kyc verification reveals transaction monitoring in Lusaka",
+      "RelatedEntities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Entities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Keywords": [
+        "transaction monitoring",
+        "corporate lending",
+        "retail banking"
+      ],
+      "RelevanceScore": 60.0,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03979a08-174e-0483-12d0-00bbde50b747",
+      "Title": "Commercial Banking loan disbursement credit risk",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/6156",
+      "PublishedDate": "2025-11-16T17:30:30Z",
+      "PublishedAt": "2025-12-08T17:30:30Z",
+      "DiscoveredAt": "2025-12-18T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Kyc verification reveals retail banking in Kitwe",
+      "RelatedEntities": [
+        "Business accounts - Ndola"
+      ],
+      "Entities": [
+        "Business accounts - Ndola"
+      ],
+      "Keywords": [
+        "retail banking",
+        "corporate lending",
+        "credit risk"
+      ],
+      "RelevanceScore": 90.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01571511-0bb2-10ce-0780-00401facfcfe",
+      "Title": "Commercial Banking account opening retail banking",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/9931",
+      "PublishedDate": "2025-12-30T17:30:30Z",
+      "PublishedAt": "2025-11-25T17:30:30Z",
+      "DiscoveredAt": "2025-12-24T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Credit assessment reveals transaction monitoring in Lusaka",
+      "RelatedEntities": [
+        "Smes - Solwezi"
+      ],
+      "Entities": [
+        "Smes - Solwezi"
+      ],
+      "Keywords": [
+        "credit risk",
+        "retail banking",
+        "corporate lending"
+      ],
+      "RelevanceScore": 83.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04bc1a29-1de0-1114-0d78-00c070c771f7",
+      "Title": "Commercial Banking transaction processing corporate lending",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/7494",
+      "PublishedDate": "2025-12-17T17:30:30Z",
+      "PublishedAt": "2025-10-25T17:30:30Z",
+      "DiscoveredAt": "2025-11-18T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Credit assessment reveals credit risk in Kitwe",
+      "RelatedEntities": [
+        "Smes - Lusaka"
+      ],
+      "Entities": [
+        "Smes - Lusaka"
+      ],
+      "Keywords": [
+        "corporate lending",
+        "transaction monitoring",
+        "credit risk"
+      ],
+      "RelevanceScore": 79.0,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04d546e8-2254-25dc-1888-006e65a7e15e",
+      "Title": "Commercial Banking credit assessment transaction monitoring",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/7259",
+      "PublishedDate": "2025-12-18T17:30:30Z",
+      "PublishedAt": "2025-12-12T17:30:30Z",
+      "DiscoveredAt": "2025-12-01T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Kyc verification reveals retail banking in Livingstone",
+      "RelatedEntities": [
+        "Smes - Lusaka"
+      ],
+      "Entities": [
+        "Smes - Lusaka"
+      ],
+      "Keywords": [
+        "credit risk",
+        "corporate lending",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 61.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02baa10c-1d10-16cf-1149-00935a9b7d1c",
+      "Title": "Commercial Banking transaction processing credit risk",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/5977",
+      "PublishedDate": "2026-01-02T17:30:30Z",
+      "PublishedAt": "2026-01-12T17:30:30Z",
+      "DiscoveredAt": "2026-01-02T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Account opening reveals credit risk in Solwezi",
+      "RelatedEntities": [
+        "Individual customers - Solwezi"
+      ],
+      "Entities": [
+        "Individual customers - Solwezi"
+      ],
+      "Keywords": [
+        "retail banking",
+        "credit risk",
+        "corporate lending"
+      ],
+      "RelevanceScore": 79.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "032e7145-256b-16d4-0da6-006f2e6ac928",
+      "Title": "Commercial Banking loan disbursement retail banking",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/5194",
+      "PublishedDate": "2025-11-05T17:30:30Z",
+      "PublishedAt": "2025-11-25T17:30:30Z",
+      "DiscoveredAt": "2025-11-08T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Loan disbursement reveals corporate lending in Kitwe",
+      "RelatedEntities": [
+        "Individual customers - Solwezi"
+      ],
+      "Entities": [
+        "Individual customers - Solwezi"
+      ],
+      "Keywords": [
+        "retail banking",
+        "corporate lending",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 94.0,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00e24422-1e17-1b45-0983-0032ce03d055",
+      "Title": "Commercial Banking KYC verification account management",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/8476",
+      "PublishedDate": "2025-12-05T17:30:30Z",
+      "PublishedAt": "2025-12-13T17:30:30Z",
+      "DiscoveredAt": "2025-12-03T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Credit assessment reveals transaction monitoring in Lusaka",
+      "RelatedEntities": [
+        "Individual customers - Lusaka"
+      ],
+      "Entities": [
+        "Individual customers - Lusaka"
+      ],
+      "Keywords": [
+        "credit risk",
+        "corporate lending",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 63.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02cd6ec4-1761-1f15-1775-008d801a8797",
+      "Title": "Commercial Banking KYC verification retail banking",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/7437",
+      "PublishedDate": "2025-12-10T17:30:30Z",
+      "PublishedAt": "2025-12-12T17:30:30Z",
+      "DiscoveredAt": "2025-10-21T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Account opening reveals account management in Solwezi",
+      "RelatedEntities": [
+        "Smes - Ndola"
+      ],
+      "Entities": [
+        "Smes - Ndola"
+      ],
+      "Keywords": [
+        "account management",
+        "corporate lending",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 64.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "046e7a4e-0db9-136e-0ba8-0085476eb7d6",
+      "Title": "Commercial Banking credit assessment transaction monitoring",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/7651",
+      "PublishedDate": "2026-01-14T17:30:30Z",
+      "PublishedAt": "2025-12-18T17:30:30Z",
+      "DiscoveredAt": "2025-12-09T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Transaction processing reveals corporate lending in Solwezi",
+      "RelatedEntities": [
+        "Smes - Livingstone"
+      ],
+      "Entities": [
+        "Smes - Livingstone"
+      ],
+      "Keywords": [
+        "retail banking",
+        "transaction monitoring",
+        "account management"
+      ],
+      "RelevanceScore": 60.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0422387f-1533-22d5-1848-00be27373e5e",
+      "Title": "Commercial Banking account opening retail banking",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/7032",
+      "PublishedDate": "2026-01-17T17:30:30Z",
+      "PublishedAt": "2025-11-12T17:30:30Z",
+      "DiscoveredAt": "2025-12-17T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Account opening reveals account management in Livingstone",
+      "RelatedEntities": [
+        "Smes - Solwezi"
+      ],
+      "Entities": [
+        "Smes - Solwezi"
+      ],
+      "Keywords": [
+        "transaction monitoring",
+        "credit risk",
+        "account management"
+      ],
+      "RelevanceScore": 69.8,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01e67721-0636-0cbc-1028-009c3fd953c8",
+      "Title": "Commercial Banking loan disbursement account management",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/9522",
+      "PublishedDate": "2025-12-01T17:30:30Z",
+      "PublishedAt": "2025-12-02T17:30:30Z",
+      "DiscoveredAt": "2025-12-16T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Kyc verification reveals retail banking in Livingstone",
+      "RelatedEntities": [
+        "Business accounts - Ndola"
+      ],
+      "Entities": [
+        "Business accounts - Ndola"
+      ],
+      "Keywords": [
+        "account management",
+        "retail banking",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 74.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01b9764c-223e-07cb-0e35-00223e1e4b9b",
+      "Title": "Commercial Banking KYC verification credit risk",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/1038",
+      "PublishedDate": "2025-12-07T17:30:30Z",
+      "PublishedAt": "2025-11-08T17:30:30Z",
+      "DiscoveredAt": "2025-12-25T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Loan disbursement reveals account management in Kitwe",
+      "RelatedEntities": [
+        "Smes - Kitwe"
+      ],
+      "Entities": [
+        "Smes - Kitwe"
+      ],
+      "Keywords": [
+        "account management",
+        "retail banking",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 87.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00de758c-2343-118d-07b1-007028c26c2c",
+      "Title": "Commercial Banking loan disbursement retail banking",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/4900",
+      "PublishedDate": "2026-01-10T17:30:30Z",
+      "PublishedAt": "2025-12-01T17:30:30Z",
+      "DiscoveredAt": "2025-11-11T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Account opening reveals corporate lending in Solwezi",
+      "RelatedEntities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Entities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Keywords": [
+        "transaction monitoring",
+        "account management",
+        "corporate lending"
+      ],
+      "RelevanceScore": 80.1,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03c3ec4e-10d6-20cd-1aa2-002361ee3179",
+      "Title": "Commercial Banking credit assessment transaction monitoring",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/7732",
+      "PublishedDate": "2025-10-26T17:30:30Z",
+      "PublishedAt": "2025-12-31T17:30:30Z",
+      "DiscoveredAt": "2025-10-29T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Transaction processing reveals corporate lending in Kitwe",
+      "RelatedEntities": [
+        "Business accounts - Ndola"
+      ],
+      "Entities": [
+        "Business accounts - Ndola"
+      ],
+      "Keywords": [
+        "credit risk",
+        "corporate lending",
+        "retail banking"
+      ],
+      "RelevanceScore": 83.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02b2b8d0-2290-1a92-09e0-0017f39fc05a",
+      "Title": "Commercial Banking KYC verification account management",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/8891",
+      "PublishedDate": "2025-12-16T17:30:30Z",
+      "PublishedAt": "2025-12-03T17:30:30Z",
+      "DiscoveredAt": "2025-10-22T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Account opening reveals credit risk in Kitwe",
+      "RelatedEntities": [
+        "Smes - Kitwe"
+      ],
+      "Entities": [
+        "Smes - Kitwe"
+      ],
+      "Keywords": [
+        "account management",
+        "credit risk",
+        "corporate lending"
+      ],
+      "RelevanceScore": 92.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "045f3399-04dd-20f8-1d4b-009e021426d1",
+      "Title": "Commercial Banking loan disbursement credit risk",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/5864",
+      "PublishedDate": "2025-12-19T17:30:30Z",
+      "PublishedAt": "2025-12-19T17:30:30Z",
+      "DiscoveredAt": "2025-11-24T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Transaction processing reveals retail banking in Ndola",
+      "RelatedEntities": [
+        "Smes - Livingstone"
+      ],
+      "Entities": [
+        "Smes - Livingstone"
+      ],
+      "Keywords": [
+        "credit risk",
+        "retail banking",
+        "account management"
+      ],
+      "RelevanceScore": 86.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05c1af4e-1b25-234b-1e5d-00dbf157b2c2",
+      "Title": "Commercial Banking loan disbursement account management",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/8871",
+      "PublishedDate": "2026-01-11T17:30:30Z",
+      "PublishedAt": "2025-11-28T17:30:30Z",
+      "DiscoveredAt": "2025-10-28T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Transaction processing reveals transaction monitoring in Solwezi",
+      "RelatedEntities": [
+        "Smes - Ndola"
+      ],
+      "Entities": [
+        "Smes - Ndola"
+      ],
+      "Keywords": [
+        "retail banking",
+        "credit risk",
+        "corporate lending"
+      ],
+      "RelevanceScore": 91.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "044eef5b-09d1-1b97-1742-007f4861c12e",
+      "Title": "Commercial Banking loan disbursement transaction monitoring",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/7280",
+      "PublishedDate": "2026-01-01T17:30:30Z",
+      "PublishedAt": "2025-11-04T17:30:30Z",
+      "DiscoveredAt": "2025-10-28T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Credit assessment reveals account management in Solwezi",
+      "RelatedEntities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Entities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Keywords": [
+        "corporate lending",
+        "retail banking",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 92.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0139d6cf-1eab-2611-100e-007df351fa2e",
+      "Title": "Commercial Banking KYC verification transaction monitoring",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/1751",
+      "PublishedDate": "2025-10-28T17:30:30Z",
+      "PublishedAt": "2025-12-02T17:30:30Z",
+      "DiscoveredAt": "2025-12-08T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Credit assessment reveals credit risk in Livingstone",
+      "RelatedEntities": [
+        "Smes - Solwezi"
+      ],
+      "Entities": [
+        "Smes - Solwezi"
+      ],
+      "Keywords": [
+        "corporate lending",
+        "retail banking",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 69.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03edbcff-04e1-08e4-0729-00516a34ceb8",
+      "Title": "Commercial Banking credit assessment transaction monitoring",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/7230",
+      "PublishedDate": "2025-11-11T17:30:30Z",
+      "PublishedAt": "2025-12-27T17:30:30Z",
+      "DiscoveredAt": "2025-12-02T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Credit assessment reveals corporate lending in Lusaka",
+      "RelatedEntities": [
+        "Smes - Livingstone"
+      ],
+      "Entities": [
+        "Smes - Livingstone"
+      ],
+      "Keywords": [
+        "credit risk",
+        "account management",
+        "retail banking"
+      ],
+      "RelevanceScore": 84.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05231f1d-24c3-1675-0778-00ad0e4ea646",
+      "Title": "Commercial Banking credit assessment account management",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/8684",
+      "PublishedDate": "2025-11-16T17:30:30Z",
+      "PublishedAt": "2026-01-09T17:30:30Z",
+      "DiscoveredAt": "2025-11-25T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Account opening reveals retail banking in Kitwe",
+      "RelatedEntities": [
+        "Business accounts - Kitwe"
+      ],
+      "Entities": [
+        "Business accounts - Kitwe"
+      ],
+      "Keywords": [
+        "credit risk",
+        "retail banking",
+        "corporate lending"
+      ],
+      "RelevanceScore": 88.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03d46239-2145-050f-15fc-0080cbff865e",
+      "Title": "Commercial Banking KYC verification credit risk",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/4411",
+      "PublishedDate": "2025-12-15T17:30:30Z",
+      "PublishedAt": "2025-11-28T17:30:30Z",
+      "DiscoveredAt": "2025-11-29T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Loan disbursement reveals credit risk in Kitwe",
+      "RelatedEntities": [
+        "Business accounts - Solwezi"
+      ],
+      "Entities": [
+        "Business accounts - Solwezi"
+      ],
+      "Keywords": [
+        "credit risk",
+        "transaction monitoring",
+        "account management"
+      ],
+      "RelevanceScore": 89.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "012cb254-0625-19fa-2485-00c6d6e2b244",
+      "Title": "Commercial Banking credit assessment account management",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/6615",
+      "PublishedDate": "2025-11-07T17:30:30Z",
+      "PublishedAt": "2025-11-29T17:30:30Z",
+      "DiscoveredAt": "2025-12-14T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Account opening reveals account management in Livingstone",
+      "RelatedEntities": [
+        "Smes - Livingstone"
+      ],
+      "Entities": [
+        "Smes - Livingstone"
+      ],
+      "Keywords": [
+        "account management",
+        "transaction monitoring",
+        "credit risk"
+      ],
+      "RelevanceScore": 60.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "046dd99a-181e-1ba3-0f6c-004bb04bf4d6",
+      "Title": "Commercial Banking transaction processing account management",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/4871",
+      "PublishedDate": "2025-12-16T17:30:30Z",
+      "PublishedAt": "2025-11-10T17:30:30Z",
+      "DiscoveredAt": "2025-10-22T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Transaction processing reveals retail banking in Livingstone",
+      "RelatedEntities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Entities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Keywords": [
+        "credit risk",
+        "transaction monitoring",
+        "account management"
+      ],
+      "RelevanceScore": 80.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02475af1-1c63-14ef-0472-009e5c9cc8a3",
+      "Title": "Commercial Banking account opening account management",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/7376",
+      "PublishedDate": "2025-12-21T17:30:30Z",
+      "PublishedAt": "2025-12-07T17:30:30Z",
+      "DiscoveredAt": "2025-12-03T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Loan disbursement reveals retail banking in Solwezi",
+      "RelatedEntities": [
+        "Smes - Kitwe"
+      ],
+      "Entities": [
+        "Smes - Kitwe"
+      ],
+      "Keywords": [
+        "credit risk",
+        "transaction monitoring",
+        "account management"
+      ],
+      "RelevanceScore": 89.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04119a7d-0e40-14a1-078d-00a56e812dd3",
+      "Title": "Commercial Banking transaction processing credit risk",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/4398",
+      "PublishedDate": "2025-11-27T17:30:30Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2025-11-14T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Credit assessment reveals corporate lending in Ndola",
+      "RelatedEntities": [
+        "Business accounts - Solwezi"
+      ],
+      "Entities": [
+        "Business accounts - Solwezi"
+      ],
+      "Keywords": [
+        "retail banking",
+        "transaction monitoring",
+        "account management"
+      ],
+      "RelevanceScore": 76.1,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0289739a-0ce5-1217-1aca-0019c368dd99",
+      "Title": "Commercial Banking account opening transaction monitoring",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/5377",
+      "PublishedDate": "2025-10-23T17:30:30Z",
+      "PublishedAt": "2025-11-30T17:30:30Z",
+      "DiscoveredAt": "2025-11-17T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Loan disbursement reveals account management in Kitwe",
+      "RelatedEntities": [
+        "Individual customers - Kitwe"
+      ],
+      "Entities": [
+        "Individual customers - Kitwe"
+      ],
+      "Keywords": [
+        "corporate lending",
+        "account management",
+        "retail banking"
+      ],
+      "RelevanceScore": 67.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "023e8e02-06a5-0c17-1e92-0046e2bb2e4b",
+      "Title": "Commercial Banking account opening retail banking",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/5476",
+      "PublishedDate": "2025-12-07T17:30:30Z",
+      "PublishedAt": "2025-12-07T17:30:30Z",
+      "DiscoveredAt": "2025-11-18T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Account opening reveals credit risk in Ndola",
+      "RelatedEntities": [
+        "Business accounts - Kitwe"
+      ],
+      "Entities": [
+        "Business accounts - Kitwe"
+      ],
+      "Keywords": [
+        "retail banking",
+        "account management",
+        "credit risk"
+      ],
+      "RelevanceScore": 79.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05991bdb-0a24-2461-11ae-00defb1296d9",
+      "Title": "Commercial Banking KYC verification account management",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/9392",
+      "PublishedDate": "2025-12-02T17:30:30Z",
+      "PublishedAt": "2026-01-03T17:30:30Z",
+      "DiscoveredAt": "2026-01-19T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Credit assessment reveals credit risk in Solwezi",
+      "RelatedEntities": [
+        "Corporate clients - Lusaka"
+      ],
+      "Entities": [
+        "Corporate clients - Lusaka"
+      ],
+      "Keywords": [
+        "corporate lending",
+        "retail banking",
+        "credit risk"
+      ],
+      "RelevanceScore": 93.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "044a04e4-16c7-13dd-0cc1-007f1be3a32d",
+      "Title": "Commercial Banking credit assessment transaction monitoring",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/4714",
+      "PublishedDate": "2025-12-29T17:30:30Z",
+      "PublishedAt": "2026-01-17T17:30:30Z",
+      "DiscoveredAt": "2025-12-31T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Credit assessment reveals transaction monitoring in Livingstone",
+      "RelatedEntities": [
+        "Individual customers - Lusaka"
+      ],
+      "Entities": [
+        "Individual customers - Lusaka"
+      ],
+      "Keywords": [
+        "corporate lending",
+        "credit risk",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 66.1,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "057fc952-0ac7-2556-1ee6-007a4d1e8f6f",
+      "Title": "Commercial Banking credit assessment transaction monitoring",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/7041",
+      "PublishedDate": "2025-12-07T17:30:30Z",
+      "PublishedAt": "2026-01-06T17:30:30Z",
+      "DiscoveredAt": "2025-12-19T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Loan disbursement reveals account management in Kitwe",
+      "RelatedEntities": [
+        "Smes - Ndola"
+      ],
+      "Entities": [
+        "Smes - Ndola"
+      ],
+      "Keywords": [
+        "corporate lending",
+        "retail banking",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 84.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "019d74b4-1810-0b2a-2343-0095d6a09d66",
+      "Title": "Commercial Banking transaction processing retail banking",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/4272",
+      "PublishedDate": "2025-12-02T17:30:30Z",
+      "PublishedAt": "2026-01-15T17:30:30Z",
+      "DiscoveredAt": "2025-12-19T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Transaction processing reveals corporate lending in Lusaka",
+      "RelatedEntities": [
+        "Business accounts - Ndola"
+      ],
+      "Entities": [
+        "Business accounts - Ndola"
+      ],
+      "Keywords": [
+        "retail banking",
+        "credit risk",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 86.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01b0c006-0bc0-0e69-06ac-00aa2f0aac96",
+      "Title": "Commercial Banking loan disbursement account management",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/5579",
+      "PublishedDate": "2025-12-24T17:30:30Z",
+      "PublishedAt": "2025-11-22T17:30:30Z",
+      "DiscoveredAt": "2025-11-03T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Account opening reveals credit risk in Kitwe",
+      "RelatedEntities": [
+        "Individual customers - Ndola"
+      ],
+      "Entities": [
+        "Individual customers - Ndola"
+      ],
+      "Keywords": [
+        "account management",
+        "corporate lending",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 84.1,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01d33b94-10b1-14e4-05e2-00621b6c08a9",
+      "Title": "Commercial Banking loan disbursement retail banking",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/6190",
+      "PublishedDate": "2025-12-18T17:30:30Z",
+      "PublishedAt": "2025-12-01T17:30:30Z",
+      "DiscoveredAt": "2025-12-26T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Kyc verification reveals account management in Kitwe",
+      "RelatedEntities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Entities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Keywords": [
+        "credit risk",
+        "transaction monitoring",
+        "corporate lending"
+      ],
+      "RelevanceScore": 89.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "019bfc4d-1024-100a-1b68-004f4ee41ebc",
+      "Title": "Commercial Banking loan disbursement account management",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/9174",
+      "PublishedDate": "2025-11-20T17:30:30Z",
+      "PublishedAt": "2026-01-06T17:30:30Z",
+      "DiscoveredAt": "2025-11-14T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Transaction processing reveals retail banking in Solwezi",
+      "RelatedEntities": [
+        "Business accounts - Lusaka"
+      ],
+      "Entities": [
+        "Business accounts - Lusaka"
+      ],
+      "Keywords": [
+        "corporate lending",
+        "transaction monitoring",
+        "account management"
+      ],
+      "RelevanceScore": 68.1,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "040d6ef7-1ddb-0e2c-130f-00a72f7d2b69",
+      "Title": "Commercial Banking account opening account management",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/1004",
+      "PublishedDate": "2025-11-11T17:30:30Z",
+      "PublishedAt": "2025-11-27T17:30:30Z",
+      "DiscoveredAt": "2025-10-27T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Loan disbursement reveals credit risk in Livingstone",
+      "RelatedEntities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Entities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Keywords": [
+        "credit risk",
+        "retail banking",
+        "account management"
+      ],
+      "RelevanceScore": 81.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0394bf32-2148-242d-2181-00a48257fda4",
+      "Title": "Commercial Banking KYC verification retail banking",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/5940",
+      "PublishedDate": "2026-01-15T17:30:30Z",
+      "PublishedAt": "2026-01-06T17:30:30Z",
+      "DiscoveredAt": "2025-12-13T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Account opening reveals transaction monitoring in Livingstone",
+      "RelatedEntities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Entities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Keywords": [
+        "account management",
+        "retail banking",
+        "corporate lending"
+      ],
+      "RelevanceScore": 91.0,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04962de0-07d7-227a-1d66-00c43b0201d9",
+      "Title": "Commercial Banking credit assessment corporate lending",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/9702",
+      "PublishedDate": "2025-11-12T17:30:30Z",
+      "PublishedAt": "2025-10-29T17:30:30Z",
+      "DiscoveredAt": "2025-12-20T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Credit assessment reveals credit risk in Kitwe",
+      "RelatedEntities": [
+        "Business accounts - Livingstone"
+      ],
+      "Entities": [
+        "Business accounts - Livingstone"
+      ],
+      "Keywords": [
+        "corporate lending",
+        "account management",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 80.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0164ec83-2226-0bb5-2379-002e56e69518",
+      "Title": "Commercial Banking loan disbursement transaction monitoring",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/7197",
+      "PublishedDate": "2025-11-05T17:30:30Z",
+      "PublishedAt": "2025-12-11T17:30:30Z",
+      "DiscoveredAt": "2025-12-01T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Transaction processing reveals transaction monitoring in Lusaka",
+      "RelatedEntities": [
+        "Corporate clients - Lusaka"
+      ],
+      "Entities": [
+        "Corporate clients - Lusaka"
+      ],
+      "Keywords": [
+        "retail banking",
+        "credit risk",
+        "transaction monitoring"
+      ],
+      "RelevanceScore": 71.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0435ab47-1a60-1c3b-0b9c-00b5e81afa73",
+      "Title": "Commercial Banking credit assessment corporate lending",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/4900",
+      "PublishedDate": "2025-12-17T17:30:30Z",
+      "PublishedAt": "2025-11-06T17:30:30Z",
+      "DiscoveredAt": "2025-12-10T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Kyc verification reveals retail banking in Ndola",
+      "RelatedEntities": [
+        "Business accounts - Ndola"
+      ],
+      "Entities": [
+        "Business accounts - Ndola"
+      ],
+      "Keywords": [
+        "retail banking",
+        "corporate lending",
+        "credit risk"
+      ],
+      "RelevanceScore": 84.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "042b733b-0ff3-1f3c-2029-009e30eb1f89",
+      "Title": "Commercial Banking KYC verification retail banking",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/3262",
+      "PublishedDate": "2025-11-23T17:30:30Z",
+      "PublishedAt": "2025-12-27T17:30:30Z",
+      "DiscoveredAt": "2025-10-28T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Credit assessment reveals corporate lending in Solwezi",
+      "RelatedEntities": [
+        "Business accounts - Lusaka"
+      ],
+      "Entities": [
+        "Business accounts - Lusaka"
+      ],
+      "Keywords": [
+        "transaction monitoring",
+        "credit risk",
+        "corporate lending"
+      ],
+      "RelevanceScore": 71.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05afd1a1-0897-19d0-237b-006997a5ce85",
+      "Title": "Commercial Banking transaction processing retail banking",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/4077",
+      "PublishedDate": "2025-11-08T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2025-11-07T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Account opening reveals transaction monitoring in Livingstone",
+      "RelatedEntities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Entities": [
+        "Corporate clients - Solwezi"
+      ],
+      "Keywords": [
+        "transaction monitoring",
+        "account management",
+        "credit risk"
+      ],
+      "RelevanceScore": 63.9,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "022010a1-07b7-041b-1c93-00964b2cf40f",
+      "Title": "Commercial Banking transaction processing retail banking",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/8292",
+      "PublishedDate": "2025-11-16T17:30:30Z",
+      "PublishedAt": "2026-01-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-18T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Transaction processing reveals account management in Livingstone",
+      "RelatedEntities": [
+        "Individual customers - Livingstone"
+      ],
+      "Entities": [
+        "Individual customers - Livingstone"
+      ],
+      "Keywords": [
+        "account management",
+        "retail banking",
+        "corporate lending"
+      ],
+      "RelevanceScore": 88.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "0210f816-201b-0a64-2037-00afb1ed70b1",
+      "ArticleId": "04e1f322-0e45-2201-141e-0038aa59aba9",
+      "EntityId": "0217b312-0c63-207e-0bc7-00703774ce66",
+      "EntityName": "Corporate clients - Kitwe",
+      "AlertReason": "Adverse media on corporate lending",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-19T17:30:30Z",
+      "TriggeredAt": "2025-12-10T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "048bd906-16b2-1e5d-2659-00625d89627a",
+      "ArticleId": "04f1768a-0d6f-1db8-1ef6-0054acfebcf6",
+      "EntityId": "00a79538-075e-19e3-0b18-0047eb43b750",
+      "EntityName": "Individual customers - Livingstone",
+      "AlertReason": "Adverse media on retail banking",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-10-31T17:30:30Z",
+      "TriggeredAt": "2025-12-25T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "05076e86-1d91-09f6-135b-00517008ea8c",
+      "ArticleId": "04d270ba-0e5c-07ef-1e9a-0042b60b2063",
+      "EntityId": "03e28a62-1ff0-196d-1697-00a8f93970ea",
+      "EntityName": "Corporate clients - Solwezi",
+      "AlertReason": "Adverse media on corporate lending",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-15T17:30:30Z",
+      "TriggeredAt": "2025-11-27T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "03cd7254-1f6d-2694-18bd-004245416ec3",
+      "ArticleId": "04d546e8-2254-25dc-1888-006e65a7e15e",
+      "EntityId": "055a5595-1f67-068e-1ae5-00d14d939aec",
+      "EntityName": "Smes - Lusaka",
+      "AlertReason": "Adverse media on corporate lending",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-10T17:30:30Z",
+      "TriggeredAt": "2025-11-23T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "01268aba-25fd-15ff-07c7-0065157379b9",
+      "ArticleId": "02baa10c-1d10-16cf-1149-00935a9b7d1c",
+      "EntityId": "03e60c73-1757-0c71-1a13-00e7fc1a2526",
+      "EntityName": "Individual customers - Solwezi",
+      "AlertReason": "Adverse media on credit risk",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-10T17:30:30Z",
+      "TriggeredAt": "2025-12-05T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02907d1f-1c61-03ea-07a7-0020e482ba30",
+      "ArticleId": "00e24422-1e17-1b45-0983-0032ce03d055",
+      "EntityId": "04171142-20d8-1338-2141-004501eae7d9",
+      "EntityName": "Individual customers - Lusaka",
+      "AlertReason": "Adverse media on transaction monitoring",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-02T17:30:30Z",
+      "TriggeredAt": "2025-11-22T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "03fe3fe8-0eea-09c0-19ad-005a44c4e927",
+      "ArticleId": "0422387f-1533-22d5-1848-00be27373e5e",
+      "EntityId": "058949f9-088b-19e9-1dfc-004a65842176",
+      "EntityName": "Smes - Solwezi",
+      "AlertReason": "Adverse media on transaction monitoring",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2026-01-19T17:30:30Z",
+      "TriggeredAt": "2025-11-26T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02328245-1df4-2585-1d2f-00aa07c497fe",
+      "ArticleId": "00de758c-2343-118d-07b1-007028c26c2c",
+      "EntityId": "03da67b8-13c8-04c3-092d-0066d12d912b",
+      "EntityName": "Corporate clients - Livingstone",
+      "AlertReason": "Adverse media on account management",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-08T17:30:30Z",
+      "TriggeredAt": "2025-10-25T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "04863749-17c3-1a47-0d04-0035e9a278bd",
+      "ArticleId": "044eef5b-09d1-1b97-1742-007f4861c12e",
+      "EntityId": "01ba1dfe-1719-2502-0ec2-004ab0fe5878",
+      "EntityName": "Corporate clients - Livingstone",
+      "AlertReason": "Adverse media on account management",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-30T17:30:30Z",
+      "TriggeredAt": "2026-01-18T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "01199b41-06db-0bb2-117c-00558c799376",
+      "ArticleId": "03edbcff-04e1-08e4-0729-00516a34ceb8",
+      "EntityId": "043b23cf-1629-2652-0fca-006a56c95a06",
+      "EntityName": "Smes - Livingstone",
+      "AlertReason": "Adverse media on transaction monitoring",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-17T17:30:30Z",
+      "TriggeredAt": "2025-10-22T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0196d92c-059a-0df5-145b-009060fdff00",
+      "ArticleId": "02475af1-1c63-14ef-0472-009e5c9cc8a3",
+      "EntityId": "03c991a7-06f0-0ce0-0e04-002d2f3535cb",
+      "EntityName": "Smes - Kitwe",
+      "AlertReason": "Adverse media on transaction monitoring",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "TriggeredAt": "2025-12-11T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0312c693-093f-24ba-1848-006511e44f0f",
+      "ArticleId": "0289739a-0ce5-1217-1aca-0019c368dd99",
+      "EntityId": "00fb3f7a-21a4-0f94-13c9-009130dfa9ea",
+      "EntityName": "Individual customers - Kitwe",
+      "AlertReason": "Adverse media on transaction monitoring",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-10-28T17:30:30Z",
+      "TriggeredAt": "2025-11-18T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0588a467-0912-1d08-21cd-00a23e4c1aa5",
+      "ArticleId": "023e8e02-06a5-0c17-1e92-0046e2bb2e4b",
+      "EntityId": "01b25da5-0544-15e7-1b74-0031de4cef05",
+      "EntityName": "Business accounts - Kitwe",
+      "AlertReason": "Adverse media on account management",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-23T17:30:30Z",
+      "TriggeredAt": "2025-12-08T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "042968b9-233c-076d-0f5b-00da43d4886d",
+      "ArticleId": "044a04e4-16c7-13dd-0cc1-007f1be3a32d",
+      "EntityId": "0182796b-0fe7-1a88-2208-0090c0fdd19b",
+      "EntityName": "Individual customers - Lusaka",
+      "AlertReason": "Adverse media on corporate lending",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-28T17:30:30Z",
+      "TriggeredAt": "2025-10-29T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01397355-0672-1c49-2644-00df33eb7363",
+      "ArticleId": "01d33b94-10b1-14e4-05e2-00621b6c08a9",
+      "EntityId": "03696c82-0d99-0bc5-0485-00687d5e03f5",
+      "EntityName": "Corporate clients - Solwezi",
+      "AlertReason": "Adverse media on transaction monitoring",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-24T17:30:30Z",
+      "TriggeredAt": "2026-01-10T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "012341e8-2707-176c-05b3-00838d1a860a",
+      "ArticleId": "019bfc4d-1024-100a-1b68-004f4ee41ebc",
+      "EntityId": "040b1d6e-253e-1ff2-1100-004ab2b1a92e",
+      "EntityName": "Business accounts - Lusaka",
+      "AlertReason": "Adverse media on transaction monitoring",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-27T17:30:30Z",
+      "TriggeredAt": "2025-11-14T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "05518b79-0a80-0f75-1799-00a5b7d90f95",
+      "ArticleId": "040d6ef7-1ddb-0e2c-130f-00a72f7d2b69",
+      "EntityId": "04bf1fd5-2082-19e2-0919-005acc22c3f1",
+      "EntityName": "Corporate clients - Kitwe",
+      "AlertReason": "Adverse media on retail banking",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-28T17:30:30Z",
+      "TriggeredAt": "2025-12-10T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "00b80315-24a5-1739-1b9b-00556d83333d",
+      "ArticleId": "0394bf32-2148-242d-2181-00a48257fda4",
+      "EntityId": "00a55395-0db6-1434-1c50-00869d415e6f",
+      "EntityName": "Corporate clients - Solwezi",
+      "AlertReason": "Adverse media on retail banking",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-03T17:30:30Z",
+      "TriggeredAt": "2025-10-29T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0299e676-13bd-18de-052c-00861cfda92e",
+      "ArticleId": "022010a1-07b7-041b-1c93-00964b2cf40f",
+      "EntityId": "01446ff8-1f42-124b-2070-00a56b5b771b",
+      "EntityName": "Individual customers - Livingstone",
+      "AlertReason": "Adverse media on credit risk",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-20T17:30:30Z",
+      "TriggeredAt": "2026-01-12T17:30:30Z",
+      "IsAcknowledged": true
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "03231db0-0695-1d66-1409-009c0cd32745",
+      "EntityName": "Commercial Banking",
+      "Keywords": [
+        "transaction monitoring",
+        "corporate lending",
+        "credit risk"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 25,
+    "HighRiskArticles": 17,
+    "ActiveAlerts": 19,
+    "MonitoredEntities": 18,
+    "ArticlesByCategory": {
+      "regulatory": 11,
+      "criminal": 8,
+      "financial": 5,
+      "political": 7
+    },
+    "ArticlesBySeverity": {
+      "high": 17,
+      "medium": 18,
+      "low": 10
+    }
+  }
+}

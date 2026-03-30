@@ -1,0 +1,1493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "00f92d63-1780-18b9-1af1-00aaf5287b3d",
+      "Title": "Insurance fraud investigation claims processing",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/6884",
+      "PublishedDate": "2025-10-22T17:30:30Z",
+      "PublishedAt": "2025-12-11T17:30:30Z",
+      "DiscoveredAt": "2025-12-16T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Policy underwriting reveals insurance fraud in Kabwe",
+      "RelatedEntities": [
+        "Policyholders - Livingstone"
+      ],
+      "Entities": [
+        "Policyholders - Livingstone"
+      ],
+      "Keywords": [
+        "risk assessment",
+        "insurance fraud",
+        "underwriting"
+      ],
+      "RelevanceScore": 89.6,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04e73d76-2247-0e2c-1df7-0037ed6fd405",
+      "Title": "Insurance policy underwriting risk assessment",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/4177",
+      "PublishedDate": "2025-11-08T17:30:30Z",
+      "PublishedAt": "2025-12-29T17:30:30Z",
+      "DiscoveredAt": "2025-12-23T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Risk evaluation reveals claims processing in Kitwe",
+      "RelatedEntities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Entities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Keywords": [
+        "risk assessment",
+        "insurance fraud",
+        "underwriting"
+      ],
+      "RelevanceScore": 62.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0519297a-1c0a-17bd-103d-00df249d0a5d",
+      "Title": "Insurance claims processing claims processing",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/8798",
+      "PublishedDate": "2025-11-03T17:30:30Z",
+      "PublishedAt": "2026-01-14T17:30:30Z",
+      "DiscoveredAt": "2025-11-26T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Claims processing reveals risk assessment in Lusaka",
+      "RelatedEntities": [
+        "Brokers - Ndola"
+      ],
+      "Entities": [
+        "Brokers - Ndola"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "risk assessment",
+        "claims processing"
+      ],
+      "RelevanceScore": 81.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02c8c9b3-0642-0a51-1cfc-00842ec79f6a",
+      "Title": "Insurance claims processing underwriting",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/9288",
+      "PublishedDate": "2025-12-05T17:30:30Z",
+      "PublishedAt": "2025-12-28T17:30:30Z",
+      "DiscoveredAt": "2026-01-11T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Claims processing reveals underwriting in Kitwe",
+      "RelatedEntities": [
+        "Policyholders - Kabwe"
+      ],
+      "Entities": [
+        "Policyholders - Kabwe"
+      ],
+      "Keywords": [
+        "claims processing",
+        "underwriting",
+        "policy management"
+      ],
+      "RelevanceScore": 90.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03d3af9f-0bc5-13c9-0ca7-0017dc95d126",
+      "Title": "Insurance policy underwriting risk assessment",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/3483",
+      "PublishedDate": "2026-01-02T17:30:30Z",
+      "PublishedAt": "2025-10-25T17:30:30Z",
+      "DiscoveredAt": "2025-12-13T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Claims processing reveals policy management in Kabwe",
+      "RelatedEntities": [
+        "Claimants - Kabwe"
+      ],
+      "Entities": [
+        "Claimants - Kabwe"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "claims processing",
+        "underwriting"
+      ],
+      "RelevanceScore": 94.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03d30751-1a78-2012-196b-00743277b421",
+      "Title": "Insurance claims processing insurance fraud",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/2114",
+      "PublishedDate": "2025-11-04T17:30:30Z",
+      "PublishedAt": "2025-11-25T17:30:30Z",
+      "DiscoveredAt": "2025-10-28T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Claims processing reveals claims processing in Ndola",
+      "RelatedEntities": [
+        "Brokers - Ndola"
+      ],
+      "Entities": [
+        "Brokers - Ndola"
+      ],
+      "Keywords": [
+        "claims processing",
+        "insurance fraud",
+        "policy management"
+      ],
+      "RelevanceScore": 82.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05d1867f-0ffc-07e4-121f-003b879c0946",
+      "Title": "Insurance fraud investigation policy management",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/6022",
+      "PublishedDate": "2025-11-15T17:30:30Z",
+      "PublishedAt": "2025-12-03T17:30:30Z",
+      "DiscoveredAt": "2025-11-07T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Risk evaluation reveals policy management in Kabwe",
+      "RelatedEntities": [
+        "Claimants - Lusaka"
+      ],
+      "Entities": [
+        "Claimants - Lusaka"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "risk assessment",
+        "claims processing"
+      ],
+      "RelevanceScore": 76.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "034df903-0889-1ace-16f8-00224ad5a999",
+      "Title": "Insurance fraud investigation risk assessment",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/8223",
+      "PublishedDate": "2025-12-30T17:30:30Z",
+      "PublishedAt": "2025-11-06T17:30:30Z",
+      "DiscoveredAt": "2025-11-21T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Claims processing reveals insurance fraud in Kabwe",
+      "RelatedEntities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Entities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "policy management",
+        "underwriting"
+      ],
+      "RelevanceScore": 85.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01d43c66-16ed-0e72-1ce6-00dedc2f49bd",
+      "Title": "Insurance policy underwriting insurance fraud",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/5850",
+      "PublishedDate": "2025-10-26T17:30:30Z",
+      "PublishedAt": "2025-11-24T17:30:30Z",
+      "DiscoveredAt": "2026-01-07T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Policy underwriting reveals claims processing in Ndola",
+      "RelatedEntities": [
+        "Claimants - Lusaka"
+      ],
+      "Entities": [
+        "Claimants - Lusaka"
+      ],
+      "Keywords": [
+        "claims processing",
+        "insurance fraud",
+        "underwriting"
+      ],
+      "RelevanceScore": 74.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0165fb92-14ff-058e-093d-006a71562ceb",
+      "Title": "Insurance compliance check policy management",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/1782",
+      "PublishedDate": "2025-11-21T17:30:30Z",
+      "PublishedAt": "2025-11-07T17:30:30Z",
+      "DiscoveredAt": "2025-12-29T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Compliance check reveals underwriting in Livingstone",
+      "RelatedEntities": [
+        "Corporate clients - Lusaka"
+      ],
+      "Entities": [
+        "Corporate clients - Lusaka"
+      ],
+      "Keywords": [
+        "policy management",
+        "claims processing",
+        "underwriting"
+      ],
+      "RelevanceScore": 62.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04b34f8f-2626-1d1a-04c9-00d11d42b172",
+      "Title": "Insurance policy underwriting underwriting",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/7279",
+      "PublishedDate": "2025-12-15T17:30:30Z",
+      "PublishedAt": "2025-12-10T17:30:30Z",
+      "DiscoveredAt": "2026-01-01T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Policy underwriting reveals risk assessment in Lusaka",
+      "RelatedEntities": [
+        "Brokers - Kitwe"
+      ],
+      "Entities": [
+        "Brokers - Kitwe"
+      ],
+      "Keywords": [
+        "risk assessment",
+        "policy management",
+        "underwriting"
+      ],
+      "RelevanceScore": 84.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02b46d98-1dfe-1efd-0d2e-00e551a1cdb4",
+      "Title": "Insurance compliance check insurance fraud",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/9446",
+      "PublishedDate": "2025-11-29T17:30:30Z",
+      "PublishedAt": "2025-11-18T17:30:30Z",
+      "DiscoveredAt": "2025-12-09T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Claims processing reveals insurance fraud in Kabwe",
+      "RelatedEntities": [
+        "Brokers - Livingstone"
+      ],
+      "Entities": [
+        "Brokers - Livingstone"
+      ],
+      "Keywords": [
+        "underwriting",
+        "policy management",
+        "claims processing"
+      ],
+      "RelevanceScore": 85.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03505a40-1ca7-188b-1edd-00bc84c43dae",
+      "Title": "Insurance policy underwriting underwriting",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/5883",
+      "PublishedDate": "2025-12-21T17:30:30Z",
+      "PublishedAt": "2025-11-11T17:30:30Z",
+      "DiscoveredAt": "2025-11-21T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Risk evaluation reveals risk assessment in Livingstone",
+      "RelatedEntities": [
+        "Claimants - Kitwe"
+      ],
+      "Entities": [
+        "Claimants - Kitwe"
+      ],
+      "Keywords": [
+        "underwriting",
+        "risk assessment",
+        "policy management"
+      ],
+      "RelevanceScore": 66.1,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03282b84-0c0d-1fb6-1fc2-0065d07be6cf",
+      "Title": "Insurance fraud investigation claims processing",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/2678",
+      "PublishedDate": "2025-11-18T17:30:30Z",
+      "PublishedAt": "2025-11-23T17:30:30Z",
+      "DiscoveredAt": "2025-11-20T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Claims processing reveals risk assessment in Ndola",
+      "RelatedEntities": [
+        "Policyholders - Kitwe"
+      ],
+      "Entities": [
+        "Policyholders - Kitwe"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "underwriting",
+        "policy management"
+      ],
+      "RelevanceScore": 87.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05e2321f-17f2-1fd0-16a3-00b3ab95db42",
+      "Title": "Insurance policy underwriting insurance fraud",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/2160",
+      "PublishedDate": "2025-12-16T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2025-10-23T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Compliance check reveals policy management in Ndola",
+      "RelatedEntities": [
+        "Claimants - Livingstone"
+      ],
+      "Entities": [
+        "Claimants - Livingstone"
+      ],
+      "Keywords": [
+        "underwriting",
+        "insurance fraud",
+        "policy management"
+      ],
+      "RelevanceScore": 78.9,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "013bcbfb-0e1e-1868-0bb7-006355baa75c",
+      "Title": "Insurance claims processing risk assessment",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/9522",
+      "PublishedDate": "2025-12-24T17:30:30Z",
+      "PublishedAt": "2026-01-05T17:30:30Z",
+      "DiscoveredAt": "2025-10-30T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Policy underwriting reveals claims processing in Lusaka",
+      "RelatedEntities": [
+        "Corporate clients - Ndola"
+      ],
+      "Entities": [
+        "Corporate clients - Ndola"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "policy management",
+        "risk assessment"
+      ],
+      "RelevanceScore": 75.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02d0f418-12aa-0aaf-1fe3-004b37048268",
+      "Title": "Insurance claims processing policy management",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/3175",
+      "PublishedDate": "2026-01-02T17:30:30Z",
+      "PublishedAt": "2025-10-27T17:30:30Z",
+      "DiscoveredAt": "2026-01-07T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Compliance check reveals underwriting in Kabwe",
+      "RelatedEntities": [
+        "Policyholders - Lusaka"
+      ],
+      "Entities": [
+        "Policyholders - Lusaka"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "underwriting",
+        "risk assessment"
+      ],
+      "RelevanceScore": 82.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00fdec64-1fa6-1bac-1584-005f29759aa9",
+      "Title": "Insurance fraud investigation insurance fraud",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/5385",
+      "PublishedDate": "2025-10-23T17:30:30Z",
+      "PublishedAt": "2025-11-19T17:30:30Z",
+      "DiscoveredAt": "2026-01-01T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Claims processing reveals policy management in Kabwe",
+      "RelatedEntities": [
+        "Claimants - Kabwe"
+      ],
+      "Entities": [
+        "Claimants - Kabwe"
+      ],
+      "Keywords": [
+        "underwriting",
+        "policy management",
+        "risk assessment"
+      ],
+      "RelevanceScore": 89.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0441b423-0c18-0bb0-18a7-00c1ad05a3ee",
+      "Title": "Insurance fraud investigation risk assessment",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/5637",
+      "PublishedDate": "2025-12-31T17:30:30Z",
+      "PublishedAt": "2025-11-05T17:30:30Z",
+      "DiscoveredAt": "2025-12-02T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Compliance check reveals claims processing in Ndola",
+      "RelatedEntities": [
+        "Claimants - Kitwe"
+      ],
+      "Entities": [
+        "Claimants - Kitwe"
+      ],
+      "Keywords": [
+        "policy management",
+        "insurance fraud",
+        "underwriting"
+      ],
+      "RelevanceScore": 91.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "024a8fcd-0f9b-0fdc-1995-003b782d9eb6",
+      "Title": "Insurance risk evaluation underwriting",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/4818",
+      "PublishedDate": "2025-11-09T17:30:30Z",
+      "PublishedAt": "2026-01-18T17:30:30Z",
+      "DiscoveredAt": "2025-12-03T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Risk evaluation reveals policy management in Kabwe",
+      "RelatedEntities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Entities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Keywords": [
+        "underwriting",
+        "policy management",
+        "risk assessment"
+      ],
+      "RelevanceScore": 91.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03be08bf-0a40-0c63-1234-0085f9843cc7",
+      "Title": "Insurance compliance check underwriting",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/6186",
+      "PublishedDate": "2025-10-31T17:30:30Z",
+      "PublishedAt": "2026-01-02T17:30:30Z",
+      "DiscoveredAt": "2025-12-20T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Policy underwriting reveals risk assessment in Lusaka",
+      "RelatedEntities": [
+        "Brokers - Kitwe"
+      ],
+      "Entities": [
+        "Brokers - Kitwe"
+      ],
+      "Keywords": [
+        "risk assessment",
+        "insurance fraud",
+        "underwriting"
+      ],
+      "RelevanceScore": 86.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0451eebb-0b06-1109-1f93-00976becf4d5",
+      "Title": "Insurance compliance check policy management",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/3033",
+      "PublishedDate": "2025-11-19T17:30:30Z",
+      "PublishedAt": "2025-12-07T17:30:30Z",
+      "DiscoveredAt": "2025-11-04T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Fraud investigation reveals insurance fraud in Ndola",
+      "RelatedEntities": [
+        "Policyholders - Ndola"
+      ],
+      "Entities": [
+        "Policyholders - Ndola"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "risk assessment",
+        "claims processing"
+      ],
+      "RelevanceScore": 68.0,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "054dba34-2294-24fc-11f5-00c1ef11084e",
+      "Title": "Insurance fraud investigation claims processing",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/4320",
+      "PublishedDate": "2025-10-28T17:30:30Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2025-12-12T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Policy underwriting reveals claims processing in Lusaka",
+      "RelatedEntities": [
+        "Brokers - Kabwe"
+      ],
+      "Entities": [
+        "Brokers - Kabwe"
+      ],
+      "Keywords": [
+        "claims processing",
+        "risk assessment",
+        "underwriting"
+      ],
+      "RelevanceScore": 73.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01da149c-15d9-230a-1b47-0062bd228956",
+      "Title": "Insurance claims processing policy management",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/2424",
+      "PublishedDate": "2025-11-27T17:30:30Z",
+      "PublishedAt": "2025-12-23T17:30:30Z",
+      "DiscoveredAt": "2025-12-22T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Claims processing reveals risk assessment in Ndola",
+      "RelatedEntities": [
+        "Claimants - Lusaka"
+      ],
+      "Entities": [
+        "Claimants - Lusaka"
+      ],
+      "Keywords": [
+        "policy management",
+        "risk assessment",
+        "insurance fraud"
+      ],
+      "RelevanceScore": 94.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00e0114d-0e7d-1a0c-1c97-00e2a984d459",
+      "Title": "Insurance risk evaluation insurance fraud",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/7826",
+      "PublishedDate": "2025-11-07T17:30:30Z",
+      "PublishedAt": "2025-12-31T17:30:30Z",
+      "DiscoveredAt": "2025-11-14T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Risk evaluation reveals insurance fraud in Lusaka",
+      "RelatedEntities": [
+        "Claimants - Kabwe"
+      ],
+      "Entities": [
+        "Claimants - Kabwe"
+      ],
+      "Keywords": [
+        "underwriting",
+        "risk assessment",
+        "policy management"
+      ],
+      "RelevanceScore": 79.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "028f8375-0df7-24b4-072b-00a64876d295",
+      "Title": "Insurance policy underwriting underwriting",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/1444",
+      "PublishedDate": "2025-11-12T17:30:30Z",
+      "PublishedAt": "2025-11-14T17:30:30Z",
+      "DiscoveredAt": "2026-01-07T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Claims processing reveals risk assessment in Livingstone",
+      "RelatedEntities": [
+        "Policyholders - Lusaka"
+      ],
+      "Entities": [
+        "Policyholders - Lusaka"
+      ],
+      "Keywords": [
+        "claims processing",
+        "underwriting",
+        "insurance fraud"
+      ],
+      "RelevanceScore": 72.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05301e1f-1f14-1ce5-1f4f-00a015cf2ffc",
+      "Title": "Insurance claims processing policy management",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/7805",
+      "PublishedDate": "2025-11-14T17:30:30Z",
+      "PublishedAt": "2025-11-03T17:30:30Z",
+      "DiscoveredAt": "2025-12-22T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Claims processing reveals policy management in Kitwe",
+      "RelatedEntities": [
+        "Brokers - Kabwe"
+      ],
+      "Entities": [
+        "Brokers - Kabwe"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "policy management",
+        "claims processing"
+      ],
+      "RelevanceScore": 88.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05d526ca-17ec-0a82-047d-007d4af8e0cd",
+      "Title": "Insurance fraud investigation claims processing",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/6073",
+      "PublishedDate": "2025-11-09T17:30:30Z",
+      "PublishedAt": "2025-11-22T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Compliance check reveals insurance fraud in Ndola",
+      "RelatedEntities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Entities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Keywords": [
+        "claims processing",
+        "insurance fraud",
+        "underwriting"
+      ],
+      "RelevanceScore": 85.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "013b7907-2175-26b7-243c-007262bcb973",
+      "Title": "Insurance claims processing policy management",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/4567",
+      "PublishedDate": "2025-11-02T17:30:30Z",
+      "PublishedAt": "2025-11-05T17:30:30Z",
+      "DiscoveredAt": "2025-12-19T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Policy underwriting reveals policy management in Ndola",
+      "RelatedEntities": [
+        "Policyholders - Kitwe"
+      ],
+      "Entities": [
+        "Policyholders - Kitwe"
+      ],
+      "Keywords": [
+        "underwriting",
+        "claims processing",
+        "insurance fraud"
+      ],
+      "RelevanceScore": 67.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02f1543c-0a03-1e31-0a25-00278e79ea9b",
+      "Title": "Insurance policy underwriting underwriting",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/5034",
+      "PublishedDate": "2025-12-15T17:30:30Z",
+      "PublishedAt": "2025-12-31T17:30:30Z",
+      "DiscoveredAt": "2025-11-20T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Risk evaluation reveals claims processing in Kitwe",
+      "RelatedEntities": [
+        "Claimants - Lusaka"
+      ],
+      "Entities": [
+        "Claimants - Lusaka"
+      ],
+      "Keywords": [
+        "risk assessment",
+        "insurance fraud",
+        "policy management"
+      ],
+      "RelevanceScore": 67.0,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0339a7fc-21a2-2696-260b-00e66e637dd7",
+      "Title": "Insurance risk evaluation claims processing",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/1923",
+      "PublishedDate": "2025-11-12T17:30:30Z",
+      "PublishedAt": "2025-12-07T17:30:30Z",
+      "DiscoveredAt": "2025-12-22T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Fraud investigation reveals underwriting in Livingstone",
+      "RelatedEntities": [
+        "Brokers - Livingstone"
+      ],
+      "Entities": [
+        "Brokers - Livingstone"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "underwriting",
+        "policy management"
+      ],
+      "RelevanceScore": 68.5,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0386391e-20a1-26b0-1e54-00aee9cf9e11",
+      "Title": "Insurance claims processing risk assessment",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/9521",
+      "PublishedDate": "2025-11-05T17:30:30Z",
+      "PublishedAt": "2025-10-31T17:30:30Z",
+      "DiscoveredAt": "2025-11-03T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Compliance check reveals policy management in Livingstone",
+      "RelatedEntities": [
+        "Claimants - Lusaka"
+      ],
+      "Entities": [
+        "Claimants - Lusaka"
+      ],
+      "Keywords": [
+        "claims processing",
+        "risk assessment",
+        "policy management"
+      ],
+      "RelevanceScore": 93.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04f783ea-228f-1630-1b13-00446e569ed1",
+      "Title": "Insurance fraud investigation underwriting",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/8132",
+      "PublishedDate": "2025-11-06T17:30:30Z",
+      "PublishedAt": "2026-01-15T17:30:30Z",
+      "DiscoveredAt": "2026-01-10T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Fraud investigation reveals insurance fraud in Ndola",
+      "RelatedEntities": [
+        "Policyholders - Lusaka"
+      ],
+      "Entities": [
+        "Policyholders - Lusaka"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "risk assessment",
+        "claims processing"
+      ],
+      "RelevanceScore": 88.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0319279a-1ee8-2112-0c03-00452d9104f5",
+      "Title": "Insurance fraud investigation insurance fraud",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/5032",
+      "PublishedDate": "2025-12-03T17:30:30Z",
+      "PublishedAt": "2026-01-02T17:30:30Z",
+      "DiscoveredAt": "2026-01-07T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Policy underwriting reveals insurance fraud in Ndola",
+      "RelatedEntities": [
+        "Policyholders - Kitwe"
+      ],
+      "Entities": [
+        "Policyholders - Kitwe"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "policy management",
+        "risk assessment"
+      ],
+      "RelevanceScore": 83.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03cf3e3b-2068-0618-193a-00d22b904d2a",
+      "Title": "Insurance fraud investigation underwriting",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/7552",
+      "PublishedDate": "2025-11-09T17:30:30Z",
+      "PublishedAt": "2025-12-21T17:30:30Z",
+      "DiscoveredAt": "2025-11-26T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Policy underwriting reveals underwriting in Lusaka",
+      "RelatedEntities": [
+        "Policyholders - Lusaka"
+      ],
+      "Entities": [
+        "Policyholders - Lusaka"
+      ],
+      "Keywords": [
+        "underwriting",
+        "policy management",
+        "claims processing"
+      ],
+      "RelevanceScore": 94.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0270e7df-13f8-1d65-09b1-00dd683b7985",
+      "Title": "Insurance risk evaluation policy management",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/6133",
+      "PublishedDate": "2025-12-21T17:30:30Z",
+      "PublishedAt": "2025-10-26T17:30:30Z",
+      "DiscoveredAt": "2025-12-12T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Risk evaluation reveals policy management in Livingstone",
+      "RelatedEntities": [
+        "Policyholders - Lusaka"
+      ],
+      "Entities": [
+        "Policyholders - Lusaka"
+      ],
+      "Keywords": [
+        "underwriting",
+        "insurance fraud",
+        "risk assessment"
+      ],
+      "RelevanceScore": 72.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02036ea2-182d-1df6-10a5-00e47dd1bc58",
+      "Title": "Insurance risk evaluation insurance fraud",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/4660",
+      "PublishedDate": "2025-10-26T17:30:30Z",
+      "PublishedAt": "2025-12-02T17:30:30Z",
+      "DiscoveredAt": "2025-12-13T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Compliance check reveals risk assessment in Livingstone",
+      "RelatedEntities": [
+        "Brokers - Livingstone"
+      ],
+      "Entities": [
+        "Brokers - Livingstone"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "underwriting",
+        "risk assessment"
+      ],
+      "RelevanceScore": 74.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03f7d217-1640-0802-0d4e-00317ce1a83e",
+      "Title": "Insurance compliance check policy management",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/3829",
+      "PublishedDate": "2025-11-07T17:30:30Z",
+      "PublishedAt": "2025-10-29T17:30:30Z",
+      "DiscoveredAt": "2025-10-22T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Fraud investigation reveals insurance fraud in Kabwe",
+      "RelatedEntities": [
+        "Claimants - Kitwe"
+      ],
+      "Entities": [
+        "Claimants - Kitwe"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "claims processing",
+        "policy management"
+      ],
+      "RelevanceScore": 92.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04e121de-1701-0f5a-0647-00e03a8b93df",
+      "Title": "Insurance compliance check risk assessment",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/5221",
+      "PublishedDate": "2025-11-22T17:30:30Z",
+      "PublishedAt": "2025-12-04T17:30:30Z",
+      "DiscoveredAt": "2025-12-26T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Risk evaluation reveals insurance fraud in Kitwe",
+      "RelatedEntities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Entities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Keywords": [
+        "underwriting",
+        "policy management",
+        "risk assessment"
+      ],
+      "RelevanceScore": 81.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "010e31e4-1e08-069c-19f0-00d91d5693af",
+      "Title": "Insurance compliance check underwriting",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/4066",
+      "PublishedDate": "2025-10-28T17:30:30Z",
+      "PublishedAt": "2026-01-08T17:30:30Z",
+      "DiscoveredAt": "2025-11-14T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Risk evaluation reveals claims processing in Lusaka",
+      "RelatedEntities": [
+        "Claimants - Lusaka"
+      ],
+      "Entities": [
+        "Claimants - Lusaka"
+      ],
+      "Keywords": [
+        "risk assessment",
+        "underwriting",
+        "insurance fraud"
+      ],
+      "RelevanceScore": 72.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00df2f31-1650-1055-1f55-0073afb60cd4",
+      "Title": "Insurance fraud investigation underwriting",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/3464",
+      "PublishedDate": "2025-12-18T17:30:30Z",
+      "PublishedAt": "2026-01-01T17:30:30Z",
+      "DiscoveredAt": "2025-10-23T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Compliance check reveals claims processing in Livingstone",
+      "RelatedEntities": [
+        "Corporate clients - Ndola"
+      ],
+      "Entities": [
+        "Corporate clients - Ndola"
+      ],
+      "Keywords": [
+        "underwriting",
+        "policy management",
+        "insurance fraud"
+      ],
+      "RelevanceScore": 72.4,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05e782a7-0734-248c-0c32-002edbb9c7dd",
+      "Title": "Insurance risk evaluation underwriting",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/5225",
+      "PublishedDate": "2025-12-02T17:30:30Z",
+      "PublishedAt": "2026-01-06T17:30:30Z",
+      "DiscoveredAt": "2025-12-28T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Fraud investigation reveals claims processing in Livingstone",
+      "RelatedEntities": [
+        "Policyholders - Kabwe"
+      ],
+      "Entities": [
+        "Policyholders - Kabwe"
+      ],
+      "Keywords": [
+        "underwriting",
+        "claims processing",
+        "policy management"
+      ],
+      "RelevanceScore": 82.9,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04776b80-0948-1f49-2068-004c9d6640ad",
+      "Title": "Insurance fraud investigation insurance fraud",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/8522",
+      "PublishedDate": "2026-01-01T17:30:30Z",
+      "PublishedAt": "2025-12-19T17:30:30Z",
+      "DiscoveredAt": "2025-12-30T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Claims processing reveals risk assessment in Kabwe",
+      "RelatedEntities": [
+        "Policyholders - Ndola"
+      ],
+      "Entities": [
+        "Policyholders - Ndola"
+      ],
+      "Keywords": [
+        "risk assessment",
+        "policy management",
+        "insurance fraud"
+      ],
+      "RelevanceScore": 71.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "034b0d23-16c7-1438-0aee-003b972a02b3",
+      "Title": "Insurance policy underwriting risk assessment",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/3244",
+      "PublishedDate": "2025-11-02T17:30:30Z",
+      "PublishedAt": "2025-11-15T17:30:30Z",
+      "DiscoveredAt": "2025-11-17T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Fraud investigation reveals policy management in Kitwe",
+      "RelatedEntities": [
+        "Policyholders - Lusaka"
+      ],
+      "Entities": [
+        "Policyholders - Lusaka"
+      ],
+      "Keywords": [
+        "underwriting",
+        "claims processing",
+        "risk assessment"
+      ],
+      "RelevanceScore": 80.6,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03bb58d3-14e1-218c-2546-00cd37cfff3f",
+      "Title": "Insurance fraud investigation policy management",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/3184",
+      "PublishedDate": "2026-01-07T17:30:30Z",
+      "PublishedAt": "2025-10-27T17:30:30Z",
+      "DiscoveredAt": "2025-11-12T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Policy underwriting reveals policy management in Livingstone",
+      "RelatedEntities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Entities": [
+        "Corporate clients - Livingstone"
+      ],
+      "Keywords": [
+        "claims processing",
+        "insurance fraud",
+        "risk assessment"
+      ],
+      "RelevanceScore": 72.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05571d70-07f6-1978-1dc5-00c7e8031239",
+      "Title": "Insurance risk evaluation insurance fraud",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/3582",
+      "PublishedDate": "2025-12-14T17:30:30Z",
+      "PublishedAt": "2025-11-03T17:30:30Z",
+      "DiscoveredAt": "2025-11-14T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Fraud investigation reveals insurance fraud in Ndola",
+      "RelatedEntities": [
+        "Brokers - Kitwe"
+      ],
+      "Entities": [
+        "Brokers - Kitwe"
+      ],
+      "Keywords": [
+        "insurance fraud",
+        "risk assessment",
+        "policy management"
+      ],
+      "RelevanceScore": 92.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03d05735-2680-06cc-1ed3-00e7d8c271da",
+      "Title": "Insurance risk evaluation policy management",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/2766",
+      "PublishedDate": "2025-12-29T17:30:30Z",
+      "PublishedAt": "2025-12-28T17:30:30Z",
+      "DiscoveredAt": "2025-10-28T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Risk evaluation reveals risk assessment in Kabwe",
+      "RelatedEntities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Entities": [
+        "Corporate clients - Kitwe"
+      ],
+      "Keywords": [
+        "policy management",
+        "insurance fraud",
+        "claims processing"
+      ],
+      "RelevanceScore": 63.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04e02bdb-1057-2020-0cbe-00463af80fc4",
+      "Title": "Insurance compliance check policy management",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/3487",
+      "PublishedDate": "2025-12-09T17:30:30Z",
+      "PublishedAt": "2025-10-25T17:30:30Z",
+      "DiscoveredAt": "2025-11-11T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Policy underwriting reveals insurance fraud in Lusaka",
+      "RelatedEntities": [
+        "Corporate clients - Kabwe"
+      ],
+      "Entities": [
+        "Corporate clients - Kabwe"
+      ],
+      "Keywords": [
+        "claims processing",
+        "policy management",
+        "insurance fraud"
+      ],
+      "RelevanceScore": 84.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04b549dc-11e4-22c3-1f1c-00e29f1965e1",
+      "Title": "Insurance compliance check risk assessment",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/1665",
+      "PublishedDate": "2025-12-27T17:30:30Z",
+      "PublishedAt": "2025-10-30T17:30:30Z",
+      "DiscoveredAt": "2025-10-23T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Compliance check reveals policy management in Lusaka",
+      "RelatedEntities": [
+        "Claimants - Kabwe"
+      ],
+      "Entities": [
+        "Claimants - Kabwe"
+      ],
+      "Keywords": [
+        "risk assessment",
+        "claims processing",
+        "insurance fraud"
+      ],
+      "RelevanceScore": 69.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05229986-2560-1e4b-0ab1-002746100ecb",
+      "Title": "Insurance claims processing underwriting",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/4123",
+      "PublishedDate": "2025-12-18T17:30:30Z",
+      "PublishedAt": "2025-11-02T17:30:30Z",
+      "DiscoveredAt": "2025-11-01T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Policy underwriting reveals underwriting in Lusaka",
+      "RelatedEntities": [
+        "Claimants - Lusaka"
+      ],
+      "Entities": [
+        "Claimants - Lusaka"
+      ],
+      "Keywords": [
+        "risk assessment",
+        "policy management",
+        "insurance fraud"
+      ],
+      "RelevanceScore": 64.7,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "047f938f-2284-1542-1742-00b8d75e7c92",
+      "ArticleId": "034df903-0889-1ace-16f8-00224ad5a999",
+      "EntityId": "03a6faea-120a-0708-0889-00c76beca32d",
+      "EntityName": "Corporate clients - Kitwe",
+      "AlertReason": "Adverse media on policy management",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-08T17:30:30Z",
+      "TriggeredAt": "2025-12-06T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01953d7d-1b66-1380-12aa-002b6267252e",
+      "ArticleId": "01d43c66-16ed-0e72-1ce6-00dedc2f49bd",
+      "EntityId": "05779aef-0f3f-26ad-0bfc-0028a9ea1d85",
+      "EntityName": "Claimants - Lusaka",
+      "AlertReason": "Adverse media on policy management",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-07T17:30:30Z",
+      "TriggeredAt": "2025-10-23T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03c83c06-03ee-042a-090d-006e7ed79e49",
+      "ArticleId": "03282b84-0c0d-1fb6-1fc2-0065d07be6cf",
+      "EntityId": "05ef1852-1fea-0cd3-19bf-0081349308f5",
+      "EntityName": "Policyholders - Kitwe",
+      "AlertReason": "Adverse media on insurance fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-10T17:30:30Z",
+      "TriggeredAt": "2025-12-29T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03bcddc8-2674-05c1-2045-001ea23e23d8",
+      "ArticleId": "05e2321f-17f2-1fd0-16a3-00b3ab95db42",
+      "EntityId": "03b67510-1def-1ce5-076c-008c501ab89f",
+      "EntityName": "Claimants - Livingstone",
+      "AlertReason": "Adverse media on insurance fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-16T17:30:30Z",
+      "TriggeredAt": "2026-01-10T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02b6c5ef-243c-1533-057b-00a601eba384",
+      "ArticleId": "02d0f418-12aa-0aaf-1fe3-004b37048268",
+      "EntityId": "0294d0f4-0562-266f-21dd-00bd16b9990f",
+      "EntityName": "Policyholders - Lusaka",
+      "AlertReason": "Adverse media on underwriting",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-21T17:30:30Z",
+      "TriggeredAt": "2025-12-09T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02025f65-09bc-1386-0a91-005428324ec9",
+      "ArticleId": "024a8fcd-0f9b-0fdc-1995-003b782d9eb6",
+      "EntityId": "01f11175-0a55-1d44-1fb7-00616f8308ed",
+      "EntityName": "Corporate clients - Livingstone",
+      "AlertReason": "Adverse media on underwriting",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-01T17:30:30Z",
+      "TriggeredAt": "2025-11-17T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "027ffff3-1b99-0a36-23f4-00acc48c9422",
+      "ArticleId": "05301e1f-1f14-1ce5-1f4f-00a015cf2ffc",
+      "EntityId": "010fab59-0405-0de9-2593-00a1069eca74",
+      "EntityName": "Brokers - Kabwe",
+      "AlertReason": "Adverse media on risk assessment",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-29T17:30:30Z",
+      "TriggeredAt": "2025-12-28T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "01eeae4a-1868-2416-2179-00ab9fdfd45c",
+      "ArticleId": "04f783ea-228f-1630-1b13-00446e569ed1",
+      "EntityId": "03927f2d-11c9-0bb2-216e-00b455ab7c8e",
+      "EntityName": "Policyholders - Lusaka",
+      "AlertReason": "Adverse media on risk assessment",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-10-30T17:30:30Z",
+      "TriggeredAt": "2025-12-29T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "05ae021c-101f-0edc-092c-002659270b4c",
+      "ArticleId": "03cf3e3b-2068-0618-193a-00d22b904d2a",
+      "EntityId": "016fd171-1308-11e5-0d47-00a0b9b4ccd5",
+      "EntityName": "Policyholders - Lusaka",
+      "AlertReason": "Adverse media on risk assessment",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-05T17:30:30Z",
+      "TriggeredAt": "2026-01-17T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "025350c0-0a85-1678-1e25-006830a1ce09",
+      "ArticleId": "04e121de-1701-0f5a-0647-00e03a8b93df",
+      "EntityId": "017cfd62-0e25-0ee0-1d7b-00c1be022b72",
+      "EntityName": "Corporate clients - Livingstone",
+      "AlertReason": "Adverse media on risk assessment",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-10T17:30:30Z",
+      "TriggeredAt": "2025-12-13T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "040a8ea7-0709-06e0-0be0-00bb59666380",
+      "ArticleId": "03bb58d3-14e1-218c-2546-00cd37cfff3f",
+      "EntityId": "04b25ed5-2000-164d-1750-00e782a8f6c3",
+      "EntityName": "Corporate clients - Livingstone",
+      "AlertReason": "Adverse media on policy management",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-07T17:30:30Z",
+      "TriggeredAt": "2026-01-11T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "04c76efa-0488-0e2d-0da3-009b441fe4bc",
+      "ArticleId": "05571d70-07f6-1978-1dc5-00c7e8031239",
+      "EntityId": "03e91d57-1f14-0d9c-18c0-00270e65c2fa",
+      "EntityName": "Brokers - Kitwe",
+      "AlertReason": "Adverse media on insurance fraud",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-24T17:30:30Z",
+      "TriggeredAt": "2026-01-18T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02a3c5c0-13e9-10e9-13a3-008775990b8a",
+      "ArticleId": "04e02bdb-1057-2020-0cbe-00463af80fc4",
+      "EntityId": "012cac8f-050f-0ecd-1a79-00c6038f0f8f",
+      "EntityName": "Corporate clients - Kabwe",
+      "AlertReason": "Adverse media on underwriting",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-26T17:30:30Z",
+      "TriggeredAt": "2025-10-30T17:30:30Z",
+      "IsAcknowledged": true
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "0449e6b7-09a9-1d2f-17f7-00b352602c76",
+      "EntityName": "Insurance",
+      "Keywords": [
+        "underwriting",
+        "insurance fraud",
+        "policy management"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 23,
+    "HighRiskArticles": 14,
+    "ActiveAlerts": 13,
+    "MonitoredEntities": 9,
+    "ArticlesByCategory": {
+      "regulatory": 14,
+      "criminal": 14,
+      "financial": 11,
+      "political": 8
+    },
+    "ArticlesBySeverity": {
+      "high": 17,
+      "medium": 11,
+      "low": 19
+    }
+  }
+}

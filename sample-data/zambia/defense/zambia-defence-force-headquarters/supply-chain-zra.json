@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "0309945b-1dee-1b45-2357-009297e4dd45",
+      "Name": "Military units - Lusaka",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 78.5,
+      "IsCritical": false,
+      "Products": [
+        "logistics"
+      ],
+      "AnnualSpend": 5945373.54
+    },
+    {
+      "Id": "01243d2d-1770-1c28-1dad-00d01e92a782",
+      "Name": "Suppliers - Mumbwa",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 69.0,
+      "IsCritical": false,
+      "Products": [
+        "logistics"
+      ],
+      "AnnualSpend": 5285377.87
+    },
+    {
+      "Id": "048e55c1-1799-1ce9-1f8d-005bb229dffb",
+      "Name": "Military units - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 54.4,
+      "IsCritical": false,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 8867013.32
+    },
+    {
+      "Id": "053fd83b-0d37-1d2a-2362-00994c8f6e11",
+      "Name": "Suppliers - Mumbwa",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 53.2,
+      "IsCritical": false,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 4403812.52
+    },
+    {
+      "Id": "04fdbe30-0eab-1648-0d33-00baf5463c60",
+      "Name": "Suppliers - Ndola",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 44.8,
+      "IsCritical": false,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 9092025.97
+    },
+    {
+      "Id": "04fcfc47-2625-1c37-0e27-00c323f2343c",
+      "Name": "Military units - Mumbwa",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 89.3,
+      "IsCritical": true,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 5899320.41
+    },
+    {
+      "Id": "052611d9-224b-0660-2462-008bfc132cca",
+      "Name": "Defense contractors - Livingstone",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 50.3,
+      "IsCritical": true,
+      "Products": [
+        "logistics"
+      ],
+      "AnnualSpend": 4394392.52
+    },
+    {
+      "Id": "01508ec8-14ba-0ca7-0721-00e632154601",
+      "Name": "Military units - Ndola",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 70.3,
+      "IsCritical": true,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 6281656.44
+    },
+    {
+      "Id": "024b78c4-0b46-09e8-1c63-0046331b56e2",
+      "Name": "Security personnel - Lusaka",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 86.7,
+      "IsCritical": false,
+      "Products": [
+        "security operations"
+      ],
+      "AnnualSpend": 7444802.88
+    },
+    {
+      "Id": "00f7c76e-0a9d-1f56-1019-00ac4f3d0316",
+      "Name": "Suppliers - Ndola",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 81.1,
+      "IsCritical": true,
+      "Products": [
+        "military procurement"
+      ],
+      "AnnualSpend": 9511231.6
+    },
+    {
+      "Id": "02c0431d-055b-26d1-1ada-009f505305ce",
+      "Name": "Security personnel - Lusaka",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 47.3,
+      "IsCritical": true,
+      "Products": [
+        "equipment acquisition"
+      ],
+      "AnnualSpend": 9187440.25
+    },
+    {
+      "Id": "0135597d-0c8d-17f8-0c31-00e5f047444a",
+      "Name": "Suppliers - Mumbwa",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 72.2,
+      "IsCritical": true,
+      "Products": [
+        "security operations"
+      ],
+      "AnnualSpend": 7548633.33
+    },
+    {
+      "Id": "021c68a2-25f1-1117-04f6-009c00e2aa40",
+      "Name": "Security personnel - Kabwe",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 56.6,
+      "IsCritical": true,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 1704046.48
+    },
+    {
+      "Id": "05f44143-0ba8-0842-2148-0077182935e8",
+      "Name": "Military units - Livingstone",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 57.8,
+      "IsCritical": false,
+      "Products": [
+        "logistics"
+      ],
+      "AnnualSpend": 9285729.89
+    },
+    {
+      "Id": "0562aa38-0647-175d-1bed-00d75b2aef97",
+      "Name": "Military units - Mumbwa",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 87.7,
+      "IsCritical": false,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 9815898.0
+    },
+    {
+      "Id": "05c6152c-14e3-19f5-2627-00cbe5189e12",
+      "Name": "Suppliers - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 46.5,
+      "IsCritical": false,
+      "Products": [
+        "military procurement"
+      ],
+      "AnnualSpend": 9369153.16
+    },
+    {
+      "Id": "04c09327-23e3-0b29-1223-00e4af55abc2",
+      "Name": "Defense contractors - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 65.7,
+      "IsCritical": true,
+      "Products": [
+        "equipment acquisition"
+      ],
+      "AnnualSpend": 2494586.22
+    },
+    {
+      "Id": "01bb2c1c-0b62-26a0-2126-00557e54c0c3",
+      "Name": "Defense contractors - Kabwe",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 73.8,
+      "IsCritical": false,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 3556842.19
+    },
+    {
+      "Id": "01b628fd-1403-0b47-1a02-00c3ec0a3966",
+      "Name": "Defense contractors - Mumbwa",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 49.1,
+      "IsCritical": false,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 818856.11
+    },
+    {
+      "Id": "025782bc-1b8a-20b6-0dc5-00d6d9b361c0",
+      "Name": "Security personnel - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 49.4,
+      "IsCritical": false,
+      "Products": [
+        "logistics"
+      ],
+      "AnnualSpend": 6689868.13
+    },
+    {
+      "Id": "03d025e0-159a-1709-1fd3-00724cf3d5e4",
+      "Name": "Defense contractors - Mumbwa",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 40.6,
+      "IsCritical": false,
+      "Products": [
+        "military procurement"
+      ],
+      "AnnualSpend": 6061558.58
+    },
+    {
+      "Id": "025f8a14-0e1f-0e62-0c94-0078e9b0289b",
+      "Name": "Security personnel - Livingstone",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 40.6,
+      "IsCritical": false,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 1492170.72
+    },
+    {
+      "Id": "057c8375-0adc-115a-054d-0039811bab0f",
+      "Name": "Defense contractors - Mumbwa",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 66.2,
+      "IsCritical": true,
+      "Products": [
+        "security operations"
+      ],
+      "AnnualSpend": 9887654.96
+    },
+    {
+      "Id": "02bc0285-0d21-05cb-14f7-008feb39fbdb",
+      "Name": "Defense contractors - Mumbwa",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 86.3,
+      "IsCritical": true,
+      "Products": [
+        "military procurement"
+      ],
+      "AnnualSpend": 948073.7
+    },
+    {
+      "Id": "01617178-1bd0-2669-24cb-00897fa510c5",
+      "Name": "Defense contractors - Livingstone",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 62.5,
+      "IsCritical": false,
+      "Products": [
+        "security operations"
+      ],
+      "AnnualSpend": 6725708.89
+    },
+    {
+      "Id": "00f0baea-135d-2105-143e-007af5410cf5",
+      "Name": "Suppliers - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 80.5,
+      "IsCritical": true,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 8433525.78
+    },
+    {
+      "Id": "02d28310-1b66-05b9-0ca5-009fa47c1fd4",
+      "Name": "Suppliers - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 60.3,
+      "IsCritical": false,
+      "Products": [
+        "military procurement"
+      ],
+      "AnnualSpend": 4395912.36
+    },
+    {
+      "Id": "017cf0a8-1383-1ad8-2146-0079f42acd0f",
+      "Name": "Security personnel - Mumbwa",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 95.0,
+      "IsCritical": true,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 7829063.37
+    },
+    {
+      "Id": "02fc10e8-252e-11c5-1e55-00bae580bcfe",
+      "Name": "Defense contractors - Lusaka",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 48.4,
+      "IsCritical": true,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 2881698.3
+    },
+    {
+      "Id": "01928a60-0aef-1737-1804-002b5ad11aa8",
+      "Name": "Security personnel - Ndola",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 86.2,
+      "IsCritical": false,
+      "Products": [
+        "security operations"
+      ],
+      "AnnualSpend": 3645931.52
+    },
+    {
+      "Id": "05e18f65-12d9-11af-162d-00d3c3231456",
+      "Name": "Military units - Lusaka",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 73.3,
+      "IsCritical": false,
+      "Products": [
+        "security operations"
+      ],
+      "AnnualSpend": 9635826.74
+    },
+    {
+      "Id": "0251ab28-1743-040f-19a0-00278acc618b",
+      "Name": "Suppliers - Livingstone",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 57.4,
+      "IsCritical": true,
+      "Products": [
+        "military procurement"
+      ],
+      "AnnualSpend": 9614530.29
+    },
+    {
+      "Id": "033f79a1-1ecd-12a8-2022-00dd46c25947",
+      "Name": "Suppliers - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 53.1,
+      "IsCritical": false,
+      "Products": [
+        "security operations"
+      ],
+      "AnnualSpend": 3008989.97
+    },
+    {
+      "Id": "026e6d81-1281-2600-1b57-0090d002fe78",
+      "Name": "Defense contractors - Kabwe",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 93.4,
+      "IsCritical": true,
+      "Products": [
+        "military procurement"
+      ],
+      "AnnualSpend": 9115023.21
+    },
+    {
+      "Id": "02a43bab-26fc-1dbb-1b67-00591dfb35b8",
+      "Name": "Defense contractors - Livingstone",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 80.3,
+      "IsCritical": false,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 1075107.94
+    },
+    {
+      "Id": "02188cf4-0ee0-1b36-09c2-0081386aba9d",
+      "Name": "Security personnel - Kabwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 72.4,
+      "IsCritical": true,
+      "Products": [
+        "equipment acquisition"
+      ],
+      "AnnualSpend": 4261309.71
+    },
+    {
+      "Id": "03de9c01-1c6f-14dc-1a4b-0021e17a6285",
+      "Name": "Military units - Livingstone",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 90.3,
+      "IsCritical": false,
+      "Products": [
+        "equipment acquisition"
+      ],
+      "AnnualSpend": 1888663.27
+    },
+    {
+      "Id": "05a6f8bb-1c6c-0779-0c74-00826cb54006",
+      "Name": "Security personnel - Livingstone",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 61.3,
+      "IsCritical": false,
+      "Products": [
+        "military procurement"
+      ],
+      "AnnualSpend": 7458440.13
+    },
+    {
+      "Id": "047cd9a0-20de-0891-174b-00ce54509bda",
+      "Name": "Defense contractors - Livingstone",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 75.5,
+      "IsCritical": false,
+      "Products": [
+        "security operations"
+      ],
+      "AnnualSpend": 7164077.39
+    },
+    {
+      "Id": "03f21cb8-1053-20f1-092c-0078c436e0bb",
+      "Name": "Suppliers - Livingstone",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 87.2,
+      "IsCritical": false,
+      "Products": [
+        "military procurement"
+      ],
+      "AnnualSpend": 7931284.91
+    },
+    {
+      "Id": "030feffe-2690-26d8-217c-0087c1c1c4ae",
+      "Name": "Suppliers - Lusaka",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 42.8,
+      "IsCritical": true,
+      "Products": [
+        "security operations"
+      ],
+      "AnnualSpend": 7410170.92
+    },
+    {
+      "Id": "05395772-045a-10a8-03ff-0030a7771832",
+      "Name": "Suppliers - Mumbwa",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 56.3,
+      "IsCritical": true,
+      "Products": [
+        "logistics"
+      ],
+      "AnnualSpend": 8969363.85
+    },
+    {
+      "Id": "01834a8f-1329-0e68-26c3-004e2d0ef51e",
+      "Name": "Security personnel - Kabwe",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 40.6,
+      "IsCritical": true,
+      "Products": [
+        "logistics"
+      ],
+      "AnnualSpend": 5959072.5
+    },
+    {
+      "Id": "02044ea0-105a-0b2c-0d45-006157e0e1b1",
+      "Name": "Military units - Ndola",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 93.1,
+      "IsCritical": true,
+      "Products": [
+        "military procurement"
+      ],
+      "AnnualSpend": 539422.43
+    },
+    {
+      "Id": "0549cda4-0557-1cc8-20e5-005d59dc6a9f",
+      "Name": "Suppliers - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 86.2,
+      "IsCritical": false,
+      "Products": [
+        "logistics"
+      ],
+      "AnnualSpend": 2974511.0
+    },
+    {
+      "Id": "01022350-1f30-09b1-0e23-0021fea8d55d",
+      "Name": "Security personnel - Ndola",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 85.7,
+      "IsCritical": false,
+      "Products": [
+        "logistics"
+      ],
+      "AnnualSpend": 1932072.56
+    },
+    {
+      "Id": "02a7929a-147c-1419-129a-0055af4cd019",
+      "Name": "Military units - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 41.2,
+      "IsCritical": false,
+      "Products": [
+        "military procurement"
+      ],
+      "AnnualSpend": 6499615.13
+    },
+    {
+      "Id": "00b28881-247a-130c-1454-00c1b3e51613",
+      "Name": "Defense contractors - Lusaka",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 75.5,
+      "IsCritical": false,
+      "Products": [
+        "equipment acquisition"
+      ],
+      "AnnualSpend": 5661523.07
+    },
+    {
+      "Id": "011bf729-1b17-22d8-2653-00c178171665",
+      "Name": "Suppliers - Kabwe",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 56.1,
+      "IsCritical": false,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 1914365.88
+    },
+    {
+      "Id": "05d17bba-1dbb-1254-2335-0038b90b859b",
+      "Name": "Military units - Ndola",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 59.0,
+      "IsCritical": false,
+      "Products": [
+        "defense contracts"
+      ],
+      "AnnualSpend": 5049036.67
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "0511eb8b-197e-1c41-0453-006d31f19aff",
+      "FromSupplierId": "053fd83b-0d37-1d2a-2362-00994c8f6e11",
+      "ToSupplierId": "033f79a1-1ecd-12a8-2022-00dd46c25947",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.58,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0533635f-10b9-0e18-1432-00304069d360",
+      "FromSupplierId": "01508ec8-14ba-0ca7-0721-00e632154601",
+      "ToSupplierId": "0251ab28-1743-040f-19a0-00278acc618b",
+      "Type": "supplies",
+      "DependencyLevel": 0.75,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0235fec1-21a0-23e9-245a-00d36bc903e9",
+      "FromSupplierId": "021c68a2-25f1-1117-04f6-009c00e2aa40",
+      "ToSupplierId": "026e6d81-1281-2600-1b57-0090d002fe78",
+      "Type": "partnership",
+      "DependencyLevel": 0.59,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0207d44c-1f05-2462-0564-00d75f240e65",
+      "FromSupplierId": "03f21cb8-1053-20f1-092c-0078c436e0bb",
+      "ToSupplierId": "04fdbe30-0eab-1648-0d33-00baf5463c60",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.69,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02ab6979-0f31-1658-2212-00b9d88e359e",
+      "FromSupplierId": "02d28310-1b66-05b9-0ca5-009fa47c1fd4",
+      "ToSupplierId": "03d025e0-159a-1709-1fd3-00724cf3d5e4",
+      "Type": "supplies",
+      "DependencyLevel": 0.49,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "05431e19-12f7-0f3e-1c1d-001b68355008",
+      "FromSupplierId": "02a7929a-147c-1419-129a-0055af4cd019",
+      "ToSupplierId": "05e18f65-12d9-11af-162d-00d3c3231456",
+      "Type": "supplies",
+      "DependencyLevel": 0.88,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0496c668-1cbc-270e-0a56-00db4ff7ff0b",
+      "FromSupplierId": "01bb2c1c-0b62-26a0-2126-00557e54c0c3",
+      "ToSupplierId": "05f44143-0ba8-0842-2148-0077182935e8",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.66,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04fbd1b2-2608-2606-0a3b-00607a727900",
+      "FromSupplierId": "047cd9a0-20de-0891-174b-00ce54509bda",
+      "ToSupplierId": "01b628fd-1403-0b47-1a02-00c3ec0a3966",
+      "Type": "supplies",
+      "DependencyLevel": 0.52,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00b714ee-0a7e-1008-209b-003852f860ed",
+      "FromSupplierId": "05395772-045a-10a8-03ff-0030a7771832",
+      "ToSupplierId": "02044ea0-105a-0b2c-0d45-006157e0e1b1",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.59,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01f64cf7-1758-0b42-20a5-009e2263c648",
+      "FromSupplierId": "033f79a1-1ecd-12a8-2022-00dd46c25947",
+      "ToSupplierId": "04c09327-23e3-0b29-1223-00e4af55abc2",
+      "Type": "partnership",
+      "DependencyLevel": 0.8,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00ece4a0-144c-16c2-0b47-007b6f250a7b",
+      "FromSupplierId": "02fc10e8-252e-11c5-1e55-00bae580bcfe",
+      "ToSupplierId": "05a6f8bb-1c6c-0779-0c74-00826cb54006",
+      "Type": "supplies",
+      "DependencyLevel": 0.54,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04015167-178b-0648-1e5f-0050a1fd2823",
+      "FromSupplierId": "026e6d81-1281-2600-1b57-0090d002fe78",
+      "ToSupplierId": "05d17bba-1dbb-1254-2335-0038b90b859b",
+      "Type": "partnership",
+      "DependencyLevel": 0.73,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03bd9db3-0ea3-14d4-130d-003953213327",
+      "FromSupplierId": "017cf0a8-1383-1ad8-2146-0079f42acd0f",
+      "ToSupplierId": "00b28881-247a-130c-1454-00c1b3e51613",
+      "Type": "supplies",
+      "DependencyLevel": 0.48,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "012dbd97-102d-17c5-186e-00a39f96aa6f",
+      "FromSupplierId": "01bb2c1c-0b62-26a0-2126-00557e54c0c3",
+      "ToSupplierId": "00f0baea-135d-2105-143e-007af5410cf5",
+      "Type": "supplies",
+      "DependencyLevel": 0.7,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "00cad583-1687-149d-0c8e-00a4691e75ee",
+      "FromSupplierId": "017cf0a8-1383-1ad8-2146-0079f42acd0f",
+      "ToSupplierId": "02bc0285-0d21-05cb-14f7-008feb39fbdb",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.73,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "048ee176-13b8-14cf-153a-005916bcd4e4",
+      "FromSupplierId": "02fc10e8-252e-11c5-1e55-00bae580bcfe",
+      "ToSupplierId": "026e6d81-1281-2600-1b57-0090d002fe78",
+      "Type": "supplies",
+      "DependencyLevel": 0.43,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04a1ba19-1b63-1cea-114f-0044d48cfa00",
+      "FromSupplierId": "03de9c01-1c6f-14dc-1a4b-0021e17a6285",
+      "ToSupplierId": "01022350-1f30-09b1-0e23-0021fea8d55d",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.72,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0320cc4f-1eed-23e6-0cf6-0050294002d3",
+      "FromSupplierId": "048e55c1-1799-1ce9-1f8d-005bb229dffb",
+      "ToSupplierId": "04fdbe30-0eab-1648-0d33-00baf5463c60",
+      "Type": "partnership",
+      "DependencyLevel": 0.5,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "013564fa-18c8-0808-18c7-004e83c9f552",
+      "FromSupplierId": "053fd83b-0d37-1d2a-2362-00994c8f6e11",
+      "ToSupplierId": "0135597d-0c8d-17f8-0c31-00e5f047444a",
+      "Type": "supplies",
+      "DependencyLevel": 0.49,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03199f02-11f8-1e81-20e7-004464b0761c",
+      "FromSupplierId": "0309945b-1dee-1b45-2357-009297e4dd45",
+      "ToSupplierId": "04c09327-23e3-0b29-1223-00e4af55abc2",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.82,
+      "IsCriticalPath": false
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "geographic",
+      "Description": "Concentration of military procurement in Livingstone",
+      "ConcentrationLevel": 63.2,
+      "AffectedSuppliers": [
+        "Suppliers - Lusaka",
+        "Security personnel - Kabwe",
+        "Military units - Ndola"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "00af0e88-07c3-11c4-0b9d-003094a001b5",
+      "SupplierId": "0309945b-1dee-1b45-2357-009297e4dd45",
+      "SupplierName": "Military units - Lusaka",
+      "RiskType": "financial",
+      "Severity": "low",
+      "Description": "Risk detected in military procurement operations",
+      "DetectedAt": "2026-01-02T17:30:30Z",
+      "IsAcknowledged": true,
+      "AffectedDownstreamSuppliers": [
+        "05f44143-0ba8-0842-2148-0077182935e8",
+        "0135597d-0c8d-17f8-0c31-00e5f047444a"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 20,
+    "HighRiskSuppliers": 15,
+    "AverageRiskScore": 66.6,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

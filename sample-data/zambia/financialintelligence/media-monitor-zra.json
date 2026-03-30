@@ -1,0 +1,1517 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "029819a9-21ea-19f7-04d0-0039ba119813",
+      "Title": "Financial Intelligence Centre investigation terrorism financing",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/1765",
+      "PublishedDate": "2025-12-04T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Str analysis reveals suspicious transactions in Lusaka",
+      "RelatedEntities": [
+        "Shell companies - Lusaka"
+      ],
+      "Entities": [
+        "Shell companies - Lusaka"
+      ],
+      "Keywords": [
+        "money laundering",
+        "suspicious transactions",
+        "STR analysis"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0099fd40-09ae-11ac-24c7-00535f411b99",
+      "Title": "Financial Intelligence Centre intelligence sharing money laundering",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/8733",
+      "PublishedDate": "2025-11-07T17:30:30Z",
+      "PublishedAt": "2025-12-11T17:30:30Z",
+      "DiscoveredAt": "2025-11-14T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Enforcement reveals financial crime in Lusaka",
+      "RelatedEntities": [
+        "Reporting entities - Kitwe"
+      ],
+      "Entities": [
+        "Reporting entities - Kitwe"
+      ],
+      "Keywords": [
+        "STR analysis",
+        "suspicious transactions",
+        "terrorism financing"
+      ],
+      "RelevanceScore": 73.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01c1b693-1142-09e8-1318-0042130f08bb",
+      "Title": "Financial Intelligence Centre compliance monitoring suspicious transactions",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/9813",
+      "PublishedDate": "2025-12-20T17:30:30Z",
+      "PublishedAt": "2025-12-30T17:30:30Z",
+      "DiscoveredAt": "2025-10-26T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Investigation reveals money laundering in Lusaka",
+      "RelatedEntities": [
+        "Shell companies - Lusaka"
+      ],
+      "Entities": [
+        "Shell companies - Lusaka"
+      ],
+      "Keywords": [
+        "terrorism financing",
+        "suspicious transactions",
+        "money laundering"
+      ],
+      "RelevanceScore": 77.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02591943-085f-112f-14e0-002fbb94d31c",
+      "Title": "Financial Intelligence Centre STR analysis terrorism financing",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/9364",
+      "PublishedDate": "2025-11-02T17:30:30Z",
+      "PublishedAt": "2025-10-30T17:30:30Z",
+      "DiscoveredAt": "2025-11-10T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Investigation reveals money laundering in Chirundu",
+      "RelatedEntities": [
+        "Reporting entities - Lusaka"
+      ],
+      "Entities": [
+        "Reporting entities - Lusaka"
+      ],
+      "Keywords": [
+        "STR analysis",
+        "financial crime",
+        "terrorism financing"
+      ],
+      "RelevanceScore": 72.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0178a572-09ed-1356-087d-008b52726be8",
+      "Title": "Financial Intelligence Centre investigation financial crime",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/2401",
+      "PublishedDate": "2025-11-24T17:30:30Z",
+      "PublishedAt": "2026-01-07T17:30:30Z",
+      "DiscoveredAt": "2026-01-03T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Compliance monitoring reveals STR analysis in Chirundu",
+      "RelatedEntities": [
+        "Shell companies - Kitwe"
+      ],
+      "Entities": [
+        "Shell companies - Kitwe"
+      ],
+      "Keywords": [
+        "financial crime",
+        "suspicious transactions",
+        "STR analysis"
+      ],
+      "RelevanceScore": 78.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02528ce2-05a2-04ae-172e-0060df029d48",
+      "Title": "Financial Intelligence Centre compliance monitoring STR analysis",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/4404",
+      "PublishedDate": "2025-11-17T17:30:30Z",
+      "PublishedAt": "2026-01-10T17:30:30Z",
+      "DiscoveredAt": "2025-11-23T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Str analysis reveals STR analysis in Lusaka",
+      "RelatedEntities": [
+        "Reporting entities - Livingstone"
+      ],
+      "Entities": [
+        "Reporting entities - Livingstone"
+      ],
+      "Keywords": [
+        "money laundering",
+        "STR analysis",
+        "financial crime"
+      ],
+      "RelevanceScore": 65.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "022ff6af-0b3e-0f00-18c2-00c876dd0fd4",
+      "Title": "Financial Intelligence Centre enforcement STR analysis",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/8957",
+      "PublishedDate": "2025-12-20T17:30:30Z",
+      "PublishedAt": "2025-12-21T17:30:30Z",
+      "DiscoveredAt": "2026-01-17T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Compliance monitoring reveals suspicious transactions in Kitwe",
+      "RelatedEntities": [
+        "Suspicious persons - Chirundu"
+      ],
+      "Entities": [
+        "Suspicious persons - Chirundu"
+      ],
+      "Keywords": [
+        "suspicious transactions",
+        "STR analysis",
+        "money laundering"
+      ],
+      "RelevanceScore": 70.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05283be4-0b18-096d-056e-004ce177525f",
+      "Title": "Financial Intelligence Centre enforcement STR analysis",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/2376",
+      "PublishedDate": "2026-01-09T17:30:30Z",
+      "PublishedAt": "2025-12-10T17:30:30Z",
+      "DiscoveredAt": "2026-01-11T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Compliance monitoring reveals terrorism financing in Lusaka",
+      "RelatedEntities": [
+        "Reporting entities - Chirundu"
+      ],
+      "Entities": [
+        "Reporting entities - Chirundu"
+      ],
+      "Keywords": [
+        "STR analysis",
+        "money laundering",
+        "financial crime"
+      ],
+      "RelevanceScore": 83.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05727aed-101b-064c-2028-008f38f578fd",
+      "Title": "Financial Intelligence Centre enforcement money laundering",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/1282",
+      "PublishedDate": "2026-01-10T17:30:30Z",
+      "PublishedAt": "2025-11-30T17:30:30Z",
+      "DiscoveredAt": "2025-12-28T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Enforcement reveals financial crime in Kitwe",
+      "RelatedEntities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Entities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Keywords": [
+        "STR analysis",
+        "suspicious transactions",
+        "money laundering"
+      ],
+      "RelevanceScore": 94.6,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0125ba06-0e68-1234-110d-00cae690aa47",
+      "Title": "Financial Intelligence Centre enforcement terrorism financing",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/8564",
+      "PublishedDate": "2025-11-18T17:30:30Z",
+      "PublishedAt": "2025-12-06T17:30:30Z",
+      "DiscoveredAt": "2026-01-11T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Intelligence sharing reveals financial crime in Kitwe",
+      "RelatedEntities": [
+        "Shell companies - Kitwe"
+      ],
+      "Entities": [
+        "Shell companies - Kitwe"
+      ],
+      "Keywords": [
+        "terrorism financing",
+        "STR analysis",
+        "suspicious transactions"
+      ],
+      "RelevanceScore": 62.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05209530-0891-0434-1ae9-008c994747cb",
+      "Title": "Financial Intelligence Centre intelligence sharing STR analysis",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/7136",
+      "PublishedDate": "2025-11-26T17:30:30Z",
+      "PublishedAt": "2025-12-27T17:30:30Z",
+      "DiscoveredAt": "2025-12-07T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Enforcement reveals money laundering in Chirundu",
+      "RelatedEntities": [
+        "Shell companies - Livingstone"
+      ],
+      "Entities": [
+        "Shell companies - Livingstone"
+      ],
+      "Keywords": [
+        "terrorism financing",
+        "STR analysis",
+        "financial crime"
+      ],
+      "RelevanceScore": 60.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01a620eb-14d7-0664-0dbb-00b7bcad71c6",
+      "Title": "Financial Intelligence Centre investigation STR analysis",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/6735",
+      "PublishedDate": "2025-12-21T17:30:30Z",
+      "PublishedAt": "2026-01-09T17:30:30Z",
+      "DiscoveredAt": "2025-12-11T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Enforcement reveals STR analysis in Ndola",
+      "RelatedEntities": [
+        "Reporting entities - Ndola"
+      ],
+      "Entities": [
+        "Reporting entities - Ndola"
+      ],
+      "Keywords": [
+        "financial crime",
+        "money laundering",
+        "STR analysis"
+      ],
+      "RelevanceScore": 78.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0109039d-0e2a-2619-23bd-00d875ff60d1",
+      "Title": "Financial Intelligence Centre STR analysis terrorism financing",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/4467",
+      "PublishedDate": "2026-01-16T17:30:30Z",
+      "PublishedAt": "2026-01-17T17:30:30Z",
+      "DiscoveredAt": "2025-12-15T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Enforcement reveals STR analysis in Ndola",
+      "RelatedEntities": [
+        "Reporting entities - Lusaka"
+      ],
+      "Entities": [
+        "Reporting entities - Lusaka"
+      ],
+      "Keywords": [
+        "money laundering",
+        "suspicious transactions",
+        "financial crime"
+      ],
+      "RelevanceScore": 80.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "036f391e-2252-0a1a-0977-00cb4b276851",
+      "Title": "Financial Intelligence Centre enforcement terrorism financing",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/4073",
+      "PublishedDate": "2025-11-19T17:30:30Z",
+      "PublishedAt": "2025-12-31T17:30:30Z",
+      "DiscoveredAt": "2025-11-13T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Compliance monitoring reveals terrorism financing in Kitwe",
+      "RelatedEntities": [
+        "Suspicious persons - Chirundu"
+      ],
+      "Entities": [
+        "Suspicious persons - Chirundu"
+      ],
+      "Keywords": [
+        "STR analysis",
+        "terrorism financing",
+        "suspicious transactions"
+      ],
+      "RelevanceScore": 80.7,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "023cc254-0fe1-18b2-105c-009e09fe57a7",
+      "Title": "Financial Intelligence Centre STR analysis terrorism financing",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/4064",
+      "PublishedDate": "2025-11-25T17:30:30Z",
+      "PublishedAt": "2025-11-23T17:30:30Z",
+      "DiscoveredAt": "2025-12-14T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Compliance monitoring reveals terrorism financing in Chirundu",
+      "RelatedEntities": [
+        "Suspicious persons - Livingstone"
+      ],
+      "Entities": [
+        "Suspicious persons - Livingstone"
+      ],
+      "Keywords": [
+        "STR analysis",
+        "suspicious transactions",
+        "financial crime"
+      ],
+      "RelevanceScore": 83.8,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04a27c38-2255-18af-162c-00637f0b5d9e",
+      "Title": "Financial Intelligence Centre STR analysis financial crime",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/1466",
+      "PublishedDate": "2025-11-29T17:30:30Z",
+      "PublishedAt": "2026-01-04T17:30:30Z",
+      "DiscoveredAt": "2026-01-17T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Intelligence sharing reveals STR analysis in Chirundu",
+      "RelatedEntities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Entities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Keywords": [
+        "terrorism financing",
+        "money laundering",
+        "financial crime"
+      ],
+      "RelevanceScore": 92.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0426bcf5-06ee-1011-06bc-007776a0c9fc",
+      "Title": "Financial Intelligence Centre intelligence sharing money laundering",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/9951",
+      "PublishedDate": "2025-10-27T17:30:30Z",
+      "PublishedAt": "2025-10-30T17:30:30Z",
+      "DiscoveredAt": "2025-11-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Enforcement reveals terrorism financing in Lusaka",
+      "RelatedEntities": [
+        "Financial institutions - Chirundu"
+      ],
+      "Entities": [
+        "Financial institutions - Chirundu"
+      ],
+      "Keywords": [
+        "suspicious transactions",
+        "STR analysis",
+        "terrorism financing"
+      ],
+      "RelevanceScore": 91.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03d5482c-171d-1604-1770-002d59415e25",
+      "Title": "Financial Intelligence Centre investigation terrorism financing",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/1723",
+      "PublishedDate": "2025-12-02T17:30:30Z",
+      "PublishedAt": "2025-12-03T17:30:30Z",
+      "DiscoveredAt": "2026-01-19T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Investigation reveals financial crime in Ndola",
+      "RelatedEntities": [
+        "Shell companies - Lusaka"
+      ],
+      "Entities": [
+        "Shell companies - Lusaka"
+      ],
+      "Keywords": [
+        "financial crime",
+        "terrorism financing",
+        "suspicious transactions"
+      ],
+      "RelevanceScore": 77.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01e7b287-0a2d-10ac-1306-00bca36cd63a",
+      "Title": "Financial Intelligence Centre investigation STR analysis",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/9643",
+      "PublishedDate": "2026-01-08T17:30:30Z",
+      "PublishedAt": "2025-12-04T17:30:30Z",
+      "DiscoveredAt": "2025-12-02T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Investigation reveals terrorism financing in Kitwe",
+      "RelatedEntities": [
+        "Reporting entities - Chirundu"
+      ],
+      "Entities": [
+        "Reporting entities - Chirundu"
+      ],
+      "Keywords": [
+        "STR analysis",
+        "financial crime",
+        "terrorism financing"
+      ],
+      "RelevanceScore": 89.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05dcad7f-0619-16ee-0b5e-001babe6b64a",
+      "Title": "Financial Intelligence Centre compliance monitoring suspicious transactions",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/7304",
+      "PublishedDate": "2025-12-24T17:30:30Z",
+      "PublishedAt": "2025-11-13T17:30:30Z",
+      "DiscoveredAt": "2025-12-18T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Investigation reveals financial crime in Kitwe",
+      "RelatedEntities": [
+        "Suspicious persons - Livingstone"
+      ],
+      "Entities": [
+        "Suspicious persons - Livingstone"
+      ],
+      "Keywords": [
+        "terrorism financing",
+        "suspicious transactions",
+        "STR analysis"
+      ],
+      "RelevanceScore": 86.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0551d32a-1487-1001-05d1-004d0cd1381e",
+      "Title": "Financial Intelligence Centre compliance monitoring suspicious transactions",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/3956",
+      "PublishedDate": "2025-10-22T17:30:30Z",
+      "PublishedAt": "2025-11-21T17:30:30Z",
+      "DiscoveredAt": "2026-01-06T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Intelligence sharing reveals STR analysis in Livingstone",
+      "RelatedEntities": [
+        "Reporting entities - Livingstone"
+      ],
+      "Entities": [
+        "Reporting entities - Livingstone"
+      ],
+      "Keywords": [
+        "STR analysis",
+        "terrorism financing",
+        "money laundering"
+      ],
+      "RelevanceScore": 66.7,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02bf61f4-0555-0758-0848-006c7648bc9e",
+      "Title": "Financial Intelligence Centre investigation STR analysis",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/7498",
+      "PublishedDate": "2026-01-14T17:30:30Z",
+      "PublishedAt": "2025-12-28T17:30:30Z",
+      "DiscoveredAt": "2025-11-19T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Str analysis reveals suspicious transactions in Lusaka",
+      "RelatedEntities": [
+        "Suspicious persons - Lusaka"
+      ],
+      "Entities": [
+        "Suspicious persons - Lusaka"
+      ],
+      "Keywords": [
+        "terrorism financing",
+        "STR analysis",
+        "financial crime"
+      ],
+      "RelevanceScore": 91.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05348c6d-1a4a-201c-0642-0019a5c80719",
+      "Title": "Financial Intelligence Centre investigation suspicious transactions",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/9220",
+      "PublishedDate": "2025-12-20T17:30:30Z",
+      "PublishedAt": "2025-10-27T17:30:30Z",
+      "DiscoveredAt": "2026-01-10T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Enforcement reveals money laundering in Kitwe",
+      "RelatedEntities": [
+        "Shell companies - Livingstone"
+      ],
+      "Entities": [
+        "Shell companies - Livingstone"
+      ],
+      "Keywords": [
+        "financial crime",
+        "terrorism financing",
+        "money laundering"
+      ],
+      "RelevanceScore": 90.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02cd6a01-0fda-04a0-043e-00dd9b642cef",
+      "Title": "Financial Intelligence Centre compliance monitoring financial crime",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/4776",
+      "PublishedDate": "2025-11-15T17:30:30Z",
+      "PublishedAt": "2025-11-13T17:30:30Z",
+      "DiscoveredAt": "2025-12-25T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Compliance monitoring reveals STR analysis in Livingstone",
+      "RelatedEntities": [
+        "Shell companies - Kitwe"
+      ],
+      "Entities": [
+        "Shell companies - Kitwe"
+      ],
+      "Keywords": [
+        "suspicious transactions",
+        "terrorism financing",
+        "money laundering"
+      ],
+      "RelevanceScore": 60.7,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01c9ec0a-0d8e-1b6d-09a2-0062b3447df7",
+      "Title": "Financial Intelligence Centre intelligence sharing suspicious transactions",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/9906",
+      "PublishedDate": "2025-12-10T17:30:30Z",
+      "PublishedAt": "2025-11-20T17:30:30Z",
+      "DiscoveredAt": "2025-11-05T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Investigation reveals suspicious transactions in Livingstone",
+      "RelatedEntities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Entities": [
+        "Financial institutions - Kitwe"
+      ],
+      "Keywords": [
+        "STR analysis",
+        "suspicious transactions",
+        "money laundering"
+      ],
+      "RelevanceScore": 74.9,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "048e7228-07d8-24d7-2169-008078c1eed6",
+      "Title": "Financial Intelligence Centre enforcement terrorism financing",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/8387",
+      "PublishedDate": "2025-12-27T17:30:30Z",
+      "PublishedAt": "2025-11-02T17:30:30Z",
+      "DiscoveredAt": "2025-12-19T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Investigation reveals suspicious transactions in Chirundu",
+      "RelatedEntities": [
+        "Suspicious persons - Kitwe"
+      ],
+      "Entities": [
+        "Suspicious persons - Kitwe"
+      ],
+      "Keywords": [
+        "terrorism financing",
+        "money laundering",
+        "STR analysis"
+      ],
+      "RelevanceScore": 92.8,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "053fa735-16d1-15e4-221b-007c3b718ab5",
+      "Title": "Financial Intelligence Centre STR analysis money laundering",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/3775",
+      "PublishedDate": "2026-01-03T17:30:30Z",
+      "PublishedAt": "2026-01-08T17:30:30Z",
+      "DiscoveredAt": "2025-11-21T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Compliance monitoring reveals money laundering in Chirundu",
+      "RelatedEntities": [
+        "Suspicious persons - Ndola"
+      ],
+      "Entities": [
+        "Suspicious persons - Ndola"
+      ],
+      "Keywords": [
+        "suspicious transactions",
+        "money laundering",
+        "STR analysis"
+      ],
+      "RelevanceScore": 88.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "041bdfad-0ab7-2346-0b8f-00c4b61375fd",
+      "Title": "Financial Intelligence Centre STR analysis terrorism financing",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/6041",
+      "PublishedDate": "2026-01-14T17:30:30Z",
+      "PublishedAt": "2026-01-18T17:30:30Z",
+      "DiscoveredAt": "2025-11-03T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Investigation reveals financial crime in Lusaka",
+      "RelatedEntities": [
+        "Suspicious persons - Ndola"
+      ],
+      "Entities": [
+        "Suspicious persons - Ndola"
+      ],
+      "Keywords": [
+        "financial crime",
+        "money laundering",
+        "STR analysis"
+      ],
+      "RelevanceScore": 90.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00be66bf-228e-205d-10cd-00aac2786a88",
+      "Title": "Financial Intelligence Centre intelligence sharing terrorism financing",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/2649",
+      "PublishedDate": "2025-11-18T17:30:30Z",
+      "PublishedAt": "2026-01-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Intelligence sharing reveals money laundering in Lusaka",
+      "RelatedEntities": [
+        "Suspicious persons - Chirundu"
+      ],
+      "Entities": [
+        "Suspicious persons - Chirundu"
+      ],
+      "Keywords": [
+        "financial crime",
+        "STR analysis",
+        "money laundering"
+      ],
+      "RelevanceScore": 61.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05e617e8-156b-1e0d-13b4-009a61b8e8b9",
+      "Title": "Financial Intelligence Centre STR analysis STR analysis",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/5056",
+      "PublishedDate": "2025-12-29T17:30:30Z",
+      "PublishedAt": "2026-01-01T17:30:30Z",
+      "DiscoveredAt": "2025-11-17T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Str analysis reveals financial crime in Lusaka",
+      "RelatedEntities": [
+        "Reporting entities - Kitwe"
+      ],
+      "Entities": [
+        "Reporting entities - Kitwe"
+      ],
+      "Keywords": [
+        "suspicious transactions",
+        "terrorism financing",
+        "financial crime"
+      ],
+      "RelevanceScore": 71.0,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0224e9c6-15c5-098d-15f9-0052b781f961",
+      "Title": "Financial Intelligence Centre intelligence sharing suspicious transactions",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/3690",
+      "PublishedDate": "2025-12-09T17:30:30Z",
+      "PublishedAt": "2025-11-29T17:30:30Z",
+      "DiscoveredAt": "2026-01-10T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Compliance monitoring reveals financial crime in Lusaka",
+      "RelatedEntities": [
+        "Shell companies - Kitwe"
+      ],
+      "Entities": [
+        "Shell companies - Kitwe"
+      ],
+      "Keywords": [
+        "money laundering",
+        "STR analysis",
+        "financial crime"
+      ],
+      "RelevanceScore": 89.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0420a14b-06bc-145c-1aef-0047a86f42aa",
+      "Title": "Financial Intelligence Centre enforcement money laundering",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/7074",
+      "PublishedDate": "2026-01-18T17:30:30Z",
+      "PublishedAt": "2025-11-12T17:30:30Z",
+      "DiscoveredAt": "2025-11-30T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Str analysis reveals suspicious transactions in Ndola",
+      "RelatedEntities": [
+        "Financial institutions - Livingstone"
+      ],
+      "Entities": [
+        "Financial institutions - Livingstone"
+      ],
+      "Keywords": [
+        "suspicious transactions",
+        "money laundering",
+        "terrorism financing"
+      ],
+      "RelevanceScore": 77.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "016e45ad-1047-0c8d-15da-0089507b806a",
+      "Title": "Financial Intelligence Centre intelligence sharing financial crime",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/8437",
+      "PublishedDate": "2025-11-20T17:30:30Z",
+      "PublishedAt": "2025-12-12T17:30:30Z",
+      "DiscoveredAt": "2025-12-26T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Str analysis reveals financial crime in Ndola",
+      "RelatedEntities": [
+        "Suspicious persons - Livingstone"
+      ],
+      "Entities": [
+        "Suspicious persons - Livingstone"
+      ],
+      "Keywords": [
+        "money laundering",
+        "STR analysis",
+        "financial crime"
+      ],
+      "RelevanceScore": 66.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "009906cd-0fa1-22f1-21dc-00c5a451172c",
+      "Title": "Financial Intelligence Centre compliance monitoring suspicious transactions",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/8420",
+      "PublishedDate": "2025-12-26T17:30:30Z",
+      "PublishedAt": "2025-10-24T17:30:30Z",
+      "DiscoveredAt": "2025-11-06T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Intelligence sharing reveals STR analysis in Chirundu",
+      "RelatedEntities": [
+        "Suspicious persons - Ndola"
+      ],
+      "Entities": [
+        "Suspicious persons - Ndola"
+      ],
+      "Keywords": [
+        "terrorism financing",
+        "suspicious transactions",
+        "money laundering"
+      ],
+      "RelevanceScore": 67.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0454bab1-14f0-1857-0c58-009548d23996",
+      "Title": "Financial Intelligence Centre compliance monitoring STR analysis",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/1594",
+      "PublishedDate": "2025-11-04T17:30:30Z",
+      "PublishedAt": "2026-01-09T17:30:30Z",
+      "DiscoveredAt": "2025-11-26T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Compliance monitoring reveals terrorism financing in Lusaka",
+      "RelatedEntities": [
+        "Suspicious persons - Livingstone"
+      ],
+      "Entities": [
+        "Suspicious persons - Livingstone"
+      ],
+      "Keywords": [
+        "financial crime",
+        "terrorism financing",
+        "suspicious transactions"
+      ],
+      "RelevanceScore": 75.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01d6b6db-1808-1cb5-0608-004aff112c28",
+      "Title": "Financial Intelligence Centre enforcement terrorism financing",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/3215",
+      "PublishedDate": "2026-01-16T17:30:30Z",
+      "PublishedAt": "2025-11-13T17:30:30Z",
+      "DiscoveredAt": "2026-01-10T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Investigation reveals money laundering in Lusaka",
+      "RelatedEntities": [
+        "Suspicious persons - Ndola"
+      ],
+      "Entities": [
+        "Suspicious persons - Ndola"
+      ],
+      "Keywords": [
+        "terrorism financing",
+        "money laundering",
+        "STR analysis"
+      ],
+      "RelevanceScore": 79.2,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03c8434b-041e-07b2-11d4-0092d8ede8cb",
+      "Title": "Financial Intelligence Centre STR analysis money laundering",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/8337",
+      "PublishedDate": "2025-11-02T17:30:30Z",
+      "PublishedAt": "2026-01-07T17:30:30Z",
+      "DiscoveredAt": "2025-12-22T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Investigation reveals money laundering in Lusaka",
+      "RelatedEntities": [
+        "Suspicious persons - Ndola"
+      ],
+      "Entities": [
+        "Suspicious persons - Ndola"
+      ],
+      "Keywords": [
+        "STR analysis",
+        "money laundering",
+        "suspicious transactions"
+      ],
+      "RelevanceScore": 65.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0263282a-10f0-11c6-2337-00a82b4e1f73",
+      "Title": "Financial Intelligence Centre compliance monitoring STR analysis",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/7165",
+      "PublishedDate": "2026-01-06T17:30:30Z",
+      "PublishedAt": "2025-11-12T17:30:30Z",
+      "DiscoveredAt": "2025-12-16T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Compliance monitoring reveals money laundering in Chirundu",
+      "RelatedEntities": [
+        "Reporting entities - Lusaka"
+      ],
+      "Entities": [
+        "Reporting entities - Lusaka"
+      ],
+      "Keywords": [
+        "suspicious transactions",
+        "terrorism financing",
+        "money laundering"
+      ],
+      "RelevanceScore": 63.2,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05b85419-0597-1031-1f2b-00ac05e5dc43",
+      "Title": "Financial Intelligence Centre STR analysis financial crime",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/2527",
+      "PublishedDate": "2025-11-16T17:30:30Z",
+      "PublishedAt": "2025-11-24T17:30:30Z",
+      "DiscoveredAt": "2026-01-17T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Investigation reveals suspicious transactions in Lusaka",
+      "RelatedEntities": [
+        "Reporting entities - Chirundu"
+      ],
+      "Entities": [
+        "Reporting entities - Chirundu"
+      ],
+      "Keywords": [
+        "suspicious transactions",
+        "financial crime",
+        "terrorism financing"
+      ],
+      "RelevanceScore": 74.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "036f2cbe-22f7-24f6-1c96-00b9f2823f4b",
+      "Title": "Financial Intelligence Centre investigation terrorism financing",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/2531",
+      "PublishedDate": "2025-10-25T17:30:30Z",
+      "PublishedAt": "2025-10-31T17:30:30Z",
+      "DiscoveredAt": "2025-10-31T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Investigation reveals STR analysis in Ndola",
+      "RelatedEntities": [
+        "Financial institutions - Ndola"
+      ],
+      "Entities": [
+        "Financial institutions - Ndola"
+      ],
+      "Keywords": [
+        "suspicious transactions",
+        "financial crime",
+        "terrorism financing"
+      ],
+      "RelevanceScore": 76.8,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "029beba6-1803-12ec-0d37-00561263b6e4",
+      "Title": "Financial Intelligence Centre intelligence sharing money laundering",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/2870",
+      "PublishedDate": "2025-11-18T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2025-12-13T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Investigation reveals STR analysis in Chirundu",
+      "RelatedEntities": [
+        "Reporting entities - Kitwe"
+      ],
+      "Entities": [
+        "Reporting entities - Kitwe"
+      ],
+      "Keywords": [
+        "STR analysis",
+        "financial crime",
+        "suspicious transactions"
+      ],
+      "RelevanceScore": 70.7,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04544845-078a-0753-0ce9-002c21ba8f5b",
+      "Title": "Financial Intelligence Centre investigation money laundering",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/6557",
+      "PublishedDate": "2025-10-28T17:30:30Z",
+      "PublishedAt": "2025-12-07T17:30:30Z",
+      "DiscoveredAt": "2026-01-11T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Investigation reveals suspicious transactions in Ndola",
+      "RelatedEntities": [
+        "Reporting entities - Lusaka"
+      ],
+      "Entities": [
+        "Reporting entities - Lusaka"
+      ],
+      "Keywords": [
+        "money laundering",
+        "financial crime",
+        "terrorism financing"
+      ],
+      "RelevanceScore": 78.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02fb84dd-256d-247a-243b-005e3812cc5d",
+      "Title": "Financial Intelligence Centre intelligence sharing money laundering",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/1254",
+      "PublishedDate": "2026-01-17T17:30:30Z",
+      "PublishedAt": "2025-11-01T17:30:30Z",
+      "DiscoveredAt": "2025-11-15T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Enforcement reveals suspicious transactions in Kitwe",
+      "RelatedEntities": [
+        "Reporting entities - Ndola"
+      ],
+      "Entities": [
+        "Reporting entities - Ndola"
+      ],
+      "Keywords": [
+        "financial crime",
+        "money laundering",
+        "terrorism financing"
+      ],
+      "RelevanceScore": 87.5,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "044d9b00-24a2-0e2f-120b-0067b2feff5e",
+      "Title": "Financial Intelligence Centre compliance monitoring suspicious transactions",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/9262",
+      "PublishedDate": "2026-01-06T17:30:30Z",
+      "PublishedAt": "2025-11-19T17:30:30Z",
+      "DiscoveredAt": "2025-12-20T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Investigation reveals suspicious transactions in Ndola",
+      "RelatedEntities": [
+        "Reporting entities - Chirundu"
+      ],
+      "Entities": [
+        "Reporting entities - Chirundu"
+      ],
+      "Keywords": [
+        "financial crime",
+        "money laundering",
+        "terrorism financing"
+      ],
+      "RelevanceScore": 67.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05188f4e-06b0-096d-1f78-00d112cdb7f0",
+      "Title": "Financial Intelligence Centre compliance monitoring terrorism financing",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/2067",
+      "PublishedDate": "2026-01-07T17:30:30Z",
+      "PublishedAt": "2026-01-07T17:30:30Z",
+      "DiscoveredAt": "2025-12-15T17:30:30Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Enforcement reveals STR analysis in Lusaka",
+      "RelatedEntities": [
+        "Shell companies - Ndola"
+      ],
+      "Entities": [
+        "Shell companies - Ndola"
+      ],
+      "Keywords": [
+        "STR analysis",
+        "money laundering",
+        "terrorism financing"
+      ],
+      "RelevanceScore": 68.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00ee1e05-1a94-2030-08f8-001bf18ef2ec",
+      "Title": "Financial Intelligence Centre enforcement suspicious transactions",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/1029",
+      "PublishedDate": "2025-11-21T17:30:30Z",
+      "PublishedAt": "2025-12-21T17:30:30Z",
+      "DiscoveredAt": "2025-12-10T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Enforcement reveals STR analysis in Livingstone",
+      "RelatedEntities": [
+        "Shell companies - Chirundu"
+      ],
+      "Entities": [
+        "Shell companies - Chirundu"
+      ],
+      "Keywords": [
+        "terrorism financing",
+        "STR analysis",
+        "financial crime"
+      ],
+      "RelevanceScore": 89.3,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01df7362-151e-224f-0f12-00704849bb42",
+      "Title": "Financial Intelligence Centre investigation money laundering",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/8945",
+      "PublishedDate": "2026-01-13T17:30:30Z",
+      "PublishedAt": "2025-10-26T17:30:30Z",
+      "DiscoveredAt": "2025-11-15T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Enforcement reveals suspicious transactions in Kitwe",
+      "RelatedEntities": [
+        "Suspicious persons - Lusaka"
+      ],
+      "Entities": [
+        "Suspicious persons - Lusaka"
+      ],
+      "Keywords": [
+        "STR analysis",
+        "financial crime",
+        "suspicious transactions"
+      ],
+      "RelevanceScore": 62.0,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0497b24f-18e5-0e96-0de1-008f615ee60b",
+      "Title": "Financial Intelligence Centre STR analysis STR analysis",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/9002",
+      "PublishedDate": "2026-01-06T17:30:30Z",
+      "PublishedAt": "2025-10-23T17:30:30Z",
+      "DiscoveredAt": "2025-11-24T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Compliance monitoring reveals financial crime in Lusaka",
+      "RelatedEntities": [
+        "Suspicious persons - Ndola"
+      ],
+      "Entities": [
+        "Suspicious persons - Ndola"
+      ],
+      "Keywords": [
+        "terrorism financing",
+        "suspicious transactions",
+        "money laundering"
+      ],
+      "RelevanceScore": 76.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03cec9dd-0762-1e8f-0d99-00872fe5db32",
+      "Title": "Financial Intelligence Centre enforcement terrorism financing",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/1526",
+      "PublishedDate": "2025-12-26T17:30:30Z",
+      "PublishedAt": "2025-12-30T17:30:30Z",
+      "DiscoveredAt": "2025-12-27T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Intelligence sharing reveals terrorism financing in Ndola",
+      "RelatedEntities": [
+        "Suspicious persons - Kitwe"
+      ],
+      "Entities": [
+        "Suspicious persons - Kitwe"
+      ],
+      "Keywords": [
+        "suspicious transactions",
+        "financial crime",
+        "terrorism financing"
+      ],
+      "RelevanceScore": 66.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "012b8e5c-12fb-1294-11b9-005abb20764d",
+      "Title": "Financial Intelligence Centre compliance monitoring suspicious transactions",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/2427",
+      "PublishedDate": "2025-12-10T17:30:30Z",
+      "PublishedAt": "2025-11-05T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Compliance monitoring reveals suspicious transactions in Livingstone",
+      "RelatedEntities": [
+        "Suspicious persons - Livingstone"
+      ],
+      "Entities": [
+        "Suspicious persons - Livingstone"
+      ],
+      "Keywords": [
+        "suspicious transactions",
+        "terrorism financing",
+        "STR analysis"
+      ],
+      "RelevanceScore": 68.0,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "01799fae-067a-24a3-0f81-00af9dd86db8",
+      "ArticleId": "0099fd40-09ae-11ac-24c7-00535f411b99",
+      "EntityId": "02a2f4a4-151d-206f-0cb4-0031d23272a7",
+      "EntityName": "Reporting entities - Kitwe",
+      "AlertReason": "Adverse media on money laundering",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-01T17:30:30Z",
+      "TriggeredAt": "2025-12-17T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "05bba1cd-1644-0d0f-1f81-006d34db1005",
+      "ArticleId": "01c1b693-1142-09e8-1318-0042130f08bb",
+      "EntityId": "053bf120-1bdb-0d18-268d-008ff04c3d6d",
+      "EntityName": "Shell companies - Lusaka",
+      "AlertReason": "Adverse media on terrorism financing",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-30T17:30:30Z",
+      "TriggeredAt": "2025-12-05T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0534e664-1c22-0c30-2367-0037edda2807",
+      "ArticleId": "0178a572-09ed-1356-087d-008b52726be8",
+      "EntityId": "03641288-1cfe-1b24-03fb-001af7fee872",
+      "EntityName": "Shell companies - Kitwe",
+      "AlertReason": "Adverse media on financial crime",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-24T17:30:30Z",
+      "TriggeredAt": "2026-01-15T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01050447-1b85-26d6-0745-006b56b4054d",
+      "ArticleId": "0125ba06-0e68-1234-110d-00cae690aa47",
+      "EntityId": "018fea8c-160d-172b-141d-0078173e4af7",
+      "EntityName": "Shell companies - Kitwe",
+      "AlertReason": "Adverse media on financial crime",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-12T17:30:30Z",
+      "TriggeredAt": "2026-01-17T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0315f036-1364-20ac-1000-00615defd571",
+      "ArticleId": "036f391e-2252-0a1a-0977-00cb4b276851",
+      "EntityId": "01f9bf4b-183b-0afc-26da-003d240be07e",
+      "EntityName": "Suspicious persons - Chirundu",
+      "AlertReason": "Adverse media on financial crime",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-03T17:30:30Z",
+      "TriggeredAt": "2026-01-18T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0378d00f-11b1-193e-1424-00540ffcfc1d",
+      "ArticleId": "05dcad7f-0619-16ee-0b5e-001babe6b64a",
+      "EntityId": "05383f55-1245-1481-080f-001c47b206b0",
+      "EntityName": "Suspicious persons - Livingstone",
+      "AlertReason": "Adverse media on money laundering",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2026-01-12T17:30:30Z",
+      "TriggeredAt": "2025-12-14T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03676c42-13b2-115f-19fa-0089a1de669c",
+      "ArticleId": "02cd6a01-0fda-04a0-043e-00dd9b642cef",
+      "EntityId": "02ceda32-1dbb-10ac-0eaf-0048ef7ccf4d",
+      "EntityName": "Shell companies - Kitwe",
+      "AlertReason": "Adverse media on terrorism financing",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-20T17:30:30Z",
+      "TriggeredAt": "2025-10-23T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03ad1d60-0e1d-1b88-1c42-0042dd618ac3",
+      "ArticleId": "048e7228-07d8-24d7-2169-008078c1eed6",
+      "EntityId": "03d6d8a8-11fa-1936-1512-00d2920d7132",
+      "EntityName": "Suspicious persons - Kitwe",
+      "AlertReason": "Adverse media on financial crime",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-17T17:30:30Z",
+      "TriggeredAt": "2025-11-04T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "037e5096-15df-0e12-23b6-009306083540",
+      "ArticleId": "00be66bf-228e-205d-10cd-00aac2786a88",
+      "EntityId": "02af3bd2-06fc-1244-0cc7-009c86435fe8",
+      "EntityName": "Suspicious persons - Chirundu",
+      "AlertReason": "Adverse media on terrorism financing",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-18T17:30:30Z",
+      "TriggeredAt": "2025-11-13T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "00b16f8a-0ef0-209c-24e8-0084741e1092",
+      "ArticleId": "01d6b6db-1808-1cb5-0608-004aff112c28",
+      "EntityId": "01ce87df-1b03-1518-0afe-00b9582b9f57",
+      "EntityName": "Suspicious persons - Ndola",
+      "AlertReason": "Adverse media on financial crime",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-15T17:30:30Z",
+      "TriggeredAt": "2025-11-25T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "04c7731b-09d4-0c5b-1453-008f1d48c120",
+      "ArticleId": "03c8434b-041e-07b2-11d4-0092d8ede8cb",
+      "EntityId": "0251c863-14f3-1878-117e-005a6a56c29c",
+      "EntityName": "Suspicious persons - Ndola",
+      "AlertReason": "Adverse media on terrorism financing",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2026-01-01T17:30:30Z",
+      "TriggeredAt": "2025-11-04T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02e617eb-1fcc-0e0d-1679-00df94b606f2",
+      "ArticleId": "05b85419-0597-1031-1f2b-00ac05e5dc43",
+      "EntityId": "04e03764-15af-0b5c-1cf5-00b889fe11da",
+      "EntityName": "Reporting entities - Chirundu",
+      "AlertReason": "Adverse media on STR analysis",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "TriggeredAt": "2025-12-27T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "05e86e6c-2153-1911-1961-00482f1ae889",
+      "ArticleId": "029beba6-1803-12ec-0d37-00561263b6e4",
+      "EntityId": "02f6f06e-1fe4-0e54-2104-00858a7ad826",
+      "EntityName": "Reporting entities - Kitwe",
+      "AlertReason": "Adverse media on suspicious transactions",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-23T17:30:30Z",
+      "TriggeredAt": "2025-10-21T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0581e97a-09f2-12eb-12b1-00d44df404b5",
+      "ArticleId": "01df7362-151e-224f-0f12-00704849bb42",
+      "EntityId": "048acad1-269e-237e-0c24-0077e2e1199d",
+      "EntityName": "Suspicious persons - Lusaka",
+      "AlertReason": "Adverse media on suspicious transactions",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-27T17:30:30Z",
+      "TriggeredAt": "2025-12-01T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "00b01110-04ee-1a2a-0737-00d1680e2df9",
+      "ArticleId": "0497b24f-18e5-0e96-0de1-008f615ee60b",
+      "EntityId": "048c5a6d-1348-0bbf-166e-007336cb3c91",
+      "EntityName": "Suspicious persons - Ndola",
+      "AlertReason": "Adverse media on suspicious transactions",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2026-01-13T17:30:30Z",
+      "TriggeredAt": "2025-12-12T17:30:30Z",
+      "IsAcknowledged": true
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "018021a8-262e-1169-0fe9-0045e1162500",
+      "EntityName": "Financial Intelligence Centre",
+      "Keywords": [
+        "money laundering",
+        "STR analysis",
+        "terrorism financing"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 25,
+    "HighRiskArticles": 16,
+    "ActiveAlerts": 15,
+    "MonitoredEntities": 12,
+    "ArticlesByCategory": {
+      "regulatory": 6,
+      "criminal": 13,
+      "financial": 14,
+      "political": 8
+    },
+    "ArticlesBySeverity": {
+      "high": 12,
+      "medium": 11,
+      "low": 14
+    }
+  }
+}

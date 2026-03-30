@@ -1,0 +1,171 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Logs": [
+    {
+      "Id": "55555555-aaaa-1111-bbbb-ccccdddd0001",
+      "Timestamp": "2026-02-10T08:14:00Z",
+      "EventType": "DataQuery",
+      "User": "editor@newsdiggers.co.zm",
+      "Action": "View",
+      "EntityType": "Entity",
+      "EntityId": "d3c4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "IPAddress": "196.46.232.18",
+      "IpAddress": "196.46.232.18",
+      "Details": "Queried source database for corroborating records on Bwalya Mwamba land titling investigation for print edition",
+      "Status": "Success"
+    },
+    {
+      "Id": "55555555-aaaa-1111-bbbb-ccccdddd0002",
+      "Timestamp": "2026-02-09T15:22:00Z",
+      "EventType": "StoryApproval",
+      "User": "investigations@themast.co.zm",
+      "Action": "Update",
+      "EntityType": "Case",
+      "EntityId": "e4d5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+      "IPAddress": "196.46.235.41",
+      "IpAddress": "196.46.235.41",
+      "Details": "Submitted mining sector investigation story for legal review before print publication in The Mast",
+      "Status": "Success"
+    },
+    {
+      "Id": "55555555-aaaa-1111-bbbb-ccccdddd0003",
+      "Timestamp": "2026-02-09T11:08:00Z",
+      "EventType": "SourceAccess",
+      "User": "investigations@dailymail.co.zm",
+      "Action": "View",
+      "EntityType": "Entity",
+      "EntityId": "b7a8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+      "IPAddress": "196.46.228.92",
+      "IpAddress": "196.46.228.92",
+      "Details": "Accessed confidential source file ZDM-2025-047 for document verification workflow in Zambia Daily Mail archive",
+      "Status": "Success"
+    },
+    {
+      "Id": "55555555-aaaa-1111-bbbb-ccccdddd0004",
+      "Timestamp": "2026-02-08T19:45:00Z",
+      "EventType": "LoginAttempt",
+      "User": "unknown@external.com",
+      "Action": "Login",
+      "EntityType": "System",
+      "EntityId": null,
+      "IPAddress": "41.72.108.15",
+      "IpAddress": "41.72.108.15",
+      "Details": "Failed login attempt to editorial management system from unrecognised IP address in Copperbelt region",
+      "Status": "Failed"
+    },
+    {
+      "Id": "55555555-aaaa-1111-bbbb-ccccdddd0005",
+      "Timestamp": "2026-02-08T09:30:00Z",
+      "EventType": "DataQuery",
+      "User": "k.phiri@timesofzambia.co.zm",
+      "Action": "Export",
+      "EntityType": "Report",
+      "EntityId": "e0d1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+      "IPAddress": "196.46.240.67",
+      "IpAddress": "196.46.240.67",
+      "Details": "Exported FOIA response tracking report for cross-border mining investigation at Times of Zambia",
+      "Status": "Success"
+    },
+    {
+      "Id": "55555555-aaaa-1111-bbbb-ccccdddd0006",
+      "Timestamp": "2026-02-07T14:12:00Z",
+      "EventType": "AlertReview",
+      "User": "n.mulenga@dailynation.co.zm",
+      "Action": "Update",
+      "EntityType": "Alert",
+      "EntityId": "44444444-aaaa-1111-bbbb-ccccdddd0003",
+      "IPAddress": "196.46.233.55",
+      "IpAddress": "196.46.233.55",
+      "Details": "Reviewed publication timing risk alert for coordinated multi-newspaper print investigation release at Daily Nation",
+      "Status": "Success"
+    },
+    {
+      "Id": "55555555-aaaa-1111-bbbb-ccccdddd0007",
+      "Timestamp": "2026-02-06T07:55:00Z",
+      "EventType": "EntityUpdate",
+      "User": "c.sakala@dailymail.co.zm",
+      "Action": "Create",
+      "EntityType": "Entity",
+      "EntityId": "c8b9d0e1-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+      "IPAddress": "196.46.228.93",
+      "IpAddress": "196.46.228.93",
+      "Details": "Created new archival research case file for historical print records analysis spanning 1998-2004 government contracts",
+      "Status": "Success"
+    },
+    {
+      "Id": "55555555-aaaa-1111-bbbb-ccccdddd0008",
+      "Timestamp": "2026-02-05T16:40:00Z",
+      "EventType": "LoginAttempt",
+      "User": "suspicious@proxy.net",
+      "Action": "Login",
+      "EntityType": "System",
+      "EntityId": null,
+      "IPAddress": "41.72.115.203",
+      "IpAddress": "41.72.115.203",
+      "Details": "Failed login attempt to source protection database from proxy IP address; automated lockout triggered",
+      "Status": "Failed"
+    },
+    {
+      "Id": "55555555-aaaa-1111-bbbb-ccccdddd0009",
+      "Timestamp": "2026-02-04T10:20:00Z",
+      "EventType": "StoryApproval",
+      "User": "g.banda@newsdiggers.co.zm",
+      "Action": "Create",
+      "EntityType": "Report",
+      "EntityId": null,
+      "IPAddress": "196.46.232.20",
+      "IpAddress": "196.46.232.20",
+      "Details": "Uploaded FOIA data analysis report for News Diggers print investigation into public procurement irregularities",
+      "Status": "Success"
+    },
+    {
+      "Id": "55555555-aaaa-1111-bbbb-ccccdddd0010",
+      "Timestamp": "2026-02-03T13:05:00Z",
+      "EventType": "SourceAccess",
+      "User": "j.tembo@themast.co.zm",
+      "Action": "View",
+      "EntityType": "Entity",
+      "EntityId": "f5e6a7b8-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+      "IPAddress": "196.46.235.42",
+      "IpAddress": "196.46.235.42",
+      "Details": "Accessed investigation subject profile for Chanda Kasonde shell company network mapping at The Mast",
+      "Status": "Success"
+    }
+  ],
+  "Reports": [
+    {
+      "Id": "55555555-rrrr-1111-aaaa-bbbbccccdddd",
+      "Name": "Q4 2025 Print Investigation Compliance Audit",
+      "Description": "Comprehensive audit of editorial compliance across all active print investigations including source protection protocols, right-of-reply adherence, and ZAMEC code of conduct observance for News Diggers, The Mast, Daily Nation, Times of Zambia, and Zambia Daily Mail.",
+      "GeneratedAt": "2026-01-15T10:00:00Z",
+      "Status": "Completed"
+    },
+    {
+      "Id": "55555555-rrrr-2222-aaaa-bbbbccccdddd",
+      "Name": "FOIA Request Tracking Report - January 2026",
+      "Description": "Monthly tracking report of all active FOIA requests filed by consortium newspapers. Includes response rates by ministry, statutory deadline compliance, and escalation recommendations for overdue requests.",
+      "GeneratedAt": "2026-02-01T08:00:00Z",
+      "Status": "Completed"
+    },
+    {
+      "Id": "55555555-rrrr-3333-aaaa-bbbbccccdddd",
+      "Name": "Source Protection Security Assessment 2026",
+      "Description": "Annual assessment of source protection infrastructure across partner print newspapers. Covers encrypted communication channels, physical document storage, and digital hygiene practices for investigative teams.",
+      "GeneratedAt": "2026-02-08T14:00:00Z",
+      "Status": "In Progress"
+    },
+    {
+      "Id": "55555555-rrrr-4444-aaaa-bbbbccccdddd",
+      "Name": "Cross-Border Investigation Legal Risk Report",
+      "Description": "Legal risk analysis for print investigations spanning multiple jurisdictions including Zambia, DRC, and Tanzania. Covers defamation law variations, press freedom indices, and journalist protection frameworks.",
+      "GeneratedAt": "2026-02-10T06:00:00Z",
+      "Status": "Pending"
+    }
+  ],
+  "Statistics": {
+    "TotalEvents": 1842,
+    "TodayEvents": 14,
+    "CriticalEvents": 3,
+    "FailedLogins": 27
+  }
+}

@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "028d0aad-03e9-131b-04f1-00b78b961dd1",
+      "Name": "Financial institutions - Kitwe",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 56.4,
+      "IsCritical": false,
+      "Products": [
+        "foreign exchange"
+      ],
+      "AnnualSpend": 9041970.29
+    },
+    {
+      "Id": "0509aea0-16ce-16f3-0dce-00a8dc36ab21",
+      "Name": "Microfinance institutions - Ndola",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 54.0,
+      "IsCritical": false,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 1626063.46
+    },
+    {
+      "Id": "048bb6a0-0f72-0d91-1e59-005cd1f9ae0a",
+      "Name": "Commercial banks - Livingstone",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 67.3,
+      "IsCritical": true,
+      "Products": [
+        "financial stability"
+      ],
+      "AnnualSpend": 3246276.83
+    },
+    {
+      "Id": "058f43e9-254c-145a-062d-003a59b670fe",
+      "Name": "Financial institutions - Ndola",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 92.5,
+      "IsCritical": false,
+      "Products": [
+        "monetary policy"
+      ],
+      "AnnualSpend": 4288028.15
+    },
+    {
+      "Id": "05df3906-1b40-15d4-0409-005799c26145",
+      "Name": "Commercial banks - Livingstone",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 45.1,
+      "IsCritical": true,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 2952957.45
+    },
+    {
+      "Id": "053e5825-1850-1eca-18eb-0050b37c3fc6",
+      "Name": "Microfinance institutions - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 66.6,
+      "IsCritical": false,
+      "Products": [
+        "foreign exchange"
+      ],
+      "AnnualSpend": 1514995.1
+    },
+    {
+      "Id": "0458a532-21be-0a8e-1bf5-00cafc56dda2",
+      "Name": "Microfinance institutions - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 90.6,
+      "IsCritical": true,
+      "Products": [
+        "reserve management"
+      ],
+      "AnnualSpend": 799025.0
+    },
+    {
+      "Id": "00a01dcf-0ddd-1dbf-0f1d-003eaa05060a",
+      "Name": "Microfinance institutions - Lusaka",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 85.0,
+      "IsCritical": true,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 1011603.85
+    },
+    {
+      "Id": "05243f17-0bc7-07bf-1ed0-0031400248c4",
+      "Name": "Microfinance institutions - Livingstone",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 92.7,
+      "IsCritical": false,
+      "Products": [
+        "financial stability"
+      ],
+      "AnnualSpend": 2587300.78
+    },
+    {
+      "Id": "01fae69a-1747-05cc-0704-00220a26d9a2",
+      "Name": "Bureau de change - Ndola",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 52.6,
+      "IsCritical": true,
+      "Products": [
+        "reserve management"
+      ],
+      "AnnualSpend": 3536749.41
+    },
+    {
+      "Id": "01000864-08ff-21ba-12c5-00982f44f41a",
+      "Name": "Microfinance institutions - Lusaka",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 61.5,
+      "IsCritical": false,
+      "Products": [
+        "reserve management"
+      ],
+      "AnnualSpend": 4604248.66
+    },
+    {
+      "Id": "02208b9e-1450-21bc-19f8-006519078d55",
+      "Name": "Commercial banks - Lusaka",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 84.9,
+      "IsCritical": false,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 2164015.77
+    },
+    {
+      "Id": "039c83d0-140d-0c75-18f0-008c25b94139",
+      "Name": "Commercial banks - Livingstone",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 48.9,
+      "IsCritical": false,
+      "Products": [
+        "reserve management"
+      ],
+      "AnnualSpend": 945309.02
+    },
+    {
+      "Id": "02019f9f-1fee-0d54-1a8e-00ac5bb5ae31",
+      "Name": "Commercial banks - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 42.0,
+      "IsCritical": true,
+      "Products": [
+        "financial stability"
+      ],
+      "AnnualSpend": 633690.3
+    },
+    {
+      "Id": "0161c806-1656-1220-0e73-00d5eadbefa0",
+      "Name": "Bureau de change - Kitwe",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 59.3,
+      "IsCritical": true,
+      "Products": [
+        "reserve management"
+      ],
+      "AnnualSpend": 9871864.58
+    },
+    {
+      "Id": "0234aed3-1106-1e60-1b46-00e407dd4f02",
+      "Name": "Bureau de change - Ndola",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 65.6,
+      "IsCritical": true,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 1078672.44
+    },
+    {
+      "Id": "035205a9-0703-07bc-0982-001b62c89ec1",
+      "Name": "Bureau de change - Kitwe",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 58.5,
+      "IsCritical": true,
+      "Products": [
+        "reserve management"
+      ],
+      "AnnualSpend": 3646025.2
+    },
+    {
+      "Id": "00e8510b-0784-11ba-222f-00ae80bfb673",
+      "Name": "Bureau de change - Livingstone",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 75.4,
+      "IsCritical": false,
+      "Products": [
+        "foreign exchange"
+      ],
+      "AnnualSpend": 2595027.63
+    },
+    {
+      "Id": "0432c0f4-1fe3-0e38-113b-0024355c8523",
+      "Name": "Financial institutions - Kabwe",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 82.1,
+      "IsCritical": true,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 2742637.23
+    },
+    {
+      "Id": "0397aeb0-1965-0973-067d-0059cd08596c",
+      "Name": "Microfinance institutions - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 92.4,
+      "IsCritical": true,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 9950119.25
+    },
+    {
+      "Id": "0147dc0a-26c5-0436-0dbb-0023a5441bc1",
+      "Name": "Financial institutions - Kabwe",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 70.0,
+      "IsCritical": true,
+      "Products": [
+        "monetary policy"
+      ],
+      "AnnualSpend": 8399997.84
+    },
+    {
+      "Id": "0425a63c-091e-2111-06e0-009f91300643",
+      "Name": "Bureau de change - Livingstone",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 81.8,
+      "IsCritical": false,
+      "Products": [
+        "foreign exchange"
+      ],
+      "AnnualSpend": 7016281.17
+    },
+    {
+      "Id": "01e0e5d4-22b6-1152-2506-005d67f82504",
+      "Name": "Bureau de change - Kitwe",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 62.0,
+      "IsCritical": true,
+      "Products": [
+        "financial stability"
+      ],
+      "AnnualSpend": 9557109.9
+    },
+    {
+      "Id": "05b48009-0f22-1689-24d6-00ba8681cf5d",
+      "Name": "Commercial banks - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 89.6,
+      "IsCritical": false,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 3008341.05
+    },
+    {
+      "Id": "00de2be6-1a6f-1d52-0826-008420b371b2",
+      "Name": "Commercial banks - Kitwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 42.9,
+      "IsCritical": true,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 2805163.51
+    },
+    {
+      "Id": "020361e6-1f41-0ec1-183b-007f1c3fd6fc",
+      "Name": "Commercial banks - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 64.5,
+      "IsCritical": true,
+      "Products": [
+        "financial stability"
+      ],
+      "AnnualSpend": 8129347.98
+    },
+    {
+      "Id": "04514a7c-14bc-1351-225d-008e91ebc609",
+      "Name": "Commercial banks - Kabwe",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 90.9,
+      "IsCritical": true,
+      "Products": [
+        "foreign exchange"
+      ],
+      "AnnualSpend": 8341984.65
+    },
+    {
+      "Id": "034ff088-1538-26f5-24bd-0068545c65bb",
+      "Name": "Commercial banks - Ndola",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 54.0,
+      "IsCritical": false,
+      "Products": [
+        "financial stability"
+      ],
+      "AnnualSpend": 4825172.77
+    },
+    {
+      "Id": "01b18bad-1f67-138f-0c7c-007e21a42b42",
+      "Name": "Microfinance institutions - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 44.3,
+      "IsCritical": false,
+      "Products": [
+        "monetary policy"
+      ],
+      "AnnualSpend": 2805336.01
+    },
+    {
+      "Id": "00cade7c-0ad5-164b-144b-00a4a8dbc8aa",
+      "Name": "Microfinance institutions - Livingstone",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 80.5,
+      "IsCritical": false,
+      "Products": [
+        "monetary policy"
+      ],
+      "AnnualSpend": 1855234.41
+    },
+    {
+      "Id": "05004c16-044b-0cd9-0d34-00b8de36443c",
+      "Name": "Bureau de change - Kabwe",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 79.3,
+      "IsCritical": true,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 4751291.87
+    },
+    {
+      "Id": "057b1f85-230d-061a-100c-00d6d927ae34",
+      "Name": "Microfinance institutions - Ndola",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 94.4,
+      "IsCritical": false,
+      "Products": [
+        "foreign exchange"
+      ],
+      "AnnualSpend": 3272609.4
+    },
+    {
+      "Id": "01096cc7-1c0b-07c1-1f6d-00bcd6e55b92",
+      "Name": "Financial institutions - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 51.0,
+      "IsCritical": true,
+      "Products": [
+        "monetary policy"
+      ],
+      "AnnualSpend": 9450924.18
+    },
+    {
+      "Id": "011e873f-242f-0c48-1268-005155876494",
+      "Name": "Financial institutions - Kitwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 67.5,
+      "IsCritical": false,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 8940008.76
+    },
+    {
+      "Id": "0246f147-0876-192a-23a7-00a57a74a492",
+      "Name": "Microfinance institutions - Ndola",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 84.5,
+      "IsCritical": true,
+      "Products": [
+        "financial stability"
+      ],
+      "AnnualSpend": 5952758.34
+    },
+    {
+      "Id": "029394ec-21d3-25f7-067b-007662d996c2",
+      "Name": "Bureau de change - Livingstone",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 50.2,
+      "IsCritical": false,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 4867911.9
+    },
+    {
+      "Id": "04aa80bc-0803-2515-097b-00281549a275",
+      "Name": "Financial institutions - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 48.2,
+      "IsCritical": false,
+      "Products": [
+        "reserve management"
+      ],
+      "AnnualSpend": 3161599.22
+    },
+    {
+      "Id": "01613bff-1fea-24bc-1b1d-00a2ac17ad6e",
+      "Name": "Commercial banks - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 80.4,
+      "IsCritical": true,
+      "Products": [
+        "reserve management"
+      ],
+      "AnnualSpend": 9777507.74
+    },
+    {
+      "Id": "04163b5a-1cd5-1ed2-16f0-0032dc9b20a1",
+      "Name": "Bureau de change - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 77.7,
+      "IsCritical": true,
+      "Products": [
+        "monetary policy"
+      ],
+      "AnnualSpend": 6043238.65
+    },
+    {
+      "Id": "0406b436-0d60-1598-0464-006a52734c6e",
+      "Name": "Microfinance institutions - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 70.7,
+      "IsCritical": true,
+      "Products": [
+        "monetary policy"
+      ],
+      "AnnualSpend": 3861201.76
+    },
+    {
+      "Id": "05ea90ad-16a3-2702-1593-00e4ec135e53",
+      "Name": "Bureau de change - Kitwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 93.9,
+      "IsCritical": true,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 3226959.8
+    },
+    {
+      "Id": "030c8a25-1a09-20b1-055f-006ebbefb52b",
+      "Name": "Bureau de change - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 53.1,
+      "IsCritical": true,
+      "Products": [
+        "reserve management"
+      ],
+      "AnnualSpend": 2381813.83
+    },
+    {
+      "Id": "01cc9eb1-24c1-246b-1600-00e70484bfd1",
+      "Name": "Commercial banks - Ndola",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 76.9,
+      "IsCritical": false,
+      "Products": [
+        "reserve management"
+      ],
+      "AnnualSpend": 8989194.48
+    },
+    {
+      "Id": "026be660-18f7-18b3-2495-002ae981ec3d",
+      "Name": "Microfinance institutions - Ndola",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 45.1,
+      "IsCritical": false,
+      "Products": [
+        "reserve management"
+      ],
+      "AnnualSpend": 559791.92
+    },
+    {
+      "Id": "05042ec1-1089-0fd6-1534-00ceb3adeb66",
+      "Name": "Bureau de change - Kabwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 50.9,
+      "IsCritical": true,
+      "Products": [
+        "financial stability"
+      ],
+      "AnnualSpend": 2912730.27
+    },
+    {
+      "Id": "02b786a1-0ba3-1e87-1700-00d4efbc6ece",
+      "Name": "Microfinance institutions - Kabwe",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 85.0,
+      "IsCritical": true,
+      "Products": [
+        "reserve management"
+      ],
+      "AnnualSpend": 4372648.68
+    },
+    {
+      "Id": "03aa3923-0fb7-0c5c-0e50-00633d7ae12f",
+      "Name": "Microfinance institutions - Kabwe",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 55.9,
+      "IsCritical": true,
+      "Products": [
+        "monetary policy"
+      ],
+      "AnnualSpend": 1434566.19
+    },
+    {
+      "Id": "0513101a-1908-21e9-11f3-0032adae1ae3",
+      "Name": "Microfinance institutions - Kabwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 80.9,
+      "IsCritical": true,
+      "Products": [
+        "monetary policy"
+      ],
+      "AnnualSpend": 1433422.96
+    },
+    {
+      "Id": "0128c380-233e-2185-2390-00810f8a89e1",
+      "Name": "Microfinance institutions - Livingstone",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 53.7,
+      "IsCritical": false,
+      "Products": [
+        "banking supervision"
+      ],
+      "AnnualSpend": 2977149.14
+    },
+    {
+      "Id": "021b435d-1bba-1033-09b4-00404f4397ed",
+      "Name": "Commercial banks - Livingstone",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 74.1,
+      "IsCritical": true,
+      "Products": [
+        "foreign exchange"
+      ],
+      "AnnualSpend": 6613318.9
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "0272d84a-07b8-178a-08ce-00908a53e790",
+      "FromSupplierId": "02b786a1-0ba3-1e87-1700-00d4efbc6ece",
+      "ToSupplierId": "035205a9-0703-07bc-0982-001b62c89ec1",
+      "Type": "supplies",
+      "DependencyLevel": 0.58,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03b1f2bc-07d1-2528-161b-00c557f53234",
+      "FromSupplierId": "01096cc7-1c0b-07c1-1f6d-00bcd6e55b92",
+      "ToSupplierId": "05df3906-1b40-15d4-0409-005799c26145",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.61,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "044ed81b-1db4-1687-174c-001afd24e523",
+      "FromSupplierId": "01e0e5d4-22b6-1152-2506-005d67f82504",
+      "ToSupplierId": "01e0e5d4-22b6-1152-2506-005d67f82504",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.43,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "05c17bfc-0ee0-231d-1337-0070f266a16a",
+      "FromSupplierId": "0397aeb0-1965-0973-067d-0059cd08596c",
+      "ToSupplierId": "0397aeb0-1965-0973-067d-0059cd08596c",
+      "Type": "partnership",
+      "DependencyLevel": 0.86,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "048d7978-15d5-21d6-06ad-0054d5e7a23d",
+      "FromSupplierId": "00e8510b-0784-11ba-222f-00ae80bfb673",
+      "ToSupplierId": "00e8510b-0784-11ba-222f-00ae80bfb673",
+      "Type": "supplies",
+      "DependencyLevel": 0.78,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "01aff5aa-13dc-0770-23c8-0051b870c113",
+      "FromSupplierId": "039c83d0-140d-0c75-18f0-008c25b94139",
+      "ToSupplierId": "0234aed3-1106-1e60-1b46-00e407dd4f02",
+      "Type": "partnership",
+      "DependencyLevel": 0.77,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "00c86576-1152-2643-1158-00342aaacece",
+      "FromSupplierId": "01cc9eb1-24c1-246b-1600-00e70484bfd1",
+      "ToSupplierId": "021b435d-1bba-1033-09b4-00404f4397ed",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.62,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02b0e3e2-14f0-20dd-1229-0084efac0d11",
+      "FromSupplierId": "00e8510b-0784-11ba-222f-00ae80bfb673",
+      "ToSupplierId": "0161c806-1656-1220-0e73-00d5eadbefa0",
+      "Type": "supplies",
+      "DependencyLevel": 0.71,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "057e18b4-183a-12f8-163e-0084aeff0b25",
+      "FromSupplierId": "00e8510b-0784-11ba-222f-00ae80bfb673",
+      "ToSupplierId": "0509aea0-16ce-16f3-0dce-00a8dc36ab21",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.88,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "041c90e6-25b1-26c4-1b28-00c50fe17799",
+      "FromSupplierId": "048bb6a0-0f72-0d91-1e59-005cd1f9ae0a",
+      "ToSupplierId": "057b1f85-230d-061a-100c-00d6d927ae34",
+      "Type": "supplies",
+      "DependencyLevel": 0.52,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "032095cc-0610-0891-2031-0089f385a8aa",
+      "FromSupplierId": "0509aea0-16ce-16f3-0dce-00a8dc36ab21",
+      "ToSupplierId": "0161c806-1656-1220-0e73-00d5eadbefa0",
+      "Type": "partnership",
+      "DependencyLevel": 0.44,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0522c201-0cde-0575-0e20-004ddc50ebc8",
+      "FromSupplierId": "05004c16-044b-0cd9-0d34-00b8de36443c",
+      "ToSupplierId": "0432c0f4-1fe3-0e38-113b-0024355c8523",
+      "Type": "supplies",
+      "DependencyLevel": 0.43,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0480b862-0e2f-1b1b-0820-00a290e3d053",
+      "FromSupplierId": "029394ec-21d3-25f7-067b-007662d996c2",
+      "ToSupplierId": "0406b436-0d60-1598-0464-006a52734c6e",
+      "Type": "supplies",
+      "DependencyLevel": 0.55,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0337325c-2610-143a-239d-006ce6280580",
+      "FromSupplierId": "0425a63c-091e-2111-06e0-009f91300643",
+      "ToSupplierId": "048bb6a0-0f72-0d91-1e59-005cd1f9ae0a",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.65,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04c83de1-0f0d-1a9d-2424-00afa54ac89f",
+      "FromSupplierId": "00de2be6-1a6f-1d52-0826-008420b371b2",
+      "ToSupplierId": "01cc9eb1-24c1-246b-1600-00e70484bfd1",
+      "Type": "supplies",
+      "DependencyLevel": 0.49,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "022a278d-094a-2625-0db6-00dcbd66216f",
+      "FromSupplierId": "0509aea0-16ce-16f3-0dce-00a8dc36ab21",
+      "ToSupplierId": "057b1f85-230d-061a-100c-00d6d927ae34",
+      "Type": "partnership",
+      "DependencyLevel": 0.78,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "01324210-26b1-0d27-091c-0024c8b87b7a",
+      "FromSupplierId": "05ea90ad-16a3-2702-1593-00e4ec135e53",
+      "ToSupplierId": "029394ec-21d3-25f7-067b-007662d996c2",
+      "Type": "supplies",
+      "DependencyLevel": 0.83,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03daa05f-18bf-1175-24f5-00ba1c75e488",
+      "FromSupplierId": "01613bff-1fea-24bc-1b1d-00a2ac17ad6e",
+      "ToSupplierId": "01b18bad-1f67-138f-0c7c-007e21a42b42",
+      "Type": "partnership",
+      "DependencyLevel": 0.7,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03c6ea80-15fe-0c04-0ac6-004b6323575f",
+      "FromSupplierId": "035205a9-0703-07bc-0982-001b62c89ec1",
+      "ToSupplierId": "011e873f-242f-0c48-1268-005155876494",
+      "Type": "supplies",
+      "DependencyLevel": 0.8,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "052d6b1f-1876-10e2-1da8-00d20bac7961",
+      "FromSupplierId": "048bb6a0-0f72-0d91-1e59-005cd1f9ae0a",
+      "ToSupplierId": "01000864-08ff-21ba-12c5-00982f44f41a",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.52,
+      "IsCriticalPath": true
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "geographic",
+      "Description": "Concentration of financial stability in Livingstone",
+      "ConcentrationLevel": 78.3,
+      "AffectedSuppliers": [
+        "Microfinance institutions - Livingstone",
+        "Commercial banks - Kabwe",
+        "Bureau de change - Kitwe"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "032871ad-1da4-1c9e-1b0a-002a99b0d758",
+      "SupplierId": "028d0aad-03e9-131b-04f1-00b78b961dd1",
+      "SupplierName": "Financial institutions - Kitwe",
+      "RiskType": "operational",
+      "Severity": "low",
+      "Description": "Risk detected in banking supervision operations",
+      "DetectedAt": "2026-01-18T17:30:30Z",
+      "IsAcknowledged": false,
+      "AffectedDownstreamSuppliers": [
+        "00cade7c-0ad5-164b-144b-00a4a8dbc8aa",
+        "028d0aad-03e9-131b-04f1-00b78b961dd1"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 29,
+    "HighRiskSuppliers": 17,
+    "AverageRiskScore": 68.5,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

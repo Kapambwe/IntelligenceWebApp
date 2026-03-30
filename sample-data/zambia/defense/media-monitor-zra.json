@@ -1,0 +1,1553 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "03956b89-0fda-0feb-140d-00300a7893bd",
+      "Title": "Ministry of Defence training security operations",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/1876",
+      "PublishedDate": "2025-12-10T17:30:30Z",
+      "PublishedAt": "2025-12-19T17:30:30Z",
+      "DiscoveredAt": "2025-11-13T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Training reveals defense contracts in Lusaka",
+      "RelatedEntities": [
+        "Security personnel - Kabwe"
+      ],
+      "Entities": [
+        "Security personnel - Kabwe"
+      ],
+      "Keywords": [
+        "equipment acquisition",
+        "military procurement",
+        "logistics"
+      ],
+      "RelevanceScore": 78.3,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05cc4ec5-10e3-1411-13f2-00beba9fa650",
+      "Title": "Ministry of Defence logistics management security operations",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/1546",
+      "PublishedDate": "2025-11-14T17:30:30Z",
+      "PublishedAt": "2025-11-06T17:30:30Z",
+      "DiscoveredAt": "2026-01-17T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Security assessment reveals logistics in Ndola",
+      "RelatedEntities": [
+        "Military units - Livingstone"
+      ],
+      "Entities": [
+        "Military units - Livingstone"
+      ],
+      "Keywords": [
+        "military procurement",
+        "defense contracts",
+        "security operations"
+      ],
+      "RelevanceScore": 62.0,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "046a0be1-1048-252c-1608-00942002a630",
+      "Title": "Ministry of Defence security assessment military procurement",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/1759",
+      "PublishedDate": "2025-12-29T17:30:30Z",
+      "PublishedAt": "2025-12-03T17:30:30Z",
+      "DiscoveredAt": "2025-11-21T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Procurement reveals equipment acquisition in Livingstone",
+      "RelatedEntities": [
+        "Suppliers - Ndola"
+      ],
+      "Entities": [
+        "Suppliers - Ndola"
+      ],
+      "Keywords": [
+        "logistics",
+        "equipment acquisition",
+        "defense contracts"
+      ],
+      "RelevanceScore": 81.7,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "044c665c-1539-0852-1926-00d6edc5b018",
+      "Title": "Ministry of Defence training military procurement",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/8597",
+      "PublishedDate": "2025-10-24T17:30:30Z",
+      "PublishedAt": "2025-12-29T17:30:30Z",
+      "DiscoveredAt": "2025-12-11T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Procurement reveals military procurement in Ndola",
+      "RelatedEntities": [
+        "Security personnel - Livingstone"
+      ],
+      "Entities": [
+        "Security personnel - Livingstone"
+      ],
+      "Keywords": [
+        "equipment acquisition",
+        "military procurement",
+        "security operations"
+      ],
+      "RelevanceScore": 69.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02bf7a28-1a47-04e7-0c3e-00a1e325071e",
+      "Title": "Ministry of Defence security assessment military procurement",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/9223",
+      "PublishedDate": "2025-11-24T17:30:30Z",
+      "PublishedAt": "2025-12-21T17:30:30Z",
+      "DiscoveredAt": "2026-01-17T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Deployment reveals logistics in Ndola",
+      "RelatedEntities": [
+        "Suppliers - Ndola"
+      ],
+      "Entities": [
+        "Suppliers - Ndola"
+      ],
+      "Keywords": [
+        "military procurement",
+        "equipment acquisition",
+        "security operations"
+      ],
+      "RelevanceScore": 92.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05c15389-1dbf-248c-0cde-0024ddaa411e",
+      "Title": "Ministry of Defence security assessment logistics",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/1456",
+      "PublishedDate": "2025-12-18T17:30:30Z",
+      "PublishedAt": "2025-11-11T17:30:30Z",
+      "DiscoveredAt": "2025-11-27T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Security assessment reveals security operations in Kabwe",
+      "RelatedEntities": [
+        "Security personnel - Mumbwa"
+      ],
+      "Entities": [
+        "Security personnel - Mumbwa"
+      ],
+      "Keywords": [
+        "defense contracts",
+        "logistics",
+        "security operations"
+      ],
+      "RelevanceScore": 62.9,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "01c699ae-1344-11a2-0f7c-0064eae64902",
+      "Title": "Ministry of Defence security assessment equipment acquisition",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/5301",
+      "PublishedDate": "2025-11-21T17:30:30Z",
+      "PublishedAt": "2025-12-22T17:30:30Z",
+      "DiscoveredAt": "2025-10-29T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Deployment reveals military procurement in Kabwe",
+      "RelatedEntities": [
+        "Defense contractors - Ndola"
+      ],
+      "Entities": [
+        "Defense contractors - Ndola"
+      ],
+      "Keywords": [
+        "equipment acquisition",
+        "security operations",
+        "military procurement"
+      ],
+      "RelevanceScore": 61.0,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "020704ad-0937-1459-0a68-00787c16c87a",
+      "Title": "Ministry of Defence procurement equipment acquisition",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/2229",
+      "PublishedDate": "2025-12-07T17:30:30Z",
+      "PublishedAt": "2025-12-08T17:30:30Z",
+      "DiscoveredAt": "2025-11-01T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Procurement reveals military procurement in Mumbwa",
+      "RelatedEntities": [
+        "Security personnel - Lusaka"
+      ],
+      "Entities": [
+        "Security personnel - Lusaka"
+      ],
+      "Keywords": [
+        "security operations",
+        "equipment acquisition",
+        "defense contracts"
+      ],
+      "RelevanceScore": 78.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02e2bdcf-186f-0cb1-227a-0069e09ba162",
+      "Title": "Ministry of Defence training defense contracts",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/3148",
+      "PublishedDate": "2025-12-06T17:30:30Z",
+      "PublishedAt": "2025-10-24T17:30:30Z",
+      "DiscoveredAt": "2025-11-03T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Logistics management reveals defense contracts in Mumbwa",
+      "RelatedEntities": [
+        "Defense contractors - Livingstone"
+      ],
+      "Entities": [
+        "Defense contractors - Livingstone"
+      ],
+      "Keywords": [
+        "military procurement",
+        "logistics",
+        "equipment acquisition"
+      ],
+      "RelevanceScore": 82.8,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04f6258b-1634-1867-1854-009156e5798b",
+      "Title": "Ministry of Defence logistics management logistics",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/7657",
+      "PublishedDate": "2025-11-12T17:30:30Z",
+      "PublishedAt": "2025-10-27T17:30:30Z",
+      "DiscoveredAt": "2025-12-31T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Training reveals military procurement in Lusaka",
+      "RelatedEntities": [
+        "Security personnel - Kabwe"
+      ],
+      "Entities": [
+        "Security personnel - Kabwe"
+      ],
+      "Keywords": [
+        "military procurement",
+        "security operations",
+        "equipment acquisition"
+      ],
+      "RelevanceScore": 84.5,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "037cc5e4-17da-224a-0622-00e48794e078",
+      "Title": "Ministry of Defence procurement equipment acquisition",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/7153",
+      "PublishedDate": "2025-12-02T17:30:30Z",
+      "PublishedAt": "2025-12-24T17:30:30Z",
+      "DiscoveredAt": "2026-01-17T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Deployment reveals military procurement in Kabwe",
+      "RelatedEntities": [
+        "Defense contractors - Ndola"
+      ],
+      "Entities": [
+        "Defense contractors - Ndola"
+      ],
+      "Keywords": [
+        "logistics",
+        "defense contracts",
+        "security operations"
+      ],
+      "RelevanceScore": 65.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0305440a-109e-0695-1d41-00ae37fdf2ae",
+      "Title": "Ministry of Defence training logistics",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/8581",
+      "PublishedDate": "2025-10-21T17:30:30Z",
+      "PublishedAt": "2025-11-15T17:30:30Z",
+      "DiscoveredAt": "2025-10-21T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Logistics management reveals equipment acquisition in Kabwe",
+      "RelatedEntities": [
+        "Military units - Livingstone"
+      ],
+      "Entities": [
+        "Military units - Livingstone"
+      ],
+      "Keywords": [
+        "logistics",
+        "security operations",
+        "equipment acquisition"
+      ],
+      "RelevanceScore": 74.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0526755d-2430-1a70-222c-00bb2e46361b",
+      "Title": "Ministry of Defence training logistics",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/5170",
+      "PublishedDate": "2025-10-31T17:30:30Z",
+      "PublishedAt": "2025-10-28T17:30:30Z",
+      "DiscoveredAt": "2025-11-08T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Deployment reveals security operations in Lusaka",
+      "RelatedEntities": [
+        "Military units - Kabwe"
+      ],
+      "Entities": [
+        "Military units - Kabwe"
+      ],
+      "Keywords": [
+        "security operations",
+        "logistics",
+        "military procurement"
+      ],
+      "RelevanceScore": 86.8,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0506304f-1c45-0849-0f7e-003ae2496fe4",
+      "Title": "Ministry of Defence training logistics",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/2942",
+      "PublishedDate": "2025-10-31T17:30:30Z",
+      "PublishedAt": "2026-01-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-13T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Procurement reveals military procurement in Ndola",
+      "RelatedEntities": [
+        "Security personnel - Lusaka"
+      ],
+      "Entities": [
+        "Security personnel - Lusaka"
+      ],
+      "Keywords": [
+        "security operations",
+        "military procurement",
+        "logistics"
+      ],
+      "RelevanceScore": 83.5,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "024618d3-1950-231c-1168-003b541b3c3d",
+      "Title": "Ministry of Defence deployment logistics",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/5910",
+      "PublishedDate": "2026-01-06T17:30:30Z",
+      "PublishedAt": "2025-11-13T17:30:30Z",
+      "DiscoveredAt": "2025-11-03T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Logistics management reveals military procurement in Lusaka",
+      "RelatedEntities": [
+        "Suppliers - Ndola"
+      ],
+      "Entities": [
+        "Suppliers - Ndola"
+      ],
+      "Keywords": [
+        "defense contracts",
+        "logistics",
+        "military procurement"
+      ],
+      "RelevanceScore": 79.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "053d804c-1426-1549-252c-00c86a508fc1",
+      "Title": "Ministry of Defence procurement defense contracts",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/5765",
+      "PublishedDate": "2025-10-25T17:30:30Z",
+      "PublishedAt": "2025-12-05T17:30:30Z",
+      "DiscoveredAt": "2025-11-15T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Logistics management reveals security operations in Lusaka",
+      "RelatedEntities": [
+        "Defense contractors - Mumbwa"
+      ],
+      "Entities": [
+        "Defense contractors - Mumbwa"
+      ],
+      "Keywords": [
+        "logistics",
+        "military procurement",
+        "equipment acquisition"
+      ],
+      "RelevanceScore": 61.1,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04b110b5-0d91-13da-1b0e-0045d291cb68",
+      "Title": "Ministry of Defence security assessment military procurement",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/5556",
+      "PublishedDate": "2025-11-16T17:30:30Z",
+      "PublishedAt": "2025-12-18T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Training reveals equipment acquisition in Mumbwa",
+      "RelatedEntities": [
+        "Military units - Lusaka"
+      ],
+      "Entities": [
+        "Military units - Lusaka"
+      ],
+      "Keywords": [
+        "defense contracts",
+        "military procurement",
+        "security operations"
+      ],
+      "RelevanceScore": 94.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05542726-0943-0496-124c-00449b8eb97d",
+      "Title": "Ministry of Defence procurement logistics",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/1646",
+      "PublishedDate": "2025-12-11T17:30:30Z",
+      "PublishedAt": "2026-01-08T17:30:30Z",
+      "DiscoveredAt": "2025-10-31T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Procurement reveals military procurement in Mumbwa",
+      "RelatedEntities": [
+        "Military units - Kabwe"
+      ],
+      "Entities": [
+        "Military units - Kabwe"
+      ],
+      "Keywords": [
+        "logistics",
+        "defense contracts",
+        "equipment acquisition"
+      ],
+      "RelevanceScore": 80.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "056d575f-0e71-26fd-0f05-003ecfc1c893",
+      "Title": "Ministry of Defence training equipment acquisition",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/7828",
+      "PublishedDate": "2026-01-11T17:30:30Z",
+      "PublishedAt": "2025-12-31T17:30:30Z",
+      "DiscoveredAt": "2025-12-13T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Deployment reveals equipment acquisition in Lusaka",
+      "RelatedEntities": [
+        "Suppliers - Lusaka"
+      ],
+      "Entities": [
+        "Suppliers - Lusaka"
+      ],
+      "Keywords": [
+        "defense contracts",
+        "logistics",
+        "military procurement"
+      ],
+      "RelevanceScore": 92.8,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "039eaaa3-1f7e-263c-0db9-0058209b6af2",
+      "Title": "Ministry of Defence training equipment acquisition",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/2642",
+      "PublishedDate": "2025-10-25T17:30:30Z",
+      "PublishedAt": "2026-01-03T17:30:30Z",
+      "DiscoveredAt": "2026-01-11T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Logistics management reveals logistics in Livingstone",
+      "RelatedEntities": [
+        "Defense contractors - Mumbwa"
+      ],
+      "Entities": [
+        "Defense contractors - Mumbwa"
+      ],
+      "Keywords": [
+        "defense contracts",
+        "security operations",
+        "logistics"
+      ],
+      "RelevanceScore": 80.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "026a9f40-256e-1fc3-0584-007a068a3556",
+      "Title": "Ministry of Defence logistics management defense contracts",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/4203",
+      "PublishedDate": "2025-12-05T17:30:30Z",
+      "PublishedAt": "2025-11-28T17:30:30Z",
+      "DiscoveredAt": "2025-10-25T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Training reveals logistics in Kabwe",
+      "RelatedEntities": [
+        "Military units - Ndola"
+      ],
+      "Entities": [
+        "Military units - Ndola"
+      ],
+      "Keywords": [
+        "military procurement",
+        "logistics",
+        "security operations"
+      ],
+      "RelevanceScore": 75.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02dbf6eb-1071-0622-1c64-005c12a75a7c",
+      "Title": "Ministry of Defence deployment equipment acquisition",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2961",
+      "PublishedDate": "2025-12-24T17:30:30Z",
+      "PublishedAt": "2025-12-19T17:30:30Z",
+      "DiscoveredAt": "2025-12-13T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Deployment reveals security operations in Livingstone",
+      "RelatedEntities": [
+        "Security personnel - Lusaka"
+      ],
+      "Entities": [
+        "Security personnel - Lusaka"
+      ],
+      "Keywords": [
+        "equipment acquisition",
+        "military procurement",
+        "security operations"
+      ],
+      "RelevanceScore": 88.5,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04ef39ce-25ac-2627-1d56-001cd7436ae0",
+      "Title": "Ministry of Defence deployment equipment acquisition",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/3529",
+      "PublishedDate": "2025-11-10T17:30:30Z",
+      "PublishedAt": "2025-11-14T17:30:30Z",
+      "DiscoveredAt": "2025-12-26T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Training reveals logistics in Lusaka",
+      "RelatedEntities": [
+        "Military units - Livingstone"
+      ],
+      "Entities": [
+        "Military units - Livingstone"
+      ],
+      "Keywords": [
+        "military procurement",
+        "defense contracts",
+        "logistics"
+      ],
+      "RelevanceScore": 78.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03cf02d9-1c86-2620-0577-00e4bb5c256c",
+      "Title": "Ministry of Defence deployment security operations",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/6263",
+      "PublishedDate": "2025-11-09T17:30:30Z",
+      "PublishedAt": "2025-11-03T17:30:30Z",
+      "DiscoveredAt": "2026-01-02T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Training reveals defense contracts in Ndola",
+      "RelatedEntities": [
+        "Military units - Livingstone"
+      ],
+      "Entities": [
+        "Military units - Livingstone"
+      ],
+      "Keywords": [
+        "equipment acquisition",
+        "defense contracts",
+        "military procurement"
+      ],
+      "RelevanceScore": 69.5,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02821411-08c1-1792-2092-00700d9195f1",
+      "Title": "Ministry of Defence logistics management security operations",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/5025",
+      "PublishedDate": "2025-10-26T17:30:30Z",
+      "PublishedAt": "2025-12-26T17:30:30Z",
+      "DiscoveredAt": "2025-11-09T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Logistics management reveals military procurement in Ndola",
+      "RelatedEntities": [
+        "Security personnel - Ndola"
+      ],
+      "Entities": [
+        "Security personnel - Ndola"
+      ],
+      "Keywords": [
+        "security operations",
+        "defense contracts",
+        "military procurement"
+      ],
+      "RelevanceScore": 85.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "031eb059-2075-0e95-241c-00c7f9ea690d",
+      "Title": "Ministry of Defence procurement equipment acquisition",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/6735",
+      "PublishedDate": "2025-11-17T17:30:30Z",
+      "PublishedAt": "2026-01-14T17:30:30Z",
+      "DiscoveredAt": "2025-11-17T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Logistics management reveals defense contracts in Lusaka",
+      "RelatedEntities": [
+        "Suppliers - Ndola"
+      ],
+      "Entities": [
+        "Suppliers - Ndola"
+      ],
+      "Keywords": [
+        "military procurement",
+        "logistics",
+        "security operations"
+      ],
+      "RelevanceScore": 77.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05d7ea99-2132-0af0-175e-001db83dd369",
+      "Title": "Ministry of Defence procurement security operations",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/2370",
+      "PublishedDate": "2025-11-30T17:30:30Z",
+      "PublishedAt": "2025-11-29T17:30:30Z",
+      "DiscoveredAt": "2025-12-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Procurement reveals logistics in Ndola",
+      "RelatedEntities": [
+        "Defense contractors - Mumbwa"
+      ],
+      "Entities": [
+        "Defense contractors - Mumbwa"
+      ],
+      "Keywords": [
+        "logistics",
+        "equipment acquisition",
+        "security operations"
+      ],
+      "RelevanceScore": 80.8,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01629f3b-1ae1-20c7-1645-009ce72c78a0",
+      "Title": "Ministry of Defence procurement military procurement",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/9322",
+      "PublishedDate": "2026-01-07T17:30:30Z",
+      "PublishedAt": "2025-12-11T17:30:30Z",
+      "DiscoveredAt": "2025-11-26T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Security assessment reveals logistics in Mumbwa",
+      "RelatedEntities": [
+        "Suppliers - Kabwe"
+      ],
+      "Entities": [
+        "Suppliers - Kabwe"
+      ],
+      "Keywords": [
+        "security operations",
+        "military procurement",
+        "equipment acquisition"
+      ],
+      "RelevanceScore": 93.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02d0bb56-127f-0c20-04e3-0065541f382e",
+      "Title": "Ministry of Defence deployment military procurement",
+      "Source": "Times of Zambia",
+      "Url": "https://lusaka.co.zm/article/2448",
+      "PublishedDate": "2025-10-22T17:30:30Z",
+      "PublishedAt": "2025-12-30T17:30:30Z",
+      "DiscoveredAt": "2025-12-29T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Security assessment reveals defense contracts in Mumbwa",
+      "RelatedEntities": [
+        "Security personnel - Kabwe"
+      ],
+      "Entities": [
+        "Security personnel - Kabwe"
+      ],
+      "Keywords": [
+        "military procurement",
+        "equipment acquisition",
+        "logistics"
+      ],
+      "RelevanceScore": 89.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "048d6e0b-0f49-088e-0939-00ab69e37296",
+      "Title": "Ministry of Defence procurement logistics",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/2191",
+      "PublishedDate": "2025-12-25T17:30:30Z",
+      "PublishedAt": "2025-10-21T17:30:30Z",
+      "DiscoveredAt": "2025-12-04T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Deployment reveals logistics in Ndola",
+      "RelatedEntities": [
+        "Security personnel - Kabwe"
+      ],
+      "Entities": [
+        "Security personnel - Kabwe"
+      ],
+      "Keywords": [
+        "equipment acquisition",
+        "military procurement",
+        "security operations"
+      ],
+      "RelevanceScore": 90.4,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05536b43-0933-1904-1d81-003f76a84a98",
+      "Title": "Ministry of Defence logistics management security operations",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/4492",
+      "PublishedDate": "2025-11-27T17:30:30Z",
+      "PublishedAt": "2025-10-28T17:30:30Z",
+      "DiscoveredAt": "2026-01-08T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Logistics management reveals logistics in Mumbwa",
+      "RelatedEntities": [
+        "Military units - Kabwe"
+      ],
+      "Entities": [
+        "Military units - Kabwe"
+      ],
+      "Keywords": [
+        "military procurement",
+        "defense contracts",
+        "equipment acquisition"
+      ],
+      "RelevanceScore": 80.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "027d9600-25e5-246a-0e33-0029632b0717",
+      "Title": "Ministry of Defence deployment equipment acquisition",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/1600",
+      "PublishedDate": "2025-12-31T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2025-12-12T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Security assessment reveals defense contracts in Ndola",
+      "RelatedEntities": [
+        "Suppliers - Livingstone"
+      ],
+      "Entities": [
+        "Suppliers - Livingstone"
+      ],
+      "Keywords": [
+        "defense contracts",
+        "equipment acquisition",
+        "military procurement"
+      ],
+      "RelevanceScore": 80.9,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "041684c0-0db7-15e6-204f-00869f3438c7",
+      "Title": "Ministry of Defence training logistics",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/2717",
+      "PublishedDate": "2025-12-18T17:30:30Z",
+      "PublishedAt": "2025-12-25T17:30:30Z",
+      "DiscoveredAt": "2025-11-01T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Deployment reveals equipment acquisition in Ndola",
+      "RelatedEntities": [
+        "Military units - Mumbwa"
+      ],
+      "Entities": [
+        "Military units - Mumbwa"
+      ],
+      "Keywords": [
+        "equipment acquisition",
+        "security operations",
+        "logistics"
+      ],
+      "RelevanceScore": 64.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "026e0899-12bc-26f2-04a0-0047de1f0c26",
+      "Title": "Ministry of Defence deployment equipment acquisition",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/5457",
+      "PublishedDate": "2025-12-07T17:30:30Z",
+      "PublishedAt": "2026-01-17T17:30:30Z",
+      "DiscoveredAt": "2025-12-07T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Deployment reveals military procurement in Mumbwa",
+      "RelatedEntities": [
+        "Defense contractors - Ndola"
+      ],
+      "Entities": [
+        "Defense contractors - Ndola"
+      ],
+      "Keywords": [
+        "security operations",
+        "military procurement",
+        "equipment acquisition"
+      ],
+      "RelevanceScore": 65.9,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03c194a7-1aca-0924-054a-004dee9e44b4",
+      "Title": "Ministry of Defence deployment security operations",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/2525",
+      "PublishedDate": "2025-12-16T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2025-12-17T17:30:30Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Security assessment reveals military procurement in Livingstone",
+      "RelatedEntities": [
+        "Suppliers - Lusaka"
+      ],
+      "Entities": [
+        "Suppliers - Lusaka"
+      ],
+      "Keywords": [
+        "defense contracts",
+        "logistics",
+        "military procurement"
+      ],
+      "RelevanceScore": 72.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0547fba6-2205-250f-07ba-007ea3e7afc3",
+      "Title": "Ministry of Defence training logistics",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/6831",
+      "PublishedDate": "2025-11-15T17:30:30Z",
+      "PublishedAt": "2025-10-24T17:30:30Z",
+      "DiscoveredAt": "2025-12-09T17:30:30Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Deployment reveals equipment acquisition in Livingstone",
+      "RelatedEntities": [
+        "Security personnel - Livingstone"
+      ],
+      "Entities": [
+        "Security personnel - Livingstone"
+      ],
+      "Keywords": [
+        "equipment acquisition",
+        "logistics",
+        "defense contracts"
+      ],
+      "RelevanceScore": 94.3,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03c415c5-1e86-191c-1031-00af655287c5",
+      "Title": "Ministry of Defence security assessment equipment acquisition",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/4534",
+      "PublishedDate": "2025-12-11T17:30:30Z",
+      "PublishedAt": "2025-11-10T17:30:30Z",
+      "DiscoveredAt": "2026-01-15T17:30:30Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Logistics management reveals security operations in Lusaka",
+      "RelatedEntities": [
+        "Suppliers - Kabwe"
+      ],
+      "Entities": [
+        "Suppliers - Kabwe"
+      ],
+      "Keywords": [
+        "defense contracts",
+        "security operations",
+        "equipment acquisition"
+      ],
+      "RelevanceScore": 72.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05c81aad-23d4-0cb4-25d5-00492620b735",
+      "Title": "Ministry of Defence logistics management military procurement",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/9983",
+      "PublishedDate": "2025-11-13T17:30:30Z",
+      "PublishedAt": "2025-10-22T17:30:30Z",
+      "DiscoveredAt": "2025-12-30T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Deployment reveals equipment acquisition in Kabwe",
+      "RelatedEntities": [
+        "Defense contractors - Mumbwa"
+      ],
+      "Entities": [
+        "Defense contractors - Mumbwa"
+      ],
+      "Keywords": [
+        "equipment acquisition",
+        "security operations",
+        "logistics"
+      ],
+      "RelevanceScore": 87.6,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "040d37cc-1d2e-20cd-121f-0049eeb2b2fb",
+      "Title": "Ministry of Defence procurement defense contracts",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/9260",
+      "PublishedDate": "2026-01-11T17:30:30Z",
+      "PublishedAt": "2026-01-05T17:30:30Z",
+      "DiscoveredAt": "2025-11-25T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Deployment reveals defense contracts in Kabwe",
+      "RelatedEntities": [
+        "Security personnel - Lusaka"
+      ],
+      "Entities": [
+        "Security personnel - Lusaka"
+      ],
+      "Keywords": [
+        "logistics",
+        "security operations",
+        "military procurement"
+      ],
+      "RelevanceScore": 64.1,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "01be7f65-172d-141d-142c-007a7e02ba44",
+      "Title": "Ministry of Defence procurement defense contracts",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/6187",
+      "PublishedDate": "2025-12-30T17:30:30Z",
+      "PublishedAt": "2025-12-07T17:30:30Z",
+      "DiscoveredAt": "2025-10-29T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Deployment reveals logistics in Ndola",
+      "RelatedEntities": [
+        "Security personnel - Livingstone"
+      ],
+      "Entities": [
+        "Security personnel - Livingstone"
+      ],
+      "Keywords": [
+        "equipment acquisition",
+        "military procurement",
+        "security operations"
+      ],
+      "RelevanceScore": 72.3,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "030565c0-0507-16ff-12fa-007f9abfa7a9",
+      "Title": "Ministry of Defence deployment security operations",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/5839",
+      "PublishedDate": "2025-11-20T17:30:30Z",
+      "PublishedAt": "2026-01-14T17:30:30Z",
+      "DiscoveredAt": "2025-11-27T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Security assessment reveals security operations in Ndola",
+      "RelatedEntities": [
+        "Suppliers - Ndola"
+      ],
+      "Entities": [
+        "Suppliers - Ndola"
+      ],
+      "Keywords": [
+        "defense contracts",
+        "equipment acquisition",
+        "military procurement"
+      ],
+      "RelevanceScore": 61.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03d0843f-21a3-1a56-108f-00d5e098bbea",
+      "Title": "Ministry of Defence security assessment military procurement",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/8990",
+      "PublishedDate": "2026-01-01T17:30:30Z",
+      "PublishedAt": "2025-11-10T17:30:30Z",
+      "DiscoveredAt": "2025-12-23T17:30:30Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Deployment reveals logistics in Livingstone",
+      "RelatedEntities": [
+        "Suppliers - Mumbwa"
+      ],
+      "Entities": [
+        "Suppliers - Mumbwa"
+      ],
+      "Keywords": [
+        "equipment acquisition",
+        "defense contracts",
+        "military procurement"
+      ],
+      "RelevanceScore": 61.8,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04738f87-11d9-1791-06be-00a91de17aba",
+      "Title": "Ministry of Defence security assessment defense contracts",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/6981",
+      "PublishedDate": "2025-12-03T17:30:30Z",
+      "PublishedAt": "2025-12-20T17:30:30Z",
+      "DiscoveredAt": "2025-12-12T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Security assessment reveals equipment acquisition in Lusaka",
+      "RelatedEntities": [
+        "Defense contractors - Ndola"
+      ],
+      "Entities": [
+        "Defense contractors - Ndola"
+      ],
+      "Keywords": [
+        "security operations",
+        "defense contracts",
+        "logistics"
+      ],
+      "RelevanceScore": 91.7,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03aad511-2236-1b68-2182-0041b2ca212b",
+      "Title": "Ministry of Defence training equipment acquisition",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/9949",
+      "PublishedDate": "2025-11-13T17:30:30Z",
+      "PublishedAt": "2025-11-13T17:30:30Z",
+      "DiscoveredAt": "2025-10-31T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Training reveals military procurement in Kabwe",
+      "RelatedEntities": [
+        "Defense contractors - Livingstone"
+      ],
+      "Entities": [
+        "Defense contractors - Livingstone"
+      ],
+      "Keywords": [
+        "defense contracts",
+        "security operations",
+        "logistics"
+      ],
+      "RelevanceScore": 90.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03dd351b-1061-1e56-0b2b-004900e1925d",
+      "Title": "Ministry of Defence logistics management equipment acquisition",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/1854",
+      "PublishedDate": "2025-11-22T17:30:30Z",
+      "PublishedAt": "2025-11-17T17:30:30Z",
+      "DiscoveredAt": "2026-01-15T17:30:30Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Training reveals logistics in Kabwe",
+      "RelatedEntities": [
+        "Defense contractors - Kabwe"
+      ],
+      "Entities": [
+        "Defense contractors - Kabwe"
+      ],
+      "Keywords": [
+        "equipment acquisition",
+        "military procurement",
+        "defense contracts"
+      ],
+      "RelevanceScore": 63.6,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "05967bc8-1907-13e2-1015-0036651df511",
+      "Title": "Ministry of Defence procurement security operations",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/8524",
+      "PublishedDate": "2025-11-15T17:30:30Z",
+      "PublishedAt": "2025-12-28T17:30:30Z",
+      "DiscoveredAt": "2025-12-04T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Deployment reveals logistics in Mumbwa",
+      "RelatedEntities": [
+        "Security personnel - Lusaka"
+      ],
+      "Entities": [
+        "Security personnel - Lusaka"
+      ],
+      "Keywords": [
+        "military procurement",
+        "defense contracts",
+        "security operations"
+      ],
+      "RelevanceScore": 84.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "012ec43a-116e-0dee-0d97-001b9c301b88",
+      "Title": "Ministry of Defence security assessment military procurement",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/6043",
+      "PublishedDate": "2025-10-31T17:30:30Z",
+      "PublishedAt": "2025-12-20T17:30:30Z",
+      "DiscoveredAt": "2025-11-11T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Procurement reveals security operations in Livingstone",
+      "RelatedEntities": [
+        "Defense contractors - Lusaka"
+      ],
+      "Entities": [
+        "Defense contractors - Lusaka"
+      ],
+      "Keywords": [
+        "military procurement",
+        "defense contracts",
+        "security operations"
+      ],
+      "RelevanceScore": 77.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01610270-0dfd-192a-091d-003794a73526",
+      "Title": "Ministry of Defence procurement equipment acquisition",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/3357",
+      "PublishedDate": "2025-12-12T17:30:30Z",
+      "PublishedAt": "2025-10-29T17:30:30Z",
+      "DiscoveredAt": "2025-12-30T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Logistics management reveals equipment acquisition in Mumbwa",
+      "RelatedEntities": [
+        "Suppliers - Ndola"
+      ],
+      "Entities": [
+        "Suppliers - Ndola"
+      ],
+      "Keywords": [
+        "logistics",
+        "equipment acquisition",
+        "military procurement"
+      ],
+      "RelevanceScore": 64.2,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "028f1678-092d-0e96-0f73-00e5c467c9f0",
+      "Title": "Ministry of Defence procurement security operations",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/4492",
+      "PublishedDate": "2025-11-15T17:30:30Z",
+      "PublishedAt": "2025-10-28T17:30:30Z",
+      "DiscoveredAt": "2025-12-08T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Deployment reveals equipment acquisition in Kabwe",
+      "RelatedEntities": [
+        "Defense contractors - Kabwe"
+      ],
+      "Entities": [
+        "Defense contractors - Kabwe"
+      ],
+      "Keywords": [
+        "military procurement",
+        "security operations",
+        "logistics"
+      ],
+      "RelevanceScore": 94.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "056aa9be-0fbd-1780-0b63-008c3bbf35de",
+      "Title": "Ministry of Defence deployment defense contracts",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/1946",
+      "PublishedDate": "2025-11-12T17:30:30Z",
+      "PublishedAt": "2025-11-20T17:30:30Z",
+      "DiscoveredAt": "2025-11-27T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Logistics management reveals defense contracts in Kabwe",
+      "RelatedEntities": [
+        "Suppliers - Mumbwa"
+      ],
+      "Entities": [
+        "Suppliers - Mumbwa"
+      ],
+      "Keywords": [
+        "military procurement",
+        "logistics",
+        "defense contracts"
+      ],
+      "RelevanceScore": 86.1,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "03390dba-25b1-0ebe-146e-0055c1119d61",
+      "ArticleId": "05cc4ec5-10e3-1411-13f2-00beba9fa650",
+      "EntityId": "00f6f027-0d55-0bdb-0c6e-0081248432a0",
+      "EntityName": "Military units - Livingstone",
+      "AlertReason": "Adverse media on defense contracts",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-06T17:30:30Z",
+      "TriggeredAt": "2025-12-25T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03856414-249b-0bd2-04d5-0099d1f571dc",
+      "ArticleId": "044c665c-1539-0852-1926-00d6edc5b018",
+      "EntityId": "009f689a-1859-09b0-0dc8-00a599694cf3",
+      "EntityName": "Security personnel - Livingstone",
+      "AlertReason": "Adverse media on logistics",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-10-27T17:30:30Z",
+      "TriggeredAt": "2025-11-07T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "03252f42-0e82-0743-0eff-001e4d78b458",
+      "ArticleId": "02bf7a28-1a47-04e7-0c3e-00a1e325071e",
+      "EntityId": "03715e7e-0908-242e-15d1-005ba3835c61",
+      "EntityName": "Suppliers - Ndola",
+      "AlertReason": "Adverse media on equipment acquisition",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-14T17:30:30Z",
+      "TriggeredAt": "2025-12-17T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "050d08ac-1e9f-0568-0558-005b767b149b",
+      "ArticleId": "01c699ae-1344-11a2-0f7c-0064eae64902",
+      "EntityId": "031961b8-20f5-1378-251c-00c1b770aa16",
+      "EntityName": "Defense contractors - Ndola",
+      "AlertReason": "Adverse media on logistics",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-15T17:30:30Z",
+      "TriggeredAt": "2026-01-05T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "00a06f7f-243a-2163-211f-0079d81982c1",
+      "ArticleId": "037cc5e4-17da-224a-0622-00e48794e078",
+      "EntityId": "036e0426-1eb0-0f26-15ab-0069909dfe0a",
+      "EntityName": "Defense contractors - Ndola",
+      "AlertReason": "Adverse media on logistics",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-02T17:30:30Z",
+      "TriggeredAt": "2025-12-30T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "02a6276f-0483-0b70-0527-003e9c762140",
+      "ArticleId": "0305440a-109e-0695-1d41-00ae37fdf2ae",
+      "EntityId": "050f4bcb-1380-0d99-15bb-0046eac7f1e3",
+      "EntityName": "Military units - Livingstone",
+      "AlertReason": "Adverse media on equipment acquisition",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-16T17:30:30Z",
+      "TriggeredAt": "2026-01-10T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0506f0cc-1245-0fab-0b29-0039b09fff76",
+      "ArticleId": "053d804c-1426-1549-252c-00c86a508fc1",
+      "EntityId": "034ac5df-1127-1378-0ffe-006b6c031ce2",
+      "EntityName": "Defense contractors - Mumbwa",
+      "AlertReason": "Adverse media on defense contracts",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-21T17:30:30Z",
+      "TriggeredAt": "2026-01-03T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0293b670-069a-03ef-0bfa-003a5769ad7a",
+      "ArticleId": "039eaaa3-1f7e-263c-0db9-0058209b6af2",
+      "EntityId": "039093ff-1d44-1d68-065d-0072fe848635",
+      "EntityName": "Defense contractors - Mumbwa",
+      "AlertReason": "Adverse media on military procurement",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-05T17:30:30Z",
+      "TriggeredAt": "2025-12-11T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04292c3f-20d2-13c5-0c12-00325a03756c",
+      "ArticleId": "03cf02d9-1c86-2620-0577-00e4bb5c256c",
+      "EntityId": "05d73484-07a3-1952-0673-002f07c6540e",
+      "EntityName": "Military units - Livingstone",
+      "AlertReason": "Adverse media on security operations",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-18T17:30:30Z",
+      "TriggeredAt": "2025-11-07T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "00ec9576-17f2-2314-17e5-0074d03a6049",
+      "ArticleId": "02821411-08c1-1792-2092-00700d9195f1",
+      "EntityId": "0108655e-2705-1eea-0a02-002666c31601",
+      "EntityName": "Security personnel - Ndola",
+      "AlertReason": "Adverse media on defense contracts",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-29T17:30:30Z",
+      "TriggeredAt": "2026-01-08T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0539b717-2478-12dd-13a2-006f78efdaf9",
+      "ArticleId": "05536b43-0933-1904-1d81-003f76a84a98",
+      "EntityId": "049aa4ac-0559-1b47-0623-007a1d3b39e0",
+      "EntityName": "Military units - Kabwe",
+      "AlertReason": "Adverse media on security operations",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-05T17:30:30Z",
+      "TriggeredAt": "2025-12-28T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "02607ea9-1be1-0838-1233-00417b061bc1",
+      "ArticleId": "026e0899-12bc-26f2-04a0-0047de1f0c26",
+      "EntityId": "00ee0ecb-117b-26f8-0c14-007e3c38ff32",
+      "EntityName": "Defense contractors - Ndola",
+      "AlertReason": "Adverse media on military procurement",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "TriggeredAt": "2025-12-23T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0139696f-1fc8-06ea-0b7a-00620fdd15b8",
+      "ArticleId": "05c81aad-23d4-0cb4-25d5-00492620b735",
+      "EntityId": "03dd2823-26f3-2440-1c2d-009bad0a98c3",
+      "EntityName": "Defense contractors - Mumbwa",
+      "AlertReason": "Adverse media on logistics",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-26T17:30:30Z",
+      "TriggeredAt": "2026-01-05T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0386e152-10e4-144e-140f-008c25d9d5be",
+      "ArticleId": "01be7f65-172d-141d-142c-007a7e02ba44",
+      "EntityId": "02b51fd7-14f8-1146-1a64-00e77a70586e",
+      "EntityName": "Security personnel - Livingstone",
+      "AlertReason": "Adverse media on equipment acquisition",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-22T17:30:30Z",
+      "TriggeredAt": "2025-10-31T17:30:30Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01024240-11e0-1030-1473-002dd714a9ed",
+      "ArticleId": "03d0843f-21a3-1a56-108f-00d5e098bbea",
+      "EntityId": "01aa1ad2-19ce-1872-1218-00dea7dd9693",
+      "EntityName": "Suppliers - Mumbwa",
+      "AlertReason": "Adverse media on security operations",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-16T17:30:30Z",
+      "TriggeredAt": "2025-11-07T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "01e124ac-1170-121f-254d-009d4358e0a0",
+      "ArticleId": "03aad511-2236-1b68-2182-0041b2ca212b",
+      "EntityId": "019fb704-25aa-057d-18f4-00d0b2f44ce3",
+      "EntityName": "Defense contractors - Livingstone",
+      "AlertReason": "Adverse media on equipment acquisition",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-18T17:30:30Z",
+      "TriggeredAt": "2025-10-22T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "0260824f-180d-2547-1439-00e1d06e9b97",
+      "ArticleId": "03dd351b-1061-1e56-0b2b-004900e1925d",
+      "EntityId": "053bfd8a-057d-2025-0a15-006d7cf50d22",
+      "EntityName": "Defense contractors - Kabwe",
+      "AlertReason": "Adverse media on security operations",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2026-01-19T17:30:30Z",
+      "TriggeredAt": "2025-11-19T17:30:30Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "04441f24-0837-125e-1649-0029f9f794a2",
+      "ArticleId": "056aa9be-0fbd-1780-0b63-008c3bbf35de",
+      "EntityId": "05332974-1029-1227-1b30-003efc600abf",
+      "EntityName": "Suppliers - Mumbwa",
+      "AlertReason": "Adverse media on security operations",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-10-25T17:30:30Z",
+      "TriggeredAt": "2025-11-10T17:30:30Z",
+      "IsAcknowledged": false
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "0285d8ad-2304-18ad-1a2b-009ec4f94209",
+      "EntityName": "Ministry of Defence",
+      "Keywords": [
+        "security operations",
+        "military procurement",
+        "defense contracts"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 23,
+    "HighRiskArticles": 19,
+    "ActiveAlerts": 18,
+    "MonitoredEntities": 11,
+    "ArticlesByCategory": {
+      "regulatory": 6,
+      "criminal": 12,
+      "financial": 5,
+      "political": 12
+    },
+    "ArticlesBySeverity": {
+      "high": 20,
+      "medium": 19,
+      "low": 14
+    }
+  }
+}

@@ -1,0 +1,2002 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "Zambia Defence Force Headquarters",
+    "Country": "Zambia",
+    "Headquarters": "Kansenshi, Ndola, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-12-03T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "3 resolved incidents in past quarter",
+      "CivilSupportMissions": "16 deployments",
+      "TransparencyReviews": "2 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "Zambia Army Command",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-10-26T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "6 resolved incidents in past quarter",
+      "CivilSupportMissions": "18 deployments",
+      "TransparencyReviews": "5 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "Zambia Air Force Command",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "3 resolved incidents in past quarter",
+      "CivilSupportMissions": "20 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "Defence Engineering Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-10-21T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "10 resolved incidents in past quarter",
+      "CivilSupportMissions": "13 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "Military Intelligence Division",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-04T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "6 resolved incidents in past quarter",
+      "CivilSupportMissions": "17 deployments",
+      "TransparencyReviews": "3 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "Special Forces Unit",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-09T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-02T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "3 resolved incidents in past quarter",
+      "CivilSupportMissions": "13 deployments",
+      "TransparencyReviews": "5 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "Border Security Battalion",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-27T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "8 resolved incidents in past quarter",
+      "CivilSupportMissions": "10 deployments",
+      "TransparencyReviews": "5 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "Defence Logistics Command",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-29T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-11T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "4 resolved incidents in past quarter",
+      "CivilSupportMissions": "17 deployments",
+      "TransparencyReviews": "2 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "Military Police Division",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-14T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-27T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "6 resolved incidents in past quarter",
+      "CivilSupportMissions": "14 deployments",
+      "TransparencyReviews": "5 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "Defence Cyber Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-16T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-07T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "8 resolved incidents in past quarter",
+      "CivilSupportMissions": "8 deployments",
+      "TransparencyReviews": "3 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Ndola Battalion 1",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-12T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-04T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "6 resolved incidents in past quarter",
+      "CivilSupportMissions": "8 deployments",
+      "TransparencyReviews": "3 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Mongu Battalion 2",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-07T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-13T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "6 resolved incidents in past quarter",
+      "CivilSupportMissions": "18 deployments",
+      "TransparencyReviews": "3 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Mazabuka Battalion 3",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-09T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-07T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "9 resolved incidents in past quarter",
+      "CivilSupportMissions": "18 deployments",
+      "TransparencyReviews": "3 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Lundazi Battalion 4",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-12T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-10-24T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "5 resolved incidents in past quarter",
+      "CivilSupportMissions": "12 deployments",
+      "TransparencyReviews": "2 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Chingola Battalion 5",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-12-04T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "7 resolved incidents in past quarter",
+      "CivilSupportMissions": "14 deployments",
+      "TransparencyReviews": "5 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Chingola Battalion 6",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-12T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-10-26T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "7 resolved incidents in past quarter",
+      "CivilSupportMissions": "20 deployments",
+      "TransparencyReviews": "2 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Chingola Battalion 7",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-18T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "5 resolved incidents in past quarter",
+      "CivilSupportMissions": "10 deployments",
+      "TransparencyReviews": "3 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Kafue Battalion 8",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-12T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-13T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "4 resolved incidents in past quarter",
+      "CivilSupportMissions": "11 deployments",
+      "TransparencyReviews": "5 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Kitwe Battalion 9",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-10T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-02T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "5 resolved incidents in past quarter",
+      "CivilSupportMissions": "20 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Choma Battalion 10",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "5 resolved incidents in past quarter",
+      "CivilSupportMissions": "18 deployments",
+      "TransparencyReviews": "5 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Mansa Battalion 11",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "4 resolved incidents in past quarter",
+      "CivilSupportMissions": "15 deployments",
+      "TransparencyReviews": "2 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Chingola Battalion 12",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-09T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-10-26T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "3 resolved incidents in past quarter",
+      "CivilSupportMissions": "20 deployments",
+      "TransparencyReviews": "3 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Mazabuka Battalion 13",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-06T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "4 resolved incidents in past quarter",
+      "CivilSupportMissions": "17 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Lundazi Battalion 14",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-17T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-10-22T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "3 resolved incidents in past quarter",
+      "CivilSupportMissions": "17 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Mbala Battalion 15",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-14T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "8 resolved incidents in past quarter",
+      "CivilSupportMissions": "19 deployments",
+      "TransparencyReviews": "2 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Lundazi Battalion 16",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-11T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-27T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "6 resolved incidents in past quarter",
+      "CivilSupportMissions": "8 deployments",
+      "TransparencyReviews": "2 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Chipata Battalion 17",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-10-22T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "6 resolved incidents in past quarter",
+      "CivilSupportMissions": "16 deployments",
+      "TransparencyReviews": "5 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Livingstone Battalion 18",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-29T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "8 resolved incidents in past quarter",
+      "CivilSupportMissions": "19 deployments",
+      "TransparencyReviews": "3 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Choma Battalion 19",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "9 resolved incidents in past quarter",
+      "CivilSupportMissions": "20 deployments",
+      "TransparencyReviews": "5 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Mbala Battalion 20",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-21T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "10 resolved incidents in past quarter",
+      "CivilSupportMissions": "18 deployments",
+      "TransparencyReviews": "3 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Monze Battalion 21",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-11T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-16T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "7 resolved incidents in past quarter",
+      "CivilSupportMissions": "20 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Choma Battalion 22",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-17T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-15T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "7 resolved incidents in past quarter",
+      "CivilSupportMissions": "15 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Kabwe Battalion 23",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-12T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-06T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "8 resolved incidents in past quarter",
+      "CivilSupportMissions": "14 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Kabwe Battalion 24",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "10 resolved incidents in past quarter",
+      "CivilSupportMissions": "11 deployments",
+      "TransparencyReviews": "5 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Lusaka Battalion 25",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-10-24T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "3 resolved incidents in past quarter",
+      "CivilSupportMissions": "18 deployments",
+      "TransparencyReviews": "5 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Mazabuka Battalion 26",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-17T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "10 resolved incidents in past quarter",
+      "CivilSupportMissions": "11 deployments",
+      "TransparencyReviews": "2 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Solwezi Battalion 27",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-07T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-12-05T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "7 resolved incidents in past quarter",
+      "CivilSupportMissions": "16 deployments",
+      "TransparencyReviews": "2 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Mansa Battalion 28",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-09T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-25T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "5 resolved incidents in past quarter",
+      "CivilSupportMissions": "10 deployments",
+      "TransparencyReviews": "3 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Kitwe Battalion 29",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-09T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-10-31T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "3 resolved incidents in past quarter",
+      "CivilSupportMissions": "20 deployments",
+      "TransparencyReviews": "3 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Mufulira Battalion 30",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-15T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "4 resolved incidents in past quarter",
+      "CivilSupportMissions": "11 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Chipata Battalion 31",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-10-21T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "5 resolved incidents in past quarter",
+      "CivilSupportMissions": "14 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Choma Battalion 32",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "4 resolved incidents in past quarter",
+      "CivilSupportMissions": "13 deployments",
+      "TransparencyReviews": "2 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Choma Battalion 33",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-14T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "4 resolved incidents in past quarter",
+      "CivilSupportMissions": "11 deployments",
+      "TransparencyReviews": "2 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Choma Battalion 34",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-26T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "5 resolved incidents in past quarter",
+      "CivilSupportMissions": "18 deployments",
+      "TransparencyReviews": "5 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Choma Battalion 35",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-09T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "6 resolved incidents in past quarter",
+      "CivilSupportMissions": "15 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Monze Battalion 36",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-10T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-10-23T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "4 resolved incidents in past quarter",
+      "CivilSupportMissions": "11 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Mazabuka Battalion 37",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "7 resolved incidents in past quarter",
+      "CivilSupportMissions": "14 deployments",
+      "TransparencyReviews": "2 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Kasama Battalion 38",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-06T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "10 resolved incidents in past quarter",
+      "CivilSupportMissions": "8 deployments",
+      "TransparencyReviews": "5 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Mongu Battalion 39",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-11-14T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "4 resolved incidents in past quarter",
+      "CivilSupportMissions": "14 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Defense",
+    "DisplayName": "ZDF Mansa Battalion 40",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
+    "TopPriorities": [
+      "Secure mineral-rich borders and transit corridors.",
+      "Support humanitarian logistics for disaster relief.",
+      "Cooperate with regional defense forces on cross-border crime interdiction."
+    ],
+    "ActiveOperations": [
+      "Joint patrols with ZRA along borders to fight illicit smuggling.",
+      "Logistics support for government agencies and emergency services.",
+      "Intelligence sharing with police on organized crime funding illegal activities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Border security operation",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Conducted patrols to prevent smuggling and illegal border crossings."
+      },
+      {
+        "Title": "Civil support mission",
+        "Date": "2025-10-23T00:00:00Z",
+        "Summary": "Provided engineering and logistical support for infrastructure protection."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Police Service",
+      "Southern African Development Community (SADC) standby forces"
+    ],
+    "Metrics": {
+      "BorderIncidents": "7 resolved incidents in past quarter",
+      "CivilSupportMissions": "15 deployments",
+      "TransparencyReviews": "4 field audits"
+    }
+  }
+]

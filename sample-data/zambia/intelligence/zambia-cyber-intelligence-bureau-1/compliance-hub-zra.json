@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 222,
+  "ActiveAlerts": 20,
+  "PendingReviews": 7,
+  "ComplianceScore": 74.0,
+  "Alerts": [
+    {
+      "Id": "052e11b0-1e31-265f-0b47-0080cdc93de2",
+      "Type": "National security",
+      "Severity": "Critical",
+      "EntityName": "Foreign entities - Lusaka",
+      "Description": "Surveillance revealed strategic intelligence involving foreign entities",
+      "DetectedAt": "2025-12-31T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "050e3b84-1c86-14cf-160f-005fb53d52a9",
+      "Type": "Surveillance",
+      "Severity": "High",
+      "EntityName": "Security threats - Lusaka",
+      "Description": "Surveillance revealed surveillance involving foreign entities",
+      "DetectedAt": "2025-11-10T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02c432ce-0c2f-129a-1b65-00b94679f8b0",
+      "Type": "Strategic intelligence",
+      "Severity": "High",
+      "EntityName": "Intelligence targets - Nakonde",
+      "Description": "Surveillance revealed counter-intelligence involving security threats",
+      "DetectedAt": "2025-12-16T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0541cc18-244f-20fc-0e24-0077ecd71e25",
+      "Type": "National security",
+      "Severity": "Medium",
+      "EntityName": "Foreign entities - Copperbelt",
+      "Description": "Counter-intelligence revealed strategic intelligence involving persons of interest",
+      "DetectedAt": "2025-12-27T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01ef6430-1c7e-0413-0bbe-001f61d41b2e",
+      "Type": "Counter-intelligence",
+      "Severity": "Medium",
+      "EntityName": "Intelligence targets - border regions",
+      "Description": "Counter-intelligence revealed surveillance involving foreign entities",
+      "DetectedAt": "2025-12-10T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "031fb2ea-06cb-1710-1b08-009cc945ff8f",
+      "Type": "National security",
+      "Severity": "Low",
+      "EntityName": "Security threats - Nakonde",
+      "Description": "Security assessment revealed strategic intelligence involving security threats",
+      "DetectedAt": "2025-11-17T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "05a727ff-189c-1aa4-1f1c-006ea0a23123",
+      "Type": "Threat assessment",
+      "Severity": "High",
+      "EntityName": "Security threats - Nakonde",
+      "Description": "Intelligence gathering revealed surveillance involving persons of interest",
+      "DetectedAt": "2025-10-22T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02e49b2c-1d95-1239-2296-00b8ef6bf66d",
+      "Type": "Surveillance",
+      "Severity": "Low",
+      "EntityName": "Security threats - Copperbelt",
+      "Description": "Security assessment revealed strategic intelligence involving persons of interest",
+      "DetectedAt": "2026-01-11T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02ddfb66-19b1-13ee-2209-006b0d14f06d",
+      "Type": "Strategic intelligence",
+      "Severity": "Critical",
+      "EntityName": "Foreign entities - Livingstone",
+      "Description": "Intelligence gathering revealed counter-intelligence involving intelligence targets",
+      "DetectedAt": "2026-01-07T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0462dfca-21d2-25f3-1e33-0088b2d5e905",
+      "Type": "Threat assessment",
+      "Severity": "Critical",
+      "EntityName": "Intelligence targets - Copperbelt",
+      "Description": "Intelligence gathering revealed surveillance involving foreign entities",
+      "DetectedAt": "2025-11-27T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05830ef3-0631-0edf-24de-008b803c7005",
+      "Type": "Threat assessment",
+      "Severity": "Low",
+      "EntityName": "Foreign entities - border regions",
+      "Description": "Security assessment revealed strategic intelligence involving security threats",
+      "DetectedAt": "2025-12-27T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "048553d9-2470-24c6-1652-00c6bb4fa5a9",
+      "Type": "Threat assessment",
+      "Severity": "Low",
+      "EntityName": "Intelligence targets - Copperbelt",
+      "Description": "Counter-intelligence revealed counter-intelligence involving foreign entities",
+      "DetectedAt": "2025-12-15T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0430856e-26fd-252f-18a5-00910b7c77e1",
+      "Type": "National security",
+      "Severity": "Critical",
+      "EntityName": "Security threats - border regions",
+      "Description": "Counter-intelligence revealed national security involving foreign entities",
+      "DetectedAt": "2026-01-15T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00ab69ac-0ab3-21cf-1ab9-003e2dcde53b",
+      "Type": "National security",
+      "Severity": "High",
+      "EntityName": "Intelligence targets - Copperbelt",
+      "Description": "Surveillance revealed strategic intelligence involving security threats",
+      "DetectedAt": "2025-12-21T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03dcbf07-0afd-187f-0fb9-009f5197343c",
+      "Type": "Counter-intelligence",
+      "Severity": "Low",
+      "EntityName": "Intelligence targets - Copperbelt",
+      "Description": "Surveillance revealed strategic intelligence involving intelligence targets",
+      "DetectedAt": "2025-11-10T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "010222b0-1389-0733-1ffa-00acb9a7f6bd",
+      "Type": "Threat assessment",
+      "Severity": "High",
+      "EntityName": "Intelligence targets - border regions",
+      "Description": "Intelligence gathering revealed strategic intelligence involving persons of interest",
+      "DetectedAt": "2026-01-10T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "04402feb-1628-234f-153f-001dd33dab05",
+      "Type": "Strategic intelligence",
+      "Severity": "Medium",
+      "EntityName": "Foreign entities - Livingstone",
+      "Description": "Counter-intelligence revealed counter-intelligence involving foreign entities",
+      "DetectedAt": "2025-12-30T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "031e0c51-2134-2057-08af-007272fd32bc",
+      "Type": "National security",
+      "Severity": "High",
+      "EntityName": "Persons of interest - Nakonde",
+      "Description": "Threat analysis revealed threat assessment involving foreign entities",
+      "DetectedAt": "2025-11-26T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0217ff80-1bb9-04cc-1cc1-006de798abe5",
+      "Type": "Strategic intelligence",
+      "Severity": "Critical",
+      "EntityName": "Security threats - border regions",
+      "Description": "Surveillance revealed threat assessment involving intelligence targets",
+      "DetectedAt": "2026-01-02T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "009c4dfa-1ecf-2707-07c7-0083d4a87c99",
+      "Type": "Counter-intelligence",
+      "Severity": "Low",
+      "EntityName": "Intelligence targets - Nakonde",
+      "Description": "Surveillance revealed surveillance involving persons of interest",
+      "DetectedAt": "2026-01-02T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "034fd8ab-1036-04dd-0a71-00626791ca66",
+      "Type": "Strategic intelligence",
+      "Severity": "Low",
+      "EntityName": "Persons of interest - Copperbelt",
+      "Description": "Threat analysis revealed threat assessment involving persons of interest",
+      "DetectedAt": "2026-01-08T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "04d587a7-2249-2022-13f4-00897f0dc4ac",
+      "Type": "Counter-intelligence",
+      "Severity": "Medium",
+      "EntityName": "Foreign entities - border regions",
+      "Description": "Intelligence gathering revealed strategic intelligence involving security threats",
+      "DetectedAt": "2025-12-17T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "05988dcb-1548-0bd8-0f3e-00198673522b",
+      "Type": "National security",
+      "Severity": "High",
+      "EntityName": "Intelligence targets - Lusaka",
+      "Description": "Threat analysis revealed surveillance involving foreign entities",
+      "DetectedAt": "2025-11-03T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01d5932e-21bc-1422-1d3b-00aacbe720e2",
+      "Type": "National security",
+      "Severity": "Critical",
+      "EntityName": "Foreign entities - Copperbelt",
+      "Description": "Intelligence gathering revealed threat assessment involving persons of interest",
+      "DetectedAt": "2025-11-09T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "028b5635-112e-1a0e-05d1-00d488d51ff2",
+      "Type": "National security",
+      "Severity": "Low",
+      "EntityName": "Persons of interest - border regions",
+      "Description": "Counter-intelligence revealed surveillance involving security threats",
+      "DetectedAt": "2025-11-19T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03dea4e8-1508-1141-0b86-006a7b1d3bcc",
+      "Type": "Surveillance",
+      "Severity": "Critical",
+      "EntityName": "Intelligence targets - Lusaka",
+      "Description": "Security assessment revealed counter-intelligence involving foreign entities",
+      "DetectedAt": "2025-12-10T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02d76f4e-1dcc-13d8-177c-0020bb7af9d5",
+      "Type": "National security",
+      "Severity": "Medium",
+      "EntityName": "Intelligence targets - Lusaka",
+      "Description": "Threat analysis revealed threat assessment involving intelligence targets",
+      "DetectedAt": "2026-01-16T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0381407a-1dc1-14dc-049d-009d888c6dc5",
+      "Type": "National security",
+      "Severity": "Low",
+      "EntityName": "Intelligence targets - Lusaka",
+      "Description": "Security assessment revealed national security involving security threats",
+      "DetectedAt": "2025-10-26T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00f8a581-23c1-0909-13f3-007dbb9ee5eb",
+      "Type": "Surveillance",
+      "Severity": "Medium",
+      "EntityName": "Security threats - Nakonde",
+      "Description": "Security assessment revealed threat assessment involving intelligence targets",
+      "DetectedAt": "2025-11-15T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0422180d-05b3-1170-046e-009b89ab374c",
+      "Type": "Counter-intelligence",
+      "Severity": "High",
+      "EntityName": "Intelligence targets - Nakonde",
+      "Description": "Intelligence gathering revealed threat assessment involving security threats",
+      "DetectedAt": "2025-11-02T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04bd6430-0b29-0f2e-1e0b-00c856bb1c3a",
+      "Type": "Counter-intelligence",
+      "Severity": "High",
+      "EntityName": "Security threats - Copperbelt",
+      "Description": "Counter-intelligence revealed threat assessment involving persons of interest",
+      "DetectedAt": "2025-11-13T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02a888fa-050e-0da7-25ce-0050cb6275e2",
+      "Type": "Strategic intelligence",
+      "Severity": "High",
+      "EntityName": "Security threats - Nakonde",
+      "Description": "Threat analysis revealed strategic intelligence involving security threats",
+      "DetectedAt": "2025-12-08T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02d249b3-23d6-05c0-1759-0035bdbe3106",
+      "Type": "Counter-intelligence",
+      "Severity": "Low",
+      "EntityName": "Intelligence targets - Lusaka",
+      "Description": "Security assessment revealed surveillance involving security threats",
+      "DetectedAt": "2026-01-09T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04b3cac2-208e-19e8-1e53-00a94d448ba2",
+      "Type": "Threat assessment",
+      "Severity": "High",
+      "EntityName": "Foreign entities - Lusaka",
+      "Description": "Intelligence gathering revealed strategic intelligence involving persons of interest",
+      "DetectedAt": "2026-01-07T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "055531e7-07ea-23a8-0635-00c4014b864f",
+      "Type": "National security",
+      "Severity": "Medium",
+      "EntityName": "Foreign entities - Lusaka",
+      "Description": "Intelligence gathering revealed counter-intelligence involving intelligence targets",
+      "DetectedAt": "2025-10-23T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02a87d16-262b-0e91-0653-00e20470a9db",
+      "Type": "Counter-intelligence",
+      "Severity": "Low",
+      "EntityName": "Security threats - Livingstone",
+      "Description": "Intelligence gathering revealed counter-intelligence involving foreign entities",
+      "DetectedAt": "2025-11-07T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "038a73d0-2471-130c-1e9d-0074fe4e0aef",
+      "Type": "Strategic intelligence",
+      "Severity": "Low",
+      "EntityName": "Intelligence targets - Livingstone",
+      "Description": "Threat analysis revealed strategic intelligence involving intelligence targets",
+      "DetectedAt": "2025-12-30T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02af4ee2-16d6-1126-24f9-008d58832abb",
+      "Type": "Threat assessment",
+      "Severity": "High",
+      "EntityName": "Security threats - Livingstone",
+      "Description": "Threat analysis revealed counter-intelligence involving security threats",
+      "DetectedAt": "2025-11-13T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02d9dfd8-2278-1a85-20d7-0062ee2c2b52",
+      "Type": "Strategic intelligence",
+      "Severity": "High",
+      "EntityName": "Intelligence targets - border regions",
+      "Description": "Intelligence gathering revealed threat assessment involving foreign entities",
+      "DetectedAt": "2025-11-12T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "057f8cc8-0b9b-16a4-1e33-00b3580c0194",
+      "Type": "Surveillance",
+      "Severity": "Low",
+      "EntityName": "Persons of interest - border regions",
+      "Description": "Surveillance revealed strategic intelligence involving intelligence targets",
+      "DetectedAt": "2025-12-24T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04488c97-0cce-0801-133e-00a7add99077",
+      "Type": "National security",
+      "Severity": "Critical",
+      "EntityName": "Foreign entities - Copperbelt",
+      "Description": "Counter-intelligence revealed strategic intelligence involving security threats",
+      "DetectedAt": "2026-01-16T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00e74c01-1d55-0945-2072-007e979fcb11",
+      "Type": "National security",
+      "Severity": "Medium",
+      "EntityName": "Security threats - border regions",
+      "Description": "Intelligence gathering revealed surveillance involving persons of interest",
+      "DetectedAt": "2025-10-22T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00d2849a-0cfa-10c8-202f-00ba8e8d2005",
+      "Type": "Surveillance",
+      "Severity": "Medium",
+      "EntityName": "Foreign entities - Nakonde",
+      "Description": "Surveillance revealed counter-intelligence involving intelligence targets",
+      "DetectedAt": "2025-12-14T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03a78097-1c6c-133b-2305-003ca75b61d8",
+      "Type": "Counter-intelligence",
+      "Severity": "High",
+      "EntityName": "Foreign entities - Copperbelt",
+      "Description": "Security assessment revealed surveillance involving foreign entities",
+      "DetectedAt": "2025-12-28T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "035b571c-1106-1691-16bf-00a4b4003023",
+      "Type": "National security",
+      "Severity": "High",
+      "EntityName": "Security threats - Copperbelt",
+      "Description": "Surveillance revealed national security involving security threats",
+      "DetectedAt": "2025-12-09T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "057317eb-04ba-0968-1f04-00b7970a2ee5",
+      "Type": "National security",
+      "Severity": "Low",
+      "EntityName": "Intelligence targets - border regions",
+      "Description": "Threat analysis revealed counter-intelligence involving intelligence targets",
+      "DetectedAt": "2025-11-14T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "05030458-1460-1311-23a8-006628063947",
+      "Type": "National security",
+      "Severity": "Medium",
+      "EntityName": "Security threats - Nakonde",
+      "Description": "Surveillance revealed threat assessment involving security threats",
+      "DetectedAt": "2025-12-04T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01cf9f8b-1321-2160-217e-00e342d0e229",
+      "Type": "Counter-intelligence",
+      "Severity": "Medium",
+      "EntityName": "Persons of interest - Nakonde",
+      "Description": "Counter-intelligence revealed counter-intelligence involving intelligence targets",
+      "DetectedAt": "2025-12-18T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01ef0a52-0ff1-20aa-0980-00216c9aa181",
+      "Type": "Threat assessment",
+      "Severity": "Low",
+      "EntityName": "Security threats - Livingstone",
+      "Description": "Counter-intelligence revealed threat assessment involving foreign entities",
+      "DetectedAt": "2025-11-07T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "057abcf3-05b5-1366-1893-00b8317e33b3",
+      "Type": "National security",
+      "Severity": "Medium",
+      "EntityName": "Persons of interest - Lusaka",
+      "Description": "Intelligence gathering revealed surveillance involving intelligence targets",
+      "DetectedAt": "2025-11-20T17:30:30Z",
+      "Status": "Investigation"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 63
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 65
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 60
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 79
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 81
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 75
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 80
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 88
+    }
+  ]
+}

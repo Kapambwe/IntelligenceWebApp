@@ -1,0 +1,1173 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "0193aca7-2675-0614-08c0-0053cec0e230",
+      "EntityId": "04950aac-24cb-200d-234d-0091523b1a5a",
+      "EntityName": "Security threats - Lusaka",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-01T17:30:30Z",
+      "Notes": "Counter-intelligence for national security verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-01T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-07T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "03fec43f-06e8-1960-0ea9-006de295bbf9",
+      "EntityId": "023cd17b-1796-0726-1072-006baf23524b",
+      "EntityName": "Security threats - Copperbelt",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-03T17:30:30Z",
+      "Notes": "Threat analysis for counter-intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-23T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "0181add0-22ea-1d57-20bd-00b0f791c8aa",
+      "EntityId": "058c3709-16b4-1431-1a8b-00889741ba4d",
+      "EntityName": "Intelligence targets - Copperbelt",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-07T17:30:30Z",
+      "Notes": "Intelligence gathering for counter-intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-21T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-27T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "052ece8a-059a-08ba-0924-0070cf82a124",
+      "EntityId": "04679d96-08e6-0e73-11c0-005b79d5fee1",
+      "EntityName": "Foreign entities - Nakonde",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-11-26T17:30:30Z",
+      "Notes": "Surveillance for national security verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-27T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-09T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "0216bded-0d59-217f-052e-008ff922e996",
+      "EntityId": "044220a2-0ed4-2280-0a73-00b4a355bcfa",
+      "EntityName": "Security threats - Livingstone",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-30T17:30:30Z",
+      "Notes": "Threat analysis for national security verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0103bdfe-1d81-1094-136f-0040da5827d1",
+      "EntityId": "03f8e188-12f5-1727-1350-007c73c6e824",
+      "EntityName": "Security threats - Nakonde",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-15T17:30:30Z",
+      "Notes": "Threat analysis for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02ad7edc-1ab5-17d3-1855-005248544429",
+      "EntityId": "02373725-2229-1e86-21f2-00e5cd0fb4aa",
+      "EntityName": "Intelligence targets - Nakonde",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-13T17:30:30Z",
+      "Notes": "Counter-intelligence for strategic intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-11T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01fedac0-0e5b-0e8c-0790-00304f3942b2",
+      "EntityId": "025c0d8e-06ef-204f-1c7e-0019727fb7c8",
+      "EntityName": "Foreign entities - border regions",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2026-01-09T17:30:30Z",
+      "Notes": "Intelligence gathering for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "039b4470-220a-10b8-2080-0078c5967e97",
+      "EntityId": "01d3e76b-24a5-1cf6-0dcf-00674a930881",
+      "EntityName": "Persons of interest - Livingstone",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-23T17:30:30Z",
+      "Notes": "Intelligence gathering for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02a18d46-1e85-0aae-0952-005764cb0401",
+      "EntityId": "019137b8-266e-0685-2584-0095e9fd698e",
+      "EntityName": "Intelligence targets - Copperbelt",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-10-28T17:30:30Z",
+      "Notes": "Intelligence gathering for strategic intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-14T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "018e28af-16c6-0fe5-2081-00e798ac6870",
+      "EntityId": "048fd7b9-1058-19d2-1aef-008fb8f32d4a",
+      "EntityName": "Persons of interest - Lusaka",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-30T17:30:30Z",
+      "Notes": "Counter-intelligence for counter-intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-28T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03cfa2ff-1ee3-24c3-1697-00ca5ad473b4",
+      "EntityId": "02fc253c-1a0e-0562-0ae7-00a052c8e4da",
+      "EntityName": "Intelligence targets - border regions",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-11-22T17:30:30Z",
+      "Notes": "Threat analysis for national security verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-26T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "05afb1a2-220c-06da-12af-00544b70173f",
+      "EntityId": "00c30f63-12bb-0cd9-1593-00caf9207ffd",
+      "EntityName": "Intelligence targets - border regions",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-10-29T17:30:30Z",
+      "Notes": "Intelligence gathering for strategic intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-22T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-28T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "05c22bc5-0682-0d0f-048b-0066808cf22a",
+      "EntityId": "04cd8afc-1eee-1e6b-19c0-0068376dc370",
+      "EntityName": "Persons of interest - Lusaka",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-12-05T17:30:30Z",
+      "Notes": "Security assessment for national security verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04ce3725-06fa-1eed-0980-00b31955bf5b",
+      "EntityId": "055b83f2-0abc-0ec9-21b1-00dfbbabf39a",
+      "EntityName": "Intelligence targets - Copperbelt",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-05T17:30:30Z",
+      "Notes": "Surveillance for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01d00e14-19ac-1bcf-26a3-003face4b98a",
+      "EntityId": "058ac672-0ea2-0571-1932-00933c1c1b63",
+      "EntityName": "Persons of interest - Livingstone",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-10-22T17:30:30Z",
+      "Notes": "Security assessment for national security verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-25T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "052cee29-1182-2092-2167-0023c47acccb",
+      "EntityId": "0385c224-17fd-2295-1095-00b3a97565d0",
+      "EntityName": "Persons of interest - Nakonde",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-10-27T17:30:30Z",
+      "Notes": "Security assessment for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01f38f6a-11ac-2620-0db5-0024ed606234",
+      "EntityId": "02dfde39-129d-163e-0de2-004d4e774a47",
+      "EntityName": "Security threats - Copperbelt",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-11-25T17:30:30Z",
+      "Notes": "Threat analysis for counter-intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "021ac90b-1ad2-04f1-0f06-004614c745bd",
+      "EntityId": "024f9b3a-2658-1351-04f5-007fb67b3f3d",
+      "EntityName": "Foreign entities - Livingstone",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2026-01-09T17:30:30Z",
+      "Notes": "Counter-intelligence for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-08T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "0483cbc1-0750-119a-0d61-00c62049be8e",
+      "EntityId": "041697e9-057d-1ee4-0602-008d4264cd65",
+      "EntityName": "Security threats - Nakonde",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-10T17:30:30Z",
+      "Notes": "Security assessment for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "021b48e4-0ec8-05a4-0d9b-005974c8c296",
+      "EntityId": "01dff4b8-0734-2465-20d3-00aadd449fc2",
+      "EntityName": "Intelligence targets - Livingstone",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-09T17:30:30Z",
+      "Notes": "Counter-intelligence for strategic intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "023c21e9-0d35-2103-1ad8-004319d66606",
+      "EntityId": "00caa3ab-24fa-1f0c-1c5d-001e2ec1c4f1",
+      "EntityName": "Intelligence targets - Livingstone",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-31T17:30:30Z",
+      "Notes": "Threat analysis for surveillance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-09T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "045c496a-108f-0789-1b26-008c8a94aff9",
+      "EntityId": "02080d66-10b5-11c3-0a31-00691a57ba99",
+      "EntityName": "Foreign entities - Lusaka",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-15T17:30:30Z",
+      "Notes": "Threat analysis for strategic intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-21T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "02d1a691-17a0-20ee-2597-00d1902cfe94",
+      "EntityId": "03914a9e-1a67-192d-1129-0074762bd19a",
+      "EntityName": "Intelligence targets - Copperbelt",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-11-19T17:30:30Z",
+      "Notes": "Intelligence gathering for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-29T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-16T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "02762704-06bc-19a0-1e90-003215c6f0ce",
+      "EntityId": "05d4d84b-234a-1e38-13b4-005a6d317c2e",
+      "EntityName": "Security threats - Copperbelt",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-10-23T17:30:30Z",
+      "Notes": "Threat analysis for counter-intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-31T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "030b2ff6-1264-21c4-1a23-0093474271aa",
+      "EntityId": "0150ea42-2143-0b6c-13aa-00d49b1b70bd",
+      "EntityName": "Persons of interest - Copperbelt",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-21T17:30:30Z",
+      "Notes": "Threat analysis for national security verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "00dd7f49-1178-11ad-1c02-00b67d0466ee",
+      "EntityId": "037cbfec-0e04-257f-1d5c-005d1c0fa1fe",
+      "EntityName": "Intelligence targets - Nakonde",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-21T17:30:30Z",
+      "Notes": "Intelligence gathering for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-10T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00f66937-2483-1d27-0e0b-00bff5f1ea37",
+      "EntityId": "03ef00ab-2186-1229-081e-0023353d5ca6",
+      "EntityName": "Intelligence targets - Lusaka",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-07T17:30:30Z",
+      "Notes": "Threat analysis for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-26T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01a2aef1-0fe9-0aca-07c8-00a158f188fe",
+      "EntityId": "01de66ee-1e12-1738-170e-00e0183e470f",
+      "EntityName": "Security threats - Copperbelt",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-29T17:30:30Z",
+      "Notes": "Counter-intelligence for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01c4add3-1b91-1e94-116d-006861018ccb",
+      "EntityId": "05d03d7e-0dda-09a0-2491-00342024e1f2",
+      "EntityName": "Intelligence targets - Nakonde",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-10-25T17:30:30Z",
+      "Notes": "Threat analysis for surveillance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-05T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-10T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-17T17:30:30Z"
+    },
+    {
+      "Id": "03103681-1e59-061a-208f-00a8462c76d1",
+      "EntityId": "01c16835-207e-0763-224f-00bd60029bac",
+      "EntityName": "Persons of interest - border regions",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-10T17:30:30Z",
+      "Notes": "Intelligence gathering for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "052ba95c-0a2c-1f7d-2561-0079ce5d4804",
+      "EntityId": "03d2f29f-116d-17a4-0bc8-004c4c3b831b",
+      "EntityName": "Persons of interest - border regions",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-16T17:30:30Z",
+      "Notes": "Security assessment for strategic intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-27T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-26T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03766241-0fd1-20a6-1762-009e247a6633",
+      "EntityId": "043cae00-0411-1b44-12d7-003dddb6f78e",
+      "EntityName": "Persons of interest - Livingstone",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-11T17:30:30Z",
+      "Notes": "Counter-intelligence for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-09T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "033767ae-0cbb-0c41-1b9e-0049b9f8951e",
+      "EntityId": "00dfba5a-118b-1b17-1306-00861bdb0ba2",
+      "EntityName": "Intelligence targets - Nakonde",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-10-22T17:30:30Z",
+      "Notes": "Counter-intelligence for national security verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-28T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04ed74a7-0621-1b34-071e-0094f330952e",
+      "EntityId": "00994f55-043c-24bd-23a3-00d0cf528347",
+      "EntityName": "Security threats - Livingstone",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-26T17:30:30Z",
+      "Notes": "Threat analysis for strategic intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-19T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "00b89481-0f90-1101-0f5e-00222229398e",
+      "EntityId": "019c7044-0f97-0fce-2656-00dbe1137f13",
+      "EntityName": "Persons of interest - Nakonde",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-18T17:30:30Z",
+      "Notes": "Intelligence gathering for surveillance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01649164-1d2d-19dd-1121-00ddae979c20",
+      "EntityId": "0516ae4b-0c35-2501-1dfc-007b25ac1291",
+      "EntityName": "Security threats - Livingstone",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2026-01-11T17:30:30Z",
+      "Notes": "Surveillance for strategic intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-13T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "05a3aa46-20e0-2230-0e66-005eb49fcb6f",
+      "EntityId": "05bb6e3e-1707-0827-178c-001a129a8a11",
+      "EntityName": "Foreign entities - Lusaka",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-07T17:30:30Z",
+      "Notes": "Counter-intelligence for strategic intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "016cebe7-17f2-0e73-1ea4-009e9acc1ec6",
+      "EntityId": "03efc188-058a-1553-173f-002c7c2783fd",
+      "EntityName": "Persons of interest - border regions",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-02T17:30:30Z",
+      "Notes": "Threat analysis for counter-intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0265ede9-061d-0be5-1ae1-00a23facacd8",
+      "EntityId": "053f5fa7-22ea-1f9d-1555-00ca41e053aa",
+      "EntityName": "Intelligence targets - Livingstone",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-04T17:30:30Z",
+      "Notes": "Security assessment for surveillance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-09T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-01T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01587da9-25be-1407-04c4-00dbfdd65380",
+      "EntityId": "05293d44-1d59-1a29-14f6-0057c99d7360",
+      "EntityName": "Security threats - Nakonde",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-13T17:30:30Z",
+      "Notes": "Threat analysis for strategic intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-08T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01237777-0d3b-128c-0a83-00912705d447",
+      "EntityId": "0264e278-078d-0bc6-190e-001e146b284c",
+      "EntityName": "Security threats - Nakonde",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-10T17:30:30Z",
+      "Notes": "Security assessment for counter-intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "02f8cd4e-1652-0d13-23ed-00d2ce03ed02",
+      "EntityId": "00c9d8af-217d-234d-091a-00a3e2883b67",
+      "EntityName": "Intelligence targets - Livingstone",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-31T17:30:30Z",
+      "Notes": "Surveillance for national security verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0369fe9a-1d87-0cf3-2057-00179ddd7f4c",
+      "EntityId": "03394885-1e9c-0e07-1c15-0064f425059e",
+      "EntityName": "Foreign entities - Livingstone",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-22T17:30:30Z",
+      "Notes": "Counter-intelligence for national security verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-23T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02b0aca4-12ab-1628-11d8-0055d9265cbf",
+      "EntityId": "04fb714b-0fe6-243b-2156-00c29c631a59",
+      "EntityName": "Security threats - Copperbelt",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-21T17:30:30Z",
+      "Notes": "Intelligence gathering for counter-intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-02T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "011a091e-0aff-13e6-1705-002137941566",
+      "EntityId": "05a9dc30-1c54-0bd6-20ce-00873e6c9e7b",
+      "EntityName": "Persons of interest - Livingstone",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-06T17:30:30Z",
+      "Notes": "Security assessment for national security verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "02f559cc-1319-12f4-0ada-00b1e15d2e26",
+      "EntityId": "021def07-2225-1d66-12e0-00bd6c0a23cf",
+      "EntityName": "Foreign entities - Copperbelt",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-22T17:30:30Z",
+      "Notes": "Surveillance for threat assessment verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-05T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0461e519-0994-0ab6-0ec3-001f3f13daa2",
+      "EntityId": "04e1e011-2333-0944-04a5-0082c238c674",
+      "EntityName": "Security threats - Copperbelt",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-19T17:30:30Z",
+      "Notes": "Intelligence gathering for surveillance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-31T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "023905b5-22f9-17b2-0ac1-00670985ab16",
+      "EntityId": "00f1b8c4-0da0-04fe-1b83-004ae9290e5c",
+      "EntityName": "Persons of interest - Lusaka",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-20T17:30:30Z",
+      "Notes": "Counter-intelligence for counter-intelligence verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "0240831e-0712-1d78-23eb-006caa436cfc",
+      "EntityId": "01ad2a63-1acb-1d73-08be-00b2460f5e0b",
+      "EntityName": "Persons of interest - Copperbelt",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-11-14T17:30:30Z",
+      "Notes": "Surveillance for surveillance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-23T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 12,
+    "Pending": 19,
+    "Failed": 19
+  }
+}

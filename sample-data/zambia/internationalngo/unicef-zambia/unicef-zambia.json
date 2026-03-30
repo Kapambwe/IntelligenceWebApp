@@ -1,0 +1,42 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "InternationalNGO",
+    "DisplayName": "UNICEF Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Promote transparency, expose corruption, and support civil society oversight of revenue and justice institutions.",
+    "TopPriorities": [
+      "Track public procurement and VAT refund transparency.",
+      "Mobilize citizen reporters to document suspicious public spending.",
+      "Push for stronger asset declaration laws and whistleblower protection."
+    ],
+    "ActiveOperations": [
+      "Integrity monitoring surveys assessing perceptions of institutional fairness.",
+      "Partnerships with media to surface corruption networks.",
+      "Legal aid for complainants preparing submissions to ACC and courts."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Released transparency report",
+        "Date": "2025-12-03T00:00:00Z",
+        "Summary": "Published findings on procurement processes and compliance gaps."
+      },
+      {
+        "Title": "Civic monitoring initiative",
+        "Date": "2025-10-20T00:00:00Z",
+        "Summary": "Organized community engagement to track government accountability."
+      }
+    ],
+    "KeyPartnerships": [
+      "Economic and Financial Crimes Court observers",
+      "Anti-Corruption Commission",
+      "Local NGOs and community organizations"
+    ],
+    "Metrics": {
+      "ReportsPublished": "12 reports this year",
+      "WhistleblowerCases": "25 active cases",
+      "CommunityPartners": "41 civic groups"
+    }
+  }
+]

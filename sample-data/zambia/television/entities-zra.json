@@ -1,0 +1,473 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "b1a2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "Name": "Mwila Chanda",
+      "Type": "Individual",
+      "Status": "Active",
+      "RiskScore": 22.5,
+      "CreatedAt": "2025-03-10T08:15:00Z",
+      "UpdatedAt": "2026-01-20T14:30:00Z"
+    },
+    {
+      "Id": "c2b3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+      "Name": "Natasha Mulenga",
+      "Type": "Individual",
+      "Status": "Active",
+      "RiskScore": 18.0,
+      "CreatedAt": "2025-04-05T09:00:00Z",
+      "UpdatedAt": "2026-01-18T11:45:00Z"
+    },
+    {
+      "Id": "d3c4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "Name": "Joseph Tembo",
+      "Type": "Individual",
+      "Status": "Investigation",
+      "RiskScore": 74.5,
+      "CreatedAt": "2025-06-12T10:30:00Z",
+      "UpdatedAt": "2026-02-01T09:00:00Z"
+    },
+    {
+      "Id": "e4d5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+      "Name": "Grace Phiri",
+      "Type": "Individual",
+      "Status": "Active",
+      "RiskScore": 15.0,
+      "CreatedAt": "2025-05-20T07:45:00Z",
+      "UpdatedAt": "2026-01-25T16:20:00Z"
+    },
+    {
+      "Id": "f5e6a7b8-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+      "Name": "Patrick Bwalya",
+      "Type": "Individual",
+      "Status": "Flagged",
+      "RiskScore": 82.0,
+      "CreatedAt": "2025-07-15T11:00:00Z",
+      "UpdatedAt": "2026-02-05T13:10:00Z"
+    },
+    {
+      "Id": "a6f7b8c9-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+      "Name": "Zambia Television Journalists Association",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 10.5,
+      "CreatedAt": "2025-02-01T08:00:00Z",
+      "UpdatedAt": "2026-01-10T10:00:00Z"
+    },
+    {
+      "Id": "b7a8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+      "Name": "Lusaka Broadcasting Holdings Ltd",
+      "Type": "Organization",
+      "Status": "UnderReview",
+      "RiskScore": 61.0,
+      "CreatedAt": "2025-08-22T14:00:00Z",
+      "UpdatedAt": "2026-02-03T08:30:00Z"
+    },
+    {
+      "Id": "c8b9d0e1-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+      "Name": "Chilufya Mumba",
+      "Type": "Individual",
+      "Status": "Active",
+      "RiskScore": 20.0,
+      "CreatedAt": "2025-04-18T06:30:00Z",
+      "UpdatedAt": "2026-01-28T15:00:00Z"
+    },
+    {
+      "Id": "d9c0e1f2-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+      "Name": "Martin Sakala",
+      "Type": "Individual",
+      "Status": "Cleared",
+      "RiskScore": 8.5,
+      "CreatedAt": "2025-01-15T09:15:00Z",
+      "UpdatedAt": "2025-11-30T12:00:00Z"
+    },
+    {
+      "Id": "e0d1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+      "Name": "Media Legal Defence Zambia",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 12.0,
+      "CreatedAt": "2025-03-01T08:00:00Z",
+      "UpdatedAt": "2026-01-15T09:45:00Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "b1a2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "Name": "Mwila Chanda",
+      "Type": "Individual",
+      "Status": "Active",
+      "RiskScore": 22.5,
+      "CreatedAt": "2025-03-10T08:15:00Z",
+      "UpdatedAt": "2026-01-20T14:30:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Cross-Border Filming Activity",
+          "Severity": "Low",
+          "Description": "Regular filming assignments in DRC and Tanzania border regions for documentary series"
+        },
+        {
+          "Name": "Government Source Contact",
+          "Severity": "Medium",
+          "Description": "Maintains confidential source relationships with senior government officials for investigative reports"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Full Name", "Value": "Mwila Chanda", "IsCore": true },
+        { "Name": "Occupation", "Value": "Senior Investigative Reporter - ZNBC TV", "IsCore": true },
+        { "Name": "Email", "Value": "mwila.chanda@znbc.co.zm", "IsCore": true },
+        { "Name": "Press Card Number", "Value": "ZAMJA-TV-2019-0342", "IsCore": false },
+        { "Name": "Broadcast Specialty", "Value": "Undercover Camera Investigations", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "PEP Screening",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-20T14:30:00Z",
+          "Details": "No politically exposed person matches found"
+        },
+        {
+          "ScreeningType": "Sanctions Check",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-20T14:35:00Z",
+          "Details": "Cleared against OFAC, EU, and UN sanctions lists"
+        }
+      ]
+    },
+    {
+      "Id": "c2b3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+      "Name": "Natasha Mulenga",
+      "Type": "Individual",
+      "Status": "Active",
+      "RiskScore": 18.0,
+      "CreatedAt": "2025-04-05T09:00:00Z",
+      "UpdatedAt": "2026-01-18T11:45:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Hidden Camera Equipment Usage",
+          "Severity": "Low",
+          "Description": "Licensed for covert recording equipment used in undercover TV investigations"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Full Name", "Value": "Natasha Mulenga", "IsCore": true },
+        { "Name": "Occupation", "Value": "Undercover Producer - Muvi TV", "IsCore": true },
+        { "Name": "Email", "Value": "natasha.mulenga@muvitv.co.zm", "IsCore": true },
+        { "Name": "Press Card Number", "Value": "ZAMJA-TV-2020-0518", "IsCore": false },
+        { "Name": "Broadcast Specialty", "Value": "Documentary Production & Undercover Operations", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "PEP Screening",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T11:45:00Z",
+          "Details": "No PEP matches identified"
+        },
+        {
+          "ScreeningType": "Media Adverse Check",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T11:50:00Z",
+          "Details": "No adverse media coverage found"
+        }
+      ]
+    },
+    {
+      "Id": "d3c4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "Name": "Joseph Tembo",
+      "Type": "Individual",
+      "Status": "Investigation",
+      "RiskScore": 74.5,
+      "CreatedAt": "2025-06-12T10:30:00Z",
+      "UpdatedAt": "2026-02-01T09:00:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Subject of Undercover Investigation",
+          "Severity": "High",
+          "Description": "Featured in Diamond TV undercover documentary exposing procurement fraud at a state-owned enterprise"
+        },
+        {
+          "Name": "Unexplained Wealth Indicators",
+          "Severity": "High",
+          "Description": "Visual evidence from surveillance footage shows assets inconsistent with declared income"
+        },
+        {
+          "Name": "Political Connections",
+          "Severity": "Medium",
+          "Description": "Documented connections to senior officials captured during covert filming operations"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Full Name", "Value": "Joseph Tembo", "IsCore": true },
+        { "Name": "Occupation", "Value": "Former Procurement Director - Zambia Electricity Supply Corporation", "IsCore": true },
+        { "Name": "National Registration Card", "Value": "142/67/1", "IsCore": true },
+        { "Name": "Investigation Reference", "Value": "DTV-INV-2025-0089", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "PEP Screening",
+          "HasMatch": true,
+          "CheckedAt": "2026-02-01T09:00:00Z",
+          "Details": "Identified as politically exposed through former government procurement role"
+        },
+        {
+          "ScreeningType": "Sanctions Check",
+          "HasMatch": false,
+          "CheckedAt": "2026-02-01T09:05:00Z",
+          "Details": "No current sanctions matches"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-02-01T09:10:00Z",
+          "Details": "Multiple broadcast news segments featuring subject in corruption allegations"
+        }
+      ]
+    },
+    {
+      "Id": "e4d5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+      "Name": "Grace Phiri",
+      "Type": "Individual",
+      "Status": "Active",
+      "RiskScore": 15.0,
+      "CreatedAt": "2025-05-20T07:45:00Z",
+      "UpdatedAt": "2026-01-25T16:20:00Z",
+      "RiskFactors": [
+        {
+          "Name": "International Travel for Investigations",
+          "Severity": "Low",
+          "Description": "Frequent travel to South Africa and Kenya for cross-border documentary collaborations"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Full Name", "Value": "Grace Phiri", "IsCore": true },
+        { "Name": "Occupation", "Value": "Camera Operator & Visual Evidence Analyst - Prime Television", "IsCore": true },
+        { "Name": "Email", "Value": "grace.phiri@primetv.co.zm", "IsCore": true },
+        { "Name": "Press Card Number", "Value": "ZAMJA-TV-2021-0691", "IsCore": false },
+        { "Name": "Broadcast Specialty", "Value": "Forensic Video Analysis & Satellite Uplink Operations", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "PEP Screening",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-25T16:20:00Z",
+          "Details": "No PEP connections found"
+        }
+      ]
+    },
+    {
+      "Id": "f5e6a7b8-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+      "Name": "Patrick Bwalya",
+      "Type": "Individual",
+      "Status": "Flagged",
+      "RiskScore": 82.0,
+      "CreatedAt": "2025-07-15T11:00:00Z",
+      "UpdatedAt": "2026-02-05T13:10:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Corruption Allegations",
+          "Severity": "High",
+          "Description": "Subject of ZNBC investigative documentary showing hidden camera footage of bribery solicitation"
+        },
+        {
+          "Name": "Shell Company Network",
+          "Severity": "High",
+          "Description": "Visual evidence analysis of corporate filings revealed network of shell companies linked to mining contracts"
+        },
+        {
+          "Name": "Witness Intimidation Reports",
+          "Severity": "Medium",
+          "Description": "Multiple journalists reported threats after broadcast of undercover footage implicating subject"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Full Name", "Value": "Patrick Bwalya", "IsCore": true },
+        { "Name": "Occupation", "Value": "Managing Director - Copperbelt Mining Ventures Ltd", "IsCore": true },
+        { "Name": "National Registration Card", "Value": "289/43/1", "IsCore": true },
+        { "Name": "Investigation Reference", "Value": "ZNBC-INV-2025-0156", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "PEP Screening",
+          "HasMatch": true,
+          "CheckedAt": "2026-02-05T13:10:00Z",
+          "Details": "Connected to politically exposed persons through mining license approvals"
+        },
+        {
+          "ScreeningType": "Sanctions Check",
+          "HasMatch": false,
+          "CheckedAt": "2026-02-05T13:15:00Z",
+          "Details": "No sanctions list matches"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-02-05T13:20:00Z",
+          "Details": "Subject of multiple broadcast investigations on ZNBC, Muvi TV, and Diamond TV"
+        }
+      ]
+    },
+    {
+      "Id": "a6f7b8c9-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+      "Name": "Zambia Television Journalists Association",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 10.5,
+      "CreatedAt": "2025-02-01T08:00:00Z",
+      "UpdatedAt": "2026-01-10T10:00:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Whistleblower Channel Operations",
+          "Severity": "Low",
+          "Description": "Operates secure digital submission portal for confidential visual evidence from sources"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Organization Name", "Value": "Zambia Television Journalists Association", "IsCore": true },
+        { "Name": "Registration Number", "Value": "NGO/ZM/2018/4421", "IsCore": true },
+        { "Name": "Address", "Value": "Mass Media Complex, Alick Nkhata Road, Lusaka", "IsCore": true },
+        { "Name": "Primary Activity", "Value": "Press Freedom Advocacy & Investigative Journalism Training", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Sanctions Check",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T10:00:00Z",
+          "Details": "Organization cleared against all sanctions databases"
+        }
+      ]
+    },
+    {
+      "Id": "b7a8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+      "Name": "Lusaka Broadcasting Holdings Ltd",
+      "Type": "Organization",
+      "Status": "UnderReview",
+      "RiskScore": 61.0,
+      "CreatedAt": "2025-08-22T14:00:00Z",
+      "UpdatedAt": "2026-02-03T08:30:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Opaque Ownership Structure",
+          "Severity": "High",
+          "Description": "Beneficial ownership chain involves offshore entities in Mauritius identified through documentary research"
+        },
+        {
+          "Name": "Political Advertising Payments",
+          "Severity": "Medium",
+          "Description": "Large undisclosed payments for political advertising flagged during broadcast license review"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Organization Name", "Value": "Lusaka Broadcasting Holdings Ltd", "IsCore": true },
+        { "Name": "PACRA Registration", "Value": "LBH/2019/00873", "IsCore": true },
+        { "Name": "Address", "Value": "Plot 4523 Addis Ababa Drive, Lusaka", "IsCore": true },
+        { "Name": "Sector", "Value": "Television Broadcasting & Media Production", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "PEP Screening",
+          "HasMatch": true,
+          "CheckedAt": "2026-02-03T08:30:00Z",
+          "Details": "Board members include individuals with political party affiliations"
+        },
+        {
+          "ScreeningType": "Sanctions Check",
+          "HasMatch": false,
+          "CheckedAt": "2026-02-03T08:35:00Z",
+          "Details": "No sanctions matches found"
+        }
+      ]
+    },
+    {
+      "Id": "c8b9d0e1-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+      "Name": "Chilufya Mumba",
+      "Type": "Individual",
+      "Status": "Active",
+      "RiskScore": 20.0,
+      "CreatedAt": "2025-04-18T06:30:00Z",
+      "UpdatedAt": "2026-01-28T15:00:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Sensitive Source Material Access",
+          "Severity": "Low",
+          "Description": "Handles classified visual evidence in studio post-production for investigative documentaries"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Full Name", "Value": "Chilufya Mumba", "IsCore": true },
+        { "Name": "Occupation", "Value": "Studio Production Manager - KNC TV", "IsCore": true },
+        { "Name": "Email", "Value": "chilufya.mumba@knctv.co.zm", "IsCore": true },
+        { "Name": "Press Card Number", "Value": "ZAMJA-TV-2022-0815", "IsCore": false },
+        { "Name": "Broadcast Specialty", "Value": "Studio Production & Post-Production Editing", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "PEP Screening",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-28T15:00:00Z",
+          "Details": "No PEP connections identified"
+        }
+      ]
+    },
+    {
+      "Id": "d9c0e1f2-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+      "Name": "Martin Sakala",
+      "Type": "Individual",
+      "Status": "Cleared",
+      "RiskScore": 8.5,
+      "CreatedAt": "2025-01-15T09:15:00Z",
+      "UpdatedAt": "2025-11-30T12:00:00Z",
+      "RiskFactors": [],
+      "Attributes": [
+        { "Name": "Full Name", "Value": "Martin Sakala", "IsCore": true },
+        { "Name": "Occupation", "Value": "Satellite Uplink Engineer - Chipata TV", "IsCore": true },
+        { "Name": "Email", "Value": "martin.sakala@chipatatv.co.zm", "IsCore": true },
+        { "Name": "Technical Certification", "Value": "VSAT-ZM-2023-0044", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "PEP Screening",
+          "HasMatch": false,
+          "CheckedAt": "2025-11-30T12:00:00Z",
+          "Details": "No matches"
+        },
+        {
+          "ScreeningType": "Sanctions Check",
+          "HasMatch": false,
+          "CheckedAt": "2025-11-30T12:05:00Z",
+          "Details": "Fully cleared"
+        }
+      ]
+    },
+    {
+      "Id": "e0d1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+      "Name": "Media Legal Defence Zambia",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 12.0,
+      "CreatedAt": "2025-03-01T08:00:00Z",
+      "UpdatedAt": "2026-01-15T09:45:00Z",
+      "RiskFactors": [
+        {
+          "Name": "International Funding Sources",
+          "Severity": "Low",
+          "Description": "Receives grants from international press freedom organizations for journalist legal defense"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Organization Name", "Value": "Media Legal Defence Zambia", "IsCore": true },
+        { "Name": "Registration Number", "Value": "NGO/ZM/2016/3198", "IsCore": true },
+        { "Name": "Address", "Value": "Stand 2376 Nationalist Road, Lusaka", "IsCore": true },
+        { "Name": "Primary Activity", "Value": "Legal Defense for Broadcast Journalists & Visual Evidence Admissibility", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Sanctions Check",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T09:45:00Z",
+          "Details": "No sanctions list matches found"
+        }
+      ]
+    }
+  ]
+}

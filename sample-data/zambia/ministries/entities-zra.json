@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "01c8b746-0628-236d-0763-002cd895a235",
+      "Name": "Suppliers - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 84,
+      "CreatedAt": "2025-08-19T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z"
+    },
+    {
+      "Id": "03ac2fee-1e49-197f-260c-005459621eae",
+      "Name": "Beneficiaries - Northern Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 46,
+      "CreatedAt": "2024-11-22T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "0160f63b-0ad4-074e-2252-00e383e0dea1",
+      "Name": "Suppliers - provincial offices",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 31,
+      "CreatedAt": "2024-02-14T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z"
+    },
+    {
+      "Id": "033503e0-0c52-14d4-111e-009713936925",
+      "Name": "Government departments - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2025-05-29T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z"
+    },
+    {
+      "Id": "05c97b6e-24f9-16d1-0c31-002ef202b69b",
+      "Name": "Contractors - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 78,
+      "CreatedAt": "2025-08-17T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "058dd9f6-1a18-206d-1493-0019c79e9e54",
+      "Name": "Government departments - Western Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 24,
+      "CreatedAt": "2024-11-10T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "03955eb5-206c-19d3-20e2-003d1e5c6e19",
+      "Name": "Government departments - Western Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 27,
+      "CreatedAt": "2023-11-24T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "01e067fd-160b-16d7-19c2-0091c1c22f4a",
+      "Name": "Beneficiaries - Copperbelt",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 81,
+      "CreatedAt": "2025-10-07T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "00d70d48-1e9f-14fb-215e-0065efcf2199",
+      "Name": "Suppliers - Western Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 23,
+      "CreatedAt": "2025-09-14T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "021ab5a9-2537-1076-268e-009b7fb054c3",
+      "Name": "Suppliers - provincial offices",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2024-07-24T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "00c8d577-1215-1a44-05ba-008e6457f5a1",
+      "Name": "Government departments - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 75,
+      "CreatedAt": "2025-04-29T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "02d3affb-1cfc-0caf-23b7-00c26a7973e6",
+      "Name": "Government departments - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 73,
+      "CreatedAt": "2023-11-23T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z"
+    },
+    {
+      "Id": "05874075-0992-25eb-0b2d-008ce9b43df4",
+      "Name": "Beneficiaries - Northern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 99,
+      "CreatedAt": "2025-07-04T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "00a45f67-1f4b-1287-1003-008fd47c466e",
+      "Name": "Contractors - Western Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 30,
+      "CreatedAt": "2024-06-13T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z"
+    },
+    {
+      "Id": "044f07df-2387-1e80-10df-00512b0c82d3",
+      "Name": "Beneficiaries - Copperbelt",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 29,
+      "CreatedAt": "2025-08-24T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "047596eb-25b1-1097-1735-00d01a084ab6",
+      "Name": "Beneficiaries - Western Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2024-10-14T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "026f42e3-07af-1129-07c1-003936344770",
+      "Name": "Government departments - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 80,
+      "CreatedAt": "2025-06-07T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "0252649c-123a-1365-1421-0081dee7d283",
+      "Name": "Government departments - provincial offices",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 86,
+      "CreatedAt": "2024-09-26T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z"
+    },
+    {
+      "Id": "03a71e39-231b-262f-14ca-00c792f3f334",
+      "Name": "Contractors - Western Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 77,
+      "CreatedAt": "2025-03-02T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "05a51206-226e-096d-24d3-009ba7fde789",
+      "Name": "Government departments - provincial offices",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 95,
+      "CreatedAt": "2024-07-01T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z"
+    },
+    {
+      "Id": "052d787d-04c4-1dfa-0930-002c91fef60e",
+      "Name": "Government departments - Copperbelt",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 72,
+      "CreatedAt": "2025-01-09T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "04c9eb47-1336-14a3-15d6-00a19773a445",
+      "Name": "Contractors - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 63,
+      "CreatedAt": "2025-01-08T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "0328473a-188d-2448-09a9-001a0a4eec02",
+      "Name": "Beneficiaries - provincial offices",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 58,
+      "CreatedAt": "2025-01-21T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "01782d69-1dd8-1164-2131-005b57d8ce16",
+      "Name": "Contractors - Copperbelt",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 24,
+      "CreatedAt": "2024-04-15T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "0214f2a6-0615-26d5-13a8-00c88f97b65b",
+      "Name": "Suppliers - Copperbelt",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 48,
+      "CreatedAt": "2025-08-08T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "03b991d0-16bb-2620-1055-002727086524",
+      "Name": "Suppliers - provincial offices",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 77,
+      "CreatedAt": "2025-03-14T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "0318ee47-0d7e-1324-2418-00dcf7030d10",
+      "Name": "Suppliers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 68,
+      "CreatedAt": "2023-12-03T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "04cbaab9-1a9d-1eb0-24e6-00784ad090b2",
+      "Name": "Government departments - provincial offices",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 79,
+      "CreatedAt": "2024-05-16T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "01d48cac-0754-0edf-18ea-00e5b6b247ab",
+      "Name": "Beneficiaries - provincial offices",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2025-05-20T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "02796718-1a07-1134-1b61-004201965483",
+      "Name": "Government departments - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 24,
+      "CreatedAt": "2024-06-04T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "05a28415-0e62-24dc-0b49-0099a4a0364d",
+      "Name": "Beneficiaries - Western Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 85,
+      "CreatedAt": "2025-01-15T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "01ad9433-0c9b-1406-1fa0-0037d77269de",
+      "Name": "Government departments - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 30,
+      "CreatedAt": "2025-08-30T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "02e3835f-1184-24a8-1a20-00cbf3188fa2",
+      "Name": "Contractors - Western Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 20,
+      "CreatedAt": "2025-01-04T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "056f390f-24d5-10a9-1198-003504e0b288",
+      "Name": "Government departments - provincial offices",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 46,
+      "CreatedAt": "2024-03-04T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "0460a550-1180-09a8-0b42-00db4dc171d0",
+      "Name": "Suppliers - Northern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 41,
+      "CreatedAt": "2025-01-02T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "033a7029-11da-2335-0fba-0090fb8437b5",
+      "Name": "Suppliers - Copperbelt",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2024-05-14T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z"
+    },
+    {
+      "Id": "04e51a2d-1f09-114d-072b-00bade16f1b7",
+      "Name": "Beneficiaries - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 81,
+      "CreatedAt": "2025-08-08T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "00ca42f0-2524-0b94-08ea-009a6550e0b9",
+      "Name": "Beneficiaries - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 48,
+      "CreatedAt": "2024-01-23T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "02e709ec-1f6b-1077-2680-00d9fe6ab002",
+      "Name": "Beneficiaries - provincial offices",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 61,
+      "CreatedAt": "2024-02-27T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "0345cb88-22dc-17e3-258d-00442f74e859",
+      "Name": "Suppliers - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 53,
+      "CreatedAt": "2025-01-02T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "05d85eda-0d6e-2533-0e6e-0034f70fec95",
+      "Name": "Government departments - Copperbelt",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 97,
+      "CreatedAt": "2025-09-14T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "0194ee18-25bf-04d8-0e81-0029b802018f",
+      "Name": "Beneficiaries - Copperbelt",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 44,
+      "CreatedAt": "2024-06-12T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "010940d5-0f47-15fd-269a-002dcefdc144",
+      "Name": "Suppliers - provincial offices",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 28,
+      "CreatedAt": "2025-09-02T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "05c7a73e-1431-0648-0d93-0027084092de",
+      "Name": "Beneficiaries - provincial offices",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 84,
+      "CreatedAt": "2025-02-24T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "04a0bad2-1fa5-1f9f-0760-002f6cc608b8",
+      "Name": "Contractors - provincial offices",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 51,
+      "CreatedAt": "2024-11-25T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "04bf8554-07b5-1f9b-1f01-00b632c73f1d",
+      "Name": "Beneficiaries - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 20,
+      "CreatedAt": "2024-02-08T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z"
+    },
+    {
+      "Id": "024f1699-1601-1ed3-1c1a-00d7f21ac5f8",
+      "Name": "Contractors - Western Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 76,
+      "CreatedAt": "2025-07-17T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "0528b42a-2298-236d-07c1-00c89c1df4aa",
+      "Name": "Beneficiaries - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 58,
+      "CreatedAt": "2023-12-07T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z"
+    },
+    {
+      "Id": "01e53a6a-252f-0ce4-2099-009eeb72594b",
+      "Name": "Government departments - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 49,
+      "CreatedAt": "2025-01-17T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "041a86b6-1c27-0e8a-1eed-0095f0b514fc",
+      "Name": "Government departments - provincial offices",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 96,
+      "CreatedAt": "2025-02-06T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "01c8b746-0628-236d-0763-002cd895a235",
+      "Name": "Suppliers - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 84,
+      "CreatedAt": "2025-08-19T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2026-1133",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "budget execution",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Western Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 38
+        },
+        {
+          "Name": "Policy compliance",
+          "Severity": "High",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03ac2fee-1e49-197f-260c-005459621eae",
+      "Name": "Beneficiaries - Northern Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 46,
+      "CreatedAt": "2024-11-22T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2024-6047",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy compliance",
+          "Severity": "Low",
+          "Score": 19
+        },
+        {
+          "Name": "Policy compliance",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0160f63b-0ad4-074e-2252-00e383e0dea1",
+      "Name": "Suppliers - provincial offices",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 31,
+      "CreatedAt": "2024-02-14T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2020-4075",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Low",
+          "Score": 40
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "033503e0-0c52-14d4-111e-009713936925",
+      "Name": "Government departments - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2025-05-29T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2024-3761",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Northern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy compliance",
+          "Severity": "Critical",
+          "Score": 45
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05c97b6e-24f9-16d1-0c31-002ef202b69b",
+      "Name": "Contractors - Copperbelt",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 78,
+      "CreatedAt": "2025-08-17T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2022-3811",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "budget execution",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Low",
+          "Score": 38
+        },
+        {
+          "Name": "Public procurement",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "058dd9f6-1a18-206d-1493-0019c79e9e54",
+      "Name": "Government departments - Western Province",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 24,
+      "CreatedAt": "2024-11-10T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2025-4573",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public procurement",
+          "Severity": "Medium",
+          "Score": 14
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03955eb5-206c-19d3-20e2-003d1e5c6e19",
+      "Name": "Government departments - Western Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 27,
+      "CreatedAt": "2023-11-24T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2024-4552",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "budget execution",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Budget execution",
+          "Severity": "Low",
+          "Score": 15
+        },
+        {
+          "Name": "Policy compliance",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e067fd-160b-16d7-19c2-0091c1c22f4a",
+      "Name": "Beneficiaries - Copperbelt",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 81,
+      "CreatedAt": "2025-10-07T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2021-3102",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "budget execution",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Western Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Budget execution",
+          "Severity": "Medium",
+          "Score": 45
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Critical",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00d70d48-1e9f-14fb-215e-0065efcf2199",
+      "Name": "Suppliers - Western Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 23,
+      "CreatedAt": "2025-09-14T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2020-9114",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public procurement",
+          "Severity": "Medium",
+          "Score": 37
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "021ab5a9-2537-1076-268e-009b7fb054c3",
+      "Name": "Suppliers - provincial offices",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 25,
+      "CreatedAt": "2024-07-24T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2025-6796",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Northern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy compliance",
+          "Severity": "High",
+          "Score": 21
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00c8d577-1215-1a44-05ba-008e6457f5a1",
+      "Name": "Government departments - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 75,
+      "CreatedAt": "2025-04-29T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2023-9894",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public procurement",
+          "Severity": "High",
+          "Score": 17
+        },
+        {
+          "Name": "Public procurement",
+          "Severity": "High",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02d3affb-1cfc-0caf-23b7-00c26a7973e6",
+      "Name": "Government departments - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 73,
+      "CreatedAt": "2023-11-23T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2023-6932",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "provincial offices",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy compliance",
+          "Severity": "Low",
+          "Score": 10
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05874075-0992-25eb-0b2d-008ce9b43df4",
+      "Name": "Beneficiaries - Northern Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 99,
+      "CreatedAt": "2025-07-04T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2026-1288",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "budget execution",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Northern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Budget execution",
+          "Severity": "Critical",
+          "Score": 29
+        },
+        {
+          "Name": "Policy compliance",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a45f67-1f4b-1287-1003-008fd47c466e",
+      "Name": "Contractors - Western Province",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 30,
+      "CreatedAt": "2024-06-13T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2026-4017",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Program implementation",
+          "Severity": "Critical",
+          "Score": 21
+        },
+        {
+          "Name": "Budget execution",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "044f07df-2387-1e80-10df-00512b0c82d3",
+      "Name": "Beneficiaries - Copperbelt",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 29,
+      "CreatedAt": "2025-08-24T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2023-1987",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Western Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public procurement",
+          "Severity": "Critical",
+          "Score": 38
+        },
+        {
+          "Name": "Public procurement",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "047596eb-25b1-1097-1735-00d01a084ab6",
+      "Name": "Beneficiaries - Western Province",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 31,
+      "CreatedAt": "2024-10-14T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2020-1598",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "budget execution",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Western Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Budget execution",
+          "Severity": "Critical",
+          "Score": 45
+        },
+        {
+          "Name": "Budget execution",
+          "Severity": "Critical",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "026f42e3-07af-1129-07c1-003936344770",
+      "Name": "Government departments - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 80,
+      "CreatedAt": "2025-06-07T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2021-9217",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "provincial offices",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 24
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0252649c-123a-1365-1421-0081dee7d283",
+      "Name": "Government departments - provincial offices",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 86,
+      "CreatedAt": "2024-09-26T17:30:31Z",
+      "UpdatedAt": "2025-12-27T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2023-5659",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "budget execution",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "provincial offices",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public procurement",
+          "Severity": "Low",
+          "Score": 17
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03a71e39-231b-262f-14ca-00c792f3f334",
+      "Name": "Contractors - Western Province",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 77,
+      "CreatedAt": "2025-03-02T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2024-8452",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "provincial offices",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy compliance",
+          "Severity": "Medium",
+          "Score": 11
+        },
+        {
+          "Name": "Budget execution",
+          "Severity": "Critical",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05a51206-226e-096d-24d3-009ba7fde789",
+      "Name": "Government departments - provincial offices",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 95,
+      "CreatedAt": "2024-07-01T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2021-7120",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy compliance",
+          "Severity": "Low",
+          "Score": 28
+        },
+        {
+          "Name": "Policy compliance",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "052d787d-04c4-1dfa-0930-002c91fef60e",
+      "Name": "Government departments - Copperbelt",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 72,
+      "CreatedAt": "2025-01-09T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2024-9363",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Budget execution",
+          "Severity": "Critical",
+          "Score": 14
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04c9eb47-1336-14a3-15d6-00a19773a445",
+      "Name": "Contractors - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 63,
+      "CreatedAt": "2025-01-08T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2020-8641",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public procurement",
+          "Severity": "Low",
+          "Score": 30
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0328473a-188d-2448-09a9-001a0a4eec02",
+      "Name": "Beneficiaries - provincial offices",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 58,
+      "CreatedAt": "2025-01-21T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2026-7804",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "provincial offices",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy compliance",
+          "Severity": "Critical",
+          "Score": 20
+        },
+        {
+          "Name": "Budget execution",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01782d69-1dd8-1164-2131-005b57d8ce16",
+      "Name": "Contractors - Copperbelt",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 24,
+      "CreatedAt": "2024-04-15T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2020-1968",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Western Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Budget execution",
+          "Severity": "Medium",
+          "Score": 41
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0214f2a6-0615-26d5-13a8-00c88f97b65b",
+      "Name": "Suppliers - Copperbelt",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 48,
+      "CreatedAt": "2025-08-08T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2023-1304",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Western Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Critical",
+          "Score": 25
+        },
+        {
+          "Name": "Budget execution",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03b991d0-16bb-2620-1055-002727086524",
+      "Name": "Suppliers - provincial offices",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 77,
+      "CreatedAt": "2025-03-14T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2024-2969",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "budget execution",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "High",
+          "Score": 39
+        },
+        {
+          "Name": "Public procurement",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0318ee47-0d7e-1324-2418-00dcf7030d10",
+      "Name": "Suppliers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 68,
+      "CreatedAt": "2023-12-03T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2025-2150",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "provincial offices",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Program implementation",
+          "Severity": "High",
+          "Score": 23
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04cbaab9-1a9d-1eb0-24e6-00784ad090b2",
+      "Name": "Government departments - provincial offices",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 79,
+      "CreatedAt": "2024-05-16T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2021-7021",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "provincial offices",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public procurement",
+          "Severity": "Critical",
+          "Score": 26
+        },
+        {
+          "Name": "Policy compliance",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01d48cac-0754-0edf-18ea-00e5b6b247ab",
+      "Name": "Beneficiaries - provincial offices",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2025-05-20T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2020-8660",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy compliance",
+          "Severity": "Critical",
+          "Score": 20
+        },
+        {
+          "Name": "Public procurement",
+          "Severity": "Medium",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02796718-1a07-1134-1b61-004201965483",
+      "Name": "Government departments - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 24,
+      "CreatedAt": "2024-06-04T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2026-7511",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Western Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Budget execution",
+          "Severity": "Medium",
+          "Score": 12
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "High",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05a28415-0e62-24dc-0b49-0099a4a0364d",
+      "Name": "Beneficiaries - Western Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 85,
+      "CreatedAt": "2025-01-15T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2020-8379",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Critical",
+          "Score": 26
+        },
+        {
+          "Name": "Budget execution",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01ad9433-0c9b-1406-1fa0-0037d77269de",
+      "Name": "Government departments - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 30,
+      "CreatedAt": "2025-08-30T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2025-4895",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "provincial offices",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Budget execution",
+          "Severity": "High",
+          "Score": 10
+        },
+        {
+          "Name": "Budget execution",
+          "Severity": "High",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02e3835f-1184-24a8-1a20-00cbf3188fa2",
+      "Name": "Contractors - Western Province",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 20,
+      "CreatedAt": "2025-01-04T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2024-5492",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "public procurement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "provincial offices",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public procurement",
+          "Severity": "Low",
+          "Score": 23
+        },
+        {
+          "Name": "Budget execution",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "056f390f-24d5-10a9-1198-003504e0b288",
+      "Name": "Government departments - provincial offices",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 46,
+      "CreatedAt": "2024-03-04T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2024-7246",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Program implementation",
+          "Severity": "Critical",
+          "Score": 31
+        },
+        {
+          "Name": "Public procurement",
+          "Severity": "Critical",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0460a550-1180-09a8-0b42-00db4dc171d0",
+      "Name": "Suppliers - Northern Province",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 41,
+      "CreatedAt": "2025-01-02T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2022-3184",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy compliance",
+          "Severity": "Low",
+          "Score": 21
+        },
+        {
+          "Name": "Budget execution",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "033a7029-11da-2335-0fba-0090fb8437b5",
+      "Name": "Suppliers - Copperbelt",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2024-05-14T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2021-1430",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Western Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Budget execution",
+          "Severity": "High",
+          "Score": 40
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04e51a2d-1f09-114d-072b-00bade16f1b7",
+      "Name": "Beneficiaries - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 81,
+      "CreatedAt": "2025-08-08T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2023-5567",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Western Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Program implementation",
+          "Severity": "High",
+          "Score": 41
+        },
+        {
+          "Name": "Budget execution",
+          "Severity": "Medium",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00ca42f0-2524-0b94-08ea-009a6550e0b9",
+      "Name": "Beneficiaries - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 48,
+      "CreatedAt": "2024-01-23T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2023-7235",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Budget execution",
+          "Severity": "Critical",
+          "Score": 44
+        },
+        {
+          "Name": "Policy compliance",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02e709ec-1f6b-1077-2680-00d9fe6ab002",
+      "Name": "Beneficiaries - provincial offices",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 61,
+      "CreatedAt": "2024-02-27T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2023-2366",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public procurement",
+          "Severity": "Medium",
+          "Score": 18
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Medium",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0345cb88-22dc-17e3-258d-00442f74e859",
+      "Name": "Suppliers - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 53,
+      "CreatedAt": "2025-01-02T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2024-9387",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Program implementation",
+          "Severity": "Medium",
+          "Score": 27
+        },
+        {
+          "Name": "Public procurement",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d85eda-0d6e-2533-0e6e-0034f70fec95",
+      "Name": "Government departments - Copperbelt",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 97,
+      "CreatedAt": "2025-09-14T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2026-3075",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Budget execution",
+          "Severity": "Low",
+          "Score": 34
+        },
+        {
+          "Name": "Budget execution",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0194ee18-25bf-04d8-0e81-0029b802018f",
+      "Name": "Beneficiaries - Copperbelt",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 44,
+      "CreatedAt": "2024-06-12T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2020-2441",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "budget execution",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "provincial offices",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public procurement",
+          "Severity": "Critical",
+          "Score": 31
+        },
+        {
+          "Name": "Policy compliance",
+          "Severity": "Medium",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "010940d5-0f47-15fd-269a-002dcefdc144",
+      "Name": "Suppliers - provincial offices",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 28,
+      "CreatedAt": "2025-09-02T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2025-6371",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "budget execution",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy compliance",
+          "Severity": "High",
+          "Score": 43
+        },
+        {
+          "Name": "Policy compliance",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05c7a73e-1431-0648-0d93-0027084092de",
+      "Name": "Beneficiaries - provincial offices",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 84,
+      "CreatedAt": "2025-02-24T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2022-2626",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Program implementation",
+          "Severity": "High",
+          "Score": 19
+        },
+        {
+          "Name": "Service delivery",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04a0bad2-1fa5-1f9f-0760-002f6cc608b8",
+      "Name": "Contractors - provincial offices",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 51,
+      "CreatedAt": "2024-11-25T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2020-2675",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "policy compliance",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public procurement",
+          "Severity": "Critical",
+          "Score": 16
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Medium",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04bf8554-07b5-1f9b-1f01-00b632c73f1d",
+      "Name": "Beneficiaries - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 20,
+      "CreatedAt": "2024-02-08T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2021-2422",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "budget execution",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Northern Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Budget execution",
+          "Severity": "Medium",
+          "Score": 34
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "High",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "024f1699-1601-1ed3-1c1a-00d7f21ac5f8",
+      "Name": "Contractors - Western Province",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 76,
+      "CreatedAt": "2025-07-17T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2022-8466",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Copperbelt",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Policy compliance",
+          "Severity": "Medium",
+          "Score": 10
+        },
+        {
+          "Name": "Program implementation",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0528b42a-2298-236d-07c1-00c89c1df4aa",
+      "Name": "Beneficiaries - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 58,
+      "CreatedAt": "2023-12-07T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2020-9246",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "service delivery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "provincial offices",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Public procurement",
+          "Severity": "Critical",
+          "Score": 12
+        },
+        {
+          "Name": "Budget execution",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e53a6a-252f-0ce4-2099-009eeb72594b",
+      "Name": "Government departments - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 49,
+      "CreatedAt": "2025-01-17T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2022-6867",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "provincial offices",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Critical",
+          "Score": 15
+        },
+        {
+          "Name": "Policy compliance",
+          "Severity": "Medium",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "041a86b6-1c27-0e8a-1eed-0095f0b514fc",
+      "Name": "Government departments - provincial offices",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 96,
+      "CreatedAt": "2025-02-06T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "GOV-2025-8775",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "program implementation",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Western Province",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Government Ministries",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Service delivery",
+          "Severity": "Medium",
+          "Score": 33
+        },
+        {
+          "Name": "Public procurement",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    }
+  ]
+}

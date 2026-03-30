@@ -1,0 +1,3457 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "0358be4b-13d5-04a7-07c8-0069d86743f3",
+      "Name": "Suspicious persons - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 89,
+      "CreatedAt": "2024-08-20T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z"
+    },
+    {
+      "Id": "02de303d-16f9-0c08-0a79-009cc0b4d8b8",
+      "Name": "Shell companies - Chirundu",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 43,
+      "CreatedAt": "2024-09-26T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "050a1467-10e7-1957-048d-009ecffe84be",
+      "Name": "Financial institutions - Chirundu",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 73,
+      "CreatedAt": "2024-06-14T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "0312dbb0-19cc-0599-077f-005434d9bad1",
+      "Name": "Reporting entities - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 90,
+      "CreatedAt": "2024-05-19T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "057dc4f0-1dc4-0b6b-0756-00cf51060a40",
+      "Name": "Shell companies - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 89,
+      "CreatedAt": "2025-08-02T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "04797e77-10e6-0dfe-228c-003bae4a37f1",
+      "Name": "Financial institutions - Chirundu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 95,
+      "CreatedAt": "2023-12-07T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "020398ce-13ad-24be-1fb9-003a046ae058",
+      "Name": "Shell companies - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 76,
+      "CreatedAt": "2025-03-22T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "03c7a8e6-100a-0fc1-20ff-00213a913834",
+      "Name": "Reporting entities - Chirundu",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 23,
+      "CreatedAt": "2025-05-05T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "038e5ab2-2082-09ba-1c2f-00dd8eb19ce4",
+      "Name": "Shell companies - Chirundu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 65,
+      "CreatedAt": "2024-04-08T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "039b1629-11ec-194f-0d2a-00b35a82783c",
+      "Name": "Reporting entities - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 91,
+      "CreatedAt": "2025-05-01T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "051a678b-0bcd-19c2-0466-00884afe7c08",
+      "Name": "Financial institutions - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 78,
+      "CreatedAt": "2024-10-03T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z"
+    },
+    {
+      "Id": "034132f3-264b-24f0-0d37-006c0057e07b",
+      "Name": "Reporting entities - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 68,
+      "CreatedAt": "2024-07-14T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "01185c8b-270a-2165-2216-004eb35f87ae",
+      "Name": "Reporting entities - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2024-06-29T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "056629c7-0f20-2431-17b4-00cf5f36a563",
+      "Name": "Shell companies - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 34,
+      "CreatedAt": "2024-10-21T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "00f1dfc2-1e44-10c3-0d7c-006f09bfffd1",
+      "Name": "Suspicious persons - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 97,
+      "CreatedAt": "2024-02-16T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "043abd83-1302-21fa-1f85-0058dcdee5d5",
+      "Name": "Financial institutions - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 63,
+      "CreatedAt": "2025-07-03T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "04c0f963-120a-07c6-03f7-004e1b2d6e93",
+      "Name": "Financial institutions - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 38,
+      "CreatedAt": "2024-01-14T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "03ed8022-1b3e-19ba-1198-0089fc73f503",
+      "Name": "Financial institutions - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 50,
+      "CreatedAt": "2024-07-17T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "01252f83-17c8-1415-13fe-00334f10e033",
+      "Name": "Financial institutions - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 83,
+      "CreatedAt": "2024-12-04T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z"
+    },
+    {
+      "Id": "02872e90-234d-0de8-05d1-009e81341fb7",
+      "Name": "Shell companies - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 39,
+      "CreatedAt": "2025-09-17T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "022764bb-1454-0bcc-23df-005ce5808861",
+      "Name": "Shell companies - Chirundu",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 50,
+      "CreatedAt": "2024-01-13T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "05bdab0a-0cc0-1d9c-1bdb-00355d59cf30",
+      "Name": "Suspicious persons - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 59,
+      "CreatedAt": "2024-12-17T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "00a8bf2c-1e41-12f8-152a-00b07286d061",
+      "Name": "Financial institutions - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 98,
+      "CreatedAt": "2024-11-24T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "02adde7e-17df-12a7-1112-00a1e7c25f36",
+      "Name": "Suspicious persons - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 53,
+      "CreatedAt": "2025-08-06T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "025bcd92-1127-152f-2534-004cef9425fc",
+      "Name": "Reporting entities - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 30,
+      "CreatedAt": "2025-08-02T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "00c0865b-1f24-100e-1a3c-001faf431b62",
+      "Name": "Shell companies - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 99,
+      "CreatedAt": "2025-08-18T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "0331a645-0d2e-04e5-1c05-00188f23c24b",
+      "Name": "Suspicious persons - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 62,
+      "CreatedAt": "2025-08-26T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "04500736-0825-08cc-1f4c-003e4614fd31",
+      "Name": "Financial institutions - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2024-06-08T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "03432771-13e4-18cb-1b4d-009580166850",
+      "Name": "Suspicious persons - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 87,
+      "CreatedAt": "2024-05-03T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "0429e5b5-06f6-05fe-07ea-00afde8c44e3",
+      "Name": "Financial institutions - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 34,
+      "CreatedAt": "2025-07-02T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "037ee6be-17d0-1da2-2689-001b92112136",
+      "Name": "Shell companies - Chirundu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 79,
+      "CreatedAt": "2025-08-17T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "018ad188-18a7-1583-0d44-006d6510a038",
+      "Name": "Financial institutions - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 96,
+      "CreatedAt": "2024-12-21T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "02138809-2082-12d6-070d-004a03c9ea80",
+      "Name": "Shell companies - Chirundu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 42,
+      "CreatedAt": "2025-01-07T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "01223c83-1e01-1609-1577-00a2acf76f00",
+      "Name": "Suspicious persons - Chirundu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 22,
+      "CreatedAt": "2025-03-10T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "05b6831f-08e8-1a59-206a-007c48b867a9",
+      "Name": "Shell companies - Chirundu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 25,
+      "CreatedAt": "2024-10-25T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "00c5ed95-1c47-0e2f-1853-0049c46dce18",
+      "Name": "Shell companies - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 63,
+      "CreatedAt": "2025-01-15T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "03460842-07bf-0b7f-072e-0096e9e6afe0",
+      "Name": "Shell companies - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 64,
+      "CreatedAt": "2025-05-02T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "0540c13e-090e-09a7-267e-009cacd6dbb7",
+      "Name": "Shell companies - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 39,
+      "CreatedAt": "2025-09-14T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "041da781-04f3-1022-0b91-00595f225e2d",
+      "Name": "Financial institutions - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 25,
+      "CreatedAt": "2024-05-31T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    },
+    {
+      "Id": "04a011e9-0962-1268-0f32-0058854ef32e",
+      "Name": "Shell companies - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 75,
+      "CreatedAt": "2024-05-14T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "045c864f-185a-1705-0608-00e1cbce4cc7",
+      "Name": "Financial institutions - Chirundu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 87,
+      "CreatedAt": "2024-09-05T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "00c74cde-1b5e-1b53-1748-00c1453327a4",
+      "Name": "Suspicious persons - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 90,
+      "CreatedAt": "2024-07-21T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "03eb1160-0abc-1d43-2008-00718b092462",
+      "Name": "Reporting entities - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 62,
+      "CreatedAt": "2024-10-29T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "025018a7-0568-1cb4-2163-0078031deeb1",
+      "Name": "Shell companies - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 61,
+      "CreatedAt": "2024-03-22T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "0401e8b8-1922-16b3-0b57-002f1d7f5ada",
+      "Name": "Suspicious persons - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 45,
+      "CreatedAt": "2024-11-19T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z"
+    },
+    {
+      "Id": "034c077d-09c1-0441-25ee-00de2913be75",
+      "Name": "Reporting entities - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 22,
+      "CreatedAt": "2025-10-03T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z"
+    },
+    {
+      "Id": "046fbefa-1c74-0632-26e5-00a8056ac978",
+      "Name": "Reporting entities - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 79,
+      "CreatedAt": "2024-04-21T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "0204ab52-1662-228d-13c2-00677e95fbcc",
+      "Name": "Reporting entities - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 94,
+      "CreatedAt": "2025-01-16T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "050ce755-1db5-0fab-0e43-00b48ffa1585",
+      "Name": "Suspicious persons - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 29,
+      "CreatedAt": "2024-03-25T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "0311a9dd-1ef3-253e-07bc-0062f49164cd",
+      "Name": "Reporting entities - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 44,
+      "CreatedAt": "2024-07-13T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "0358be4b-13d5-04a7-07c8-0069d86743f3",
+      "Name": "Suspicious persons - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 89,
+      "CreatedAt": "2024-08-20T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2026-1469",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "terrorism financing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Low",
+          "Score": 21
+        },
+        {
+          "Name": "Str analysis",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02de303d-16f9-0c08-0a79-009cc0b4d8b8",
+      "Name": "Shell companies - Chirundu",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 43,
+      "CreatedAt": "2024-09-26T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2025-7896",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "STR analysis",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Str analysis",
+          "Severity": "Medium",
+          "Score": 10
+        },
+        {
+          "Name": "Suspicious transactions",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "050a1467-10e7-1957-048d-009ecffe84be",
+      "Name": "Financial institutions - Chirundu",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 73,
+      "CreatedAt": "2024-06-14T17:30:30Z",
+      "UpdatedAt": "2026-01-05T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2020-7270",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "money laundering",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Critical",
+          "Score": 17
+        },
+        {
+          "Name": "Money laundering",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0312dbb0-19cc-0599-077f-005434d9bad1",
+      "Name": "Reporting entities - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 90,
+      "CreatedAt": "2024-05-19T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2026-6528",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "money laundering",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Money laundering",
+          "Severity": "Critical",
+          "Score": 36
+        },
+        {
+          "Name": "Money laundering",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "057dc4f0-1dc4-0b6b-0756-00cf51060a40",
+      "Name": "Shell companies - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 89,
+      "CreatedAt": "2025-08-02T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2023-4221",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "suspicious transactions",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial crime",
+          "Severity": "Low",
+          "Score": 10
+        },
+        {
+          "Name": "Financial crime",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04797e77-10e6-0dfe-228c-003bae4a37f1",
+      "Name": "Financial institutions - Chirundu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 95,
+      "CreatedAt": "2023-12-07T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2024-1753",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "STR analysis",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial crime",
+          "Severity": "Critical",
+          "Score": 20
+        },
+        {
+          "Name": "Money laundering",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "020398ce-13ad-24be-1fb9-003a046ae058",
+      "Name": "Shell companies - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 76,
+      "CreatedAt": "2025-03-22T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2024-5993",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "terrorism financing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial crime",
+          "Severity": "Low",
+          "Score": 31
+        },
+        {
+          "Name": "Money laundering",
+          "Severity": "High",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03c7a8e6-100a-0fc1-20ff-00213a913834",
+      "Name": "Reporting entities - Chirundu",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 23,
+      "CreatedAt": "2025-05-05T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2023-8177",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Str analysis",
+          "Severity": "Medium",
+          "Score": 31
+        },
+        {
+          "Name": "Str analysis",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "038e5ab2-2082-09ba-1c2f-00dd8eb19ce4",
+      "Name": "Shell companies - Chirundu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 65,
+      "CreatedAt": "2024-04-08T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2021-4290",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "terrorism financing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Str analysis",
+          "Severity": "High",
+          "Score": 37
+        },
+        {
+          "Name": "Str analysis",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "039b1629-11ec-194f-0d2a-00b35a82783c",
+      "Name": "Reporting entities - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 91,
+      "CreatedAt": "2025-05-01T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2025-2636",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "money laundering",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial crime",
+          "Severity": "Critical",
+          "Score": 24
+        },
+        {
+          "Name": "Financial crime",
+          "Severity": "High",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "051a678b-0bcd-19c2-0466-00884afe7c08",
+      "Name": "Financial institutions - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 78,
+      "CreatedAt": "2024-10-03T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2024-1840",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "suspicious transactions",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Medium",
+          "Score": 17
+        },
+        {
+          "Name": "Money laundering",
+          "Severity": "High",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "034132f3-264b-24f0-0d37-006c0057e07b",
+      "Name": "Reporting entities - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 68,
+      "CreatedAt": "2024-07-14T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2021-8851",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "STR analysis",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Money laundering",
+          "Severity": "Low",
+          "Score": 26
+        },
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01185c8b-270a-2165-2216-004eb35f87ae",
+      "Name": "Reporting entities - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90,
+      "CreatedAt": "2024-06-29T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2026-1185",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "terrorism financing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial crime",
+          "Severity": "Low",
+          "Score": 44
+        },
+        {
+          "Name": "Money laundering",
+          "Severity": "High",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "056629c7-0f20-2431-17b4-00cf5f36a563",
+      "Name": "Shell companies - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 34,
+      "CreatedAt": "2024-10-21T17:30:30Z",
+      "UpdatedAt": "2026-01-10T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2021-9372",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "STR analysis",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Money laundering",
+          "Severity": "High",
+          "Score": 22
+        },
+        {
+          "Name": "Financial crime",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00f1dfc2-1e44-10c3-0d7c-006f09bfffd1",
+      "Name": "Suspicious persons - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 97,
+      "CreatedAt": "2024-02-16T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2024-9790",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "terrorism financing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Money laundering",
+          "Severity": "High",
+          "Score": 23
+        },
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "043abd83-1302-21fa-1f85-0058dcdee5d5",
+      "Name": "Financial institutions - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 63,
+      "CreatedAt": "2025-07-03T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2026-7121",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "STR analysis",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Money laundering",
+          "Severity": "Low",
+          "Score": 17
+        },
+        {
+          "Name": "Money laundering",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04c0f963-120a-07c6-03f7-004e1b2d6e93",
+      "Name": "Financial institutions - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 38,
+      "CreatedAt": "2024-01-14T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2024-2532",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "suspicious transactions",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial crime",
+          "Severity": "High",
+          "Score": 30
+        },
+        {
+          "Name": "Financial crime",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03ed8022-1b3e-19ba-1198-0089fc73f503",
+      "Name": "Financial institutions - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 50,
+      "CreatedAt": "2024-07-17T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2025-3369",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "STR analysis",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "High",
+          "Score": 24
+        },
+        {
+          "Name": "Suspicious transactions",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01252f83-17c8-1415-13fe-00334f10e033",
+      "Name": "Financial institutions - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 83,
+      "CreatedAt": "2024-12-04T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2026-5937",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "money laundering",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Money laundering",
+          "Severity": "Medium",
+          "Score": 12
+        },
+        {
+          "Name": "Suspicious transactions",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02872e90-234d-0de8-05d1-009e81341fb7",
+      "Name": "Shell companies - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 39,
+      "CreatedAt": "2025-09-17T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2026-2977",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "money laundering",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "High",
+          "Score": 15
+        },
+        {
+          "Name": "Suspicious transactions",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "022764bb-1454-0bcc-23df-005ce5808861",
+      "Name": "Shell companies - Chirundu",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 50,
+      "CreatedAt": "2024-01-13T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2023-5129",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "terrorism financing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Suspicious transactions",
+          "Severity": "High",
+          "Score": 19
+        },
+        {
+          "Name": "Terrorism financing",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05bdab0a-0cc0-1d9c-1bdb-00355d59cf30",
+      "Name": "Suspicious persons - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 59,
+      "CreatedAt": "2024-12-17T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2025-9854",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "money laundering",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Critical",
+          "Score": 32
+        },
+        {
+          "Name": "Str analysis",
+          "Severity": "Critical",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a8bf2c-1e41-12f8-152a-00b07286d061",
+      "Name": "Financial institutions - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 98,
+      "CreatedAt": "2024-11-24T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2024-5984",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial crime",
+          "Severity": "Low",
+          "Score": 37
+        },
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02adde7e-17df-12a7-1112-00a1e7c25f36",
+      "Name": "Suspicious persons - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 53,
+      "CreatedAt": "2025-08-06T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2023-2549",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "suspicious transactions",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "High",
+          "Score": 41
+        },
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Medium",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "025bcd92-1127-152f-2534-004cef9425fc",
+      "Name": "Reporting entities - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 30,
+      "CreatedAt": "2025-08-02T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2025-8245",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Money laundering",
+          "Severity": "Low",
+          "Score": 41
+        },
+        {
+          "Name": "Terrorism financing",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00c0865b-1f24-100e-1a3c-001faf431b62",
+      "Name": "Shell companies - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 99,
+      "CreatedAt": "2025-08-18T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2023-5474",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "money laundering",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Suspicious transactions",
+          "Severity": "Low",
+          "Score": 45
+        },
+        {
+          "Name": "Money laundering",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0331a645-0d2e-04e5-1c05-00188f23c24b",
+      "Name": "Suspicious persons - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 62,
+      "CreatedAt": "2025-08-26T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2026-7411",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "STR analysis",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Suspicious transactions",
+          "Severity": "Medium",
+          "Score": 41
+        },
+        {
+          "Name": "Money laundering",
+          "Severity": "Critical",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04500736-0825-08cc-1f4c-003e4614fd31",
+      "Name": "Financial institutions - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 91,
+      "CreatedAt": "2024-06-08T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2023-5928",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "money laundering",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Medium",
+          "Score": 37
+        },
+        {
+          "Name": "Money laundering",
+          "Severity": "Medium",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03432771-13e4-18cb-1b4d-009580166850",
+      "Name": "Suspicious persons - Livingstone",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 87,
+      "CreatedAt": "2024-05-03T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2025-6986",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "terrorism financing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Str analysis",
+          "Severity": "High",
+          "Score": 26
+        },
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0429e5b5-06f6-05fe-07ea-00afde8c44e3",
+      "Name": "Financial institutions - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 34,
+      "CreatedAt": "2025-07-02T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2020-5407",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "money laundering",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial crime",
+          "Severity": "Medium",
+          "Score": 36
+        },
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Medium",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "037ee6be-17d0-1da2-2689-001b92112136",
+      "Name": "Shell companies - Chirundu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 79,
+      "CreatedAt": "2025-08-17T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2023-2437",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "terrorism financing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial crime",
+          "Severity": "High",
+          "Score": 20
+        },
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "018ad188-18a7-1583-0d44-006d6510a038",
+      "Name": "Financial institutions - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 96,
+      "CreatedAt": "2024-12-21T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2022-4912",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "money laundering",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial crime",
+          "Severity": "Critical",
+          "Score": 27
+        },
+        {
+          "Name": "Str analysis",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02138809-2082-12d6-070d-004a03c9ea80",
+      "Name": "Shell companies - Chirundu",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 42,
+      "CreatedAt": "2025-01-07T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2025-5789",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "suspicious transactions",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial crime",
+          "Severity": "Critical",
+          "Score": 17
+        },
+        {
+          "Name": "Financial crime",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01223c83-1e01-1609-1577-00a2acf76f00",
+      "Name": "Suspicious persons - Chirundu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 22,
+      "CreatedAt": "2025-03-10T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2020-9292",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Critical",
+          "Score": 40
+        },
+        {
+          "Name": "Str analysis",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05b6831f-08e8-1a59-206a-007c48b867a9",
+      "Name": "Shell companies - Chirundu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 25,
+      "CreatedAt": "2024-10-25T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2026-6467",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "High",
+          "Score": 38
+        },
+        {
+          "Name": "Str analysis",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00c5ed95-1c47-0e2f-1853-0049c46dce18",
+      "Name": "Shell companies - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 63,
+      "CreatedAt": "2025-01-15T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2024-4495",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "money laundering",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Money laundering",
+          "Severity": "Critical",
+          "Score": 38
+        },
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03460842-07bf-0b7f-072e-0096e9e6afe0",
+      "Name": "Shell companies - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 64,
+      "CreatedAt": "2025-05-02T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2022-1004",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Money laundering",
+          "Severity": "Critical",
+          "Score": 25
+        },
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0540c13e-090e-09a7-267e-009cacd6dbb7",
+      "Name": "Shell companies - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 39,
+      "CreatedAt": "2025-09-14T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2021-5273",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "terrorism financing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Critical",
+          "Score": 24
+        },
+        {
+          "Name": "Money laundering",
+          "Severity": "High",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "041da781-04f3-1022-0b91-00595f225e2d",
+      "Name": "Financial institutions - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 25,
+      "CreatedAt": "2024-05-31T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2022-3680",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "money laundering",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial crime",
+          "Severity": "Critical",
+          "Score": 26
+        },
+        {
+          "Name": "Financial crime",
+          "Severity": "High",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04a011e9-0962-1268-0f32-0058854ef32e",
+      "Name": "Shell companies - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 75,
+      "CreatedAt": "2024-05-14T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2023-2564",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "suspicious transactions",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "High",
+          "Score": 38
+        },
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Medium",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "045c864f-185a-1705-0608-00e1cbce4cc7",
+      "Name": "Financial institutions - Chirundu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 87,
+      "CreatedAt": "2024-09-05T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2024-3121",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "terrorism financing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Medium",
+          "Score": 43
+        },
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00c74cde-1b5e-1b53-1748-00c1453327a4",
+      "Name": "Suspicious persons - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 90,
+      "CreatedAt": "2024-07-21T17:30:30Z",
+      "UpdatedAt": "2025-12-21T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2025-4833",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "STR analysis",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Str analysis",
+          "Severity": "Medium",
+          "Score": 45
+        },
+        {
+          "Name": "Suspicious transactions",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03eb1160-0abc-1d43-2008-00718b092462",
+      "Name": "Reporting entities - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 62,
+      "CreatedAt": "2024-10-29T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2025-2819",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "financial crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Suspicious transactions",
+          "Severity": "Low",
+          "Score": 19
+        },
+        {
+          "Name": "Financial crime",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "025018a7-0568-1cb4-2163-0078031deeb1",
+      "Name": "Shell companies - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 61,
+      "CreatedAt": "2024-03-22T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2022-2611",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "suspicious transactions",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Financial crime",
+          "Severity": "Medium",
+          "Score": 43
+        },
+        {
+          "Name": "Suspicious transactions",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0401e8b8-1922-16b3-0b57-002f1d7f5ada",
+      "Name": "Suspicious persons - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 45,
+      "CreatedAt": "2024-11-19T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2020-6235",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "STR analysis",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "High",
+          "Score": 24
+        },
+        {
+          "Name": "Str analysis",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "034c077d-09c1-0441-25ee-00de2913be75",
+      "Name": "Reporting entities - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 22,
+      "CreatedAt": "2025-10-03T17:30:30Z",
+      "UpdatedAt": "2025-12-20T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2021-1447",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "terrorism financing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Low",
+          "Score": 13
+        },
+        {
+          "Name": "Financial crime",
+          "Severity": "High",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "046fbefa-1c74-0632-26e5-00a8056ac978",
+      "Name": "Reporting entities - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 79,
+      "CreatedAt": "2024-04-21T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2022-9284",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "terrorism financing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Str analysis",
+          "Severity": "Critical",
+          "Score": 15
+        },
+        {
+          "Name": "Suspicious transactions",
+          "Severity": "Critical",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0204ab52-1662-228d-13c2-00677e95fbcc",
+      "Name": "Reporting entities - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 94,
+      "CreatedAt": "2025-01-16T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2024-2172",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "money laundering",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Str analysis",
+          "Severity": "Critical",
+          "Score": 16
+        },
+        {
+          "Name": "Financial crime",
+          "Severity": "High",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "050ce755-1db5-0fab-0e43-00b48ffa1585",
+      "Name": "Suspicious persons - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 29,
+      "CreatedAt": "2024-03-25T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2023-9525",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "STR analysis",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Chirundu",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Terrorism financing",
+          "Severity": "Low",
+          "Score": 25
+        },
+        {
+          "Name": "Str analysis",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0311a9dd-1ef3-253e-07bc-0062f49164cd",
+      "Name": "Reporting entities - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 44,
+      "CreatedAt": "2024-07-13T17:30:30Z",
+      "UpdatedAt": "2025-12-22T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "FIN-2022-7749",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "terrorism financing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Financial Intelligence Centre",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Str analysis",
+          "Severity": "Critical",
+          "Score": 45
+        },
+        {
+          "Name": "Financial crime",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Television",
+    "DisplayName": "Prime Television",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Report national news, including economic crime investigations, and provide educational segments on compliance.",
+    "TopPriorities": [
+      "Produce primetime coverage of Economic and Financial Crimes Court docket.",
+      "Demystify tax policy changes from government.",
+      "Spotlight regional offices to reassure citizens."
+    ],
+    "ActiveOperations": [
+      "Magazine programs featuring analysts and business leaders.",
+      "Documentaries explaining how financial crimes occur.",
+      "Collaborations with prosecutors to show court proceedings responsibly."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Broadcast special on economic issues",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Combined interviews with officials to explain data behind investigations."
+      },
+      {
+        "Title": "Live-streamed court hearings",
+        "Date": "2025-11-24T00:00:00Z",
+        "Summary": "Offered real-time analysis for viewers tracking important cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "Judiciary communications office"
+    ],
+    "Metrics": {
+      "PrimeSegments": "5 per week",
+      "Documentaries": "4 in 2025",
+      "CourtStreams": "9 sessions"
+    }
+  }
+]

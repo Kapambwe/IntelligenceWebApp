@@ -1,0 +1,1170 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "04a322d4-185c-0697-0b13-00791a3031e7",
+      "EntityId": "018b733c-263c-1046-2227-00c2b4e6655e",
+      "EntityName": "Dealers - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2026-01-18T17:30:31Z",
+      "Notes": "Compliance check for network operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02060992-204b-0f33-24e3-005fab0968e7",
+      "EntityId": "04b45856-269b-0b0f-1958-00cb7ca63ec6",
+      "EntityName": "Subscribers - Lusaka",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-11-30T17:30:31Z",
+      "Notes": "Subscriber onboarding for subscriber management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-29T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-11T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "026ebc83-0aef-0fe8-1c20-00d2da82d52b",
+      "EntityId": "0489ac98-05b9-06d4-06dd-0062df8ffea7",
+      "EntityName": "Corporate clients - nationwide network",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-16T17:30:31Z",
+      "Notes": "Network monitoring for compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "030d58b0-1fbc-23bf-1b4f-0067b12e256f",
+      "EntityId": "05a580f2-226b-07fd-1eb4-005234d54746",
+      "EntityName": "Dealers - Lusaka",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-11-23T17:30:31Z",
+      "Notes": "Compliance check for network operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-08T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-29T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03ecfd00-23c4-1830-16d6-00accd5bba93",
+      "EntityId": "02b11906-0e3a-0d32-0f89-00526f9112fd",
+      "EntityName": "Dealers - Livingstone",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-27T17:30:31Z",
+      "Notes": "Fraud detection for fraud prevention verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-20T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-22T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "014f11ba-04df-03fb-102c-002d04c0999e",
+      "EntityId": "03dbe77b-1d59-1516-1f5f-00b8ceda4e50",
+      "EntityName": "Dealers - Lusaka",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-25T17:30:31Z",
+      "Notes": "Fraud detection for service delivery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-15T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "045b75a7-1fe5-1ce4-211e-00234c926d1d",
+      "EntityId": "0583f86d-0a20-2664-265d-007ee8f660f2",
+      "EntityName": "Dealers - Lusaka",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-09T17:30:31Z",
+      "Notes": "Network monitoring for network operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-08T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "03a00e2c-115e-0cd5-252f-00a965eb140b",
+      "EntityId": "024572ae-1bb5-1029-1381-00cd0c0b468e",
+      "EntityName": "Subscribers - Ndola",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-24T17:30:31Z",
+      "Notes": "Fraud detection for subscriber management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "00bf8949-221d-0986-1eeb-00b0d752919c",
+      "EntityId": "03b91942-1353-26d4-0452-0064fed37fea",
+      "EntityName": "Corporate clients - Ndola",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-29T17:30:31Z",
+      "Notes": "Compliance check for subscriber management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-10T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0195f2e8-0d93-1df5-2055-002e73c21ac5",
+      "EntityId": "00dde1c1-0e3c-112e-143e-0028973a06cf",
+      "EntityName": "Dealers - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-06T17:30:31Z",
+      "Notes": "Service activation for subscriber management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-07T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "030aa359-0d69-10aa-2648-001c0841083b",
+      "EntityId": "01f071fb-1ddb-24f2-1d60-00a50deefd7b",
+      "EntityName": "Corporate clients - Lusaka",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-26T17:30:31Z",
+      "Notes": "Service activation for compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-08T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01d7e3a6-21a4-0ab2-097f-0042f9f828fc",
+      "EntityId": "0385c850-15bf-0fc5-25cf-00dc5ffc4da7",
+      "EntityName": "Service users - Ndola",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-14T17:30:31Z",
+      "Notes": "Service activation for subscriber management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03186585-2682-190a-2363-00d1bea6edb8",
+      "EntityId": "0177b915-08f6-11d0-239a-008f6ababb8d",
+      "EntityName": "Corporate clients - Kitwe",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-01T17:30:31Z",
+      "Notes": "Compliance check for compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-24T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-28T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01003642-05cd-1752-258d-00a874d3a108",
+      "EntityId": "021c8f1c-14a2-26d7-1c60-00c3c0e9af06",
+      "EntityName": "Subscribers - Lusaka",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-22T17:30:31Z",
+      "Notes": "Subscriber onboarding for compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0166d232-1e65-0c14-0e95-00b593d283c4",
+      "EntityId": "0374c98d-1ec3-1a1c-0c40-00319edc2810",
+      "EntityName": "Dealers - nationwide network",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-11-22T17:30:31Z",
+      "Notes": "Compliance check for network operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0377af27-26e3-0f26-2588-004d27914bca",
+      "EntityId": "0300ef9a-1c7f-2617-11f5-009dfc760a6f",
+      "EntityName": "Dealers - Ndola",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-30T17:30:31Z",
+      "Notes": "Network monitoring for subscriber management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01afc60e-1916-0888-1758-005688b71826",
+      "EntityId": "02d73085-0a01-1783-1bc5-0044b619abe4",
+      "EntityName": "Subscribers - Livingstone",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-07T17:30:31Z",
+      "Notes": "Subscriber onboarding for service delivery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-01T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03b5a54a-0883-042c-1383-0020e54eb4cd",
+      "EntityId": "042617bb-08eb-1fd4-211d-009ca238efa6",
+      "EntityName": "Service users - nationwide network",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-27T17:30:31Z",
+      "Notes": "Fraud detection for subscriber management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-06T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02800358-239d-16e0-0c34-00e88ad082c0",
+      "EntityId": "02470b51-0e46-0558-1a41-0036e59f90c6",
+      "EntityName": "Dealers - Livingstone",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-10-23T17:30:31Z",
+      "Notes": "Compliance check for fraud prevention verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-20T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-19T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0273892c-0931-115e-1b03-00d97473379e",
+      "EntityId": "025ca474-1634-105b-0f32-0094eb110054",
+      "EntityName": "Dealers - nationwide network",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2026-01-02T17:30:31Z",
+      "Notes": "Network monitoring for network operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-20T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "027b3a14-1d03-0e43-1226-009837bc1d8b",
+      "EntityId": "0213e3d9-240d-064c-261a-009692e23f2c",
+      "EntityName": "Dealers - Ndola",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-17T17:30:31Z",
+      "Notes": "Subscriber onboarding for fraud prevention verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-24T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01eb6376-0f33-2576-21c5-00e166412ea9",
+      "EntityId": "0408b29c-221e-2602-0b1d-00abb3cc3631",
+      "EntityName": "Subscribers - Lusaka",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-12-21T17:30:31Z",
+      "Notes": "Subscriber onboarding for compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-28T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "00c1e664-12b4-2687-1905-00d6fa976aae",
+      "EntityId": "045bb152-226e-2629-17d5-00cc7924c174",
+      "EntityName": "Dealers - Ndola",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-10-30T17:30:31Z",
+      "Notes": "Fraud detection for subscriber management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-20T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00b706cb-0c0a-1308-0b5a-0061e185cdf8",
+      "EntityId": "031aad32-0417-1c2d-0428-003b872d9cc6",
+      "EntityName": "Dealers - Lusaka",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-10T17:30:31Z",
+      "Notes": "Service activation for compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-24T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "034da506-1ed5-1b09-174a-00d3fa20caff",
+      "EntityId": "03c07e66-1f76-0552-182d-009cac2d241d",
+      "EntityName": "Subscribers - nationwide network",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-10T17:30:31Z",
+      "Notes": "Service activation for subscriber management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-03T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "04dd271b-0b70-2044-047f-00643bf82ac0",
+      "EntityId": "0112fab1-117d-1051-25f3-00619da044d9",
+      "EntityName": "Subscribers - Livingstone",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-08T17:30:31Z",
+      "Notes": "Compliance check for service delivery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-26T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-30T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-20T17:30:31Z"
+    },
+    {
+      "Id": "033d15b0-09d8-1dc3-03eb-00b92ad61215",
+      "EntityId": "030a0a92-1189-193c-24af-00608e8d24c4",
+      "EntityName": "Dealers - Kitwe",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-11T17:30:31Z",
+      "Notes": "Network monitoring for compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-14T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04ec5048-1442-1542-056b-00a776c12dbc",
+      "EntityId": "02e0fb0b-13f5-173a-23ba-00cf910b43b6",
+      "EntityName": "Corporate clients - Lusaka",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-28T17:30:31Z",
+      "Notes": "Service activation for network operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-08T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "03788b4c-1a07-12dc-16aa-00e36b4dc64f",
+      "EntityId": "0565abe7-204e-0f64-1310-006d421914ec",
+      "EntityName": "Service users - Lusaka",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2026-01-09T17:30:31Z",
+      "Notes": "Service activation for fraud prevention verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-26T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03fda26a-0df2-1eb2-08b1-001e6a4bf2ff",
+      "EntityId": "00e662a6-1fde-0704-169c-00d71cf2a068",
+      "EntityName": "Subscribers - Livingstone",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-12-24T17:30:31Z",
+      "Notes": "Network monitoring for subscriber management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-01T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-19T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f0d662-1b4b-20f5-0f2f-00237da0b213",
+      "EntityId": "017f5a10-0d47-1248-0dbf-00d781d31c17",
+      "EntityName": "Corporate clients - nationwide network",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-23T17:30:31Z",
+      "Notes": "Subscriber onboarding for service delivery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-22T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0245cac2-0a4d-16b9-1340-0037abba7558",
+      "EntityId": "046277df-1374-1dde-0db7-002870e9f03a",
+      "EntityName": "Corporate clients - Livingstone",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-10-28T17:30:31Z",
+      "Notes": "Network monitoring for network operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01d42456-22e3-087d-0417-0037b810120e",
+      "EntityId": "01cd0ab5-07fb-0f6c-18e3-003c29a387f0",
+      "EntityName": "Corporate clients - Lusaka",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-10-23T17:30:31Z",
+      "Notes": "Service activation for fraud prevention verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "036e4730-24dc-1d50-0cf0-0078b2d82dec",
+      "EntityId": "03f7f273-0679-0824-1ca8-005bf933c8c5",
+      "EntityName": "Service users - Ndola",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-18T17:30:31Z",
+      "Notes": "Compliance check for fraud prevention verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-29T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-07T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "0376b4c0-15ff-1a77-0f0e-00e6091baece",
+      "EntityId": "00cc2712-1932-0789-0ec0-0093010371fa",
+      "EntityName": "Subscribers - Kitwe",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-05T17:30:31Z",
+      "Notes": "Service activation for network operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-25T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "055b40ec-1c57-2211-1a03-0019b1a15110",
+      "EntityId": "0400165a-1f13-0e7b-1cfd-001e1e9cfe55",
+      "EntityName": "Corporate clients - Ndola",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-14T17:30:31Z",
+      "Notes": "Compliance check for subscriber management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-03T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-03T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04e68cab-1f28-0793-2066-0048a918a094",
+      "EntityId": "0129e8ad-1c60-1bc2-0a92-00b4a3d75d7a",
+      "EntityName": "Corporate clients - nationwide network",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-02T17:30:31Z",
+      "Notes": "Fraud detection for compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-11-26T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "0418e1a2-1eef-1b3d-170f-00c804749e49",
+      "EntityId": "03ef3e63-2515-0c13-1a84-00743db40caf",
+      "EntityName": "Service users - Kitwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-28T17:30:31Z",
+      "Notes": "Subscriber onboarding for service delivery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-03T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "028b1e12-20a0-253f-09ae-00bf322a296f",
+      "EntityId": "04d5e3a9-12ba-174c-141b-0019232b9a75",
+      "EntityName": "Subscribers - nationwide network",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-21T17:30:31Z",
+      "Notes": "Compliance check for network operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-26T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04998f03-0cac-10e4-1187-002045b81aac",
+      "EntityId": "0500cb82-04dc-1570-0503-00551cb32632",
+      "EntityName": "Corporate clients - nationwide network",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-06T17:30:31Z",
+      "Notes": "Fraud detection for network operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-19T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0354612f-1e62-1596-1618-00d840534ca9",
+      "EntityId": "03c00a4b-1a63-0efa-24e9-00d85855369e",
+      "EntityName": "Subscribers - Lusaka",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-12-15T17:30:31Z",
+      "Notes": "Network monitoring for compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "02d3b7e5-246e-19dc-1714-00c9934d81b1",
+      "EntityId": "023e3883-1150-0bae-1d78-0030ae300915",
+      "EntityName": "Service users - Kitwe",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2026-01-07T17:30:31Z",
+      "Notes": "Network monitoring for fraud prevention verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-19T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "021c5797-2101-1e1e-1af0-00a1bc0a0f9a",
+      "EntityId": "05d80a70-0aa9-0aaa-234c-00d833afeb17",
+      "EntityName": "Corporate clients - Kitwe",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-07T17:30:31Z",
+      "Notes": "Fraud detection for service delivery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-15T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03b856ed-20d8-2373-1120-00407b09bf3b",
+      "EntityId": "02c618d0-0c9d-1ebd-2567-008e8bf486ea",
+      "EntityName": "Dealers - Livingstone",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-25T17:30:31Z",
+      "Notes": "Compliance check for compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-21T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-25T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03f22b15-2678-0492-1639-009a1c12d49f",
+      "EntityId": "033fd6b8-070d-0e26-25d3-00677723d69c",
+      "EntityName": "Corporate clients - Kitwe",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-17T17:30:31Z",
+      "Notes": "Network monitoring for subscriber management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-01T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-01T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02135a67-05b8-2293-21ca-00c17d0b9bda",
+      "EntityId": "0234f5c5-0cd7-1d33-2312-0026005e482f",
+      "EntityName": "Service users - Ndola",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-01T17:30:31Z",
+      "Notes": "Network monitoring for network operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-02T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-28T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "01f9d388-04f7-1a10-16e0-00ddfb4b53dc",
+      "EntityId": "036188f3-1587-149d-1c12-007b1dcc8aee",
+      "EntityName": "Dealers - Livingstone",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-12T17:30:31Z",
+      "Notes": "Compliance check for fraud prevention verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-27T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00e5d84d-0a2c-1e57-0ce6-0066d4f6bd75",
+      "EntityId": "020fa6e5-132e-1348-0b6a-00779573878f",
+      "EntityName": "Service users - Lusaka",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-12T17:30:31Z",
+      "Notes": "Network monitoring for service delivery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01165453-2638-21fd-0c86-004f62afc8e0",
+      "EntityId": "038cc944-0daa-0f5c-1bf4-0050609c77f5",
+      "EntityName": "Corporate clients - Lusaka",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-29T17:30:31Z",
+      "Notes": "Fraud detection for fraud prevention verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-22T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0458d78f-0c1a-2618-14cb-00acac096b7c",
+      "EntityId": "035af08a-0daf-1a64-1382-007334b78953",
+      "EntityName": "Service users - Livingstone",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-12-10T17:30:31Z",
+      "Notes": "Subscriber onboarding for compliance verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-13T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 9,
+    "Pending": 25,
+    "Failed": 16
+  }
+}

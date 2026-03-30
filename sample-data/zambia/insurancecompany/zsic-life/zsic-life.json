@@ -1,0 +1,42 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "InsuranceCompany",
+    "DisplayName": "ZSIC Life",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Provide insurance cover across public and private entities while identifying insurance fraud and suspicious underwriting behaviors.",
+    "TopPriorities": [
+      "Protect public infrastructure against theft linked to fraudulent invoices.",
+      "Work with regulators to vet claims from high-risk suppliers.",
+      "Share suspicious claims data with ZRA and ACC."
+    ],
+    "ActiveOperations": [
+      "Risk underwriting unit flagging clients with unexplained asset transfers.",
+      "Claims intelligence sharing with regulatory authorities.",
+      "Collaboration with reinsurers to trace unusual payout patterns."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced fraud detection systems",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Implemented advanced analytics to identify suspicious claims patterns."
+      },
+      {
+        "Title": "Published anti-fraud framework",
+        "Date": "2025-11-01T00:00:00Z",
+        "Summary": "Released guidelines referencing global best practices and local regulations."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Anti-Corruption Commission",
+      "African Insurance Organisation"
+    ],
+    "Metrics": {
+      "ClaimsReviewed": "2292 annually",
+      "PreventedLosses": "K53M potential payouts",
+      "PolicyholdersAudited": "692 high-risk accounts"
+    }
+  }
+]

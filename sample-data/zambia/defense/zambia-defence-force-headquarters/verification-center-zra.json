@@ -1,0 +1,1176 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "052f8e18-1c73-2484-256a-0058fc5dfa39",
+      "EntityId": "01702194-1ea2-0997-0734-0077cbf2a587",
+      "EntityName": "Suppliers - Lusaka",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-22T17:30:30Z",
+      "Notes": "Deployment for logistics verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-29T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "024ceb98-2049-1629-18e9-006ed7fe3f54",
+      "EntityId": "0211b448-26a9-231c-2343-00e16ca46656",
+      "EntityName": "Suppliers - Kabwe",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-13T17:30:30Z",
+      "Notes": "Procurement for logistics verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-19T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04c0a002-0698-1b53-1320-007363854e9c",
+      "EntityId": "03b74ce3-0c04-2583-1f4c-005c1b210fcc",
+      "EntityName": "Military units - Kabwe",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-30T17:30:30Z",
+      "Notes": "Training for equipment acquisition verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-02T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "0282d294-24ce-047f-1694-007392162887",
+      "EntityId": "019dd50e-242b-2059-2168-00b796d94e5c",
+      "EntityName": "Suppliers - Mumbwa",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-19T17:30:30Z",
+      "Notes": "Logistics management for logistics verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-26T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04c79811-123c-13c1-189a-0080d9a8b817",
+      "EntityId": "043a8290-059c-045e-0fe8-006bf4520a50",
+      "EntityName": "Defense contractors - Livingstone",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-06T17:30:30Z",
+      "Notes": "Deployment for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-21T17:30:30Z"
+    },
+    {
+      "Id": "02f721ce-0c58-1882-2263-00a7877cabf8",
+      "EntityId": "017f2ab9-10e9-1b01-0ffd-0093fc026c27",
+      "EntityName": "Defense contractors - Mumbwa",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-10-30T17:30:30Z",
+      "Notes": "Training for equipment acquisition verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-22T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "012a1332-262a-1e5c-06e6-00ca970c8d28",
+      "EntityId": "00bb61a3-05fe-0b90-1563-00854f05dcc0",
+      "EntityName": "Security personnel - Livingstone",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-10-25T17:30:30Z",
+      "Notes": "Security assessment for security operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-28T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-04T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "055ba8e3-0a2a-1a5e-154d-009dfe10d3c9",
+      "EntityId": "02911bb7-1e7e-0d08-11da-00a5489d0d54",
+      "EntityName": "Security personnel - Lusaka",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-11-22T17:30:30Z",
+      "Notes": "Security assessment for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-27T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "026f8250-244a-2556-0d98-00da22237548",
+      "EntityId": "056999a4-1c39-1ebe-17d4-00a4a72690d7",
+      "EntityName": "Security personnel - Livingstone",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-10-24T17:30:30Z",
+      "Notes": "Security assessment for security operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-07T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0379b8ed-1701-1fcf-1044-00442dac9020",
+      "EntityId": "013e4b09-1420-0831-1fbb-001a2c6deff0",
+      "EntityName": "Suppliers - Kabwe",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-24T17:30:30Z",
+      "Notes": "Logistics management for security operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00b6e90e-18fe-0fe4-0aec-003d48c6b863",
+      "EntityId": "02d5082d-0869-2464-1298-00740eed66b5",
+      "EntityName": "Defense contractors - Livingstone",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-14T17:30:30Z",
+      "Notes": "Logistics management for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-01T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "053cbd5d-0875-1daa-1f02-00606a7e6efb",
+      "EntityId": "04eff35d-079c-0b87-173f-006fa4a28b85",
+      "EntityName": "Suppliers - Mumbwa",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2026-01-16T17:30:30Z",
+      "Notes": "Security assessment for equipment acquisition verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-30T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "013746f3-2177-0506-2217-007e6fe3c74a",
+      "EntityId": "015d268c-041f-1645-197e-004f5f488e77",
+      "EntityName": "Military units - Kabwe",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-10-26T17:30:30Z",
+      "Notes": "Training for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-07T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "05d58bbd-0ae7-0438-0672-00d7b083de2b",
+      "EntityId": "0305c626-0683-11f2-2170-003e29fc7587",
+      "EntityName": "Security personnel - Mumbwa",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-10-25T17:30:30Z",
+      "Notes": "Logistics management for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "02c50a28-1fbc-2297-20d0-0054cc4967c3",
+      "EntityId": "02b796f8-05f4-0bb4-1270-0032dc645b22",
+      "EntityName": "Suppliers - Livingstone",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-16T17:30:30Z",
+      "Notes": "Security assessment for security operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-20T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "033805cb-0767-03ee-1f4c-00436d0f175f",
+      "EntityId": "01c261a1-1ee7-15d2-224d-00220c62823c",
+      "EntityName": "Defense contractors - Lusaka",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-24T17:30:30Z",
+      "Notes": "Deployment for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-03T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "026bfad8-1658-0eea-0bc2-002740d8fec9",
+      "EntityId": "04df5706-1130-2238-1d21-004d232b4c1c",
+      "EntityName": "Suppliers - Mumbwa",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-11-28T17:30:30Z",
+      "Notes": "Training for military procurement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-28T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-29T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "02052e83-1cab-09f9-1de7-00b525b51e76",
+      "EntityId": "05ddaf0a-17e0-0915-1455-00db6f7e2992",
+      "EntityName": "Suppliers - Ndola",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-06T17:30:30Z",
+      "Notes": "Deployment for security operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-08T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "02d279f4-1229-1f7d-060f-00e28350273d",
+      "EntityId": "057ff726-0f45-1427-0432-00d50c8f1d7a",
+      "EntityName": "Military units - Ndola",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-03T17:30:30Z",
+      "Notes": "Logistics management for military procurement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-29T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "024e25df-1855-0727-1f57-0060daa96110",
+      "EntityId": "01093df7-106b-0764-1907-0068830565f1",
+      "EntityName": "Military units - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-13T17:30:30Z",
+      "Notes": "Deployment for equipment acquisition verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04c2ff80-26e3-0e6d-1797-00e1b0ad12a9",
+      "EntityId": "010fb342-0c18-05aa-21d0-00951fbcd2bb",
+      "EntityName": "Security personnel - Kabwe",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-08T17:30:30Z",
+      "Notes": "Procurement for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-20T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "010d2932-13a9-254a-065d-006fae6addb4",
+      "EntityId": "00af6ded-04a2-0526-183e-00e1e84ffa2e",
+      "EntityName": "Defense contractors - Mumbwa",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-30T17:30:30Z",
+      "Notes": "Deployment for military procurement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0316e623-1148-0547-0495-0050af9b91f5",
+      "EntityId": "0314554b-2574-0c1c-2699-001e3988b6b5",
+      "EntityName": "Suppliers - Mumbwa",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-07T17:30:30Z",
+      "Notes": "Deployment for logistics verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-18T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-27T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "02f95231-144c-1693-1138-00d71f68d446",
+      "EntityId": "0500aaa7-0e58-06f2-1234-005549361b4f",
+      "EntityName": "Defense contractors - Ndola",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-12T17:30:30Z",
+      "Notes": "Logistics management for equipment acquisition verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-13T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "04b35463-0f34-06ff-2022-00e2553cac0e",
+      "EntityId": "0330dfc9-20f6-08a0-1e36-007991d69263",
+      "EntityName": "Suppliers - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-26T17:30:30Z",
+      "Notes": "Deployment for logistics verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-11-20T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0315dcd5-059d-0a5c-166d-00372fac1fd6",
+      "EntityId": "04e41efc-0de5-17bf-201b-00803d7e20f9",
+      "EntityName": "Defense contractors - Lusaka",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-11-18T17:30:30Z",
+      "Notes": "Deployment for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-24T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-13T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "04a93098-11eb-10e8-053f-0026489bc3fa",
+      "EntityId": "0459b0d5-0bd8-0447-171a-00a2b7ad5f2c",
+      "EntityName": "Suppliers - Lusaka",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-17T17:30:30Z",
+      "Notes": "Deployment for security operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-20T17:30:30Z"
+        }
+      ],
+      "CompletedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "02c113dc-26f2-0bf4-1639-001f657271a1",
+      "EntityId": "039c1c26-20fd-1af1-13c0-0094c54d2276",
+      "EntityName": "Defense contractors - Kabwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-04T17:30:30Z",
+      "Notes": "Security assessment for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "023c6042-0f01-0b60-0ad7-00a8ef19efbb",
+      "EntityId": "036a2db1-132e-0dbf-04fe-00bd975faba7",
+      "EntityName": "Military units - Mumbwa",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-25T17:30:30Z",
+      "Notes": "Logistics management for logistics verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "052fc894-22ff-1d8e-16b8-009494e5b391",
+      "EntityId": "033cbb19-0b9e-1a91-2032-00e70b0f22e6",
+      "EntityName": "Defense contractors - Kabwe",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-12-13T17:30:30Z",
+      "Notes": "Procurement for security operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-03T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0213c160-0792-1537-0dd6-00c9a86a6799",
+      "EntityId": "0198614e-1b18-04d5-06c1-00a22e401d5b",
+      "EntityName": "Defense contractors - Ndola",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-07T17:30:30Z",
+      "Notes": "Training for military procurement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-29T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0330de8f-2011-19c7-1bce-00ae721ceb53",
+      "EntityId": "00c59e03-0b4c-0458-2099-00806cb62ca3",
+      "EntityName": "Military units - Kabwe",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-03T17:30:30Z",
+      "Notes": "Deployment for security operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "01c90cef-1e1d-1672-06c5-002af881df52",
+      "EntityId": "01a1f447-0756-1993-1cc8-00cb91e832f4",
+      "EntityName": "Security personnel - Livingstone",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-12T17:30:30Z",
+      "Notes": "Procurement for logistics verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-28T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "054c7af6-1c8f-11cf-088c-009ddfa92124",
+      "EntityId": "01df9dc2-21c6-0412-0640-00c890947e80",
+      "EntityName": "Military units - Lusaka",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-29T17:30:30Z",
+      "Notes": "Logistics management for military procurement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-22T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "043acfe6-0b21-045e-2506-00cafc696d39",
+      "EntityId": "057a262d-06b0-1a30-138d-006b464d1003",
+      "EntityName": "Security personnel - Ndola",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-12-13T17:30:30Z",
+      "Notes": "Logistics management for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "018d2b8e-14c9-1130-06b5-00756a431a9a",
+      "EntityId": "03a2dfd5-0922-15e8-232d-0027c0e3a5f3",
+      "EntityName": "Military units - Kabwe",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-22T17:30:30Z",
+      "Notes": "Security assessment for logistics verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-28T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "045d3cf0-09f0-0cd0-07b7-009ee4be254d",
+      "EntityId": "05cf30bf-2092-1de1-1d28-00c57ca46c14",
+      "EntityName": "Defense contractors - Lusaka",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-20T17:30:30Z",
+      "Notes": "Training for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-17T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "04af818a-17e0-114e-17f4-00678aabadca",
+      "EntityId": "0593b3c1-0664-15cd-0adf-001a793edf33",
+      "EntityName": "Defense contractors - Mumbwa",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-09T17:30:30Z",
+      "Notes": "Security assessment for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0544e5fc-0664-1630-0cce-005fdd89624c",
+      "EntityId": "05a15bd9-05f6-056d-04eb-00e5363a3788",
+      "EntityName": "Military units - Lusaka",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2026-01-07T17:30:30Z",
+      "Notes": "Security assessment for security operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-31T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "027e509b-03f4-1d04-0a5c-007ffc9bc13f",
+      "EntityId": "01de8975-2181-1907-1f7b-001eee27cc77",
+      "EntityName": "Suppliers - Ndola",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-11T17:30:30Z",
+      "Notes": "Deployment for military procurement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03091c49-1530-15b6-1713-007d27ab6e94",
+      "EntityId": "055d8a0a-1385-1ebf-160d-007cd38ec4c7",
+      "EntityName": "Security personnel - Livingstone",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-10-24T17:30:30Z",
+      "Notes": "Training for logistics verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-24T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05031156-13ef-1f69-1730-00d0d7214ada",
+      "EntityId": "04986400-0609-1af2-223f-00e39079a40f",
+      "EntityName": "Security personnel - Lusaka",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-26T17:30:30Z",
+      "Notes": "Training for security operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-30T17:30:30Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04876696-135e-09bf-2448-00d355aa36b0",
+      "EntityId": "01523941-18c9-1cef-0fd5-0056503a737d",
+      "EntityName": "Security personnel - Kabwe",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-11-01T17:30:30Z",
+      "Notes": "Procurement for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-19T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-21T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01b4e545-08f6-1154-14ca-0045cf4703d9",
+      "EntityId": "015e47b8-05dc-24d1-1409-00390f3dd901",
+      "EntityName": "Military units - Lusaka",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-16T17:30:30Z",
+      "Notes": "Deployment for logistics verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "02c1e13d-209c-0ff3-086c-00e15a6b4a37",
+      "EntityId": "054b21ea-1101-0715-2107-002683797f2c",
+      "EntityName": "Security personnel - Ndola",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-02T17:30:30Z",
+      "Notes": "Procurement for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-14T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03081a33-1cbc-2050-263f-004c7e412465",
+      "EntityId": "05bb796e-0448-0fed-0bc2-00aa65ba0516",
+      "EntityName": "Security personnel - Kabwe",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2026-01-12T17:30:30Z",
+      "Notes": "Logistics management for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-26T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "01bf5ca6-230f-0f3b-23ed-00e8c8f5fcb2",
+      "EntityId": "04fea065-17a3-251d-2042-00e0bb225e55",
+      "EntityName": "Suppliers - Mumbwa",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-03T17:30:30Z",
+      "Notes": "Deployment for logistics verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f86760-19f5-08ab-2280-008bc3b2f574",
+      "EntityId": "052ee757-26b7-165b-0b5d-007ca641961c",
+      "EntityName": "Suppliers - Kabwe",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-07T17:30:30Z",
+      "Notes": "Training for defense contracts verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-02T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-01T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "028e2227-15d8-0d6b-23cd-0021cf037f08",
+      "EntityId": "05e80319-0962-14a7-22e9-00d5941d67f9",
+      "EntityName": "Defense contractors - Ndola",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-29T17:30:30Z",
+      "Notes": "Training for security operations verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-20T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02374b8a-18ee-0a93-1b66-005050f431bf",
+      "EntityId": "02354db0-143d-24c3-2449-008f2d6f9b0b",
+      "EntityName": "Security personnel - Mumbwa",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-25T17:30:30Z",
+      "Notes": "Training for logistics verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 15,
+    "Pending": 25,
+    "Failed": 10
+  }
+}

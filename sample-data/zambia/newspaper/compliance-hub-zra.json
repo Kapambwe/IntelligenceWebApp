@@ -1,0 +1,87 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 284,
+  "ActiveAlerts": 5,
+  "PendingReviews": 3,
+  "ComplianceScore": 78.4,
+  "Alerts": [
+    {
+      "Id": "44444444-aaaa-1111-bbbb-ccccdddd0001",
+      "Severity": "Critical",
+      "Type": "Source Protection Breach Risk",
+      "EntityId": "b7a8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+      "EntityName": "Anonymous Source ZDM-2025-047",
+      "Description": "Potential source identification risk detected in draft print article for Zambia Daily Mail. Cross-reference analysis suggests leaked document metadata could reveal source identity if published without redaction.",
+      "CreatedAt": "2026-01-20T08:00:00Z",
+      "DetectedAt": "2026-01-20T07:45:00Z",
+      "Status": "Open"
+    },
+    {
+      "Id": "44444444-aaaa-1111-bbbb-ccccdddd0002",
+      "Severity": "High",
+      "Type": "Editorial Standards Violation",
+      "EntityId": "e4d5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+      "EntityName": "The Mast Print Investigations Team",
+      "Description": "Right-of-reply deadline not met before scheduled print publication of mining investigation. Subject of expose has not been contacted within the 72-hour editorial standards window.",
+      "CreatedAt": "2026-01-15T14:30:00Z",
+      "DetectedAt": "2026-01-15T14:00:00Z",
+      "Status": "Investigating"
+    },
+    {
+      "Id": "44444444-aaaa-1111-bbbb-ccccdddd0003",
+      "Severity": "Medium",
+      "Type": "Publication Timing Risk",
+      "EntityId": "c2b3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+      "EntityName": "News Diggers Investigative Unit",
+      "Description": "Coordinated print publication date for multi-newspaper investigation may conflict with ongoing court proceedings. Legal review required before distribution to print vendors.",
+      "CreatedAt": "2026-02-02T10:15:00Z",
+      "DetectedAt": "2026-02-02T10:00:00Z",
+      "Status": "Open"
+    },
+    {
+      "Id": "44444444-aaaa-1111-bbbb-ccccdddd0004",
+      "Severity": "High",
+      "Type": "Press Ethics Compliance",
+      "EntityId": "d3c4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "EntityName": "Bwalya Mwamba",
+      "Description": "Investigation subject Bwalya Mwamba filed formal complaint with Zambia Media Council alleging breach of press ethics in published print article. Compliance review initiated per ZAMEC code of conduct.",
+      "CreatedAt": "2025-12-10T09:00:00Z",
+      "DetectedAt": "2025-12-10T08:30:00Z",
+      "Status": "Investigating"
+    },
+    {
+      "Id": "44444444-aaaa-1111-bbbb-ccccdddd0005",
+      "Severity": "Low",
+      "Type": "FOIA Response Compliance",
+      "EntityId": "e0d1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+      "EntityName": "Times of Zambia FOIA Compliance Desk",
+      "Description": "Ministry of Mines exceeded 30-day statutory response window for FOIA request FOIA-2025-TZ-0089. Escalation to Information Commissioner recommended for print investigation timeline.",
+      "CreatedAt": "2025-11-28T16:00:00Z",
+      "DetectedAt": "2025-11-28T15:30:00Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "44444444-aaaa-1111-bbbb-ccccdddd0006",
+      "Severity": "Medium",
+      "Type": "Source Protection Audit",
+      "EntityId": "a6f7b8c9-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+      "EntityName": "Zambia Media Legal Defence Foundation",
+      "Description": "Quarterly source protection audit identified two instances where confidential source communications were stored on unencrypted systems at partner newspapers. Remediation guidance issued.",
+      "CreatedAt": "2025-10-15T11:00:00Z",
+      "DetectedAt": "2025-10-15T10:30:00Z",
+      "Status": "Resolved"
+    }
+  ],
+  "RiskTrends": [
+    { "Date": "2025-05-01T00:00:00Z", "RiskScore": 28 },
+    { "Date": "2025-06-01T00:00:00Z", "RiskScore": 32 },
+    { "Date": "2025-07-01T00:00:00Z", "RiskScore": 35 },
+    { "Date": "2025-08-01T00:00:00Z", "RiskScore": 41 },
+    { "Date": "2025-09-01T00:00:00Z", "RiskScore": 38 },
+    { "Date": "2025-10-01T00:00:00Z", "RiskScore": 45 },
+    { "Date": "2025-11-01T00:00:00Z", "RiskScore": 52 },
+    { "Date": "2025-12-01T00:00:00Z", "RiskScore": 48 },
+    { "Date": "2026-01-01T00:00:00Z", "RiskScore": 55 },
+    { "Date": "2026-02-01T00:00:00Z", "RiskScore": 51 }
+  ]
+}

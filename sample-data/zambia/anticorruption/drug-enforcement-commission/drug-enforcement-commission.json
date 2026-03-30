@@ -1,0 +1,83 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "Drug Enforcement Commission (DEC) - Headquarters",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Combat drug trafficking, prevent substance abuse, and investigate narcotics-related crimes and corruption.",
+    "TopPriorities": [
+      "Dismantle drug trafficking networks operating across Zambian borders.",
+      "Investigate corruption and money laundering linked to drug trade.",
+      "Conduct public awareness campaigns on drug abuse prevention."
+    ],
+    "ActiveOperations": [
+      "Cross-border operations targeting international drug cartels.",
+      "Financial investigations tracing proceeds from narcotics trade.",
+      "Community outreach programs in schools and vulnerable communities."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Major drug bust at Lusaka airport",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Intercepted significant quantity of narcotics in transit, leading to multiple arrests."
+      },
+      {
+        "Title": "Corruption charges filed against drug traffickers",
+        "Date": "2025-12-10T00:00:00Z",
+        "Summary": "Presented evidence of corruption and money laundering in Economic and Financial Crimes Court."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Police Service",
+      "Anti-Corruption Commission",
+      "Financial Intelligence Centre",
+      "International drug enforcement agencies"
+    ],
+    "Metrics": {
+      "DrugSeizures": "156 operations in past year",
+      "AssetsRecovered": "K18.3M from drug proceeds",
+      "Arrests": "89 suspects apprehended"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "AntiCorruption",
+    "DisplayName": "Drug Enforcement Commission - Investigation Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Combat drug trafficking, prevent substance abuse, and investigate narcotics-related crimes and corruption.",
+    "TopPriorities": [
+      "Track financial flows from drug operations to expose corruption networks.",
+      "Collaborate with international agencies on transnational drug crimes.",
+      "Build intelligence database on drug trafficking routes and methods."
+    ],
+    "ActiveOperations": [
+      "Undercover operations targeting major drug distribution networks.",
+      "Financial forensics linking drug money to corrupt officials.",
+      "Regional intelligence sharing with neighboring countries."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Dismantled major drug syndicate",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Coordinated raids led to seizure of drugs, weapons, and cash worth millions."
+      },
+      {
+        "Title": "Money laundering investigation completed",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Traced drug proceeds through multiple financial institutions and shell companies."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Commercial banks compliance departments",
+      "INTERPOL and regional law enforcement"
+    ],
+    "Metrics": {
+      "ActiveInvestigations": "34",
+      "AssetsSeized": "K22.1M",
+      "ConvictionRate": "73% in prosecuted cases"
+    }
+  }
+]

@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "03854bd8-03f6-0a84-1b99-009432f6d4ed",
+      "Name": "Corporate clients - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 48.1,
+      "IsCritical": false,
+      "Products": [
+        "insurance fraud"
+      ],
+      "AnnualSpend": 1443871.55
+    },
+    {
+      "Id": "00d4d7d9-05ef-1323-1651-00b1a55aed4f",
+      "Name": "Brokers - Livingstone",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 94.8,
+      "IsCritical": false,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 2049336.06
+    },
+    {
+      "Id": "00e557b6-16d2-1d80-1be5-0093886c003a",
+      "Name": "Corporate clients - Livingstone",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 93.2,
+      "IsCritical": false,
+      "Products": [
+        "claims processing"
+      ],
+      "AnnualSpend": 9662038.68
+    },
+    {
+      "Id": "05af5b7c-0b22-2566-19ac-003a0fbe5119",
+      "Name": "Claimants - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 56.5,
+      "IsCritical": false,
+      "Products": [
+        "insurance fraud"
+      ],
+      "AnnualSpend": 8273277.86
+    },
+    {
+      "Id": "05655b99-150e-1bde-22d1-00d7a0677d09",
+      "Name": "Corporate clients - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 69.4,
+      "IsCritical": false,
+      "Products": [
+        "insurance fraud"
+      ],
+      "AnnualSpend": 5440942.66
+    },
+    {
+      "Id": "03d54e4e-2062-0504-21e2-00265f135875",
+      "Name": "Corporate clients - Kabwe",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 81.7,
+      "IsCritical": true,
+      "Products": [
+        "underwriting"
+      ],
+      "AnnualSpend": 1965528.33
+    },
+    {
+      "Id": "03a5df3b-1144-1dfa-0c10-00437c5e0735",
+      "Name": "Claimants - Kabwe",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 44.3,
+      "IsCritical": false,
+      "Products": [
+        "claims processing"
+      ],
+      "AnnualSpend": 6846954.69
+    },
+    {
+      "Id": "0316a7b0-11d4-0c39-1316-00cc5fbb21a2",
+      "Name": "Brokers - Ndola",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 43.3,
+      "IsCritical": true,
+      "Products": [
+        "insurance fraud"
+      ],
+      "AnnualSpend": 8738261.25
+    },
+    {
+      "Id": "026c11a8-1ec3-11f4-11f9-00e877901a03",
+      "Name": "Corporate clients - Lusaka",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 85.4,
+      "IsCritical": true,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 3509920.29
+    },
+    {
+      "Id": "032ed3e2-059a-1bd5-1772-008e9794adf9",
+      "Name": "Policyholders - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 71.1,
+      "IsCritical": false,
+      "Products": [
+        "policy management"
+      ],
+      "AnnualSpend": 5928579.42
+    },
+    {
+      "Id": "02efc8c5-0476-2065-186a-00b2ba08b6a2",
+      "Name": "Policyholders - Lusaka",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 63.2,
+      "IsCritical": true,
+      "Products": [
+        "insurance fraud"
+      ],
+      "AnnualSpend": 656445.05
+    },
+    {
+      "Id": "011d7bc1-22fc-1bb8-1efb-004535747390",
+      "Name": "Corporate clients - Ndola",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 80.8,
+      "IsCritical": false,
+      "Products": [
+        "claims processing"
+      ],
+      "AnnualSpend": 4272627.51
+    },
+    {
+      "Id": "05a82f07-1823-24f4-046f-009b47023de4",
+      "Name": "Claimants - Lusaka",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 75.0,
+      "IsCritical": true,
+      "Products": [
+        "claims processing"
+      ],
+      "AnnualSpend": 4296711.09
+    },
+    {
+      "Id": "045b4e30-23be-0b94-23e8-00611f87a532",
+      "Name": "Policyholders - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 85.9,
+      "IsCritical": false,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 9768854.68
+    },
+    {
+      "Id": "03461920-0fbf-0f0e-1892-00dba1bf2255",
+      "Name": "Brokers - Kitwe",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 81.5,
+      "IsCritical": false,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 6147606.16
+    },
+    {
+      "Id": "040a6e69-1ad4-1c57-25d6-00a6667d97ab",
+      "Name": "Brokers - Kitwe",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 64.2,
+      "IsCritical": false,
+      "Products": [
+        "policy management"
+      ],
+      "AnnualSpend": 7081004.59
+    },
+    {
+      "Id": "00a124db-1466-17a2-1443-0047db71a04d",
+      "Name": "Claimants - Kitwe",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 91.3,
+      "IsCritical": true,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 7821338.51
+    },
+    {
+      "Id": "052e5061-116e-1bea-0be9-003551543dd4",
+      "Name": "Brokers - Ndola",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 61.3,
+      "IsCritical": true,
+      "Products": [
+        "policy management"
+      ],
+      "AnnualSpend": 7315409.48
+    },
+    {
+      "Id": "00dbf58d-06eb-1e2d-16e0-00314797e101",
+      "Name": "Corporate clients - Lusaka",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 94.4,
+      "IsCritical": true,
+      "Products": [
+        "underwriting"
+      ],
+      "AnnualSpend": 3475324.19
+    },
+    {
+      "Id": "04b1a8bb-0e60-26f1-0ee4-00533f74edc7",
+      "Name": "Claimants - Livingstone",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 56.1,
+      "IsCritical": false,
+      "Products": [
+        "insurance fraud"
+      ],
+      "AnnualSpend": 7832878.39
+    },
+    {
+      "Id": "03e69bc8-230d-26fc-1ee3-005a2849bf81",
+      "Name": "Brokers - Kabwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 55.7,
+      "IsCritical": false,
+      "Products": [
+        "claims processing"
+      ],
+      "AnnualSpend": 7852837.5
+    },
+    {
+      "Id": "0440acca-14cc-1176-210f-00b9504c391b",
+      "Name": "Corporate clients - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 94.6,
+      "IsCritical": true,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 1684334.7
+    },
+    {
+      "Id": "04c3b004-14ce-24f7-044e-00d11fa5fbf4",
+      "Name": "Brokers - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 75.1,
+      "IsCritical": false,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 2476181.94
+    },
+    {
+      "Id": "048cf120-1f6f-2201-22c2-00c76c1c0e41",
+      "Name": "Brokers - Livingstone",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 93.8,
+      "IsCritical": true,
+      "Products": [
+        "insurance fraud"
+      ],
+      "AnnualSpend": 4038806.78
+    },
+    {
+      "Id": "0321e385-25c9-07d9-1b2c-0042037173c4",
+      "Name": "Brokers - Ndola",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 70.7,
+      "IsCritical": false,
+      "Products": [
+        "policy management"
+      ],
+      "AnnualSpend": 3783921.48
+    },
+    {
+      "Id": "047c1d06-2216-2345-0658-0082933cd8ef",
+      "Name": "Claimants - Lusaka",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 55.8,
+      "IsCritical": false,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 8689493.22
+    },
+    {
+      "Id": "03b705fc-079e-12ed-11c8-001bb87dbcd2",
+      "Name": "Brokers - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 50.3,
+      "IsCritical": true,
+      "Products": [
+        "claims processing"
+      ],
+      "AnnualSpend": 5492160.46
+    },
+    {
+      "Id": "01bf08c0-14fc-2166-1593-0063e4326016",
+      "Name": "Claimants - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 40.4,
+      "IsCritical": true,
+      "Products": [
+        "claims processing"
+      ],
+      "AnnualSpend": 2421615.97
+    },
+    {
+      "Id": "026a97be-1682-0bd1-141e-00396ce7c912",
+      "Name": "Policyholders - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 62.3,
+      "IsCritical": false,
+      "Products": [
+        "underwriting"
+      ],
+      "AnnualSpend": 1532886.96
+    },
+    {
+      "Id": "05aa785c-0973-1021-1d7a-009b6e4d0900",
+      "Name": "Claimants - Kabwe",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 45.2,
+      "IsCritical": false,
+      "Products": [
+        "claims processing"
+      ],
+      "AnnualSpend": 6471450.42
+    },
+    {
+      "Id": "032acc0a-0775-231c-233e-00bd967d5f48",
+      "Name": "Policyholders - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 90.0,
+      "IsCritical": true,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 6907309.44
+    },
+    {
+      "Id": "04a13009-26fa-0fdb-122d-002e3018d279",
+      "Name": "Policyholders - Kabwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 61.8,
+      "IsCritical": false,
+      "Products": [
+        "underwriting"
+      ],
+      "AnnualSpend": 3347500.59
+    },
+    {
+      "Id": "040e6fc5-0800-0dbc-2421-00c781a499b8",
+      "Name": "Claimants - Livingstone",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 42.5,
+      "IsCritical": true,
+      "Products": [
+        "underwriting"
+      ],
+      "AnnualSpend": 7219600.69
+    },
+    {
+      "Id": "02167a85-045f-04eb-0be7-0097d43d7bd4",
+      "Name": "Policyholders - Kabwe",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 57.7,
+      "IsCritical": true,
+      "Products": [
+        "underwriting"
+      ],
+      "AnnualSpend": 4640560.77
+    },
+    {
+      "Id": "0597c91a-1f1f-2588-1864-00a40da5c68d",
+      "Name": "Brokers - Ndola",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 82.2,
+      "IsCritical": false,
+      "Products": [
+        "underwriting"
+      ],
+      "AnnualSpend": 7887552.78
+    },
+    {
+      "Id": "054b58fa-04d6-1164-1e83-006fe85e076e",
+      "Name": "Policyholders - Ndola",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 46.2,
+      "IsCritical": false,
+      "Products": [
+        "claims processing"
+      ],
+      "AnnualSpend": 5411767.77
+    },
+    {
+      "Id": "014b3b8d-1c2f-0efd-0c05-005c441dff89",
+      "Name": "Policyholders - Kabwe",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 88.2,
+      "IsCritical": false,
+      "Products": [
+        "insurance fraud"
+      ],
+      "AnnualSpend": 8689076.37
+    },
+    {
+      "Id": "05cc9bba-1d1d-0435-0d26-00a40f99c85b",
+      "Name": "Policyholders - Kitwe",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 78.1,
+      "IsCritical": false,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 7697011.67
+    },
+    {
+      "Id": "041da3d7-15e7-051d-088f-007bb3ce5f9c",
+      "Name": "Corporate clients - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 61.2,
+      "IsCritical": true,
+      "Products": [
+        "underwriting"
+      ],
+      "AnnualSpend": 3783433.97
+    },
+    {
+      "Id": "0506d415-173f-2108-07ea-00e1cf16a232",
+      "Name": "Corporate clients - Ndola",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 81.5,
+      "IsCritical": false,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 8404776.37
+    },
+    {
+      "Id": "0343000b-259e-13b8-1af4-0078269929f8",
+      "Name": "Brokers - Kabwe",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 44.9,
+      "IsCritical": false,
+      "Products": [
+        "claims processing"
+      ],
+      "AnnualSpend": 572828.35
+    },
+    {
+      "Id": "04463b3f-087d-1bd1-2699-00c6cfcc3eb3",
+      "Name": "Corporate clients - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 76.3,
+      "IsCritical": true,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 660159.8
+    },
+    {
+      "Id": "013f605a-18a5-1528-268f-001fd4ec8959",
+      "Name": "Claimants - Kitwe",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 84.9,
+      "IsCritical": false,
+      "Products": [
+        "insurance fraud"
+      ],
+      "AnnualSpend": 8022460.06
+    },
+    {
+      "Id": "03ed0c88-0b2d-0b62-19e6-00be31154c9a",
+      "Name": "Policyholders - Livingstone",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 64.1,
+      "IsCritical": true,
+      "Products": [
+        "insurance fraud"
+      ],
+      "AnnualSpend": 8494727.96
+    },
+    {
+      "Id": "024925df-2235-25ac-0dfa-00182bad93ce",
+      "Name": "Corporate clients - Kabwe",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 64.5,
+      "IsCritical": true,
+      "Products": [
+        "underwriting"
+      ],
+      "AnnualSpend": 2432574.34
+    },
+    {
+      "Id": "01e6c7fd-0a3e-0bb5-07dc-00d6e8c7f92c",
+      "Name": "Claimants - Kitwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 86.2,
+      "IsCritical": false,
+      "Products": [
+        "insurance fraud"
+      ],
+      "AnnualSpend": 5594849.26
+    },
+    {
+      "Id": "025525ba-23b4-158c-2560-002613dc3ab4",
+      "Name": "Claimants - Ndola",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 57.3,
+      "IsCritical": true,
+      "Products": [
+        "claims processing"
+      ],
+      "AnnualSpend": 1060628.3
+    },
+    {
+      "Id": "01dd923f-0c76-1f83-182a-008bec00c87b",
+      "Name": "Corporate clients - Lusaka",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 65.8,
+      "IsCritical": true,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 2357915.84
+    },
+    {
+      "Id": "05df696a-1f99-165b-1d9a-0045acb9bfc2",
+      "Name": "Brokers - Kitwe",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 73.7,
+      "IsCritical": true,
+      "Products": [
+        "risk assessment"
+      ],
+      "AnnualSpend": 4145866.08
+    },
+    {
+      "Id": "034ce3e0-1c0b-0e3d-0cb7-007e08f34efa",
+      "Name": "Corporate clients - Kitwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 52.7,
+      "IsCritical": true,
+      "Products": [
+        "policy management"
+      ],
+      "AnnualSpend": 9460318.68
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "04a68ac7-0e9f-17c8-224f-00986fdd38d1",
+      "FromSupplierId": "047c1d06-2216-2345-0658-0082933cd8ef",
+      "ToSupplierId": "0597c91a-1f1f-2588-1864-00a40da5c68d",
+      "Type": "supplies",
+      "DependencyLevel": 0.55,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "020ffa9d-107b-0937-06eb-004519bf146a",
+      "FromSupplierId": "040a6e69-1ad4-1c57-25d6-00a6667d97ab",
+      "ToSupplierId": "0506d415-173f-2108-07ea-00e1cf16a232",
+      "Type": "partnership",
+      "DependencyLevel": 0.9,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "00e9ea8d-19c6-050b-0e3c-00a6be65a76b",
+      "FromSupplierId": "026c11a8-1ec3-11f4-11f9-00e877901a03",
+      "ToSupplierId": "0597c91a-1f1f-2588-1864-00a40da5c68d",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.81,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0382cbdb-09d6-109e-0fff-00c3cbd42ee0",
+      "FromSupplierId": "013f605a-18a5-1528-268f-001fd4ec8959",
+      "ToSupplierId": "054b58fa-04d6-1164-1e83-006fe85e076e",
+      "Type": "supplies",
+      "DependencyLevel": 0.63,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04c2df90-1711-0828-0c7a-003b584eb1ac",
+      "FromSupplierId": "01e6c7fd-0a3e-0bb5-07dc-00d6e8c7f92c",
+      "ToSupplierId": "0597c91a-1f1f-2588-1864-00a40da5c68d",
+      "Type": "partnership",
+      "DependencyLevel": 0.47,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "05eaf919-110c-0c84-23eb-0081f565f23c",
+      "FromSupplierId": "04b1a8bb-0e60-26f1-0ee4-00533f74edc7",
+      "ToSupplierId": "052e5061-116e-1bea-0be9-003551543dd4",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.74,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "048209c1-25e2-1e47-143d-00d906237ca8",
+      "FromSupplierId": "026c11a8-1ec3-11f4-11f9-00e877901a03",
+      "ToSupplierId": "011d7bc1-22fc-1bb8-1efb-004535747390",
+      "Type": "supplies",
+      "DependencyLevel": 0.55,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04f28712-0f07-24a1-21a7-006853e63f4e",
+      "FromSupplierId": "03d54e4e-2062-0504-21e2-00265f135875",
+      "ToSupplierId": "047c1d06-2216-2345-0658-0082933cd8ef",
+      "Type": "supplies",
+      "DependencyLevel": 0.44,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0172f639-0a6c-2439-10ad-00da11331823",
+      "FromSupplierId": "00d4d7d9-05ef-1323-1651-00b1a55aed4f",
+      "ToSupplierId": "00a124db-1466-17a2-1443-0047db71a04d",
+      "Type": "supplies",
+      "DependencyLevel": 0.85,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0242d11e-0cd5-136c-19b0-00244da5a7d2",
+      "FromSupplierId": "0506d415-173f-2108-07ea-00e1cf16a232",
+      "ToSupplierId": "05a82f07-1823-24f4-046f-009b47023de4",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.61,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0453409b-04b0-1941-0e43-00ab1f987413",
+      "FromSupplierId": "05a82f07-1823-24f4-046f-009b47023de4",
+      "ToSupplierId": "014b3b8d-1c2f-0efd-0c05-005c441dff89",
+      "Type": "supplies",
+      "DependencyLevel": 0.66,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02638260-211f-2186-094f-00d1793331ff",
+      "FromSupplierId": "00a124db-1466-17a2-1443-0047db71a04d",
+      "ToSupplierId": "04463b3f-087d-1bd1-2699-00c6cfcc3eb3",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.64,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03e71869-1bfb-19cf-24e2-00c3513a12b5",
+      "FromSupplierId": "04a13009-26fa-0fdb-122d-002e3018d279",
+      "ToSupplierId": "05aa785c-0973-1021-1d7a-009b6e4d0900",
+      "Type": "partnership",
+      "DependencyLevel": 0.58,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "02344abc-068f-0ba2-18be-003147a15d64",
+      "FromSupplierId": "026c11a8-1ec3-11f4-11f9-00e877901a03",
+      "ToSupplierId": "040e6fc5-0800-0dbc-2421-00c781a499b8",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.55,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0591d615-0580-2225-25b4-0085b01f3170",
+      "FromSupplierId": "05cc9bba-1d1d-0435-0d26-00a40f99c85b",
+      "ToSupplierId": "03ed0c88-0b2d-0b62-19e6-00be31154c9a",
+      "Type": "partnership",
+      "DependencyLevel": 0.51,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04f8efa4-0a48-1db2-2431-00e384276e6d",
+      "FromSupplierId": "040e6fc5-0800-0dbc-2421-00c781a499b8",
+      "ToSupplierId": "026c11a8-1ec3-11f4-11f9-00e877901a03",
+      "Type": "partnership",
+      "DependencyLevel": 0.56,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "020b84d3-0a6f-190a-14ee-00c454b2aa15",
+      "FromSupplierId": "047c1d06-2216-2345-0658-0082933cd8ef",
+      "ToSupplierId": "014b3b8d-1c2f-0efd-0c05-005c441dff89",
+      "Type": "partnership",
+      "DependencyLevel": 0.44,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0112936b-22bf-0cf0-0bbc-00a62759b9fb",
+      "FromSupplierId": "03854bd8-03f6-0a84-1b99-009432f6d4ed",
+      "ToSupplierId": "04463b3f-087d-1bd1-2699-00c6cfcc3eb3",
+      "Type": "partnership",
+      "DependencyLevel": 0.51,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04b46464-192c-2138-0c16-00a0f1b8f8be",
+      "FromSupplierId": "047c1d06-2216-2345-0658-0082933cd8ef",
+      "ToSupplierId": "041da3d7-15e7-051d-088f-007bb3ce5f9c",
+      "Type": "supplies",
+      "DependencyLevel": 0.79,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03be5745-1f6b-25b4-0c27-00e8011712d4",
+      "FromSupplierId": "013f605a-18a5-1528-268f-001fd4ec8959",
+      "ToSupplierId": "01dd923f-0c76-1f83-182a-008bec00c87b",
+      "Type": "partnership",
+      "DependencyLevel": 0.81,
+      "IsCriticalPath": false
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "geographic",
+      "Description": "Concentration of risk assessment in Kabwe",
+      "ConcentrationLevel": 75.3,
+      "AffectedSuppliers": [
+        "Corporate clients - Kabwe",
+        "Claimants - Lusaka",
+        "Claimants - Livingstone"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "05b4754b-0c98-1b3f-100a-00e091fb0bef",
+      "SupplierId": "03854bd8-03f6-0a84-1b99-009432f6d4ed",
+      "SupplierName": "Corporate clients - Kitwe",
+      "RiskType": "financial",
+      "Severity": "high",
+      "Description": "Risk detected in risk assessment operations",
+      "DetectedAt": "2026-01-11T17:30:30Z",
+      "IsAcknowledged": false,
+      "AffectedDownstreamSuppliers": [
+        "00d4d7d9-05ef-1323-1651-00b1a55aed4f",
+        "032acc0a-0775-231c-233e-00bd967d5f48"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 23,
+    "HighRiskSuppliers": 17,
+    "AverageRiskScore": 68.9,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

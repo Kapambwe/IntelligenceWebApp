@@ -1,0 +1,42 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Newspaper",
+    "DisplayName": "The Mast",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Report on public finance, legal proceedings, and civic accountability while keeping readers informed.",
+    "TopPriorities": [
+      "Cover Economic and Financial Crimes Court proceedings involving fraud cases.",
+      "Explain how ZRA intelligence and ACC cooperate on investigations.",
+      "Highlight policy changes from the Ministry of Finance."
+    ],
+    "ActiveOperations": [
+      "Daily investigative beat focused on revenue leaks and public procurement.",
+      "Audience feedback forums sharing community complaints on tax enforcement.",
+      "Data journalism team building interactive charts from government data releases."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Published feature on revenue collection initiatives",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Explained how authorities use technology to detect tax fraud."
+      },
+      {
+        "Title": "Live-reported Economic Crimes Court updates",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "Provided real-time summaries of proceedings in major fraud cases."
+      }
+    ],
+    "KeyPartnerships": [
+      "Anti-Corruption Commission transparency desk",
+      "Zambia Revenue Authority communications team",
+      "Local civil society organizations"
+    ],
+    "Metrics": {
+      "InvestigativeStories": "30 articles in past 6 months",
+      "AudienceReach": "0.6M page views",
+      "PublicFeedback": "257 reports of issues"
+    }
+  }
+]

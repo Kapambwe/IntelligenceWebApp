@@ -1,0 +1,2002 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "MTN Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-17T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-03T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "470 tickets resolved",
+      "SuspiciousTransfers": "56 flagged transfers",
+      "NetworkCoverage": "21 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Airtel Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "237 tickets resolved",
+      "SuspiciousTransfers": "60 flagged transfers",
+      "NetworkCoverage": "18 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Zamtel",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "217 tickets resolved",
+      "SuspiciousTransfers": "74 flagged transfers",
+      "NetworkCoverage": "17 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Liquid Telecom Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-16T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-16T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "298 tickets resolved",
+      "SuspiciousTransfers": "61 flagged transfers",
+      "NetworkCoverage": "22 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Vodacom Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-28T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "264 tickets resolved",
+      "SuspiciousTransfers": "46 flagged transfers",
+      "NetworkCoverage": "29 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "CEC Liquid Telecom",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-14T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-05T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "481 tickets resolved",
+      "SuspiciousTransfers": "48 flagged transfers",
+      "NetworkCoverage": "25 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Realtime Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-10T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-20T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "367 tickets resolved",
+      "SuspiciousTransfers": "45 flagged transfers",
+      "NetworkCoverage": "29 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Copperbelt Communications",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-02T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-29T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "489 tickets resolved",
+      "SuspiciousTransfers": "55 flagged transfers",
+      "NetworkCoverage": "19 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Zambia Wireless",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-08T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "336 tickets resolved",
+      "SuspiciousTransfers": "47 flagged transfers",
+      "NetworkCoverage": "25 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "FiberCom Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-28T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "466 tickets resolved",
+      "SuspiciousTransfers": "32 flagged transfers",
+      "NetworkCoverage": "22 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Kafue Telecom Services 1 - Mpika Office",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-18T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-18T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "285 tickets resolved",
+      "SuspiciousTransfers": "79 flagged transfers",
+      "NetworkCoverage": "19 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Choma Telecom Services 2 - Mazabuka Office",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-04T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-21T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "421 tickets resolved",
+      "SuspiciousTransfers": "53 flagged transfers",
+      "NetworkCoverage": "27 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Livingstone Telecom Services 3 - Mongu Office",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-04T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-10-26T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "479 tickets resolved",
+      "SuspiciousTransfers": "42 flagged transfers",
+      "NetworkCoverage": "21 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Lusaka Telecom Services 4 - Mazabuka Office",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-16T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-10-31T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "458 tickets resolved",
+      "SuspiciousTransfers": "67 flagged transfers",
+      "NetworkCoverage": "18 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Petauke Telecom Services 5 - Solwezi Office",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-18T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-10-25T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "321 tickets resolved",
+      "SuspiciousTransfers": "32 flagged transfers",
+      "NetworkCoverage": "20 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Monze Telecom Services 6 - Kabwe Office",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "472 tickets resolved",
+      "SuspiciousTransfers": "52 flagged transfers",
+      "NetworkCoverage": "28 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Kasama Telecom Services 7 - Lundazi Office",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-27T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "410 tickets resolved",
+      "SuspiciousTransfers": "30 flagged transfers",
+      "NetworkCoverage": "17 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Mazabuka Telecom Services 8 - Lusaka Office",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "483 tickets resolved",
+      "SuspiciousTransfers": "30 flagged transfers",
+      "NetworkCoverage": "17 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Ndola Telecom Services 9 - Kafue Office",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-14T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "315 tickets resolved",
+      "SuspiciousTransfers": "32 flagged transfers",
+      "NetworkCoverage": "18 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Solwezi Telecom Services 10 - Kafue Office",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-24T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "474 tickets resolved",
+      "SuspiciousTransfers": "69 flagged transfers",
+      "NetworkCoverage": "24 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Lusaka Telecom Services 11 - Kafue Office",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-10-25T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "380 tickets resolved",
+      "SuspiciousTransfers": "30 flagged transfers",
+      "NetworkCoverage": "30 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Choma Telecom Services 12 - Mansa Office",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-22T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "475 tickets resolved",
+      "SuspiciousTransfers": "54 flagged transfers",
+      "NetworkCoverage": "25 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Lusaka Telecom Services 13 - Kasama Office",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-14T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-13T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "341 tickets resolved",
+      "SuspiciousTransfers": "44 flagged transfers",
+      "NetworkCoverage": "29 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Kitwe Telecom Services 14 - Petauke Office",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-12-01T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "341 tickets resolved",
+      "SuspiciousTransfers": "59 flagged transfers",
+      "NetworkCoverage": "21 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Choma Telecom Services 15 - Chipata Office",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-16T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-07T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "262 tickets resolved",
+      "SuspiciousTransfers": "33 flagged transfers",
+      "NetworkCoverage": "27 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Mansa Telecom Services 16 - Lusaka Office",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-18T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-04T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "300 tickets resolved",
+      "SuspiciousTransfers": "77 flagged transfers",
+      "NetworkCoverage": "18 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Lundazi Telecom Services 17 - Petauke Office",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-03T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "236 tickets resolved",
+      "SuspiciousTransfers": "79 flagged transfers",
+      "NetworkCoverage": "24 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Livingstone Telecom Services 18 - Livingstone Office",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-05T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "245 tickets resolved",
+      "SuspiciousTransfers": "32 flagged transfers",
+      "NetworkCoverage": "15 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Kitwe Telecom Services 19 - Kasama Office",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-10-31T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "242 tickets resolved",
+      "SuspiciousTransfers": "38 flagged transfers",
+      "NetworkCoverage": "15 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Kasama Telecom Services 20 - Mansa Office",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-24T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "290 tickets resolved",
+      "SuspiciousTransfers": "38 flagged transfers",
+      "NetworkCoverage": "21 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Mansa Telecom Services 21 - Livingstone Office",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-05T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-02T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "493 tickets resolved",
+      "SuspiciousTransfers": "33 flagged transfers",
+      "NetworkCoverage": "16 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Mufulira Telecom Services 22 - Kitwe Office",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-16T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-30T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "397 tickets resolved",
+      "SuspiciousTransfers": "39 flagged transfers",
+      "NetworkCoverage": "29 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Kitwe Telecom Services 23 - Mbala Office",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "449 tickets resolved",
+      "SuspiciousTransfers": "48 flagged transfers",
+      "NetworkCoverage": "26 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Petauke Telecom Services 24 - Kafue Office",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-26T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "322 tickets resolved",
+      "SuspiciousTransfers": "48 flagged transfers",
+      "NetworkCoverage": "21 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Kasama Telecom Services 25 - Mazabuka Office",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-10-27T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "324 tickets resolved",
+      "SuspiciousTransfers": "30 flagged transfers",
+      "NetworkCoverage": "19 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Solwezi Telecom Services 26 - Solwezi Office",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-10-29T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "498 tickets resolved",
+      "SuspiciousTransfers": "59 flagged transfers",
+      "NetworkCoverage": "25 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Kafue Telecom Services 27 - Kabwe Office",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-12T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "297 tickets resolved",
+      "SuspiciousTransfers": "43 flagged transfers",
+      "NetworkCoverage": "21 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Lundazi Telecom Services 28 - Petauke Office",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-07T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-10-28T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "294 tickets resolved",
+      "SuspiciousTransfers": "31 flagged transfers",
+      "NetworkCoverage": "20 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Kitwe Telecom Services 29 - Solwezi Office",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-07T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "487 tickets resolved",
+      "SuspiciousTransfers": "61 flagged transfers",
+      "NetworkCoverage": "17 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Kasama Telecom Services 30 - Livingstone Office",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-02T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "365 tickets resolved",
+      "SuspiciousTransfers": "36 flagged transfers",
+      "NetworkCoverage": "19 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Mpika Telecom Services 31 - Lusaka Office",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-01T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "205 tickets resolved",
+      "SuspiciousTransfers": "36 flagged transfers",
+      "NetworkCoverage": "22 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Lusaka Telecom Services 32 - Mufulira Office",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-07T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-10-30T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "490 tickets resolved",
+      "SuspiciousTransfers": "75 flagged transfers",
+      "NetworkCoverage": "20 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Kabwe Telecom Services 33 - Monze Office",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-17T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-27T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "478 tickets resolved",
+      "SuspiciousTransfers": "31 flagged transfers",
+      "NetworkCoverage": "17 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Choma Telecom Services 34 - Lusaka Office",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-29T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-13T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "313 tickets resolved",
+      "SuspiciousTransfers": "37 flagged transfers",
+      "NetworkCoverage": "15 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Kafue Telecom Services 35 - Monze Office",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-14T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "425 tickets resolved",
+      "SuspiciousTransfers": "35 flagged transfers",
+      "NetworkCoverage": "26 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Choma Telecom Services 36 - Lusaka Office",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-30T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "378 tickets resolved",
+      "SuspiciousTransfers": "69 flagged transfers",
+      "NetworkCoverage": "23 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Kitwe Telecom Services 37 - Mufulira Office",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-13T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "351 tickets resolved",
+      "SuspiciousTransfers": "72 flagged transfers",
+      "NetworkCoverage": "15 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Mbala Telecom Services 38 - Mufulira Office",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-10T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-25T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "343 tickets resolved",
+      "SuspiciousTransfers": "55 flagged transfers",
+      "NetworkCoverage": "25 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Chingola Telecom Services 39 - Mazabuka Office",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-04T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-01T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "420 tickets resolved",
+      "SuspiciousTransfers": "30 flagged transfers",
+      "NetworkCoverage": "19 new towers deployed"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "Chingola Telecom Services 40 - Petauke Office",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2026-01-16T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-02T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "220 tickets resolved",
+      "SuspiciousTransfers": "60 flagged transfers",
+      "NetworkCoverage": "20 new towers deployed"
+    }
+  }
+]

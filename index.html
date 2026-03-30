@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IntelligenceWebApp</title>
+    <base href="/" id="dynamic-base">
+    <script>
+        // Dynamically set base path for GitHub Pages deployment
+        (function () {
+            var base = document.getElementById('dynamic-base');
+            var path = window.location.pathname.includes('/IntelligenceWebApp')
+                ? '/IntelligenceWebApp/'
+                : '/';
+            base.setAttribute('href', path);
+        })();
+    </script>
+
+    <!-- Preconnect to external domains for faster resource loading -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://unpkg.com" />
+
+    <!-- Preload critical CSS -->
+    <link rel="preload" href="css/app.css" as="style" />
+    <link rel="preload" href="_content/Radzen.Blazor/css/material-base.css" as="style" />
+
+    <!-- Critical CSS - loaded synchronously -->
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="_content/Radzen.Blazor/css/material-base.css" />
+    <link href="IntelligenceWebApp.styles.css" rel="stylesheet" />
+
+    <!-- Non-critical CSS - loaded with lower priority -->
+    <link rel="stylesheet" href="css/platform-colors.css" media="print" onload="this.media='all'" />
+    <link rel="stylesheet" href="css/platform-network.css" media="print" onload="this.media='all'" />
+    <link rel="stylesheet" href="css/platform-components.css" media="print" onload="this.media='all'" />
+
+    <!-- Google Fonts with display=swap for better performance -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons&display=swap" />
+
+    <link rel="icon" type="image/png" href="favicon.png" />
+
+    <!-- Leaflet.js CSS - deferred loading for non-critical map styles -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin=""
+          media="print" onload="this.media='all'" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"
+          media="print" onload="this.media='all'" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"
+          media="print" onload="this.media='all'" />
+
+    <!-- Fallback for browsers with JS disabled -->
+    <noscript>
+        <link rel="stylesheet" href="css/platform-colors.css" />
+        <link rel="stylesheet" href="css/platform-network.css" />
+        <link rel="stylesheet" href="css/platform-components.css" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    </noscript>
+</head>
+
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">🗙</span>
+    </div>
+
+    <!-- Critical: Blazor framework must load first -->
+    <script src="_framework/blazor.webassembly.js" autostart="false"></script>
+    <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+
+    <!-- Helper scripts - defer loading -->
+    <script src="js/helper.js" defer></script>
+
+    <!-- Non-critical JS modules - load after Blazor starts -->
+    <script type="module">
+        // Start Blazor after initial scripts are ready
+        Blazor.start().then(() => {
+            console.log('Blazor started successfully');
+        });
+    </script>
+
+    <!-- Lazy-load map and visualization libraries only when needed -->
+    <script>
+        // Leaflet and related libraries loader - loads on demand
+        window.loadMapLibraries = function() {
+            if (window.L) return Promise.resolve(); // Already loaded
+
+            return new Promise((resolve) => {
+                const scripts = [
+                    { src: 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js', integrity: 'sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=' },
+                    { src: 'https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js' },
+                    { src: 'https://unpkg.com/leaflet-heat@0.2.0/dist/leaflet-heat.js' },
+                    { src: 'https://unpkg.com/leaflet-polylinedecorator@1.6.0/dist/leaflet.polylineDecorator.js' }
+                ];
+
+                let loaded = 0;
+                scripts.forEach((scriptInfo, index) => {
+                    const script = document.createElement('script');
+                    script.src = scriptInfo.src;
+                    if (scriptInfo.integrity) {
+                        script.integrity = scriptInfo.integrity;
+                        script.crossOrigin = '';
+                    }
+                    script.onload = () => {
+                        loaded++;
+                        if (loaded === scripts.length) resolve();
+                    };
+                    // Load sequentially to maintain dependencies
+                    if (index === 0) {
+                        document.body.appendChild(script);
+                    } else {
+                        scripts[index - 1].element = script;
+                    }
+                });
+            });
+        };
+
+        // Network graph loader
+        window.loadNetworkGraphLibraries = function() {
+            if (window.networkGraphLoaded) return Promise.resolve();
+
+            return new Promise((resolve) => {
+                const scripts = ['js/network-graph.js', 'js/timeline-visualization.js', 'js/timeline-controller.js'];
+                let loaded = 0;
+                scripts.forEach(src => {
+                    const script = document.createElement('script');
+                    script.src = src;
+                    script.onload = () => {
+                        loaded++;
+                        if (loaded === scripts.length) {
+                            window.networkGraphLoaded = true;
+                            resolve();
+                        }
+                    };
+                    document.body.appendChild(script);
+                });
+            });
+        };
+    </script>
+
+    <!-- Module scripts - these load in parallel and execute in order -->
+    <script src="js/keyboard-shortcuts.js" type="module"></script>
+    <script src="js/cytoscape-network-graph.js" type="module"></script>
+    <script src="js/geospatial-map.js" type="module"></script>
+
+    <script>
+        // If redirected from 404.html, restore path
+        (function () {
+            const params = new URLSearchParams(window.location.search);
+            const path = params.get('path');
+            if (path) {
+                window.history.replaceState(null, '', '/IntelligenceWebApp' + decodeURIComponent(path));
+            }
+        })();
+    </script>
+</body>
+
+</html>

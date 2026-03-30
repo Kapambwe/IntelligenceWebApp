@@ -1,0 +1,226 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "33333333-aaaa-1111-bbbb-ccccddddeeee",
+      "Name": "Source Credibility Model",
+      "Description": "Evaluates the reliability and trustworthiness of anonymous and named sources providing information for print newspaper investigations. Incorporates document provenance analysis, corroboration scoring, and historical accuracy tracking across published print editions.",
+      "Status": "Active",
+      "CreatedAt": "2025-02-10T08:00:00Z",
+      "LastModifiedAt": "2026-01-12T14:30:00Z",
+      "Version": "1.0",
+      "Factors": [
+        {
+          "Id": "33333333-f001-1111-aaaa-bbbbccccdddd",
+          "Name": "Document Corroboration Rate",
+          "Description": "Percentage of source-provided documents independently verified through FOIA requests and archival cross-referencing",
+          "Category": "Behavioral",
+          "Weight": 0.30,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "33333333-f002-1111-aaaa-bbbbccccdddd",
+          "Name": "Source Historical Accuracy",
+          "Description": "Track record of prior tips and documents from the same source that led to published and unchallenged print articles",
+          "Category": "Behavioral",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "33333333-f003-1111-aaaa-bbbbccccdddd",
+          "Name": "Geographic Proximity to Subject",
+          "Description": "Source proximity to the institutions or individuals under investigation, weighted by access plausibility",
+          "Category": "Geographic",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "33333333-f004-1111-aaaa-bbbbccccdddd",
+          "Name": "Financial Motivation Assessment",
+          "Description": "Evaluation of potential financial incentives or conflicts of interest that may compromise source credibility",
+          "Category": "Financial",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "33333333-f005-1111-aaaa-bbbbccccdddd",
+          "Name": "Relationship Network Density",
+          "Description": "Density of known relationships between source and investigation subjects, indicating potential bias or access",
+          "Category": "Relationship",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.87,
+        "Precision": 0.84,
+        "Recall": 0.91,
+        "F1Score": 0.87,
+        "TotalPredictions": 342,
+        "TruePositives": 156,
+        "FalsePositives": 30,
+        "TrueNegatives": 142,
+        "FalseNegatives": 14
+      }
+    },
+    {
+      "Id": "33333333-aaaa-2222-bbbb-ccccddddeeee",
+      "Name": "Publication Risk Model",
+      "Description": "Assesses legal, ethical, and reputational risks associated with publishing investigative print articles. Evaluates defamation exposure, source protection obligations, public interest justification, and editorial standards compliance for long-form print exposes.",
+      "Status": "Active",
+      "CreatedAt": "2025-04-18T10:00:00Z",
+      "LastModifiedAt": "2025-12-20T09:15:00Z",
+      "Version": "1.0",
+      "Factors": [
+        {
+          "Id": "33333333-f006-2222-aaaa-bbbbccccdddd",
+          "Name": "Defamation Liability Score",
+          "Description": "Probability of successful defamation action based on evidence strength, public interest defence, and subject profile",
+          "Category": "Compliance",
+          "Weight": 0.30,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "33333333-f007-2222-aaaa-bbbbccccdddd",
+          "Name": "Source Protection Exposure",
+          "Description": "Risk of source identification through published content analysis, even after redaction and anonymisation",
+          "Category": "Behavioral",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "33333333-f008-2222-aaaa-bbbbccccdddd",
+          "Name": "Print Distribution Reach Impact",
+          "Description": "Calculated impact based on print circulation figures, regional distribution, and estimated readership multiplier",
+          "Category": "Geographic",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "33333333-f009-2222-aaaa-bbbbccccdddd",
+          "Name": "Financial Impact on Subject",
+          "Description": "Estimated financial consequences for investigation subjects following print publication, including share price and contract effects",
+          "Category": "Financial",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "33333333-f010-2222-aaaa-bbbbccccdddd",
+          "Name": "Transaction Pattern Anomaly",
+          "Description": "Detection of irregular financial transactions linked to investigation subjects identified through archival research",
+          "Category": "Transactional",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.82,
+        "Precision": 0.79,
+        "Recall": 0.86,
+        "F1Score": 0.82,
+        "TotalPredictions": 218,
+        "TruePositives": 98,
+        "FalsePositives": 26,
+        "TrueNegatives": 81,
+        "FalseNegatives": 13
+      }
+    },
+    {
+      "Id": "33333333-aaaa-3333-bbbb-ccccddddeeee",
+      "Name": "Investigation Security Model",
+      "Description": "Monitors operational security risks during active print newspaper investigations. Tracks potential information leaks, surveillance indicators, digital and physical security threats to journalists and sources, and chain-of-custody integrity for evidentiary documents.",
+      "Status": "Active",
+      "CreatedAt": "2025-06-01T07:30:00Z",
+      "LastModifiedAt": "2026-02-03T11:00:00Z",
+      "Version": "1.0",
+      "Factors": [
+        {
+          "Id": "33333333-f011-3333-aaaa-bbbbccccdddd",
+          "Name": "Information Leak Probability",
+          "Description": "Likelihood of premature disclosure of investigation details before print publication date based on access patterns",
+          "Category": "Behavioral",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "33333333-f012-3333-aaaa-bbbbccccdddd",
+          "Name": "Journalist Physical Security Threat",
+          "Description": "Assessment of physical threat level to investigative journalists based on subject profiles and regional risk factors",
+          "Category": "Geographic",
+          "Weight": 0.20,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "33333333-f013-3333-aaaa-bbbbccccdddd",
+          "Name": "Document Chain-of-Custody Integrity",
+          "Description": "Verification score for evidentiary document handling from source acquisition through print publication",
+          "Category": "Compliance",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "33333333-f014-3333-aaaa-bbbbccccdddd",
+          "Name": "Financial Trail Concealment",
+          "Description": "Degree to which investigation subjects have attempted to obscure financial records discovered through FOIA requests",
+          "Category": "Financial",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "33333333-f015-3333-aaaa-bbbbccccdddd",
+          "Name": "Network Infiltration Risk",
+          "Description": "Probability that investigation subjects or associates have penetrated the journalist-source relationship network",
+          "Category": "Relationship",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.89,
+        "Precision": 0.86,
+        "Recall": 0.92,
+        "F1Score": 0.89,
+        "TotalPredictions": 185,
+        "TruePositives": 88,
+        "FalsePositives": 14,
+        "TrueNegatives": 77,
+        "FalseNegatives": 6
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 15,
+    "AverageRiskScore": 34.7
+  }
+}

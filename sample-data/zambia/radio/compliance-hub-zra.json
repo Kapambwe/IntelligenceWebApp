@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 267,
+  "ActiveAlerts": 14,
+  "PendingReviews": 3,
+  "ComplianceScore": 80.2,
+  "Alerts": [
+    {
+      "Id": "0546a3b0-22c4-258f-14a9-00c88bb6f4a0",
+      "Type": "News broadcasting",
+      "Severity": "Low",
+      "EntityName": "Corporations - Mongu",
+      "Description": "Fact verification revealed accountability involving public officials",
+      "DetectedAt": "2025-11-24T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "034698f2-1311-25f6-0820-005155557684",
+      "Type": "Public awareness",
+      "Severity": "Low",
+      "EntityName": "Corporations - Kitwe",
+      "Description": "Fact verification revealed accountability involving news subjects",
+      "DetectedAt": "2026-01-05T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04667fae-26ed-19a8-0fd4-00349801ab42",
+      "Type": "Accountability",
+      "Severity": "Medium",
+      "EntityName": "Public officials - Kitwe",
+      "Description": "Broadcasting revealed accountability involving corporations",
+      "DetectedAt": "2025-11-19T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04d62fc8-08f9-263a-1dc8-00b33a193685",
+      "Type": "Accountability",
+      "Severity": "Low",
+      "EntityName": "News subjects - Mongu",
+      "Description": "Interview revealed community engagement involving corporations",
+      "DetectedAt": "2026-01-06T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03e45fd2-0b42-13ef-059e-008627615eae",
+      "Type": "Investigative reporting",
+      "Severity": "Low",
+      "EntityName": "News subjects - nationwide broadcast",
+      "Description": "Fact verification revealed investigative reporting involving news subjects",
+      "DetectedAt": "2025-11-21T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "048ca110-0b6a-23cb-0beb-00201b16d233",
+      "Type": "Public awareness",
+      "Severity": "Critical",
+      "EntityName": "Corporations - Kitwe",
+      "Description": "Program production revealed public awareness involving corporations",
+      "DetectedAt": "2025-11-30T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "05f2e9c1-19fa-265e-16e9-00390b8d628b",
+      "Type": "Community engagement",
+      "Severity": "Critical",
+      "EntityName": "Public officials - Chipata",
+      "Description": "Broadcasting revealed investigative reporting involving public officials",
+      "DetectedAt": "2025-10-31T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00d630c6-1826-1106-0b55-00600d207427",
+      "Type": "Community engagement",
+      "Severity": "Low",
+      "EntityName": "News subjects - nationwide broadcast",
+      "Description": "Broadcasting revealed investigative reporting involving news subjects",
+      "DetectedAt": "2025-11-23T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02462b9a-1e98-1a16-0a42-00d38db22c4f",
+      "Type": "Accountability",
+      "Severity": "Critical",
+      "EntityName": "Community leaders - Chipata",
+      "Description": "Fact verification revealed news broadcasting involving news subjects",
+      "DetectedAt": "2025-11-20T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00e5b593-1350-2611-0b31-008c4c358b68",
+      "Type": "News broadcasting",
+      "Severity": "Low",
+      "EntityName": "Corporations - Lusaka",
+      "Description": "Program production revealed news broadcasting involving corporations",
+      "DetectedAt": "2025-12-02T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05e8e639-0d03-2638-14a4-00588363088d",
+      "Type": "Investigative reporting",
+      "Severity": "Low",
+      "EntityName": "Community leaders - Kitwe",
+      "Description": "Fact verification revealed public awareness involving news subjects",
+      "DetectedAt": "2025-12-14T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02ba9819-1531-1183-0b8f-00820949d9f0",
+      "Type": "Public awareness",
+      "Severity": "Critical",
+      "EntityName": "Public officials - nationwide broadcast",
+      "Description": "Program production revealed public awareness involving community leaders",
+      "DetectedAt": "2025-12-09T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01b7002e-20d3-232c-0766-005229d42e66",
+      "Type": "Community engagement",
+      "Severity": "High",
+      "EntityName": "Community leaders - nationwide broadcast",
+      "Description": "Investigation revealed accountability involving public officials",
+      "DetectedAt": "2025-12-08T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "041d8752-2614-1430-2358-00a525b0d03c",
+      "Type": "Investigative reporting",
+      "Severity": "Critical",
+      "EntityName": "Community leaders - Lusaka",
+      "Description": "Interview revealed community engagement involving public officials",
+      "DetectedAt": "2025-12-22T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "05f468b5-1f08-2250-0f0f-00ad83121d68",
+      "Type": "Investigative reporting",
+      "Severity": "Medium",
+      "EntityName": "Public officials - nationwide broadcast",
+      "Description": "Fact verification revealed public awareness involving community leaders",
+      "DetectedAt": "2025-12-05T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00b4e8c8-204b-0591-2148-0017e5cebf1b",
+      "Type": "Accountability",
+      "Severity": "High",
+      "EntityName": "Corporations - Kitwe",
+      "Description": "Program production revealed accountability involving corporations",
+      "DetectedAt": "2025-11-15T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03270a6b-0748-1ca0-1c53-00a3c1d25389",
+      "Type": "Public awareness",
+      "Severity": "High",
+      "EntityName": "News subjects - Chipata",
+      "Description": "Fact verification revealed news broadcasting involving corporations",
+      "DetectedAt": "2025-12-09T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05105d31-1ce7-07d4-0abc-00b2ec95d682",
+      "Type": "Public awareness",
+      "Severity": "High",
+      "EntityName": "Community leaders - nationwide broadcast",
+      "Description": "Broadcasting revealed news broadcasting involving public officials",
+      "DetectedAt": "2025-12-06T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00aebd3c-0d3c-0748-11e4-0061f84cc1e4",
+      "Type": "Investigative reporting",
+      "Severity": "Critical",
+      "EntityName": "Public officials - Kitwe",
+      "Description": "Program production revealed news broadcasting involving corporations",
+      "DetectedAt": "2025-12-15T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02da23a7-0560-06f0-1468-00aa2c930cb0",
+      "Type": "Investigative reporting",
+      "Severity": "Medium",
+      "EntityName": "Corporations - Chipata",
+      "Description": "Fact verification revealed community engagement involving corporations",
+      "DetectedAt": "2026-01-01T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "05a4d394-0477-1860-1e5d-003e9bac143a",
+      "Type": "Investigative reporting",
+      "Severity": "Critical",
+      "EntityName": "News subjects - Kitwe",
+      "Description": "Interview revealed accountability involving public officials",
+      "DetectedAt": "2026-01-04T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "038e8bc9-0494-1d9c-1c4e-002ef2d1cb00",
+      "Type": "News broadcasting",
+      "Severity": "High",
+      "EntityName": "News subjects - Mongu",
+      "Description": "Program production revealed investigative reporting involving corporations",
+      "DetectedAt": "2025-12-04T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02561687-0c80-07d0-0926-00b26fe64b18",
+      "Type": "Accountability",
+      "Severity": "Medium",
+      "EntityName": "Public officials - Lusaka",
+      "Description": "Investigation revealed news broadcasting involving news subjects",
+      "DetectedAt": "2025-11-20T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01413d41-0ed6-264c-25b0-0045517f9d45",
+      "Type": "Community engagement",
+      "Severity": "Medium",
+      "EntityName": "Community leaders - Chipata",
+      "Description": "Program production revealed investigative reporting involving community leaders",
+      "DetectedAt": "2025-11-15T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05898b28-1e0c-2324-1751-007336f42601",
+      "Type": "Accountability",
+      "Severity": "Low",
+      "EntityName": "Public officials - Mongu",
+      "Description": "Broadcasting revealed investigative reporting involving public officials",
+      "DetectedAt": "2025-12-26T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04c9cbaf-16e7-1985-12bc-00c9fbf18d84",
+      "Type": "Public awareness",
+      "Severity": "High",
+      "EntityName": "Community leaders - nationwide broadcast",
+      "Description": "Broadcasting revealed community engagement involving news subjects",
+      "DetectedAt": "2025-11-19T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "029001ce-2372-2056-1167-002687ca75d7",
+      "Type": "Public awareness",
+      "Severity": "Low",
+      "EntityName": "Public officials - nationwide broadcast",
+      "Description": "Program production revealed news broadcasting involving public officials",
+      "DetectedAt": "2025-11-26T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "020ad238-1f6e-263a-068b-0065698d8814",
+      "Type": "Accountability",
+      "Severity": "Critical",
+      "EntityName": "Public officials - Kitwe",
+      "Description": "Fact verification revealed community engagement involving news subjects",
+      "DetectedAt": "2026-01-19T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00fe4ca2-21d0-1bdb-224e-008bfd653c56",
+      "Type": "Community engagement",
+      "Severity": "Low",
+      "EntityName": "Community leaders - Mongu",
+      "Description": "Fact verification revealed community engagement involving public officials",
+      "DetectedAt": "2026-01-01T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "046f0cf8-15a5-1fa1-1e5d-005b57f1f1b3",
+      "Type": "Community engagement",
+      "Severity": "Critical",
+      "EntityName": "News subjects - Chipata",
+      "Description": "Program production revealed community engagement involving public officials",
+      "DetectedAt": "2025-11-30T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04ad158d-0e73-21c5-0ba9-00540bcbc345",
+      "Type": "Investigative reporting",
+      "Severity": "Medium",
+      "EntityName": "News subjects - Mongu",
+      "Description": "Fact verification revealed accountability involving corporations",
+      "DetectedAt": "2026-01-09T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0216f6c0-0875-120e-182e-00b6de01c149",
+      "Type": "Accountability",
+      "Severity": "Medium",
+      "EntityName": "Public officials - Mongu",
+      "Description": "Fact verification revealed public awareness involving community leaders",
+      "DetectedAt": "2025-11-08T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05ddf813-04bd-1258-09fd-0055c53bb9fc",
+      "Type": "Public awareness",
+      "Severity": "Critical",
+      "EntityName": "News subjects - Mongu",
+      "Description": "Broadcasting revealed news broadcasting involving community leaders",
+      "DetectedAt": "2025-11-20T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02e138db-0612-0856-18c0-0044c0075ed8",
+      "Type": "Accountability",
+      "Severity": "High",
+      "EntityName": "Community leaders - Mongu",
+      "Description": "Fact verification revealed investigative reporting involving community leaders",
+      "DetectedAt": "2025-10-30T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00a83cfa-24e4-1698-2310-00a91ab5bd9f",
+      "Type": "Accountability",
+      "Severity": "Critical",
+      "EntityName": "Community leaders - Lusaka",
+      "Description": "Interview revealed accountability involving public officials",
+      "DetectedAt": "2026-01-13T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "00dc385d-221c-0e9e-26f6-00ddb7520e9d",
+      "Type": "Public awareness",
+      "Severity": "Critical",
+      "EntityName": "Community leaders - Chipata",
+      "Description": "Fact verification revealed news broadcasting involving news subjects",
+      "DetectedAt": "2026-01-09T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "050af400-2467-1193-25c6-00e2e30fac2b",
+      "Type": "Community engagement",
+      "Severity": "High",
+      "EntityName": "Community leaders - Chipata",
+      "Description": "Interview revealed news broadcasting involving public officials",
+      "DetectedAt": "2025-11-24T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "05f40e32-0f35-1dfb-0b00-00301b0c9717",
+      "Type": "News broadcasting",
+      "Severity": "High",
+      "EntityName": "Community leaders - nationwide broadcast",
+      "Description": "Program production revealed investigative reporting involving corporations",
+      "DetectedAt": "2025-12-16T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03052c8c-1cf2-0afa-1ed6-00ae983ffa13",
+      "Type": "Investigative reporting",
+      "Severity": "Critical",
+      "EntityName": "Public officials - nationwide broadcast",
+      "Description": "Broadcasting revealed investigative reporting involving public officials",
+      "DetectedAt": "2025-12-24T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02fe0a8b-1b1f-06a3-2208-0087c6d98335",
+      "Type": "Community engagement",
+      "Severity": "Medium",
+      "EntityName": "Community leaders - Chipata",
+      "Description": "Program production revealed community engagement involving news subjects",
+      "DetectedAt": "2025-12-15T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0216dc45-1ac5-1261-041d-00883cea88e9",
+      "Type": "Public awareness",
+      "Severity": "Critical",
+      "EntityName": "Community leaders - Chipata",
+      "Description": "Investigation revealed public awareness involving corporations",
+      "DetectedAt": "2025-11-05T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05f3a753-08f7-09a1-0d44-00730693a6ed",
+      "Type": "News broadcasting",
+      "Severity": "Low",
+      "EntityName": "News subjects - Chipata",
+      "Description": "Fact verification revealed news broadcasting involving public officials",
+      "DetectedAt": "2025-12-11T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0190b267-1096-223a-097d-00944a309dda",
+      "Type": "News broadcasting",
+      "Severity": "Medium",
+      "EntityName": "Community leaders - Kitwe",
+      "Description": "Program production revealed investigative reporting involving public officials",
+      "DetectedAt": "2025-12-29T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02a46dce-1cf0-1895-10c9-00bc8d877376",
+      "Type": "Community engagement",
+      "Severity": "Medium",
+      "EntityName": "Public officials - nationwide broadcast",
+      "Description": "Program production revealed investigative reporting involving news subjects",
+      "DetectedAt": "2025-11-18T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01a73eda-0727-18fd-055f-00bdbc41ac76",
+      "Type": "Investigative reporting",
+      "Severity": "Low",
+      "EntityName": "Corporations - Kitwe",
+      "Description": "Interview revealed investigative reporting involving public officials",
+      "DetectedAt": "2025-11-01T17:30:31Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01c8e0d0-1ec2-1054-07c6-0059776f3239",
+      "Type": "Public awareness",
+      "Severity": "Medium",
+      "EntityName": "News subjects - Chipata",
+      "Description": "Interview revealed community engagement involving corporations",
+      "DetectedAt": "2026-01-01T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "05df7eee-1ebf-26b9-2445-0021c56078c2",
+      "Type": "Investigative reporting",
+      "Severity": "Medium",
+      "EntityName": "Corporations - Chipata",
+      "Description": "Program production revealed news broadcasting involving public officials",
+      "DetectedAt": "2025-11-25T17:30:31Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "030cc51b-11b5-1887-0c88-0057bc3f9992",
+      "Type": "Community engagement",
+      "Severity": "Medium",
+      "EntityName": "Public officials - Mongu",
+      "Description": "Investigation revealed accountability involving community leaders",
+      "DetectedAt": "2025-12-20T17:30:31Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "052d8f8a-1d9b-0446-1250-0059a2351374",
+      "Type": "Investigative reporting",
+      "Severity": "Medium",
+      "EntityName": "Public officials - nationwide broadcast",
+      "Description": "Fact verification revealed community engagement involving corporations",
+      "DetectedAt": "2026-01-02T17:30:31Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01b5a65b-0740-242f-15ea-008e32494b4c",
+      "Type": "Investigative reporting",
+      "Severity": "Critical",
+      "EntityName": "Community leaders - Chipata",
+      "Description": "Investigation revealed investigative reporting involving corporations",
+      "DetectedAt": "2025-11-08T17:30:31Z",
+      "Status": "Resolved"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 78
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 90
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 64
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 62
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 89
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 61
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 79
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 70
+    }
+  ]
+}

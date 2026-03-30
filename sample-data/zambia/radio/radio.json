@@ -1,0 +1,2002 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Radio Phoenix",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-07T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "346000",
+      "InvestigativeSegments": "17 per quarter",
+      "ListenerTips": "252 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Radio Mano",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-31T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-12-06T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "396000",
+      "InvestigativeSegments": "10 per quarter",
+      "ListenerTips": "319 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Q-FM",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-10-21T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "757000",
+      "InvestigativeSegments": "18 per quarter",
+      "ListenerTips": "339 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Hot FM",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-12T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "650000",
+      "InvestigativeSegments": "18 per quarter",
+      "ListenerTips": "285 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Breeze FM",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-02T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-30T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "519000",
+      "InvestigativeSegments": "11 per quarter",
+      "ListenerTips": "336 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Yatsani Radio",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-05T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-10-22T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "198000",
+      "InvestigativeSegments": "19 per quarter",
+      "ListenerTips": "205 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Muvi Radio",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-26T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "351000",
+      "InvestigativeSegments": "17 per quarter",
+      "ListenerTips": "495 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Radio Icengelo",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-10-23T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "133000",
+      "InvestigativeSegments": "10 per quarter",
+      "ListenerTips": "340 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Mazabuka Radio",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-12-05T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "487000",
+      "InvestigativeSegments": "14 per quarter",
+      "ListenerTips": "263 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Pasme Radio",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-10-23T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "691000",
+      "InvestigativeSegments": "25 per quarter",
+      "ListenerTips": "401 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Christian Voice",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-07T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "188000",
+      "InvestigativeSegments": "13 per quarter",
+      "ListenerTips": "340 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Radio Chikuni",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "418000",
+      "InvestigativeSegments": "16 per quarter",
+      "ListenerTips": "433 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Power FM",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "348000",
+      "InvestigativeSegments": "18 per quarter",
+      "ListenerTips": "286 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Flava FM",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-10-25T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "380000",
+      "InvestigativeSegments": "18 per quarter",
+      "ListenerTips": "203 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Prime Television Radio",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "259000",
+      "InvestigativeSegments": "10 per quarter",
+      "ListenerTips": "173 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "ZNBC Radio 1",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-31T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-11T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "405000",
+      "InvestigativeSegments": "12 per quarter",
+      "ListenerTips": "203 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "ZNBC Radio 2",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "782000",
+      "InvestigativeSegments": "23 per quarter",
+      "ListenerTips": "340 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "ZNBC Radio 4",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-10-30T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "404000",
+      "InvestigativeSegments": "19 per quarter",
+      "ListenerTips": "319 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "5FM Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-21T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "198000",
+      "InvestigativeSegments": "24 per quarter",
+      "ListenerTips": "440 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Komboni Radio",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-07T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "306000",
+      "InvestigativeSegments": "16 per quarter",
+      "ListenerTips": "335 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Mongu Community Radio 1",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-12-19T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "591000",
+      "InvestigativeSegments": "16 per quarter",
+      "ListenerTips": "463 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Livingstone Community Radio 2",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-31T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "658000",
+      "InvestigativeSegments": "15 per quarter",
+      "ListenerTips": "419 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Mpika Community Radio 3",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-10-21T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "110000",
+      "InvestigativeSegments": "10 per quarter",
+      "ListenerTips": "398 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Mazabuka Community Radio 4",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "715000",
+      "InvestigativeSegments": "24 per quarter",
+      "ListenerTips": "393 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Choma Community Radio 5",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "580000",
+      "InvestigativeSegments": "23 per quarter",
+      "ListenerTips": "396 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Kabwe Community Radio 6",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "451000",
+      "InvestigativeSegments": "10 per quarter",
+      "ListenerTips": "173 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Kasama Community Radio 7",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-11T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "107000",
+      "InvestigativeSegments": "17 per quarter",
+      "ListenerTips": "421 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Monze Community Radio 8",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-29T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-10T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "298000",
+      "InvestigativeSegments": "21 per quarter",
+      "ListenerTips": "454 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Mbala Community Radio 9",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-16T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-14T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "209000",
+      "InvestigativeSegments": "13 per quarter",
+      "ListenerTips": "269 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Mpika Community Radio 10",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-08T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "435000",
+      "InvestigativeSegments": "13 per quarter",
+      "ListenerTips": "313 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Lundazi Community Radio 11",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-12-12T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "169000",
+      "InvestigativeSegments": "16 per quarter",
+      "ListenerTips": "465 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Chipata Community Radio 12",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-07T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-10-26T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "208000",
+      "InvestigativeSegments": "24 per quarter",
+      "ListenerTips": "217 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Choma Community Radio 13",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-07T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-10-28T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "645000",
+      "InvestigativeSegments": "23 per quarter",
+      "ListenerTips": "443 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Mongu Community Radio 14",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-18T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-07T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "182000",
+      "InvestigativeSegments": "13 per quarter",
+      "ListenerTips": "433 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Chingola Community Radio 15",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-31T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-10-25T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "420000",
+      "InvestigativeSegments": "14 per quarter",
+      "ListenerTips": "285 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Kasama Community Radio 16",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "492000",
+      "InvestigativeSegments": "21 per quarter",
+      "ListenerTips": "393 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Kafue Community Radio 17",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-12-15T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "266000",
+      "InvestigativeSegments": "15 per quarter",
+      "ListenerTips": "409 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Chipata Community Radio 18",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-29T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-10-22T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "796000",
+      "InvestigativeSegments": "15 per quarter",
+      "ListenerTips": "306 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Kafue Community Radio 19",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-05T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "444000",
+      "InvestigativeSegments": "11 per quarter",
+      "ListenerTips": "221 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Mbala Community Radio 20",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-12-17T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "709000",
+      "InvestigativeSegments": "19 per quarter",
+      "ListenerTips": "210 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Mongu Community Radio 21",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-31T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-12-02T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "202000",
+      "InvestigativeSegments": "17 per quarter",
+      "ListenerTips": "156 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Solwezi Community Radio 22",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-09T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-12-11T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "585000",
+      "InvestigativeSegments": "19 per quarter",
+      "ListenerTips": "159 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Mongu Community Radio 23",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-16T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "684000",
+      "InvestigativeSegments": "16 per quarter",
+      "ListenerTips": "210 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Kabwe Community Radio 24",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "593000",
+      "InvestigativeSegments": "14 per quarter",
+      "ListenerTips": "288 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Chingola Community Radio 25",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-10T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-12-03T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "293000",
+      "InvestigativeSegments": "12 per quarter",
+      "ListenerTips": "269 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Mongu Community Radio 26",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "327000",
+      "InvestigativeSegments": "24 per quarter",
+      "ListenerTips": "470 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Monze Community Radio 27",
+    "Country": "Zambia",
+    "Headquarters": "Kafue, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-31T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-12-18T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "155000",
+      "InvestigativeSegments": "20 per quarter",
+      "ListenerTips": "391 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Chipata Community Radio 28",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-05T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-26T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "569000",
+      "InvestigativeSegments": "12 per quarter",
+      "ListenerTips": "266 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Chingola Community Radio 29",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2025-12-26T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-12-15T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "539000",
+      "InvestigativeSegments": "21 per quarter",
+      "ListenerTips": "153 verified leads"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Petauke Community Radio 30",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-01T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "380000",
+      "InvestigativeSegments": "15 per quarter",
+      "ListenerTips": "360 verified leads"
+    }
+  }
+]

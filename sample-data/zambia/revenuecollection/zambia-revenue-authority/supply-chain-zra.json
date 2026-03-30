@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "02bbb3eb-09c2-1284-0b07-002cc4b8548e",
+      "Name": "Debtors - Lusaka",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 82.5,
+      "IsCritical": true,
+      "Products": [
+        "arrears management"
+      ],
+      "AnnualSpend": 5852614.6
+    },
+    {
+      "Id": "0228a51c-21f7-21f0-07c0-00e0b6b9e5ab",
+      "Name": "Taxpayers - Kitwe",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 73.1,
+      "IsCritical": true,
+      "Products": [
+        "debt recovery"
+      ],
+      "AnnualSpend": 4750350.86
+    },
+    {
+      "Id": "05a79b47-0419-1ae1-1c2a-00e5f3a6f9c4",
+      "Name": "Individual filers - Livingstone",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 82.5,
+      "IsCritical": true,
+      "Products": [
+        "arrears management"
+      ],
+      "AnnualSpend": 1384378.01
+    },
+    {
+      "Id": "0301f5c4-1dad-0ac4-1fa9-008d538835a1",
+      "Name": "Debtors - Ndola",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 94.3,
+      "IsCritical": false,
+      "Products": [
+        "payment processing"
+      ],
+      "AnnualSpend": 2665999.19
+    },
+    {
+      "Id": "045eba43-05b5-1c47-18be-00d95153244d",
+      "Name": "Debtors - Solwezi",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 61.9,
+      "IsCritical": false,
+      "Products": [
+        "payment processing"
+      ],
+      "AnnualSpend": 947940.95
+    },
+    {
+      "Id": "040a51d2-1aee-1e7f-1c26-007a0ac35362",
+      "Name": "Debtors - Livingstone",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 73.7,
+      "IsCritical": false,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 7311707.69
+    },
+    {
+      "Id": "016f8180-13fc-1233-0e5a-00c6147bcb2f",
+      "Name": "Debtors - Kitwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 71.6,
+      "IsCritical": false,
+      "Products": [
+        "debt recovery"
+      ],
+      "AnnualSpend": 6363298.75
+    },
+    {
+      "Id": "0589c710-1114-1353-2632-0036ecc7962e",
+      "Name": "Individual filers - Ndola",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 70.1,
+      "IsCritical": true,
+      "Products": [
+        "compliance enforcement"
+      ],
+      "AnnualSpend": 9453485.26
+    },
+    {
+      "Id": "03d81779-191f-1d22-171a-00320a94d257",
+      "Name": "Individual filers - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 94.1,
+      "IsCritical": true,
+      "Products": [
+        "debt recovery"
+      ],
+      "AnnualSpend": 8710347.02
+    },
+    {
+      "Id": "05da1d34-1581-112d-16de-00a645b5c8ab",
+      "Name": "Debtors - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 93.2,
+      "IsCritical": true,
+      "Products": [
+        "arrears management"
+      ],
+      "AnnualSpend": 2440696.33
+    },
+    {
+      "Id": "01cad6ae-096e-251b-06f1-00d0f77e9737",
+      "Name": "Corporate entities - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 78.0,
+      "IsCritical": false,
+      "Products": [
+        "arrears management"
+      ],
+      "AnnualSpend": 7611655.62
+    },
+    {
+      "Id": "01003cd5-1c15-17bb-1277-002ceee38d44",
+      "Name": "Corporate entities - Solwezi",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 62.9,
+      "IsCritical": true,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 8330525.17
+    },
+    {
+      "Id": "05a8db35-1b93-1c68-1f9a-00936f41bc8b",
+      "Name": "Corporate entities - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 75.2,
+      "IsCritical": false,
+      "Products": [
+        "arrears management"
+      ],
+      "AnnualSpend": 9125464.29
+    },
+    {
+      "Id": "02f4e0ed-12ee-1f96-2145-0079fc112e10",
+      "Name": "Debtors - Kitwe",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 70.8,
+      "IsCritical": false,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 3242939.45
+    },
+    {
+      "Id": "00b98613-0b45-1b60-26a4-00d67b3ab5ad",
+      "Name": "Corporate entities - Solwezi",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 66.7,
+      "IsCritical": true,
+      "Products": [
+        "compliance enforcement"
+      ],
+      "AnnualSpend": 3808897.36
+    },
+    {
+      "Id": "031b34ca-15e4-054b-1790-00ac4089fd08",
+      "Name": "Taxpayers - Kitwe",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 69.1,
+      "IsCritical": false,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 6883214.58
+    },
+    {
+      "Id": "025daf71-1ea0-1989-1ecc-004d258e76c6",
+      "Name": "Taxpayers - Solwezi",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 57.1,
+      "IsCritical": true,
+      "Products": [
+        "arrears management"
+      ],
+      "AnnualSpend": 5436079.59
+    },
+    {
+      "Id": "053647b9-0c53-0f55-06cc-00b95986de0c",
+      "Name": "Corporate entities - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 70.0,
+      "IsCritical": false,
+      "Products": [
+        "debt recovery"
+      ],
+      "AnnualSpend": 9513080.44
+    },
+    {
+      "Id": "0284b406-1a24-058f-25a3-002dadb95b96",
+      "Name": "Corporate entities - Lusaka",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 94.2,
+      "IsCritical": true,
+      "Products": [
+        "debt recovery"
+      ],
+      "AnnualSpend": 4760091.22
+    },
+    {
+      "Id": "00e42a4b-05ba-1fee-1fa6-00c78099ac12",
+      "Name": "Taxpayers - Ndola",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 47.0,
+      "IsCritical": false,
+      "Products": [
+        "debt recovery"
+      ],
+      "AnnualSpend": 989454.19
+    },
+    {
+      "Id": "034eb43e-2156-20c6-0885-003e5b2c1dd9",
+      "Name": "Individual filers - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 60.2,
+      "IsCritical": false,
+      "Products": [
+        "compliance enforcement"
+      ],
+      "AnnualSpend": 7371032.69
+    },
+    {
+      "Id": "047477de-0f56-251d-21c7-004f2c16954a",
+      "Name": "Debtors - Livingstone",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 53.3,
+      "IsCritical": false,
+      "Products": [
+        "payment processing"
+      ],
+      "AnnualSpend": 4561899.12
+    },
+    {
+      "Id": "01722234-1112-13a8-1534-0068f702dcda",
+      "Name": "Corporate entities - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 55.0,
+      "IsCritical": true,
+      "Products": [
+        "debt recovery"
+      ],
+      "AnnualSpend": 4786755.92
+    },
+    {
+      "Id": "012bd15e-0a19-142e-1b94-00892d9f7164",
+      "Name": "Taxpayers - Kitwe",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 51.5,
+      "IsCritical": true,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 504002.33
+    },
+    {
+      "Id": "01496f23-26e4-120f-114a-00ad2075b1a8",
+      "Name": "Debtors - Ndola",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 81.6,
+      "IsCritical": false,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 2579767.24
+    },
+    {
+      "Id": "032b8902-2508-0c58-25c5-00661efa761a",
+      "Name": "Taxpayers - Ndola",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 46.8,
+      "IsCritical": false,
+      "Products": [
+        "compliance enforcement"
+      ],
+      "AnnualSpend": 7665568.91
+    },
+    {
+      "Id": "01c81f38-22c6-06b3-0aac-007312392c33",
+      "Name": "Corporate entities - Kitwe",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 76.1,
+      "IsCritical": true,
+      "Products": [
+        "payment processing"
+      ],
+      "AnnualSpend": 6580495.71
+    },
+    {
+      "Id": "0511a143-10f5-1c04-212b-00d993df2efa",
+      "Name": "Corporate entities - Solwezi",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 86.7,
+      "IsCritical": true,
+      "Products": [
+        "arrears management"
+      ],
+      "AnnualSpend": 7884762.42
+    },
+    {
+      "Id": "01405dc4-1fc4-26d5-0aff-00978a30ad0e",
+      "Name": "Taxpayers - Livingstone",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 58.0,
+      "IsCritical": false,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 3809509.7
+    },
+    {
+      "Id": "027af917-0a6a-1039-175d-0028eca0ea41",
+      "Name": "Taxpayers - Ndola",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 85.9,
+      "IsCritical": false,
+      "Products": [
+        "arrears management"
+      ],
+      "AnnualSpend": 2630148.67
+    },
+    {
+      "Id": "04977a51-2351-0546-1379-00175ac73180",
+      "Name": "Corporate entities - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 46.4,
+      "IsCritical": false,
+      "Products": [
+        "payment processing"
+      ],
+      "AnnualSpend": 5308506.08
+    },
+    {
+      "Id": "0279b0bd-1cf8-239d-1c00-004a4cdde19f",
+      "Name": "Corporate entities - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 75.9,
+      "IsCritical": true,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 1098357.67
+    },
+    {
+      "Id": "030fe58f-18ac-172e-0a92-00aebcaa5284",
+      "Name": "Individual filers - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 65.0,
+      "IsCritical": false,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 3807063.29
+    },
+    {
+      "Id": "03b59813-0ae2-0d60-048b-00cf9f94abc5",
+      "Name": "Individual filers - Kitwe",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 68.0,
+      "IsCritical": true,
+      "Products": [
+        "payment processing"
+      ],
+      "AnnualSpend": 5411907.39
+    },
+    {
+      "Id": "0435c748-081a-0452-130d-002948486b29",
+      "Name": "Corporate entities - Kitwe",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 53.0,
+      "IsCritical": true,
+      "Products": [
+        "payment processing"
+      ],
+      "AnnualSpend": 668446.21
+    },
+    {
+      "Id": "03707242-1ae7-1807-21a6-009dfa6dcffc",
+      "Name": "Individual filers - Solwezi",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 54.5,
+      "IsCritical": true,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 3535600.81
+    },
+    {
+      "Id": "02d7f7c8-0ecb-0ae5-0cb7-005afefbedef",
+      "Name": "Individual filers - Kitwe",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 75.3,
+      "IsCritical": true,
+      "Products": [
+        "payment processing"
+      ],
+      "AnnualSpend": 8596066.59
+    },
+    {
+      "Id": "0489b4c3-1d4c-0d11-184d-006c8c7b5de0",
+      "Name": "Corporate entities - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 69.3,
+      "IsCritical": false,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 6491540.74
+    },
+    {
+      "Id": "00e07081-23c3-1c95-122b-00bc7d94ce7b",
+      "Name": "Taxpayers - Livingstone",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 77.8,
+      "IsCritical": false,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 1560499.86
+    },
+    {
+      "Id": "0377843f-132c-06f8-178d-001f8e474183",
+      "Name": "Corporate entities - Ndola",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 64.2,
+      "IsCritical": true,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 3037398.21
+    },
+    {
+      "Id": "03fa6a1c-232f-0c37-1acd-00ab6237a4fc",
+      "Name": "Corporate entities - Solwezi",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 90.8,
+      "IsCritical": false,
+      "Products": [
+        "compliance enforcement"
+      ],
+      "AnnualSpend": 1402708.71
+    },
+    {
+      "Id": "02b7c684-1e97-0c36-0ee4-00e0caeeae81",
+      "Name": "Taxpayers - Lusaka",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 77.4,
+      "IsCritical": false,
+      "Products": [
+        "arrears management"
+      ],
+      "AnnualSpend": 583430.16
+    },
+    {
+      "Id": "052e1b75-0986-0a8e-16cc-003a1fabfc19",
+      "Name": "Debtors - Ndola",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 47.6,
+      "IsCritical": false,
+      "Products": [
+        "debt recovery"
+      ],
+      "AnnualSpend": 1033632.06
+    },
+    {
+      "Id": "02653cc7-1c2b-2667-0dda-00643c30cc9d",
+      "Name": "Corporate entities - Solwezi",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 43.5,
+      "IsCritical": false,
+      "Products": [
+        "arrears management"
+      ],
+      "AnnualSpend": 954778.9
+    },
+    {
+      "Id": "0441990a-0f97-254a-16f7-0058db602853",
+      "Name": "Taxpayers - Lusaka",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 50.8,
+      "IsCritical": false,
+      "Products": [
+        "arrears management"
+      ],
+      "AnnualSpend": 9264223.35
+    },
+    {
+      "Id": "0214fb7e-12f0-1191-0f05-00bc01b258ed",
+      "Name": "Taxpayers - Kitwe",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 73.5,
+      "IsCritical": true,
+      "Products": [
+        "arrears management"
+      ],
+      "AnnualSpend": 6827548.48
+    },
+    {
+      "Id": "01105a4f-1944-162b-244f-0075dcaab87a",
+      "Name": "Debtors - Livingstone",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 66.0,
+      "IsCritical": false,
+      "Products": [
+        "arrears management"
+      ],
+      "AnnualSpend": 9552255.4
+    },
+    {
+      "Id": "0369ab2e-1b0b-10ed-2101-007234e931b5",
+      "Name": "Debtors - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 84.3,
+      "IsCritical": true,
+      "Products": [
+        "tax collection"
+      ],
+      "AnnualSpend": 2070891.7
+    },
+    {
+      "Id": "0241e437-07f3-0d9a-235f-00de4d310172",
+      "Name": "Taxpayers - Solwezi",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 57.6,
+      "IsCritical": false,
+      "Products": [
+        "debt recovery"
+      ],
+      "AnnualSpend": 718193.96
+    },
+    {
+      "Id": "029664ef-270b-0ba7-1c41-003094889233",
+      "Name": "Corporate entities - Livingstone",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 90.0,
+      "IsCritical": true,
+      "Products": [
+        "compliance enforcement"
+      ],
+      "AnnualSpend": 8223442.06
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "01222500-0baa-0d22-1266-006ab34ccbb9",
+      "FromSupplierId": "01496f23-26e4-120f-114a-00ad2075b1a8",
+      "ToSupplierId": "03d81779-191f-1d22-171a-00320a94d257",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.85,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "029d649b-11be-0a2e-0885-00a57df06e1f",
+      "FromSupplierId": "031b34ca-15e4-054b-1790-00ac4089fd08",
+      "ToSupplierId": "0377843f-132c-06f8-178d-001f8e474183",
+      "Type": "supplies",
+      "DependencyLevel": 0.56,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "00cac074-2223-0e0a-13b2-00814b3e8fae",
+      "FromSupplierId": "03707242-1ae7-1807-21a6-009dfa6dcffc",
+      "ToSupplierId": "0377843f-132c-06f8-178d-001f8e474183",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.48,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "027a8782-1324-1d64-2375-00bde629dee5",
+      "FromSupplierId": "05da1d34-1581-112d-16de-00a645b5c8ab",
+      "ToSupplierId": "0589c710-1114-1353-2632-0036ecc7962e",
+      "Type": "partnership",
+      "DependencyLevel": 0.74,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "058b3d8b-0d9d-1351-067b-00d1fdd76e29",
+      "FromSupplierId": "053647b9-0c53-0f55-06cc-00b95986de0c",
+      "ToSupplierId": "025daf71-1ea0-1989-1ecc-004d258e76c6",
+      "Type": "partnership",
+      "DependencyLevel": 0.42,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03680220-2282-142e-1e21-00923c6444dc",
+      "FromSupplierId": "040a51d2-1aee-1e7f-1c26-007a0ac35362",
+      "ToSupplierId": "0284b406-1a24-058f-25a3-002dadb95b96",
+      "Type": "supplies",
+      "DependencyLevel": 0.8,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02b24605-2527-0d7b-04ac-00c523ee8be7",
+      "FromSupplierId": "030fe58f-18ac-172e-0a92-00aebcaa5284",
+      "ToSupplierId": "03b59813-0ae2-0d60-048b-00cf9f94abc5",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.74,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0447ab3d-0a37-1281-1d4f-0028d0eeb2ee",
+      "FromSupplierId": "0489b4c3-1d4c-0d11-184d-006c8c7b5de0",
+      "ToSupplierId": "01c81f38-22c6-06b3-0aac-007312392c33",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.89,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0135adc4-20f3-0fb6-1125-002129f8192d",
+      "FromSupplierId": "00e42a4b-05ba-1fee-1fa6-00c78099ac12",
+      "ToSupplierId": "031b34ca-15e4-054b-1790-00ac4089fd08",
+      "Type": "supplies",
+      "DependencyLevel": 0.72,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02b20fc8-1166-0502-1bbc-00d4950840ec",
+      "FromSupplierId": "027af917-0a6a-1039-175d-0028eca0ea41",
+      "ToSupplierId": "02b7c684-1e97-0c36-0ee4-00e0caeeae81",
+      "Type": "partnership",
+      "DependencyLevel": 0.43,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "043bac4e-0523-14a2-1502-007b36b1db7a",
+      "FromSupplierId": "047477de-0f56-251d-21c7-004f2c16954a",
+      "ToSupplierId": "047477de-0f56-251d-21c7-004f2c16954a",
+      "Type": "supplies",
+      "DependencyLevel": 0.61,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "010524d2-06ed-1aaf-2129-007f76729601",
+      "FromSupplierId": "01405dc4-1fc4-26d5-0aff-00978a30ad0e",
+      "ToSupplierId": "0489b4c3-1d4c-0d11-184d-006c8c7b5de0",
+      "Type": "supplies",
+      "DependencyLevel": 0.82,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04aaa205-2517-08a2-0e60-00561a9a90d8",
+      "FromSupplierId": "031b34ca-15e4-054b-1790-00ac4089fd08",
+      "ToSupplierId": "045eba43-05b5-1c47-18be-00d95153244d",
+      "Type": "partnership",
+      "DependencyLevel": 0.82,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "049ba19e-1136-1392-07bc-00d3aad632b7",
+      "FromSupplierId": "0279b0bd-1cf8-239d-1c00-004a4cdde19f",
+      "ToSupplierId": "029664ef-270b-0ba7-1c41-003094889233",
+      "Type": "partnership",
+      "DependencyLevel": 0.56,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0565f4c5-1711-13df-1625-006d42f0c716",
+      "FromSupplierId": "02bbb3eb-09c2-1284-0b07-002cc4b8548e",
+      "ToSupplierId": "05a8db35-1b93-1c68-1f9a-00936f41bc8b",
+      "Type": "partnership",
+      "DependencyLevel": 0.9,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04b56868-1f30-0729-16e5-00e43d5b698c",
+      "FromSupplierId": "00b98613-0b45-1b60-26a4-00d67b3ab5ad",
+      "ToSupplierId": "040a51d2-1aee-1e7f-1c26-007a0ac35362",
+      "Type": "partnership",
+      "DependencyLevel": 0.76,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "05b0c177-0fa0-1662-166f-00b1d17bbb7f",
+      "FromSupplierId": "016f8180-13fc-1233-0e5a-00c6147bcb2f",
+      "ToSupplierId": "01cad6ae-096e-251b-06f1-00d0f77e9737",
+      "Type": "partnership",
+      "DependencyLevel": 0.45,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03c41038-217b-0d9b-1c98-00a1cb2ca8da",
+      "FromSupplierId": "00b98613-0b45-1b60-26a4-00d67b3ab5ad",
+      "ToSupplierId": "040a51d2-1aee-1e7f-1c26-007a0ac35362",
+      "Type": "supplies",
+      "DependencyLevel": 0.7,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0287e793-18bc-1c2d-25ce-00617c25e59d",
+      "FromSupplierId": "045eba43-05b5-1c47-18be-00d95153244d",
+      "ToSupplierId": "025daf71-1ea0-1989-1ecc-004d258e76c6",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.43,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02e40ac2-09fe-0c1f-04be-0088a8e8b74e",
+      "FromSupplierId": "0369ab2e-1b0b-10ed-2101-007234e931b5",
+      "ToSupplierId": "03707242-1ae7-1807-21a6-009dfa6dcffc",
+      "Type": "supplies",
+      "DependencyLevel": 0.41,
+      "IsCriticalPath": true
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "operational",
+      "Description": "Concentration of payment processing in Ndola",
+      "ConcentrationLevel": 77.6,
+      "AffectedSuppliers": [
+        "Debtors - Lusaka",
+        "Individual filers - Ndola",
+        "Taxpayers - Solwezi"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "00ced09f-14a6-10fc-12f2-005113dee956",
+      "SupplierId": "02bbb3eb-09c2-1284-0b07-002cc4b8548e",
+      "SupplierName": "Debtors - Lusaka",
+      "RiskType": "compliance",
+      "Severity": "medium",
+      "Description": "Risk detected in compliance enforcement operations",
+      "DetectedAt": "2025-12-22T17:30:31Z",
+      "IsAcknowledged": true,
+      "AffectedDownstreamSuppliers": [
+        "0228a51c-21f7-21f0-07c0-00e0b6b9e5ab",
+        "045eba43-05b5-1c47-18be-00d95153244d"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 23,
+    "HighRiskSuppliers": 12,
+    "AverageRiskScore": 69.5,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

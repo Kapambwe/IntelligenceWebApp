@@ -1,0 +1,56 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "Savings mobilizationPath",
+      "Summary": "Identified 4-step pattern linking individual borrowers to microloans in Kitwe",
+      "HighlightedNodes": [
+        "00f1343c-1c01-0920-1cd5-008086f1a4b5",
+        "00f4a3cf-26a1-1f06-185f-009c1d574f23",
+        "02036522-0926-0ca6-0892-009c2f6b03a0",
+        "01d2d39c-231f-2702-0ce9-00800a3fe736"
+      ]
+    },
+    {
+      "Name": "Financial inclusionPath",
+      "Summary": "Identified 4-step pattern linking small businesses to credit risk in Lusaka",
+      "HighlightedNodes": [
+        "04aaa46d-1fbf-1beb-1338-0068752ac87f",
+        "0205556f-1f61-21cb-2270-0082d1eaf6b2",
+        "02c6c260-083a-0b73-160a-00ae35a03269",
+        "02ab4830-1bf5-16f1-2163-00d69ef8fc4b"
+      ]
+    },
+    {
+      "Name": "Sme lendingPath",
+      "Summary": "Identified 5-step pattern linking individual borrowers to savings mobilization in Mongu",
+      "HighlightedNodes": [
+        "05e0e495-15a2-15c7-156e-007d304b462d",
+        "059a74d5-14ac-1544-092e-00cac949307a",
+        "024b4031-1182-12e4-1688-003d413c9f6e",
+        "046c9f93-0a1e-095b-1925-00df82b8ded2",
+        "015889e7-1402-2427-05ec-002497d92ecb"
+      ]
+    },
+    {
+      "Name": "MicroloansPath",
+      "Summary": "Identified 3-step pattern linking small businesses to savings mobilization in Kasama",
+      "HighlightedNodes": [
+        "019b2eb8-146b-1ffd-0f6f-00479906660a",
+        "019e414d-1e94-19f2-1fc1-00c124d4042b",
+        "03f9389a-1daf-1b55-0b13-00dfda9bf451"
+      ]
+    },
+    {
+      "Name": "Savings mobilizationPath",
+      "Summary": "Identified 5-step pattern linking savings groups to SME lending in Kasama",
+      "HighlightedNodes": [
+        "046778c9-1bcb-165e-0d66-00c15f8754a2",
+        "028d66be-06d3-04a8-1a73-0061351ac1d5",
+        "03eebe0a-2511-2197-18c1-0050b42ae4f4",
+        "053952d0-23b7-15d9-09d1-0078b5105f5b",
+        "03a7dd20-133e-0e41-1b4c-0046e89a1d9c"
+      ]
+    }
+  ]
+}

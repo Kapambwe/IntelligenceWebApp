@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 486,
+  "ActiveAlerts": 11,
+  "PendingReviews": 5,
+  "ComplianceScore": 70.3,
+  "Alerts": [
+    {
+      "Id": "0394aed2-0b47-20a4-0694-0069470d9b07",
+      "Type": "Program implementation",
+      "Severity": "Low",
+      "EntityName": "Beneficiaries - Lusaka",
+      "Description": "Fund disbursement revealed impact assessment involving beneficiaries",
+      "DetectedAt": "2026-01-14T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0579e30e-0f51-23b4-044f-00d77e34ab40",
+      "Type": "Humanitarian aid",
+      "Severity": "Medium",
+      "EntityName": "Donors - Luapula Province",
+      "Description": "Impact evaluation revealed donor funding involving implementing partners",
+      "DetectedAt": "2025-11-01T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "015c27f6-1804-2435-134e-00d6f2c18163",
+      "Type": "Impact assessment",
+      "Severity": "Medium",
+      "EntityName": "Implementing partners - Luapula Province",
+      "Description": "Impact evaluation revealed impact assessment involving partner organizations",
+      "DetectedAt": "2026-01-13T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "039317ec-15f2-1783-05db-004c16594a33",
+      "Type": "Donor funding",
+      "Severity": "Critical",
+      "EntityName": "Implementing partners - Luapula Province",
+      "Description": "Fund disbursement revealed humanitarian aid involving partner organizations",
+      "DetectedAt": "2025-11-16T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0143a3f2-0bec-08aa-05b9-00d66b9799e6",
+      "Type": "Humanitarian aid",
+      "Severity": "Critical",
+      "EntityName": "Partner organizations - Eastern Province",
+      "Description": "Beneficiary verification revealed humanitarian aid involving donors",
+      "DetectedAt": "2026-01-04T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02903086-08d1-1b58-08dd-00a12f83ca25",
+      "Type": "Impact assessment",
+      "Severity": "Medium",
+      "EntityName": "Partner organizations - rural areas",
+      "Description": "Project monitoring revealed humanitarian aid involving beneficiaries",
+      "DetectedAt": "2025-10-26T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01394fee-0df4-09c9-0922-008951954114",
+      "Type": "Impact assessment",
+      "Severity": "High",
+      "EntityName": "Donors - Southern Province",
+      "Description": "Impact evaluation revealed development projects involving beneficiaries",
+      "DetectedAt": "2025-12-26T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01cda201-06f2-047e-0953-00dcc30e96be",
+      "Type": "Humanitarian aid",
+      "Severity": "Low",
+      "EntityName": "Beneficiaries - Lusaka",
+      "Description": "Impact evaluation revealed humanitarian aid involving implementing partners",
+      "DetectedAt": "2025-10-21T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03a7107e-14ce-19d4-0618-0077405a5bc8",
+      "Type": "Donor funding",
+      "Severity": "Critical",
+      "EntityName": "Donors - Eastern Province",
+      "Description": "Fund disbursement revealed humanitarian aid involving donors",
+      "DetectedAt": "2025-11-03T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02b02a65-1749-20bc-0f40-008a25238948",
+      "Type": "Impact assessment",
+      "Severity": "Low",
+      "EntityName": "Partner organizations - Southern Province",
+      "Description": "Fund disbursement revealed impact assessment involving beneficiaries",
+      "DetectedAt": "2026-01-13T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01e43808-144b-19b9-110d-005c722d549c",
+      "Type": "Development projects",
+      "Severity": "Critical",
+      "EntityName": "Donors - Lusaka",
+      "Description": "Project monitoring revealed program implementation involving implementing partners",
+      "DetectedAt": "2026-01-16T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02c9729a-19fc-20f9-0db6-0018eeb6001f",
+      "Type": "Program implementation",
+      "Severity": "Low",
+      "EntityName": "Donors - Southern Province",
+      "Description": "Beneficiary verification revealed impact assessment involving beneficiaries",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00babdc4-100f-0563-19b5-003f06b37be8",
+      "Type": "Donor funding",
+      "Severity": "Low",
+      "EntityName": "Partner organizations - Luapula Province",
+      "Description": "Beneficiary verification revealed development projects involving implementing partners",
+      "DetectedAt": "2025-11-23T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "05f22a22-1bf2-0ddf-0556-00a3f0ce9f8f",
+      "Type": "Humanitarian aid",
+      "Severity": "Critical",
+      "EntityName": "Donors - rural areas",
+      "Description": "Fund disbursement revealed development projects involving donors",
+      "DetectedAt": "2026-01-04T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "050fb476-12c7-0ebc-063f-00c27c8bc622",
+      "Type": "Impact assessment",
+      "Severity": "High",
+      "EntityName": "Beneficiaries - Luapula Province",
+      "Description": "Impact evaluation revealed humanitarian aid involving partner organizations",
+      "DetectedAt": "2025-11-19T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04005f78-1794-1fd6-1f0d-00216e25bd5f",
+      "Type": "Impact assessment",
+      "Severity": "Critical",
+      "EntityName": "Partner organizations - Eastern Province",
+      "Description": "Project monitoring revealed program implementation involving partner organizations",
+      "DetectedAt": "2026-01-01T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04804fee-249f-1762-1c34-0017fc3d7375",
+      "Type": "Program implementation",
+      "Severity": "Low",
+      "EntityName": "Partner organizations - Luapula Province",
+      "Description": "Project monitoring revealed program implementation involving donors",
+      "DetectedAt": "2025-12-17T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0274c336-0d2f-04f4-05fa-00c32563d5bf",
+      "Type": "Donor funding",
+      "Severity": "Low",
+      "EntityName": "Donors - Southern Province",
+      "Description": "Impact evaluation revealed impact assessment involving implementing partners",
+      "DetectedAt": "2025-11-25T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "041c0c52-117b-0a73-1039-0070104074ee",
+      "Type": "Donor funding",
+      "Severity": "Low",
+      "EntityName": "Donors - Eastern Province",
+      "Description": "Project monitoring revealed development projects involving partner organizations",
+      "DetectedAt": "2025-11-24T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01d9d339-133b-1efb-1bc7-008511262cdd",
+      "Type": "Impact assessment",
+      "Severity": "Medium",
+      "EntityName": "Partner organizations - Southern Province",
+      "Description": "Compliance audit revealed impact assessment involving donors",
+      "DetectedAt": "2025-11-27T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "049dd77f-09fc-168e-1dcb-0017a6dec044",
+      "Type": "Donor funding",
+      "Severity": "Critical",
+      "EntityName": "Implementing partners - Lusaka",
+      "Description": "Project monitoring revealed impact assessment involving partner organizations",
+      "DetectedAt": "2025-12-11T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02a3b0ff-1cb0-0dbc-20e7-00258220050f",
+      "Type": "Program implementation",
+      "Severity": "High",
+      "EntityName": "Beneficiaries - rural areas",
+      "Description": "Compliance audit revealed donor funding involving beneficiaries",
+      "DetectedAt": "2025-12-09T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01a0816e-1ded-0f78-0a2f-00a314f33139",
+      "Type": "Humanitarian aid",
+      "Severity": "Low",
+      "EntityName": "Donors - Southern Province",
+      "Description": "Fund disbursement revealed program implementation involving beneficiaries",
+      "DetectedAt": "2025-12-09T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0392a19e-058d-20b6-079f-006c352874ad",
+      "Type": "Program implementation",
+      "Severity": "Critical",
+      "EntityName": "Donors - rural areas",
+      "Description": "Project monitoring revealed program implementation involving beneficiaries",
+      "DetectedAt": "2025-10-30T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0541e7c0-0db2-0bef-05e5-00de171199e1",
+      "Type": "Development projects",
+      "Severity": "Critical",
+      "EntityName": "Partner organizations - Eastern Province",
+      "Description": "Impact evaluation revealed impact assessment involving beneficiaries",
+      "DetectedAt": "2025-11-10T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "022c7383-0985-0a4f-1db9-00c396be284c",
+      "Type": "Development projects",
+      "Severity": "Medium",
+      "EntityName": "Implementing partners - rural areas",
+      "Description": "Compliance audit revealed program implementation involving beneficiaries",
+      "DetectedAt": "2026-01-03T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "02204db1-0ba3-21cb-1e0f-0036d01ae6f6",
+      "Type": "Impact assessment",
+      "Severity": "Medium",
+      "EntityName": "Donors - rural areas",
+      "Description": "Project monitoring revealed impact assessment involving donors",
+      "DetectedAt": "2025-12-27T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03d563a1-0687-1c8e-04b6-00cf0a33e357",
+      "Type": "Impact assessment",
+      "Severity": "Critical",
+      "EntityName": "Implementing partners - Lusaka",
+      "Description": "Fund disbursement revealed humanitarian aid involving donors",
+      "DetectedAt": "2025-11-20T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "050d7585-2653-11f3-1113-00574d00d2ad",
+      "Type": "Donor funding",
+      "Severity": "High",
+      "EntityName": "Donors - rural areas",
+      "Description": "Beneficiary verification revealed humanitarian aid involving beneficiaries",
+      "DetectedAt": "2025-12-30T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04886b8a-2092-0658-23c2-0044a3a9fcd6",
+      "Type": "Donor funding",
+      "Severity": "High",
+      "EntityName": "Partner organizations - Eastern Province",
+      "Description": "Project monitoring revealed impact assessment involving partner organizations",
+      "DetectedAt": "2025-12-17T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "041a9311-26b8-04ed-078d-00db9dae6445",
+      "Type": "Development projects",
+      "Severity": "Low",
+      "EntityName": "Partner organizations - Luapula Province",
+      "Description": "Project monitoring revealed impact assessment involving partner organizations",
+      "DetectedAt": "2025-12-23T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0276cc5a-170c-042c-1671-0037663775b7",
+      "Type": "Development projects",
+      "Severity": "Medium",
+      "EntityName": "Beneficiaries - Eastern Province",
+      "Description": "Fund disbursement revealed humanitarian aid involving partner organizations",
+      "DetectedAt": "2025-12-19T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02186d39-1a65-0b15-2650-00e81e12c2b9",
+      "Type": "Humanitarian aid",
+      "Severity": "High",
+      "EntityName": "Donors - rural areas",
+      "Description": "Project monitoring revealed development projects involving partner organizations",
+      "DetectedAt": "2026-01-16T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03b92c88-0d53-094e-0fc5-00573f727888",
+      "Type": "Humanitarian aid",
+      "Severity": "Medium",
+      "EntityName": "Partner organizations - Southern Province",
+      "Description": "Project monitoring revealed development projects involving beneficiaries",
+      "DetectedAt": "2025-11-21T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "022cb275-13c7-1921-17b7-00a30c6e58d9",
+      "Type": "Impact assessment",
+      "Severity": "Critical",
+      "EntityName": "Donors - Southern Province",
+      "Description": "Impact evaluation revealed impact assessment involving donors",
+      "DetectedAt": "2025-12-25T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0518074b-0b66-270f-1e88-0028a345965e",
+      "Type": "Program implementation",
+      "Severity": "High",
+      "EntityName": "Beneficiaries - Luapula Province",
+      "Description": "Beneficiary verification revealed program implementation involving donors",
+      "DetectedAt": "2025-12-04T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03116f36-06a6-26fe-1377-003e1aab1f6b",
+      "Type": "Humanitarian aid",
+      "Severity": "Medium",
+      "EntityName": "Partner organizations - Lusaka",
+      "Description": "Fund disbursement revealed impact assessment involving beneficiaries",
+      "DetectedAt": "2025-12-24T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01a6e769-1f74-1e55-0f4a-002393b1a645",
+      "Type": "Program implementation",
+      "Severity": "Medium",
+      "EntityName": "Implementing partners - Luapula Province",
+      "Description": "Compliance audit revealed impact assessment involving beneficiaries",
+      "DetectedAt": "2025-12-26T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "027ff55f-1951-0f31-18f4-00daac45fc33",
+      "Type": "Donor funding",
+      "Severity": "Medium",
+      "EntityName": "Beneficiaries - rural areas",
+      "Description": "Project monitoring revealed impact assessment involving partner organizations",
+      "DetectedAt": "2025-11-02T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03637aa1-1542-13d4-0f5a-003a2e863c95",
+      "Type": "Donor funding",
+      "Severity": "Medium",
+      "EntityName": "Donors - Luapula Province",
+      "Description": "Impact evaluation revealed development projects involving partner organizations",
+      "DetectedAt": "2025-11-10T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "013afa04-1e60-22b8-162b-00d9889c17ef",
+      "Type": "Humanitarian aid",
+      "Severity": "Low",
+      "EntityName": "Partner organizations - Eastern Province",
+      "Description": "Fund disbursement revealed impact assessment involving donors",
+      "DetectedAt": "2026-01-17T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01464c89-0d7b-24c7-1947-0061f0a590d7",
+      "Type": "Donor funding",
+      "Severity": "Low",
+      "EntityName": "Beneficiaries - Lusaka",
+      "Description": "Fund disbursement revealed impact assessment involving implementing partners",
+      "DetectedAt": "2025-11-17T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03650749-0b73-09cc-0a30-007872ee1e3a",
+      "Type": "Donor funding",
+      "Severity": "Low",
+      "EntityName": "Implementing partners - Luapula Province",
+      "Description": "Fund disbursement revealed development projects involving implementing partners",
+      "DetectedAt": "2026-01-17T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03cb40b4-1c3f-1972-25de-0078dace3cf7",
+      "Type": "Program implementation",
+      "Severity": "Medium",
+      "EntityName": "Partner organizations - Luapula Province",
+      "Description": "Project monitoring revealed development projects involving donors",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02ae14bb-169a-0f4d-24ad-008725eebf01",
+      "Type": "Impact assessment",
+      "Severity": "High",
+      "EntityName": "Partner organizations - rural areas",
+      "Description": "Project monitoring revealed impact assessment involving donors",
+      "DetectedAt": "2025-11-09T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01f2b506-089a-05e2-06f5-004d7d1c061c",
+      "Type": "Impact assessment",
+      "Severity": "Low",
+      "EntityName": "Implementing partners - Lusaka",
+      "Description": "Impact evaluation revealed donor funding involving donors",
+      "DetectedAt": "2026-01-16T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "035953e6-218d-238c-08b4-00812ab09679",
+      "Type": "Donor funding",
+      "Severity": "Critical",
+      "EntityName": "Donors - Eastern Province",
+      "Description": "Compliance audit revealed humanitarian aid involving implementing partners",
+      "DetectedAt": "2025-12-06T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "048c75b1-2702-040b-0e0e-0082926228c1",
+      "Type": "Impact assessment",
+      "Severity": "Low",
+      "EntityName": "Beneficiaries - Eastern Province",
+      "Description": "Beneficiary verification revealed impact assessment involving partner organizations",
+      "DetectedAt": "2025-11-14T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "00bf5d59-096b-1ba7-0f4a-009ab8b5d1a5",
+      "Type": "Impact assessment",
+      "Severity": "Low",
+      "EntityName": "Donors - Southern Province",
+      "Description": "Beneficiary verification revealed humanitarian aid involving beneficiaries",
+      "DetectedAt": "2025-12-24T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04c2a997-065e-1c87-0846-003af3cb2e63",
+      "Type": "Program implementation",
+      "Severity": "Medium",
+      "EntityName": "Partner organizations - rural areas",
+      "Description": "Project monitoring revealed development projects involving donors",
+      "DetectedAt": "2025-12-15T17:30:30Z",
+      "Status": "Pending"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 89
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 76
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 61
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 78
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 71
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 71
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 60
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 85
+    }
+  ]
+}

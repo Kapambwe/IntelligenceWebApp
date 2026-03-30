@@ -1,0 +1,854 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Nodes": [
+    {
+      "Id": "053009cb-1aee-08ed-04fe-00cc183277e4",
+      "Name": "Corporate clients - Ndola",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 65.1,
+      "IsCritical": true,
+      "Products": [
+        "retail banking"
+      ],
+      "AnnualSpend": 522699.12
+    },
+    {
+      "Id": "02150a0e-1d46-25a5-1474-004b96a34351",
+      "Name": "Smes - Lusaka",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 83.8,
+      "IsCritical": true,
+      "Products": [
+        "retail banking"
+      ],
+      "AnnualSpend": 9775858.88
+    },
+    {
+      "Id": "03ffbae5-1d9d-05b8-1d7d-007c5f46c0cd",
+      "Name": "Business accounts - Ndola",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 61.0,
+      "IsCritical": true,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 1759007.93
+    },
+    {
+      "Id": "02b39593-2494-1e5f-086d-00dd212a0d38",
+      "Name": "Smes - Solwezi",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 91.2,
+      "IsCritical": false,
+      "Products": [
+        "credit risk"
+      ],
+      "AnnualSpend": 1139255.72
+    },
+    {
+      "Id": "0472ebe1-18ea-21bf-13df-00840d2fa708",
+      "Name": "Individual customers - Kitwe",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 67.9,
+      "IsCritical": true,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 2664863.88
+    },
+    {
+      "Id": "00f081f4-0a5e-1157-1965-0040634b28d0",
+      "Name": "Individual customers - Livingstone",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 54.5,
+      "IsCritical": true,
+      "Products": [
+        "retail banking"
+      ],
+      "AnnualSpend": 713707.43
+    },
+    {
+      "Id": "03b1549c-169e-1550-0d1f-007da8af7267",
+      "Name": "Individual customers - Solwezi",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 68.9,
+      "IsCritical": false,
+      "Products": [
+        "credit risk"
+      ],
+      "AnnualSpend": 2773862.14
+    },
+    {
+      "Id": "0492664f-1fe0-14d6-2054-00aefabce16a",
+      "Name": "Business accounts - Livingstone",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 52.5,
+      "IsCritical": false,
+      "Products": [
+        "retail banking"
+      ],
+      "AnnualSpend": 7330974.32
+    },
+    {
+      "Id": "046c3d48-25ae-16c0-14ac-001e1f93d685",
+      "Name": "Business accounts - Livingstone",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 60.3,
+      "IsCritical": true,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 2422527.81
+    },
+    {
+      "Id": "0558d679-12a4-188b-1041-005c3c79fd40",
+      "Name": "Corporate clients - Kitwe",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 57.7,
+      "IsCritical": true,
+      "Products": [
+        "credit risk"
+      ],
+      "AnnualSpend": 7127998.73
+    },
+    {
+      "Id": "03b28511-268e-1202-2181-003c309a9069",
+      "Name": "Corporate clients - Kitwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 89.5,
+      "IsCritical": false,
+      "Products": [
+        "retail banking"
+      ],
+      "AnnualSpend": 2842087.47
+    },
+    {
+      "Id": "054c42c8-2113-2194-1181-0088699b6ad5",
+      "Name": "Corporate clients - Livingstone",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 90.0,
+      "IsCritical": false,
+      "Products": [
+        "retail banking"
+      ],
+      "AnnualSpend": 7832837.37
+    },
+    {
+      "Id": "0301473b-058b-114b-0c9a-003303a7b7d7",
+      "Name": "Corporate clients - Solwezi",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 76.2,
+      "IsCritical": false,
+      "Products": [
+        "account management"
+      ],
+      "AnnualSpend": 6149375.21
+    },
+    {
+      "Id": "0457ded9-09e9-1706-1075-008a75c28333",
+      "Name": "Smes - Livingstone",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 81.8,
+      "IsCritical": true,
+      "Products": [
+        "account management"
+      ],
+      "AnnualSpend": 8191493.89
+    },
+    {
+      "Id": "0276f56b-053a-1257-0a25-00b7240b51d1",
+      "Name": "Individual customers - Solwezi",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 85.4,
+      "IsCritical": true,
+      "Products": [
+        "corporate lending"
+      ],
+      "AnnualSpend": 4819862.08
+    },
+    {
+      "Id": "01f0f6f5-04eb-15b3-147d-004229b0e13e",
+      "Name": "Corporate clients - Livingstone",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 61.8,
+      "IsCritical": false,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 6151410.88
+    },
+    {
+      "Id": "01764722-0b9d-0582-0ad9-005c301f8810",
+      "Name": "Individual customers - Kitwe",
+      "Country": "DRC",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 83.3,
+      "IsCritical": true,
+      "Products": [
+        "account management"
+      ],
+      "AnnualSpend": 4037890.64
+    },
+    {
+      "Id": "03abc0b4-13ae-18c3-062d-007ec3cb5a32",
+      "Name": "Corporate clients - Ndola",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 41.0,
+      "IsCritical": true,
+      "Products": [
+        "account management"
+      ],
+      "AnnualSpend": 7547963.41
+    },
+    {
+      "Id": "0516af6f-2618-1a13-0d55-0092e3b2720c",
+      "Name": "Corporate clients - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 93.3,
+      "IsCritical": false,
+      "Products": [
+        "account management"
+      ],
+      "AnnualSpend": 3949054.12
+    },
+    {
+      "Id": "01ba6ad5-23d0-198e-0879-0038bc7666fb",
+      "Name": "Smes - Lusaka",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 89.2,
+      "IsCritical": true,
+      "Products": [
+        "account management"
+      ],
+      "AnnualSpend": 2704195.08
+    },
+    {
+      "Id": "009f8de6-1627-04b1-2653-0093b9e64202",
+      "Name": "Smes - Kitwe",
+      "Country": "Zambia",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 86.7,
+      "IsCritical": true,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 8285794.87
+    },
+    {
+      "Id": "02614f8f-05a9-17f9-1bad-0097ad1a5f15",
+      "Name": "Smes - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 59.2,
+      "IsCritical": true,
+      "Products": [
+        "credit risk"
+      ],
+      "AnnualSpend": 2935607.01
+    },
+    {
+      "Id": "0454fe9a-2604-1262-15e4-00e6bd7e40db",
+      "Name": "Business accounts - Ndola",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 87.8,
+      "IsCritical": false,
+      "Products": [
+        "corporate lending"
+      ],
+      "AnnualSpend": 7794305.19
+    },
+    {
+      "Id": "02c43ff9-2575-1036-1b1f-0057c95bef52",
+      "Name": "Business accounts - Livingstone",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 75.2,
+      "IsCritical": true,
+      "Products": [
+        "retail banking"
+      ],
+      "AnnualSpend": 7480740.7
+    },
+    {
+      "Id": "05ee484d-18ab-2082-0887-0018d13a3309",
+      "Name": "Individual customers - Solwezi",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 84.6,
+      "IsCritical": true,
+      "Products": [
+        "retail banking"
+      ],
+      "AnnualSpend": 1994847.52
+    },
+    {
+      "Id": "0523aeca-1b54-15fb-0811-00c9319589da",
+      "Name": "Smes - Kitwe",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 76.0,
+      "IsCritical": true,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 9954495.89
+    },
+    {
+      "Id": "0297d7da-0cc0-156f-1ba6-00cc0322913b",
+      "Name": "Individual customers - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 50.8,
+      "IsCritical": true,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 9082489.62
+    },
+    {
+      "Id": "05656ac5-13af-21b7-0f21-00a2469b7fa9",
+      "Name": "Business accounts - Solwezi",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 53.8,
+      "IsCritical": false,
+      "Products": [
+        "corporate lending"
+      ],
+      "AnnualSpend": 822815.35
+    },
+    {
+      "Id": "059757bd-0588-226d-1da1-006773c07640",
+      "Name": "Corporate clients - Livingstone",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "logistics",
+      "RiskScore": 77.7,
+      "IsCritical": true,
+      "Products": [
+        "corporate lending"
+      ],
+      "AnnualSpend": 8175362.57
+    },
+    {
+      "Id": "053c7821-0a0e-1bf0-08c0-00379f42e486",
+      "Name": "Corporate clients - Solwezi",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 77.3,
+      "IsCritical": false,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 3725436.22
+    },
+    {
+      "Id": "051dad09-124c-208f-1400-00e678bfd34c",
+      "Name": "Smes - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 68.2,
+      "IsCritical": true,
+      "Products": [
+        "retail banking"
+      ],
+      "AnnualSpend": 7405460.84
+    },
+    {
+      "Id": "02c4d0f6-1818-1e78-253c-009813418fe9",
+      "Name": "Individual customers - Kitwe",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 41.9,
+      "IsCritical": true,
+      "Products": [
+        "retail banking"
+      ],
+      "AnnualSpend": 9456835.28
+    },
+    {
+      "Id": "040305da-0a91-1968-0b92-005c8cf67b1e",
+      "Name": "Individual customers - Lusaka",
+      "Country": "DRC",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 67.9,
+      "IsCritical": false,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 7683564.29
+    },
+    {
+      "Id": "02f067f0-08ed-0461-0925-0098a6849e3d",
+      "Name": "Smes - Ndola",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 87.9,
+      "IsCritical": true,
+      "Products": [
+        "retail banking"
+      ],
+      "AnnualSpend": 8213192.2
+    },
+    {
+      "Id": "056d2e71-2146-14ba-265e-0046d1589e14",
+      "Name": "Business accounts - Livingstone",
+      "Country": "South Africa",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 47.0,
+      "IsCritical": true,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 4626935.92
+    },
+    {
+      "Id": "050a5145-0f58-14fb-17f1-00a579339ab3",
+      "Name": "Corporate clients - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 57.8,
+      "IsCritical": false,
+      "Products": [
+        "account management"
+      ],
+      "AnnualSpend": 519211.4
+    },
+    {
+      "Id": "01694b35-194e-1488-0dc6-00ab05f0c2f8",
+      "Name": "Business accounts - Livingstone",
+      "Country": "Zimbabwe",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 86.7,
+      "IsCritical": false,
+      "Products": [
+        "corporate lending"
+      ],
+      "AnnualSpend": 8751581.08
+    },
+    {
+      "Id": "04edd84b-0a54-258b-1986-00297f88bb97",
+      "Name": "Corporate clients - Kitwe",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "rawMaterials",
+      "RiskScore": 70.2,
+      "IsCritical": true,
+      "Products": [
+        "credit risk"
+      ],
+      "AnnualSpend": 6895765.36
+    },
+    {
+      "Id": "033ed306-0992-18a7-1f4c-00a3dec4df35",
+      "Name": "Individual customers - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "logistics",
+      "RiskScore": 62.6,
+      "IsCritical": true,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 2550398.47
+    },
+    {
+      "Id": "033555b6-26e1-20d1-086f-00b93cbe6bfa",
+      "Name": "Corporate clients - Livingstone",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "rawMaterials",
+      "RiskScore": 91.6,
+      "IsCritical": true,
+      "Products": [
+        "corporate lending"
+      ],
+      "AnnualSpend": 8631886.47
+    },
+    {
+      "Id": "02e2d4e9-1731-0b5e-0e74-00438f4a733e",
+      "Name": "Individual customers - Lusaka",
+      "Country": "DRC",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 82.5,
+      "IsCritical": true,
+      "Products": [
+        "corporate lending"
+      ],
+      "AnnualSpend": 5778723.58
+    },
+    {
+      "Id": "041540fa-0d21-2191-06fd-00abb7683e5f",
+      "Name": "Corporate clients - Livingstone",
+      "Country": "Zambia",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 71.1,
+      "IsCritical": true,
+      "Products": [
+        "retail banking"
+      ],
+      "AnnualSpend": 7441222.37
+    },
+    {
+      "Id": "05128957-2168-1c81-1e51-0062ce4b8c09",
+      "Name": "Business accounts - Kitwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "logistics",
+      "RiskScore": 64.0,
+      "IsCritical": true,
+      "Products": [
+        "credit risk"
+      ],
+      "AnnualSpend": 6796864.72
+    },
+    {
+      "Id": "0564aeac-15b5-254c-1a77-004c83d40684",
+      "Name": "Smes - Lusaka",
+      "Country": "Zimbabwe",
+      "Tier": 3,
+      "Category": "rawMaterials",
+      "RiskScore": 41.5,
+      "IsCritical": true,
+      "Products": [
+        "account management"
+      ],
+      "AnnualSpend": 2347158.59
+    },
+    {
+      "Id": "05aff178-1fc2-1788-0898-0069313dbe05",
+      "Name": "Individual customers - Livingstone",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 56.3,
+      "IsCritical": true,
+      "Products": [
+        "account management"
+      ],
+      "AnnualSpend": 8779859.57
+    },
+    {
+      "Id": "05aa47c1-2540-0df3-1813-004e4ddafc98",
+      "Name": "Corporate clients - Kitwe",
+      "Country": "Zimbabwe",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 41.0,
+      "IsCritical": true,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 4606368.51
+    },
+    {
+      "Id": "022024d5-074a-1bfa-13f8-002d55f3cf7e",
+      "Name": "Business accounts - Kitwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "services",
+      "RiskScore": 88.6,
+      "IsCritical": false,
+      "Products": [
+        "corporate lending"
+      ],
+      "AnnualSpend": 2991542.86
+    },
+    {
+      "Id": "02593e1e-2197-245a-161e-00d5ec3c9797",
+      "Name": "Business accounts - Lusaka",
+      "Country": "South Africa",
+      "Tier": 3,
+      "Category": "services",
+      "RiskScore": 86.8,
+      "IsCritical": false,
+      "Products": [
+        "account management"
+      ],
+      "AnnualSpend": 2063918.38
+    },
+    {
+      "Id": "0099fe64-107c-0566-05a4-00787fac4326",
+      "Name": "Business accounts - Ndola",
+      "Country": "South Africa",
+      "Tier": 1,
+      "Category": "services",
+      "RiskScore": 58.9,
+      "IsCritical": false,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 5372141.09
+    },
+    {
+      "Id": "023302e8-0a19-04e7-228c-0019c692e0fa",
+      "Name": "Smes - Livingstone",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 43.5,
+      "IsCritical": true,
+      "Products": [
+        "transaction monitoring"
+      ],
+      "AnnualSpend": 4249109.53
+    }
+  ],
+  "Edges": [
+    {
+      "Id": "039a6506-165e-10e8-06ed-00517d4a7de1",
+      "FromSupplierId": "03abc0b4-13ae-18c3-062d-007ec3cb5a32",
+      "ToSupplierId": "05aa47c1-2540-0df3-1813-004e4ddafc98",
+      "Type": "partnership",
+      "DependencyLevel": 0.64,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "05f55d58-10c7-26ef-11bf-006b088a1a06",
+      "FromSupplierId": "0297d7da-0cc0-156f-1ba6-00cc0322913b",
+      "ToSupplierId": "02b39593-2494-1e5f-086d-00dd212a0d38",
+      "Type": "supplies",
+      "DependencyLevel": 0.59,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0362f94e-1227-0cc5-2387-00d024ac9f8c",
+      "FromSupplierId": "0492664f-1fe0-14d6-2054-00aefabce16a",
+      "ToSupplierId": "05ee484d-18ab-2082-0887-0018d13a3309",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.4,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0545a81f-152d-13b0-0711-007819ece10d",
+      "FromSupplierId": "00f081f4-0a5e-1157-1965-0040634b28d0",
+      "ToSupplierId": "040305da-0a91-1968-0b92-005c8cf67b1e",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.78,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "019d5c95-20eb-0a9a-25d5-001cb47a8150",
+      "FromSupplierId": "01ba6ad5-23d0-198e-0879-0038bc7666fb",
+      "ToSupplierId": "02150a0e-1d46-25a5-1474-004b96a34351",
+      "Type": "supplies",
+      "DependencyLevel": 0.49,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "0540dc68-0e98-220c-0842-004f815a0891",
+      "FromSupplierId": "054c42c8-2113-2194-1181-0088699b6ad5",
+      "ToSupplierId": "053c7821-0a0e-1bf0-08c0-00379f42e486",
+      "Type": "partnership",
+      "DependencyLevel": 0.48,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "03b109a6-2352-0411-07cf-003536fa0c62",
+      "FromSupplierId": "022024d5-074a-1bfa-13f8-002d55f3cf7e",
+      "ToSupplierId": "023302e8-0a19-04e7-228c-0019c692e0fa",
+      "Type": "supplies",
+      "DependencyLevel": 0.45,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "04e0633c-2537-0c8a-1963-005068fbe0e4",
+      "FromSupplierId": "0457ded9-09e9-1706-1075-008a75c28333",
+      "ToSupplierId": "033555b6-26e1-20d1-086f-00b93cbe6bfa",
+      "Type": "partnership",
+      "DependencyLevel": 0.42,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "04d2a68a-09bc-1b2f-0bd3-002123a565bf",
+      "FromSupplierId": "056d2e71-2146-14ba-265e-0046d1589e14",
+      "ToSupplierId": "03abc0b4-13ae-18c3-062d-007ec3cb5a32",
+      "Type": "partnership",
+      "DependencyLevel": 0.89,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0599d360-065f-1796-0d97-00a324b41a7f",
+      "FromSupplierId": "00f081f4-0a5e-1157-1965-0040634b28d0",
+      "ToSupplierId": "033555b6-26e1-20d1-086f-00b93cbe6bfa",
+      "Type": "partnership",
+      "DependencyLevel": 0.81,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "05341a4b-1254-0c3b-18c9-00db2582ec60",
+      "FromSupplierId": "05ee484d-18ab-2082-0887-0018d13a3309",
+      "ToSupplierId": "023302e8-0a19-04e7-228c-0019c692e0fa",
+      "Type": "partnership",
+      "DependencyLevel": 0.48,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "02223420-1c6f-2596-0d64-005d3e52a891",
+      "FromSupplierId": "051dad09-124c-208f-1400-00e678bfd34c",
+      "ToSupplierId": "05128957-2168-1c81-1e51-0062ce4b8c09",
+      "Type": "supplies",
+      "DependencyLevel": 0.65,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "02881e3e-0fd6-1c5c-1695-00d80e84aba3",
+      "FromSupplierId": "01f0f6f5-04eb-15b3-147d-004229b0e13e",
+      "ToSupplierId": "05656ac5-13af-21b7-0f21-00a2469b7fa9",
+      "Type": "partnership",
+      "DependencyLevel": 0.47,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0143019c-0fac-24ab-196c-0039a45d3c3d",
+      "FromSupplierId": "051dad09-124c-208f-1400-00e678bfd34c",
+      "ToSupplierId": "0297d7da-0cc0-156f-1ba6-00cc0322913b",
+      "Type": "partnership",
+      "DependencyLevel": 0.57,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "05e8d4ba-1933-21bc-1581-00d91749f9de",
+      "FromSupplierId": "00f081f4-0a5e-1157-1965-0040634b28d0",
+      "ToSupplierId": "0099fe64-107c-0566-05a4-00787fac4326",
+      "Type": "supplies",
+      "DependencyLevel": 0.86,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "042b57ca-2023-213f-219b-00692ed10c17",
+      "FromSupplierId": "053009cb-1aee-08ed-04fe-00cc183277e4",
+      "ToSupplierId": "04edd84b-0a54-258b-1986-00297f88bb97",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.43,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "0333ac59-0736-18f4-03f2-00da209fb195",
+      "FromSupplierId": "04edd84b-0a54-258b-1986-00297f88bb97",
+      "ToSupplierId": "05ee484d-18ab-2082-0887-0018d13a3309",
+      "Type": "partnership",
+      "DependencyLevel": 0.89,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "029c7fbd-267f-2428-0d26-00e586f7d083",
+      "FromSupplierId": "02b39593-2494-1e5f-086d-00dd212a0d38",
+      "ToSupplierId": "0454fe9a-2604-1262-15e4-00e6bd7e40db",
+      "Type": "partnership",
+      "DependencyLevel": 0.87,
+      "IsCriticalPath": true
+    },
+    {
+      "Id": "01961087-22e8-06d5-0c0b-00c1bb2c335f",
+      "FromSupplierId": "054c42c8-2113-2194-1181-0088699b6ad5",
+      "ToSupplierId": "023302e8-0a19-04e7-228c-0019c692e0fa",
+      "Type": "dependsOn",
+      "DependencyLevel": 0.87,
+      "IsCriticalPath": false
+    },
+    {
+      "Id": "03fe3d87-0bae-071f-14f2-007b9b2a0218",
+      "FromSupplierId": "03b28511-268e-1202-2181-003c309a9069",
+      "ToSupplierId": "050a5145-0f58-14fb-17f1-00a579339ab3",
+      "Type": "supplies",
+      "DependencyLevel": 0.84,
+      "IsCriticalPath": true
+    }
+  ],
+  "RiskConcentrations": [
+    {
+      "Type": "operational",
+      "Description": "Concentration of credit risk in Kitwe",
+      "ConcentrationLevel": 82.3,
+      "AffectedSuppliers": [
+        "Smes - Livingstone",
+        "Business accounts - Ndola",
+        "Smes - Ndola"
+      ]
+    }
+  ],
+  "RiskAlerts": [
+    {
+      "Id": "00d99e10-0f1e-0d0b-1d0a-00aeb9ff44db",
+      "SupplierId": "053009cb-1aee-08ed-04fe-00cc183277e4",
+      "SupplierName": "Corporate clients - Ndola",
+      "RiskType": "operational",
+      "Severity": "medium",
+      "Description": "Risk detected in credit risk operations",
+      "DetectedAt": "2026-01-09T17:30:30Z",
+      "IsAcknowledged": false,
+      "AffectedDownstreamSuppliers": [
+        "0454fe9a-2604-1262-15e4-00e6bd7e40db",
+        "009f8de6-1627-04b1-2653-0093b9e64202"
+      ]
+    }
+  ],
+  "Statistics": {
+    "TotalSuppliers": 50,
+    "TotalTiers": 3,
+    "CriticalSuppliers": 33,
+    "HighRiskSuppliers": 18,
+    "AverageRiskScore": 70.0,
+    "RiskConcentrations": [],
+    "CriticalPaths": []
+  }
+}

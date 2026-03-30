@@ -1,0 +1,42 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Radio",
+    "DisplayName": "Radio Phoenix",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Broadcast news, community updates, and investigative reports encouraging accountability in revenue and public spending.",
+    "TopPriorities": [
+      "Air segments on financial fraud to influence public sentiment.",
+      "Use call-in shows to capture local testimony on corrupt procurement.",
+      "Support whistleblower campaigns by providing safe on-air tips."
+    ],
+    "ActiveOperations": [
+      "Citizen hotline documenting suspicious activities.",
+      "Weekly programs featuring interviews with analysts and experts.",
+      "Broadcasts explaining court rulings and legal processes in plain language."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Live studio briefing with government officials",
+        "Date": "2026-01-07T00:00:00Z",
+        "Summary": "Allowed listeners to submit real-time questions about ongoing issues."
+      },
+      {
+        "Title": "Special series on accountability",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Partnered with civil society to verify facts before airing."
+      }
+    ],
+    "KeyPartnerships": [
+      "Transparency International Zambia",
+      "Zambia Revenue Authority",
+      "Civil society media coalition"
+    ],
+    "Metrics": {
+      "WeeklyListeners": "346000",
+      "InvestigativeSegments": "17 per quarter",
+      "ListenerTips": "252 verified leads"
+    }
+  }
+]

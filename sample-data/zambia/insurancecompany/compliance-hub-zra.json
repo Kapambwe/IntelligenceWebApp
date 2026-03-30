@@ -1,0 +1,493 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 397,
+  "ActiveAlerts": 15,
+  "PendingReviews": 12,
+  "ComplianceScore": 85.2,
+  "Alerts": [
+    {
+      "Id": "05d03249-1d5a-12d4-2170-007b7c52589a",
+      "Type": "Underwriting",
+      "Severity": "High",
+      "EntityName": "Policyholders - Lusaka",
+      "Description": "Claims processing revealed claims processing involving brokers",
+      "DetectedAt": "2025-12-30T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "03c609d8-11c6-22f3-0b64-00ddcdb7b241",
+      "Type": "Policy management",
+      "Severity": "Low",
+      "EntityName": "Brokers - Lusaka",
+      "Description": "Fraud investigation revealed insurance fraud involving claimants",
+      "DetectedAt": "2025-11-24T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00bfbfde-0b59-10b5-15ef-00760b9da05d",
+      "Type": "Risk assessment",
+      "Severity": "Medium",
+      "EntityName": "Brokers - Ndola",
+      "Description": "Risk evaluation revealed risk assessment involving claimants",
+      "DetectedAt": "2025-11-19T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "057e0ae2-18dc-1de0-1223-002a0ddbe10c",
+      "Type": "Risk assessment",
+      "Severity": "High",
+      "EntityName": "Brokers - Kitwe",
+      "Description": "Policy underwriting revealed underwriting involving policyholders",
+      "DetectedAt": "2026-01-05T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04ce69ce-0a5b-2421-23c8-00bf7e6dcf79",
+      "Type": "Risk assessment",
+      "Severity": "Critical",
+      "EntityName": "Claimants - Ndola",
+      "Description": "Compliance check revealed policy management involving brokers",
+      "DetectedAt": "2025-12-14T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05717f7b-0452-167a-100e-005e76d8eabe",
+      "Type": "Insurance fraud",
+      "Severity": "Critical",
+      "EntityName": "Claimants - Ndola",
+      "Description": "Claims processing revealed underwriting involving claimants",
+      "DetectedAt": "2025-11-19T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04e5538d-1054-2405-22b3-00b0f6d9c72c",
+      "Type": "Insurance fraud",
+      "Severity": "High",
+      "EntityName": "Policyholders - Livingstone",
+      "Description": "Compliance check revealed risk assessment involving brokers",
+      "DetectedAt": "2026-01-02T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0337e949-1584-24bf-1bca-005296c14646",
+      "Type": "Policy management",
+      "Severity": "Critical",
+      "EntityName": "Claimants - Livingstone",
+      "Description": "Policy underwriting revealed insurance fraud involving brokers",
+      "DetectedAt": "2025-12-14T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04fcbae3-2628-0a94-128a-007fed838d8c",
+      "Type": "Underwriting",
+      "Severity": "Medium",
+      "EntityName": "Brokers - Kabwe",
+      "Description": "Policy underwriting revealed underwriting involving corporate clients",
+      "DetectedAt": "2025-10-26T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "009c4f99-11b2-22ab-1bd3-006d0f4fe533",
+      "Type": "Policy management",
+      "Severity": "Critical",
+      "EntityName": "Corporate clients - Ndola",
+      "Description": "Fraud investigation revealed underwriting involving claimants",
+      "DetectedAt": "2025-11-29T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "00c57fe6-1ac0-264e-26e5-004b1439cadc",
+      "Type": "Insurance fraud",
+      "Severity": "Medium",
+      "EntityName": "Policyholders - Livingstone",
+      "Description": "Policy underwriting revealed claims processing involving brokers",
+      "DetectedAt": "2025-11-17T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "03b152d8-124f-2092-07b8-007ced8aef1f",
+      "Type": "Underwriting",
+      "Severity": "Medium",
+      "EntityName": "Claimants - Ndola",
+      "Description": "Policy underwriting revealed policy management involving claimants",
+      "DetectedAt": "2026-01-14T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "02f70003-1b98-1522-1335-004ffdde53e5",
+      "Type": "Risk assessment",
+      "Severity": "Critical",
+      "EntityName": "Policyholders - Lusaka",
+      "Description": "Fraud investigation revealed risk assessment involving policyholders",
+      "DetectedAt": "2025-11-28T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "05e66bb6-08e3-1511-211b-004a1b986e67",
+      "Type": "Risk assessment",
+      "Severity": "Medium",
+      "EntityName": "Brokers - Kitwe",
+      "Description": "Fraud investigation revealed risk assessment involving brokers",
+      "DetectedAt": "2025-12-20T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02ac9d79-0c74-1d24-2371-0052555a23a7",
+      "Type": "Underwriting",
+      "Severity": "Critical",
+      "EntityName": "Claimants - Kitwe",
+      "Description": "Policy underwriting revealed insurance fraud involving policyholders",
+      "DetectedAt": "2025-10-25T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0148f96a-0c45-1882-13c6-0057d7a101d1",
+      "Type": "Insurance fraud",
+      "Severity": "Medium",
+      "EntityName": "Brokers - Kabwe",
+      "Description": "Policy underwriting revealed underwriting involving policyholders",
+      "DetectedAt": "2025-12-09T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0194243c-120d-0a9c-03f9-00b423ea4611",
+      "Type": "Insurance fraud",
+      "Severity": "Critical",
+      "EntityName": "Brokers - Kabwe",
+      "Description": "Fraud investigation revealed risk assessment involving brokers",
+      "DetectedAt": "2025-11-12T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "024d8e03-0d5a-1b87-0b22-00779018f4b0",
+      "Type": "Claims processing",
+      "Severity": "High",
+      "EntityName": "Corporate clients - Lusaka",
+      "Description": "Claims processing revealed claims processing involving policyholders",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "035da93b-0460-17f6-23a1-00998b06bb99",
+      "Type": "Claims processing",
+      "Severity": "Critical",
+      "EntityName": "Corporate clients - Livingstone",
+      "Description": "Claims processing revealed policy management involving claimants",
+      "DetectedAt": "2025-11-05T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "055bb654-1683-17fc-08de-00e19b494979",
+      "Type": "Policy management",
+      "Severity": "Medium",
+      "EntityName": "Policyholders - Livingstone",
+      "Description": "Claims processing revealed policy management involving brokers",
+      "DetectedAt": "2025-12-25T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04664026-153f-2507-1c82-00c48e8f9fe3",
+      "Type": "Underwriting",
+      "Severity": "High",
+      "EntityName": "Claimants - Ndola",
+      "Description": "Compliance check revealed insurance fraud involving brokers",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "051d43e6-0c9f-1510-0b2e-0086d2490201",
+      "Type": "Insurance fraud",
+      "Severity": "Medium",
+      "EntityName": "Brokers - Kitwe",
+      "Description": "Risk evaluation revealed underwriting involving brokers",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "049d308f-063c-265a-0b09-002a8797f64a",
+      "Type": "Policy management",
+      "Severity": "Medium",
+      "EntityName": "Corporate clients - Kitwe",
+      "Description": "Fraud investigation revealed policy management involving brokers",
+      "DetectedAt": "2026-01-09T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01b1937e-1b58-0d13-068c-009a2575d048",
+      "Type": "Underwriting",
+      "Severity": "Critical",
+      "EntityName": "Corporate clients - Lusaka",
+      "Description": "Risk evaluation revealed policy management involving brokers",
+      "DetectedAt": "2026-01-03T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "04cdb5be-0c4c-25b2-0ab4-008602765705",
+      "Type": "Risk assessment",
+      "Severity": "Low",
+      "EntityName": "Claimants - Kabwe",
+      "Description": "Fraud investigation revealed insurance fraud involving policyholders",
+      "DetectedAt": "2025-11-26T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "020083e4-0c02-0c52-2359-00d34c3a61e4",
+      "Type": "Policy management",
+      "Severity": "Medium",
+      "EntityName": "Corporate clients - Livingstone",
+      "Description": "Compliance check revealed underwriting involving claimants",
+      "DetectedAt": "2026-01-10T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0171e42c-20c8-1799-1c74-002bfcad47b9",
+      "Type": "Risk assessment",
+      "Severity": "Medium",
+      "EntityName": "Claimants - Livingstone",
+      "Description": "Compliance check revealed claims processing involving claimants",
+      "DetectedAt": "2025-11-28T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "01f9a227-0a21-0e7c-1328-008d90212aab",
+      "Type": "Insurance fraud",
+      "Severity": "High",
+      "EntityName": "Corporate clients - Ndola",
+      "Description": "Compliance check revealed insurance fraud involving claimants",
+      "DetectedAt": "2025-11-09T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "04eeb63d-1a8b-0c59-1bb8-003170068be2",
+      "Type": "Claims processing",
+      "Severity": "Medium",
+      "EntityName": "Brokers - Livingstone",
+      "Description": "Fraud investigation revealed policy management involving corporate clients",
+      "DetectedAt": "2026-01-18T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "011ae030-0d0a-108d-1114-00d7d12f0d3e",
+      "Type": "Claims processing",
+      "Severity": "Low",
+      "EntityName": "Corporate clients - Lusaka",
+      "Description": "Compliance check revealed insurance fraud involving corporate clients",
+      "DetectedAt": "2025-12-29T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03e34679-0efd-0e9c-116b-00e807987cda",
+      "Type": "Policy management",
+      "Severity": "Low",
+      "EntityName": "Corporate clients - Kabwe",
+      "Description": "Claims processing revealed risk assessment involving brokers",
+      "DetectedAt": "2025-12-17T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01601dac-14a2-0478-1bd9-00a10f3fabec",
+      "Type": "Claims processing",
+      "Severity": "High",
+      "EntityName": "Claimants - Kabwe",
+      "Description": "Policy underwriting revealed policy management involving claimants",
+      "DetectedAt": "2025-11-22T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "0133f91d-1758-056e-1760-008fdf79b817",
+      "Type": "Underwriting",
+      "Severity": "High",
+      "EntityName": "Claimants - Livingstone",
+      "Description": "Policy underwriting revealed risk assessment involving brokers",
+      "DetectedAt": "2025-11-20T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04bde39d-041a-1a62-1ec5-0024451a9fd4",
+      "Type": "Risk assessment",
+      "Severity": "Low",
+      "EntityName": "Brokers - Lusaka",
+      "Description": "Policy underwriting revealed policy management involving policyholders",
+      "DetectedAt": "2025-12-15T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "012347ba-24a0-0e35-0bc4-00b2b60d08ec",
+      "Type": "Underwriting",
+      "Severity": "Medium",
+      "EntityName": "Policyholders - Livingstone",
+      "Description": "Risk evaluation revealed policy management involving policyholders",
+      "DetectedAt": "2025-11-11T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "03deee5d-15fa-0c32-1939-002717c00732",
+      "Type": "Policy management",
+      "Severity": "Low",
+      "EntityName": "Claimants - Ndola",
+      "Description": "Policy underwriting revealed policy management involving claimants",
+      "DetectedAt": "2025-12-07T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "01d1206e-21da-2683-2236-004a667358f6",
+      "Type": "Claims processing",
+      "Severity": "Medium",
+      "EntityName": "Brokers - Ndola",
+      "Description": "Risk evaluation revealed risk assessment involving policyholders",
+      "DetectedAt": "2025-11-30T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "024c5866-0ee0-08c2-1730-004a89208d6a",
+      "Type": "Policy management",
+      "Severity": "Critical",
+      "EntityName": "Policyholders - Livingstone",
+      "Description": "Policy underwriting revealed insurance fraud involving corporate clients",
+      "DetectedAt": "2025-12-29T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "02996e6a-0ecc-1a9f-0e4d-0051f96217ef",
+      "Type": "Policy management",
+      "Severity": "Low",
+      "EntityName": "Policyholders - Kabwe",
+      "Description": "Risk evaluation revealed underwriting involving corporate clients",
+      "DetectedAt": "2025-12-30T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "05073672-231d-0584-04b2-001df22cf717",
+      "Type": "Underwriting",
+      "Severity": "Medium",
+      "EntityName": "Policyholders - Kitwe",
+      "Description": "Policy underwriting revealed claims processing involving claimants",
+      "DetectedAt": "2025-12-09T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "0479a41d-24de-06f0-26fb-005b52717c26",
+      "Type": "Underwriting",
+      "Severity": "High",
+      "EntityName": "Brokers - Kabwe",
+      "Description": "Risk evaluation revealed risk assessment involving brokers",
+      "DetectedAt": "2025-12-18T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "0323b2f5-1432-252d-11b0-009b96866f9e",
+      "Type": "Policy management",
+      "Severity": "Medium",
+      "EntityName": "Brokers - Kabwe",
+      "Description": "Claims processing revealed policy management involving claimants",
+      "DetectedAt": "2025-11-20T17:30:30Z",
+      "Status": "Investigation"
+    },
+    {
+      "Id": "00bc0754-1781-1b52-2674-00ae1c9d6d26",
+      "Type": "Underwriting",
+      "Severity": "High",
+      "EntityName": "Policyholders - Livingstone",
+      "Description": "Claims processing revealed underwriting involving policyholders",
+      "DetectedAt": "2025-12-25T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01f7bdc1-160c-254e-0ecf-0070e481546f",
+      "Type": "Insurance fraud",
+      "Severity": "High",
+      "EntityName": "Corporate clients - Lusaka",
+      "Description": "Compliance check revealed risk assessment involving policyholders",
+      "DetectedAt": "2025-12-16T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "02748f3e-0b50-2576-1287-00c3cdb1ad1a",
+      "Type": "Claims processing",
+      "Severity": "High",
+      "EntityName": "Claimants - Kabwe",
+      "Description": "Compliance check revealed insurance fraud involving corporate clients",
+      "DetectedAt": "2025-11-22T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "059b308d-2207-116e-1220-00268708db54",
+      "Type": "Risk assessment",
+      "Severity": "Low",
+      "EntityName": "Policyholders - Kitwe",
+      "Description": "Policy underwriting revealed claims processing involving corporate clients",
+      "DetectedAt": "2025-11-10T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "01b0fb24-0a43-1320-10d1-001f8837e905",
+      "Type": "Risk assessment",
+      "Severity": "Medium",
+      "EntityName": "Corporate clients - Livingstone",
+      "Description": "Compliance check revealed claims processing involving claimants",
+      "DetectedAt": "2025-11-11T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "03ee7644-048c-1ee3-07bc-008cd2f32f94",
+      "Type": "Insurance fraud",
+      "Severity": "High",
+      "EntityName": "Claimants - Kabwe",
+      "Description": "Claims processing revealed underwriting involving brokers",
+      "DetectedAt": "2025-11-27T17:30:30Z",
+      "Status": "Escalated"
+    },
+    {
+      "Id": "04a02762-07f7-24f0-1e11-00a15494304f",
+      "Type": "Policy management",
+      "Severity": "Critical",
+      "EntityName": "Claimants - Kitwe",
+      "Description": "Policy underwriting revealed underwriting involving policyholders",
+      "DetectedAt": "2025-12-24T17:30:30Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "01e21520-0416-24c2-17b3-004ad2ba8e88",
+      "Type": "Policy management",
+      "Severity": "Critical",
+      "EntityName": "Claimants - Kitwe",
+      "Description": "Risk evaluation revealed claims processing involving claimants",
+      "DetectedAt": "2026-01-16T17:30:30Z",
+      "Status": "Pending"
+    }
+  ],
+  "RiskTrends": [
+    {
+      "Date": "2026-01-12",
+      "RiskScore": 68
+    },
+    {
+      "Date": "2026-01-13",
+      "RiskScore": 90
+    },
+    {
+      "Date": "2026-01-14",
+      "RiskScore": 86
+    },
+    {
+      "Date": "2026-01-15",
+      "RiskScore": 63
+    },
+    {
+      "Date": "2026-01-16",
+      "RiskScore": 85
+    },
+    {
+      "Date": "2026-01-17",
+      "RiskScore": 67
+    },
+    {
+      "Date": "2026-01-18",
+      "RiskScore": 72
+    },
+    {
+      "Date": "2026-01-19",
+      "RiskScore": 89
+    }
+  ]
+}

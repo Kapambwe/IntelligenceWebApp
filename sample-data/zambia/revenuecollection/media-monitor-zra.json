@@ -1,0 +1,1601 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Articles": [
+    {
+      "Id": "009b24b2-1ea6-2054-042e-004b43e5442e",
+      "Title": "Revenue Collection reconciliation payment processing",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/6758",
+      "PublishedDate": "2025-12-25T17:30:31Z",
+      "PublishedAt": "2025-12-25T17:30:31Z",
+      "DiscoveredAt": "2026-01-13T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Reconciliation reveals debt recovery in Solwezi",
+      "RelatedEntities": [
+        "Corporate entities - Livingstone"
+      ],
+      "Entities": [
+        "Corporate entities - Livingstone"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "tax collection",
+        "debt recovery"
+      ],
+      "RelevanceScore": 62.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "036aaf37-1d50-1d87-10e8-004eaaeffaf0",
+      "Title": "Revenue Collection enforcement tax collection",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/9129",
+      "PublishedDate": "2025-11-05T17:30:31Z",
+      "PublishedAt": "2025-12-05T17:30:31Z",
+      "DiscoveredAt": "2025-11-30T17:30:31Z",
+      "Category": "political",
+      "Severity": "low",
+      "Summary": "Enforcement reveals debt recovery in Livingstone",
+      "RelatedEntities": [
+        "Debtors - Lusaka"
+      ],
+      "Entities": [
+        "Debtors - Lusaka"
+      ],
+      "Keywords": [
+        "tax collection",
+        "compliance enforcement",
+        "arrears management"
+      ],
+      "RelevanceScore": 87.0,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03687cad-0eb8-08d2-1f69-00baab68820d",
+      "Title": "Revenue Collection arrears recovery arrears management",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/6285",
+      "PublishedDate": "2025-11-11T17:30:31Z",
+      "PublishedAt": "2025-12-26T17:30:31Z",
+      "DiscoveredAt": "2025-12-26T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Reconciliation reveals debt recovery in Solwezi",
+      "RelatedEntities": [
+        "Individual filers - Lusaka"
+      ],
+      "Entities": [
+        "Individual filers - Lusaka"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "payment processing",
+        "arrears management"
+      ],
+      "RelevanceScore": 81.1,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04752cbd-0cda-1cbc-1ec4-00da30682de8",
+      "Title": "Revenue Collection payment tracking compliance enforcement",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/6930",
+      "PublishedDate": "2025-10-28T17:30:31Z",
+      "PublishedAt": "2025-11-27T17:30:31Z",
+      "DiscoveredAt": "2026-01-06T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Arrears recovery reveals tax collection in Lusaka",
+      "RelatedEntities": [
+        "Corporate entities - Solwezi"
+      ],
+      "Entities": [
+        "Corporate entities - Solwezi"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "arrears management",
+        "payment processing"
+      ],
+      "RelevanceScore": 64.4,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0209030b-192e-250d-0b6d-005212dd6dc8",
+      "Title": "Revenue Collection reconciliation arrears management",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/5965",
+      "PublishedDate": "2025-10-31T17:30:31Z",
+      "PublishedAt": "2025-12-12T17:30:31Z",
+      "DiscoveredAt": "2025-11-05T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Enforcement reveals tax collection in Solwezi",
+      "RelatedEntities": [
+        "Taxpayers - Livingstone"
+      ],
+      "Entities": [
+        "Taxpayers - Livingstone"
+      ],
+      "Keywords": [
+        "tax collection",
+        "payment processing",
+        "arrears management"
+      ],
+      "RelevanceScore": 94.9,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0561fc30-1597-0a6b-178c-00e423adcef6",
+      "Title": "Revenue Collection arrears recovery payment processing",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/9219",
+      "PublishedDate": "2026-01-08T17:30:31Z",
+      "PublishedAt": "2026-01-10T17:30:31Z",
+      "DiscoveredAt": "2025-12-05T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Enforcement reveals compliance enforcement in Livingstone",
+      "RelatedEntities": [
+        "Individual filers - Kitwe"
+      ],
+      "Entities": [
+        "Individual filers - Kitwe"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "arrears management",
+        "payment processing"
+      ],
+      "RelevanceScore": 81.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05ed2f8f-2437-054b-20be-00e19787859e",
+      "Title": "Revenue Collection collection arrears management",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/1550",
+      "PublishedDate": "2026-01-12T17:30:31Z",
+      "PublishedAt": "2026-01-17T17:30:31Z",
+      "DiscoveredAt": "2026-01-13T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Arrears recovery reveals payment processing in Ndola",
+      "RelatedEntities": [
+        "Corporate entities - Livingstone"
+      ],
+      "Entities": [
+        "Corporate entities - Livingstone"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "payment processing",
+        "tax collection"
+      ],
+      "RelevanceScore": 86.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "040d0686-189a-048e-14d2-0039be6e98dc",
+      "Title": "Revenue Collection enforcement compliance enforcement",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/1350",
+      "PublishedDate": "2025-10-23T17:30:31Z",
+      "PublishedAt": "2025-12-14T17:30:31Z",
+      "DiscoveredAt": "2025-12-12T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Reconciliation reveals arrears management in Solwezi",
+      "RelatedEntities": [
+        "Individual filers - Ndola"
+      ],
+      "Entities": [
+        "Individual filers - Ndola"
+      ],
+      "Keywords": [
+        "arrears management",
+        "payment processing",
+        "tax collection"
+      ],
+      "RelevanceScore": 89.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03abad25-2306-104e-0b88-00b1a7cbf68f",
+      "Title": "Revenue Collection enforcement arrears management",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/9986",
+      "PublishedDate": "2025-10-21T17:30:31Z",
+      "PublishedAt": "2025-12-03T17:30:31Z",
+      "DiscoveredAt": "2025-12-26T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Arrears recovery reveals compliance enforcement in Solwezi",
+      "RelatedEntities": [
+        "Debtors - Livingstone"
+      ],
+      "Entities": [
+        "Debtors - Livingstone"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "payment processing",
+        "tax collection"
+      ],
+      "RelevanceScore": 90.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04f7bdbf-1bf5-22e6-2601-004636a6d706",
+      "Title": "Revenue Collection enforcement payment processing",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/4035",
+      "PublishedDate": "2025-11-17T17:30:31Z",
+      "PublishedAt": "2026-01-06T17:30:31Z",
+      "DiscoveredAt": "2025-11-20T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Collection reveals debt recovery in Lusaka",
+      "RelatedEntities": [
+        "Debtors - Solwezi"
+      ],
+      "Entities": [
+        "Debtors - Solwezi"
+      ],
+      "Keywords": [
+        "debt recovery",
+        "payment processing",
+        "compliance enforcement"
+      ],
+      "RelevanceScore": 89.8,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "02fcdee0-1120-198a-0425-00b3a62df790",
+      "Title": "Revenue Collection arrears recovery payment processing",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/5759",
+      "PublishedDate": "2025-11-07T17:30:31Z",
+      "PublishedAt": "2025-12-03T17:30:31Z",
+      "DiscoveredAt": "2025-11-16T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Collection reveals arrears management in Lusaka",
+      "RelatedEntities": [
+        "Taxpayers - Lusaka"
+      ],
+      "Entities": [
+        "Taxpayers - Lusaka"
+      ],
+      "Keywords": [
+        "debt recovery",
+        "compliance enforcement",
+        "arrears management"
+      ],
+      "RelevanceScore": 84.6,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00b63342-0a86-1be6-0b8f-0053b0e763b3",
+      "Title": "Revenue Collection reconciliation debt recovery",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/4307",
+      "PublishedDate": "2026-01-11T17:30:31Z",
+      "PublishedAt": "2026-01-05T17:30:31Z",
+      "DiscoveredAt": "2026-01-14T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "medium",
+      "Summary": "Enforcement reveals arrears management in Kitwe",
+      "RelatedEntities": [
+        "Taxpayers - Ndola"
+      ],
+      "Entities": [
+        "Taxpayers - Ndola"
+      ],
+      "Keywords": [
+        "arrears management",
+        "tax collection",
+        "compliance enforcement"
+      ],
+      "RelevanceScore": 70.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "00a4b5e7-25c5-2431-0b45-00516bc78a20",
+      "Title": "Revenue Collection collection tax collection",
+      "Source": "Mwebantu",
+      "Url": "https://post.co.zm/article/6010",
+      "PublishedDate": "2026-01-16T17:30:31Z",
+      "PublishedAt": "2025-10-25T17:30:31Z",
+      "DiscoveredAt": "2025-12-25T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Payment tracking reveals arrears management in Ndola",
+      "RelatedEntities": [
+        "Debtors - Solwezi"
+      ],
+      "Entities": [
+        "Debtors - Solwezi"
+      ],
+      "Keywords": [
+        "debt recovery",
+        "tax collection",
+        "arrears management"
+      ],
+      "RelevanceScore": 74.4,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "03c534b6-122a-23da-0dce-00664360f1b1",
+      "Title": "Revenue Collection reconciliation tax collection",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://lusaka.co.zm/article/4654",
+      "PublishedDate": "2025-11-13T17:30:31Z",
+      "PublishedAt": "2025-10-23T17:30:31Z",
+      "DiscoveredAt": "2025-12-20T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Arrears recovery reveals compliance enforcement in Lusaka",
+      "RelatedEntities": [
+        "Individual filers - Solwezi"
+      ],
+      "Entities": [
+        "Individual filers - Solwezi"
+      ],
+      "Keywords": [
+        "arrears management",
+        "tax collection",
+        "compliance enforcement"
+      ],
+      "RelevanceScore": 94.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "033a177c-092f-2696-239b-00966a3ce37f",
+      "Title": "Revenue Collection arrears recovery compliance enforcement",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/8824",
+      "PublishedDate": "2025-11-18T17:30:31Z",
+      "PublishedAt": "2025-11-13T17:30:31Z",
+      "DiscoveredAt": "2025-10-23T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Collection reveals tax collection in Solwezi",
+      "RelatedEntities": [
+        "Corporate entities - Livingstone"
+      ],
+      "Entities": [
+        "Corporate entities - Livingstone"
+      ],
+      "Keywords": [
+        "debt recovery",
+        "arrears management",
+        "compliance enforcement"
+      ],
+      "RelevanceScore": 62.2,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05352112-15b6-08e1-1123-00391d0f1019",
+      "Title": "Revenue Collection reconciliation tax collection",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/1967",
+      "PublishedDate": "2026-01-04T17:30:31Z",
+      "PublishedAt": "2025-11-15T17:30:31Z",
+      "DiscoveredAt": "2025-10-26T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Collection reveals tax collection in Lusaka",
+      "RelatedEntities": [
+        "Debtors - Kitwe"
+      ],
+      "Entities": [
+        "Debtors - Kitwe"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "payment processing",
+        "debt recovery"
+      ],
+      "RelevanceScore": 72.5,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0436f98f-0401-05a1-1b40-00399d2e554a",
+      "Title": "Revenue Collection collection compliance enforcement",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/1086",
+      "PublishedDate": "2025-10-31T17:30:31Z",
+      "PublishedAt": "2025-11-02T17:30:31Z",
+      "DiscoveredAt": "2025-10-25T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Enforcement reveals payment processing in Livingstone",
+      "RelatedEntities": [
+        "Corporate entities - Solwezi"
+      ],
+      "Entities": [
+        "Corporate entities - Solwezi"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "payment processing",
+        "debt recovery"
+      ],
+      "RelevanceScore": 75.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "02f0715b-0b66-1494-1812-0092b01d6204",
+      "Title": "Revenue Collection reconciliation debt recovery",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/8567",
+      "PublishedDate": "2025-12-29T17:30:31Z",
+      "PublishedAt": "2025-12-27T17:30:31Z",
+      "DiscoveredAt": "2025-11-30T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Payment tracking reveals tax collection in Livingstone",
+      "RelatedEntities": [
+        "Taxpayers - Lusaka"
+      ],
+      "Entities": [
+        "Taxpayers - Lusaka"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "tax collection",
+        "arrears management"
+      ],
+      "RelevanceScore": 92.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "056f38c2-1f39-1e14-2486-00dc76c63f2d",
+      "Title": "Revenue Collection payment tracking arrears management",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/6039",
+      "PublishedDate": "2025-11-12T17:30:31Z",
+      "PublishedAt": "2025-11-25T17:30:31Z",
+      "DiscoveredAt": "2025-10-22T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Arrears recovery reveals tax collection in Kitwe",
+      "RelatedEntities": [
+        "Taxpayers - Lusaka"
+      ],
+      "Entities": [
+        "Taxpayers - Lusaka"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "tax collection",
+        "arrears management"
+      ],
+      "RelevanceScore": 60.7,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "04a0ce9c-0bf7-04fc-09e6-00882fe418dc",
+      "Title": "Revenue Collection payment tracking tax collection",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/3830",
+      "PublishedDate": "2025-12-19T17:30:31Z",
+      "PublishedAt": "2025-12-07T17:30:31Z",
+      "DiscoveredAt": "2025-10-22T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Reconciliation reveals compliance enforcement in Kitwe",
+      "RelatedEntities": [
+        "Individual filers - Kitwe"
+      ],
+      "Entities": [
+        "Individual filers - Kitwe"
+      ],
+      "Keywords": [
+        "payment processing",
+        "arrears management",
+        "debt recovery"
+      ],
+      "RelevanceScore": 71.7,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05740582-0ae9-0736-1062-0038af243c00",
+      "Title": "Revenue Collection enforcement tax collection",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/4770",
+      "PublishedDate": "2025-11-14T17:30:31Z",
+      "PublishedAt": "2025-12-14T17:30:31Z",
+      "DiscoveredAt": "2026-01-17T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Collection reveals payment processing in Livingstone",
+      "RelatedEntities": [
+        "Individual filers - Ndola"
+      ],
+      "Entities": [
+        "Individual filers - Ndola"
+      ],
+      "Keywords": [
+        "tax collection",
+        "payment processing",
+        "debt recovery"
+      ],
+      "RelevanceScore": 68.1,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0243a801-104e-0854-2006-0054e9773098",
+      "Title": "Revenue Collection payment tracking debt recovery",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/8807",
+      "PublishedDate": "2026-01-10T17:30:31Z",
+      "PublishedAt": "2025-12-12T17:30:31Z",
+      "DiscoveredAt": "2026-01-06T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Arrears recovery reveals tax collection in Solwezi",
+      "RelatedEntities": [
+        "Corporate entities - Ndola"
+      ],
+      "Entities": [
+        "Corporate entities - Ndola"
+      ],
+      "Keywords": [
+        "payment processing",
+        "debt recovery",
+        "compliance enforcement"
+      ],
+      "RelevanceScore": 65.9,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "011794d4-1fc1-05c7-2609-00c9ad72194a",
+      "Title": "Revenue Collection arrears recovery payment processing",
+      "Source": "Post Newspaper",
+      "Url": "https://post.co.zm/article/6925",
+      "PublishedDate": "2026-01-05T17:30:31Z",
+      "PublishedAt": "2025-12-27T17:30:31Z",
+      "DiscoveredAt": "2026-01-19T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Enforcement reveals payment processing in Ndola",
+      "RelatedEntities": [
+        "Corporate entities - Solwezi"
+      ],
+      "Entities": [
+        "Corporate entities - Solwezi"
+      ],
+      "Keywords": [
+        "arrears management",
+        "compliance enforcement",
+        "debt recovery"
+      ],
+      "RelevanceScore": 75.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "0137a437-269f-2562-117d-0042984c6c49",
+      "Title": "Revenue Collection enforcement debt recovery",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/2224",
+      "PublishedDate": "2026-01-06T17:30:31Z",
+      "PublishedAt": "2025-11-14T17:30:31Z",
+      "DiscoveredAt": "2025-12-17T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Enforcement reveals arrears management in Kitwe",
+      "RelatedEntities": [
+        "Corporate entities - Ndola"
+      ],
+      "Entities": [
+        "Corporate entities - Ndola"
+      ],
+      "Keywords": [
+        "debt recovery",
+        "compliance enforcement",
+        "payment processing"
+      ],
+      "RelevanceScore": 72.4,
+      "IsReviewed": false,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01ac5af0-09be-1819-13de-00cd4077b237",
+      "Title": "Revenue Collection enforcement compliance enforcement",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/8342",
+      "PublishedDate": "2026-01-16T17:30:31Z",
+      "PublishedAt": "2025-11-18T17:30:31Z",
+      "DiscoveredAt": "2025-12-15T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Payment tracking reveals debt recovery in Solwezi",
+      "RelatedEntities": [
+        "Taxpayers - Kitwe"
+      ],
+      "Entities": [
+        "Taxpayers - Kitwe"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "tax collection",
+        "payment processing"
+      ],
+      "RelevanceScore": 87.0,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "01449e8a-0abe-0d51-2371-001b06ac5135",
+      "Title": "Revenue Collection collection arrears management",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/6249",
+      "PublishedDate": "2025-12-28T17:30:31Z",
+      "PublishedAt": "2025-11-04T17:30:31Z",
+      "DiscoveredAt": "2026-01-03T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Enforcement reveals debt recovery in Ndola",
+      "RelatedEntities": [
+        "Taxpayers - Solwezi"
+      ],
+      "Entities": [
+        "Taxpayers - Solwezi"
+      ],
+      "Keywords": [
+        "payment processing",
+        "debt recovery",
+        "arrears management"
+      ],
+      "RelevanceScore": 74.0,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "03b905a9-15ed-13fe-09b2-0053dddc7567",
+      "Title": "Revenue Collection arrears recovery payment processing",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/6528",
+      "PublishedDate": "2025-11-25T17:30:31Z",
+      "PublishedAt": "2025-11-19T17:30:31Z",
+      "DiscoveredAt": "2025-11-23T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Collection reveals arrears management in Solwezi",
+      "RelatedEntities": [
+        "Taxpayers - Solwezi"
+      ],
+      "Entities": [
+        "Taxpayers - Solwezi"
+      ],
+      "Keywords": [
+        "debt recovery",
+        "tax collection",
+        "arrears management"
+      ],
+      "RelevanceScore": 65.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04b1626b-16cf-16cd-2611-005e1eb6b950",
+      "Title": "Revenue Collection arrears recovery payment processing",
+      "Source": "Times of Zambia",
+      "Url": "https://post.co.zm/article/4006",
+      "PublishedDate": "2025-12-02T17:30:31Z",
+      "PublishedAt": "2025-11-23T17:30:31Z",
+      "DiscoveredAt": "2026-01-01T17:30:31Z",
+      "Category": "political",
+      "Severity": "medium",
+      "Summary": "Arrears recovery reveals compliance enforcement in Kitwe",
+      "RelatedEntities": [
+        "Debtors - Solwezi"
+      ],
+      "Entities": [
+        "Debtors - Solwezi"
+      ],
+      "Keywords": [
+        "arrears management",
+        "tax collection",
+        "debt recovery"
+      ],
+      "RelevanceScore": 82.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04536680-12c3-1690-1931-00a92ae171b5",
+      "Title": "Revenue Collection collection arrears management",
+      "Source": "Post Newspaper",
+      "Url": "https://times.co.zm/article/1480",
+      "PublishedDate": "2026-01-06T17:30:31Z",
+      "PublishedAt": "2025-11-21T17:30:31Z",
+      "DiscoveredAt": "2025-11-27T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Collection reveals payment processing in Livingstone",
+      "RelatedEntities": [
+        "Taxpayers - Ndola"
+      ],
+      "Entities": [
+        "Taxpayers - Ndola"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "tax collection",
+        "arrears management"
+      ],
+      "RelevanceScore": 63.1,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "055dc775-083f-06c3-2192-006f599f55bf",
+      "Title": "Revenue Collection collection tax collection",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/1733",
+      "PublishedDate": "2025-10-26T17:30:31Z",
+      "PublishedAt": "2025-12-23T17:30:31Z",
+      "DiscoveredAt": "2025-12-08T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Reconciliation reveals arrears management in Lusaka",
+      "RelatedEntities": [
+        "Corporate entities - Lusaka"
+      ],
+      "Entities": [
+        "Corporate entities - Lusaka"
+      ],
+      "Keywords": [
+        "arrears management",
+        "compliance enforcement",
+        "tax collection"
+      ],
+      "RelevanceScore": 66.8,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "05cbcf88-1618-0c50-07cd-00888cffa05d",
+      "Title": "Revenue Collection enforcement arrears management",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/4201",
+      "PublishedDate": "2026-01-03T17:30:31Z",
+      "PublishedAt": "2025-12-31T17:30:31Z",
+      "DiscoveredAt": "2025-12-14T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "low",
+      "Summary": "Arrears recovery reveals debt recovery in Lusaka",
+      "RelatedEntities": [
+        "Individual filers - Ndola"
+      ],
+      "Entities": [
+        "Individual filers - Ndola"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "tax collection",
+        "payment processing"
+      ],
+      "RelevanceScore": 78.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "012a56ee-26f2-1f33-11d0-007975c1a45c",
+      "Title": "Revenue Collection collection debt recovery",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/6912",
+      "PublishedDate": "2026-01-08T17:30:31Z",
+      "PublishedAt": "2026-01-13T17:30:31Z",
+      "DiscoveredAt": "2025-12-17T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Arrears recovery reveals compliance enforcement in Solwezi",
+      "RelatedEntities": [
+        "Corporate entities - Kitwe"
+      ],
+      "Entities": [
+        "Corporate entities - Kitwe"
+      ],
+      "Keywords": [
+        "payment processing",
+        "compliance enforcement",
+        "tax collection"
+      ],
+      "RelevanceScore": 63.8,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "052ef403-2032-08b0-24af-00d057a73e2c",
+      "Title": "Revenue Collection collection tax collection",
+      "Source": "Mwebantu",
+      "Url": "https://daily.co.zm/article/5091",
+      "PublishedDate": "2026-01-17T17:30:31Z",
+      "PublishedAt": "2025-10-27T17:30:31Z",
+      "DiscoveredAt": "2025-11-01T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Collection reveals tax collection in Solwezi",
+      "RelatedEntities": [
+        "Debtors - Lusaka"
+      ],
+      "Entities": [
+        "Debtors - Lusaka"
+      ],
+      "Keywords": [
+        "debt recovery",
+        "compliance enforcement",
+        "tax collection"
+      ],
+      "RelevanceScore": 71.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0583ee97-0b59-13be-2016-00a6fa3159aa",
+      "Title": "Revenue Collection payment tracking arrears management",
+      "Source": "Post Newspaper",
+      "Url": "https://daily.co.zm/article/8000",
+      "PublishedDate": "2026-01-12T17:30:31Z",
+      "PublishedAt": "2025-11-14T17:30:31Z",
+      "DiscoveredAt": "2025-11-17T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Arrears recovery reveals payment processing in Kitwe",
+      "RelatedEntities": [
+        "Corporate entities - Kitwe"
+      ],
+      "Entities": [
+        "Corporate entities - Kitwe"
+      ],
+      "Keywords": [
+        "payment processing",
+        "tax collection",
+        "arrears management"
+      ],
+      "RelevanceScore": 61.4,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "033d258e-132f-1659-0e04-00745b57fd9b",
+      "Title": "Revenue Collection reconciliation compliance enforcement",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://post.co.zm/article/7375",
+      "PublishedDate": "2025-11-27T17:30:31Z",
+      "PublishedAt": "2025-11-21T17:30:31Z",
+      "DiscoveredAt": "2025-10-21T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Collection reveals compliance enforcement in Solwezi",
+      "RelatedEntities": [
+        "Individual filers - Ndola"
+      ],
+      "Entities": [
+        "Individual filers - Ndola"
+      ],
+      "Keywords": [
+        "tax collection",
+        "debt recovery",
+        "arrears management"
+      ],
+      "RelevanceScore": 72.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04b32939-22f1-19e3-1bc7-00b24658d7d9",
+      "Title": "Revenue Collection reconciliation tax collection",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/7483",
+      "PublishedDate": "2025-11-18T17:30:31Z",
+      "PublishedAt": "2025-11-12T17:30:31Z",
+      "DiscoveredAt": "2025-12-26T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Payment tracking reveals debt recovery in Livingstone",
+      "RelatedEntities": [
+        "Debtors - Ndola"
+      ],
+      "Entities": [
+        "Debtors - Ndola"
+      ],
+      "Keywords": [
+        "debt recovery",
+        "compliance enforcement",
+        "payment processing"
+      ],
+      "RelevanceScore": 81.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "02e18c85-1fe8-14ae-0e4c-00bc0d97fca0",
+      "Title": "Revenue Collection payment tracking debt recovery",
+      "Source": "Lusaka Times",
+      "Url": "https://lusaka.co.zm/article/8534",
+      "PublishedDate": "2026-01-06T17:30:31Z",
+      "PublishedAt": "2026-01-14T17:30:31Z",
+      "DiscoveredAt": "2026-01-04T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "low",
+      "Summary": "Reconciliation reveals debt recovery in Solwezi",
+      "RelatedEntities": [
+        "Debtors - Solwezi"
+      ],
+      "Entities": [
+        "Debtors - Solwezi"
+      ],
+      "Keywords": [
+        "arrears management",
+        "debt recovery",
+        "compliance enforcement"
+      ],
+      "RelevanceScore": 78.7,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05c16527-1ede-1a8b-09fc-0046a8f04cd0",
+      "Title": "Revenue Collection reconciliation payment processing",
+      "Source": "Mwebantu",
+      "Url": "https://lusaka.co.zm/article/5175",
+      "PublishedDate": "2025-11-24T17:30:31Z",
+      "PublishedAt": "2025-10-26T17:30:31Z",
+      "DiscoveredAt": "2025-12-14T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Enforcement reveals arrears management in Lusaka",
+      "RelatedEntities": [
+        "Debtors - Ndola"
+      ],
+      "Entities": [
+        "Debtors - Ndola"
+      ],
+      "Keywords": [
+        "arrears management",
+        "compliance enforcement",
+        "payment processing"
+      ],
+      "RelevanceScore": 78.9,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "00e45a1a-236e-2132-1e90-004c628d6bb6",
+      "Title": "Revenue Collection payment tracking tax collection",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/3703",
+      "PublishedDate": "2025-12-14T17:30:31Z",
+      "PublishedAt": "2025-12-14T17:30:31Z",
+      "DiscoveredAt": "2025-12-02T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Payment tracking reveals arrears management in Ndola",
+      "RelatedEntities": [
+        "Taxpayers - Lusaka"
+      ],
+      "Entities": [
+        "Taxpayers - Lusaka"
+      ],
+      "Keywords": [
+        "tax collection",
+        "arrears management",
+        "compliance enforcement"
+      ],
+      "RelevanceScore": 79.6,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "00ad7655-053f-093d-1ea4-0032be681af8",
+      "Title": "Revenue Collection reconciliation compliance enforcement",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/5700",
+      "PublishedDate": "2025-11-11T17:30:31Z",
+      "PublishedAt": "2025-12-25T17:30:31Z",
+      "DiscoveredAt": "2026-01-04T17:30:31Z",
+      "Category": "financial",
+      "Severity": "low",
+      "Summary": "Payment tracking reveals payment processing in Lusaka",
+      "RelatedEntities": [
+        "Taxpayers - Solwezi"
+      ],
+      "Entities": [
+        "Taxpayers - Solwezi"
+      ],
+      "Keywords": [
+        "debt recovery",
+        "arrears management",
+        "payment processing"
+      ],
+      "RelevanceScore": 79.0,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "05432185-24a4-1174-0a68-0049e28eda27",
+      "Title": "Revenue Collection enforcement compliance enforcement",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://times.co.zm/article/1732",
+      "PublishedDate": "2026-01-16T17:30:31Z",
+      "PublishedAt": "2025-10-21T17:30:31Z",
+      "DiscoveredAt": "2025-12-26T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Reconciliation reveals debt recovery in Solwezi",
+      "RelatedEntities": [
+        "Individual filers - Solwezi"
+      ],
+      "Entities": [
+        "Individual filers - Solwezi"
+      ],
+      "Keywords": [
+        "arrears management",
+        "tax collection",
+        "payment processing"
+      ],
+      "RelevanceScore": 86.9,
+      "IsReviewed": true,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "04741b90-22d9-242a-18b1-00a137e15b7f",
+      "Title": "Revenue Collection arrears recovery debt recovery",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/8199",
+      "PublishedDate": "2026-01-15T17:30:31Z",
+      "PublishedAt": "2025-11-04T17:30:31Z",
+      "DiscoveredAt": "2025-12-21T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Arrears recovery reveals debt recovery in Kitwe",
+      "RelatedEntities": [
+        "Corporate entities - Solwezi"
+      ],
+      "Entities": [
+        "Corporate entities - Solwezi"
+      ],
+      "Keywords": [
+        "tax collection",
+        "arrears management",
+        "compliance enforcement"
+      ],
+      "RelevanceScore": 63.3,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    },
+    {
+      "Id": "0108f473-2373-0bf9-0f27-009b5bb4b761",
+      "Title": "Revenue Collection reconciliation debt recovery",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/8120",
+      "PublishedDate": "2026-01-18T17:30:31Z",
+      "PublishedAt": "2026-01-14T17:30:31Z",
+      "DiscoveredAt": "2025-12-26T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Arrears recovery reveals payment processing in Lusaka",
+      "RelatedEntities": [
+        "Individual filers - Kitwe"
+      ],
+      "Entities": [
+        "Individual filers - Kitwe"
+      ],
+      "Keywords": [
+        "payment processing",
+        "debt recovery",
+        "tax collection"
+      ],
+      "RelevanceScore": 86.8,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "03abede0-1f33-2110-0c54-008b84d72435",
+      "Title": "Revenue Collection arrears recovery tax collection",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/9596",
+      "PublishedDate": "2025-11-08T17:30:31Z",
+      "PublishedAt": "2025-12-04T17:30:31Z",
+      "DiscoveredAt": "2025-11-08T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "medium",
+      "Summary": "Reconciliation reveals tax collection in Lusaka",
+      "RelatedEntities": [
+        "Corporate entities - Kitwe"
+      ],
+      "Entities": [
+        "Corporate entities - Kitwe"
+      ],
+      "Keywords": [
+        "tax collection",
+        "payment processing",
+        "compliance enforcement"
+      ],
+      "RelevanceScore": 76.0,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "04c1a5ae-1873-1565-0ed0-00ba7b33305c",
+      "Title": "Revenue Collection reconciliation payment processing",
+      "Source": "Lusaka Times",
+      "Url": "https://daily.co.zm/article/2917",
+      "PublishedDate": "2025-12-01T17:30:31Z",
+      "PublishedAt": "2026-01-04T17:30:31Z",
+      "DiscoveredAt": "2025-11-07T17:30:31Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Enforcement reveals compliance enforcement in Ndola",
+      "RelatedEntities": [
+        "Debtors - Ndola"
+      ],
+      "Entities": [
+        "Debtors - Ndola"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "arrears management",
+        "debt recovery"
+      ],
+      "RelevanceScore": 60.2,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0566afc2-2616-101c-2432-009131cdc0b4",
+      "Title": "Revenue Collection arrears recovery debt recovery",
+      "Source": "Mwebantu",
+      "Url": "https://times.co.zm/article/3217",
+      "PublishedDate": "2026-01-06T17:30:31Z",
+      "PublishedAt": "2025-11-14T17:30:31Z",
+      "DiscoveredAt": "2026-01-04T17:30:31Z",
+      "Category": "financial",
+      "Severity": "medium",
+      "Summary": "Reconciliation reveals debt recovery in Lusaka",
+      "RelatedEntities": [
+        "Individual filers - Kitwe"
+      ],
+      "Entities": [
+        "Individual filers - Kitwe"
+      ],
+      "Keywords": [
+        "arrears management",
+        "debt recovery",
+        "compliance enforcement"
+      ],
+      "RelevanceScore": 70.4,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "029c8d69-0806-0833-1272-0093e07ff51d",
+      "Title": "Revenue Collection collection debt recovery",
+      "Source": "Lusaka Times",
+      "Url": "https://times.co.zm/article/1075",
+      "PublishedDate": "2025-11-14T17:30:31Z",
+      "PublishedAt": "2026-01-14T17:30:31Z",
+      "DiscoveredAt": "2025-12-21T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Reconciliation reveals payment processing in Ndola",
+      "RelatedEntities": [
+        "Individual filers - Livingstone"
+      ],
+      "Entities": [
+        "Individual filers - Livingstone"
+      ],
+      "Keywords": [
+        "debt recovery",
+        "tax collection",
+        "arrears management"
+      ],
+      "RelevanceScore": 94.2,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "034a1990-10f6-2010-07db-00e4e91e19ad",
+      "Title": "Revenue Collection payment tracking compliance enforcement",
+      "Source": "Times of Zambia",
+      "Url": "https://times.co.zm/article/9222",
+      "PublishedDate": "2025-10-27T17:30:31Z",
+      "PublishedAt": "2025-12-29T17:30:31Z",
+      "DiscoveredAt": "2025-10-24T17:30:31Z",
+      "Category": "political",
+      "Severity": "high",
+      "Summary": "Reconciliation reveals payment processing in Lusaka",
+      "RelatedEntities": [
+        "Taxpayers - Kitwe"
+      ],
+      "Entities": [
+        "Taxpayers - Kitwe"
+      ],
+      "Keywords": [
+        "payment processing",
+        "debt recovery",
+        "compliance enforcement"
+      ],
+      "RelevanceScore": 89.6,
+      "IsReviewed": true,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "0305030e-16b1-1eec-061e-0034b97a3bc9",
+      "Title": "Revenue Collection arrears recovery tax collection",
+      "Source": "Zambia Daily Mail",
+      "Url": "https://daily.co.zm/article/1163",
+      "PublishedDate": "2025-12-06T17:30:31Z",
+      "PublishedAt": "2025-12-28T17:30:31Z",
+      "DiscoveredAt": "2026-01-17T17:30:31Z",
+      "Category": "criminal",
+      "Severity": "high",
+      "Summary": "Arrears recovery reveals payment processing in Solwezi",
+      "RelatedEntities": [
+        "Corporate entities - Solwezi"
+      ],
+      "Entities": [
+        "Corporate entities - Solwezi"
+      ],
+      "Keywords": [
+        "compliance enforcement",
+        "payment processing",
+        "debt recovery"
+      ],
+      "RelevanceScore": 83.5,
+      "IsReviewed": false,
+      "Sentiment": "Neutral"
+    },
+    {
+      "Id": "030a4adc-0b19-0d62-26c2-0071f9e042ed",
+      "Title": "Revenue Collection collection debt recovery",
+      "Source": "Lusaka Times",
+      "Url": "https://post.co.zm/article/4642",
+      "PublishedDate": "2025-11-11T17:30:31Z",
+      "PublishedAt": "2026-01-01T17:30:31Z",
+      "DiscoveredAt": "2025-12-28T17:30:31Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Reconciliation reveals arrears management in Lusaka",
+      "RelatedEntities": [
+        "Debtors - Solwezi"
+      ],
+      "Entities": [
+        "Debtors - Solwezi"
+      ],
+      "Keywords": [
+        "payment processing",
+        "tax collection",
+        "compliance enforcement"
+      ],
+      "RelevanceScore": 76.7,
+      "IsReviewed": true,
+      "Sentiment": "Positive"
+    }
+  ],
+  "Alerts": [
+    {
+      "Id": "01134f17-1a99-234b-2271-002e39ef2308",
+      "ArticleId": "03687cad-0eb8-08d2-1f69-00baab68820d",
+      "EntityId": "00f42dec-244f-0efa-140d-009bb111bcfd",
+      "EntityName": "Individual filers - Lusaka",
+      "AlertReason": "Adverse media on tax collection",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-12-08T17:30:31Z",
+      "TriggeredAt": "2025-11-25T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "05ccccc0-0be2-13fb-06c5-004219bcfa55",
+      "ArticleId": "0209030b-192e-250d-0b6d-005212dd6dc8",
+      "EntityId": "050ec4b7-18e9-0e34-091c-00be1da3fbca",
+      "EntityName": "Taxpayers - Livingstone",
+      "AlertReason": "Adverse media on arrears management",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-08T17:30:31Z",
+      "TriggeredAt": "2025-12-26T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01deb84f-15c6-14d2-0541-0097d3313488",
+      "ArticleId": "0561fc30-1597-0a6b-178c-00e423adcef6",
+      "EntityId": "028977f5-1302-1ea3-1f66-0021716a3487",
+      "EntityName": "Individual filers - Kitwe",
+      "AlertReason": "Adverse media on arrears management",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-10T17:30:31Z",
+      "TriggeredAt": "2025-12-08T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "01404241-1d7f-0778-0e06-00cb223c8c3a",
+      "ArticleId": "03abad25-2306-104e-0b88-00b1a7cbf68f",
+      "EntityId": "053ccbba-1ebd-1573-0452-00a81df55c4d",
+      "EntityName": "Debtors - Livingstone",
+      "AlertReason": "Adverse media on payment processing",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-10-21T17:30:31Z",
+      "TriggeredAt": "2026-01-15T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "05ee1722-1583-06de-24d2-00d470a38b57",
+      "ArticleId": "04f7bdbf-1bf5-22e6-2601-004636a6d706",
+      "EntityId": "00f75b82-1c2f-16e9-1b84-00863d5edbd1",
+      "EntityName": "Debtors - Solwezi",
+      "AlertReason": "Adverse media on debt recovery",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-01T17:30:31Z",
+      "TriggeredAt": "2025-12-16T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "014ff2b8-1ab6-20f7-2374-006be6d28442",
+      "ArticleId": "02fcdee0-1120-198a-0425-00b3a62df790",
+      "EntityId": "059b7bae-0fba-05c6-0dfb-0032ca3cc8e0",
+      "EntityName": "Taxpayers - Lusaka",
+      "AlertReason": "Adverse media on debt recovery",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-29T17:30:31Z",
+      "TriggeredAt": "2025-12-15T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "00a98161-1b78-1e0d-1bed-00775a572d02",
+      "ArticleId": "033a177c-092f-2696-239b-00966a3ce37f",
+      "EntityId": "0588ece9-0c0a-2487-1fa3-00b2f53d4052",
+      "EntityName": "Corporate entities - Livingstone",
+      "AlertReason": "Adverse media on tax collection",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-06T17:30:31Z",
+      "TriggeredAt": "2026-01-07T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "05c3e8c3-1e71-22f6-1c54-004925126217",
+      "ArticleId": "02f0715b-0b66-1494-1812-0092b01d6204",
+      "EntityId": "04612a53-0871-1845-1c8f-00c687fef9c0",
+      "EntityName": "Taxpayers - Lusaka",
+      "AlertReason": "Adverse media on tax collection",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-10-21T17:30:31Z",
+      "TriggeredAt": "2025-11-11T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "00dd288f-04a8-1d63-1183-00292279c758",
+      "ArticleId": "04a0ce9c-0bf7-04fc-09e6-00882fe418dc",
+      "EntityId": "0364bf23-1796-12e0-1b49-00892b1b1357",
+      "EntityName": "Individual filers - Kitwe",
+      "AlertReason": "Adverse media on payment processing",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-29T17:30:31Z",
+      "TriggeredAt": "2025-10-22T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "01b14de3-1ac9-2375-25c0-009b8e358613",
+      "ArticleId": "0243a801-104e-0854-2006-0054e9773098",
+      "EntityId": "02c80e15-223d-164b-1295-005c858679d3",
+      "EntityName": "Corporate entities - Ndola",
+      "AlertReason": "Adverse media on payment processing",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2026-01-17T17:30:31Z",
+      "TriggeredAt": "2026-01-10T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "058e6331-0fb8-0994-0a5e-00740cba3f2f",
+      "ArticleId": "0137a437-269f-2562-117d-0042984c6c49",
+      "EntityId": "044b34d1-0755-136c-084b-008b75465b16",
+      "EntityName": "Corporate entities - Ndola",
+      "AlertReason": "Adverse media on tax collection",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-11-06T17:30:31Z",
+      "TriggeredAt": "2026-01-13T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03f65f97-1a08-0918-0b14-0036fbf73361",
+      "ArticleId": "01ac5af0-09be-1819-13de-00cd4077b237",
+      "EntityId": "02460ec7-127e-0680-1923-0053ce15ce71",
+      "EntityName": "Taxpayers - Kitwe",
+      "AlertReason": "Adverse media on tax collection",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-07T17:30:31Z",
+      "TriggeredAt": "2026-01-09T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "034483b0-0c46-0b63-20ac-0045849b4d0c",
+      "ArticleId": "04b1626b-16cf-16cd-2611-005e1eb6b950",
+      "EntityId": "0479d23a-0537-252c-063d-0074795b9702",
+      "EntityName": "Debtors - Solwezi",
+      "AlertReason": "Adverse media on tax collection",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2025-12-06T17:30:31Z",
+      "TriggeredAt": "2025-11-03T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "032cb9f8-089b-1b3e-259b-001f94d07543",
+      "ArticleId": "0583ee97-0b59-13be-2016-00a6fa3159aa",
+      "EntityId": "03e34d64-0c33-2580-1695-0093ecb47a26",
+      "EntityName": "Corporate entities - Kitwe",
+      "AlertReason": "Adverse media on tax collection",
+      "AlertType": "Adverse Media",
+      "Severity": "low",
+      "CreatedAt": "2026-01-08T17:30:31Z",
+      "TriggeredAt": "2025-11-06T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "052180a1-184c-1045-0a02-00c4a521a195",
+      "ArticleId": "033d258e-132f-1659-0e04-00745b57fd9b",
+      "EntityId": "0200dc93-1aed-1016-2416-001ab947711e",
+      "EntityName": "Individual filers - Ndola",
+      "AlertReason": "Adverse media on arrears management",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-24T17:30:31Z",
+      "TriggeredAt": "2025-10-23T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0373f453-0450-1d98-04ae-009f6ceb403d",
+      "ArticleId": "02e18c85-1fe8-14ae-0e4c-00bc0d97fca0",
+      "EntityId": "034210aa-1223-1ac5-175e-00a6ffe0a1d2",
+      "EntityName": "Debtors - Solwezi",
+      "AlertReason": "Adverse media on tax collection",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-27T17:30:31Z",
+      "TriggeredAt": "2025-12-08T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "012acc22-209a-1243-2586-00532aec0b96",
+      "ArticleId": "05c16527-1ede-1a8b-09fc-0046a8f04cd0",
+      "EntityId": "04652496-226e-1375-093e-00a51d980835",
+      "EntityName": "Debtors - Ndola",
+      "AlertReason": "Adverse media on payment processing",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-04T17:30:31Z",
+      "TriggeredAt": "2025-12-10T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03ed28db-1772-1838-1ce9-00448172ec00",
+      "ArticleId": "0108f473-2373-0bf9-0f27-009b5bb4b761",
+      "EntityId": "0515ff56-1672-202f-1f5f-002d53609d81",
+      "EntityName": "Individual filers - Kitwe",
+      "AlertReason": "Adverse media on arrears management",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-11-15T17:30:31Z",
+      "TriggeredAt": "2026-01-01T17:30:31Z",
+      "IsAcknowledged": true
+    },
+    {
+      "Id": "0430a6ff-0912-0e27-067a-007c3e4a6957",
+      "ArticleId": "03abede0-1f33-2110-0c54-008b84d72435",
+      "EntityId": "05420cb4-1e47-23ac-24b7-006d54016dbe",
+      "EntityName": "Corporate entities - Kitwe",
+      "AlertReason": "Adverse media on arrears management",
+      "AlertType": "Adverse Media",
+      "Severity": "medium",
+      "CreatedAt": "2025-11-30T17:30:31Z",
+      "TriggeredAt": "2026-01-06T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "032c558d-1402-1500-1675-0034872cf3ae",
+      "ArticleId": "0566afc2-2616-101c-2432-009131cdc0b4",
+      "EntityId": "050beb02-207e-0724-2106-00d33bfeebd1",
+      "EntityName": "Individual filers - Kitwe",
+      "AlertReason": "Adverse media on compliance enforcement",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2025-12-28T17:30:31Z",
+      "TriggeredAt": "2025-11-21T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "03a205a6-1790-0d3b-04e2-00823c2b215e",
+      "ArticleId": "034a1990-10f6-2010-07db-00e4e91e19ad",
+      "EntityId": "05ca1c97-1987-07e5-0e6a-00dfc6da0612",
+      "EntityName": "Taxpayers - Kitwe",
+      "AlertReason": "Adverse media on tax collection",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-19T17:30:31Z",
+      "TriggeredAt": "2025-12-05T17:30:31Z",
+      "IsAcknowledged": false
+    },
+    {
+      "Id": "00a548d4-25d2-0a54-1f9c-00c51888ad81",
+      "ArticleId": "0305030e-16b1-1eec-061e-0034b97a3bc9",
+      "EntityId": "03482bbc-1729-16a7-24aa-002d143b1792",
+      "EntityName": "Corporate entities - Solwezi",
+      "AlertReason": "Adverse media on arrears management",
+      "AlertType": "Adverse Media",
+      "Severity": "high",
+      "CreatedAt": "2026-01-12T17:30:31Z",
+      "TriggeredAt": "2025-11-18T17:30:31Z",
+      "IsAcknowledged": false
+    }
+  ],
+  "Configs": [
+    {
+      "Id": "044bec35-0a67-158f-09f7-00904d761fa6",
+      "EntityName": "Revenue Collection",
+      "Keywords": [
+        "debt recovery",
+        "arrears management",
+        "tax collection"
+      ],
+      "IsActive": true
+    }
+  ],
+  "Statistics": {
+    "TotalArticles": 50,
+    "UnreviewedArticles": 21,
+    "HighRiskArticles": 19,
+    "ActiveAlerts": 22,
+    "MonitoredEntities": 9,
+    "ArticlesByCategory": {
+      "regulatory": 7,
+      "criminal": 9,
+      "financial": 15,
+      "political": 6
+    },
+    "ArticlesBySeverity": {
+      "high": 17,
+      "medium": 17,
+      "low": 20
+    }
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "Telecom",
+    "DisplayName": "MTN Zambia",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Deliver mobile and data services while securing networks from abuse and supporting national compliance efforts.",
+    "TopPriorities": [
+      "Collaborate with security institutions to block SIM swaps used in money laundering.",
+      "Enable mobile money transaction tagging for suspicious payments.",
+      "Invest in rural connectivity to support remote audit teams."
+    ],
+    "ActiveOperations": [
+      "Dedicated compliance liaison with Financial Intelligence Centre on high-volume transfers.",
+      "Network integrity team tracking unusual traffic patterns.",
+      "CSR programs funding community reporting hotlines for fraud."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Enhanced network security measures",
+        "Date": "2025-12-17T00:00:00Z",
+        "Summary": "Deployed advanced systems to detect and block fraudulent activities."
+      },
+      {
+        "Title": "Rural connectivity expansion",
+        "Date": "2025-11-03T00:00:00Z",
+        "Summary": "Installed new infrastructure to support field agents and audit teams."
+      }
+    ],
+    "KeyPartnerships": [
+      "Financial Intelligence Centre",
+      "Zambia Revenue Authority",
+      "Zambia Police Service digital forensics unit"
+    ],
+    "Metrics": {
+      "ComplianceTickets": "470 tickets resolved",
+      "SuspiciousTransfers": "56 flagged transfers",
+      "NetworkCoverage": "21 new towers deployed"
+    }
+  }
+]

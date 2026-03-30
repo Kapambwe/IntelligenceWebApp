@@ -1,0 +1,236 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Models": [
+    {
+      "Id": "aa11bb22-cc33-dd44-ee55-ff6677889900",
+      "Name": "Visual Evidence Credibility Model",
+      "Description": "Assesses the authenticity and evidentiary value of undercover camera footage, documentary video, and visual evidence submitted for broadcast investigations. Evaluates metadata integrity, chain-of-custody compliance, and forensic video analysis results.",
+      "Status": "Active",
+      "CreatedAt": "2025-01-15T08:00:00Z",
+      "LastModifiedAt": "2026-01-20T10:30:00Z",
+      "Version": "1.0",
+      "Factors": [
+        {
+          "Id": "fa01fb02-fc03-fd04-fe05-ff0607080901",
+          "Name": "Footage Metadata Integrity",
+          "Description": "Validates camera EXIF data, GPS coordinates, and timestamp consistency of undercover and documentary footage",
+          "Category": "Compliance",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "fa01fb02-fc03-fd04-fe05-ff0607080902",
+          "Name": "Chain of Custody Compliance",
+          "Description": "Tracks visual evidence handling from initial capture through studio editing to broadcast, ensuring no unauthorized modifications",
+          "Category": "Behavioral",
+          "Weight": 0.30,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "fa01fb02-fc03-fd04-fe05-ff0607080903",
+          "Name": "Source Reliability Rating",
+          "Description": "Historical reliability score of the camera operator or undercover journalist who captured the visual evidence",
+          "Category": "Relationship",
+          "Weight": 0.20,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "fa01fb02-fc03-fd04-fe05-ff0607080904",
+          "Name": "Digital Forensics Score",
+          "Description": "Results of video forensic analysis detecting deepfakes, splicing, or post-production manipulation",
+          "Category": "Compliance",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "fa01fb02-fc03-fd04-fe05-ff0607080905",
+          "Name": "Geographic Origin Verification",
+          "Description": "Validates filming location against claimed investigation site using satellite imagery cross-referencing",
+          "Category": "Geographic",
+          "Weight": 0.10,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.91,
+        "Precision": 0.88,
+        "Recall": 0.93,
+        "F1Score": 0.90,
+        "TotalPredictions": 1245,
+        "TruePositives": 412,
+        "FalsePositives": 56,
+        "TrueNegatives": 721,
+        "FalseNegatives": 56
+      }
+    },
+    {
+      "Id": "bb22cc33-dd44-ee55-ff66-778899001122",
+      "Name": "Broadcast Risk Model",
+      "Description": "Evaluates legal, reputational, and regulatory risks of broadcasting investigative content. Assesses defamation exposure, contempt of court risk, compliance with ZICTA broadcast standards, and potential for subject retaliation against journalists.",
+      "Status": "Active",
+      "CreatedAt": "2025-03-01T09:00:00Z",
+      "LastModifiedAt": "2026-02-01T15:00:00Z",
+      "Version": "1.0",
+      "Factors": [
+        {
+          "Id": "fb01fc02-fd03-fe04-ff05-a00607080901",
+          "Name": "Defamation Liability Score",
+          "Description": "Assesses the risk of defamation claims arising from broadcast of undercover footage and investigative documentaries",
+          "Category": "Compliance",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "fb01fc02-fd03-fe04-ff05-a00607080902",
+          "Name": "Subject Political Influence",
+          "Description": "Measures the political connections and influence of investigation subjects that could impact post-broadcast legal proceedings",
+          "Category": "Relationship",
+          "Weight": 0.20,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "fb01fc02-fd03-fe04-ff05-a00607080903",
+          "Name": "ZICTA Regulatory Compliance",
+          "Description": "Evaluates adherence to Zambia Information and Communications Technology Authority broadcasting standards and content regulations",
+          "Category": "Compliance",
+          "Weight": 0.20,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "fb01fc02-fd03-fe04-ff05-a00607080904",
+          "Name": "Financial Impact Exposure",
+          "Description": "Estimates potential financial liability from litigation, regulatory fines, or advertiser withdrawal following investigative broadcast",
+          "Category": "Financial",
+          "Weight": 0.20,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "fb01fc02-fd03-fe04-ff05-a00607080905",
+          "Name": "Journalist Safety Threat Level",
+          "Description": "Assesses physical and digital threats to journalists and production crew based on investigation subject profile",
+          "Category": "Behavioral",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.87,
+        "Precision": 0.85,
+        "Recall": 0.89,
+        "F1Score": 0.87,
+        "TotalPredictions": 890,
+        "TruePositives": 298,
+        "FalsePositives": 53,
+        "TrueNegatives": 476,
+        "FalseNegatives": 63
+      }
+    },
+    {
+      "Id": "cc33dd44-ee55-ff66-7788-990011223344",
+      "Name": "Undercover Operation Security Model",
+      "Description": "Assesses operational security risks for television undercover investigations. Evaluates cover identity integrity, covert equipment detection probability, extraction contingency plans, and digital communication security for field production teams.",
+      "Status": "Active",
+      "CreatedAt": "2025-06-01T07:00:00Z",
+      "LastModifiedAt": "2026-01-28T11:00:00Z",
+      "Version": "1.0",
+      "Factors": [
+        {
+          "Id": "fc01fd02-fe03-ff04-a005-b00607080901",
+          "Name": "Cover Identity Robustness",
+          "Description": "Evaluates the strength and verifiability of undercover identities used by TV producers and reporters in covert filming operations",
+          "Category": "Behavioral",
+          "Weight": 0.25,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "fc01fd02-fe03-ff04-a005-b00607080902",
+          "Name": "Equipment Detection Probability",
+          "Description": "Assesses the likelihood of hidden camera and recording equipment being discovered during undercover operations",
+          "Category": "Behavioral",
+          "Weight": 0.20,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "fc01fd02-fe03-ff04-a005-b00607080903",
+          "Name": "Target Environment Hostility",
+          "Description": "Rates the physical danger level of the location and subjects being investigated through undercover filming",
+          "Category": "Geographic",
+          "Weight": 0.20,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "fc01fd02-fe03-ff04-a005-b00607080904",
+          "Name": "Digital Communication Security",
+          "Description": "Evaluates encryption and operational security of communications between field crew and studio production during active operations",
+          "Category": "Transactional",
+          "Weight": 0.15,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "fc01fd02-fe03-ff04-a005-b00607080905",
+          "Name": "Extraction Contingency Readiness",
+          "Description": "Assesses preparedness of emergency extraction plans for undercover journalists if operation is compromised",
+          "Category": "Geographic",
+          "Weight": 0.10,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        },
+        {
+          "Id": "fc01fd02-fe03-ff04-a005-b00607080906",
+          "Name": "Legal Preauthorization Status",
+          "Description": "Tracks whether covert filming has obtained necessary internal legal approvals and compliance with Zambian privacy law",
+          "Category": "Compliance",
+          "Weight": 0.10,
+          "MinValue": 0,
+          "MaxValue": 100,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.93,
+        "Precision": 0.91,
+        "Recall": 0.94,
+        "F1Score": 0.92,
+        "TotalPredictions": 620,
+        "TruePositives": 215,
+        "FalsePositives": 21,
+        "TrueNegatives": 362,
+        "FalseNegatives": 22
+      }
+    }
+  ],
+  "Statistics": {
+    "TotalModels": 3,
+    "ActiveFactors": 16,
+    "AverageRiskScore": 38.7
+  }
+}

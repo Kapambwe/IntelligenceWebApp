@@ -1,0 +1,2002 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "Financial Intelligence Centre - Zambia Headquarters",
+    "Country": "Zambia",
+    "Headquarters": "Ridgeway, Lusaka, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-10-25T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3249 in the last year",
+      "CaseReferrals": "224 to prosecutors",
+      "EntityCoverage": "98% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC STR Analysis Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-10-23T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3844 in the last year",
+      "CaseReferrals": "185 to prosecutors",
+      "EntityCoverage": "97% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Compliance Monitoring Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-13T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "5003 in the last year",
+      "CaseReferrals": "192 to prosecutors",
+      "EntityCoverage": "92% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Investigation Support Team",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4098 in the last year",
+      "CaseReferrals": "225 to prosecutors",
+      "EntityCoverage": "92% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Liaison Office",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-04T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4321 in the last year",
+      "CaseReferrals": "124 to prosecutors",
+      "EntityCoverage": "85% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Money Laundering Detection Unit",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-22T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-15T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "5531 in the last year",
+      "CaseReferrals": "166 to prosecutors",
+      "EntityCoverage": "96% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Terrorist Financing Prevention Division",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-21T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4185 in the last year",
+      "CaseReferrals": "194 to prosecutors",
+      "EntityCoverage": "88% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Training and Outreach Department",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-09T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-23T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3824 in the last year",
+      "CaseReferrals": "171 to prosecutors",
+      "EntityCoverage": "93% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Kabwe",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3408 in the last year",
+      "CaseReferrals": "247 to prosecutors",
+      "EntityCoverage": "85% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Chingola",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-04T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-07T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4270 in the last year",
+      "CaseReferrals": "180 to prosecutors",
+      "EntityCoverage": "97% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Livingstone",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-22T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-01T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4300 in the last year",
+      "CaseReferrals": "210 to prosecutors",
+      "EntityCoverage": "92% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Petauke",
+    "Country": "Zambia",
+    "Headquarters": "Petauke, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-10T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3438 in the last year",
+      "CaseReferrals": "152 to prosecutors",
+      "EntityCoverage": "85% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Lundazi",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-25T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4063 in the last year",
+      "CaseReferrals": "156 to prosecutors",
+      "EntityCoverage": "95% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Kabwe",
+    "Country": "Zambia",
+    "Headquarters": "Kabwe, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-06T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-07T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3072 in the last year",
+      "CaseReferrals": "223 to prosecutors",
+      "EntityCoverage": "88% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Mongu",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-17T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3736 in the last year",
+      "CaseReferrals": "196 to prosecutors",
+      "EntityCoverage": "97% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Chipata",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-05T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4198 in the last year",
+      "CaseReferrals": "137 to prosecutors",
+      "EntityCoverage": "87% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Mpika",
+    "Country": "Zambia",
+    "Headquarters": "Mpika, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-10-31T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3443 in the last year",
+      "CaseReferrals": "248 to prosecutors",
+      "EntityCoverage": "98% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Lundazi",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-30T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-10-22T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "5331 in the last year",
+      "CaseReferrals": "125 to prosecutors",
+      "EntityCoverage": "93% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Monze",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-15T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4072 in the last year",
+      "CaseReferrals": "172 to prosecutors",
+      "EntityCoverage": "98% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Mufulira",
+    "Country": "Zambia",
+    "Headquarters": "Mufulira, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-05T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-05T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3514 in the last year",
+      "CaseReferrals": "181 to prosecutors",
+      "EntityCoverage": "96% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Monze",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-24T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-04T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4540 in the last year",
+      "CaseReferrals": "162 to prosecutors",
+      "EntityCoverage": "89% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Kasama",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4662 in the last year",
+      "CaseReferrals": "211 to prosecutors",
+      "EntityCoverage": "90% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Kasama",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-01T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "5485 in the last year",
+      "CaseReferrals": "129 to prosecutors",
+      "EntityCoverage": "96% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Kasama",
+    "Country": "Zambia",
+    "Headquarters": "Kasama, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-14T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "5395 in the last year",
+      "CaseReferrals": "128 to prosecutors",
+      "EntityCoverage": "95% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Mansa",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-27T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-08T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4238 in the last year",
+      "CaseReferrals": "216 to prosecutors",
+      "EntityCoverage": "93% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Ndola",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-04T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4129 in the last year",
+      "CaseReferrals": "226 to prosecutors",
+      "EntityCoverage": "87% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Chipata",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-25T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-09T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4162 in the last year",
+      "CaseReferrals": "204 to prosecutors",
+      "EntityCoverage": "89% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Lusaka",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-18T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-28T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4504 in the last year",
+      "CaseReferrals": "246 to prosecutors",
+      "EntityCoverage": "95% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Mongu",
+    "Country": "Zambia",
+    "Headquarters": "Mongu, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-28T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3642 in the last year",
+      "CaseReferrals": "249 to prosecutors",
+      "EntityCoverage": "96% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Mazabuka",
+    "Country": "Zambia",
+    "Headquarters": "Mazabuka, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-19T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4627 in the last year",
+      "CaseReferrals": "213 to prosecutors",
+      "EntityCoverage": "95% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Kitwe",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-02T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-21T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4825 in the last year",
+      "CaseReferrals": "188 to prosecutors",
+      "EntityCoverage": "86% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Lusaka",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-29T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4692 in the last year",
+      "CaseReferrals": "173 to prosecutors",
+      "EntityCoverage": "98% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Mansa",
+    "Country": "Zambia",
+    "Headquarters": "Mansa, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-19T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-13T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3506 in the last year",
+      "CaseReferrals": "182 to prosecutors",
+      "EntityCoverage": "96% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Solwezi",
+    "Country": "Zambia",
+    "Headquarters": "Solwezi, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-22T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "5502 in the last year",
+      "CaseReferrals": "135 to prosecutors",
+      "EntityCoverage": "97% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Mbala",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-12T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4837 in the last year",
+      "CaseReferrals": "121 to prosecutors",
+      "EntityCoverage": "98% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Chipata",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-02T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3430 in the last year",
+      "CaseReferrals": "102 to prosecutors",
+      "EntityCoverage": "94% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Choma",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-02T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-18T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4021 in the last year",
+      "CaseReferrals": "168 to prosecutors",
+      "EntityCoverage": "88% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Lusaka",
+    "Country": "Zambia",
+    "Headquarters": "Lusaka, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-29T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4065 in the last year",
+      "CaseReferrals": "141 to prosecutors",
+      "EntityCoverage": "97% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Mbala",
+    "Country": "Zambia",
+    "Headquarters": "Mbala, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-13T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4822 in the last year",
+      "CaseReferrals": "142 to prosecutors",
+      "EntityCoverage": "90% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Lundazi",
+    "Country": "Zambia",
+    "Headquarters": "Lundazi, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-10T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-18T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3903 in the last year",
+      "CaseReferrals": "224 to prosecutors",
+      "EntityCoverage": "90% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Chipata",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-02T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-10-31T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4150 in the last year",
+      "CaseReferrals": "236 to prosecutors",
+      "EntityCoverage": "86% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Ndola",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-08T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-05T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "5040 in the last year",
+      "CaseReferrals": "217 to prosecutors",
+      "EntityCoverage": "88% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Chipata",
+    "Country": "Zambia",
+    "Headquarters": "Chipata, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-17T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-10-26T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "5833 in the last year",
+      "CaseReferrals": "187 to prosecutors",
+      "EntityCoverage": "88% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Monze",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-02T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3075 in the last year",
+      "CaseReferrals": "215 to prosecutors",
+      "EntityCoverage": "97% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Monze",
+    "Country": "Zambia",
+    "Headquarters": "Monze, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-12T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-04T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3306 in the last year",
+      "CaseReferrals": "212 to prosecutors",
+      "EntityCoverage": "85% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Choma",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-03T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-16T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4063 in the last year",
+      "CaseReferrals": "114 to prosecutors",
+      "EntityCoverage": "86% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Ndola",
+    "Country": "Zambia",
+    "Headquarters": "Ndola, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-14T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-13T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "5639 in the last year",
+      "CaseReferrals": "246 to prosecutors",
+      "EntityCoverage": "98% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Kitwe",
+    "Country": "Zambia",
+    "Headquarters": "Kitwe, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-11T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-05T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "4920 in the last year",
+      "CaseReferrals": "124 to prosecutors",
+      "EntityCoverage": "96% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Livingstone",
+    "Country": "Zambia",
+    "Headquarters": "Livingstone, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2025-12-23T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-12-18T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3051 in the last year",
+      "CaseReferrals": "178 to prosecutors",
+      "EntityCoverage": "94% of licensed institutions"
+    }
+  },
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "FinancialIntelligence",
+    "DisplayName": "FIC Regional Office - Choma",
+    "Country": "Zambia",
+    "Headquarters": "Choma, Zambia",
+    "Mandate": "Receive, analyze, and disseminate suspicious transaction reports (STRs) from banks, casinos, and insurance firms to law enforcement partners.",
+    "TopPriorities": [
+      "Process STRs tied to cross-border revenue repatriation within 48 hours.",
+      "Improve compliance training for fintech start-ups.",
+      "Strengthen case referrals to ACC and Economic Crimes Court."
+    ],
+    "ActiveOperations": [
+      "Real-time money laundering risk dashboard tracking high-value remittances.",
+      "Digital onboarding of reporting entities with intelligence systems.",
+      "Regional FIC collaboration with COMESA on financial monitoring."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Processed suspicious transaction reports",
+        "Date": "2026-01-13T00:00:00Z",
+        "Summary": "Analyzed and forwarded STRs to law enforcement for investigation."
+      },
+      {
+        "Title": "AML data collaboration workshop",
+        "Date": "2025-11-09T00:00:00Z",
+        "Summary": "Synchronized financial data feeds to identify unusual patterns."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Zambia Anti-Corruption Commission",
+      "Egmont Group of Financial Intelligence Units"
+    ],
+    "Metrics": {
+      "STRsAnalyzed": "3972 in the last year",
+      "CaseReferrals": "140 to prosecutors",
+      "EntityCoverage": "97% of licensed institutions"
+    }
+  }
+]

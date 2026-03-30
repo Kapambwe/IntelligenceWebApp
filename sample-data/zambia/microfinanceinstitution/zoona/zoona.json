@@ -1,0 +1,42 @@
+[
+  {
+    "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+    "SubOrganizationType": "MicrofinanceInstitution",
+    "DisplayName": "Zoona",
+    "Country": "Zambia",
+    "Headquarters": "Chingola, Zambia",
+    "Mandate": "Serve underbanked households and micro-businesses with credit, savings, and financial literacy while monitoring fraud risks.",
+    "TopPriorities": [
+      "Keep disbursements compliant with KYC requirements and share red flags.",
+      "Bridge the digital gap for rural SMEs for approved billing channels.",
+      "Monitor loan client cash flows for indicators of forced invoicing."
+    ],
+    "ActiveOperations": [
+      "Field agents scanning receipts before disbursing micro-loans.",
+      "Financial literacy programs covering tax obligations.",
+      "Payment data matching against revenue collection cases to avoid VAT claim abuse."
+    ],
+    "RecentActions": [
+      {
+        "Title": "Flagged suspicious loan applications",
+        "Date": "2025-12-20T00:00:00Z",
+        "Summary": "Referred cases to Financial Intelligence Centre after detecting fund loops."
+      },
+      {
+        "Title": "Digital payment system integration",
+        "Date": "2025-11-10T00:00:00Z",
+        "Summary": "Onboarded cooperatives into digital ecosystem for tax compliance."
+      }
+    ],
+    "KeyPartnerships": [
+      "Zambia Revenue Authority",
+      "Financial Intelligence Centre",
+      "USAID - Financial Inclusion Program"
+    ],
+    "Metrics": {
+      "ActiveBorrowers": "16339",
+      "DigitalAccounts": "71% of clients",
+      "FraudReferrals": "29 referred to authorities"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Algorithms": [
+    {
+      "Name": "Financial irregularitiesPath",
+      "Summary": "Identified 6-step pattern linking local authorities to procurement fraud in Copperbelt Province",
+      "HighlightedNodes": [
+        "03adc645-1474-0fc1-1489-002ecd4b919c",
+        "0581a68e-1df3-04f6-1b3b-00b5889d4155",
+        "04637e3f-1a44-0a38-1465-00e7d49f9ac0",
+        "019e768f-23a0-19e2-0908-001bbc8bccc5",
+        "0411cfbc-266c-244d-20af-006a026da635",
+        "01cd10df-169c-0456-2148-004a5aabde08"
+      ]
+    },
+    {
+      "Name": "MisappropriationPath",
+      "Summary": "Identified 5-step pattern linking government ministries to compliance in Copperbelt Province",
+      "HighlightedNodes": [
+        "03ce050d-1882-234c-210d-003fd27688de",
+        "0328c5bf-0bab-0656-102a-0052c002b832",
+        "046f90e0-1e99-12a9-088b-00cb0055afab",
+        "049cf037-21e9-1182-1dfe-00970378f35b",
+        "056abe0e-0647-1f8f-0ec0-00ae88da6dec"
+      ]
+    },
+    {
+      "Name": "MisappropriationPath",
+      "Summary": "Identified 3-step pattern linking government ministries to financial irregularities in Copperbelt Province",
+      "HighlightedNodes": [
+        "03a20ae5-0957-12ec-0d73-0091965807ce",
+        "05671a42-26d7-0b2d-05d7-003581d1bf26",
+        "0201a3fd-0cb6-23bf-0d27-00387c42f6ca"
+      ]
+    },
+    {
+      "Name": "CompliancePath",
+      "Summary": "Identified 6-step pattern linking public institutions to procurement fraud in Eastern Province",
+      "HighlightedNodes": [
+        "0376238f-24e4-251e-243c-002c933da34c",
+        "00e568b0-15a2-225e-08e9-0082839ff0df",
+        "01377d95-0ece-1763-107f-00b3b9102eb4",
+        "047203d6-2597-1ce6-1db9-00a2ccff2f63",
+        "013f8796-09d7-25e2-147a-00d52cc7752a",
+        "037996ae-056e-0f26-2320-00e6b2459104"
+      ]
+    },
+    {
+      "Name": "Audit findingsPath",
+      "Summary": "Identified 6-step pattern linking local authorities to financial irregularities in Copperbelt Province",
+      "HighlightedNodes": [
+        "03a7f98d-1f1e-203f-25fc-00bc1c74d2cf",
+        "02ce297a-059f-22de-1a79-00d6b1323d26",
+        "03d3ac8b-1d13-268d-0c6a-006acf682a7f",
+        "044838c3-095e-0f1e-0649-0046ca102f7d",
+        "05740089-073e-199f-0807-00c92c830d7a",
+        "0286b38d-236b-2394-16d1-00bcb42dbcfc"
+      ]
+    }
+  ]
+}

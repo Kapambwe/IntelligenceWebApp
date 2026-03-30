@@ -1,0 +1,87 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "TotalEntitiesScreened": 342,
+  "ActiveAlerts": 6,
+  "PendingReviews": 4,
+  "ComplianceScore": 78.5,
+  "Alerts": [
+    {
+      "Id": "ca01cb02-cc03-cd04-ce05-cf0607080901",
+      "Severity": "Critical",
+      "Type": "Broadcast Standards Violation",
+      "EntityId": "b7a8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+      "EntityName": "Lusaka Broadcasting Holdings Ltd",
+      "Description": "ZICTA broadcast standards audit revealed unapproved investigative content aired without pre-broadcast legal review. Footage contained identifiable minors near investigation subjects without guardian consent.",
+      "CreatedAt": "2026-02-04T09:15:00Z",
+      "DetectedAt": "2026-02-04T08:45:00Z",
+      "Status": "Investigating"
+    },
+    {
+      "Id": "ca01cb02-cc03-cd04-ce05-cf0607080902",
+      "Severity": "High",
+      "Type": "Undercover Filming Ethics Breach",
+      "EntityId": "c2b3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+      "EntityName": "Natasha Mulenga",
+      "Description": "Internal review flagged undercover footage captured in a private medical facility without obtaining facility management consent. Muvi TV legal team assessing whether public interest defense applies.",
+      "CreatedAt": "2026-01-28T14:30:00Z",
+      "DetectedAt": "2026-01-28T13:00:00Z",
+      "Status": "Open"
+    },
+    {
+      "Id": "ca01cb02-cc03-cd04-ce05-cf0607080903",
+      "Severity": "High",
+      "Type": "Visual Evidence Chain-of-Custody Break",
+      "EntityId": "e4d5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+      "EntityName": "Grace Phiri",
+      "Description": "Gap detected in evidence custody log for Copperbelt mining investigation footage. Twelve hours unaccounted between field capture and studio ingestion. Forensic metadata analysis initiated.",
+      "CreatedAt": "2026-02-01T11:00:00Z",
+      "DetectedAt": "2026-02-01T10:30:00Z",
+      "Status": "Investigating"
+    },
+    {
+      "Id": "ca01cb02-cc03-cd04-ce05-cf0607080904",
+      "Severity": "Medium",
+      "Type": "Pre-Broadcast Legal Review Overdue",
+      "EntityId": "d3c4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "EntityName": "Joseph Tembo",
+      "Description": "Documentary segment featuring Joseph Tembo in procurement fraud allegations scheduled for broadcast but pre-broadcast legal review from Media Legal Defence Zambia not yet received. Broadcast hold recommended.",
+      "CreatedAt": "2026-02-06T16:00:00Z",
+      "DetectedAt": "2026-02-06T15:30:00Z",
+      "Status": "Open"
+    },
+    {
+      "Id": "ca01cb02-cc03-cd04-ce05-cf0607080905",
+      "Severity": "Medium",
+      "Type": "Source Identity Protection Alert",
+      "EntityId": "b1a2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "EntityName": "Mwila Chanda",
+      "Description": "Automated face recognition scan detected that blurring on confidential source in ZNBC documentary rough cut is insufficient. Re-editing required before satellite uplink for broadcast.",
+      "CreatedAt": "2026-01-22T10:00:00Z",
+      "DetectedAt": "2026-01-22T09:30:00Z",
+      "Status": "Resolved"
+    },
+    {
+      "Id": "ca01cb02-cc03-cd04-ce05-cf0607080906",
+      "Severity": "Low",
+      "Type": "Cross-Border Content Distribution Compliance",
+      "EntityId": "d9c0e1f2-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+      "EntityName": "Martin Sakala",
+      "Description": "Satellite uplink configuration for Chipata TV cross-border broadcast to Malawi requires updated content distribution license. Current ZICTA authorization expires in 30 days.",
+      "CreatedAt": "2026-01-15T08:00:00Z",
+      "DetectedAt": "2026-01-15T07:30:00Z",
+      "Status": "Open"
+    }
+  ],
+  "RiskTrends": [
+    { "Date": "2025-05-01T00:00:00Z", "RiskScore": 32 },
+    { "Date": "2025-06-01T00:00:00Z", "RiskScore": 35 },
+    { "Date": "2025-07-01T00:00:00Z", "RiskScore": 41 },
+    { "Date": "2025-08-01T00:00:00Z", "RiskScore": 48 },
+    { "Date": "2025-09-01T00:00:00Z", "RiskScore": 52 },
+    { "Date": "2025-10-01T00:00:00Z", "RiskScore": 58 },
+    { "Date": "2025-11-01T00:00:00Z", "RiskScore": 55 },
+    { "Date": "2025-12-01T00:00:00Z", "RiskScore": 62 },
+    { "Date": "2026-01-01T00:00:00Z", "RiskScore": 67 },
+    { "Date": "2026-02-01T00:00:00Z", "RiskScore": 71 }
+  ]
+}

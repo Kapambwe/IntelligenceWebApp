@@ -1,0 +1,460 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "b1a2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "Name": "Mulemba Chilufya",
+      "Type": "Individual",
+      "Status": "Active",
+      "RiskScore": 18.5,
+      "CreatedAt": "2025-03-12T08:30:00Z",
+      "UpdatedAt": "2025-11-20T14:22:00Z"
+    },
+    {
+      "Id": "c2b3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+      "Name": "News Diggers Investigative Unit",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 12.0,
+      "CreatedAt": "2025-01-15T09:00:00Z",
+      "UpdatedAt": "2025-12-01T10:45:00Z"
+    },
+    {
+      "Id": "d3c4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "Name": "Bwalya Mwamba",
+      "Type": "Individual",
+      "Status": "Investigation",
+      "RiskScore": 72.3,
+      "CreatedAt": "2025-06-22T11:15:00Z",
+      "UpdatedAt": "2026-01-08T09:30:00Z"
+    },
+    {
+      "Id": "e4d5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+      "Name": "The Mast Print Investigations Team",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 15.2,
+      "CreatedAt": "2025-02-20T07:45:00Z",
+      "UpdatedAt": "2025-10-14T16:00:00Z"
+    },
+    {
+      "Id": "f5e6a7b8-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+      "Name": "Chanda Kasonde",
+      "Type": "Individual",
+      "Status": "Flagged",
+      "RiskScore": 85.7,
+      "CreatedAt": "2025-04-10T13:20:00Z",
+      "UpdatedAt": "2026-01-15T11:10:00Z"
+    },
+    {
+      "Id": "a6f7b8c9-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+      "Name": "Zambia Media Legal Defence Foundation",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 8.4,
+      "CreatedAt": "2025-01-05T10:00:00Z",
+      "UpdatedAt": "2025-09-28T15:30:00Z"
+    },
+    {
+      "Id": "b7a8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+      "Name": "Anonymous Source ZDM-2025-047",
+      "Type": "Individual",
+      "Status": "UnderReview",
+      "RiskScore": 55.0,
+      "CreatedAt": "2025-08-14T06:00:00Z",
+      "UpdatedAt": "2026-01-22T08:45:00Z"
+    },
+    {
+      "Id": "c8b9d0e1-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+      "Name": "Zambia Daily Mail Archive Research Division",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 10.1,
+      "CreatedAt": "2025-05-01T09:30:00Z",
+      "UpdatedAt": "2025-12-18T12:00:00Z"
+    },
+    {
+      "Id": "d9c0e1f2-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+      "Name": "Patrick Mwanawasa III",
+      "Type": "Individual",
+      "Status": "Cleared",
+      "RiskScore": 22.8,
+      "CreatedAt": "2025-07-03T14:10:00Z",
+      "UpdatedAt": "2025-11-30T17:55:00Z"
+    },
+    {
+      "Id": "e0d1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+      "Name": "Times of Zambia FOIA Compliance Desk",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 14.6,
+      "CreatedAt": "2025-03-28T08:15:00Z",
+      "UpdatedAt": "2026-02-01T09:20:00Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "b1a2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "Name": "Mulemba Chilufya",
+      "Type": "Individual",
+      "Status": "Active",
+      "RiskScore": 18.5,
+      "CreatedAt": "2025-03-12T08:30:00Z",
+      "UpdatedAt": "2025-11-20T14:22:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Cross-Border Source Network",
+          "Severity": "Low",
+          "Description": "Maintains contacts with investigative journalists in DRC and Tanzania for cross-border print investigations"
+        },
+        {
+          "Name": "Whistleblower Liaison",
+          "Severity": "Medium",
+          "Description": "Regularly receives leaked government documents for long-form newspaper exposes"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Full Name", "Value": "Mulemba Chilufya", "IsCore": true },
+        { "Name": "Position", "Value": "Senior Investigative Reporter", "IsCore": true },
+        { "Name": "Employer", "Value": "News Diggers", "IsCore": true },
+        { "Name": "Press Card Number", "Value": "ZAMEC-2024-1187", "IsCore": false },
+        { "Name": "Email", "Value": "m.chilufya@newsdiggers.co.zm", "IsCore": false },
+        { "Name": "Beat", "Value": "Financial Crime and Public Procurement", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "PEP Screening",
+          "HasMatch": false,
+          "CheckedAt": "2025-11-20T14:22:00Z",
+          "Details": "No politically exposed person matches identified"
+        },
+        {
+          "ScreeningType": "Sanctions Screening",
+          "HasMatch": false,
+          "CheckedAt": "2025-11-20T14:25:00Z",
+          "Details": "Cleared against OFAC, UN, and EU sanctions lists"
+        }
+      ]
+    },
+    {
+      "Id": "c2b3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+      "Name": "News Diggers Investigative Unit",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 12.0,
+      "CreatedAt": "2025-01-15T09:00:00Z",
+      "UpdatedAt": "2025-12-01T10:45:00Z",
+      "RiskFactors": [
+        {
+          "Name": "High-Profile Investigation Targets",
+          "Severity": "Medium",
+          "Description": "Currently running long-form print investigations targeting senior government procurement officials"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Organization Name", "Value": "News Diggers Investigative Unit", "IsCore": true },
+        { "Name": "Registration Number", "Value": "PACRA-2018-ND-4421", "IsCore": true },
+        { "Name": "Address", "Value": "Plot 1286, Addis Ababa Drive, Lusaka", "IsCore": true },
+        { "Name": "Circulation", "Value": "45,000 print copies daily", "IsCore": false },
+        { "Name": "Editor-in-Chief", "Value": "Joseph Mwenda", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Corporate Registry Verification",
+          "HasMatch": true,
+          "CheckedAt": "2025-12-01T10:45:00Z",
+          "Details": "Verified active registration with PACRA. Media license confirmed by IBA."
+        }
+      ]
+    },
+    {
+      "Id": "d3c4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "Name": "Bwalya Mwamba",
+      "Type": "Individual",
+      "Status": "Investigation",
+      "RiskScore": 72.3,
+      "CreatedAt": "2025-06-22T11:15:00Z",
+      "UpdatedAt": "2026-01-08T09:30:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Unexplained Wealth",
+          "Severity": "High",
+          "Description": "Subject of ongoing News Diggers print expose revealing undeclared properties worth K48 million"
+        },
+        {
+          "Name": "PEP Status",
+          "Severity": "High",
+          "Description": "Former Permanent Secretary at Ministry of Lands with active procurement authority"
+        },
+        {
+          "Name": "Document Discrepancies",
+          "Severity": "Medium",
+          "Description": "FOIA requests revealed conflicting asset declarations between 2022 and 2024 filings"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Full Name", "Value": "Bwalya Mwamba", "IsCore": true },
+        { "Name": "Position", "Value": "Former Permanent Secretary, Ministry of Lands", "IsCore": true },
+        { "Name": "NRC Number", "Value": "112234/56/1", "IsCore": true },
+        { "Name": "Investigation Code", "Value": "ND-INV-2025-012", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "PEP Screening",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T09:30:00Z",
+          "Details": "Confirmed PEP - former senior civil servant with procurement authority over government land allocations"
+        },
+        {
+          "ScreeningType": "Adverse Media Screening",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T09:35:00Z",
+          "Details": "Multiple newspaper print articles referencing subject in connection with irregular land titling"
+        }
+      ]
+    },
+    {
+      "Id": "e4d5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+      "Name": "The Mast Print Investigations Team",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 15.2,
+      "CreatedAt": "2025-02-20T07:45:00Z",
+      "UpdatedAt": "2025-10-14T16:00:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Legal Exposure",
+          "Severity": "Medium",
+          "Description": "Two active defamation lawsuits related to published print investigations into mining sector irregularities"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Organization Name", "Value": "The Mast Print Investigations Team", "IsCore": true },
+        { "Name": "Parent Publication", "Value": "The Mast Newspaper", "IsCore": true },
+        { "Name": "Address", "Value": "Plot 4926, Bwinjimfumu Road, Rhodes Park, Lusaka", "IsCore": true },
+        { "Name": "Print Circulation", "Value": "28,000 copies daily", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Corporate Registry Verification",
+          "HasMatch": true,
+          "CheckedAt": "2025-10-14T16:00:00Z",
+          "Details": "Active PACRA registration confirmed. IBA print media license valid through 2027."
+        }
+      ]
+    },
+    {
+      "Id": "f5e6a7b8-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+      "Name": "Chanda Kasonde",
+      "Type": "Individual",
+      "Status": "Flagged",
+      "RiskScore": 85.7,
+      "CreatedAt": "2025-04-10T13:20:00Z",
+      "UpdatedAt": "2026-01-15T11:10:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Shell Company Network",
+          "Severity": "High",
+          "Description": "Archival research by Times of Zambia linked subject to seven dormant companies used for government contract fronting"
+        },
+        {
+          "Name": "Sanctions Proximity",
+          "Severity": "High",
+          "Description": "Business associate of sanctioned mining executive; documented in FOIA-obtained correspondence"
+        },
+        {
+          "Name": "Asset Concealment",
+          "Severity": "High",
+          "Description": "Print investigation revealed property holdings registered under family members across three provinces"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Full Name", "Value": "Chanda Kasonde", "IsCore": true },
+        { "Name": "Occupation", "Value": "Business Executive and Political Donor", "IsCore": true },
+        { "Name": "NRC Number", "Value": "334587/12/1", "IsCore": true },
+        { "Name": "Investigation Status", "Value": "Active - Multi-newspaper collaboration", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Sanctions Screening",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T11:10:00Z",
+          "Details": "No direct sanctions match, but flagged for proximity to sanctioned individuals in mining sector"
+        },
+        {
+          "ScreeningType": "PEP Screening",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T11:15:00Z",
+          "Details": "Identified as major political campaign donor with influence over public procurement decisions"
+        },
+        {
+          "ScreeningType": "Adverse Media Screening",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T11:20:00Z",
+          "Details": "Featured in 14 print newspaper articles across News Diggers, The Mast, and Daily Nation since 2024"
+        }
+      ]
+    },
+    {
+      "Id": "a6f7b8c9-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+      "Name": "Zambia Media Legal Defence Foundation",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 8.4,
+      "CreatedAt": "2025-01-05T10:00:00Z",
+      "UpdatedAt": "2025-09-28T15:30:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Donor Transparency",
+          "Severity": "Low",
+          "Description": "International funding sources fully disclosed; annual audits published in print editions"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Organization Name", "Value": "Zambia Media Legal Defence Foundation", "IsCore": true },
+        { "Name": "Registration Number", "Value": "PACRA-NGO-2019-0782", "IsCore": true },
+        { "Name": "Address", "Value": "Stand 2374, Nationalist Road, Lusaka", "IsCore": true },
+        { "Name": "Mission", "Value": "Legal defence and source protection for print journalists", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "NGO Registry Verification",
+          "HasMatch": true,
+          "CheckedAt": "2025-09-28T15:30:00Z",
+          "Details": "Verified registration with Registrar of Societies. Tax-exempt status confirmed."
+        }
+      ]
+    },
+    {
+      "Id": "b7a8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+      "Name": "Anonymous Source ZDM-2025-047",
+      "Type": "Individual",
+      "Status": "UnderReview",
+      "RiskScore": 55.0,
+      "CreatedAt": "2025-08-14T06:00:00Z",
+      "UpdatedAt": "2026-01-22T08:45:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Unverified Identity",
+          "Severity": "High",
+          "Description": "Anonymous whistleblower providing documents for Zambia Daily Mail investigation; identity verification pending"
+        },
+        {
+          "Name": "Document Provenance",
+          "Severity": "Medium",
+          "Description": "Leaked procurement records require forensic authentication before publication in print edition"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Alias", "Value": "ZDM-2025-047", "IsCore": true },
+        { "Name": "Source Type", "Value": "Anonymous Whistleblower", "IsCore": true },
+        { "Name": "Handling Editor", "Value": "investigations@dailymail.co.zm", "IsCore": false },
+        { "Name": "Document Count", "Value": "34 pages of procurement records", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Source Credibility Assessment",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-22T08:45:00Z",
+          "Details": "Credibility assessment ongoing; three of seven provided documents independently corroborated via FOIA requests"
+        }
+      ]
+    },
+    {
+      "Id": "c8b9d0e1-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+      "Name": "Zambia Daily Mail Archive Research Division",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 10.1,
+      "CreatedAt": "2025-05-01T09:30:00Z",
+      "UpdatedAt": "2025-12-18T12:00:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Archive Access Controls",
+          "Severity": "Low",
+          "Description": "Physical archive contains sensitive historical print records requiring enhanced security protocols"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Organization Name", "Value": "Zambia Daily Mail Archive Research Division", "IsCore": true },
+        { "Name": "Parent Publication", "Value": "Zambia Daily Mail", "IsCore": true },
+        { "Name": "Address", "Value": "Nasser Road, P.O. Box 31421, Lusaka", "IsCore": true },
+        { "Name": "Archive Holdings", "Value": "Print editions dating to 1960, microfilm archive", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Corporate Registry Verification",
+          "HasMatch": true,
+          "CheckedAt": "2025-12-18T12:00:00Z",
+          "Details": "State-owned enterprise verified. PACRA registration and government gazette listing confirmed."
+        }
+      ]
+    },
+    {
+      "Id": "d9c0e1f2-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+      "Name": "Patrick Mwanawasa III",
+      "Type": "Individual",
+      "Status": "Cleared",
+      "RiskScore": 22.8,
+      "CreatedAt": "2025-07-03T14:10:00Z",
+      "UpdatedAt": "2025-11-30T17:55:00Z",
+      "RiskFactors": [
+        {
+          "Name": "High-Profile Family Name",
+          "Severity": "Low",
+          "Description": "Initially flagged due to prominent family name; cleared after thorough archival research found no impropriety"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Full Name", "Value": "Patrick Mwanawasa III", "IsCore": true },
+        { "Name": "Occupation", "Value": "Private Sector Consultant", "IsCore": true },
+        { "Name": "NRC Number", "Value": "445123/78/1", "IsCore": true },
+        { "Name": "Clearance Reference", "Value": "TM-CLR-2025-089", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "PEP Screening",
+          "HasMatch": false,
+          "CheckedAt": "2025-11-30T17:55:00Z",
+          "Details": "Not a PEP. Family connection noted but individual holds no political office or authority."
+        },
+        {
+          "ScreeningType": "Adverse Media Screening",
+          "HasMatch": false,
+          "CheckedAt": "2025-11-30T18:00:00Z",
+          "Details": "No adverse print media coverage found across major Zambian newspapers"
+        }
+      ]
+    },
+    {
+      "Id": "e0d1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+      "Name": "Times of Zambia FOIA Compliance Desk",
+      "Type": "Organization",
+      "Status": "Active",
+      "RiskScore": 14.6,
+      "CreatedAt": "2025-03-28T08:15:00Z",
+      "UpdatedAt": "2026-02-01T09:20:00Z",
+      "RiskFactors": [
+        {
+          "Name": "Government Information Requests",
+          "Severity": "Medium",
+          "Description": "Processes high volume of FOIA requests targeting government ministries; some requests flagged as sensitive"
+        }
+      ],
+      "Attributes": [
+        { "Name": "Organization Name", "Value": "Times of Zambia FOIA Compliance Desk", "IsCore": true },
+        { "Name": "Parent Publication", "Value": "Times of Zambia", "IsCore": true },
+        { "Name": "Address", "Value": "Lumumba Road, P.O. Box 30394, Lusaka", "IsCore": true },
+        { "Name": "Active FOIA Requests", "Value": "23 pending requests across 8 ministries", "IsCore": false }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Corporate Registry Verification",
+          "HasMatch": true,
+          "CheckedAt": "2026-02-01T09:20:00Z",
+          "Details": "State-owned media entity verified. Operational under National Media Corporation Act."
+        }
+      ]
+    }
+  ]
+}
