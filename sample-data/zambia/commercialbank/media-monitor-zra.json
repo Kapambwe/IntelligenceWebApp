@@ -1530,6 +1530,126 @@
       "CreatedAt": "2025-11-20T17:30:30Z",
       "TriggeredAt": "2026-01-12T17:30:30Z",
       "IsAcknowledged": true
+    },
+    {
+      "Id": "aa825b0f-adcd-4c6f-83d4-3228d2a48060",
+      "EntityName": "Gift Kalaba",
+      "Severity": "High",
+      "Description": "Multiple small-value cash deposits (smurfing) across Stanbic branches in Nakonde.",
+      "Timestamp": "2025-02-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "67e0252f-2236-40d5-ba08-399b61ef9e97",
+      "EntityName": "Sarah Mundia",
+      "Severity": "Critical",
+      "Description": "Account takeover attempt detected at Investrust Chipata branch.",
+      "Timestamp": "2025-12-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2d63d137-6a2c-411a-8aa8-930e83f97651",
+      "EntityName": "Peter Banda",
+      "Severity": "High",
+      "Description": "Account takeover attempt detected at Standard Chartered Kitwe branch.",
+      "Timestamp": "2025-07-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6e53a582-6526-42cd-8257-eb55bee2192d",
+      "EntityName": "Sarah Sata",
+      "Severity": "High",
+      "Description": "Loan application fraud involving ghost identities in Nakonde.",
+      "Timestamp": "2026-04-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "eaaa20b1-e54e-4b24-9316-3fad79ae07b7",
+      "EntityName": "Natwange Traders",
+      "Severity": "Critical",
+      "Description": "Unauthorized internal access to high-net-worth client data in Mansa.",
+      "Timestamp": "2025-01-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6fd562ec-50cd-4f2a-b374-673ef5059759",
+      "EntityName": "Blessing Mwamba",
+      "Severity": "Medium",
+      "Description": "Loan application fraud involving ghost identities in Chipata.",
+      "Timestamp": "2026-01-01T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "3fbebec4-b2a6-41e8-a1ae-6b1556069e0f",
+      "EntityName": "Sarah Mwamba",
+      "Severity": "Critical",
+      "Description": "Unauthorized internal access to high-net-worth client data in Kabwe.",
+      "Timestamp": "2026-04-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6f4eaf33-ddd3-4cdf-a98e-6d7578e10d78",
+      "EntityName": "Martha Sinkala",
+      "Severity": "High",
+      "Description": "Account takeover attempt detected at Stanbic Mansa branch.",
+      "Timestamp": "2025-02-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "304e1748-28ad-4de4-bcef-c2242ffca264",
+      "EntityName": "Patricia Lungu",
+      "Severity": "Medium",
+      "Description": "Unauthorized internal access to high-net-worth client data in Mansa.",
+      "Timestamp": "2025-12-18T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "4d1c428b-37fc-4bc5-8bce-5a91b0794865",
+      "EntityName": "Lombe Sinkala",
+      "Severity": "Medium",
+      "Description": "Multiple small-value cash deposits (smurfing) across Standard Chartered branches in Kasama.",
+      "Timestamp": "2025-11-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "132641c3-347d-47c0-9cd0-79af31cfd508",
+      "EntityName": "Zambia Sugar",
+      "Severity": "High",
+      "Description": "Unauthorized internal access to high-net-worth client data in Nakonde.",
+      "Timestamp": "2026-01-24T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c1b175ca-5a60-4ac9-9d89-53f542972d30",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Medium",
+      "Description": "Account takeover attempt detected at Absa Bank Chirundu branch.",
+      "Timestamp": "2025-07-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a7bd0d40-4a82-4e15-a0bd-bd446fe08d44",
+      "EntityName": "Lombe Kunda",
+      "Severity": "High",
+      "Description": "Loan application fraud involving ghost identities in Nakonde.",
+      "Timestamp": "2025-01-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6f4a8518-ab60-4ec7-b54e-aeecad245fe2",
+      "EntityName": "Kelvin Sata",
+      "Severity": "High",
+      "Description": "Unauthorized internal access to high-net-worth client data in Mansa.",
+      "Timestamp": "2025-10-17T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d2be9630-889d-43be-835a-417c9d83d75f",
+      "EntityName": "Mutale Banda",
+      "Severity": "Medium",
+      "Description": "Loan application fraud involving ghost identities in Chipata.",
+      "Timestamp": "2025-11-22T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Configs": [

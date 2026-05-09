@@ -450,6 +450,141 @@
       "RiskScore": 41,
       "CreatedAt": "2024-02-21T17:30:31Z",
       "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "e021d083-8cd8-4a0b-b640-ab37d96b89a5",
+      "Name": "Kafue Logistics",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 62.0,
+      "CreatedAt": "2025-08-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "14c3b446-4980-4888-a5ab-374dc73c4db5",
+      "Name": "Mopani Mines",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 46.0,
+      "CreatedAt": "2025-05-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "519fd102-bff0-472c-8ab7-19f9dd347156",
+      "Name": "Zesco",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 40.0,
+      "CreatedAt": "2026-03-31T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "bbd477cb-aedb-424e-b314-c9f7a4db33de",
+      "Name": "Webby Phiri",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 87.0,
+      "CreatedAt": "2025-07-28T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "23b4fe67-d26d-4be9-8745-fbda001eff61",
+      "Name": "Zesco",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 83.0,
+      "CreatedAt": "2025-07-23T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "2338663d-ab47-4693-bc39-30e5eb300f10",
+      "Name": "Mukwa Engineering",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 78.0,
+      "CreatedAt": "2025-05-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "320656c5-967c-4569-8f41-3738fa97d198",
+      "Name": "Lombe Kalaba",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 63.0,
+      "CreatedAt": "2025-09-22T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "58b5893f-09a3-4793-a52b-a662d7357c0b",
+      "Name": "Mopani Mines",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 22.0,
+      "CreatedAt": "2026-05-04T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "ede52eb9-8e46-4398-8828-62d39370dc7e",
+      "Name": "Davies Mundia",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 85.0,
+      "CreatedAt": "2025-06-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "d401623d-230d-4b50-9295-8987e036ef24",
+      "Name": "Natwange Traders",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 20.0,
+      "CreatedAt": "2026-03-14T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "71708efe-0f9c-4c00-83dc-57b66a8ff8a0",
+      "Name": "Zamtel",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49.0,
+      "CreatedAt": "2025-10-24T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "1ab4c367-34be-44a7-ac2d-22e6379d121f",
+      "Name": "Martha Banda",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 63.0,
+      "CreatedAt": "2025-11-12T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "e23f6cbd-008d-4a25-89da-fa66d1abe955",
+      "Name": "Mopani Mines",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 22.0,
+      "CreatedAt": "2026-02-23T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "bfd9a1dd-e277-41f0-b847-285ad3663be9",
+      "Name": "Sarah Mulenga",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 50.0,
+      "CreatedAt": "2026-03-26T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "45d031d2-c79b-4294-930a-10918789ea63",
+      "Name": "Zambia Sugar",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 79.0,
+      "CreatedAt": "2025-09-20T00:00:00Z",
+      "Jurisdiction": "Zambia"
     }
   ],
   "Details": [

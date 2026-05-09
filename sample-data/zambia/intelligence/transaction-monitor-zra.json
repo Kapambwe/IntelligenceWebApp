@@ -800,6 +800,126 @@
       "TransactionId": "TX-DEP-20231315",
       "DetectedAt": "2025-12-05T17:30:30Z",
       "AlertType": "HighValue"
+    },
+    {
+      "Id": "6d9a1571-5815-41d1-999c-ee44eb54c74f",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Medium",
+      "Description": "Counter-espionage lead involving foreign actors in Livingstone.",
+      "Timestamp": "2025-09-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "cd444b14-1159-47fe-9bbf-58de748fcd7f",
+      "EntityName": "Zambia Sugar",
+      "Severity": "Critical",
+      "Description": "Counter-espionage lead involving foreign actors in Solwezi.",
+      "Timestamp": "2025-10-28T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "63d13d7a-9fbf-48e1-b1bc-99cb01685c2c",
+      "EntityName": "Zambia Sugar",
+      "Severity": "High",
+      "Description": "Threat assessment regarding Livingstone essential infrastructure.",
+      "Timestamp": "2025-07-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8922157a-a0a9-4065-9909-f0cf9cd4b6a8",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Medium",
+      "Description": "Tracking of high-value illicit fund movement through Nakonde.",
+      "Timestamp": "2025-09-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "48252252-1954-477f-88aa-a9842870307a",
+      "EntityName": "Mary Mwanawasa",
+      "Severity": "Critical",
+      "Description": "Tracking of high-value illicit fund movement through Kabwe.",
+      "Timestamp": "2025-04-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "53ad2347-57f8-499f-bc7e-2898c2c52294",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "High",
+      "Description": "Tracking of high-value illicit fund movement through Lusaka.",
+      "Timestamp": "2025-06-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "082ffa6c-b3ce-4edf-bff5-3327a5ebd4ba",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Threat assessment regarding Mansa essential infrastructure.",
+      "Timestamp": "2025-12-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9c0b9617-6923-4c81-b5b2-c0584277bb68",
+      "EntityName": "Peter Bwalya",
+      "Severity": "Critical",
+      "Description": "Detection of encrypted comms near high-security Sesheke sites.",
+      "Timestamp": "2026-02-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "502b195b-4e96-4037-817f-657ba0bff8e2",
+      "EntityName": "Zesco",
+      "Severity": "High",
+      "Description": "Counter-espionage lead involving foreign actors in Mansa.",
+      "Timestamp": "2025-02-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2e9a56fd-2919-4011-b400-d2a2e46815ba",
+      "EntityName": "Zesco",
+      "Severity": "High",
+      "Description": "Detection of encrypted comms near high-security Chipata sites.",
+      "Timestamp": "2025-11-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f0534d5e-b59c-4a5b-9e6e-1bef92358a86",
+      "EntityName": "Zambia Sugar",
+      "Severity": "Medium",
+      "Description": "Threat assessment regarding Kabwe essential infrastructure.",
+      "Timestamp": "2025-06-09T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "201835f2-a40d-4391-88cd-90dc654e94fa",
+      "EntityName": "Zamtel",
+      "Severity": "High",
+      "Description": "Monitoring of clandestine meetings in Kasama industrial zone.",
+      "Timestamp": "2026-02-06T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a15063f1-602e-4e7e-b018-4be633db6f6d",
+      "EntityName": "Kennedy Chisenga",
+      "Severity": "Critical",
+      "Description": "Threat assessment regarding Kasumbalesa essential infrastructure.",
+      "Timestamp": "2025-05-17T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c24a23e3-86bb-4d9a-bc28-1e961de000d0",
+      "EntityName": "Zambia Sugar",
+      "Severity": "High",
+      "Description": "Detection of encrypted comms near high-security Solwezi sites.",
+      "Timestamp": "2025-10-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f083e8ca-66fe-4e6a-8ad4-3183175d0145",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Medium",
+      "Description": "Threat assessment regarding Nakonde essential infrastructure.",
+      "Timestamp": "2025-09-24T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Rules": [

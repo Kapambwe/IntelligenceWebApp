@@ -70,18 +70,168 @@
       "CreatedAt": "2025-10-15T11:00:00Z",
       "DetectedAt": "2025-10-15T10:30:00Z",
       "Status": "Resolved"
+    },
+    {
+      "Id": "3a6368fa-9c0b-42ed-abe4-a14f07feaadd",
+      "EntityName": "Kelvin Kalaba",
+      "Severity": "Medium",
+      "Description": "Defamation lawsuit filed by political figure in Lusaka.",
+      "Timestamp": "2025-11-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "bb2251e6-fcd8-4b26-b1dd-818dd027359a",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Critical",
+      "Description": "Surveillance of high-risk entities mentioned in leaked financial docs.",
+      "Timestamp": "2025-12-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8f728e0e-460a-4efe-80d7-910291890b90",
+      "EntityName": "Moses Lungu",
+      "Severity": "High",
+      "Description": "Tracking viral disinformation regarding national currency stability.",
+      "Timestamp": "2025-10-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "256a02c2-2ce6-4866-8eae-f726bfa21731",
+      "EntityName": "Zamtel",
+      "Severity": "Medium",
+      "Description": "Defamation lawsuit filed by political figure in Mansa.",
+      "Timestamp": "2025-01-16T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "4c6299c5-f051-4c09-a1d0-a6035baee708",
+      "EntityName": "Zambia Sugar",
+      "Severity": "High",
+      "Description": "Investigation lead into Luanshya land allocation scandal.",
+      "Timestamp": "2025-02-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a72be35f-b77b-41ef-9014-b711cb0dfa63",
+      "EntityName": "Martha Tembo",
+      "Severity": "Medium",
+      "Description": "Whistleblower report of procurement abuse in Lusaka health sector.",
+      "Timestamp": "2025-11-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "0a4257ea-1948-403e-84e5-5d36079b6b04",
+      "EntityName": "Joseph Kunda",
+      "Severity": "Critical",
+      "Description": "Investigation lead into Mansa land allocation scandal.",
+      "Timestamp": "2025-05-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d6493d40-01f2-4370-bcf6-4627c8ce2e3f",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Critical",
+      "Description": "Defamation lawsuit filed by political figure in Livingstone.",
+      "Timestamp": "2025-11-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c5edb816-6896-4daf-bb49-73b3fb223457",
+      "EntityName": "Joseph Mulenga",
+      "Severity": "High",
+      "Description": "Investigation lead into Nakonde land allocation scandal.",
+      "Timestamp": "2025-07-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "533c1713-5ad1-4365-b990-9d857eca8658",
+      "EntityName": "Zambia Sugar",
+      "Severity": "High",
+      "Description": "Investigation lead into Chingola land allocation scandal.",
+      "Timestamp": "2025-09-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "12cabc52-91de-4f90-aa2c-2179ae158901",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Whistleblower report of procurement abuse in Solwezi health sector.",
+      "Timestamp": "2026-03-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a535fd0c-fd9a-4c2d-8ddd-028880a75312",
+      "EntityName": "Kafue Logistics",
+      "Severity": "High",
+      "Description": "Tracking viral disinformation regarding national currency stability.",
+      "Timestamp": "2026-02-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a1f14a9a-9829-4db2-b226-5a8eabcbfe1d",
+      "EntityName": "Chileshe Chisenga",
+      "Severity": "High",
+      "Description": "Surveillance of high-risk entities mentioned in leaked financial docs.",
+      "Timestamp": "2025-07-09T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "40129a7f-d822-44cd-911c-c40ce4031e16",
+      "EntityName": "Mainza Bwalya",
+      "Severity": "Medium",
+      "Description": "Investigation lead into Ndola land allocation scandal.",
+      "Timestamp": "2026-01-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "39800b84-05de-40e1-8b9c-70b56fbfb419",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Critical",
+      "Description": "Defamation lawsuit filed by political figure in Mansa.",
+      "Timestamp": "2025-01-03T00:00:00Z",
+      "Status": "New"
     }
   ],
   "RiskTrends": [
-    { "Date": "2025-05-01T00:00:00Z", "RiskScore": 28 },
-    { "Date": "2025-06-01T00:00:00Z", "RiskScore": 32 },
-    { "Date": "2025-07-01T00:00:00Z", "RiskScore": 35 },
-    { "Date": "2025-08-01T00:00:00Z", "RiskScore": 41 },
-    { "Date": "2025-09-01T00:00:00Z", "RiskScore": 38 },
-    { "Date": "2025-10-01T00:00:00Z", "RiskScore": 45 },
-    { "Date": "2025-11-01T00:00:00Z", "RiskScore": 52 },
-    { "Date": "2025-12-01T00:00:00Z", "RiskScore": 48 },
-    { "Date": "2026-01-01T00:00:00Z", "RiskScore": 55 },
-    { "Date": "2026-02-01T00:00:00Z", "RiskScore": 51 }
+    {
+      "Date": "2025-05-01T00:00:00Z",
+      "RiskScore": 28
+    },
+    {
+      "Date": "2025-06-01T00:00:00Z",
+      "RiskScore": 32
+    },
+    {
+      "Date": "2025-07-01T00:00:00Z",
+      "RiskScore": 35
+    },
+    {
+      "Date": "2025-08-01T00:00:00Z",
+      "RiskScore": 41
+    },
+    {
+      "Date": "2025-09-01T00:00:00Z",
+      "RiskScore": 38
+    },
+    {
+      "Date": "2025-10-01T00:00:00Z",
+      "RiskScore": 45
+    },
+    {
+      "Date": "2025-11-01T00:00:00Z",
+      "RiskScore": 52
+    },
+    {
+      "Date": "2025-12-01T00:00:00Z",
+      "RiskScore": 48
+    },
+    {
+      "Date": "2026-01-01T00:00:00Z",
+      "RiskScore": 55
+    },
+    {
+      "Date": "2026-02-01T00:00:00Z",
+      "RiskScore": 51
+    }
   ]
 }

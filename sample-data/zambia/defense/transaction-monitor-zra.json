@@ -800,6 +800,126 @@
       "TransactionId": "TX-TRF-20251211",
       "DetectedAt": "2025-11-22T17:30:30Z",
       "AlertType": "Pattern"
+    },
+    {
+      "Id": "d2c213e4-5e26-4c0f-b6b2-67a4ab60e309",
+      "EntityName": "Sarah Tembo",
+      "Severity": "High",
+      "Description": "Joint ops with police regarding firearm smuggling in Kasama.",
+      "Timestamp": "2025-12-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "4b43cbab-47ae-4612-81ea-531059aa9941",
+      "EntityName": "Kafue Logistics",
+      "Severity": "High",
+      "Description": "Joint ops with police regarding firearm smuggling in Solwezi.",
+      "Timestamp": "2026-02-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "dc3afedd-ac0e-4388-9065-c0d470feec59",
+      "EntityName": "Zamtel",
+      "Severity": "Medium",
+      "Description": "Border patrol report of illegal incursions near Solwezi.",
+      "Timestamp": "2025-01-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8ed08493-d534-427d-a5d2-b8f324796727",
+      "EntityName": "Mopani Mines",
+      "Severity": "High",
+      "Description": "Theft of military supplies from stores in Kasumbalesa.",
+      "Timestamp": "2025-12-28T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "244a17a0-03ba-4945-aa4a-9a48d278fda0",
+      "EntityName": "Blessing Kabaso",
+      "Severity": "Medium",
+      "Description": "Unauthorized drone activity detected near Sesheke airbase.",
+      "Timestamp": "2025-03-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f7e67823-92b0-4907-868d-b98b39c723a9",
+      "EntityName": "Mopani Mines",
+      "Severity": "Critical",
+      "Description": "Theft of military supplies from stores in Choma.",
+      "Timestamp": "2025-07-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d4976974-ee9d-4ac2-b269-ebf6355f9358",
+      "EntityName": "Mopani Mines",
+      "Severity": "Critical",
+      "Description": "Theft of military supplies from stores in Livingstone.",
+      "Timestamp": "2026-02-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c1ae320b-155f-4420-a6dd-e27343cfd8ba",
+      "EntityName": "Natwange Traders",
+      "Severity": "High",
+      "Description": "Border patrol report of illegal incursions near Solwezi.",
+      "Timestamp": "2025-02-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c78aae5a-9078-43a9-a210-041b5996f7bd",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Medium",
+      "Description": "Unauthorized drone activity detected near Solwezi airbase.",
+      "Timestamp": "2025-07-01T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c1a31240-d345-4b69-8688-120a6c60c9cb",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Critical",
+      "Description": "Border patrol report of illegal incursions near Kasumbalesa.",
+      "Timestamp": "2026-04-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9f06171d-f4f0-4b50-bf29-9d498904d229",
+      "EntityName": "Mopani Mines",
+      "Severity": "High",
+      "Description": "Monitoring of suspicious communications near strategic Luanshya assets.",
+      "Timestamp": "2025-07-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "29e35e4c-d307-4001-8d09-cc58fcf46db3",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Medium",
+      "Description": "Theft of military supplies from stores in Ndola.",
+      "Timestamp": "2025-08-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6586d5fe-cc44-4c0d-b551-ba05d33ad10a",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Monitoring of suspicious communications near strategic Kasumbalesa assets.",
+      "Timestamp": "2025-05-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "601382ea-06c2-415f-8c67-80f58f8be1bc",
+      "EntityName": "Webby Lungu",
+      "Severity": "High",
+      "Description": "Border patrol report of illegal incursions near Choma.",
+      "Timestamp": "2025-08-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a2158946-f67b-4a22-9624-dfade8f80bdc",
+      "EntityName": "Mopani Mines",
+      "Severity": "Critical",
+      "Description": "Monitoring of suspicious communications near strategic Kasumbalesa assets.",
+      "Timestamp": "2026-04-27T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Rules": [

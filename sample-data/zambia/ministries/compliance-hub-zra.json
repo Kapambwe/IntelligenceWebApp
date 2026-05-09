@@ -454,6 +454,126 @@
       "Description": "Contract management revealed service delivery involving government departments",
       "DetectedAt": "2026-01-19T17:30:31Z",
       "Status": "Pending"
+    },
+    {
+      "Id": "88137c3d-3f45-4ada-9e74-af6a698340f1",
+      "EntityName": "Levy Kapwepwe",
+      "Severity": "Medium",
+      "Description": "Double-dipping in teacher allowance system in Sesheke.",
+      "Timestamp": "2025-12-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "43c8d05e-2caf-4986-ac38-2f571a1bb2fc",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "High",
+      "Description": "Procurement cycle bypass for Kasama infrastructure project.",
+      "Timestamp": "2025-11-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "747f2a71-ed06-4922-9411-7c0fc5a0e40b",
+      "EntityName": "Peter Banda",
+      "Severity": "Critical",
+      "Description": "Double-dipping in teacher allowance system in Luanshya.",
+      "Timestamp": "2025-08-16T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9af9afa7-2949-4bbe-9846-77415ac1db26",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Critical",
+      "Description": "Procurement cycle bypass for Kabwe infrastructure project.",
+      "Timestamp": "2026-03-16T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "ac2a398b-4660-4886-9c04-da21781a182f",
+      "EntityName": "Mutale Banda",
+      "Severity": "Critical",
+      "Description": "Procurement cycle bypass for Mansa infrastructure project.",
+      "Timestamp": "2025-06-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "414219de-a85f-4190-a59c-baac7996088d",
+      "EntityName": "Chileshe Mulenga",
+      "Severity": "High",
+      "Description": "Unauthorized amendment of land titles in Sesheke registry.",
+      "Timestamp": "2025-11-17T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "67b2a8f3-0ea6-4f17-8df5-9ca48de90a34",
+      "EntityName": "Mainza Kunda",
+      "Severity": "Medium",
+      "Description": "Ghost worker payroll detection in Lusaka district office.",
+      "Timestamp": "2025-03-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6b3a0253-baf2-43cd-9121-4f72a8fe5b0b",
+      "EntityName": "Catherine Kabaso",
+      "Severity": "Critical",
+      "Description": "Unauthorized amendment of land titles in Lusaka registry.",
+      "Timestamp": "2025-10-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7c3964dc-fe80-4e0c-93ef-10b25ff80d9d",
+      "EntityName": "Emmanuel Mulenga",
+      "Severity": "Critical",
+      "Description": "Double-dipping in teacher allowance system in Kabwe.",
+      "Timestamp": "2025-08-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "498d67a0-81e4-429f-abc9-4238c7f4b475",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Procurement cycle bypass for Solwezi infrastructure project.",
+      "Timestamp": "2026-04-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "81b160ca-90ad-4e52-99aa-8598447ea25b",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "High",
+      "Description": "Suspicious tender award to Victoria Falls Power with unverified credentials.",
+      "Timestamp": "2025-08-06T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "ace2429f-6635-4790-af91-cfa864a104c6",
+      "EntityName": "Zesco",
+      "Severity": "High",
+      "Description": "Unauthorized amendment of land titles in Chirundu registry.",
+      "Timestamp": "2025-08-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c5ec8dbf-f8a5-4454-a5b3-84d3bd922392",
+      "EntityName": "Zesco",
+      "Severity": "Critical",
+      "Description": "Double-dipping in teacher allowance system in Chipata.",
+      "Timestamp": "2025-05-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "eb7653de-a858-4b99-a581-adf4f6646dd7",
+      "EntityName": "Chileshe Kalaba",
+      "Severity": "High",
+      "Description": "Double-dipping in teacher allowance system in Chingola.",
+      "Timestamp": "2025-01-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "fb8a3da1-2ce3-4c54-998f-d7eeacaf733d",
+      "EntityName": "Mutale Kunda",
+      "Severity": "Medium",
+      "Description": "Double-dipping in teacher allowance system in Kasama.",
+      "Timestamp": "2025-06-03T00:00:00Z",
+      "Status": "New"
     }
   ],
   "RiskTrends": [

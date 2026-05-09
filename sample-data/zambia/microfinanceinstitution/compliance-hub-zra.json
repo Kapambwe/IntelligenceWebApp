@@ -454,6 +454,126 @@
       "Description": "Credit assessment revealed SME lending involving small businesses",
       "DetectedAt": "2025-11-28T17:30:30Z",
       "Status": "Pending"
+    },
+    {
+      "Id": "ea900caa-a997-4449-8939-99000e28c036",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Medium",
+      "Description": "Internal collusion to bypass credit scoring for Mongu retail sector.",
+      "Timestamp": "2025-11-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "236e1db8-6f56-49f9-b6c4-ffab15a0136a",
+      "EntityName": "AgriLoan Zambia",
+      "Severity": "High",
+      "Description": "Rapid default on high-value equipment loans by Water for Life.",
+      "Timestamp": "2025-01-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e6fe66c4-6fa4-42f9-afc0-00f387593466",
+      "EntityName": "Natwange Traders",
+      "Severity": "High",
+      "Description": "Suspected circular lending pattern between related entities in Mongu.",
+      "Timestamp": "2026-01-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "4164a49b-d755-405d-bbf3-b1b49a1cd7b0",
+      "EntityName": "Levy Bwalya",
+      "Severity": "Critical",
+      "Description": "Rapid default on high-value equipment loans by Kafue Logistics.",
+      "Timestamp": "2026-03-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d435bbc8-37e7-436e-b4b7-44f199f3e63d",
+      "EntityName": "Kelvin Kabaso",
+      "Severity": "Critical",
+      "Description": "Suspected circular lending pattern between related entities in Ndola.",
+      "Timestamp": "2025-12-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "458c1467-c15b-4aee-b31a-a34d4aae56e2",
+      "EntityName": "Zamtel",
+      "Severity": "Critical",
+      "Description": "Ghost-borrower scheme identified in rural agricultural loan disbursement.",
+      "Timestamp": "2025-03-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "0b43a506-adba-48ca-9a16-8a5e57159dde",
+      "EntityName": "Mainza Tembo",
+      "Severity": "Medium",
+      "Description": "Suspected circular lending pattern between related entities in Mansa.",
+      "Timestamp": "2025-11-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d91470ce-49ae-4c27-90a2-ee28ce1d7862",
+      "EntityName": "Zesco",
+      "Severity": "High",
+      "Description": "Rapid default on high-value equipment loans by Kafue Logistics.",
+      "Timestamp": "2026-03-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "97a731e6-2576-4e98-a812-baa5c3123e12",
+      "EntityName": "Lombe Kunda",
+      "Severity": "High",
+      "Description": "Suspected circular lending pattern between related entities in Luanshya.",
+      "Timestamp": "2025-10-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "877fc6a8-995a-425e-9e59-e9017f854feb",
+      "EntityName": "John Sinkala",
+      "Severity": "Medium",
+      "Description": "Rapid default on high-value equipment loans by Water for Life.",
+      "Timestamp": "2026-03-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "ef2a930e-ef29-46d7-9e86-8bf606994549",
+      "EntityName": "Hope Tembo",
+      "Severity": "High",
+      "Description": "Internal collusion to bypass credit scoring for Chingola retail sector.",
+      "Timestamp": "2025-07-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "499f2a51-a277-42c9-bd41-f55e75b9faf7",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Critical",
+      "Description": "Internal collusion to bypass credit scoring for Chingola retail sector.",
+      "Timestamp": "2026-01-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d98d5a41-7b05-4376-aa80-913fdfa5bed8",
+      "EntityName": "Zesco",
+      "Severity": "Medium",
+      "Description": "Internal collusion to bypass credit scoring for Lusaka retail sector.",
+      "Timestamp": "2025-11-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7b79ad2d-a227-4220-b59e-fc1133acce8b",
+      "EntityName": "Gift Chanda",
+      "Severity": "Critical",
+      "Description": "Multiple loan applications using shared contact details in Ndola.",
+      "Timestamp": "2025-08-05T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8f410ef1-242c-446e-a0ce-a2a04b5cd773",
+      "EntityName": "Sarah Sinkala",
+      "Severity": "Medium",
+      "Description": "Suspected circular lending pattern between related entities in Solwezi.",
+      "Timestamp": "2025-04-11T00:00:00Z",
+      "Status": "New"
     }
   ],
   "RiskTrends": [

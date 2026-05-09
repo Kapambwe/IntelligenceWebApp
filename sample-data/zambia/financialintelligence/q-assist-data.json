@@ -1,0 +1,19 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "DashboardSuggestions": [
+    {
+      "Title": "High-Risk Entity Detected",
+      "Description": "Suspicious patterns found in recent transactions.",
+      "ActionUrl": "/entities",
+      "Type": 0
+    },
+    {
+      "Title": "Review Pending Cases",
+      "Description": "3 investigations require immediate attention.",
+      "ActionUrl": "/investigations",
+      "Type": 1
+    }
+  ],
+  "InvestigationSuggestions": {},
+  "EntitySuggestions": {}
+}

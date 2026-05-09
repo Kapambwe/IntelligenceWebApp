@@ -1,0 +1,16 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Events": [],
+  "Timelines": [
+    {
+      "Id": "b5f9f9f7-3576-4db8-a706-976c1912229f",
+      "Title": "Corruption Cycle Reconstruction",
+      "Description": "Visualizing the movement of tender funds through offshore intermediaries.",
+      "StartDate": "2026-03-10T11:15:15.757560Z",
+      "EndDate": "2026-05-09T11:15:15.757580Z",
+      "TotalEvents": 12,
+      "CreatedAt": "2026-05-08T11:15:15.757586Z",
+      "CreatedBy": "Analyst Zulu"
+    }
+  ]
+}

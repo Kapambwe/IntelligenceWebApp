@@ -1,0 +1,150 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "MonitoredEntities": [
+    {
+      "EntityId": "08cc0fd7-0400-4cb3-9c4a-6305c898288c",
+      "EntityName": "Natwange Traders",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 67,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.274990Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.275006Z",
+      "ActiveAlerts": 1,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "6d45db27-7a76-42bf-b137-9ff4a4ffee83",
+      "EntityName": "Kafue Logistics",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 26,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.275029Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.275034Z",
+      "ActiveAlerts": 0,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "80de57b3-022b-4fe1-a02a-6440d8a41fad",
+      "EntityName": "Zambia Sugar",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 23,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.275049Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.275053Z",
+      "ActiveAlerts": 2,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "0d780136-aaeb-4090-88b5-1e4d7f1ad6c3",
+      "EntityName": "Mopani Mines",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 43,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.275066Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.275071Z",
+      "ActiveAlerts": 0,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "ae355064-d64c-4a5f-b255-b8c1ced64567",
+      "EntityName": "Zesco",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 77,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.275083Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.275087Z",
+      "ActiveAlerts": 1,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "ee230b3e-5efe-4beb-96ca-548c85a27586",
+      "EntityName": "Mukwa Engineering",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 18,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.275099Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.275102Z",
+      "ActiveAlerts": 0,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "a913ea87-1b20-4595-a751-22805674bfa9",
+      "EntityName": "Victoria Falls Power",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 43,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.275114Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.275118Z",
+      "ActiveAlerts": 0,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "38b2ad8c-c64a-43ff-91af-6680b426d0bc",
+      "EntityName": "Mopani Mines",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 11,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.275131Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.275135Z",
+      "ActiveAlerts": 1,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    }
+  ],
+  "ChangeEvents": {}
+}

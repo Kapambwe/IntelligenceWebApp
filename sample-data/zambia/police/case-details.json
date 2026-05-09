@@ -1,0 +1,393 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "CaseEntities": {
+    "e166a002-3967-4a7d-a2cb-120cf592980d": [
+      {
+        "Id": "8c767fc5-a7f0-48b4-ba90-cb79cf157b7a",
+        "EntityId": "6269c99d-933e-43ff-809a-dd519458d0f1",
+        "EntityName": "Subject Alpha",
+        "EntityType": "organization",
+        "Role": "Primary Subject",
+        "RiskScore": 85,
+        "Status": "Under Review",
+        "LinkedDate": "2025-11-25T10:00:00Z",
+        "LinkedBy": "System"
+      },
+      {
+        "Id": "1fae5f28-72e1-4543-a799-5ca18e0f18dd",
+        "EntityId": "d11d487f-42c8-43bc-804b-580f30187d43",
+        "EntityName": "Associate Beta",
+        "EntityType": "individual",
+        "Role": "Beneficial Owner",
+        "RiskScore": 45,
+        "Status": "Active",
+        "LinkedDate": "2025-11-26T14:30:00Z",
+        "LinkedBy": "John Smith"
+      }
+    ],
+    "d9040f7f-6e2c-486f-a6fb-5c0cdd62088e": [
+      {
+        "Id": "e59d129a-a9bd-4bce-acea-b43f2cad6cb9",
+        "EntityId": "09ed0c53-4901-4c05-8bed-20135424a6f5",
+        "EntityName": "Subject Alpha",
+        "EntityType": "organization",
+        "Role": "Primary Subject",
+        "RiskScore": 85,
+        "Status": "Under Review",
+        "LinkedDate": "2025-11-25T10:00:00Z",
+        "LinkedBy": "System"
+      },
+      {
+        "Id": "e5b1c0af-4630-4de2-b968-abf88ed52cc4",
+        "EntityId": "2c686f1f-7452-4f59-95dd-fe88f90bd3f3",
+        "EntityName": "Associate Beta",
+        "EntityType": "individual",
+        "Role": "Beneficial Owner",
+        "RiskScore": 45,
+        "Status": "Active",
+        "LinkedDate": "2025-11-26T14:30:00Z",
+        "LinkedBy": "John Smith"
+      }
+    ],
+    "c8d2c767-e6d5-4b34-8594-be3d61b13094": [
+      {
+        "Id": "0bdb6b1a-ba4f-46a4-9a37-9c12641d7ca3",
+        "EntityId": "ca1d9bef-db4a-4163-8056-476a19224b47",
+        "EntityName": "Subject Alpha",
+        "EntityType": "organization",
+        "Role": "Primary Subject",
+        "RiskScore": 85,
+        "Status": "Under Review",
+        "LinkedDate": "2025-11-25T10:00:00Z",
+        "LinkedBy": "System"
+      },
+      {
+        "Id": "3224e0fd-f35a-44a9-969d-1ce71ec2a7ee",
+        "EntityId": "cf2dff26-e3e7-4512-b8c7-9c5c77ccc245",
+        "EntityName": "Associate Beta",
+        "EntityType": "individual",
+        "Role": "Beneficial Owner",
+        "RiskScore": 45,
+        "Status": "Active",
+        "LinkedDate": "2025-11-26T14:30:00Z",
+        "LinkedBy": "John Smith"
+      }
+    ],
+    "19d54922-27e7-418d-9b3c-4e99ae1d019f": [
+      {
+        "Id": "029b568d-16c8-4f39-ad73-c0540f286971",
+        "EntityId": "ffc387e8-3288-46cb-9757-00897b726678",
+        "EntityName": "Subject Alpha",
+        "EntityType": "organization",
+        "Role": "Primary Subject",
+        "RiskScore": 85,
+        "Status": "Under Review",
+        "LinkedDate": "2025-11-25T10:00:00Z",
+        "LinkedBy": "System"
+      },
+      {
+        "Id": "c56a99fa-9e6a-485f-81d1-2a63f04dc101",
+        "EntityId": "559f6f87-c709-48c7-8151-84e81c5df3a5",
+        "EntityName": "Associate Beta",
+        "EntityType": "individual",
+        "Role": "Beneficial Owner",
+        "RiskScore": 45,
+        "Status": "Active",
+        "LinkedDate": "2025-11-26T14:30:00Z",
+        "LinkedBy": "John Smith"
+      }
+    ],
+    "a06bf90e-3585-4c7c-bb73-3a5f57c52c30": [
+      {
+        "Id": "67f78a3a-67b6-44fb-bd7b-6c91fe5c7602",
+        "EntityId": "538b2322-6852-46fc-a69d-267d83e225cd",
+        "EntityName": "Subject Alpha",
+        "EntityType": "organization",
+        "Role": "Primary Subject",
+        "RiskScore": 85,
+        "Status": "Under Review",
+        "LinkedDate": "2025-11-25T10:00:00Z",
+        "LinkedBy": "System"
+      },
+      {
+        "Id": "0002d8f4-ecd7-4f06-85c7-83800a86af0d",
+        "EntityId": "00bdba76-b82a-4f60-a799-a5e5bae2f8c4",
+        "EntityName": "Associate Beta",
+        "EntityType": "individual",
+        "Role": "Beneficial Owner",
+        "RiskScore": 45,
+        "Status": "Active",
+        "LinkedDate": "2025-11-26T14:30:00Z",
+        "LinkedBy": "John Smith"
+      }
+    ]
+  },
+  "CaseEvidence": {
+    "e166a002-3967-4a7d-a2cb-120cf592980d": [
+      {
+        "Id": "74f1f4cd-9e6b-4269-be2c-b49f99ad94e7",
+        "Title": "Bank Statement - Dec 2025",
+        "Type": "document",
+        "FilePath": "/evidence/bank_dec.pdf",
+        "AddedBy": "Mary Zulu",
+        "AddedAt": "2025-12-05T09:15:00Z"
+      },
+      {
+        "Id": "297c9442-1945-45f6-9721-9b7dbe9f4d2f",
+        "Title": "Communication Log",
+        "Type": "document",
+        "FilePath": "/evidence/comms.pdf",
+        "AddedBy": "John Smith",
+        "AddedAt": "2025-12-06T16:45:00Z"
+      }
+    ],
+    "d9040f7f-6e2c-486f-a6fb-5c0cdd62088e": [
+      {
+        "Id": "6034475f-623a-4206-bb5f-cf5677312eeb",
+        "Title": "Bank Statement - Dec 2025",
+        "Type": "document",
+        "FilePath": "/evidence/bank_dec.pdf",
+        "AddedBy": "Mary Zulu",
+        "AddedAt": "2025-12-05T09:15:00Z"
+      },
+      {
+        "Id": "a3f974d2-ccfb-4550-886b-08e7b7a9b54f",
+        "Title": "Communication Log",
+        "Type": "document",
+        "FilePath": "/evidence/comms.pdf",
+        "AddedBy": "John Smith",
+        "AddedAt": "2025-12-06T16:45:00Z"
+      }
+    ],
+    "c8d2c767-e6d5-4b34-8594-be3d61b13094": [
+      {
+        "Id": "08294035-53f3-4547-b692-b1392a95aa40",
+        "Title": "Bank Statement - Dec 2025",
+        "Type": "document",
+        "FilePath": "/evidence/bank_dec.pdf",
+        "AddedBy": "Mary Zulu",
+        "AddedAt": "2025-12-05T09:15:00Z"
+      },
+      {
+        "Id": "e617e550-92a8-4dbb-8fc9-98ca98676687",
+        "Title": "Communication Log",
+        "Type": "document",
+        "FilePath": "/evidence/comms.pdf",
+        "AddedBy": "John Smith",
+        "AddedAt": "2025-12-06T16:45:00Z"
+      }
+    ],
+    "19d54922-27e7-418d-9b3c-4e99ae1d019f": [
+      {
+        "Id": "25a9a2f7-55f0-4ac8-a4b2-26c5e95ff728",
+        "Title": "Bank Statement - Dec 2025",
+        "Type": "document",
+        "FilePath": "/evidence/bank_dec.pdf",
+        "AddedBy": "Mary Zulu",
+        "AddedAt": "2025-12-05T09:15:00Z"
+      },
+      {
+        "Id": "797af8dc-e28c-4406-a23b-0a9496d8484a",
+        "Title": "Communication Log",
+        "Type": "document",
+        "FilePath": "/evidence/comms.pdf",
+        "AddedBy": "John Smith",
+        "AddedAt": "2025-12-06T16:45:00Z"
+      }
+    ],
+    "a06bf90e-3585-4c7c-bb73-3a5f57c52c30": [
+      {
+        "Id": "affd999b-da37-48f7-a033-2c216430a6b3",
+        "Title": "Bank Statement - Dec 2025",
+        "Type": "document",
+        "FilePath": "/evidence/bank_dec.pdf",
+        "AddedBy": "Mary Zulu",
+        "AddedAt": "2025-12-05T09:15:00Z"
+      },
+      {
+        "Id": "305a348f-660e-446d-8b78-8c70638bd03d",
+        "Title": "Communication Log",
+        "Type": "document",
+        "FilePath": "/evidence/comms.pdf",
+        "AddedBy": "John Smith",
+        "AddedAt": "2025-12-06T16:45:00Z"
+      }
+    ]
+  },
+  "CaseActivities": {
+    "e166a002-3967-4a7d-a2cb-120cf592980d": [
+      {
+        "Id": "97c19e6a-dc1a-4609-9555-a508b4f0d69b",
+        "Description": "Added primary subject",
+        "PerformedBy": "System",
+        "PerformedAt": "2025-11-25T10:05:00Z"
+      },
+      {
+        "Id": "8836b43d-522f-493e-9d27-705e01792c2f",
+        "Description": "Uploaded bank evidence",
+        "PerformedBy": "Mary Zulu",
+        "PerformedAt": "2025-12-05T09:20:00Z"
+      }
+    ],
+    "d9040f7f-6e2c-486f-a6fb-5c0cdd62088e": [
+      {
+        "Id": "3a3ef63a-2adf-4890-b0d9-7067eb417aac",
+        "Description": "Added primary subject",
+        "PerformedBy": "System",
+        "PerformedAt": "2025-11-25T10:05:00Z"
+      },
+      {
+        "Id": "4d4c6479-52bc-4223-bb73-5a0fd43115a7",
+        "Description": "Uploaded bank evidence",
+        "PerformedBy": "Mary Zulu",
+        "PerformedAt": "2025-12-05T09:20:00Z"
+      }
+    ],
+    "c8d2c767-e6d5-4b34-8594-be3d61b13094": [
+      {
+        "Id": "143f87a5-7304-4182-a9db-3a068657b8f3",
+        "Description": "Added primary subject",
+        "PerformedBy": "System",
+        "PerformedAt": "2025-11-25T10:05:00Z"
+      },
+      {
+        "Id": "11b787a9-3866-4ffe-9d91-56d738b2303d",
+        "Description": "Uploaded bank evidence",
+        "PerformedBy": "Mary Zulu",
+        "PerformedAt": "2025-12-05T09:20:00Z"
+      }
+    ],
+    "19d54922-27e7-418d-9b3c-4e99ae1d019f": [
+      {
+        "Id": "15bd6c21-df62-424b-8a9d-c365527f1178",
+        "Description": "Added primary subject",
+        "PerformedBy": "System",
+        "PerformedAt": "2025-11-25T10:05:00Z"
+      },
+      {
+        "Id": "03ebb066-6bfc-495c-8457-e41ff90e22cd",
+        "Description": "Uploaded bank evidence",
+        "PerformedBy": "Mary Zulu",
+        "PerformedAt": "2025-12-05T09:20:00Z"
+      }
+    ],
+    "a06bf90e-3585-4c7c-bb73-3a5f57c52c30": [
+      {
+        "Id": "e80e10b1-2925-430d-aacc-fa3830c17b8e",
+        "Description": "Added primary subject",
+        "PerformedBy": "System",
+        "PerformedAt": "2025-11-25T10:05:00Z"
+      },
+      {
+        "Id": "1fe8d15a-c858-4c9b-aee5-af16f0871369",
+        "Description": "Uploaded bank evidence",
+        "PerformedBy": "Mary Zulu",
+        "PerformedAt": "2025-12-05T09:20:00Z"
+      }
+    ]
+  },
+  "CaseNotes": {
+    "e166a002-3967-4a7d-a2cb-120cf592980d": [
+      {
+        "Id": "1c6be716-e797-4a9e-b0cc-42c08bc91254",
+        "Content": "Initial review complete. High confidence in fraud indicators.",
+        "Category": "Investigation",
+        "CreatedBy": "John Smith",
+        "CreatedAt": "2025-12-10T11:00:00Z",
+        "IsPinned": true
+      }
+    ],
+    "d9040f7f-6e2c-486f-a6fb-5c0cdd62088e": [
+      {
+        "Id": "3adc78e3-6eb2-45b2-ab49-6c30165fe9bf",
+        "Content": "Initial review complete. High confidence in fraud indicators.",
+        "Category": "Investigation",
+        "CreatedBy": "John Smith",
+        "CreatedAt": "2025-12-10T11:00:00Z",
+        "IsPinned": true
+      }
+    ],
+    "c8d2c767-e6d5-4b34-8594-be3d61b13094": [
+      {
+        "Id": "a236b570-5ee1-434b-9b7f-498de381550b",
+        "Content": "Initial review complete. High confidence in fraud indicators.",
+        "Category": "Investigation",
+        "CreatedBy": "John Smith",
+        "CreatedAt": "2025-12-10T11:00:00Z",
+        "IsPinned": true
+      }
+    ],
+    "19d54922-27e7-418d-9b3c-4e99ae1d019f": [
+      {
+        "Id": "cb893320-08e5-4af3-810c-67d7b7c6ab12",
+        "Content": "Initial review complete. High confidence in fraud indicators.",
+        "Category": "Investigation",
+        "CreatedBy": "John Smith",
+        "CreatedAt": "2025-12-10T11:00:00Z",
+        "IsPinned": true
+      }
+    ],
+    "a06bf90e-3585-4c7c-bb73-3a5f57c52c30": [
+      {
+        "Id": "351918c4-30ae-4147-bf2b-c5012129a96e",
+        "Content": "Initial review complete. High confidence in fraud indicators.",
+        "Category": "Investigation",
+        "CreatedBy": "John Smith",
+        "CreatedAt": "2025-12-10T11:00:00Z",
+        "IsPinned": true
+      }
+    ]
+  },
+  "CaseTimelines": {
+    "e166a002-3967-4a7d-a2cb-120cf592980d": [
+      {
+        "Id": "8b7b6f88-6270-41d6-b1ba-efb98870dd95",
+        "Content": "Investigation Started",
+        "Description": "Case opened and assigned.",
+        "Start": "2025-11-20T17:30:30Z",
+        "Type": "milestone",
+        "Group": "management"
+      }
+    ],
+    "d9040f7f-6e2c-486f-a6fb-5c0cdd62088e": [
+      {
+        "Id": "828c119a-03d1-4cee-a646-f74615cd1876",
+        "Content": "Investigation Started",
+        "Description": "Case opened and assigned.",
+        "Start": "2025-11-20T17:30:30Z",
+        "Type": "milestone",
+        "Group": "management"
+      }
+    ],
+    "c8d2c767-e6d5-4b34-8594-be3d61b13094": [
+      {
+        "Id": "dcec2511-5e1d-45d8-81ce-ff4f1e86ba24",
+        "Content": "Investigation Started",
+        "Description": "Case opened and assigned.",
+        "Start": "2025-11-20T17:30:30Z",
+        "Type": "milestone",
+        "Group": "management"
+      }
+    ],
+    "19d54922-27e7-418d-9b3c-4e99ae1d019f": [
+      {
+        "Id": "dc22da04-b5b3-4fb3-8c82-418e294f126d",
+        "Content": "Investigation Started",
+        "Description": "Case opened and assigned.",
+        "Start": "2025-11-20T17:30:30Z",
+        "Type": "milestone",
+        "Group": "management"
+      }
+    ],
+    "a06bf90e-3585-4c7c-bb73-3a5f57c52c30": [
+      {
+        "Id": "d74603b6-45ac-4c3a-82e5-7caf700762c7",
+        "Content": "Investigation Started",
+        "Description": "Case opened and assigned.",
+        "Start": "2025-11-20T17:30:30Z",
+        "Type": "milestone",
+        "Group": "management"
+      }
+    ]
+  }
+}

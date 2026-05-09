@@ -450,6 +450,141 @@
       "RiskScore": 57,
       "CreatedAt": "2025-03-15T17:30:30Z",
       "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "ec9f121d-c583-4157-b7c0-1175da02a5fd",
+      "Name": "Mary Kabaso",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 86.0,
+      "CreatedAt": "2025-12-17T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "d9a76697-436b-4423-bb61-aeb0c6d1d22c",
+      "Name": "Mukwa Engineering",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 54.0,
+      "CreatedAt": "2025-07-25T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "ce7ab4bb-afaa-42d9-a8ee-711e534cf8d7",
+      "Name": "Victoria Falls Power",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 97.0,
+      "CreatedAt": "2026-03-04T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "ef3bf896-8193-4909-86b8-bb96f55d9e97",
+      "Name": "Mukwa Engineering",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 46.0,
+      "CreatedAt": "2026-03-07T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "89c1196e-83f1-43ab-a835-4029e54bc088",
+      "Name": "John Silavwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 46.0,
+      "CreatedAt": "2025-05-05T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "6561dcf0-b58f-43f5-8d8d-6c8ba11fc2d5",
+      "Name": "Apex Road Contractors",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 82.0,
+      "CreatedAt": "2025-08-14T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "db6db519-5d2e-407b-aedc-55a4d72334a8",
+      "Name": "Mopani Mines",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 78.0,
+      "CreatedAt": "2026-02-20T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "b218ad52-4427-4d89-ba25-0da980abdcdb",
+      "Name": "Webby Chanda",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 40.0,
+      "CreatedAt": "2025-10-10T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "1d9126b3-9a5d-48a3-a268-a2fe3750a78b",
+      "Name": "Savanna Insurance",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 78.0,
+      "CreatedAt": "2025-03-31T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "0ba7e32d-24f3-4a36-b37f-c93d50b6a268",
+      "Name": "Peter Zulu",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 87.0,
+      "CreatedAt": "2025-05-01T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "65b9e5c6-fe44-4257-a378-48214fdcafe1",
+      "Name": "Davies Kabaso",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 86.0,
+      "CreatedAt": "2025-04-28T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "16a95c52-741d-4a19-b2e3-642daa2fe7ff",
+      "Name": "Mopani Mines",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 56.0,
+      "CreatedAt": "2025-01-02T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "e4837264-a43d-4901-8658-e08309bee467",
+      "Name": "Martha Phiri",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 54.0,
+      "CreatedAt": "2025-05-07T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "6be8a570-eac1-41dd-bdfc-49d06773c9af",
+      "Name": "Davies Silavwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 86.0,
+      "CreatedAt": "2025-11-06T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "909f604e-c1d7-4b44-81d2-de2d35807125",
+      "Name": "John Sinkala",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 39.0,
+      "CreatedAt": "2025-10-30T00:00:00Z",
+      "Jurisdiction": "Zambia"
     }
   ],
   "Details": [

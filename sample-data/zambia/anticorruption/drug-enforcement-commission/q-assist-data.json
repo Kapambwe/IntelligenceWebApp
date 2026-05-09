@@ -1,0 +1,19 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "DashboardSuggestions": [
+    {
+      "Title": "Ghost Worker Pattern",
+      "Description": "Irregularities found in Ministry of Health payroll for Kitwe district.",
+      "ActionUrl": "/investigations",
+      "Type": 1
+    },
+    {
+      "Title": "Conflict of Interest",
+      "Description": "Permanent Secretary linked to recent tender award for Mukwa Engineering.",
+      "ActionUrl": "/entities",
+      "Type": 0
+    }
+  ],
+  "InvestigationSuggestions": {},
+  "EntitySuggestions": {}
+}

@@ -90,6 +90,141 @@
       "RiskScore": 12.0,
       "CreatedAt": "2025-03-01T08:00:00Z",
       "UpdatedAt": "2026-01-15T09:45:00Z"
+    },
+    {
+      "Id": "ff5b3a76-9b46-4938-b2b8-dcf348e2d357",
+      "Name": "Peter Sinkala",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 86.0,
+      "CreatedAt": "2025-10-19T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "742ecc7f-8203-4118-9cfd-2193795bf35a",
+      "Name": "Kelvin Banda",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 57.0,
+      "CreatedAt": "2026-03-02T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "7314459b-ccf0-4da9-a00c-2b771d966387",
+      "Name": "Kennedy Kasolo",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 58.0,
+      "CreatedAt": "2026-01-07T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "d6045909-4f10-49c3-ae39-18cbf7e3cd1e",
+      "Name": "Victoria Falls Power",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 74.0,
+      "CreatedAt": "2026-01-03T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "21e8a314-3715-40de-8df3-30879386bfb1",
+      "Name": "Lombe Mwamba",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 54.0,
+      "CreatedAt": "2025-07-26T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "1922dfee-08b1-4430-aa6d-61357e6a1781",
+      "Name": "Apex Road Contractors",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 38.0,
+      "CreatedAt": "2025-05-15T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "0337f893-17c5-437a-b487-c8f2e9cccced",
+      "Name": "Mainza Chanda",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 78.0,
+      "CreatedAt": "2025-10-25T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "370457bc-7b41-4e2e-9296-12e3a4feca46",
+      "Name": "Apex Road Contractors",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 98.0,
+      "CreatedAt": "2025-02-19T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "b4b8d6ac-bde6-468a-b358-99dcc1065541",
+      "Name": "Emmanuel Chanda",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 60.0,
+      "CreatedAt": "2025-10-20T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "ed075444-d432-48df-b5d2-8a55945a175a",
+      "Name": "Catherine Phiri",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49.0,
+      "CreatedAt": "2026-01-29T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "7971ff1e-611b-459d-b21f-c876afa5aceb",
+      "Name": "Lombe Kunda",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 63.0,
+      "CreatedAt": "2025-12-16T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "678e3c8e-c271-48cf-bdf8-ae1d654c1ac7",
+      "Name": "Peter Mulenga",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 22.0,
+      "CreatedAt": "2026-01-22T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "209cb9a2-5045-448a-833f-36838ab0064c",
+      "Name": "Blessing Kasolo",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 25.0,
+      "CreatedAt": "2025-11-11T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "3baf8c89-611f-4fd3-b4c8-c1ea54c855b3",
+      "Name": "Catherine Zulu",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 86.0,
+      "CreatedAt": "2026-02-17T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "9eee8efb-da6d-4de0-a7fb-1c4b0c2115ba",
+      "Name": "Grace Kasolo",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 50.0,
+      "CreatedAt": "2025-04-13T00:00:00Z",
+      "Jurisdiction": "Zambia"
     }
   ],
   "Details": [
@@ -114,11 +249,31 @@
         }
       ],
       "Attributes": [
-        { "Name": "Full Name", "Value": "Mwila Chanda", "IsCore": true },
-        { "Name": "Occupation", "Value": "Senior Investigative Reporter - ZNBC TV", "IsCore": true },
-        { "Name": "Email", "Value": "mwila.chanda@znbc.co.zm", "IsCore": true },
-        { "Name": "Press Card Number", "Value": "ZAMJA-TV-2019-0342", "IsCore": false },
-        { "Name": "Broadcast Specialty", "Value": "Undercover Camera Investigations", "IsCore": false }
+        {
+          "Name": "Full Name",
+          "Value": "Mwila Chanda",
+          "IsCore": true
+        },
+        {
+          "Name": "Occupation",
+          "Value": "Senior Investigative Reporter - ZNBC TV",
+          "IsCore": true
+        },
+        {
+          "Name": "Email",
+          "Value": "mwila.chanda@znbc.co.zm",
+          "IsCore": true
+        },
+        {
+          "Name": "Press Card Number",
+          "Value": "ZAMJA-TV-2019-0342",
+          "IsCore": false
+        },
+        {
+          "Name": "Broadcast Specialty",
+          "Value": "Undercover Camera Investigations",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -151,11 +306,31 @@
         }
       ],
       "Attributes": [
-        { "Name": "Full Name", "Value": "Natasha Mulenga", "IsCore": true },
-        { "Name": "Occupation", "Value": "Undercover Producer - Muvi TV", "IsCore": true },
-        { "Name": "Email", "Value": "natasha.mulenga@muvitv.co.zm", "IsCore": true },
-        { "Name": "Press Card Number", "Value": "ZAMJA-TV-2020-0518", "IsCore": false },
-        { "Name": "Broadcast Specialty", "Value": "Documentary Production & Undercover Operations", "IsCore": false }
+        {
+          "Name": "Full Name",
+          "Value": "Natasha Mulenga",
+          "IsCore": true
+        },
+        {
+          "Name": "Occupation",
+          "Value": "Undercover Producer - Muvi TV",
+          "IsCore": true
+        },
+        {
+          "Name": "Email",
+          "Value": "natasha.mulenga@muvitv.co.zm",
+          "IsCore": true
+        },
+        {
+          "Name": "Press Card Number",
+          "Value": "ZAMJA-TV-2020-0518",
+          "IsCore": false
+        },
+        {
+          "Name": "Broadcast Specialty",
+          "Value": "Documentary Production & Undercover Operations",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -198,10 +373,26 @@
         }
       ],
       "Attributes": [
-        { "Name": "Full Name", "Value": "Joseph Tembo", "IsCore": true },
-        { "Name": "Occupation", "Value": "Former Procurement Director - Zambia Electricity Supply Corporation", "IsCore": true },
-        { "Name": "National Registration Card", "Value": "142/67/1", "IsCore": true },
-        { "Name": "Investigation Reference", "Value": "DTV-INV-2025-0089", "IsCore": false }
+        {
+          "Name": "Full Name",
+          "Value": "Joseph Tembo",
+          "IsCore": true
+        },
+        {
+          "Name": "Occupation",
+          "Value": "Former Procurement Director - Zambia Electricity Supply Corporation",
+          "IsCore": true
+        },
+        {
+          "Name": "National Registration Card",
+          "Value": "142/67/1",
+          "IsCore": true
+        },
+        {
+          "Name": "Investigation Reference",
+          "Value": "DTV-INV-2025-0089",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -240,11 +431,31 @@
         }
       ],
       "Attributes": [
-        { "Name": "Full Name", "Value": "Grace Phiri", "IsCore": true },
-        { "Name": "Occupation", "Value": "Camera Operator & Visual Evidence Analyst - Prime Television", "IsCore": true },
-        { "Name": "Email", "Value": "grace.phiri@primetv.co.zm", "IsCore": true },
-        { "Name": "Press Card Number", "Value": "ZAMJA-TV-2021-0691", "IsCore": false },
-        { "Name": "Broadcast Specialty", "Value": "Forensic Video Analysis & Satellite Uplink Operations", "IsCore": false }
+        {
+          "Name": "Full Name",
+          "Value": "Grace Phiri",
+          "IsCore": true
+        },
+        {
+          "Name": "Occupation",
+          "Value": "Camera Operator & Visual Evidence Analyst - Prime Television",
+          "IsCore": true
+        },
+        {
+          "Name": "Email",
+          "Value": "grace.phiri@primetv.co.zm",
+          "IsCore": true
+        },
+        {
+          "Name": "Press Card Number",
+          "Value": "ZAMJA-TV-2021-0691",
+          "IsCore": false
+        },
+        {
+          "Name": "Broadcast Specialty",
+          "Value": "Forensic Video Analysis & Satellite Uplink Operations",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -281,10 +492,26 @@
         }
       ],
       "Attributes": [
-        { "Name": "Full Name", "Value": "Patrick Bwalya", "IsCore": true },
-        { "Name": "Occupation", "Value": "Managing Director - Copperbelt Mining Ventures Ltd", "IsCore": true },
-        { "Name": "National Registration Card", "Value": "289/43/1", "IsCore": true },
-        { "Name": "Investigation Reference", "Value": "ZNBC-INV-2025-0156", "IsCore": false }
+        {
+          "Name": "Full Name",
+          "Value": "Patrick Bwalya",
+          "IsCore": true
+        },
+        {
+          "Name": "Occupation",
+          "Value": "Managing Director - Copperbelt Mining Ventures Ltd",
+          "IsCore": true
+        },
+        {
+          "Name": "National Registration Card",
+          "Value": "289/43/1",
+          "IsCore": true
+        },
+        {
+          "Name": "Investigation Reference",
+          "Value": "ZNBC-INV-2025-0156",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -323,10 +550,26 @@
         }
       ],
       "Attributes": [
-        { "Name": "Organization Name", "Value": "Zambia Television Journalists Association", "IsCore": true },
-        { "Name": "Registration Number", "Value": "NGO/ZM/2018/4421", "IsCore": true },
-        { "Name": "Address", "Value": "Mass Media Complex, Alick Nkhata Road, Lusaka", "IsCore": true },
-        { "Name": "Primary Activity", "Value": "Press Freedom Advocacy & Investigative Journalism Training", "IsCore": false }
+        {
+          "Name": "Organization Name",
+          "Value": "Zambia Television Journalists Association",
+          "IsCore": true
+        },
+        {
+          "Name": "Registration Number",
+          "Value": "NGO/ZM/2018/4421",
+          "IsCore": true
+        },
+        {
+          "Name": "Address",
+          "Value": "Mass Media Complex, Alick Nkhata Road, Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "Press Freedom Advocacy & Investigative Journalism Training",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -358,10 +601,26 @@
         }
       ],
       "Attributes": [
-        { "Name": "Organization Name", "Value": "Lusaka Broadcasting Holdings Ltd", "IsCore": true },
-        { "Name": "PACRA Registration", "Value": "LBH/2019/00873", "IsCore": true },
-        { "Name": "Address", "Value": "Plot 4523 Addis Ababa Drive, Lusaka", "IsCore": true },
-        { "Name": "Sector", "Value": "Television Broadcasting & Media Production", "IsCore": false }
+        {
+          "Name": "Organization Name",
+          "Value": "Lusaka Broadcasting Holdings Ltd",
+          "IsCore": true
+        },
+        {
+          "Name": "PACRA Registration",
+          "Value": "LBH/2019/00873",
+          "IsCore": true
+        },
+        {
+          "Name": "Address",
+          "Value": "Plot 4523 Addis Ababa Drive, Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Sector",
+          "Value": "Television Broadcasting & Media Production",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -394,11 +653,31 @@
         }
       ],
       "Attributes": [
-        { "Name": "Full Name", "Value": "Chilufya Mumba", "IsCore": true },
-        { "Name": "Occupation", "Value": "Studio Production Manager - KNC TV", "IsCore": true },
-        { "Name": "Email", "Value": "chilufya.mumba@knctv.co.zm", "IsCore": true },
-        { "Name": "Press Card Number", "Value": "ZAMJA-TV-2022-0815", "IsCore": false },
-        { "Name": "Broadcast Specialty", "Value": "Studio Production & Post-Production Editing", "IsCore": false }
+        {
+          "Name": "Full Name",
+          "Value": "Chilufya Mumba",
+          "IsCore": true
+        },
+        {
+          "Name": "Occupation",
+          "Value": "Studio Production Manager - KNC TV",
+          "IsCore": true
+        },
+        {
+          "Name": "Email",
+          "Value": "chilufya.mumba@knctv.co.zm",
+          "IsCore": true
+        },
+        {
+          "Name": "Press Card Number",
+          "Value": "ZAMJA-TV-2022-0815",
+          "IsCore": false
+        },
+        {
+          "Name": "Broadcast Specialty",
+          "Value": "Studio Production & Post-Production Editing",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -419,10 +698,26 @@
       "UpdatedAt": "2025-11-30T12:00:00Z",
       "RiskFactors": [],
       "Attributes": [
-        { "Name": "Full Name", "Value": "Martin Sakala", "IsCore": true },
-        { "Name": "Occupation", "Value": "Satellite Uplink Engineer - Chipata TV", "IsCore": true },
-        { "Name": "Email", "Value": "martin.sakala@chipatatv.co.zm", "IsCore": true },
-        { "Name": "Technical Certification", "Value": "VSAT-ZM-2023-0044", "IsCore": false }
+        {
+          "Name": "Full Name",
+          "Value": "Martin Sakala",
+          "IsCore": true
+        },
+        {
+          "Name": "Occupation",
+          "Value": "Satellite Uplink Engineer - Chipata TV",
+          "IsCore": true
+        },
+        {
+          "Name": "Email",
+          "Value": "martin.sakala@chipatatv.co.zm",
+          "IsCore": true
+        },
+        {
+          "Name": "Technical Certification",
+          "Value": "VSAT-ZM-2023-0044",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -455,10 +750,26 @@
         }
       ],
       "Attributes": [
-        { "Name": "Organization Name", "Value": "Media Legal Defence Zambia", "IsCore": true },
-        { "Name": "Registration Number", "Value": "NGO/ZM/2016/3198", "IsCore": true },
-        { "Name": "Address", "Value": "Stand 2376 Nationalist Road, Lusaka", "IsCore": true },
-        { "Name": "Primary Activity", "Value": "Legal Defense for Broadcast Journalists & Visual Evidence Admissibility", "IsCore": false }
+        {
+          "Name": "Organization Name",
+          "Value": "Media Legal Defence Zambia",
+          "IsCore": true
+        },
+        {
+          "Name": "Registration Number",
+          "Value": "NGO/ZM/2016/3198",
+          "IsCore": true
+        },
+        {
+          "Name": "Address",
+          "Value": "Stand 2376 Nationalist Road, Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "Legal Defense for Broadcast Journalists & Visual Evidence Admissibility",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {

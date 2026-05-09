@@ -1,0 +1,75 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Analyses": [
+    {
+      "Id": "ab1338bd-b8c1-40b9-8857-5f27d7d87938",
+      "EntityId": "5ace31f1-34cf-4b07-b069-a0c5173ad973",
+      "EntityName": "Zambezi General Dealers",
+      "ShellCompanyScore": 88.5,
+      "RiskLevel": "High",
+      "DetectedIndicators": [
+        0,
+        2,
+        4
+      ],
+      "CreatedAt": "2026-05-04T11:15:15.773143Z",
+      "UpdatedAt": "2026-05-08T11:15:15.773189Z"
+    },
+    {
+      "Id": "6312c8bf-1fea-4543-b5fc-85477bd3ac03",
+      "EntityId": "264b8bf9-9ce8-4a90-a79b-1ae7768ff06a",
+      "EntityName": "Zambezi General Dealers",
+      "ShellCompanyScore": 88.5,
+      "RiskLevel": "High",
+      "DetectedIndicators": [
+        0,
+        2,
+        4
+      ],
+      "CreatedAt": "2026-05-04T11:15:15.773217Z",
+      "UpdatedAt": "2026-05-08T11:15:15.773223Z"
+    },
+    {
+      "Id": "31b95b91-2982-4360-81da-2e03f7cd9e53",
+      "EntityId": "eeda98b4-48b7-46a3-9a7f-e0662e03f0d4",
+      "EntityName": "Zambezi General Dealers",
+      "ShellCompanyScore": 88.5,
+      "RiskLevel": "High",
+      "DetectedIndicators": [
+        0,
+        2,
+        4
+      ],
+      "CreatedAt": "2026-05-04T11:15:15.773238Z",
+      "UpdatedAt": "2026-05-08T11:15:15.773243Z"
+    },
+    {
+      "Id": "4f0834bc-4736-41c1-adc9-5a66ba1b6ba0",
+      "EntityId": "ec59e8ec-bdfe-4413-995a-930eba233b9d",
+      "EntityName": "Apex Road Contractors",
+      "ShellCompanyScore": 88.5,
+      "RiskLevel": "High",
+      "DetectedIndicators": [
+        0,
+        2,
+        4
+      ],
+      "CreatedAt": "2026-05-04T11:15:15.773261Z",
+      "UpdatedAt": "2026-05-08T11:15:15.773265Z"
+    },
+    {
+      "Id": "7ec486ba-9e71-456b-9d66-024f55d6efbc",
+      "EntityId": "e40ffcee-d4cb-4af3-8608-5983c4d2da30",
+      "EntityName": "Apex Road Contractors",
+      "ShellCompanyScore": 88.5,
+      "RiskLevel": "High",
+      "DetectedIndicators": [
+        0,
+        2,
+        4
+      ],
+      "CreatedAt": "2026-05-04T11:15:15.773280Z",
+      "UpdatedAt": "2026-05-08T11:15:15.773284Z"
+    }
+  ]
+}

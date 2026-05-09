@@ -1,0 +1,109 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Markers": [
+    {
+      "Id": "9d4e3960-2f69-49dc-801a-b32c51254c26",
+      "Name": "Bribe Collection Point",
+      "Description": "Surveillance of suspected kickback handovers.",
+      "Latitude": -15.41054654288275,
+      "Longitude": 28.292044312849114,
+      "Location": "Lusaka, Zambia",
+      "MarkerType": "incident",
+      "MarkerColor": "#ef4444",
+      "RiskLevel": 95,
+      "EntityType": "Investigation",
+      "EventDate": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "11ba99e1-d08d-4ec3-8684-97afbae2c0bf",
+      "Name": "Land Allocation Zone",
+      "Description": "High risk of illegal property distribution.",
+      "Latitude": -17.85168492929527,
+      "Longitude": 25.84915924814323,
+      "Location": "Livingstone, Zambia",
+      "MarkerType": "hotspot",
+      "MarkerColor": "#f59e0b",
+      "RiskLevel": 70,
+      "EntityType": "Investigation",
+      "EventDate": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "7bffe153-519c-441a-aaa2-6ba7a7d9d8fc",
+      "Name": "Government District",
+      "Description": "Core administrative zone monitoring.",
+      "Latitude": -15.434492496363996,
+      "Longitude": 28.282988656191872,
+      "Location": "Lusaka, Zambia",
+      "MarkerType": "territory",
+      "MarkerColor": "#8b5cf6",
+      "RiskLevel": 30,
+      "EntityType": "Investigation",
+      "EventDate": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "929751e8-8d66-4f85-8337-f00ad8f03c2f",
+      "Name": "Public Official Residence",
+      "Description": "Subject of unexplained wealth probe.",
+      "Latitude": -12.836753384187507,
+      "Longitude": 28.210407145607665,
+      "Location": "Kitwe, Zambia",
+      "MarkerType": "person",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 82,
+      "EntityType": "Investigation",
+      "EventDate": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "7c79ebbd-d353-4857-83a4-8f0169a3fb40",
+      "Name": "Contractor HQ",
+      "Description": "Mukwa Engineering - investigation active.",
+      "Latitude": -12.98227654577162,
+      "Longitude": 28.618010935694098,
+      "Location": "Ndola, Zambia",
+      "MarkerType": "organization",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 60,
+      "EntityType": "Investigation",
+      "EventDate": "2026-01-10T17:30:30Z"
+    }
+  ],
+  "Routes": [],
+  "Heatmaps": {
+    "activity": {
+      "Title": "Operational Activity",
+      "Description": "Density of recent incidents and surveillance hits.",
+      "Points": [
+        {
+          "Latitude": -15.41054654288275,
+          "Longitude": 28.292044312849114,
+          "Intensity": 0.95,
+          "Count": 1
+        },
+        {
+          "Latitude": -17.85168492929527,
+          "Longitude": 25.84915924814323,
+          "Intensity": 0.7,
+          "Count": 1
+        },
+        {
+          "Latitude": -15.434492496363996,
+          "Longitude": 28.282988656191872,
+          "Intensity": 0.3,
+          "Count": 1
+        },
+        {
+          "Latitude": -12.836753384187507,
+          "Longitude": 28.210407145607665,
+          "Intensity": 0.82,
+          "Count": 1
+        },
+        {
+          "Latitude": -12.98227654577162,
+          "Longitude": 28.618010935694098,
+          "Intensity": 0.6,
+          "Count": 1
+        }
+      ]
+    }
+  }
+}

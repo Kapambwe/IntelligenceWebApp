@@ -800,6 +800,126 @@
       "TransactionId": "TX-TRF-20223107",
       "DetectedAt": "2025-12-16T17:30:31Z",
       "AlertType": "HighValue"
+    },
+    {
+      "Id": "d574aaa6-1aa9-4691-b381-ab37a1dd0ec8",
+      "EntityName": "Zesco",
+      "Severity": "Critical",
+      "Description": "SIM-swap syndicate detected operating in Nakonde.",
+      "Timestamp": "2025-01-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e4f23b9e-f198-43d1-9d57-9edfa6206f58",
+      "EntityName": "Zamtel",
+      "Severity": "Critical",
+      "Description": "Unusual signal jamming patterns near Luanshya financial district.",
+      "Timestamp": "2025-01-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c43423bd-82bd-41af-b9e6-ef23604d527e",
+      "EntityName": "Zamtel",
+      "Severity": "Critical",
+      "Description": "Fraudulent bulk registration of SIM cards using fake NRC IDs.",
+      "Timestamp": "2025-12-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "5368573b-9a31-4d2a-a09f-4c4d7f99c8dc",
+      "EntityName": "Mainza Kasolo",
+      "Severity": "Critical",
+      "Description": "Unusual signal jamming patterns near Luanshya financial district.",
+      "Timestamp": "2025-05-16T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d5865395-c26c-4b6d-a004-9a039686deb9",
+      "EntityName": "Zesco",
+      "Severity": "High",
+      "Description": "SIM-swap syndicate detected operating in Ndola.",
+      "Timestamp": "2025-04-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c976d491-9052-442b-b394-22a316676b42",
+      "EntityName": "Gift Mwanawasa",
+      "Severity": "Medium",
+      "Description": "Unusual signal jamming patterns near Kasumbalesa financial district.",
+      "Timestamp": "2025-10-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "025cb4d0-4999-436a-8f87-6db3673fa852",
+      "EntityName": "John Bwalya",
+      "Severity": "Critical",
+      "Description": "High-volume unauthorized data access from internal Mongu service account.",
+      "Timestamp": "2026-05-05T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a8888c2f-a50d-44ac-9405-04e4980afb55",
+      "EntityName": "Zamtel",
+      "Severity": "Critical",
+      "Description": "Fraudulent bulk registration of SIM cards using fake NRC IDs.",
+      "Timestamp": "2026-03-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2a1efc21-19bc-4271-b3ea-e4ee280f1f7e",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Medium",
+      "Description": "Tower battery and fuel theft reported at Luanshya base station.",
+      "Timestamp": "2025-11-25T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "75d20275-1561-445e-9f26-5b07cf67e0b7",
+      "EntityName": "Levy Sata",
+      "Severity": "High",
+      "Description": "SIM-swap syndicate detected operating in Kabwe.",
+      "Timestamp": "2026-01-16T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "96716765-876b-4b61-9480-7f76909982f8",
+      "EntityName": "Gift Kasolo",
+      "Severity": "Medium",
+      "Description": "Tower battery and fuel theft reported at Solwezi base station.",
+      "Timestamp": "2025-01-01T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e2b31597-da9a-4fbe-a2d5-b9158c01af83",
+      "EntityName": "Levy Chisenga",
+      "Severity": "Medium",
+      "Description": "SIM-swap syndicate detected operating in Mansa.",
+      "Timestamp": "2026-02-01T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "63bb94af-5f55-4ca3-a9b3-854b1b2b2943",
+      "EntityName": "Gift Kasolo",
+      "Severity": "Critical",
+      "Description": "Tower battery and fuel theft reported at Chirundu base station.",
+      "Timestamp": "2025-09-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1890a900-d9af-46d9-b146-71185bf83b1b",
+      "EntityName": "Joseph Zulu",
+      "Severity": "High",
+      "Description": "High-volume unauthorized data access from internal Nakonde service account.",
+      "Timestamp": "2025-03-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a8a22a3e-082d-46f1-8037-80b1f85fe054",
+      "EntityName": "Sarah Kapwepwe",
+      "Severity": "Medium",
+      "Description": "SIM-swap syndicate detected operating in Kitwe.",
+      "Timestamp": "2025-03-10T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Rules": [

@@ -1,0 +1,3850 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "016902b1-1e1a-1f34-154d-008cd3436f53",
+      "Name": "Crime syndicates - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 60,
+      "CreatedAt": "2025-09-13T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "05175baa-102c-2493-1cba-0056e4a008d4",
+      "Name": "Crime syndicates - border posts",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 41,
+      "CreatedAt": "2025-02-25T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "01d94225-1664-096d-0a8b-0031f2d3c254",
+      "Name": "Crime syndicates - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 64,
+      "CreatedAt": "2024-12-14T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z"
+    },
+    {
+      "Id": "035737a3-231d-0b07-097c-00b7f275d3ec",
+      "Name": "Criminal networks - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 54,
+      "CreatedAt": "2025-10-11T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "00b538e2-225c-2538-1bd2-00e5ad3af1d5",
+      "Name": "Suspects - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 42,
+      "CreatedAt": "2025-01-04T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "02e7098b-201d-1f67-1413-00631f3466e7",
+      "Name": "Crime syndicates - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 87,
+      "CreatedAt": "2023-11-29T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "033f56d7-0bcd-2209-15e3-007897886816",
+      "Name": "Criminal networks - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 86,
+      "CreatedAt": "2025-08-13T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "04f350e3-0ba5-0972-1662-0093083bfee0",
+      "Name": "Criminal networks - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 55,
+      "CreatedAt": "2025-02-25T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z"
+    },
+    {
+      "Id": "01fb3b32-0f0f-233a-04dd-009d72dce22e",
+      "Name": "Investigation units - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 62,
+      "CreatedAt": "2023-12-15T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "0220eded-24ec-100c-05cf-0055f78de455",
+      "Name": "Crime syndicates - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 46,
+      "CreatedAt": "2024-09-28T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "01d54b45-1260-21e0-0e59-0053bb5c9fd3",
+      "Name": "Suspects - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 33,
+      "CreatedAt": "2024-09-12T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "057b6146-05c1-11d3-1206-00ddb47d88f8",
+      "Name": "Investigation units - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 75,
+      "CreatedAt": "2024-01-26T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z"
+    },
+    {
+      "Id": "01f73323-12c4-1b4a-1f9c-00c5a87f47fa",
+      "Name": "Crime syndicates - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 98,
+      "CreatedAt": "2024-04-18T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "05e287fa-25a4-18d7-1943-00b9bebbeb97",
+      "Name": "Criminal networks - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 62,
+      "CreatedAt": "2024-02-05T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "01d66a2c-1c9e-047f-202f-006d1769739d",
+      "Name": "Suspects - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 89,
+      "CreatedAt": "2025-04-10T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "04ac8ac7-1a29-0663-13ff-00e877392886",
+      "Name": "Suspects - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 88,
+      "CreatedAt": "2024-06-29T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z"
+    },
+    {
+      "Id": "01eaa3c4-0b66-1d9a-24d6-002ebce50412",
+      "Name": "Crime syndicates - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 90,
+      "CreatedAt": "2025-03-21T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "0261c23e-231f-179f-0a37-007de7408e20",
+      "Name": "Criminal networks - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 47,
+      "CreatedAt": "2024-06-03T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "050d1cc3-1f10-1a49-08f8-00c9fb95199d",
+      "Name": "Investigation units - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 85,
+      "CreatedAt": "2025-07-01T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "03a332ed-1542-1989-0651-0054ddf26c5a",
+      "Name": "Crime syndicates - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2024-02-02T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z"
+    },
+    {
+      "Id": "0575472e-0d11-1535-207f-00946e4e5734",
+      "Name": "Suspects - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2024-06-01T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z"
+    },
+    {
+      "Id": "0250d1de-1e29-2657-0519-001830bbd2c8",
+      "Name": "Crime syndicates - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 50,
+      "CreatedAt": "2024-02-03T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "043d3cc9-05f3-1b13-1323-0019abc6fdda",
+      "Name": "Criminal networks - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 47,
+      "CreatedAt": "2024-08-12T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "044783b1-1882-22a0-265c-00a11a8a8e7b",
+      "Name": "Suspects - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 26,
+      "CreatedAt": "2024-08-02T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "01084e57-09a7-12d3-061d-007b3be8abc1",
+      "Name": "Crime syndicates - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 30,
+      "CreatedAt": "2025-03-18T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "0347489d-0a42-0536-087f-009c2dd9a589",
+      "Name": "Suspects - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 22,
+      "CreatedAt": "2024-07-26T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "04f6d1fa-1fdd-1e14-2494-005939915c3d",
+      "Name": "Suspects - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 88,
+      "CreatedAt": "2023-12-19T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "02452dcb-188c-1377-0931-00cb24c5cf15",
+      "Name": "Criminal networks - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 54,
+      "CreatedAt": "2024-05-07T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "049f7a23-2628-16b9-12c9-00174a25fdcb",
+      "Name": "Investigation units - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 65,
+      "CreatedAt": "2024-10-04T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "02562a2c-1dcc-08cb-08d2-006aaaf4b93d",
+      "Name": "Suspects - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 70,
+      "CreatedAt": "2023-12-13T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "03a5e416-1c33-07ad-17cc-00636116cba6",
+      "Name": "Suspects - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 36,
+      "CreatedAt": "2024-02-24T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "0397c6f4-14e2-08b1-0e16-0081591e4236",
+      "Name": "Suspects - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 74,
+      "CreatedAt": "2025-06-29T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "00f81a9a-1301-24be-1833-00bdc2e55ea3",
+      "Name": "Crime syndicates - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 61,
+      "CreatedAt": "2024-07-24T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "0471f0e5-0cd4-1e4b-1723-0093fc35f1be",
+      "Name": "Suspects - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 55,
+      "CreatedAt": "2025-10-02T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "02b67534-200d-0517-1f29-009ec0e9aa4c",
+      "Name": "Crime syndicates - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 24,
+      "CreatedAt": "2024-08-05T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z"
+    },
+    {
+      "Id": "04d4b381-2415-1d4d-11b3-00568793c2f9",
+      "Name": "Suspects - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 43,
+      "CreatedAt": "2025-04-18T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z"
+    },
+    {
+      "Id": "02c5c694-1851-1196-08d4-00876ad0ca9c",
+      "Name": "Suspects - border posts",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 24,
+      "CreatedAt": "2025-05-24T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "0185e0cf-22a4-22b4-193c-00a8cb6c5a2a",
+      "Name": "Investigation units - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 56,
+      "CreatedAt": "2024-01-07T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "023c249d-1d79-1e55-2095-006681ce8d49",
+      "Name": "Investigation units - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 66,
+      "CreatedAt": "2024-09-17T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "01ee63aa-1e19-0ee9-120b-003f5e3947a7",
+      "Name": "Investigation units - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 23,
+      "CreatedAt": "2024-05-24T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "05ecf318-2342-1d93-142e-001edd96e05a",
+      "Name": "Criminal networks - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 92,
+      "CreatedAt": "2025-04-02T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "02339cba-05de-09d3-0b3d-0037baa34154",
+      "Name": "Suspects - border posts",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 56,
+      "CreatedAt": "2024-02-20T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "02f0a1fe-0f19-13db-0c17-0043dc99ec0f",
+      "Name": "Criminal networks - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 95,
+      "CreatedAt": "2025-03-03T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "0162d329-0942-1f7e-0bd9-00ce7283bce5",
+      "Name": "Investigation units - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 76,
+      "CreatedAt": "2023-12-07T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "0496e351-1482-0bd1-04cc-008f00d1b69e",
+      "Name": "Crime syndicates - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 51,
+      "CreatedAt": "2025-02-21T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z"
+    },
+    {
+      "Id": "02cdaf06-15d9-1932-03f6-006e218a26b8",
+      "Name": "Investigation units - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 95,
+      "CreatedAt": "2024-08-29T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "04315a3b-081c-23c1-2258-00b3382b6028",
+      "Name": "Investigation units - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 77,
+      "CreatedAt": "2025-03-23T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "042af2d1-13ec-0fb6-14e7-00d920000abb",
+      "Name": "Criminal networks - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 95,
+      "CreatedAt": "2024-06-10T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z"
+    },
+    {
+      "Id": "028b8f14-1530-142b-0a53-00896d36b188",
+      "Name": "Investigation units - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 35,
+      "CreatedAt": "2024-06-07T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "04619cb2-1f4e-0a38-1360-0039d1cd3f30",
+      "Name": "Suspects - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2024-02-21T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "e021d083-8cd8-4a0b-b640-ab37d96b89a5",
+      "Name": "Kafue Logistics",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 62.0,
+      "CreatedAt": "2025-08-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "14c3b446-4980-4888-a5ab-374dc73c4db5",
+      "Name": "Mopani Mines",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 46.0,
+      "CreatedAt": "2025-05-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "519fd102-bff0-472c-8ab7-19f9dd347156",
+      "Name": "Zesco",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 40.0,
+      "CreatedAt": "2026-03-31T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "bbd477cb-aedb-424e-b314-c9f7a4db33de",
+      "Name": "Webby Phiri",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 87.0,
+      "CreatedAt": "2025-07-28T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "23b4fe67-d26d-4be9-8745-fbda001eff61",
+      "Name": "Zesco",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 83.0,
+      "CreatedAt": "2025-07-23T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "2338663d-ab47-4693-bc39-30e5eb300f10",
+      "Name": "Mukwa Engineering",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 78.0,
+      "CreatedAt": "2025-05-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "320656c5-967c-4569-8f41-3738fa97d198",
+      "Name": "Lombe Kalaba",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 63.0,
+      "CreatedAt": "2025-09-22T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "58b5893f-09a3-4793-a52b-a662d7357c0b",
+      "Name": "Mopani Mines",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 22.0,
+      "CreatedAt": "2026-05-04T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "ede52eb9-8e46-4398-8828-62d39370dc7e",
+      "Name": "Davies Mundia",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 85.0,
+      "CreatedAt": "2025-06-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "d401623d-230d-4b50-9295-8987e036ef24",
+      "Name": "Natwange Traders",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 20.0,
+      "CreatedAt": "2026-03-14T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "71708efe-0f9c-4c00-83dc-57b66a8ff8a0",
+      "Name": "Zamtel",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49.0,
+      "CreatedAt": "2025-10-24T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "1ab4c367-34be-44a7-ac2d-22e6379d121f",
+      "Name": "Martha Banda",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 63.0,
+      "CreatedAt": "2025-11-12T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "e23f6cbd-008d-4a25-89da-fa66d1abe955",
+      "Name": "Mopani Mines",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 22.0,
+      "CreatedAt": "2026-02-23T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "bfd9a1dd-e277-41f0-b847-285ad3663be9",
+      "Name": "Sarah Mulenga",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 50.0,
+      "CreatedAt": "2026-03-26T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "45d031d2-c79b-4294-930a-10918789ea63",
+      "Name": "Zambia Sugar",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 79.0,
+      "CreatedAt": "2025-09-20T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "016902b1-1e1a-1f34-154d-008cd3436f53",
+      "Name": "Crime syndicates - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 60,
+      "CreatedAt": "2025-09-13T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-9168",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "High",
+          "Score": 20
+        },
+        {
+          "Name": "Law enforcement",
+          "Severity": "Critical",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05175baa-102c-2493-1cba-0056e4a008d4",
+      "Name": "Crime syndicates - border posts",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 41,
+      "CreatedAt": "2025-02-25T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-3518",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "law enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Organized crime",
+          "Severity": "Critical",
+          "Score": 33
+        },
+        {
+          "Name": "Copper theft",
+          "Severity": "Medium",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01d94225-1664-096d-0a8b-0031f2d3c254",
+      "Name": "Crime syndicates - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 64,
+      "CreatedAt": "2024-12-14T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-4328",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "copper theft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Copper theft",
+          "Severity": "Medium",
+          "Score": 44
+        },
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Medium",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "035737a3-231d-0b07-097c-00b7f275d3ec",
+      "Name": "Criminal networks - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 54,
+      "CreatedAt": "2025-10-11T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-8644",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Organized crime",
+          "Severity": "Critical",
+          "Score": 33
+        },
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00b538e2-225c-2538-1bd2-00e5ad3af1d5",
+      "Name": "Suspects - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 42,
+      "CreatedAt": "2025-01-04T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-8232",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Copper theft",
+          "Severity": "High",
+          "Score": 43
+        },
+        {
+          "Name": "Organized crime",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02e7098b-201d-1f67-1413-00631f3466e7",
+      "Name": "Crime syndicates - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 87,
+      "CreatedAt": "2023-11-29T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-7126",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "law enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Medium",
+          "Score": 26
+        },
+        {
+          "Name": "Criminal investigations",
+          "Severity": "High",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "033f56d7-0bcd-2209-15e3-007897886816",
+      "Name": "Criminal networks - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 86,
+      "CreatedAt": "2025-08-13T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-6054",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "law enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Organized crime",
+          "Severity": "Medium",
+          "Score": 26
+        },
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Medium",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04f350e3-0ba5-0972-1662-0093083bfee0",
+      "Name": "Criminal networks - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 55,
+      "CreatedAt": "2025-02-25T17:30:31Z",
+      "UpdatedAt": "2025-12-26T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-8447",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Critical",
+          "Score": 44
+        },
+        {
+          "Name": "Drug trafficking",
+          "Severity": "High",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01fb3b32-0f0f-233a-04dd-009d72dce22e",
+      "Name": "Investigation units - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 62,
+      "CreatedAt": "2023-12-15T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-6859",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "High",
+          "Score": 21
+        },
+        {
+          "Name": "Copper theft",
+          "Severity": "High",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0220eded-24ec-100c-05cf-0055f78de455",
+      "Name": "Crime syndicates - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 46,
+      "CreatedAt": "2024-09-28T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-1530",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "organized crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "High",
+          "Score": 35
+        },
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01d54b45-1260-21e0-0e59-0053bb5c9fd3",
+      "Name": "Suspects - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 33,
+      "CreatedAt": "2024-09-12T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-6110",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "organized crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Medium",
+          "Score": 15
+        },
+        {
+          "Name": "Criminal investigations",
+          "Severity": "High",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "057b6146-05c1-11d3-1206-00ddb47d88f8",
+      "Name": "Investigation units - Lusaka",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 75,
+      "CreatedAt": "2024-01-26T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-3262",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Critical",
+          "Score": 35
+        },
+        {
+          "Name": "Law enforcement",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01f73323-12c4-1b4a-1f9c-00c5a87f47fa",
+      "Name": "Crime syndicates - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 98,
+      "CreatedAt": "2024-04-18T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-9276",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "organized crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Law enforcement",
+          "Severity": "Low",
+          "Score": 20
+        },
+        {
+          "Name": "Law enforcement",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05e287fa-25a4-18d7-1943-00b9bebbeb97",
+      "Name": "Criminal networks - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 62,
+      "CreatedAt": "2024-02-05T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-4323",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "organized crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Law enforcement",
+          "Severity": "Medium",
+          "Score": 21
+        },
+        {
+          "Name": "Criminal investigations",
+          "Severity": "High",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01d66a2c-1c9e-047f-202f-006d1769739d",
+      "Name": "Suspects - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 89,
+      "CreatedAt": "2025-04-10T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-5972",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "organized crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Copper theft",
+          "Severity": "Critical",
+          "Score": 37
+        },
+        {
+          "Name": "Copper theft",
+          "Severity": "Critical",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04ac8ac7-1a29-0663-13ff-00e877392886",
+      "Name": "Suspects - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 88,
+      "CreatedAt": "2024-06-29T17:30:31Z",
+      "UpdatedAt": "2026-01-14T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-6706",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "organized crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Copper theft",
+          "Severity": "Medium",
+          "Score": 43
+        },
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01eaa3c4-0b66-1d9a-24d6-002ebce50412",
+      "Name": "Crime syndicates - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 90,
+      "CreatedAt": "2025-03-21T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-1858",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Low",
+          "Score": 25
+        },
+        {
+          "Name": "Copper theft",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0261c23e-231f-179f-0a37-007de7408e20",
+      "Name": "Criminal networks - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 47,
+      "CreatedAt": "2024-06-03T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-4870",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Organized crime",
+          "Severity": "Critical",
+          "Score": 32
+        },
+        {
+          "Name": "Organized crime",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "050d1cc3-1f10-1a49-08f8-00c9fb95199d",
+      "Name": "Investigation units - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 85,
+      "CreatedAt": "2025-07-01T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-8468",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "criminal investigations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "High",
+          "Score": 42
+        },
+        {
+          "Name": "Law enforcement",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03a332ed-1542-1989-0651-0054ddf26c5a",
+      "Name": "Crime syndicates - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 71,
+      "CreatedAt": "2024-02-02T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-3300",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "law enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Law enforcement",
+          "Severity": "Low",
+          "Score": 36
+        },
+        {
+          "Name": "Criminal investigations",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0575472e-0d11-1535-207f-00946e4e5734",
+      "Name": "Suspects - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 78,
+      "CreatedAt": "2024-06-01T17:30:31Z",
+      "UpdatedAt": "2026-01-02T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-4088",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "organized crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Organized crime",
+          "Severity": "Low",
+          "Score": 12
+        },
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0250d1de-1e29-2657-0519-001830bbd2c8",
+      "Name": "Crime syndicates - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 50,
+      "CreatedAt": "2024-02-03T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-2135",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "law enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Medium",
+          "Score": 31
+        },
+        {
+          "Name": "Organized crime",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "043d3cc9-05f3-1b13-1323-0019abc6fdda",
+      "Name": "Criminal networks - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 47,
+      "CreatedAt": "2024-08-12T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-8148",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "copper theft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "High",
+          "Score": 35
+        },
+        {
+          "Name": "Copper theft",
+          "Severity": "High",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "044783b1-1882-22a0-265c-00a11a8a8e7b",
+      "Name": "Suspects - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 26,
+      "CreatedAt": "2024-08-02T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-2709",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Copper theft",
+          "Severity": "Critical",
+          "Score": 40
+        },
+        {
+          "Name": "Law enforcement",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01084e57-09a7-12d3-061d-007b3be8abc1",
+      "Name": "Crime syndicates - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 30,
+      "CreatedAt": "2025-03-18T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-1379",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "law enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "High",
+          "Score": 23
+        },
+        {
+          "Name": "Copper theft",
+          "Severity": "High",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0347489d-0a42-0536-087f-009c2dd9a589",
+      "Name": "Suspects - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 22,
+      "CreatedAt": "2024-07-26T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-2293",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "organized crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Critical",
+          "Score": 21
+        },
+        {
+          "Name": "Drug trafficking",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04f6d1fa-1fdd-1e14-2494-005939915c3d",
+      "Name": "Suspects - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 88,
+      "CreatedAt": "2023-12-19T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-9544",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "organized crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Copper theft",
+          "Severity": "Medium",
+          "Score": 34
+        },
+        {
+          "Name": "Law enforcement",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02452dcb-188c-1377-0931-00cb24c5cf15",
+      "Name": "Criminal networks - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 54,
+      "CreatedAt": "2024-05-07T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-3531",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "law enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Low",
+          "Score": 17
+        },
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "049f7a23-2628-16b9-12c9-00174a25fdcb",
+      "Name": "Investigation units - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 65,
+      "CreatedAt": "2024-10-04T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-6598",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "law enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Low",
+          "Score": 28
+        },
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02562a2c-1dcc-08cb-08d2-006aaaf4b93d",
+      "Name": "Suspects - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 70,
+      "CreatedAt": "2023-12-13T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-8465",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Law enforcement",
+          "Severity": "High",
+          "Score": 37
+        },
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Critical",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03a5e416-1c33-07ad-17cc-00636116cba6",
+      "Name": "Suspects - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 36,
+      "CreatedAt": "2024-02-24T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-6391",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "copper theft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Medium",
+          "Score": 19
+        },
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0397c6f4-14e2-08b1-0e16-0081591e4236",
+      "Name": "Suspects - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 74,
+      "CreatedAt": "2025-06-29T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-5141",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "criminal investigations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Law enforcement",
+          "Severity": "Medium",
+          "Score": 34
+        },
+        {
+          "Name": "Copper theft",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00f81a9a-1301-24be-1833-00bdc2e55ea3",
+      "Name": "Crime syndicates - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 61,
+      "CreatedAt": "2024-07-24T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-5450",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "law enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Critical",
+          "Score": 26
+        },
+        {
+          "Name": "Law enforcement",
+          "Severity": "High",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0471f0e5-0cd4-1e4b-1723-0093fc35f1be",
+      "Name": "Suspects - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 55,
+      "CreatedAt": "2025-10-02T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-9120",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "criminal investigations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Law enforcement",
+          "Severity": "High",
+          "Score": 27
+        },
+        {
+          "Name": "Law enforcement",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02b67534-200d-0517-1f29-009ec0e9aa4c",
+      "Name": "Crime syndicates - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 24,
+      "CreatedAt": "2024-08-05T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-3703",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "organized crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Copper theft",
+          "Severity": "Critical",
+          "Score": 38
+        },
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04d4b381-2415-1d4d-11b3-00568793c2f9",
+      "Name": "Suspects - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 43,
+      "CreatedAt": "2025-04-18T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-3521",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "copper theft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Low",
+          "Score": 18
+        },
+        {
+          "Name": "Law enforcement",
+          "Severity": "Critical",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02c5c694-1851-1196-08d4-00876ad0ca9c",
+      "Name": "Suspects - border posts",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 24,
+      "CreatedAt": "2025-05-24T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2024-5609",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "criminal investigations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Copper theft",
+          "Severity": "Low",
+          "Score": 17
+        },
+        {
+          "Name": "Copper theft",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0185e0cf-22a4-22b4-193c-00a8cb6c5a2a",
+      "Name": "Investigation units - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 56,
+      "CreatedAt": "2024-01-07T17:30:31Z",
+      "UpdatedAt": "2026-01-04T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2023-9103",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Law enforcement",
+          "Severity": "Low",
+          "Score": 30
+        },
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "023c249d-1d79-1e55-2095-006681ce8d49",
+      "Name": "Investigation units - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 66,
+      "CreatedAt": "2024-09-17T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-6688",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "copper theft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Critical",
+          "Score": 26
+        },
+        {
+          "Name": "Criminal investigations",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01ee63aa-1e19-0ee9-120b-003f5e3947a7",
+      "Name": "Investigation units - Lusaka",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 23,
+      "CreatedAt": "2024-05-24T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-1328",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "law enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Law enforcement",
+          "Severity": "Low",
+          "Score": 22
+        },
+        {
+          "Name": "Copper theft",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ecf318-2342-1d93-142e-001edd96e05a",
+      "Name": "Criminal networks - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 92,
+      "CreatedAt": "2025-04-02T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-7753",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Law enforcement",
+          "Severity": "High",
+          "Score": 13
+        },
+        {
+          "Name": "Law enforcement",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02339cba-05de-09d3-0b3d-0037baa34154",
+      "Name": "Suspects - border posts",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 56,
+      "CreatedAt": "2024-02-20T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-2133",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Low",
+          "Score": 32
+        },
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Critical",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f0a1fe-0f19-13db-0c17-0043dc99ec0f",
+      "Name": "Criminal networks - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 95,
+      "CreatedAt": "2025-03-03T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-8677",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "criminal investigations",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Criminal investigations",
+          "Severity": "High",
+          "Score": 19
+        },
+        {
+          "Name": "Organized crime",
+          "Severity": "High",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0162d329-0942-1f7e-0bd9-00ce7283bce5",
+      "Name": "Investigation units - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 76,
+      "CreatedAt": "2023-12-07T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-1544",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "copper theft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Law enforcement",
+          "Severity": "Medium",
+          "Score": 10
+        },
+        {
+          "Name": "Copper theft",
+          "Severity": "Medium",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0496e351-1482-0bd1-04cc-008f00d1b69e",
+      "Name": "Crime syndicates - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 51,
+      "CreatedAt": "2025-02-21T17:30:31Z",
+      "UpdatedAt": "2025-12-29T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2022-4819",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "copper theft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Law enforcement",
+          "Severity": "Low",
+          "Score": 15
+        },
+        {
+          "Name": "Copper theft",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02cdaf06-15d9-1932-03f6-006e218a26b8",
+      "Name": "Investigation units - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 95,
+      "CreatedAt": "2024-08-29T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2021-1954",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "drug trafficking",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Copper theft",
+          "Severity": "Low",
+          "Score": 28
+        },
+        {
+          "Name": "Law enforcement",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04315a3b-081c-23c1-2258-00b3382b6028",
+      "Name": "Investigation units - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 77,
+      "CreatedAt": "2025-03-23T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-1833",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "copper theft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Critical",
+          "Score": 30
+        },
+        {
+          "Name": "Organized crime",
+          "Severity": "Medium",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "042af2d1-13ec-0fb6-14e7-00d920000abb",
+      "Name": "Criminal networks - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 95,
+      "CreatedAt": "2024-06-10T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2025-6398",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "organized crime",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "border posts",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Criminal investigations",
+          "Severity": "High",
+          "Score": 18
+        },
+        {
+          "Name": "Organized crime",
+          "Severity": "High",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "028b8f14-1530-142b-0a53-00896d36b188",
+      "Name": "Investigation units - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 35,
+      "CreatedAt": "2024-06-07T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2020-2664",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "copper theft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "High",
+          "Score": 44
+        },
+        {
+          "Name": "Criminal investigations",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04619cb2-1f4e-0a38-1360-0039d1cd3f30",
+      "Name": "Suspects - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 41,
+      "CreatedAt": "2024-02-21T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ZAM-2026-3501",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "law enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Zambia Police Service",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Drug trafficking",
+          "Severity": "Medium",
+          "Score": 27
+        },
+        {
+          "Name": "Copper theft",
+          "Severity": "Critical",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    }
+  ],
+  "Relationships": [
+    {
+      "Id": "f4e2b1e3-a8e7-4e44-b50b-9ea0cc6a60f1",
+      "SourceEntityId": "02f0a1fe-0f19-13db-0c17-0043dc99ec0f",
+      "TargetEntityId": "02e7098b-201d-1f67-1413-00631f3466e7",
+      "Type": "Associate",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "453ac5f3-0017-45d6-b2ab-01a1abcee90a",
+      "SourceEntityId": "519fd102-bff0-472c-8ab7-19f9dd347156",
+      "TargetEntityId": "02b67534-200d-0517-1f29-009ec0e9aa4c",
+      "Type": "Associate",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "a9c454b8-dbcc-4658-bce5-95975e3b58f1",
+      "SourceEntityId": "ede52eb9-8e46-4398-8828-62d39370dc7e",
+      "TargetEntityId": "04315a3b-081c-23c1-2258-00b3382b6028",
+      "Type": "Employment",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "e5bf881c-29be-4479-9994-8ed519af2a12",
+      "SourceEntityId": "519fd102-bff0-472c-8ab7-19f9dd347156",
+      "TargetEntityId": "033f56d7-0bcd-2209-15e3-007897886816",
+      "Type": "Family",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "f3e91c93-4d89-4c22-9284-bb1595d6ec23",
+      "SourceEntityId": "519fd102-bff0-472c-8ab7-19f9dd347156",
+      "TargetEntityId": "02339cba-05de-09d3-0b3d-0037baa34154",
+      "Type": "Ownership",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "194ff680-4af8-4c16-a679-1ebcbd9405f3",
+      "SourceEntityId": "01084e57-09a7-12d3-061d-007b3be8abc1",
+      "TargetEntityId": "033f56d7-0bcd-2209-15e3-007897886816",
+      "Type": "Employment",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "72692196-6f61-432a-a83e-4478bd09a9e2",
+      "SourceEntityId": "02c5c694-1851-1196-08d4-00876ad0ca9c",
+      "TargetEntityId": "e23f6cbd-008d-4a25-89da-fa66d1abe955",
+      "Type": "Financial",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "d8b30093-a566-4d4d-afdb-e6be8df9e0b9",
+      "SourceEntityId": "03a5e416-1c33-07ad-17cc-00636116cba6",
+      "TargetEntityId": "028b8f14-1530-142b-0a53-00896d36b188",
+      "Type": "Employment",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "5ef4ab81-3a34-44d3-b467-f077711f79fc",
+      "SourceEntityId": "23b4fe67-d26d-4be9-8745-fbda001eff61",
+      "TargetEntityId": "02c5c694-1851-1196-08d4-00876ad0ca9c",
+      "Type": "Employment",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "1ff0ce91-09e0-4bf9-be1a-0a0bc7d630f6",
+      "SourceEntityId": "71708efe-0f9c-4c00-83dc-57b66a8ff8a0",
+      "TargetEntityId": "02c5c694-1851-1196-08d4-00876ad0ca9c",
+      "Type": "Financial",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "4dc8817a-d177-46ac-8852-980f1b14cefd",
+      "SourceEntityId": "0261c23e-231f-179f-0a37-007de7408e20",
+      "TargetEntityId": "02cdaf06-15d9-1932-03f6-006e218a26b8",
+      "Type": "Ownership",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "aa71fd3b-10a5-4593-9299-a7ebb137de50",
+      "SourceEntityId": "0250d1de-1e29-2657-0519-001830bbd2c8",
+      "TargetEntityId": "0220eded-24ec-100c-05cf-0055f78de455",
+      "Type": "Financial",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "a53c02fc-ae9c-4452-87fe-5f3950881691",
+      "SourceEntityId": "01eaa3c4-0b66-1d9a-24d6-002ebce50412",
+      "TargetEntityId": "04315a3b-081c-23c1-2258-00b3382b6028",
+      "Type": "Employment",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "aeb7bc88-49b6-4d29-9ac6-2272a31763e1",
+      "SourceEntityId": "043d3cc9-05f3-1b13-1323-0019abc6fdda",
+      "TargetEntityId": "0496e351-1482-0bd1-04cc-008f00d1b69e",
+      "Type": "Employment",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "a33c353c-3c91-412d-afa4-3a3714b91837",
+      "SourceEntityId": "028b8f14-1530-142b-0a53-00896d36b188",
+      "TargetEntityId": "04f350e3-0ba5-0972-1662-0093083bfee0",
+      "Type": "Family",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "8627d045-d74a-4471-bf65-89f9142e8ae2",
+      "SourceEntityId": "bbd477cb-aedb-424e-b314-c9f7a4db33de",
+      "TargetEntityId": "0250d1de-1e29-2657-0519-001830bbd2c8",
+      "Type": "Financial",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "623ca264-73cf-4290-a51d-93fc51be7335",
+      "SourceEntityId": "05ecf318-2342-1d93-142e-001edd96e05a",
+      "TargetEntityId": "03a332ed-1542-1989-0651-0054ddf26c5a",
+      "Type": "Family",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "e718c938-fa92-4ecb-95b6-8df640227926",
+      "SourceEntityId": "01d66a2c-1c9e-047f-202f-006d1769739d",
+      "TargetEntityId": "04d4b381-2415-1d4d-11b3-00568793c2f9",
+      "Type": "Financial",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "b1f449be-ac83-46c8-893e-acb4eef6a5d0",
+      "SourceEntityId": "0162d329-0942-1f7e-0bd9-00ce7283bce5",
+      "TargetEntityId": "01d94225-1664-096d-0a8b-0031f2d3c254",
+      "Type": "Ownership",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "4bc25183-29a4-4231-b5dc-6874a8a5c511",
+      "SourceEntityId": "e23f6cbd-008d-4a25-89da-fa66d1abe955",
+      "TargetEntityId": "044783b1-1882-22a0-265c-00a11a8a8e7b",
+      "Type": "Financial",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "47a42cc4-7473-49f6-8922-7ee0de8e9e69",
+      "SourceEntityId": "02cdaf06-15d9-1932-03f6-006e218a26b8",
+      "TargetEntityId": "01d94225-1664-096d-0a8b-0031f2d3c254",
+      "Type": "Ownership",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "683db227-803f-47f6-b659-54dbd3b3d352",
+      "SourceEntityId": "02b67534-200d-0517-1f29-009ec0e9aa4c",
+      "TargetEntityId": "02cdaf06-15d9-1932-03f6-006e218a26b8",
+      "Type": "Financial",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "4954e207-23f7-4c23-8547-7a3da68fd572",
+      "SourceEntityId": "033f56d7-0bcd-2209-15e3-007897886816",
+      "TargetEntityId": "050d1cc3-1f10-1a49-08f8-00c9fb95199d",
+      "Type": "Ownership",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "1c80e1d5-16e7-4953-bf18-d5085edcd537",
+      "SourceEntityId": "02c5c694-1851-1196-08d4-00876ad0ca9c",
+      "TargetEntityId": "0185e0cf-22a4-22b4-193c-00a8cb6c5a2a",
+      "Type": "Employment",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "bcd59389-aca8-4a1b-8947-a3f78afbb3da",
+      "SourceEntityId": "02f0a1fe-0f19-13db-0c17-0043dc99ec0f",
+      "TargetEntityId": "01084e57-09a7-12d3-061d-007b3be8abc1",
+      "Type": "Associate",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "4b329ca1-d82e-4c02-a5f2-a9114db60daa",
+      "SourceEntityId": "0185e0cf-22a4-22b4-193c-00a8cb6c5a2a",
+      "TargetEntityId": "0471f0e5-0cd4-1e4b-1723-0093fc35f1be",
+      "Type": "Ownership",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "5171f56c-6baa-4a03-ba4b-bf395f453ee8",
+      "SourceEntityId": "04ac8ac7-1a29-0663-13ff-00e877392886",
+      "TargetEntityId": "23b4fe67-d26d-4be9-8745-fbda001eff61",
+      "Type": "Ownership",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "1ebbb7d2-737a-402a-958e-8687949be976",
+      "SourceEntityId": "0220eded-24ec-100c-05cf-0055f78de455",
+      "TargetEntityId": "050d1cc3-1f10-1a49-08f8-00c9fb95199d",
+      "Type": "Associate",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "33806673-dfaa-4e6c-904e-98d06f0998ba",
+      "SourceEntityId": "0162d329-0942-1f7e-0bd9-00ce7283bce5",
+      "TargetEntityId": "0185e0cf-22a4-22b4-193c-00a8cb6c5a2a",
+      "Type": "Ownership",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "13a529ea-2f4f-426c-aee9-b97615bd6c90",
+      "SourceEntityId": "04f6d1fa-1fdd-1e14-2494-005939915c3d",
+      "TargetEntityId": "01f73323-12c4-1b4a-1f9c-00c5a87f47fa",
+      "Type": "Ownership",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "e30ef5f0-b178-4b40-af79-def05edcbe0c",
+      "SourceEntityId": "04619cb2-1f4e-0a38-1360-0039d1cd3f30",
+      "TargetEntityId": "0162d329-0942-1f7e-0bd9-00ce7283bce5",
+      "Type": "Associate",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "7e7f1cf8-8994-450d-a6f6-c989ae6bae8a",
+      "SourceEntityId": "320656c5-967c-4569-8f41-3738fa97d198",
+      "TargetEntityId": "0220eded-24ec-100c-05cf-0055f78de455",
+      "Type": "Associate",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    }
+  ]
+}

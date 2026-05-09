@@ -454,6 +454,126 @@
       "Description": "Prosecution revealed law enforcement involving crime syndicates",
       "DetectedAt": "2025-12-26T17:30:31Z",
       "Status": "Investigation"
+    },
+    {
+      "Id": "6b4ac7a0-f78e-4fec-9b32-adfcc2ce9c66",
+      "EntityName": "Kelvin Sinkala",
+      "Severity": "Medium",
+      "Description": "Public order disturbance related to unauthorized assembly in Kasumbalesa.",
+      "Timestamp": "2026-02-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "49a82a88-b6a1-4360-baa9-1d76dad8d443",
+      "EntityName": "Sarah Zulu",
+      "Severity": "High",
+      "Description": "Organized cattle rustling network operating in Mansa rural areas.",
+      "Timestamp": "2025-05-24T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "415f5ca7-0a1a-456a-9625-4df3441af6f8",
+      "EntityName": "Mopani Mines",
+      "Severity": "Critical",
+      "Description": "Organized cattle rustling network operating in Kasama rural areas.",
+      "Timestamp": "2025-04-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "205a2979-61ba-44c4-bd51-aa4ae3b8ca34",
+      "EntityName": "John Silavwe",
+      "Severity": "Medium",
+      "Description": "Interception of narcotics shipment at Sesheke checkpoint.",
+      "Timestamp": "2025-04-06T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "11404f13-e2a2-4139-8ec8-87450e7e787a",
+      "EntityName": "Peter Silavwe",
+      "Severity": "Medium",
+      "Description": "Public order disturbance related to unauthorized assembly in Kabwe.",
+      "Timestamp": "2026-04-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e638ac70-9e6c-487c-b099-a0980ae63860",
+      "EntityName": "Mopani Mines",
+      "Severity": "High",
+      "Description": "Gang activity surge in Mongu high-density townships.",
+      "Timestamp": "2025-05-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "5211c87d-290e-41b5-ac2f-b0e9d046e453",
+      "EntityName": "Lombe Mwamba",
+      "Severity": "Medium",
+      "Description": "Interception of narcotics shipment at Ndola checkpoint.",
+      "Timestamp": "2025-06-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "ee12dccb-a8b9-4183-afbf-fd401fe775bd",
+      "EntityName": "Webby Zulu",
+      "Severity": "High",
+      "Description": "Gang activity surge in Mansa high-density townships.",
+      "Timestamp": "2025-12-06T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "20703372-b842-459f-b546-6959a9f3deec",
+      "EntityName": "Blessing Phiri",
+      "Severity": "Medium",
+      "Description": "Illegal firearm proliferation linked to syndicate in Nakonde.",
+      "Timestamp": "2025-09-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "dc64771c-148f-4bd7-b50d-da2855407393",
+      "EntityName": "Lombe Phiri",
+      "Severity": "Critical",
+      "Description": "Illegal firearm proliferation linked to syndicate in Mansa.",
+      "Timestamp": "2026-01-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "0eb29b9c-0ab6-4c06-b02b-1d859227af95",
+      "EntityName": "Moses Mwamba",
+      "Severity": "Medium",
+      "Description": "Organized cattle rustling network operating in Ndola rural areas.",
+      "Timestamp": "2026-03-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2e32180f-2684-46e6-9d56-d1dd736c190f",
+      "EntityName": "Kafue Logistics",
+      "Severity": "High",
+      "Description": "Illegal firearm proliferation linked to syndicate in Mansa.",
+      "Timestamp": "2025-02-06T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6e78eb2e-94a5-4e82-9d9c-a4d541cecaa9",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "High",
+      "Description": "Organized cattle rustling network operating in Ndola rural areas.",
+      "Timestamp": "2025-09-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c0c651e1-3d5b-4eb0-aa06-be91b49b9811",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Critical",
+      "Description": "Public order disturbance related to unauthorized assembly in Lusaka.",
+      "Timestamp": "2025-05-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "4ad1f87e-3a2a-489c-8f4f-3e05046ac43b",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Illegal firearm proliferation linked to syndicate in Choma.",
+      "Timestamp": "2025-06-09T00:00:00Z",
+      "Status": "New"
     }
   ],
   "RiskTrends": [

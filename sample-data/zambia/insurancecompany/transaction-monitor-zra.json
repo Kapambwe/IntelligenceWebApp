@@ -800,6 +800,126 @@
       "TransactionId": "TX-WTH-20213431",
       "DetectedAt": "2026-01-03T17:30:30Z",
       "AlertType": "Threshold"
+    },
+    {
+      "Id": "c46d5a46-5679-4449-8ee4-4f57886510d5",
+      "EntityName": "Hope Hichilema",
+      "Severity": "Critical",
+      "Description": "Collusion between assessors and Mukwa Engineering for inflated repair costs.",
+      "Timestamp": "2025-05-01T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "3944d0fe-a462-4ae7-9c98-3752dd85fbb8",
+      "EntityName": "Joseph Mumba",
+      "Severity": "Medium",
+      "Description": "Life insurance claim using forged death certificates from Ndola clinic.",
+      "Timestamp": "2025-09-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8e837642-3c6c-4aa0-8ef5-548dba3ce5be",
+      "EntityName": "Chileshe Bwalya",
+      "Severity": "Critical",
+      "Description": "Fraudulent motor vehicle accident claims involving Victoria Falls Power in Sesheke.",
+      "Timestamp": "2025-08-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "27de6c65-cdb7-4f2f-81c2-800146aced1f",
+      "EntityName": "Catherine Lungu",
+      "Severity": "Medium",
+      "Description": "Life insurance claim using forged death certificates from Chingola clinic.",
+      "Timestamp": "2025-03-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "038bbfa9-9d35-45dd-8620-c30bdfe177bc",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Medium",
+      "Description": "Staged theft reports for high-value mining equipment in Sesheke.",
+      "Timestamp": "2025-01-18T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2e1711e7-73e1-4a0b-817c-1286c01611d7",
+      "EntityName": "Mary Mwanawasa",
+      "Severity": "High",
+      "Description": "Collusion between assessors and AgriLoan Zambia for inflated repair costs.",
+      "Timestamp": "2025-04-05T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6e6e8fda-055c-4448-860e-60f40e3b1a16",
+      "EntityName": "James Chanda",
+      "Severity": "Critical",
+      "Description": "Fraudulent motor vehicle accident claims involving Kafue Logistics in Mufulira.",
+      "Timestamp": "2025-06-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9d6102ea-0cfc-4f95-bd45-c2d88bb2dc1b",
+      "EntityName": "Savanna Insurance",
+      "Severity": "Medium",
+      "Description": "Premium diversion by brokers in Livingstone commercial district.",
+      "Timestamp": "2025-04-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "99035c9f-b699-4a11-bbbc-a83f76f94dfc",
+      "EntityName": "Zesco",
+      "Severity": "High",
+      "Description": "Life insurance claim using forged death certificates from Solwezi clinic.",
+      "Timestamp": "2025-11-17T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "83295782-cc6a-487d-baa6-d03d639c5e49",
+      "EntityName": "Savanna Insurance",
+      "Severity": "Medium",
+      "Description": "Life insurance claim using forged death certificates from Sesheke clinic.",
+      "Timestamp": "2025-07-09T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9df96d87-8673-4f19-bbbd-6ed82bc9f703",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Medium",
+      "Description": "Life insurance claim using forged death certificates from Kitwe clinic.",
+      "Timestamp": "2025-05-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "90549429-9522-4556-bcda-29bb2b2bfd77",
+      "EntityName": "Blessing Bwalya",
+      "Severity": "Medium",
+      "Description": "Life insurance claim using forged death certificates from Kasumbalesa clinic.",
+      "Timestamp": "2025-06-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "24871771-66f4-4384-9029-908f211b60ba",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Critical",
+      "Description": "Staged theft reports for high-value mining equipment in Mufulira.",
+      "Timestamp": "2025-07-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "40e1efa7-c25d-4880-8652-762c6e1f1ab0",
+      "EntityName": "AgriLoan Zambia",
+      "Severity": "Critical",
+      "Description": "Fraudulent motor vehicle accident claims involving Zamtel in Kasumbalesa.",
+      "Timestamp": "2025-03-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "3b4004e2-6a72-4f27-912a-bd05c9dea448",
+      "EntityName": "Blessing Mwanawasa",
+      "Severity": "Critical",
+      "Description": "Collusion between assessors and Zambia Sugar for inflated repair costs.",
+      "Timestamp": "2026-02-04T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Rules": [

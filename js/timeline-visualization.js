@@ -526,7 +526,7 @@ class TimelineVisualization {
 }
 
 // Functions for C# interop
-function render(elementId, items, options, dotNetHelper, groups) {
+export function render(elementId, items, options, dotNetHelper, groups) {
     const container = document.getElementById(elementId);
     if (!container) {
         console.error('Timeline container not found:', elementId);
@@ -542,7 +542,7 @@ function render(elementId, items, options, dotNetHelper, groups) {
     return true;
 }
 
-function destroy(elementId) {
+export function destroy(elementId) {
     if (timelines.has(elementId)) {
         timelines.get(elementId).destroy();
         timelines.delete(elementId);
@@ -551,7 +551,7 @@ function destroy(elementId) {
     return false;
 }
 
-function addItem(elementId, item) {
+export function addItem(elementId, item) {
     if (timelines.has(elementId)) {
         timelines.get(elementId).addItem(item);
         return true;
@@ -559,7 +559,7 @@ function addItem(elementId, item) {
     return false;
 }
 
-function updateItem(elementId, item) {
+export function updateItem(elementId, item) {
     if (timelines.has(elementId)) {
         timelines.get(elementId).updateItem(item);
         return true;
@@ -567,7 +567,7 @@ function updateItem(elementId, item) {
     return false;
 }
 
-function removeItem(elementId, itemId) {
+export function removeItem(elementId, itemId) {
     if (timelines.has(elementId)) {
         timelines.get(elementId).removeItem(itemId);
         return true;
@@ -575,7 +575,7 @@ function removeItem(elementId, itemId) {
     return false;
 }
 
-function setWindow(elementId, start, end) {
+export function setWindow(elementId, start, end) {
     if (timelines.has(elementId)) {
         timelines.get(elementId).setWindow(start, end);
         return true;
@@ -583,7 +583,7 @@ function setWindow(elementId, start, end) {
     return false;
 }
 
-function fit(elementId) {
+export function fit(elementId) {
     if (timelines.has(elementId)) {
         timelines.get(elementId).fit();
         return true;
@@ -591,7 +591,7 @@ function fit(elementId) {
     return false;
 }
 
-function filterByGroups(elementId, groupIds) {
+export function filterByGroups(elementId, groupIds) {
     if (timelines.has(elementId)) {
         timelines.get(elementId).filterByGroups(groupIds);
         return true;
@@ -599,7 +599,7 @@ function filterByGroups(elementId, groupIds) {
     return false;
 }
 
-function filterByDateRange(elementId, startDate, endDate) {
+export function filterByDateRange(elementId, startDate, endDate) {
     if (timelines.has(elementId)) {
         timelines.get(elementId).filterByDateRange(startDate, endDate);
         return true;
@@ -607,7 +607,7 @@ function filterByDateRange(elementId, startDate, endDate) {
     return false;
 }
 
-function clearFilters(elementId) {
+export function clearFilters(elementId) {
     if (timelines.has(elementId)) {
         timelines.get(elementId).clearFilters();
         return true;
@@ -615,7 +615,7 @@ function clearFilters(elementId) {
     return false;
 }
 
-function getFilterState(elementId) {
+export function getFilterState(elementId) {
     if (timelines.has(elementId)) {
         return timelines.get(elementId).getFilterState();
     }

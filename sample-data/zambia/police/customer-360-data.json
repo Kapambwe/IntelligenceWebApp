@@ -1,0 +1,190 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Profiles": [
+    {
+      "CustomerId": "734dda26-87b5-462f-85a0-bc52a283e4dd",
+      "PrimaryEntity": {
+        "Id": "734dda26-87b5-462f-85a0-bc52a283e4dd",
+        "Name": "Zamtel",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 37
+      },
+      "TotalAssets": 49995748,
+      "NetWorth": 719712,
+      "CurrentRiskScore": 33,
+      "FirstInteractionDate": "2024-12-25T11:14:39.240763Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-8469",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.240789Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    },
+    {
+      "CustomerId": "2484321c-95b5-4974-a5a3-4b0a41bc3492",
+      "PrimaryEntity": {
+        "Id": "2484321c-95b5-4974-a5a3-4b0a41bc3492",
+        "Name": "Zambia Sugar",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 73
+      },
+      "TotalAssets": 29657459,
+      "NetWorth": 8229861,
+      "CurrentRiskScore": 76,
+      "FirstInteractionDate": "2024-12-25T11:14:39.240819Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-1895",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.240825Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    },
+    {
+      "CustomerId": "97d13583-b3b0-4653-97b9-8af34198116d",
+      "PrimaryEntity": {
+        "Id": "97d13583-b3b0-4653-97b9-8af34198116d",
+        "Name": "Blessing Kasolo",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 89
+      },
+      "TotalAssets": 33863054,
+      "NetWorth": 11921462,
+      "CurrentRiskScore": 53,
+      "FirstInteractionDate": "2024-12-25T11:14:39.240846Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-9055",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.240853Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    },
+    {
+      "CustomerId": "f9e3b469-5231-49f3-9ee8-9816cea636a2",
+      "PrimaryEntity": {
+        "Id": "f9e3b469-5231-49f3-9ee8-9816cea636a2",
+        "Name": "Lombe Hichilema",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 55
+      },
+      "TotalAssets": 7251571,
+      "NetWorth": 9579632,
+      "CurrentRiskScore": 40,
+      "FirstInteractionDate": "2024-12-25T11:14:39.240988Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-2367",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.241013Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    },
+    {
+      "CustomerId": "a0cbe50c-60e9-40be-9393-80d8137b28ec",
+      "PrimaryEntity": {
+        "Id": "a0cbe50c-60e9-40be-9393-80d8137b28ec",
+        "Name": "James Chanda",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 56
+      },
+      "TotalAssets": 25395732,
+      "NetWorth": 15346938,
+      "CurrentRiskScore": 71,
+      "FirstInteractionDate": "2024-12-25T11:14:39.241087Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-4075",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.241098Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    }
+  ]
+}

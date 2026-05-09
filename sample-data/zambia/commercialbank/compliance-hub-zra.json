@@ -454,6 +454,126 @@
       "Description": "Transaction processing revealed transaction monitoring involving individual customers",
       "DetectedAt": "2025-11-12T17:30:30Z",
       "Status": "Investigation"
+    },
+    {
+      "Id": "c9809994-50cc-4415-a4c3-fcec562ddc7b",
+      "EntityName": "Moses Kapwepwe",
+      "Severity": "High",
+      "Description": "Unauthorized internal access to high-net-worth client data in Choma.",
+      "Timestamp": "2025-04-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c34de9a0-0dc6-43e9-b238-8c0e2094b281",
+      "EntityName": "Sarah Mulenga",
+      "Severity": "Critical",
+      "Description": "Unauthorized internal access to high-net-worth client data in Kasama.",
+      "Timestamp": "2026-03-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2215cf04-6596-4f1d-b739-5a9523a8436e",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "High",
+      "Description": "Multiple small-value cash deposits (smurfing) across Absa Bank branches in Luanshya.",
+      "Timestamp": "2025-03-31T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a7d83c03-cecd-4643-ab9f-65a393248e54",
+      "EntityName": "Martha Mumba",
+      "Severity": "Medium",
+      "Description": "Loan application fraud involving ghost identities in Sesheke.",
+      "Timestamp": "2025-08-06T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1ddb0bee-0632-46e9-8c60-a9a4418ce7aa",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "High",
+      "Description": "Unauthorized internal access to high-net-worth client data in Kasumbalesa.",
+      "Timestamp": "2025-08-28T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "874c4607-bbe5-4e01-aadb-d9f982baf2b2",
+      "EntityName": "Mary Phiri",
+      "Severity": "Critical",
+      "Description": "Suspicious large-value wire transfers to offshore high-risk jurisdictions.",
+      "Timestamp": "2025-07-09T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "4a7c827a-c4ff-413e-a518-21cce02bf004",
+      "EntityName": "Peter Sinkala",
+      "Severity": "Medium",
+      "Description": "Loan application fraud involving ghost identities in Kabwe.",
+      "Timestamp": "2026-02-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "29e0d282-dcbe-482e-8830-23752dd0f8e2",
+      "EntityName": "Davies Bwalya",
+      "Severity": "Medium",
+      "Description": "Loan application fraud involving ghost identities in Kabwe.",
+      "Timestamp": "2025-03-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a415c3b5-bbd9-472c-9d16-d43eae3bf484",
+      "EntityName": "Grace Mumba",
+      "Severity": "Critical",
+      "Description": "Account takeover attempt detected at Indo-Zambia Bank Mongu branch.",
+      "Timestamp": "2025-06-18T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2bfdde0a-cb5c-40ca-99ad-955ab110c648",
+      "EntityName": "Sarah Mwanawasa",
+      "Severity": "High",
+      "Description": "Loan application fraud involving ghost identities in Livingstone.",
+      "Timestamp": "2025-09-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7f07a33b-af18-440c-97ae-3c5f27b36fc7",
+      "EntityName": "Mary Mumba",
+      "Severity": "High",
+      "Description": "Account takeover attempt detected at Zanaco Chingola branch.",
+      "Timestamp": "2025-12-24T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "fdab6344-3e90-49d7-a515-a5d4eb0331a3",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Medium",
+      "Description": "Loan application fraud involving ghost identities in Choma.",
+      "Timestamp": "2025-08-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2d2b99f2-291d-485c-a357-5184d6f393a4",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Critical",
+      "Description": "Multiple small-value cash deposits (smurfing) across Investrust branches in Sesheke.",
+      "Timestamp": "2025-06-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "335e6d39-6bf6-48ca-881f-5e7d7e1281a7",
+      "EntityName": "Patricia Hichilema",
+      "Severity": "Critical",
+      "Description": "Unauthorized internal access to high-net-worth client data in Chingola.",
+      "Timestamp": "2025-03-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "b9f2d5e6-7ec6-4862-aadd-d26b12e68106",
+      "EntityName": "Catherine Phiri",
+      "Severity": "Critical",
+      "Description": "Account takeover attempt detected at Atlas Mara Mufulira branch.",
+      "Timestamp": "2025-01-15T00:00:00Z",
+      "Status": "New"
     }
   ],
   "RiskTrends": [

@@ -3,7 +3,7 @@
   "Nodes": [
     {
       "Id": "036510fc-07e3-06fd-1816-006a02c5e910",
-      "Name": "Political figures - Livingstone",
+      "Name": "Peter Bwalya",
       "Country": "China",
       "Tier": 1,
       "Category": "manufacturing",
@@ -16,7 +16,7 @@
     },
     {
       "Id": "05bc31f9-1d17-0abb-21de-00812b763013",
-      "Name": "Political figures - Kitwe",
+      "Name": "Sarah Banda",
       "Country": "South Africa",
       "Tier": 2,
       "Category": "logistics",
@@ -29,7 +29,7 @@
     },
     {
       "Id": "01f2fad0-250f-1ed9-265c-009167a4f7fb",
-      "Name": "Contractors - Lusaka",
+      "Name": "Mutale Nyirenda",
       "Country": "Zimbabwe",
       "Tier": 1,
       "Category": "manufacturing",
@@ -42,7 +42,7 @@
     },
     {
       "Id": "04d7e770-1112-0e34-2232-00c60d4c7569",
-      "Name": "Political figures - Kitwe",
+      "Name": "Catherine Banda",
       "Country": "Zimbabwe",
       "Tier": 2,
       "Category": "services",
@@ -55,7 +55,7 @@
     },
     {
       "Id": "00ea8847-0c13-0ef6-25df-0098fa2d7d6b",
-      "Name": "Political figures - Livingstone",
+      "Name": "Mutale Mumba",
       "Country": "China",
       "Tier": 3,
       "Category": "logistics",
@@ -68,7 +68,7 @@
     },
     {
       "Id": "0575efe2-0a3e-0d78-0c8c-004283d0b39f",
-      "Name": "Political figures - Lusaka",
+      "Name": "John Zulu",
       "Country": "Zimbabwe",
       "Tier": 1,
       "Category": "manufacturing",
@@ -81,7 +81,7 @@
     },
     {
       "Id": "04c122a5-0a25-21d2-2302-00b591c4832a",
-      "Name": "Government departments - Kitwe",
+      "Name": "Mutale Mulenga",
       "Country": "Zambia",
       "Tier": 1,
       "Category": "manufacturing",
@@ -94,7 +94,7 @@
     },
     {
       "Id": "01925f80-1557-1c2d-230a-005f399a47b3",
-      "Name": "Political figures - Kitwe",
+      "Name": "John Mumba",
       "Country": "Zambia",
       "Tier": 1,
       "Category": "logistics",
@@ -107,7 +107,7 @@
     },
     {
       "Id": "027083e1-091e-1086-1f22-00278d91bda2",
-      "Name": "Political figures - Ndola",
+      "Name": "Chileshe Chanda",
       "Country": "Zambia",
       "Tier": 3,
       "Category": "rawMaterials",
@@ -120,7 +120,7 @@
     },
     {
       "Id": "05d1bf54-1e0d-0a76-08aa-002e3233c991",
-      "Name": "Contractors - Livingstone",
+      "Name": "James Mumba",
       "Country": "South Africa",
       "Tier": 1,
       "Category": "services",
@@ -133,7 +133,7 @@
     },
     {
       "Id": "040b6c4f-0c20-1652-23bc-0089f7069f1b",
-      "Name": "Public officials - Kabwe",
+      "Name": "Martha Chisenga",
       "Country": "China",
       "Tier": 1,
       "Category": "manufacturing",
@@ -146,7 +146,7 @@
     },
     {
       "Id": "00efda50-186e-163a-2191-006f7b4a126d",
-      "Name": "Political figures - Livingstone",
+      "Name": "Peter Chisenga",
       "Country": "DRC",
       "Tier": 2,
       "Category": "logistics",
@@ -159,7 +159,7 @@
     },
     {
       "Id": "021826f6-078b-0f63-1746-00672b563de1",
-      "Name": "Government departments - Lusaka",
+      "Name": "Mary Sinkala",
       "Country": "DRC",
       "Tier": 2,
       "Category": "manufacturing",
@@ -172,7 +172,7 @@
     },
     {
       "Id": "02e70bb2-0548-0a9b-0723-003b1bf7261a",
-      "Name": "Contractors - Ndola",
+      "Name": "Sarah Banda",
       "Country": "DRC",
       "Tier": 2,
       "Category": "manufacturing",
@@ -185,7 +185,7 @@
     },
     {
       "Id": "04e05d24-0561-0a40-03f9-006e7a16bc1e",
-      "Name": "Political figures - Kabwe",
+      "Name": "Emmanuel Lungu",
       "Country": "China",
       "Tier": 1,
       "Category": "rawMaterials",
@@ -198,7 +198,7 @@
     },
     {
       "Id": "014f3f88-24b7-157b-1475-001c96f4adef",
-      "Name": "Public officials - Lusaka",
+      "Name": "Martha Zulu",
       "Country": "South Africa",
       "Tier": 1,
       "Category": "logistics",
@@ -211,7 +211,7 @@
     },
     {
       "Id": "01bf8c8b-0f14-174e-18ec-00346aa81461",
-      "Name": "Political figures - Kitwe",
+      "Name": "Martha Mumba",
       "Country": "China",
       "Tier": 2,
       "Category": "services",
@@ -224,7 +224,7 @@
     },
     {
       "Id": "03c141c9-237c-1a8e-1251-0070562f5df8",
-      "Name": "Government departments - Kabwe",
+      "Name": "Chileshe Zulu",
       "Country": "Zimbabwe",
       "Tier": 1,
       "Category": "logistics",
@@ -237,7 +237,7 @@
     },
     {
       "Id": "05da4815-07c7-1000-20f4-0054b550fc21",
-      "Name": "Public officials - Ndola",
+      "Name": "Moses Zulu",
       "Country": "Zambia",
       "Tier": 3,
       "Category": "rawMaterials",
@@ -250,7 +250,7 @@
     },
     {
       "Id": "029c128a-1ca7-0e66-09fa-0057bed4e415",
-      "Name": "Public officials - Lusaka",
+      "Name": "Mary Sinkala",
       "Country": "China",
       "Tier": 2,
       "Category": "manufacturing",
@@ -263,7 +263,7 @@
     },
     {
       "Id": "030635da-1632-1cfe-1ced-00b2ac842faa",
-      "Name": "Public officials - Kabwe",
+      "Name": "Chileshe Sinkala",
       "Country": "China",
       "Tier": 2,
       "Category": "logistics",
@@ -276,7 +276,7 @@
     },
     {
       "Id": "02fa2201-07b9-1c63-05e3-00cecff772a7",
-      "Name": "Contractors - Kitwe",
+      "Name": "Mutale Chisenga",
       "Country": "Zambia",
       "Tier": 3,
       "Category": "logistics",
@@ -289,7 +289,7 @@
     },
     {
       "Id": "054aedc5-1c8a-0aa3-05aa-0090340cb037",
-      "Name": "Public officials - Kabwe",
+      "Name": "Mary Zulu",
       "Country": "Zimbabwe",
       "Tier": 1,
       "Category": "manufacturing",
@@ -302,7 +302,7 @@
     },
     {
       "Id": "04de82ce-1521-062c-12c3-005872890194",
-      "Name": "Political figures - Ndola",
+      "Name": "Mutale Mumba",
       "Country": "DRC",
       "Tier": 1,
       "Category": "logistics",
@@ -315,7 +315,7 @@
     },
     {
       "Id": "05cf1006-08d5-0962-06d4-00c787652d60",
-      "Name": "Political figures - Livingstone",
+      "Name": "Moses Nyirenda",
       "Country": "China",
       "Tier": 3,
       "Category": "manufacturing",
@@ -328,7 +328,7 @@
     },
     {
       "Id": "05f372ff-2101-0faa-1b0e-005247eb14b8",
-      "Name": "Contractors - Lusaka",
+      "Name": "Catherine Zulu",
       "Country": "Zimbabwe",
       "Tier": 3,
       "Category": "rawMaterials",
@@ -341,7 +341,7 @@
     },
     {
       "Id": "01f8bf93-2086-1699-090a-0056f640af1e",
-      "Name": "Political figures - Lusaka",
+      "Name": "Joseph Phiri",
       "Country": "South Africa",
       "Tier": 2,
       "Category": "manufacturing",
@@ -354,7 +354,7 @@
     },
     {
       "Id": "03f7872e-1531-13c3-1c90-00cd8a7472ce",
-      "Name": "Political figures - Ndola",
+      "Name": "Mary Chisenga",
       "Country": "Zimbabwe",
       "Tier": 1,
       "Category": "rawMaterials",
@@ -367,7 +367,7 @@
     },
     {
       "Id": "0175d15e-0eab-09e0-0ce5-00d32653bd2a",
-      "Name": "Government departments - Livingstone",
+      "Name": "Mutale Banda",
       "Country": "Zimbabwe",
       "Tier": 1,
       "Category": "manufacturing",
@@ -380,7 +380,7 @@
     },
     {
       "Id": "03c19754-19d0-15b0-0dc6-009748a0f759",
-      "Name": "Contractors - Ndola",
+      "Name": "Moses Nyirenda",
       "Country": "Zimbabwe",
       "Tier": 1,
       "Category": "logistics",
@@ -393,7 +393,7 @@
     },
     {
       "Id": "02b37528-1baf-0c8d-22e5-00cb6d3353ec",
-      "Name": "Political figures - Ndola",
+      "Name": "Grace Banda",
       "Country": "China",
       "Tier": 3,
       "Category": "rawMaterials",
@@ -406,7 +406,7 @@
     },
     {
       "Id": "043b5c70-0514-23b6-1439-00882a1a8260",
-      "Name": "Public officials - Lusaka",
+      "Name": "John Mwamba",
       "Country": "Zimbabwe",
       "Tier": 2,
       "Category": "manufacturing",
@@ -419,7 +419,7 @@
     },
     {
       "Id": "022d3243-08ca-1320-1745-002d9f081a24",
-      "Name": "Government departments - Lusaka",
+      "Name": "Grace Sinkala",
       "Country": "China",
       "Tier": 3,
       "Category": "logistics",
@@ -432,7 +432,7 @@
     },
     {
       "Id": "00a442a3-0a16-206b-2227-008e93df9484",
-      "Name": "Government departments - Kitwe",
+      "Name": "Mary Banda",
       "Country": "Zimbabwe",
       "Tier": 3,
       "Category": "logistics",
@@ -445,7 +445,7 @@
     },
     {
       "Id": "01c42f72-094f-0a7f-0eeb-0023a4037a44",
-      "Name": "Contractors - Ndola",
+      "Name": "John Banda",
       "Country": "South Africa",
       "Tier": 1,
       "Category": "logistics",
@@ -458,7 +458,7 @@
     },
     {
       "Id": "01f446aa-1816-12ed-096a-007fe8e8191e",
-      "Name": "Government departments - Kabwe",
+      "Name": "Martha Mulenga",
       "Country": "Zimbabwe",
       "Tier": 3,
       "Category": "rawMaterials",
@@ -471,7 +471,7 @@
     },
     {
       "Id": "03c227fa-06de-2041-1ecb-00b49aa98527",
-      "Name": "Contractors - Kabwe",
+      "Name": "Sarah Chanda",
       "Country": "DRC",
       "Tier": 3,
       "Category": "rawMaterials",
@@ -484,7 +484,7 @@
     },
     {
       "Id": "054f6a43-1d4d-1b02-1494-00d029848741",
-      "Name": "Contractors - Ndola",
+      "Name": "Martha Chanda",
       "Country": "DRC",
       "Tier": 3,
       "Category": "rawMaterials",
@@ -497,7 +497,7 @@
     },
     {
       "Id": "048c9571-168f-1dcf-1764-00333a684dbf",
-      "Name": "Contractors - Kabwe",
+      "Name": "John Bwalya",
       "Country": "China",
       "Tier": 2,
       "Category": "manufacturing",
@@ -510,7 +510,7 @@
     },
     {
       "Id": "0115b417-26cf-06bf-1ea3-00875350ae8f",
-      "Name": "Political figures - Kabwe",
+      "Name": "Grace Phiri",
       "Country": "DRC",
       "Tier": 2,
       "Category": "services",
@@ -523,7 +523,7 @@
     },
     {
       "Id": "02654b35-1448-1673-20a5-0060e7aae2bb",
-      "Name": "Government departments - Ndola",
+      "Name": "Grace Chanda",
       "Country": "Zambia",
       "Tier": 3,
       "Category": "manufacturing",
@@ -536,7 +536,7 @@
     },
     {
       "Id": "00d98de5-140e-197c-1341-00cd7cafea67",
-      "Name": "Public officials - Kabwe",
+      "Name": "Emmanuel Lungu",
       "Country": "Zambia",
       "Tier": 3,
       "Category": "logistics",
@@ -549,7 +549,7 @@
     },
     {
       "Id": "049f2ee5-0d27-2171-2672-00a22a0a60fe",
-      "Name": "Government departments - Kabwe",
+      "Name": "Joseph Chisenga",
       "Country": "Zambia",
       "Tier": 3,
       "Category": "rawMaterials",
@@ -562,7 +562,7 @@
     },
     {
       "Id": "026c74d2-0ccc-2558-163c-006bd6b07ad9",
-      "Name": "Contractors - Kabwe",
+      "Name": "Moses Banda",
       "Country": "Zimbabwe",
       "Tier": 3,
       "Category": "rawMaterials",
@@ -575,7 +575,7 @@
     },
     {
       "Id": "03128271-04ff-0a72-1217-009b042031de",
-      "Name": "Government departments - Ndola",
+      "Name": "Catherine Mwamba",
       "Country": "Zambia",
       "Tier": 3,
       "Category": "rawMaterials",
@@ -588,7 +588,7 @@
     },
     {
       "Id": "010a55c6-0ce9-1919-237d-003034a108bb",
-      "Name": "Contractors - Lusaka",
+      "Name": "Martha Mulenga",
       "Country": "South Africa",
       "Tier": 3,
       "Category": "rawMaterials",
@@ -601,7 +601,7 @@
     },
     {
       "Id": "00ca37eb-12f6-1f64-134f-00b186913e95",
-      "Name": "Political figures - Lusaka",
+      "Name": "Mutale Zulu",
       "Country": "China",
       "Tier": 2,
       "Category": "manufacturing",
@@ -614,7 +614,7 @@
     },
     {
       "Id": "034f363c-1757-251a-161a-0088edf8e48d",
-      "Name": "Political figures - Ndola",
+      "Name": "Peter Chanda",
       "Country": "Zambia",
       "Tier": 3,
       "Category": "services",
@@ -627,7 +627,7 @@
     },
     {
       "Id": "00e6e245-2256-0b81-147a-00d8b853b3f6",
-      "Name": "Contractors - Lusaka",
+      "Name": "Joseph Chisenga",
       "Country": "Zambia",
       "Tier": 3,
       "Category": "manufacturing",
@@ -640,7 +640,7 @@
     },
     {
       "Id": "021b03a7-0d02-0f92-23ae-00ca22babc77",
-      "Name": "Public officials - Livingstone",
+      "Name": "Sarah Mumba",
       "Country": "Zimbabwe",
       "Tier": 1,
       "Category": "manufacturing",
@@ -650,6 +650,201 @@
         "illicit enrichment"
       ],
       "AnnualSpend": 530424.9
+    },
+    {
+      "Id": "85bd5a27-8e30-4a9d-a2d5-28c436e4f9ea",
+      "Name": "Eagle Eye Security",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 50.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 11606970.0
+    },
+    {
+      "Id": "f5c63b30-6e25-4ed3-9388-af9b3600a06b",
+      "Name": "Apex Road Contractors Ltd",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 45.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 16390534.0
+    },
+    {
+      "Id": "4bfcbd25-9720-4052-91be-86fc79d164e0",
+      "Name": "Emmanuel Kapwepwe",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 25.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 2445827.0
+    },
+    {
+      "Id": "eb10e0df-3ffb-497a-adf9-a48970e90fd0",
+      "Name": "KCM Suppliers",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 16.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 12558366.0
+    },
+    {
+      "Id": "b23d0aed-2b6e-4a6b-b017-f54241ad852e",
+      "Name": "Kennedy Lungu",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 12.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 19436506.0
+    },
+    {
+      "Id": "126c70a2-0af2-4fff-b2e9-83e741cacf19",
+      "Name": "Moses Nyirenda",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 58.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 513112.0
+    },
+    {
+      "Id": "4467bb1f-8fbc-4ce2-aa54-29d11dbbe84c",
+      "Name": "Southern Cross Enterprises",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 30.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 15681428.0
+    },
+    {
+      "Id": "21ba444f-69d9-4946-a55e-b6c2147169b9",
+      "Name": "Kafue Logistics",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 35.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 8951246.0
+    },
+    {
+      "Id": "623cfa1f-9289-4e13-ab86-649da171771a",
+      "Name": "Catherine Mulenga",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 54.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 15071457.0
+    },
+    {
+      "Id": "14600b3e-4bbd-4948-88d7-1d3cc1696b58",
+      "Name": "John Kapwepwe",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 35.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 4988918.0
+    },
+    {
+      "Id": "49daa1e0-9d1c-4160-b765-a3475ba77e99",
+      "Name": "Joseph Mundia",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 100.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 3544375.0
+    },
+    {
+      "Id": "9e29117a-ec50-4d24-9c4b-aba6e2cb15f2",
+      "Name": "Kitwe Hardware Solutions",
+      "Country": "China",
+      "Tier": 2,
+      "Category": "manufacturing",
+      "RiskScore": 70.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 18077934.0
+    },
+    {
+      "Id": "018cbed7-d55a-48a4-8932-78a652be226a",
+      "Name": "Martha Tembo",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 44.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 18493806.0
+    },
+    {
+      "Id": "f6d68e9a-7c82-4ca2-b152-175c27962809",
+      "Name": "Zambia Sugar Corp",
+      "Country": "China",
+      "Tier": 1,
+      "Category": "manufacturing",
+      "RiskScore": 21.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 2386203.0
+    },
+    {
+      "Id": "5e07a303-4f09-45ba-a68d-5e737a35806a",
+      "Name": "James Tembo",
+      "Country": "China",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 88.0,
+      "IsCritical": false,
+      "Products": [
+        "abuse of office"
+      ],
+      "AnnualSpend": 3608195.0
     }
   ],
   "Edges": [

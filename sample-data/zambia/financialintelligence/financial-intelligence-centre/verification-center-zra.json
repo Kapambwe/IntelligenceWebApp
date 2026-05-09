@@ -1161,6 +1161,256 @@
           "CompletedAt": "2025-12-03T17:30:30Z"
         }
       ]
+    },
+    {
+      "Id": "4e9be3fb-0bd0-476b-a0c0-20bd179312e8",
+      "EntityId": "0495c0fe-0ca2-1bc9-0717-0070df7a135f",
+      "EntityName": "Victoria Falls Power",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-07-31T00:00:00Z",
+      "Notes": "Enforcement for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "ca30e460-4b5c-4d94-91a1-6aa2f8e7e4a6",
+      "EntityId": "0495c0fe-0ca2-1bc9-0717-0070df7a135f",
+      "EntityName": "Hope Mundia",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-02-02T00:00:00Z",
+      "Notes": "Enforcement for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "b7067437-4698-4934-a844-5be24066872d",
+      "EntityId": "0495c0fe-0ca2-1bc9-0717-0070df7a135f",
+      "EntityName": "Gift Mundia",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-06-09T00:00:00Z",
+      "Notes": "Enforcement for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "3c532e92-71ea-446f-ae0a-88a33b756c4a",
+      "EntityId": "0495c0fe-0ca2-1bc9-0717-0070df7a135f",
+      "EntityName": "Eagle Eye Security",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-02-20T00:00:00Z",
+      "Notes": "Enforcement for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "a2491933-add7-4040-8f93-e6b72db6a3ba",
+      "EntityId": "0495c0fe-0ca2-1bc9-0717-0070df7a135f",
+      "EntityName": "Zambia Sugar Corp",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-02-06T00:00:00Z",
+      "Notes": "Enforcement for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "426679c9-a17d-4b6d-bbb6-b10d5b9fced5",
+      "EntityId": "0495c0fe-0ca2-1bc9-0717-0070df7a135f",
+      "EntityName": "Mukwa Engineering",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-02-16T00:00:00Z",
+      "Notes": "Enforcement for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "303d1489-4c4f-4f84-97c3-3a0f6a79ed7c",
+      "EntityId": "0495c0fe-0ca2-1bc9-0717-0070df7a135f",
+      "EntityName": "Tazara Freight",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-03-21T00:00:00Z",
+      "Notes": "Enforcement for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "8304931d-6297-4133-9a61-1fedb4b653e5",
+      "EntityId": "0495c0fe-0ca2-1bc9-0717-0070df7a135f",
+      "EntityName": "Eagle Eye Security",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-06-28T00:00:00Z",
+      "Notes": "Enforcement for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "7fa2cab2-40c4-4265-999f-d622fd545dd1",
+      "EntityId": "0495c0fe-0ca2-1bc9-0717-0070df7a135f",
+      "EntityName": "Mary Banda",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2026-03-03T00:00:00Z",
+      "Notes": "Enforcement for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "8932f572-6ec0-4fe5-a7ed-4bfbd1c856fc",
+      "EntityId": "0495c0fe-0ca2-1bc9-0717-0070df7a135f",
+      "EntityName": "Joseph Hichilema",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-02-19T00:00:00Z",
+      "Notes": "Enforcement for suspicious transactions verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "Description": null,
+      "Summary": null
     }
   ],
   "Statistics": {

@@ -9,7 +9,7 @@
       "Id": "033de01c-1590-1e0d-25a7-00d4c19d3ed5",
       "Type": "Graft",
       "Severity": "Medium",
-      "EntityName": "Contractors - Ndola",
+      "EntityName": "Moses Chisenga",
       "Description": "Asset recovery revealed bribery involving public officials",
       "DetectedAt": "2026-01-07T17:30:30Z",
       "Status": "Pending"
@@ -18,7 +18,7 @@
       "Id": "0552c6d8-17d6-0ded-09f9-00d989eee9b3",
       "Type": "Graft",
       "Severity": "Critical",
-      "EntityName": "Public officials - Ndola",
+      "EntityName": "Mukwa Engineering",
       "Description": "Investigation revealed abuse of office involving political figures",
       "DetectedAt": "2025-12-15T17:30:30Z",
       "Status": "Investigation"
@@ -27,7 +27,7 @@
       "Id": "00e67aa6-0a58-1807-16f8-0098e722d801",
       "Type": "Corruption",
       "Severity": "Medium",
-      "EntityName": "Government departments - Kitwe",
+      "EntityName": "Joseph Banda",
       "Description": "Conviction revealed bribery involving contractors",
       "DetectedAt": "2026-01-16T17:30:30Z",
       "Status": "Pending"
@@ -36,7 +36,7 @@
       "Id": "050e482c-0410-1eac-12f6-0093e584be7a",
       "Type": "Corruption",
       "Severity": "Medium",
-      "EntityName": "Contractors - Ndola",
+      "EntityName": "Grace Sinkala",
       "Description": "Plea agreement revealed graft involving government departments",
       "DetectedAt": "2025-11-14T17:30:30Z",
       "Status": "Escalated"
@@ -45,7 +45,7 @@
       "Id": "04705ac8-1f24-04e8-1517-00a3a2840946",
       "Type": "Illicit enrichment",
       "Severity": "Critical",
-      "EntityName": "Political figures - Lusaka",
+      "EntityName": "Sarah Chisenga",
       "Description": "Asset forfeiture revealed bribery involving public officials",
       "DetectedAt": "2026-01-04T17:30:30Z",
       "Status": "Resolved"
@@ -54,7 +54,7 @@
       "Id": "0322efb6-2315-17f2-1478-0056cad3ad90",
       "Type": "Bribery",
       "Severity": "Low",
-      "EntityName": "Government departments - Lusaka",
+      "EntityName": "Mary Mwamba",
       "Description": "Asset forfeiture revealed illicit enrichment involving public officials",
       "DetectedAt": "2025-11-02T17:30:30Z",
       "Status": "Investigation"
@@ -63,7 +63,7 @@
       "Id": "0587b528-1794-0b8e-06d9-00300b3f42ae",
       "Type": "Graft",
       "Severity": "High",
-      "EntityName": "Political figures - Kitwe",
+      "EntityName": "Moses Nyirenda",
       "Description": "Investigation revealed bribery involving government departments",
       "DetectedAt": "2025-11-29T17:30:30Z",
       "Status": "Investigation"
@@ -72,7 +72,7 @@
       "Id": "01039976-2334-0a3f-13d8-002cb1a8f1b1",
       "Type": "Graft",
       "Severity": "Critical",
-      "EntityName": "Public officials - Kitwe",
+      "EntityName": "Kitwe Hardware Solutions",
       "Description": "Asset recovery revealed corruption involving government departments",
       "DetectedAt": "2025-12-07T17:30:30Z",
       "Status": "Escalated"
@@ -81,7 +81,7 @@
       "Id": "0554f435-0ac3-09c0-0d3e-00da59c81402",
       "Type": "Graft",
       "Severity": "Critical",
-      "EntityName": "Contractors - Kabwe",
+      "EntityName": "Apex Road Contractors Ltd",
       "Description": "Asset recovery revealed graft involving government departments",
       "DetectedAt": "2025-10-22T17:30:30Z",
       "Status": "Resolved"
@@ -90,7 +90,7 @@
       "Id": "02683c7e-253b-04d7-24ef-007b7eb479b1",
       "Type": "Corruption",
       "Severity": "Low",
-      "EntityName": "Contractors - Lusaka",
+      "EntityName": "Mary Nyirenda",
       "Description": "Asset recovery revealed corruption involving political figures",
       "DetectedAt": "2026-01-18T17:30:30Z",
       "Status": "Escalated"
@@ -99,7 +99,7 @@
       "Id": "029c8e80-2644-06bd-1b22-00885f2edf26",
       "Type": "Bribery",
       "Severity": "Medium",
-      "EntityName": "Political figures - Lusaka",
+      "EntityName": "Mary Chisenga",
       "Description": "Asset recovery revealed abuse of office involving contractors",
       "DetectedAt": "2025-10-31T17:30:30Z",
       "Status": "Escalated"
@@ -108,7 +108,7 @@
       "Id": "01542a45-0aad-1a87-0e1e-00552093ea47",
       "Type": "Graft",
       "Severity": "High",
-      "EntityName": "Political figures - Ndola",
+      "EntityName": "Kitwe Hardware Solutions",
       "Description": "Asset forfeiture revealed bribery involving government departments",
       "DetectedAt": "2026-01-19T17:30:30Z",
       "Status": "Investigation"
@@ -117,7 +117,7 @@
       "Id": "00f9023b-0cde-14cb-0478-0075c29b0688",
       "Type": "Graft",
       "Severity": "Medium",
-      "EntityName": "Political figures - Ndola",
+      "EntityName": "Kwacha Services",
       "Description": "Investigation revealed illicit enrichment involving government departments",
       "DetectedAt": "2026-01-15T17:30:30Z",
       "Status": "Investigation"
@@ -126,7 +126,7 @@
       "Id": "01322e8e-1688-22d6-1067-004c00559d2f",
       "Type": "Graft",
       "Severity": "Critical",
-      "EntityName": "Political figures - Ndola",
+      "EntityName": "Chileshe Bwalya",
       "Description": "Asset forfeiture revealed corruption involving public officials",
       "DetectedAt": "2025-11-30T17:30:30Z",
       "Status": "Resolved"
@@ -135,7 +135,7 @@
       "Id": "0313d1f6-109f-0a1c-0e5c-00c82a15e7b6",
       "Type": "Bribery",
       "Severity": "Medium",
-      "EntityName": "Political figures - Livingstone",
+      "EntityName": "Kitwe Hardware Solutions",
       "Description": "Plea agreement revealed corruption involving contractors",
       "DetectedAt": "2025-11-26T17:30:30Z",
       "Status": "Escalated"
@@ -144,7 +144,7 @@
       "Id": "01e30ebc-140e-26a3-0971-009b0f013257",
       "Type": "Abuse of office",
       "Severity": "Medium",
-      "EntityName": "Contractors - Kitwe",
+      "EntityName": "John Chanda",
       "Description": "Plea agreement revealed bribery involving government departments",
       "DetectedAt": "2025-12-05T17:30:30Z",
       "Status": "Escalated"
@@ -153,7 +153,7 @@
       "Id": "01c8601e-23a7-267f-1256-003f87ff3b51",
       "Type": "Abuse of office",
       "Severity": "Low",
-      "EntityName": "Political figures - Kabwe",
+      "EntityName": "Luangwa Imports",
       "Description": "Investigation revealed illicit enrichment involving public officials",
       "DetectedAt": "2025-10-27T17:30:30Z",
       "Status": "Investigation"
@@ -162,7 +162,7 @@
       "Id": "05f4c88f-0cfc-0f12-1faf-00289af9fdcb",
       "Type": "Bribery",
       "Severity": "High",
-      "EntityName": "Contractors - Kitwe",
+      "EntityName": "Joseph Chanda",
       "Description": "Investigation revealed corruption involving government departments",
       "DetectedAt": "2025-10-22T17:30:30Z",
       "Status": "Resolved"
@@ -171,7 +171,7 @@
       "Id": "04a781da-1bc5-152a-2537-00a7439dc0e3",
       "Type": "Abuse of office",
       "Severity": "Critical",
-      "EntityName": "Political figures - Kitwe",
+      "EntityName": "Sarah Bwalya",
       "Description": "Asset recovery revealed corruption involving government departments",
       "DetectedAt": "2025-12-29T17:30:30Z",
       "Status": "Resolved"
@@ -180,7 +180,7 @@
       "Id": "05769ee5-06e9-223d-1e39-00d9b42f36ca",
       "Type": "Illicit enrichment",
       "Severity": "Critical",
-      "EntityName": "Government departments - Ndola",
+      "EntityName": "Lusaka BuildCon",
       "Description": "Asset forfeiture revealed graft involving contractors",
       "DetectedAt": "2025-10-29T17:30:30Z",
       "Status": "Resolved"
@@ -189,7 +189,7 @@
       "Id": "02a3375d-108e-108f-2043-00e64efd4dd5",
       "Type": "Corruption",
       "Severity": "Critical",
-      "EntityName": "Government departments - Livingstone",
+      "EntityName": "Mutale Banda",
       "Description": "Asset forfeiture revealed bribery involving contractors",
       "DetectedAt": "2025-11-12T17:30:30Z",
       "Status": "Resolved"
@@ -198,7 +198,7 @@
       "Id": "05a6734b-14d5-2590-10a1-00a8c7fc9e73",
       "Type": "Corruption",
       "Severity": "Low",
-      "EntityName": "Public officials - Lusaka",
+      "EntityName": "Mary Zulu",
       "Description": "Plea agreement revealed corruption involving contractors",
       "DetectedAt": "2025-12-27T17:30:30Z",
       "Status": "Pending"
@@ -207,7 +207,7 @@
       "Id": "0542955a-20aa-06de-041a-0027bcd0d1ed",
       "Type": "Graft",
       "Severity": "High",
-      "EntityName": "Political figures - Kitwe",
+      "EntityName": "Copperbelt Suppliers",
       "Description": "Conviction revealed illicit enrichment involving public officials",
       "DetectedAt": "2025-11-11T17:30:30Z",
       "Status": "Investigation"
@@ -216,7 +216,7 @@
       "Id": "03ca1d21-24f3-1212-0b77-00587a9a632a",
       "Type": "Graft",
       "Severity": "Critical",
-      "EntityName": "Contractors - Kabwe",
+      "EntityName": "Southern Cross Enterprises",
       "Description": "Asset forfeiture revealed abuse of office involving contractors",
       "DetectedAt": "2025-11-02T17:30:30Z",
       "Status": "Resolved"
@@ -225,7 +225,7 @@
       "Id": "041c850a-26c0-0d87-1e89-0057337306d9",
       "Type": "Corruption",
       "Severity": "Medium",
-      "EntityName": "Political figures - Ndola",
+      "EntityName": "Kwacha Services",
       "Description": "Asset recovery revealed abuse of office involving government departments",
       "DetectedAt": "2025-12-23T17:30:30Z",
       "Status": "Resolved"
@@ -234,7 +234,7 @@
       "Id": "04ef99ea-243e-1dd4-13cf-007c75abab34",
       "Type": "Abuse of office",
       "Severity": "Low",
-      "EntityName": "Contractors - Ndola",
+      "EntityName": "Southern Cross Enterprises",
       "Description": "Asset recovery revealed bribery involving public officials",
       "DetectedAt": "2026-01-08T17:30:30Z",
       "Status": "Resolved"
@@ -243,7 +243,7 @@
       "Id": "03e54892-1613-0446-1f07-0056eb1abc5e",
       "Type": "Bribery",
       "Severity": "Low",
-      "EntityName": "Political figures - Livingstone",
+      "EntityName": "Mukwa Engineering",
       "Description": "Asset recovery revealed graft involving public officials",
       "DetectedAt": "2025-12-04T17:30:30Z",
       "Status": "Investigation"
@@ -252,7 +252,7 @@
       "Id": "01aff1ac-1d34-131b-163b-001a140eb5ed",
       "Type": "Bribery",
       "Severity": "Medium",
-      "EntityName": "Government departments - Livingstone",
+      "EntityName": "Mukwa Engineering",
       "Description": "Asset recovery revealed corruption involving public officials",
       "DetectedAt": "2025-12-26T17:30:30Z",
       "Status": "Resolved"
@@ -261,7 +261,7 @@
       "Id": "0425ba76-0404-076b-11cb-0040254b5d46",
       "Type": "Abuse of office",
       "Severity": "Low",
-      "EntityName": "Contractors - Ndola",
+      "EntityName": "Kwacha Services",
       "Description": "Asset recovery revealed bribery involving political figures",
       "DetectedAt": "2025-12-31T17:30:30Z",
       "Status": "Investigation"
@@ -270,7 +270,7 @@
       "Id": "044a64f8-1cfa-2698-100c-0035989f5ad2",
       "Type": "Bribery",
       "Severity": "Low",
-      "EntityName": "Public officials - Kitwe",
+      "EntityName": "Ndola Agro",
       "Description": "Plea agreement revealed illicit enrichment involving contractors",
       "DetectedAt": "2025-11-26T17:30:30Z",
       "Status": "Resolved"
@@ -279,7 +279,7 @@
       "Id": "01a7dab8-2183-1c2e-108c-0064e3e53d65",
       "Type": "Bribery",
       "Severity": "High",
-      "EntityName": "Government departments - Lusaka",
+      "EntityName": "Catherine Tembo",
       "Description": "Plea agreement revealed bribery involving contractors",
       "DetectedAt": "2025-10-27T17:30:30Z",
       "Status": "Resolved"
@@ -288,7 +288,7 @@
       "Id": "009a1762-1cb4-0b9c-13a6-005724ebcb2f",
       "Type": "Illicit enrichment",
       "Severity": "Low",
-      "EntityName": "Government departments - Kabwe",
+      "EntityName": "Southern Cross Enterprises",
       "Description": "Conviction revealed illicit enrichment involving contractors",
       "DetectedAt": "2025-12-01T17:30:30Z",
       "Status": "Pending"
@@ -297,7 +297,7 @@
       "Id": "056db9ea-0926-1ec7-1269-008c820db4a3",
       "Type": "Corruption",
       "Severity": "Low",
-      "EntityName": "Public officials - Livingstone",
+      "EntityName": "Joseph Chanda",
       "Description": "Investigation revealed abuse of office involving political figures",
       "DetectedAt": "2025-12-12T17:30:30Z",
       "Status": "Pending"
@@ -306,7 +306,7 @@
       "Id": "00ecf899-0a03-18b6-1b1f-00cddcdb0eb4",
       "Type": "Graft",
       "Severity": "Low",
-      "EntityName": "Public officials - Lusaka",
+      "EntityName": "Joseph Tembo",
       "Description": "Asset recovery revealed illicit enrichment involving government departments",
       "DetectedAt": "2025-11-26T17:30:30Z",
       "Status": "Escalated"
@@ -315,7 +315,7 @@
       "Id": "01181412-0bd5-19c3-1057-00b154d0810c",
       "Type": "Illicit enrichment",
       "Severity": "Low",
-      "EntityName": "Contractors - Lusaka",
+      "EntityName": "Kitwe Hardware Solutions",
       "Description": "Investigation revealed corruption involving political figures",
       "DetectedAt": "2025-12-28T17:30:30Z",
       "Status": "Resolved"
@@ -324,7 +324,7 @@
       "Id": "02ffdfa3-1c64-1a30-2528-00963822f78d",
       "Type": "Bribery",
       "Severity": "Low",
-      "EntityName": "Government departments - Lusaka",
+      "EntityName": "Copperbelt Suppliers",
       "Description": "Plea agreement revealed illicit enrichment involving contractors",
       "DetectedAt": "2025-12-21T17:30:30Z",
       "Status": "Resolved"
@@ -333,7 +333,7 @@
       "Id": "036be6c3-15fd-1fd9-0d55-00e22af7ddae",
       "Type": "Corruption",
       "Severity": "Low",
-      "EntityName": "Government departments - Kitwe",
+      "EntityName": "Luangwa Imports",
       "Description": "Plea agreement revealed corruption involving contractors",
       "DetectedAt": "2025-12-08T17:30:30Z",
       "Status": "Escalated"
@@ -342,7 +342,7 @@
       "Id": "05dcfce7-1897-0447-0890-006650ce9ae7",
       "Type": "Abuse of office",
       "Severity": "High",
-      "EntityName": "Political figures - Kitwe",
+      "EntityName": "Kwacha Services",
       "Description": "Asset recovery revealed corruption involving political figures",
       "DetectedAt": "2025-11-11T17:30:30Z",
       "Status": "Resolved"
@@ -351,7 +351,7 @@
       "Id": "02f248b2-1a17-231f-05c1-006792ce29da",
       "Type": "Abuse of office",
       "Severity": "Medium",
-      "EntityName": "Public officials - Lusaka",
+      "EntityName": "Grace Banda",
       "Description": "Conviction revealed abuse of office involving political figures",
       "DetectedAt": "2026-01-17T17:30:30Z",
       "Status": "Escalated"
@@ -360,7 +360,7 @@
       "Id": "03638825-046b-16f8-2682-00e0b8e37e1a",
       "Type": "Corruption",
       "Severity": "Low",
-      "EntityName": "Political figures - Livingstone",
+      "EntityName": "Martha Banda",
       "Description": "Conviction revealed corruption involving government departments",
       "DetectedAt": "2025-12-19T17:30:30Z",
       "Status": "Resolved"
@@ -369,7 +369,7 @@
       "Id": "03113a38-1c9a-1ab0-2234-001ad748fa25",
       "Type": "Bribery",
       "Severity": "High",
-      "EntityName": "Political figures - Kitwe",
+      "EntityName": "Lusaka BuildCon",
       "Description": "Asset forfeiture revealed bribery involving contractors",
       "DetectedAt": "2025-12-29T17:30:30Z",
       "Status": "Pending"
@@ -378,7 +378,7 @@
       "Id": "0458bd88-22c9-04e1-0e6e-00266a8767ec",
       "Type": "Illicit enrichment",
       "Severity": "Medium",
-      "EntityName": "Contractors - Ndola",
+      "EntityName": "Mutale Banda",
       "Description": "Conviction revealed bribery involving contractors",
       "DetectedAt": "2025-11-03T17:30:30Z",
       "Status": "Escalated"
@@ -387,7 +387,7 @@
       "Id": "018a88cf-0833-2234-130c-008adefa1c3d",
       "Type": "Abuse of office",
       "Severity": "High",
-      "EntityName": "Government departments - Kabwe",
+      "EntityName": "Zambezi General Dealers",
       "Description": "Investigation revealed bribery involving political figures",
       "DetectedAt": "2025-11-23T17:30:30Z",
       "Status": "Investigation"
@@ -396,7 +396,7 @@
       "Id": "00d444f8-1026-0561-1cdd-00567116cc75",
       "Type": "Bribery",
       "Severity": "Critical",
-      "EntityName": "Political figures - Kitwe",
+      "EntityName": "Kitwe Hardware Solutions",
       "Description": "Investigation revealed corruption involving government departments",
       "DetectedAt": "2025-12-07T17:30:30Z",
       "Status": "Investigation"
@@ -405,7 +405,7 @@
       "Id": "02ae84c2-15a7-1b52-06ec-00447328692e",
       "Type": "Graft",
       "Severity": "Critical",
-      "EntityName": "Government departments - Ndola",
+      "EntityName": "Southern Cross Enterprises",
       "Description": "Asset recovery revealed bribery involving public officials",
       "DetectedAt": "2025-10-29T17:30:30Z",
       "Status": "Pending"
@@ -414,7 +414,7 @@
       "Id": "04d5f933-1e08-162e-239d-002ff0543c52",
       "Type": "Abuse of office",
       "Severity": "Critical",
-      "EntityName": "Public officials - Kabwe",
+      "EntityName": "Eagle Eye Security",
       "Description": "Investigation revealed corruption involving political figures",
       "DetectedAt": "2025-12-04T17:30:30Z",
       "Status": "Resolved"
@@ -423,7 +423,7 @@
       "Id": "018d9350-1ec2-20e1-15d8-00c23fad0756",
       "Type": "Bribery",
       "Severity": "High",
-      "EntityName": "Contractors - Kabwe",
+      "EntityName": "Kafue Logistics",
       "Description": "Asset recovery revealed corruption involving public officials",
       "DetectedAt": "2025-11-28T17:30:30Z",
       "Status": "Resolved"
@@ -432,7 +432,7 @@
       "Id": "0328e91c-08c4-179b-218a-00c845819fd8",
       "Type": "Abuse of office",
       "Severity": "Critical",
-      "EntityName": "Political figures - Livingstone",
+      "EntityName": "Tazara Freight",
       "Description": "Investigation revealed abuse of office involving contractors",
       "DetectedAt": "2025-11-19T17:30:30Z",
       "Status": "Resolved"
@@ -441,7 +441,7 @@
       "Id": "0100f437-21d5-129d-1a91-00182122849c",
       "Type": "Illicit enrichment",
       "Severity": "Critical",
-      "EntityName": "Political figures - Livingstone",
+      "EntityName": "Sarah Lungu",
       "Description": "Asset recovery revealed bribery involving government departments",
       "DetectedAt": "2025-11-08T17:30:30Z",
       "Status": "Pending"
@@ -450,9 +450,99 @@
       "Id": "0284473f-0598-13ae-0456-008446a7b47a",
       "Type": "Bribery",
       "Severity": "Low",
-      "EntityName": "Public officials - Kabwe",
+      "EntityName": "Kwacha Services",
       "Description": "Conviction revealed bribery involving contractors",
       "DetectedAt": "2025-11-18T17:30:30Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "11ec26fb-0417-43a7-93fe-f4955fa52a4d",
+      "Type": "Graft",
+      "Severity": "Medium",
+      "EntityName": "Lombe Nyirenda",
+      "Description": "Collusion between Kafue Logistics and Zesco in awarding tender.",
+      "DetectedAt": "2025-12-05T00:00:00Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "3e341941-b88a-4df7-bc90-206a2de0ec63",
+      "Type": "Graft",
+      "Severity": "Medium",
+      "EntityName": "Peter Mumba",
+      "Description": "Suspicious deposits linked to unverified Kitwe road contract.",
+      "DetectedAt": "2025-11-01T00:00:00Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "a25a45d8-7856-4d11-b07b-d352b5218165",
+      "Type": "Graft",
+      "Severity": "Medium",
+      "EntityName": "Kafue Logistics",
+      "Description": "Irregular cash withdrawals matching the timeline of the Zesco fertilizer distribution.",
+      "DetectedAt": "2025-12-09T00:00:00Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "f2f8d9ae-59e6-40d5-954e-0f52a1e60813",
+      "Type": "Graft",
+      "Severity": "Medium",
+      "EntityName": "Kwacha Services",
+      "Description": "Multiple payments to shell companies associated with Ministry of Education procurement.",
+      "DetectedAt": "2026-02-19T00:00:00Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "9bc569f6-ba2d-4dbb-a2e5-d02d777ad5f1",
+      "Type": "Graft",
+      "Severity": "Medium",
+      "EntityName": "Lombe Bwalya",
+      "Description": "Ghost workers detected in the Zamtel payroll system.",
+      "DetectedAt": "2025-04-09T00:00:00Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "75a66186-3902-43ae-bc84-f5053d77eac1",
+      "Type": "Graft",
+      "Severity": "Medium",
+      "EntityName": "Kennedy Hichilema",
+      "Description": "Irregular cash withdrawals matching the timeline of the Ministry of Infrastructure fertilizer distribution.",
+      "DetectedAt": "2025-04-17T00:00:00Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "2327f91a-10f4-4938-b3e2-3618f237f79c",
+      "Type": "Graft",
+      "Severity": "Medium",
+      "EntityName": "Zambia Sugar Corp",
+      "Description": "Overpriced procurement of medical supplies by Ndola health officials.",
+      "DetectedAt": "2025-02-21T00:00:00Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "d9030932-6ad6-4f7a-b856-d47ccc248631",
+      "Type": "Graft",
+      "Severity": "Medium",
+      "EntityName": "Peter Hichilema",
+      "Description": "Bribes paid to secure land allocation in Chipata commercial zone.",
+      "DetectedAt": "2026-01-01T00:00:00Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "2be5a9c6-c755-4cad-a05f-718ca6b1d876",
+      "Type": "Graft",
+      "Severity": "Medium",
+      "EntityName": "Mopani Mines",
+      "Description": "Collusion between Copperbelt Suppliers and Ministry of Agriculture in awarding tender.",
+      "DetectedAt": "2026-02-15T00:00:00Z",
+      "Status": "Pending"
+    },
+    {
+      "Id": "0b30d36b-f20c-4ccd-8a19-29bb615064fb",
+      "Type": "Graft",
+      "Severity": "Medium",
+      "EntityName": "Kennedy Mwamba",
+      "Description": "Unexplained wealth of HOD Finance inconsistent with declared income.",
+      "DetectedAt": "2025-11-25T00:00:00Z",
       "Status": "Pending"
     }
   ],

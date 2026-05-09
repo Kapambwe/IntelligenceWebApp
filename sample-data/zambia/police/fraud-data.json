@@ -1,0 +1,163 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Alerts": [
+    {
+      "Id": "2a1b2b0e-dae7-464d-afa7-76b36f3616bf",
+      "AlertNumber": "FD-2813",
+      "EntityName": "Zambia Sugar",
+      "PatternType": "Structuring",
+      "FraudScore": 80,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.266339Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "39259e02-e5b9-44e4-b11e-e5171d2c9def",
+      "AlertNumber": "FD-9576",
+      "EntityName": "Zambia Sugar",
+      "PatternType": "Structuring",
+      "FraudScore": 65,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.266452Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "5747a416-162c-41b5-87bc-024792d9df15",
+      "AlertNumber": "FD-9861",
+      "EntityName": "Zamtel",
+      "PatternType": "Structuring",
+      "FraudScore": 79,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.266529Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "2b35dba0-f1a6-4259-b879-a12402b6f575",
+      "AlertNumber": "FD-1216",
+      "EntityName": "Natwange Traders",
+      "PatternType": "Structuring",
+      "FraudScore": 66,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.266702Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "d5477267-1c7f-4d1c-af82-c39a30ae95b0",
+      "AlertNumber": "FD-4166",
+      "EntityName": "Natwange Traders",
+      "PatternType": "Structuring",
+      "FraudScore": 90,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.266752Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "121618d8-cc6d-4a18-80f9-01b21c5c0fef",
+      "AlertNumber": "FD-3443",
+      "EntityName": "Victoria Falls Power",
+      "PatternType": "Structuring",
+      "FraudScore": 78,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.266787Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "d6329740-657d-432b-8b86-57a5421f9325",
+      "AlertNumber": "FD-5350",
+      "EntityName": "Zamtel",
+      "PatternType": "Structuring",
+      "FraudScore": 70,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.266818Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "fe16f983-4da7-4124-9584-52b344042c21",
+      "AlertNumber": "FD-2378",
+      "EntityName": "Victoria Falls Power",
+      "PatternType": "Structuring",
+      "FraudScore": 72,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.266849Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "07f15053-1860-4c66-afae-0ab7efe6efa5",
+      "AlertNumber": "FD-8844",
+      "EntityName": "Mopani Mines",
+      "PatternType": "Structuring",
+      "FraudScore": 94,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.266882Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "6e450f94-5644-48a7-a8e7-6985b94710b6",
+      "AlertNumber": "FD-6979",
+      "EntityName": "Zesco",
+      "PatternType": "Structuring",
+      "FraudScore": 87,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.266936Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    }
+  ],
+  "ActiveModel": {
+    "Name": "Neural Fraud Guard",
+    "Version": "2.1",
+    "Accuracy": 94.5,
+    "PrecisionScore": 92.1,
+    "RecallScore": 89.4,
+    "TrainingDate": "2026-04-25T11:14:39.268023Z"
+  }
+}

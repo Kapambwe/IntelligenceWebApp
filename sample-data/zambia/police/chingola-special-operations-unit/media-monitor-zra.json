@@ -1410,6 +1410,126 @@
       "CreatedAt": "2025-11-30T17:30:31Z",
       "TriggeredAt": "2026-01-07T17:30:31Z",
       "IsAcknowledged": true
+    },
+    {
+      "Id": "133bc99c-9ea5-42a9-8e6e-21573270c460",
+      "EntityName": "Natwange Traders",
+      "Severity": "Critical",
+      "Description": "Public order disturbance related to unauthorized assembly in Kasumbalesa.",
+      "Timestamp": "2025-12-01T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "84e6ed7a-273c-4081-b141-7790c5dd373c",
+      "EntityName": "Mopani Mines",
+      "Severity": "Critical",
+      "Description": "Gang activity surge in Chingola high-density townships.",
+      "Timestamp": "2025-10-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "402e5005-5501-4ec7-a088-9ee12fe698f9",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Medium",
+      "Description": "Gang activity surge in Kasumbalesa high-density townships.",
+      "Timestamp": "2025-12-28T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f98edb1f-b57d-42a8-80dc-0dc2f34d831e",
+      "EntityName": "Levy Chanda",
+      "Severity": "High",
+      "Description": "Gang activity surge in Chingola high-density townships.",
+      "Timestamp": "2025-10-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "b685f2e3-df16-481b-882c-5ac3b4428223",
+      "EntityName": "Mopani Mines",
+      "Severity": "Medium",
+      "Description": "Interception of narcotics shipment at Mufulira checkpoint.",
+      "Timestamp": "2026-03-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "daa0ef7f-aef3-4ea2-a930-b783f6d4fb47",
+      "EntityName": "Sarah Kasolo",
+      "Severity": "Critical",
+      "Description": "Interception of narcotics shipment at Chingola checkpoint.",
+      "Timestamp": "2025-10-01T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "14b3d39b-9699-4aa4-b07d-8615956eff28",
+      "EntityName": "Moses Kasolo",
+      "Severity": "High",
+      "Description": "Organized cattle rustling network operating in Kasumbalesa rural areas.",
+      "Timestamp": "2025-09-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1e412b0e-4b81-4d5c-bfbf-094e6aafdba6",
+      "EntityName": "Zesco",
+      "Severity": "Critical",
+      "Description": "Illegal firearm proliferation linked to syndicate in Chipata.",
+      "Timestamp": "2025-01-28T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7624e0a0-a0c9-4460-9539-cc227489b8f3",
+      "EntityName": "Zamtel",
+      "Severity": "Critical",
+      "Description": "Public order disturbance related to unauthorized assembly in Solwezi.",
+      "Timestamp": "2025-03-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "047c8bf7-6a7f-4e09-ae7d-300e1e2ac936",
+      "EntityName": "Zamtel",
+      "Severity": "Critical",
+      "Description": "Gang activity surge in Ndola high-density townships.",
+      "Timestamp": "2025-07-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "849c3a57-83bc-44d0-8b94-52f8a80e0add",
+      "EntityName": "Catherine Kapwepwe",
+      "Severity": "Critical",
+      "Description": "Interception of narcotics shipment at Mansa checkpoint.",
+      "Timestamp": "2025-07-13T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e63eb52a-8759-401b-9498-c53cb6fd144e",
+      "EntityName": "John Tembo",
+      "Severity": "High",
+      "Description": "Interception of narcotics shipment at Lusaka checkpoint.",
+      "Timestamp": "2025-05-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "dca5169c-efb2-4526-a93f-3f7f99515cd4",
+      "EntityName": "Davies Mulenga",
+      "Severity": "Critical",
+      "Description": "Public order disturbance related to unauthorized assembly in Mongu.",
+      "Timestamp": "2025-08-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9dbc7ef8-b686-4500-95d1-da25081f9a54",
+      "EntityName": "Martha Sinkala",
+      "Severity": "Medium",
+      "Description": "Illegal firearm proliferation linked to syndicate in Chingola.",
+      "Timestamp": "2026-04-24T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "b796b724-3704-4ded-93e3-5ae5736bcc5d",
+      "EntityName": "Blessing Sata",
+      "Severity": "High",
+      "Description": "Interception of narcotics shipment at Choma checkpoint.",
+      "Timestamp": "2025-09-19T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Configs": [

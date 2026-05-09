@@ -4,14 +4,14 @@
     {
       "Id": "029819a9-21ea-19f7-04d0-0039ba119813",
       "Title": "Financial Intelligence Centre investigation terrorism financing",
-      "Source": "Post Newspaper",
+      "Source": "Times of Zambia",
       "Url": "https://daily.co.zm/article/1765",
       "PublishedDate": "2025-12-04T17:30:30Z",
       "PublishedAt": "2025-12-09T17:30:30Z",
       "DiscoveredAt": "2026-01-16T17:30:30Z",
       "Category": "regulatory",
       "Severity": "high",
-      "Summary": "Str analysis reveals suspicious transactions in Lusaka",
+      "Summary": "Purchase of luxury property in Livingstone residential areas with unexplained cash.",
       "RelatedEntities": [
         "Shell companies - Lusaka"
       ],
@@ -37,7 +37,7 @@
       "DiscoveredAt": "2025-11-14T17:30:30Z",
       "Category": "regulatory",
       "Severity": "medium",
-      "Summary": "Enforcement reveals financial crime in Lusaka",
+      "Summary": "Structuring of cash deposits (smurfing) at Indo-Zambia Bank branches in Kasumbalesa.",
       "RelatedEntities": [
         "Reporting entities - Kitwe"
       ],
@@ -56,14 +56,14 @@
     {
       "Id": "01c1b693-1142-09e8-1318-0042130f08bb",
       "Title": "Financial Intelligence Centre compliance monitoring suspicious transactions",
-      "Source": "Lusaka Times",
+      "Source": "Times of Zambia",
       "Url": "https://times.co.zm/article/9813",
       "PublishedDate": "2025-12-20T17:30:30Z",
       "PublishedAt": "2025-12-30T17:30:30Z",
       "DiscoveredAt": "2025-10-26T17:30:30Z",
       "Category": "regulatory",
       "Severity": "medium",
-      "Summary": "Investigation reveals money laundering in Lusaka",
+      "Summary": "Mobile money patterns consistent with illegal wildlife trade financing in Chirundu.",
       "RelatedEntities": [
         "Shell companies - Lusaka"
       ],
@@ -89,7 +89,7 @@
       "DiscoveredAt": "2025-11-10T17:30:30Z",
       "Category": "financial",
       "Severity": "medium",
-      "Summary": "Investigation reveals money laundering in Chirundu",
+      "Summary": "Shell company Eagle Eye Security used to move illicit funds from government contracts.",
       "RelatedEntities": [
         "Reporting entities - Lusaka"
       ],
@@ -108,14 +108,14 @@
     {
       "Id": "0178a572-09ed-1356-087d-008b52726be8",
       "Title": "Financial Intelligence Centre investigation financial crime",
-      "Source": "Zambia Daily Mail",
+      "Source": "Mwebantu",
       "Url": "https://daily.co.zm/article/2401",
       "PublishedDate": "2025-11-24T17:30:30Z",
       "PublishedAt": "2026-01-07T17:30:30Z",
       "DiscoveredAt": "2026-01-03T17:30:30Z",
       "Category": "financial",
       "Severity": "low",
-      "Summary": "Compliance monitoring reveals STR analysis in Chirundu",
+      "Summary": "Large cash withdrawals in Chirundu immediately following central bank disbursements.",
       "RelatedEntities": [
         "Shell companies - Kitwe"
       ],
@@ -134,14 +134,14 @@
     {
       "Id": "02528ce2-05a2-04ae-172e-0060df029d48",
       "Title": "Financial Intelligence Centre compliance monitoring STR analysis",
-      "Source": "Times of Zambia",
+      "Source": "Mwebantu",
       "Url": "https://post.co.zm/article/4404",
       "PublishedDate": "2025-11-17T17:30:30Z",
       "PublishedAt": "2026-01-10T17:30:30Z",
       "DiscoveredAt": "2025-11-23T17:30:30Z",
       "Category": "criminal",
       "Severity": "low",
-      "Summary": "Str analysis reveals STR analysis in Lusaka",
+      "Summary": "Trade-based money laundering linked to Mopani Mines mineral exports via Mufulira border.",
       "RelatedEntities": [
         "Reporting entities - Livingstone"
       ],
@@ -160,14 +160,14 @@
     {
       "Id": "022ff6af-0b3e-0f00-18c2-00c876dd0fd4",
       "Title": "Financial Intelligence Centre enforcement STR analysis",
-      "Source": "Lusaka Times",
+      "Source": "News Diggers",
       "Url": "https://post.co.zm/article/8957",
       "PublishedDate": "2025-12-20T17:30:30Z",
       "PublishedAt": "2025-12-21T17:30:30Z",
       "DiscoveredAt": "2026-01-17T17:30:30Z",
       "Category": "regulatory",
       "Severity": "high",
-      "Summary": "Compliance monitoring reveals suspicious transactions in Kitwe",
+      "Summary": "Mobile money patterns consistent with illegal wildlife trade financing in Kasumbalesa.",
       "RelatedEntities": [
         "Suspicious persons - Chirundu"
       ],
@@ -186,14 +186,14 @@
     {
       "Id": "05283be4-0b18-096d-056e-004ce177525f",
       "Title": "Financial Intelligence Centre enforcement STR analysis",
-      "Source": "Mwebantu",
+      "Source": "News Diggers",
       "Url": "https://daily.co.zm/article/2376",
       "PublishedDate": "2026-01-09T17:30:30Z",
       "PublishedAt": "2025-12-10T17:30:30Z",
       "DiscoveredAt": "2026-01-11T17:30:30Z",
       "Category": "financial",
       "Severity": "medium",
-      "Summary": "Compliance monitoring reveals terrorism financing in Lusaka",
+      "Summary": "Purchase of luxury property in Kitwe residential areas with unexplained cash.",
       "RelatedEntities": [
         "Reporting entities - Chirundu"
       ],
@@ -212,14 +212,14 @@
     {
       "Id": "05727aed-101b-064c-2028-008f38f578fd",
       "Title": "Financial Intelligence Centre enforcement money laundering",
-      "Source": "Mwebantu",
+      "Source": "News Diggers",
       "Url": "https://times.co.zm/article/1282",
       "PublishedDate": "2026-01-10T17:30:30Z",
       "PublishedAt": "2025-11-30T17:30:30Z",
       "DiscoveredAt": "2025-12-28T17:30:30Z",
       "Category": "political",
       "Severity": "low",
-      "Summary": "Enforcement reveals financial crime in Kitwe",
+      "Summary": "Potential sanctions evasion involving Southern Cross Enterprises and regional neighbors.",
       "RelatedEntities": [
         "Financial institutions - Kitwe"
       ],
@@ -245,7 +245,7 @@
       "DiscoveredAt": "2026-01-11T17:30:30Z",
       "Category": "criminal",
       "Severity": "low",
-      "Summary": "Intelligence sharing reveals financial crime in Kitwe",
+      "Summary": "Suspicious high-value cross-border transfers by KCM Suppliers with no verified business purpose.",
       "RelatedEntities": [
         "Shell companies - Kitwe"
       ],
@@ -271,7 +271,7 @@
       "DiscoveredAt": "2025-12-07T17:30:30Z",
       "Category": "financial",
       "Severity": "high",
-      "Summary": "Enforcement reveals money laundering in Chirundu",
+      "Summary": "Large cash withdrawals in Lusaka immediately following central bank disbursements.",
       "RelatedEntities": [
         "Shell companies - Livingstone"
       ],
@@ -290,14 +290,14 @@
     {
       "Id": "01a620eb-14d7-0664-0dbb-00b7bcad71c6",
       "Title": "Financial Intelligence Centre investigation STR analysis",
-      "Source": "Zambia Daily Mail",
+      "Source": "Lusaka Times",
       "Url": "https://lusaka.co.zm/article/6735",
       "PublishedDate": "2025-12-21T17:30:30Z",
       "PublishedAt": "2026-01-09T17:30:30Z",
       "DiscoveredAt": "2025-12-11T17:30:30Z",
       "Category": "political",
       "Severity": "medium",
-      "Summary": "Enforcement reveals STR analysis in Ndola",
+      "Summary": "Shell company Mopani Mines used to move illicit funds from government contracts.",
       "RelatedEntities": [
         "Reporting entities - Ndola"
       ],
@@ -316,14 +316,14 @@
     {
       "Id": "0109039d-0e2a-2619-23bd-00d875ff60d1",
       "Title": "Financial Intelligence Centre STR analysis terrorism financing",
-      "Source": "Times of Zambia",
+      "Source": "News Diggers",
       "Url": "https://post.co.zm/article/4467",
       "PublishedDate": "2026-01-16T17:30:30Z",
       "PublishedAt": "2026-01-17T17:30:30Z",
       "DiscoveredAt": "2025-12-15T17:30:30Z",
       "Category": "political",
       "Severity": "low",
-      "Summary": "Enforcement reveals STR analysis in Ndola",
+      "Summary": "Potential sanctions evasion involving Mukwa Engineering and regional neighbors.",
       "RelatedEntities": [
         "Reporting entities - Lusaka"
       ],
@@ -342,14 +342,14 @@
     {
       "Id": "036f391e-2252-0a1a-0977-00cb4b276851",
       "Title": "Financial Intelligence Centre enforcement terrorism financing",
-      "Source": "Lusaka Times",
+      "Source": "News Diggers",
       "Url": "https://lusaka.co.zm/article/4073",
       "PublishedDate": "2025-11-19T17:30:30Z",
       "PublishedAt": "2025-12-31T17:30:30Z",
       "DiscoveredAt": "2025-11-13T17:30:30Z",
       "Category": "regulatory",
       "Severity": "low",
-      "Summary": "Compliance monitoring reveals terrorism financing in Kitwe",
+      "Summary": "Rapid fund layering through multiple accounts at Absa Bank.",
       "RelatedEntities": [
         "Suspicious persons - Chirundu"
       ],
@@ -368,14 +368,14 @@
     {
       "Id": "023cc254-0fe1-18b2-105c-009e09fe57a7",
       "Title": "Financial Intelligence Centre STR analysis terrorism financing",
-      "Source": "Lusaka Times",
+      "Source": "News Diggers",
       "Url": "https://post.co.zm/article/4064",
       "PublishedDate": "2025-11-25T17:30:30Z",
       "PublishedAt": "2025-11-23T17:30:30Z",
       "DiscoveredAt": "2025-12-14T17:30:30Z",
       "Category": "criminal",
       "Severity": "low",
-      "Summary": "Compliance monitoring reveals terrorism financing in Chirundu",
+      "Summary": "Purchase of luxury property in Mansa residential areas with unexplained cash.",
       "RelatedEntities": [
         "Suspicious persons - Livingstone"
       ],
@@ -394,14 +394,14 @@
     {
       "Id": "04a27c38-2255-18af-162c-00637f0b5d9e",
       "Title": "Financial Intelligence Centre STR analysis financial crime",
-      "Source": "Lusaka Times",
+      "Source": "Times of Zambia",
       "Url": "https://times.co.zm/article/1466",
       "PublishedDate": "2025-11-29T17:30:30Z",
       "PublishedAt": "2026-01-04T17:30:30Z",
       "DiscoveredAt": "2026-01-17T17:30:30Z",
       "Category": "financial",
       "Severity": "medium",
-      "Summary": "Intelligence sharing reveals STR analysis in Chirundu",
+      "Summary": "Trade-based money laundering linked to Zambezi General Dealers mineral exports via Kabwe border.",
       "RelatedEntities": [
         "Financial institutions - Kitwe"
       ],
@@ -420,14 +420,14 @@
     {
       "Id": "0426bcf5-06ee-1011-06bc-007776a0c9fc",
       "Title": "Financial Intelligence Centre intelligence sharing money laundering",
-      "Source": "Times of Zambia",
+      "Source": "Mwebantu",
       "Url": "https://lusaka.co.zm/article/9951",
       "PublishedDate": "2025-10-27T17:30:30Z",
       "PublishedAt": "2025-10-30T17:30:30Z",
       "DiscoveredAt": "2025-11-16T17:30:30Z",
       "Category": "regulatory",
       "Severity": "high",
-      "Summary": "Enforcement reveals terrorism financing in Lusaka",
+      "Summary": "Purchase of luxury property in Ndola residential areas with unexplained cash.",
       "RelatedEntities": [
         "Financial institutions - Chirundu"
       ],
@@ -446,14 +446,14 @@
     {
       "Id": "03d5482c-171d-1604-1770-002d59415e25",
       "Title": "Financial Intelligence Centre investigation terrorism financing",
-      "Source": "Zambia Daily Mail",
+      "Source": "News Diggers",
       "Url": "https://times.co.zm/article/1723",
       "PublishedDate": "2025-12-02T17:30:30Z",
       "PublishedAt": "2025-12-03T17:30:30Z",
       "DiscoveredAt": "2026-01-19T17:30:30Z",
       "Category": "criminal",
       "Severity": "high",
-      "Summary": "Investigation reveals financial crime in Ndola",
+      "Summary": "Large cash withdrawals in Chingola immediately following central bank disbursements.",
       "RelatedEntities": [
         "Shell companies - Lusaka"
       ],
@@ -472,14 +472,14 @@
     {
       "Id": "01e7b287-0a2d-10ac-1306-00bca36cd63a",
       "Title": "Financial Intelligence Centre investigation STR analysis",
-      "Source": "Lusaka Times",
+      "Source": "News Diggers",
       "Url": "https://daily.co.zm/article/9643",
       "PublishedDate": "2026-01-08T17:30:30Z",
       "PublishedAt": "2025-12-04T17:30:30Z",
       "DiscoveredAt": "2025-12-02T17:30:30Z",
       "Category": "financial",
       "Severity": "high",
-      "Summary": "Investigation reveals terrorism financing in Kitwe",
+      "Summary": "Mobile money patterns consistent with illegal wildlife trade financing in Ndola.",
       "RelatedEntities": [
         "Reporting entities - Chirundu"
       ],
@@ -498,14 +498,14 @@
     {
       "Id": "05dcad7f-0619-16ee-0b5e-001babe6b64a",
       "Title": "Financial Intelligence Centre compliance monitoring suspicious transactions",
-      "Source": "Post Newspaper",
+      "Source": "Lusaka Times",
       "Url": "https://times.co.zm/article/7304",
       "PublishedDate": "2025-12-24T17:30:30Z",
       "PublishedAt": "2025-11-13T17:30:30Z",
       "DiscoveredAt": "2025-12-18T17:30:30Z",
       "Category": "criminal",
       "Severity": "medium",
-      "Summary": "Investigation reveals financial crime in Kitwe",
+      "Summary": "Shell company Nakonde Clearing Agents used to move illicit funds from government contracts.",
       "RelatedEntities": [
         "Suspicious persons - Livingstone"
       ],
@@ -524,14 +524,14 @@
     {
       "Id": "0551d32a-1487-1001-05d1-004d0cd1381e",
       "Title": "Financial Intelligence Centre compliance monitoring suspicious transactions",
-      "Source": "Lusaka Times",
+      "Source": "News Diggers",
       "Url": "https://post.co.zm/article/3956",
       "PublishedDate": "2025-10-22T17:30:30Z",
       "PublishedAt": "2025-11-21T17:30:30Z",
       "DiscoveredAt": "2026-01-06T17:30:30Z",
       "Category": "political",
       "Severity": "medium",
-      "Summary": "Intelligence sharing reveals STR analysis in Livingstone",
+      "Summary": "Potential sanctions evasion involving Chirundu Logistics and regional neighbors.",
       "RelatedEntities": [
         "Reporting entities - Livingstone"
       ],
@@ -550,14 +550,14 @@
     {
       "Id": "02bf61f4-0555-0758-0848-006c7648bc9e",
       "Title": "Financial Intelligence Centre investigation STR analysis",
-      "Source": "Mwebantu",
+      "Source": "Zambia Daily Mail",
       "Url": "https://times.co.zm/article/7498",
       "PublishedDate": "2026-01-14T17:30:30Z",
       "PublishedAt": "2025-12-28T17:30:30Z",
       "DiscoveredAt": "2025-11-19T17:30:30Z",
       "Category": "financial",
       "Severity": "high",
-      "Summary": "Str analysis reveals suspicious transactions in Lusaka",
+      "Summary": "Potential sanctions evasion involving Ndola Agro and regional neighbors.",
       "RelatedEntities": [
         "Suspicious persons - Lusaka"
       ],
@@ -576,14 +576,14 @@
     {
       "Id": "05348c6d-1a4a-201c-0642-0019a5c80719",
       "Title": "Financial Intelligence Centre investigation suspicious transactions",
-      "Source": "Times of Zambia",
+      "Source": "News Diggers",
       "Url": "https://lusaka.co.zm/article/9220",
       "PublishedDate": "2025-12-20T17:30:30Z",
       "PublishedAt": "2025-10-27T17:30:30Z",
       "DiscoveredAt": "2026-01-10T17:30:30Z",
       "Category": "financial",
       "Severity": "high",
-      "Summary": "Enforcement reveals money laundering in Kitwe",
+      "Summary": "Structuring of cash deposits (smurfing) at Indo-Zambia Bank branches in Kitwe.",
       "RelatedEntities": [
         "Shell companies - Livingstone"
       ],
@@ -602,14 +602,14 @@
     {
       "Id": "02cd6a01-0fda-04a0-043e-00dd9b642cef",
       "Title": "Financial Intelligence Centre compliance monitoring financial crime",
-      "Source": "Lusaka Times",
+      "Source": "Zambia Daily Mail",
       "Url": "https://post.co.zm/article/4776",
       "PublishedDate": "2025-11-15T17:30:30Z",
       "PublishedAt": "2025-11-13T17:30:30Z",
       "DiscoveredAt": "2025-12-25T17:30:30Z",
       "Category": "regulatory",
       "Severity": "low",
-      "Summary": "Compliance monitoring reveals STR analysis in Livingstone",
+      "Summary": "Trade-based money laundering linked to Kitwe Hardware Solutions mineral exports via Mansa border.",
       "RelatedEntities": [
         "Shell companies - Kitwe"
       ],
@@ -628,14 +628,14 @@
     {
       "Id": "01c9ec0a-0d8e-1b6d-09a2-0062b3447df7",
       "Title": "Financial Intelligence Centre intelligence sharing suspicious transactions",
-      "Source": "Times of Zambia",
+      "Source": "Zambia Daily Mail",
       "Url": "https://daily.co.zm/article/9906",
       "PublishedDate": "2025-12-10T17:30:30Z",
       "PublishedAt": "2025-11-20T17:30:30Z",
       "DiscoveredAt": "2025-11-05T17:30:30Z",
       "Category": "regulatory",
       "Severity": "low",
-      "Summary": "Investigation reveals suspicious transactions in Livingstone",
+      "Summary": "Shell company Kitwe Hardware Solutions used to move illicit funds from government contracts.",
       "RelatedEntities": [
         "Financial institutions - Kitwe"
       ],
@@ -654,14 +654,14 @@
     {
       "Id": "048e7228-07d8-24d7-2169-008078c1eed6",
       "Title": "Financial Intelligence Centre enforcement terrorism financing",
-      "Source": "Mwebantu",
+      "Source": "Times of Zambia",
       "Url": "https://lusaka.co.zm/article/8387",
       "PublishedDate": "2025-12-27T17:30:30Z",
       "PublishedAt": "2025-11-02T17:30:30Z",
       "DiscoveredAt": "2025-12-19T17:30:30Z",
       "Category": "criminal",
       "Severity": "high",
-      "Summary": "Investigation reveals suspicious transactions in Chirundu",
+      "Summary": "Trade-based money laundering linked to Mopani Mines mineral exports via Kasama border.",
       "RelatedEntities": [
         "Suspicious persons - Kitwe"
       ],
@@ -687,7 +687,7 @@
       "DiscoveredAt": "2025-11-21T17:30:30Z",
       "Category": "political",
       "Severity": "low",
-      "Summary": "Compliance monitoring reveals money laundering in Chirundu",
+      "Summary": "Round-tripping of funds through Absa Bank involving offshore entities.",
       "RelatedEntities": [
         "Suspicious persons - Ndola"
       ],
@@ -706,14 +706,14 @@
     {
       "Id": "041bdfad-0ab7-2346-0b8f-00c4b61375fd",
       "Title": "Financial Intelligence Centre STR analysis terrorism financing",
-      "Source": "Post Newspaper",
+      "Source": "Zambia Daily Mail",
       "Url": "https://post.co.zm/article/6041",
       "PublishedDate": "2026-01-14T17:30:30Z",
       "PublishedAt": "2026-01-18T17:30:30Z",
       "DiscoveredAt": "2025-11-03T17:30:30Z",
       "Category": "financial",
       "Severity": "low",
-      "Summary": "Investigation reveals financial crime in Lusaka",
+      "Summary": "Round-tripping of funds through Zanaco involving offshore entities.",
       "RelatedEntities": [
         "Suspicious persons - Ndola"
       ],
@@ -732,14 +732,14 @@
     {
       "Id": "00be66bf-228e-205d-10cd-00aac2786a88",
       "Title": "Financial Intelligence Centre intelligence sharing terrorism financing",
-      "Source": "Times of Zambia",
+      "Source": "Zambia Daily Mail",
       "Url": "https://times.co.zm/article/2649",
       "PublishedDate": "2025-11-18T17:30:30Z",
       "PublishedAt": "2026-01-09T17:30:30Z",
       "DiscoveredAt": "2026-01-05T17:30:30Z",
       "Category": "political",
       "Severity": "low",
-      "Summary": "Intelligence sharing reveals money laundering in Lusaka",
+      "Summary": "Round-tripping of funds through Standard Chartered involving offshore entities.",
       "RelatedEntities": [
         "Suspicious persons - Chirundu"
       ],
@@ -758,14 +758,14 @@
     {
       "Id": "05e617e8-156b-1e0d-13b4-009a61b8e8b9",
       "Title": "Financial Intelligence Centre STR analysis STR analysis",
-      "Source": "Lusaka Times",
+      "Source": "Mwebantu",
       "Url": "https://times.co.zm/article/5056",
       "PublishedDate": "2025-12-29T17:30:30Z",
       "PublishedAt": "2026-01-01T17:30:30Z",
       "DiscoveredAt": "2025-11-17T17:30:30Z",
       "Category": "financial",
       "Severity": "high",
-      "Summary": "Str analysis reveals financial crime in Lusaka",
+      "Summary": "Structuring of cash deposits (smurfing) at Zanaco branches in Lusaka.",
       "RelatedEntities": [
         "Reporting entities - Kitwe"
       ],
@@ -784,14 +784,14 @@
     {
       "Id": "0224e9c6-15c5-098d-15f9-0052b781f961",
       "Title": "Financial Intelligence Centre intelligence sharing suspicious transactions",
-      "Source": "Lusaka Times",
+      "Source": "Zambia Daily Mail",
       "Url": "https://times.co.zm/article/3690",
       "PublishedDate": "2025-12-09T17:30:30Z",
       "PublishedAt": "2025-11-29T17:30:30Z",
       "DiscoveredAt": "2026-01-10T17:30:30Z",
       "Category": "political",
       "Severity": "medium",
-      "Summary": "Compliance monitoring reveals financial crime in Lusaka",
+      "Summary": "Large cash withdrawals in Luanshya immediately following central bank disbursements.",
       "RelatedEntities": [
         "Shell companies - Kitwe"
       ],
@@ -810,14 +810,14 @@
     {
       "Id": "0420a14b-06bc-145c-1aef-0047a86f42aa",
       "Title": "Financial Intelligence Centre enforcement money laundering",
-      "Source": "Lusaka Times",
+      "Source": "News Diggers",
       "Url": "https://daily.co.zm/article/7074",
       "PublishedDate": "2026-01-18T17:30:30Z",
       "PublishedAt": "2025-11-12T17:30:30Z",
       "DiscoveredAt": "2025-11-30T17:30:30Z",
       "Category": "political",
       "Severity": "low",
-      "Summary": "Str analysis reveals suspicious transactions in Ndola",
+      "Summary": "Shell company Mukwa Engineering used to move illicit funds from government contracts.",
       "RelatedEntities": [
         "Financial institutions - Livingstone"
       ],
@@ -836,14 +836,14 @@
     {
       "Id": "016e45ad-1047-0c8d-15da-0089507b806a",
       "Title": "Financial Intelligence Centre intelligence sharing financial crime",
-      "Source": "Zambia Daily Mail",
+      "Source": "Mwebantu",
       "Url": "https://times.co.zm/article/8437",
       "PublishedDate": "2025-11-20T17:30:30Z",
       "PublishedAt": "2025-12-12T17:30:30Z",
       "DiscoveredAt": "2025-12-26T17:30:30Z",
       "Category": "criminal",
       "Severity": "low",
-      "Summary": "Str analysis reveals financial crime in Ndola",
+      "Summary": "Potential sanctions evasion involving Zambezi General Dealers and regional neighbors.",
       "RelatedEntities": [
         "Suspicious persons - Livingstone"
       ],
@@ -862,14 +862,14 @@
     {
       "Id": "009906cd-0fa1-22f1-21dc-00c5a451172c",
       "Title": "Financial Intelligence Centre compliance monitoring suspicious transactions",
-      "Source": "Post Newspaper",
+      "Source": "Lusaka Times",
       "Url": "https://lusaka.co.zm/article/8420",
       "PublishedDate": "2025-12-26T17:30:30Z",
       "PublishedAt": "2025-10-24T17:30:30Z",
       "DiscoveredAt": "2025-11-06T17:30:30Z",
       "Category": "criminal",
       "Severity": "medium",
-      "Summary": "Intelligence sharing reveals STR analysis in Chirundu",
+      "Summary": "Suspicious high-value cross-border transfers by KCM Suppliers with no verified business purpose.",
       "RelatedEntities": [
         "Suspicious persons - Ndola"
       ],
@@ -888,14 +888,14 @@
     {
       "Id": "0454bab1-14f0-1857-0c58-009548d23996",
       "Title": "Financial Intelligence Centre compliance monitoring STR analysis",
-      "Source": "Zambia Daily Mail",
+      "Source": "Times of Zambia",
       "Url": "https://times.co.zm/article/1594",
       "PublishedDate": "2025-11-04T17:30:30Z",
       "PublishedAt": "2026-01-09T17:30:30Z",
       "DiscoveredAt": "2025-11-26T17:30:30Z",
       "Category": "political",
       "Severity": "high",
-      "Summary": "Compliance monitoring reveals terrorism financing in Lusaka",
+      "Summary": "Mobile money patterns consistent with illegal wildlife trade financing in Livingstone.",
       "RelatedEntities": [
         "Suspicious persons - Livingstone"
       ],
@@ -914,14 +914,14 @@
     {
       "Id": "01d6b6db-1808-1cb5-0608-004aff112c28",
       "Title": "Financial Intelligence Centre enforcement terrorism financing",
-      "Source": "Zambia Daily Mail",
+      "Source": "Times of Zambia",
       "Url": "https://lusaka.co.zm/article/3215",
       "PublishedDate": "2026-01-16T17:30:30Z",
       "PublishedAt": "2025-11-13T17:30:30Z",
       "DiscoveredAt": "2026-01-10T17:30:30Z",
       "Category": "political",
       "Severity": "medium",
-      "Summary": "Investigation reveals money laundering in Lusaka",
+      "Summary": "Mobile money patterns consistent with illegal wildlife trade financing in Nakonde.",
       "RelatedEntities": [
         "Suspicious persons - Ndola"
       ],
@@ -940,14 +940,14 @@
     {
       "Id": "03c8434b-041e-07b2-11d4-0092d8ede8cb",
       "Title": "Financial Intelligence Centre STR analysis money laundering",
-      "Source": "Times of Zambia",
+      "Source": "Zambia Daily Mail",
       "Url": "https://daily.co.zm/article/8337",
       "PublishedDate": "2025-11-02T17:30:30Z",
       "PublishedAt": "2026-01-07T17:30:30Z",
       "DiscoveredAt": "2025-12-22T17:30:30Z",
       "Category": "political",
       "Severity": "low",
-      "Summary": "Investigation reveals money laundering in Lusaka",
+      "Summary": "Rapid fund layering through multiple accounts at Zanaco.",
       "RelatedEntities": [
         "Suspicious persons - Ndola"
       ],
@@ -966,14 +966,14 @@
     {
       "Id": "0263282a-10f0-11c6-2337-00a82b4e1f73",
       "Title": "Financial Intelligence Centre compliance monitoring STR analysis",
-      "Source": "Mwebantu",
+      "Source": "Times of Zambia",
       "Url": "https://times.co.zm/article/7165",
       "PublishedDate": "2026-01-06T17:30:30Z",
       "PublishedAt": "2025-11-12T17:30:30Z",
       "DiscoveredAt": "2025-12-16T17:30:30Z",
       "Category": "criminal",
       "Severity": "high",
-      "Summary": "Compliance monitoring reveals money laundering in Chirundu",
+      "Summary": "Mobile money patterns consistent with illegal wildlife trade financing in Livingstone.",
       "RelatedEntities": [
         "Reporting entities - Lusaka"
       ],
@@ -992,14 +992,14 @@
     {
       "Id": "05b85419-0597-1031-1f2b-00ac05e5dc43",
       "Title": "Financial Intelligence Centre STR analysis financial crime",
-      "Source": "Zambia Daily Mail",
+      "Source": "Mwebantu",
       "Url": "https://lusaka.co.zm/article/2527",
       "PublishedDate": "2025-11-16T17:30:30Z",
       "PublishedAt": "2025-11-24T17:30:30Z",
       "DiscoveredAt": "2026-01-17T17:30:30Z",
       "Category": "criminal",
       "Severity": "medium",
-      "Summary": "Investigation reveals suspicious transactions in Lusaka",
+      "Summary": "Large cash withdrawals in Kabwe immediately following central bank disbursements.",
       "RelatedEntities": [
         "Reporting entities - Chirundu"
       ],
@@ -1018,14 +1018,14 @@
     {
       "Id": "036f2cbe-22f7-24f6-1c96-00b9f2823f4b",
       "Title": "Financial Intelligence Centre investigation terrorism financing",
-      "Source": "Post Newspaper",
+      "Source": "Zambia Daily Mail",
       "Url": "https://post.co.zm/article/2531",
       "PublishedDate": "2025-10-25T17:30:30Z",
       "PublishedAt": "2025-10-31T17:30:30Z",
       "DiscoveredAt": "2025-10-31T17:30:30Z",
       "Category": "financial",
       "Severity": "medium",
-      "Summary": "Investigation reveals STR analysis in Ndola",
+      "Summary": "Rapid fund layering through multiple accounts at Investrust.",
       "RelatedEntities": [
         "Financial institutions - Ndola"
       ],
@@ -1044,14 +1044,14 @@
     {
       "Id": "029beba6-1803-12ec-0d37-00561263b6e4",
       "Title": "Financial Intelligence Centre intelligence sharing money laundering",
-      "Source": "Post Newspaper",
+      "Source": "Zambia Daily Mail",
       "Url": "https://daily.co.zm/article/2870",
       "PublishedDate": "2025-11-18T17:30:30Z",
       "PublishedAt": "2025-12-09T17:30:30Z",
       "DiscoveredAt": "2025-12-13T17:30:30Z",
       "Category": "political",
       "Severity": "medium",
-      "Summary": "Investigation reveals STR analysis in Chirundu",
+      "Summary": "Large cash withdrawals in Chipata immediately following central bank disbursements.",
       "RelatedEntities": [
         "Reporting entities - Kitwe"
       ],
@@ -1070,14 +1070,14 @@
     {
       "Id": "04544845-078a-0753-0ce9-002c21ba8f5b",
       "Title": "Financial Intelligence Centre investigation money laundering",
-      "Source": "Post Newspaper",
+      "Source": "Lusaka Times",
       "Url": "https://post.co.zm/article/6557",
       "PublishedDate": "2025-10-28T17:30:30Z",
       "PublishedAt": "2025-12-07T17:30:30Z",
       "DiscoveredAt": "2026-01-11T17:30:30Z",
       "Category": "financial",
       "Severity": "medium",
-      "Summary": "Investigation reveals suspicious transactions in Ndola",
+      "Summary": "Suspicious high-value cross-border transfers by Zambezi General Dealers with no verified business purpose.",
       "RelatedEntities": [
         "Reporting entities - Lusaka"
       ],
@@ -1096,14 +1096,14 @@
     {
       "Id": "02fb84dd-256d-247a-243b-005e3812cc5d",
       "Title": "Financial Intelligence Centre intelligence sharing money laundering",
-      "Source": "Post Newspaper",
+      "Source": "Lusaka Times",
       "Url": "https://lusaka.co.zm/article/1254",
       "PublishedDate": "2026-01-17T17:30:30Z",
       "PublishedAt": "2025-11-01T17:30:30Z",
       "DiscoveredAt": "2025-11-15T17:30:30Z",
       "Category": "political",
       "Severity": "low",
-      "Summary": "Enforcement reveals suspicious transactions in Kitwe",
+      "Summary": "Trade-based money laundering linked to Eagle Eye Security mineral exports via Kabwe border.",
       "RelatedEntities": [
         "Reporting entities - Ndola"
       ],
@@ -1129,7 +1129,7 @@
       "DiscoveredAt": "2025-12-20T17:30:30Z",
       "Category": "regulatory",
       "Severity": "low",
-      "Summary": "Investigation reveals suspicious transactions in Ndola",
+      "Summary": "Potential sanctions evasion involving Mopani Mines and regional neighbors.",
       "RelatedEntities": [
         "Reporting entities - Chirundu"
       ],
@@ -1148,14 +1148,14 @@
     {
       "Id": "05188f4e-06b0-096d-1f78-00d112cdb7f0",
       "Title": "Financial Intelligence Centre compliance monitoring terrorism financing",
-      "Source": "Zambia Daily Mail",
+      "Source": "Mwebantu",
       "Url": "https://daily.co.zm/article/2067",
       "PublishedDate": "2026-01-07T17:30:30Z",
       "PublishedAt": "2026-01-07T17:30:30Z",
       "DiscoveredAt": "2025-12-15T17:30:30Z",
       "Category": "political",
       "Severity": "high",
-      "Summary": "Enforcement reveals STR analysis in Lusaka",
+      "Summary": "Rapid fund layering through multiple accounts at Stanbic.",
       "RelatedEntities": [
         "Shell companies - Ndola"
       ],
@@ -1174,14 +1174,14 @@
     {
       "Id": "00ee1e05-1a94-2030-08f8-001bf18ef2ec",
       "Title": "Financial Intelligence Centre enforcement suspicious transactions",
-      "Source": "Post Newspaper",
+      "Source": "Times of Zambia",
       "Url": "https://lusaka.co.zm/article/1029",
       "PublishedDate": "2025-11-21T17:30:30Z",
       "PublishedAt": "2025-12-21T17:30:30Z",
       "DiscoveredAt": "2025-12-10T17:30:30Z",
       "Category": "financial",
       "Severity": "high",
-      "Summary": "Enforcement reveals STR analysis in Livingstone",
+      "Summary": "Potential sanctions evasion involving Mopani Mines and regional neighbors.",
       "RelatedEntities": [
         "Shell companies - Chirundu"
       ],
@@ -1200,14 +1200,14 @@
     {
       "Id": "01df7362-151e-224f-0f12-00704849bb42",
       "Title": "Financial Intelligence Centre investigation money laundering",
-      "Source": "Lusaka Times",
+      "Source": "News Diggers",
       "Url": "https://daily.co.zm/article/8945",
       "PublishedDate": "2026-01-13T17:30:30Z",
       "PublishedAt": "2025-10-26T17:30:30Z",
       "DiscoveredAt": "2025-11-15T17:30:30Z",
       "Category": "political",
       "Severity": "low",
-      "Summary": "Enforcement reveals suspicious transactions in Kitwe",
+      "Summary": "Structuring of cash deposits (smurfing) at Absa Bank branches in Chirundu.",
       "RelatedEntities": [
         "Suspicious persons - Lusaka"
       ],
@@ -1226,14 +1226,14 @@
     {
       "Id": "0497b24f-18e5-0e96-0de1-008f615ee60b",
       "Title": "Financial Intelligence Centre STR analysis STR analysis",
-      "Source": "Mwebantu",
+      "Source": "Zambia Daily Mail",
       "Url": "https://post.co.zm/article/9002",
       "PublishedDate": "2026-01-06T17:30:30Z",
       "PublishedAt": "2025-10-23T17:30:30Z",
       "DiscoveredAt": "2025-11-24T17:30:30Z",
       "Category": "financial",
       "Severity": "high",
-      "Summary": "Compliance monitoring reveals financial crime in Lusaka",
+      "Summary": "Round-tripping of funds through Absa Bank involving offshore entities.",
       "RelatedEntities": [
         "Suspicious persons - Ndola"
       ],
@@ -1252,14 +1252,14 @@
     {
       "Id": "03cec9dd-0762-1e8f-0d99-00872fe5db32",
       "Title": "Financial Intelligence Centre enforcement terrorism financing",
-      "Source": "Times of Zambia",
+      "Source": "News Diggers",
       "Url": "https://daily.co.zm/article/1526",
       "PublishedDate": "2025-12-26T17:30:30Z",
       "PublishedAt": "2025-12-30T17:30:30Z",
       "DiscoveredAt": "2025-12-27T17:30:30Z",
       "Category": "financial",
       "Severity": "low",
-      "Summary": "Intelligence sharing reveals terrorism financing in Ndola",
+      "Summary": "Large cash withdrawals in Mansa immediately following central bank disbursements.",
       "RelatedEntities": [
         "Suspicious persons - Kitwe"
       ],
@@ -1285,7 +1285,7 @@
       "DiscoveredAt": "2026-01-16T17:30:30Z",
       "Category": "financial",
       "Severity": "high",
-      "Summary": "Compliance monitoring reveals suspicious transactions in Livingstone",
+      "Summary": "Shell company Copperbelt Suppliers used to move illicit funds from government contracts.",
       "RelatedEntities": [
         "Suspicious persons - Livingstone"
       ],
@@ -1300,6 +1300,276 @@
       "RelevanceScore": 68.0,
       "IsReviewed": true,
       "Sentiment": "Positive"
+    },
+    {
+      "Id": "29b97cf6-3f7e-4a2f-8239-fa987d5659c6",
+      "Title": "Financial Intelligence Centre investigation terrorism financing",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/1765",
+      "PublishedDate": "2025-12-04T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Purchase of luxury property in Solwezi residential areas with unexplained cash.",
+      "RelatedEntities": [
+        "Shell companies - Lusaka"
+      ],
+      "Entities": [
+        "Shell companies - Lusaka"
+      ],
+      "Keywords": [
+        "money laundering",
+        "suspicious transactions",
+        "STR analysis"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral",
+      "Description": null
+    },
+    {
+      "Id": "a3aaa519-2599-4627-8e73-3b591540f4e0",
+      "Title": "Financial Intelligence Centre investigation terrorism financing",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/1765",
+      "PublishedDate": "2025-12-04T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Round-tripping of funds through Standard Chartered involving offshore entities.",
+      "RelatedEntities": [
+        "Shell companies - Lusaka"
+      ],
+      "Entities": [
+        "Shell companies - Lusaka"
+      ],
+      "Keywords": [
+        "money laundering",
+        "suspicious transactions",
+        "STR analysis"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral",
+      "Description": null
+    },
+    {
+      "Id": "08724ecf-c8ed-4e33-9de6-52a89cd45732",
+      "Title": "Financial Intelligence Centre investigation terrorism financing",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/1765",
+      "PublishedDate": "2025-12-04T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Rapid fund layering through multiple accounts at Zanaco.",
+      "RelatedEntities": [
+        "Shell companies - Lusaka"
+      ],
+      "Entities": [
+        "Shell companies - Lusaka"
+      ],
+      "Keywords": [
+        "money laundering",
+        "suspicious transactions",
+        "STR analysis"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral",
+      "Description": null
+    },
+    {
+      "Id": "e5923396-15a4-49d9-a934-70acc6eb02e9",
+      "Title": "Financial Intelligence Centre investigation terrorism financing",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/1765",
+      "PublishedDate": "2025-12-04T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Suspicious high-value cross-border transfers by Luangwa Imports with no verified business purpose.",
+      "RelatedEntities": [
+        "Shell companies - Lusaka"
+      ],
+      "Entities": [
+        "Shell companies - Lusaka"
+      ],
+      "Keywords": [
+        "money laundering",
+        "suspicious transactions",
+        "STR analysis"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral",
+      "Description": null
+    },
+    {
+      "Id": "efceefb4-bc70-4e95-9689-afd70eb50790",
+      "Title": "Financial Intelligence Centre investigation terrorism financing",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/1765",
+      "PublishedDate": "2025-12-04T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Shell company Apex Road Contractors Ltd used to move illicit funds from government contracts.",
+      "RelatedEntities": [
+        "Shell companies - Lusaka"
+      ],
+      "Entities": [
+        "Shell companies - Lusaka"
+      ],
+      "Keywords": [
+        "money laundering",
+        "suspicious transactions",
+        "STR analysis"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral",
+      "Description": null
+    },
+    {
+      "Id": "198b08a8-83a6-4364-936a-bd5f1fc3bd64",
+      "Title": "Financial Intelligence Centre investigation terrorism financing",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/1765",
+      "PublishedDate": "2025-12-04T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Round-tripping of funds through Stanbic involving offshore entities.",
+      "RelatedEntities": [
+        "Shell companies - Lusaka"
+      ],
+      "Entities": [
+        "Shell companies - Lusaka"
+      ],
+      "Keywords": [
+        "money laundering",
+        "suspicious transactions",
+        "STR analysis"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral",
+      "Description": null
+    },
+    {
+      "Id": "5962ae82-4404-4b57-b4c1-960648ba2504",
+      "Title": "Financial Intelligence Centre investigation terrorism financing",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/1765",
+      "PublishedDate": "2025-12-04T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Potential sanctions evasion involving Zambezi General Dealers and regional neighbors.",
+      "RelatedEntities": [
+        "Shell companies - Lusaka"
+      ],
+      "Entities": [
+        "Shell companies - Lusaka"
+      ],
+      "Keywords": [
+        "money laundering",
+        "suspicious transactions",
+        "STR analysis"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral",
+      "Description": null
+    },
+    {
+      "Id": "d1f4f8fe-7cdd-48fe-9b1b-468e7bd7f5af",
+      "Title": "Financial Intelligence Centre investigation terrorism financing",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/1765",
+      "PublishedDate": "2025-12-04T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Structuring of cash deposits (smurfing) at First Capital branches in Chipata.",
+      "RelatedEntities": [
+        "Shell companies - Lusaka"
+      ],
+      "Entities": [
+        "Shell companies - Lusaka"
+      ],
+      "Keywords": [
+        "money laundering",
+        "suspicious transactions",
+        "STR analysis"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral",
+      "Description": null
+    },
+    {
+      "Id": "9fa394e8-91d4-49c5-bea0-52ca9e6df4da",
+      "Title": "Financial Intelligence Centre investigation terrorism financing",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/1765",
+      "PublishedDate": "2025-12-04T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Potential sanctions evasion involving Kasumbalesa Traders and regional neighbors.",
+      "RelatedEntities": [
+        "Shell companies - Lusaka"
+      ],
+      "Entities": [
+        "Shell companies - Lusaka"
+      ],
+      "Keywords": [
+        "money laundering",
+        "suspicious transactions",
+        "STR analysis"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral",
+      "Description": null
+    },
+    {
+      "Id": "6299b1fa-0f81-4b45-9c21-d688f11f86a1",
+      "Title": "Financial Intelligence Centre investigation terrorism financing",
+      "Source": "Times of Zambia",
+      "Url": "https://daily.co.zm/article/1765",
+      "PublishedDate": "2025-12-04T17:30:30Z",
+      "PublishedAt": "2025-12-09T17:30:30Z",
+      "DiscoveredAt": "2026-01-16T17:30:30Z",
+      "Category": "regulatory",
+      "Severity": "high",
+      "Summary": "Trade-based money laundering linked to Kwacha Services mineral exports via Nakonde border.",
+      "RelatedEntities": [
+        "Shell companies - Lusaka"
+      ],
+      "Entities": [
+        "Shell companies - Lusaka"
+      ],
+      "Keywords": [
+        "money laundering",
+        "suspicious transactions",
+        "STR analysis"
+      ],
+      "RelevanceScore": 60.3,
+      "IsReviewed": true,
+      "Sentiment": "Neutral",
+      "Description": null
     }
   ],
   "Alerts": [

@@ -1300,6 +1300,266 @@
       "RelevanceScore": 78.5,
       "IsReviewed": false,
       "Sentiment": "Positive"
+    },
+    {
+      "Id": "b570accb-f9a0-442f-a9cf-172908cb7296",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2413",
+      "PublishedDate": "2025-05-21T00:00:00Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Multiple payments to shell companies associated with Ministry of Infrastructure procurement.",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 79.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "ecea11df-6364-4cbd-93d8-38fa405d96f7",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2413",
+      "PublishedDate": "2025-09-02T00:00:00Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Overpriced procurement of medical supplies by Luanshya health officials.",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 79.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "6c6784d7-4d56-4351-ba68-5e055bf2ae37",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2413",
+      "PublishedDate": "2025-08-01T00:00:00Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Collusion between Zambia Sugar Corp and Ministry of Agriculture in awarding tender.",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 79.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "cdc84d13-993c-40bb-ae0a-ed99c3e7c9e9",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2413",
+      "PublishedDate": "2026-02-18T00:00:00Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Suspicious deposits linked to unverified Kitwe road contract.",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 79.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "fea93f1e-a3d1-4241-834a-a02a468a2991",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2413",
+      "PublishedDate": "2026-03-19T00:00:00Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Suspicious deposits linked to unverified Kitwe road contract.",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 79.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "3631b8eb-966d-49ab-ae73-9fa55576176d",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2413",
+      "PublishedDate": "2025-09-28T00:00:00Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Embezzlement of constituency development funds in Chipata.",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 79.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "a1b50c47-49b4-4283-a729-4e1b8db59241",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2413",
+      "PublishedDate": "2026-03-31T00:00:00Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Collusion between Victoria Falls Power and Natwange Municipal Council in awarding tender.",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 79.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "7e78d1d2-6dd7-44f5-a522-4c47852264a5",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2413",
+      "PublishedDate": "2025-04-25T00:00:00Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Embezzlement of constituency development funds in Mansya.",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 79.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "3f9bcb8d-f8e3-43f6-bb5b-5559b4d53fab",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2413",
+      "PublishedDate": "2025-02-10T00:00:00Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Overpriced procurement of medical supplies by Kitwe health officials.",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 79.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
+    },
+    {
+      "Id": "e61c1509-0feb-458f-b587-f12907d0cf42",
+      "Title": "Anti-Corruption Commission plea agreement abuse of office",
+      "Source": "Post Newspaper",
+      "Url": "https://lusaka.co.zm/article/2413",
+      "PublishedDate": "2026-04-12T00:00:00Z",
+      "PublishedAt": "2026-01-16T17:30:30Z",
+      "DiscoveredAt": "2026-01-05T17:30:30Z",
+      "Category": "financial",
+      "Severity": "high",
+      "Summary": "Suspicious deposits linked to unverified Lusaka road contract.",
+      "RelatedEntities": [
+        "Contractors - Livingstone"
+      ],
+      "Entities": [
+        "Contractors - Livingstone"
+      ],
+      "Keywords": [
+        "bribery",
+        "graft",
+        "abuse of office"
+      ],
+      "RelevanceScore": 79.4,
+      "IsReviewed": false,
+      "Sentiment": "Negative"
     }
   ],
   "Alerts": [

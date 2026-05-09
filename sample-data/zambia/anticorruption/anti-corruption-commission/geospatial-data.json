@@ -1,0 +1,434 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Markers": [
+    {
+      "Id": "b0a4b338-672a-46db-9f55-ba32e3d6b236",
+      "Name": "ACC Headquarters",
+      "Description": "Main operational command center for anti-corruption activities.",
+      "Latitude": -15.4167,
+      "Longitude": 28.2833,
+      "Location": "Lusaka, Zambia",
+      "MarkerType": "territory",
+      "MarkerColor": "#8b5cf6",
+      "RiskLevel": 10,
+      "EntityType": "Infrastructure",
+      "EventDate": "2026-01-01T08:00:00Z"
+    },
+    {
+      "Id": "73ed46ec-44c6-4f78-aa13-32f0f6f07f93",
+      "Name": "Suspicious Procurement Hub",
+      "Description": "Area identified with high volume of irregular government tenders.",
+      "Latitude": -12.8167,
+      "Longitude": 28.2,
+      "Location": "Kitwe, Zambia",
+      "MarkerType": "hotspot",
+      "MarkerColor": "#f59e0b",
+      "RiskLevel": 78,
+      "EntityType": "Discovery",
+      "EventDate": "2026-02-15T10:30:00Z"
+    },
+    {
+      "Id": "c2ad60d7-be77-4b0c-9209-597e42db53f6",
+      "Name": "Border Kickback Point",
+      "Description": "Reported location for illicit payments to bypass customs protocols.",
+      "Latitude": -9.3167,
+      "Longitude": 32.7667,
+      "Location": "Nakonde, Zambia",
+      "MarkerType": "incident",
+      "MarkerColor": "#ef4444",
+      "RiskLevel": 92,
+      "EntityType": "Investigation",
+      "EventDate": "2026-03-20T14:15:00Z"
+    },
+    {
+      "Id": "c533f1f5-a39a-4a4d-a5ca-3ec48b5d8fa3",
+      "Name": "Chanda Phiri (Subject)",
+      "Description": "Primary subject in the Ministry of Health ghost worker probe.",
+      "Latitude": -15.41,
+      "Longitude": 28.29,
+      "Location": "Lusaka, Zambia",
+      "MarkerType": "person",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 85,
+      "EntityType": "Person",
+      "EventDate": "2026-04-01T09:00:00Z"
+    },
+    {
+      "Id": "9317ce1e-037a-4eb4-8bcc-cb559ab923e8",
+      "Name": "Mukwa Road Contractors",
+      "Description": "Organization linked to multiple bid-rigging allegations.",
+      "Latitude": -12.9717,
+      "Longitude": 28.6366,
+      "Location": "Ndola, Zambia",
+      "MarkerType": "organization",
+      "MarkerColor": "#8b5cf6",
+      "RiskLevel": 72,
+      "EntityType": "Organization",
+      "EventDate": "2026-04-05T16:45:00Z"
+    },
+    {
+      "Id": "d63ddbb7-471f-443c-bd40-d2989beebf36",
+      "Name": "Ministry Site - Borehole Project",
+      "Description": "Location of suspicious expenditure on uncompleted water works.",
+      "Latitude": -14.45,
+      "Longitude": 28.45,
+      "Location": "Kabwe, Zambia",
+      "MarkerType": "incident",
+      "MarkerColor": "#ef4444",
+      "RiskLevel": 68,
+      "EntityType": "Investigation",
+      "EventDate": "2026-04-10T11:20:00Z"
+    },
+    {
+      "Id": "2f759f7f-81cb-4e1a-a9e2-0390c0062f08",
+      "Name": "Intelligence Lead #1000",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -15.419493913523961,
+      "Longitude": 28.173542904553802,
+      "Location": "Zambia",
+      "MarkerType": "organization",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 67,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "2bdc923b-b5cb-4485-b4fe-4a25e233f56b",
+      "Name": "Intelligence Lead #1001",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -12.080573709604062,
+      "Longitude": 26.36606432191174,
+      "Location": "Zambia",
+      "MarkerType": "hotspot",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 40,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "c8c47d8d-dd00-488b-95cd-21a34ec0bd6d",
+      "Name": "Intelligence Lead #1002",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -17.7794278649111,
+      "Longitude": 25.776535635389262,
+      "Location": "Zambia",
+      "MarkerType": "hotspot",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 77,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "c3f3b059-90a1-4f72-912b-3713d83dcc4a",
+      "Name": "Intelligence Lead #1003",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -15.395116624602387,
+      "Longitude": 28.237479407826036,
+      "Location": "Zambia",
+      "MarkerType": "incident",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 80,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "b88a2e94-842c-41cd-94f5-2732006e2d4d",
+      "Name": "Intelligence Lead #1004",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -9.342763547835633,
+      "Longitude": 32.7286942486147,
+      "Location": "Zambia",
+      "MarkerType": "hotspot",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 81,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "661e2a0a-f8ab-4bca-ab1a-d4818b5e7bf2",
+      "Name": "Intelligence Lead #1005",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -12.067119143831247,
+      "Longitude": 26.449433647084735,
+      "Location": "Zambia",
+      "MarkerType": "incident",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 78,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "02e4ae73-5016-4723-81d5-d2e987ffb3c8",
+      "Name": "Intelligence Lead #1006",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -17.817671291231534,
+      "Longitude": 25.7721093152003,
+      "Location": "Zambia",
+      "MarkerType": "person",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 89,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "38d6a9f2-9b5f-4245-825f-86e85e9f7f8a",
+      "Name": "Intelligence Lead #1007",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -9.293414369742598,
+      "Longitude": 32.721704299946566,
+      "Location": "Zambia",
+      "MarkerType": "person",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 56,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "e901cf0e-22f9-4f61-bfe5-3540a66eeebd",
+      "Name": "Intelligence Lead #1008",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -12.791861054196993,
+      "Longitude": 28.236284351516925,
+      "Location": "Zambia",
+      "MarkerType": "hotspot",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 86,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "21cf5cd7-d711-4a14-9737-65c1dfe736f7",
+      "Name": "Intelligence Lead #1009",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -17.84867855340811,
+      "Longitude": 25.828498338122508,
+      "Location": "Zambia",
+      "MarkerType": "hotspot",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 64,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "ab82ca07-9ce1-4a43-883e-65f8056068ba",
+      "Name": "Intelligence Lead #1010",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -17.819637151056085,
+      "Longitude": 25.834888585524524,
+      "Location": "Zambia",
+      "MarkerType": "hotspot",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 37,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "dffce4c2-73d0-4902-bf09-000c2e641e41",
+      "Name": "Intelligence Lead #1011",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -15.412000773382413,
+      "Longitude": 28.18483946447764,
+      "Location": "Zambia",
+      "MarkerType": "organization",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 56,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "c6ce4c3f-8e29-4bf9-aa85-f57744a228b7",
+      "Name": "Intelligence Lead #1012",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -9.321546323365476,
+      "Longitude": 32.74689395325357,
+      "Location": "Zambia",
+      "MarkerType": "incident",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 46,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "b15a42ec-cdb4-4de4-b615-ac13cd9d393b",
+      "Name": "Intelligence Lead #1013",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -15.402352850305846,
+      "Longitude": 28.1593702785049,
+      "Location": "Zambia",
+      "MarkerType": "person",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 30,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    },
+    {
+      "Id": "00b5b4fe-7311-4d04-814c-39019aba8044",
+      "Name": "Intelligence Lead #1014",
+      "Description": "Detected via financial monitoring and network analysis.",
+      "Latitude": -12.828138249729147,
+      "Longitude": 28.20097545738005,
+      "Location": "Zambia",
+      "MarkerType": "person",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 65,
+      "EntityType": "Discovery",
+      "EventDate": "2026-04-20T17:30:30Z"
+    }
+  ],
+  "Routes": [
+    {
+      "Id": "cc989c75-31ba-4feb-9b87-1b0b0c8333cf",
+      "Name": "Illicit Fund Transfer Route",
+      "Points": [
+        {
+          "Latitude": -15.4167,
+          "Longitude": 28.2833,
+          "Location": "Lusaka",
+          "PointType": "Origin",
+          "Order": 1
+        },
+        {
+          "Latitude": -17.85,
+          "Longitude": 25.85,
+          "Location": "Livingstone",
+          "PointType": "Transit",
+          "Order": 2
+        }
+      ]
+    }
+  ],
+  "Heatmaps": {
+    "activity": {
+      "Title": "Corruption Activity Heatmap",
+      "Description": "Visualizing high-density areas of suspicious procurement and bribery.",
+      "Points": [
+        {
+          "Latitude": -15.4167,
+          "Longitude": 28.2833,
+          "Intensity": 0.1,
+          "Count": 1
+        },
+        {
+          "Latitude": -12.8167,
+          "Longitude": 28.2,
+          "Intensity": 0.78,
+          "Count": 1
+        },
+        {
+          "Latitude": -9.3167,
+          "Longitude": 32.7667,
+          "Intensity": 0.92,
+          "Count": 1
+        },
+        {
+          "Latitude": -15.41,
+          "Longitude": 28.29,
+          "Intensity": 0.85,
+          "Count": 1
+        },
+        {
+          "Latitude": -12.9717,
+          "Longitude": 28.6366,
+          "Intensity": 0.72,
+          "Count": 1
+        },
+        {
+          "Latitude": -14.45,
+          "Longitude": 28.45,
+          "Intensity": 0.68,
+          "Count": 1
+        },
+        {
+          "Latitude": -15.419493913523961,
+          "Longitude": 28.173542904553802,
+          "Intensity": 0.67,
+          "Count": 1
+        },
+        {
+          "Latitude": -12.080573709604062,
+          "Longitude": 26.36606432191174,
+          "Intensity": 0.4,
+          "Count": 1
+        },
+        {
+          "Latitude": -17.7794278649111,
+          "Longitude": 25.776535635389262,
+          "Intensity": 0.77,
+          "Count": 1
+        },
+        {
+          "Latitude": -15.395116624602387,
+          "Longitude": 28.237479407826036,
+          "Intensity": 0.8,
+          "Count": 1
+        },
+        {
+          "Latitude": -9.342763547835633,
+          "Longitude": 32.7286942486147,
+          "Intensity": 0.81,
+          "Count": 1
+        },
+        {
+          "Latitude": -12.067119143831247,
+          "Longitude": 26.449433647084735,
+          "Intensity": 0.78,
+          "Count": 1
+        },
+        {
+          "Latitude": -17.817671291231534,
+          "Longitude": 25.7721093152003,
+          "Intensity": 0.89,
+          "Count": 1
+        },
+        {
+          "Latitude": -9.293414369742598,
+          "Longitude": 32.721704299946566,
+          "Intensity": 0.56,
+          "Count": 1
+        },
+        {
+          "Latitude": -12.791861054196993,
+          "Longitude": 28.236284351516925,
+          "Intensity": 0.86,
+          "Count": 1
+        },
+        {
+          "Latitude": -17.84867855340811,
+          "Longitude": 25.828498338122508,
+          "Intensity": 0.64,
+          "Count": 1
+        },
+        {
+          "Latitude": -17.819637151056085,
+          "Longitude": 25.834888585524524,
+          "Intensity": 0.37,
+          "Count": 1
+        },
+        {
+          "Latitude": -15.412000773382413,
+          "Longitude": 28.18483946447764,
+          "Intensity": 0.56,
+          "Count": 1
+        },
+        {
+          "Latitude": -9.321546323365476,
+          "Longitude": 32.74689395325357,
+          "Intensity": 0.46,
+          "Count": 1
+        },
+        {
+          "Latitude": -15.402352850305846,
+          "Longitude": 28.1593702785049,
+          "Intensity": 0.3,
+          "Count": 1
+        },
+        {
+          "Latitude": -12.828138249729147,
+          "Longitude": 28.20097545738005,
+          "Intensity": 0.65,
+          "Count": 1
+        }
+      ]
+    }
+  }
+}

@@ -800,6 +800,126 @@
       "TransactionId": "TX-PAY-20232117",
       "DetectedAt": "2026-01-10T17:30:31Z",
       "AlertType": "HighValue"
+    },
+    {
+      "Id": "f05528ac-0f0d-4149-b961-3d7d408fcbaa",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Critical",
+      "Description": "Defamation lawsuit filed by political figure in Livingstone.",
+      "Timestamp": "2025-09-25T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "60a06c02-d394-4d53-97ee-9879af41ba41",
+      "EntityName": "Joseph Kabaso",
+      "Severity": "Critical",
+      "Description": "Tracking viral disinformation regarding national currency stability.",
+      "Timestamp": "2025-09-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d910ec7f-64e4-4136-be67-aaec2974fbc9",
+      "EntityName": "Mainza Banda",
+      "Severity": "Critical",
+      "Description": "Whistleblower report of procurement abuse in Chirundu health sector.",
+      "Timestamp": "2026-02-18T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "fb07ea07-a0dd-4a66-a780-b657239c1335",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Medium",
+      "Description": "Whistleblower report of procurement abuse in Kitwe health sector.",
+      "Timestamp": "2025-02-09T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c05043d4-ae6f-46f2-8b2e-c70011edd98a",
+      "EntityName": "James Mwamba",
+      "Severity": "High",
+      "Description": "Tracking viral disinformation regarding national currency stability.",
+      "Timestamp": "2026-03-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8348cf80-924f-4bdf-92d6-7726e1fad853",
+      "EntityName": "Mopani Mines",
+      "Severity": "Critical",
+      "Description": "Whistleblower report of procurement abuse in Ndola health sector.",
+      "Timestamp": "2026-02-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8e87995a-7ddf-4e0a-9fac-38e32c034752",
+      "EntityName": "Sarah Sata",
+      "Severity": "High",
+      "Description": "Defamation lawsuit filed by political figure in Mongu.",
+      "Timestamp": "2025-01-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "02a23cd3-ffc6-468b-a39c-ec5ae5a795df",
+      "EntityName": "Gift Zulu",
+      "Severity": "Critical",
+      "Description": "Tracking viral disinformation regarding national currency stability.",
+      "Timestamp": "2025-12-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "de145e71-1c00-47c6-b0dd-7e61520e804f",
+      "EntityName": "Peter Hichilema",
+      "Severity": "Critical",
+      "Description": "Tracking viral disinformation regarding national currency stability.",
+      "Timestamp": "2026-01-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "07366dfb-ebb6-4979-964b-05afe0689ded",
+      "EntityName": "Mary Zulu",
+      "Severity": "Critical",
+      "Description": "Investigation lead into Solwezi land allocation scandal.",
+      "Timestamp": "2025-12-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "3dc59372-740f-4472-b928-d218a83d8848",
+      "EntityName": "Emmanuel Mumba",
+      "Severity": "Medium",
+      "Description": "Surveillance of high-risk entities mentioned in leaked financial docs.",
+      "Timestamp": "2025-08-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "65a9395a-8f08-4ddd-b79d-802addea742a",
+      "EntityName": "Kafue Logistics",
+      "Severity": "High",
+      "Description": "Whistleblower report of procurement abuse in Mufulira health sector.",
+      "Timestamp": "2025-11-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "aadd2952-f779-4d9b-b200-edf05f5d08b4",
+      "EntityName": "Chileshe Mundia",
+      "Severity": "Critical",
+      "Description": "Surveillance of high-risk entities mentioned in leaked financial docs.",
+      "Timestamp": "2025-12-25T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "40655bdd-ee3c-46af-96bc-7ee35b04dc2b",
+      "EntityName": "Natwange Traders",
+      "Severity": "Critical",
+      "Description": "Defamation lawsuit filed by political figure in Nakonde.",
+      "Timestamp": "2025-01-25T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "028729e2-3105-45d2-ac59-2e3e8f705b96",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Surveillance of high-risk entities mentioned in leaked financial docs.",
+      "Timestamp": "2026-01-16T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Rules": [

@@ -1,0 +1,53 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Activities": [
+    {
+      "Id": "e66c35dc-84b0-4be1-a7e9-ae66ca8eab6b",
+      "ActivityNumber": "GA-801",
+      "GangName": "Lusaka Syndicate",
+      "ActivityType": 2,
+      "ThreatLevel": 3,
+      "Description": "Aggravated robbery series involving commercial cargo.",
+      "Location": "Garden Compound, Lusaka",
+      "OccurredAt": "2026-05-07T11:15:15.759948Z",
+      "ConfidenceScore": 85.0
+    },
+    {
+      "Id": "8d87368a-7dd2-4b0f-81d0-d9db3301e8b2",
+      "ActivityNumber": "GA-327",
+      "GangName": "Lusaka Syndicate",
+      "ActivityType": 2,
+      "ThreatLevel": 3,
+      "Description": "Aggravated robbery series involving commercial cargo.",
+      "Location": "Garden Compound, Lusaka",
+      "OccurredAt": "2026-05-07T11:15:15.759984Z",
+      "ConfidenceScore": 85.0
+    },
+    {
+      "Id": "67efb213-168b-4c0c-8d14-32ecd607acfd",
+      "ActivityNumber": "GA-685",
+      "GangName": "Lusaka Syndicate",
+      "ActivityType": 2,
+      "ThreatLevel": 3,
+      "Description": "Aggravated robbery series involving commercial cargo.",
+      "Location": "Garden Compound, Lusaka",
+      "OccurredAt": "2026-05-07T11:15:15.760000Z",
+      "ConfidenceScore": 85.0
+    },
+    {
+      "Id": "f27e2f92-df19-4c55-83e4-2597afd59be1",
+      "ActivityNumber": "GA-656",
+      "GangName": "Lusaka Syndicate",
+      "ActivityType": 2,
+      "ThreatLevel": 3,
+      "Description": "Aggravated robbery series involving commercial cargo.",
+      "Location": "Garden Compound, Lusaka",
+      "OccurredAt": "2026-05-07T11:15:15.760015Z",
+      "ConfidenceScore": 85.0
+    }
+  ],
+  "KnownGangs": [
+    "Lusaka Syndicate",
+    "Copperbelt Cartel"
+  ]
+}

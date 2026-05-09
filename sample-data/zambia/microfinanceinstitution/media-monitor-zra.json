@@ -1542,6 +1542,126 @@
       "CreatedAt": "2025-12-18T17:30:30Z",
       "TriggeredAt": "2025-11-10T17:30:30Z",
       "IsAcknowledged": false
+    },
+    {
+      "Id": "abc620e9-b2e5-44bd-bea4-b094782d592d",
+      "EntityName": "Mutale Chanda",
+      "Severity": "High",
+      "Description": "Rapid default on high-value equipment loans by Mopani Mines.",
+      "Timestamp": "2025-03-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f51118ab-ac37-4c83-8983-b8c2c2ece9db",
+      "EntityName": "Kafue Logistics",
+      "Severity": "High",
+      "Description": "Ghost-borrower scheme identified in rural agricultural loan disbursement.",
+      "Timestamp": "2025-07-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "eaee0a46-7388-4ba5-8bd3-352a0161281d",
+      "EntityName": "Savanna Insurance",
+      "Severity": "High",
+      "Description": "Suspected circular lending pattern between related entities in Ndola.",
+      "Timestamp": "2025-08-17T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "3fcabce1-bf45-47f1-ba08-78bf915be116",
+      "EntityName": "Blessing Chanda",
+      "Severity": "Critical",
+      "Description": "Internal collusion to bypass credit scoring for Livingstone retail sector.",
+      "Timestamp": "2025-11-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "603b150c-443e-4043-b8c2-72abf531e45b",
+      "EntityName": "Patricia Nyirenda",
+      "Severity": "Medium",
+      "Description": "Suspected circular lending pattern between related entities in Mongu.",
+      "Timestamp": "2026-04-18T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d95f0a2d-edc1-4629-aa36-274b337cba09",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Critical",
+      "Description": "Ghost-borrower scheme identified in rural agricultural loan disbursement.",
+      "Timestamp": "2026-02-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "00f51b5a-5df5-41a9-9e0e-1cd1ad0f318e",
+      "EntityName": "Mutale Silavwe",
+      "Severity": "Medium",
+      "Description": "Ghost-borrower scheme identified in rural agricultural loan disbursement.",
+      "Timestamp": "2025-12-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "652b0d75-0d42-4c50-a74f-af779536dd14",
+      "EntityName": "Zesco",
+      "Severity": "Critical",
+      "Description": "Rapid default on high-value equipment loans by Apex Road Contractors.",
+      "Timestamp": "2025-06-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "242e2efc-ec69-4713-a3ed-07d8bd44ffd6",
+      "EntityName": "Davies Mumba",
+      "Severity": "Critical",
+      "Description": "Internal collusion to bypass credit scoring for Kasama retail sector.",
+      "Timestamp": "2025-05-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9e8f3b53-286c-4edc-99c6-8ef59c7d9c10",
+      "EntityName": "Zamtel",
+      "Severity": "Critical",
+      "Description": "Multiple loan applications using shared contact details in Kabwe.",
+      "Timestamp": "2025-10-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a7bf7515-0ebb-4e58-a8cf-11622389f491",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Medium",
+      "Description": "Internal collusion to bypass credit scoring for Livingstone retail sector.",
+      "Timestamp": "2025-12-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2b78865e-0aa4-46b1-865b-846fd3fd1d5a",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "High",
+      "Description": "Rapid default on high-value equipment loans by Kafue Logistics.",
+      "Timestamp": "2025-06-17T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "646510e6-0548-4a92-94bf-1dbccaf6508d",
+      "EntityName": "Water for Life",
+      "Severity": "High",
+      "Description": "Ghost-borrower scheme identified in rural agricultural loan disbursement.",
+      "Timestamp": "2025-06-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "40ee9d8b-d22c-4b35-8339-3e77191903d6",
+      "EntityName": "Hope Sinkala",
+      "Severity": "Medium",
+      "Description": "Internal collusion to bypass credit scoring for Kabwe retail sector.",
+      "Timestamp": "2025-08-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "3c965317-9d24-4eb2-a3a2-bd1c1f83b49a",
+      "EntityName": "Catherine Chisenga",
+      "Severity": "High",
+      "Description": "Rapid default on high-value equipment loans by Zambia Sugar.",
+      "Timestamp": "2025-06-27T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Configs": [

@@ -1,0 +1,16 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Groups": [
+    {
+      "Id": "transactions",
+      "Content": "Transactions",
+      "Order": 1
+    },
+    {
+      "Id": "incidents",
+      "Content": "Incidents",
+      "Order": 2
+    }
+  ],
+  "EntityTimelines": {}
+}

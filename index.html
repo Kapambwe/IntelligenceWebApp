@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>IntelligenceWebApp</title>
     <base href="/IntelligenceWebApp/" />
-
+    <link href="_framework/dotnet.pijhe1117z.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-78BRvxSlBk7VSJAP/Qu6Hh5tHG9P5rPwNC7GSh9lOzA=" />
     <!-- Preconnect to external domains for faster resource loading -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -42,7 +42,30 @@
           media="print" onload="this.media='all'" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"
           media="print" onload="this.media='all'" />
+    
+    <!-- Advanced GEOINT Style Dependencies -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
 
+    <script type="importmap">{
+  "imports": {
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.zxhwjtv6sc.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.0nqqdwglst.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.pijhe1117z.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.peu2mfb29t.js"
+  },
+  "scopes": {},
+  "integrity": {
+    "./_framework/blazor.webassembly.js": "sha256-1xlHuu1iNOJiMMz2BCq95uekwHf6pdpTcgVNKVBboPs=",
+    "./_framework/blazor.webassembly.zxhwjtv6sc.js": "sha256-1xlHuu1iNOJiMMz2BCq95uekwHf6pdpTcgVNKVBboPs=",
+    "./_framework/dotnet.js": "sha256-78BRvxSlBk7VSJAP/Qu6Hh5tHG9P5rPwNC7GSh9lOzA=",
+    "./_framework/dotnet.native.0nqqdwglst.js": "sha256-XPawOD3X2bZ+vzYkWpmf7ylgH6OCtj/LB+LXvESctog=",
+    "./_framework/dotnet.native.js": "sha256-XPawOD3X2bZ+vzYkWpmf7ylgH6OCtj/LB+LXvESctog=",
+    "./_framework/dotnet.pijhe1117z.js": "sha256-78BRvxSlBk7VSJAP/Qu6Hh5tHG9P5rPwNC7GSh9lOzA=",
+    "./_framework/dotnet.runtime.js": "sha256-cajUr4vA/MpLPWj3omULUOwEQw3i8CE2n8AmDheqWBM=",
+    "./_framework/dotnet.runtime.peu2mfb29t.js": "sha256-cajUr4vA/MpLPWj3omULUOwEQw3i8CE2n8AmDheqWBM="
+  }
+}</script>
     <!-- Fallback for browsers with JS disabled -->
     <noscript>
         <link rel="stylesheet" href="css/platform-colors.css" />
@@ -52,6 +75,7 @@
         <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
         <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
     </noscript>
+
 </head>
 
 <body>
@@ -70,79 +94,17 @@
     </div>
 
     <!-- Critical: Blazor framework must load first -->
-    <script src="_framework/blazor.webassembly.js" autostart="false"></script>
+    <script src="_framework/blazor.webassembly.zxhwjtv6sc.js"></script>
     <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
 
     <!-- Helper scripts - defer loading -->
     <script src="js/helper.js" defer></script>
-
-    <!-- Non-critical JS modules - load after Blazor starts -->
-    <script type="module">
-        // Start Blazor after initial scripts are ready
-        Blazor.start().then(() => {
-            console.log('Blazor started successfully');
-        });
-    </script>
-
-    <!-- Lazy-load map and visualization libraries only when needed -->
-    <script>
-        // Leaflet and related libraries loader - loads on demand
-        window.loadMapLibraries = function() {
-            if (window.L) return Promise.resolve(); // Already loaded
-
-            return new Promise((resolve) => {
-                const scripts = [
-                    { src: 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js', integrity: 'sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=' },
-                    { src: 'https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js' },
-                    { src: 'https://unpkg.com/leaflet-heat@0.2.0/dist/leaflet-heat.js' },
-                    { src: 'https://unpkg.com/leaflet-polylinedecorator@1.6.0/dist/leaflet.polylineDecorator.js' }
-                ];
-
-                let loaded = 0;
-                scripts.forEach((scriptInfo, index) => {
-                    const script = document.createElement('script');
-                    script.src = scriptInfo.src;
-                    if (scriptInfo.integrity) {
-                        script.integrity = scriptInfo.integrity;
-                        script.crossOrigin = '';
-                    }
-                    script.onload = () => {
-                        loaded++;
-                        if (loaded === scripts.length) resolve();
-                    };
-                    // Load sequentially to maintain dependencies
-                    if (index === 0) {
-                        document.body.appendChild(script);
-                    } else {
-                        scripts[index - 1].element = script;
-                    }
-                });
-            });
-        };
-
-        // Network graph loader
-        window.loadNetworkGraphLibraries = function() {
-            if (window.networkGraphLoaded) return Promise.resolve();
-
-            return new Promise((resolve) => {
-                const scripts = ['js/network-graph.js', 'js/timeline-visualization.js', 'js/timeline-controller.js'];
-                let loaded = 0;
-                scripts.forEach(src => {
-                    const script = document.createElement('script');
-                    script.src = src;
-                    script.onload = () => {
-                        loaded++;
-                        if (loaded === scripts.length) {
-                            window.networkGraphLoaded = true;
-                            resolve();
-                        }
-                    };
-                    document.body.appendChild(script);
-                });
-            });
-        };
-    </script>
-
+    <!-- Leaflet & Drawing Library Dependencies -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="https://unpkg.com/leaflet-heat@0.2.0/dist/leaflet-heat.js"></script>
+    <script src="https://unpkg.com/leaflet-polylinedecorator@1.6.0/dist/leaflet.polylineDecorator.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.js"></script>
     <!-- Module scripts - these load in parallel and execute in order -->
     <script src="js/keyboard-shortcuts.js" type="module"></script>
     <script src="js/cytoscape-network-graph.js" type="module"></script>

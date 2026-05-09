@@ -454,6 +454,106 @@
       "Description": "Compliance monitoring revealed terrorism financing involving suspicious persons",
       "DetectedAt": "2026-01-09T17:30:30Z",
       "Status": "Resolved"
+    },
+    {
+      "Id": "105333ac-c299-4525-8a4f-ced05e1c5438",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Zambezi General Dealers",
+      "Description": "Rapid fund layering through multiple accounts at Indo-Zambia Bank.",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Resolved",
+      "Summary": null
+    },
+    {
+      "Id": "87b6f884-4a4d-448e-8f5f-9688056749e5",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Martha Lungu",
+      "Description": "Structuring of cash deposits (smurfing) at Stanbic branches in Livingstone.",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Resolved",
+      "Summary": null
+    },
+    {
+      "Id": "669c7b72-43cc-4728-8bdc-c14bf5c23d95",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Kitwe Hardware Solutions",
+      "Description": "Rapid fund layering through multiple accounts at Investrust.",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Resolved",
+      "Summary": null
+    },
+    {
+      "Id": "5a70d3ab-0897-4f33-974b-bccd5e6d9189",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Ndola Agro",
+      "Description": "Structuring of cash deposits (smurfing) at Investrust branches in Mufulira.",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Resolved",
+      "Summary": null
+    },
+    {
+      "Id": "916e56ec-8e53-4f26-896c-c67cf3202a04",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Victoria Falls Power",
+      "Description": "Shell company Copperbelt Suppliers used to move illicit funds from government contracts.",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Resolved",
+      "Summary": null
+    },
+    {
+      "Id": "333f6bda-86a8-4cb5-b9ea-3bffbe1f18ac",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Tazara Freight",
+      "Description": "Structuring of cash deposits (smurfing) at First Capital branches in Luanshya.",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Resolved",
+      "Summary": null
+    },
+    {
+      "Id": "2b8d7930-e7f8-4a1f-9e95-0b53f26c3835",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Copperbelt Suppliers",
+      "Description": "Mobile money patterns consistent with illegal wildlife trade financing in Chirundu.",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Resolved",
+      "Summary": null
+    },
+    {
+      "Id": "bf3b8daa-4d86-41fb-9ef0-5b44a1fb1d9e",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Apex Road Contractors Ltd",
+      "Description": "Round-tripping of funds through Indo-Zambia Bank involving offshore entities.",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Resolved",
+      "Summary": null
+    },
+    {
+      "Id": "351503a1-ceb2-4c5d-8d5b-f6f94237fea4",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Southern Cross Enterprises",
+      "Description": "Large cash withdrawals in Chirundu immediately following central bank disbursements.",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Resolved",
+      "Summary": null
+    },
+    {
+      "Id": "2d50ecbe-8ca6-4f8f-9a93-f9bfa40f9041",
+      "Type": "Financial crime",
+      "Severity": "Critical",
+      "EntityName": "Tazara Freight",
+      "Description": "Rapid fund layering through multiple accounts at Absa Bank.",
+      "DetectedAt": "2025-12-12T17:30:30Z",
+      "Status": "Resolved",
+      "Summary": null
     }
   ],
   "RiskTrends": [

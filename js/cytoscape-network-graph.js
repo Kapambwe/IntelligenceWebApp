@@ -460,20 +460,106 @@ class CytoscapeNetworkGraph {
     }
 
     /**
-     * Get entity icon URL based on type
+     * Set node scaling based on values (e.g. centrality scores)
+     * @param {Object} scores Mapping of nodeId to scale value (0 to 1)
      */
-    getEntityIcon(entityType) {
-        const iconMap = {
-            'Person': 'person.svg',
-            'Organization': 'company.svg',
-            'Account': 'financial.svg',
-            'Transaction': 'financial.svg',
-            'Address': 'property.svg',
-            'Document': 'document.svg'
-        };
+    setNodeScaling(scores) {
+        if (!this.cy) return;
 
-        const iconFile = iconMap[entityType] || 'default.svg';
-        return `${this.config.iconPath}/${iconFile}`;
+        this.cy.nodes().forEach(node => {
+            const score = scores[node.id()] || 0;
+            const size = 60 + (score * 60); // Scale from 60px to 120px
+            
+            node.animate({
+                style: {
+                    'width': size,
+                    'height': size
+                }
+            }, {
+                duration: 500
+            });
+        });
+    }
+
+    /**
+     * Apply community coloring
+     * @param {Object} clusters Mapping of nodeId to clusterId
+     */
+    applyClusterColors(clusters) {
+        if (!this.cy) return;
+
+        const colors = [
+            '#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6', 
+            '#ec4899', '#6366f1', '#14b8a6', '#f97316', '#06b6d4'
+        ];
+
+        this.cy.nodes().forEach(node => {
+            const clusterId = clusters[node.id()];
+            if (clusterId !== undefined) {
+                const color = colors[clusterId % colors.length];
+                node.animate({
+                    style: {
+                        'background-color': color,
+                        'border-color': '#ffffff',
+                        'border-width': 4
+                    }
+                }, {
+                    duration: 500
+                });
+            }
+        });
+    }
+
+    /**
+     * Highlight a specific path
+     * @param {Array} nodeIds Array of node IDs in the path
+     * @param {Array} edgeIds Array of edge IDs in the path
+     */
+    highlightPath(nodeIds, edgeIds) {
+        if (!this.cy) return;
+
+        // Reset previous highlights
+        this.cy.elements().removeClass('highlighted faded');
+
+        if (!nodeIds || nodeIds.length === 0) return;
+
+        // Apply classes
+        this.cy.elements().addClass('faded');
+        
+        nodeIds.forEach(id => {
+            this.cy.getElementById(id).removeClass('faded').addClass('highlighted');
+        });
+
+        if (edgeIds) {
+            edgeIds.forEach(id => {
+                this.cy.getElementById(id).removeClass('faded').addClass('highlighted');
+            });
+        }
+    }
+
+    /**
+     * Reset all analytical visualizations
+     */
+    resetAnalysis() {
+        if (!this.cy) return;
+
+        this.cy.elements().removeClass('highlighted faded');
+        
+        // Reset node sizes and colors to stylesheet defaults
+        this.cy.nodes().animate({
+            style: {
+                'width': 60,
+                'height': 60,
+                'background-color': '#667eea', // Default will be overridden by type-specific styles
+                'border-width': 3
+            }
+        }, {
+            duration: 500,
+            complete: () => {
+                // Re-apply stylesheet to ensure type colors are correct
+                this.cy.style().update();
+            }
+        });
     }
 
     /**
@@ -1227,9 +1313,33 @@ export function focusOnNode(elementId, nodeId) {
     return false;
 }
 
-export function highlightPath(elementId, nodeIds) {
+export function highlightPath(elementId, nodeIds, edgeIds = null) {
     if (cytoscapeGraphs.has(elementId)) {
-        cytoscapeGraphs.get(elementId).highlightPath(nodeIds);
+        cytoscapeGraphs.get(elementId).highlightPath(nodeIds, edgeIds);
+        return true;
+    }
+    return false;
+}
+
+export function setNodeScaling(elementId, scores) {
+    if (cytoscapeGraphs.has(elementId)) {
+        cytoscapeGraphs.get(elementId).setNodeScaling(scores);
+        return true;
+    }
+    return false;
+}
+
+export function applyClusterColors(elementId, clusters) {
+    if (cytoscapeGraphs.has(elementId)) {
+        cytoscapeGraphs.get(elementId).applyClusterColors(clusters);
+        return true;
+    }
+    return false;
+}
+
+export function resetAnalysis(elementId) {
+    if (cytoscapeGraphs.has(elementId)) {
+        cytoscapeGraphs.get(elementId).resetAnalysis();
         return true;
     }
     return false;

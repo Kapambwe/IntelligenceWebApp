@@ -1,0 +1,190 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Profiles": [
+    {
+      "CustomerId": "ab76b8c1-6520-451b-8972-b1816d0cc86c",
+      "PrimaryEntity": {
+        "Id": "ab76b8c1-6520-451b-8972-b1816d0cc86c",
+        "Name": "Zambia Sugar",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 80
+      },
+      "TotalAssets": 21776006,
+      "NetWorth": 19275880,
+      "CurrentRiskScore": 71,
+      "FirstInteractionDate": "2024-12-25T11:14:39.271604Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-6329",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.271627Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    },
+    {
+      "CustomerId": "0c4346cc-2d3b-477d-8c6e-49df02dc739f",
+      "PrimaryEntity": {
+        "Id": "0c4346cc-2d3b-477d-8c6e-49df02dc739f",
+        "Name": "Grace Tembo",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 59
+      },
+      "TotalAssets": 36586445,
+      "NetWorth": 16880075,
+      "CurrentRiskScore": 62,
+      "FirstInteractionDate": "2024-12-25T11:14:39.271653Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-7885",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.271700Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    },
+    {
+      "CustomerId": "67dbf859-5d68-476e-87bb-32fc77b8d754",
+      "PrimaryEntity": {
+        "Id": "67dbf859-5d68-476e-87bb-32fc77b8d754",
+        "Name": "Moses Zulu",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 34
+      },
+      "TotalAssets": 33054653,
+      "NetWorth": 3192017,
+      "CurrentRiskScore": 44,
+      "FirstInteractionDate": "2024-12-25T11:14:39.271730Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-2302",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.271738Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    },
+    {
+      "CustomerId": "18d1fb2a-fc95-446e-a74d-686c00d6a793",
+      "PrimaryEntity": {
+        "Id": "18d1fb2a-fc95-446e-a74d-686c00d6a793",
+        "Name": "Apex Road Contractors",
+        "Type": "Organization",
+        "Status": "Active",
+        "RiskScore": 42
+      },
+      "TotalAssets": 27736150,
+      "NetWorth": 8122643,
+      "CurrentRiskScore": 83,
+      "FirstInteractionDate": "2024-12-25T11:14:39.271759Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-7981",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.271765Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    },
+    {
+      "CustomerId": "454b4198-de80-46c2-a8b8-431f645b48b3",
+      "PrimaryEntity": {
+        "Id": "454b4198-de80-46c2-a8b8-431f645b48b3",
+        "Name": "Mopani Mines",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 53
+      },
+      "TotalAssets": 16189547,
+      "NetWorth": 9755174,
+      "CurrentRiskScore": 30,
+      "FirstInteractionDate": "2024-12-25T11:14:39.271784Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-8418",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.271789Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    }
+  ]
+}

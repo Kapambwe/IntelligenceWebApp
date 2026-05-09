@@ -1,0 +1,73 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Cases": [
+    {
+      "Id": "6e2b636b-a321-4da1-872e-d2dc5cdc71ce",
+      "CaseNumber": "REV-8472",
+      "Title": "VAT Evasion - Copperbelt Retail",
+      "Description": "Suspicious VAT returns from major hardware group.",
+      "Type": 0,
+      "Priority": 2,
+      "Status": 1,
+      "AssignedTo": "John Smith",
+      "CreatedAt": "2026-03-29T08:31:08.447207Z",
+      "DueDate": "2026-05-23T08:31:08.447322Z"
+    },
+    {
+      "Id": "222663a8-51ae-43e6-b510-cc446eea433c",
+      "CaseNumber": "REV-9102",
+      "Title": "Nakonde Border Undervaluation",
+      "Description": "Systemic undervaluation of vehicle imports detected.",
+      "Type": 0,
+      "Priority": 3,
+      "Status": 2,
+      "AssignedTo": "Mary Zulu",
+      "CreatedAt": "2026-03-12T08:31:08.447420Z",
+      "DueDate": "2026-05-17T08:31:08.447433Z"
+    },
+    {
+      "Id": "a2c815bb-6c3b-40f7-a455-14036199e5d6",
+      "CaseNumber": "REV-7731",
+      "Title": "Mining Transfer Pricing Review",
+      "Description": "Discrepancy in copper concentrate export pricing.",
+      "Type": 4,
+      "Priority": 1,
+      "Status": 0,
+      "AssignedTo": "Emmanuel Phiri",
+      "CreatedAt": "2026-04-13T08:31:08.447455Z",
+      "DueDate": "2026-05-18T08:31:08.447463Z"
+    },
+    {
+      "Id": "fd32526e-d586-4802-8c71-f8bc53622f3c",
+      "CaseNumber": "REV-6642",
+      "Title": "Tax Arrears - Construction Sector",
+      "Description": "Large outstanding corporate tax from BuildCon Ltd.",
+      "Type": 4,
+      "Priority": 0,
+      "Status": 1,
+      "AssignedTo": "John Smith",
+      "CreatedAt": "2026-03-30T08:31:08.447479Z",
+      "DueDate": "2026-05-29T08:31:08.447486Z"
+    },
+    {
+      "Id": "5e3266d8-bff6-421c-95d5-d37f17324337",
+      "CaseNumber": "REV-5510",
+      "Title": "Smuggling Syndicate - Livingstone",
+      "Description": "Cross-border smuggling of excisable goods.",
+      "Type": 0,
+      "Priority": 2,
+      "Status": 3,
+      "AssignedTo": "Grace Nkandu",
+      "CreatedAt": "2026-04-21T08:31:08.447500Z",
+      "DueDate": "2026-05-28T08:31:08.447506Z"
+    }
+  ],
+  "CaseDetails": {},
+  "Statistics": {
+    "ActiveCases": 5,
+    "HighPriorityCases": 3,
+    "OverdueCases": 3,
+    "ResolvedCasesThisMonth": 2,
+    "ActiveCasesGrowth": 13.7
+  }
+}

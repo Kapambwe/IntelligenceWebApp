@@ -800,6 +800,126 @@
       "TransactionId": "TX-DEP-20218240",
       "DetectedAt": "2025-12-05T17:30:30Z",
       "AlertType": "Threshold"
+    },
+    {
+      "Id": "ffc9ada6-5a6c-4ee5-ae53-d6376a0b094c",
+      "EntityName": "Emmanuel Kunda",
+      "Severity": "Medium",
+      "Description": "Conflict of interest in tender award to Zesco by project coordinator.",
+      "Timestamp": "2025-09-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "747c9ed0-9003-4ced-9734-afe8f34502ff",
+      "EntityName": "Zesco",
+      "Severity": "Critical",
+      "Description": "Unauthorized cash withdrawals from project operational accounts.",
+      "Timestamp": "2026-02-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "ad4b5ffe-e9df-4fad-a441-1ea71e875f06",
+      "EntityName": "Water for Life",
+      "Severity": "Medium",
+      "Description": "Unauthorized cash withdrawals from project operational accounts.",
+      "Timestamp": "2026-05-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "46c5225c-e220-4a04-8478-a25a1470a9df",
+      "EntityName": "Peter Mumba",
+      "Severity": "Critical",
+      "Description": "Conflict of interest in tender award to Zambia Sugar by project coordinator.",
+      "Timestamp": "2026-02-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "0652c20f-8bd4-4b36-879e-572ed8309405",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Medium",
+      "Description": "Diversion of grant funds intended for borehole projects in Luanshya.",
+      "Timestamp": "2025-01-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "697fc6a2-a810-4940-a944-acb45dc41784",
+      "EntityName": "Peter Kabaso",
+      "Severity": "Critical",
+      "Description": "Diversion of grant funds intended for borehole projects in Mongu.",
+      "Timestamp": "2025-02-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "20730896-5551-441f-998c-bb05322d079c",
+      "EntityName": "Peter Kapwepwe",
+      "Severity": "High",
+      "Description": "Ghost beneficiaries detected in Mongu community health program.",
+      "Timestamp": "2025-02-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "46010abc-90d3-4471-a37e-99758c6541ef",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Ghost beneficiaries detected in Choma community health program.",
+      "Timestamp": "2025-07-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2613cef1-a74b-466f-aa4a-d532248848bc",
+      "EntityName": "Natwange Traders",
+      "Severity": "Critical",
+      "Description": "Conflict of interest in tender award to Water for Life by project coordinator.",
+      "Timestamp": "2025-06-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c49243b9-c7fd-458e-905e-0c64c835348c",
+      "EntityName": "Chileshe Mwamba",
+      "Severity": "Medium",
+      "Description": "Diversion of grant funds intended for borehole projects in Mansa.",
+      "Timestamp": "2025-07-01T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "3ed0e55a-8ce3-4768-a3e7-52a1cec13f06",
+      "EntityName": "Levy Lungu",
+      "Severity": "Critical",
+      "Description": "Procurement fraud involving inflated invoices from Zambia Sugar.",
+      "Timestamp": "2026-04-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "017bbda7-381d-450d-b3c4-af1f196c0e3d",
+      "EntityName": "Kafue Logistics",
+      "Severity": "High",
+      "Description": "Conflict of interest in tender award to Mopani Mines by project coordinator.",
+      "Timestamp": "2025-02-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8c50f1c9-6a94-4520-bda2-eacae9eb3c72",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Medium",
+      "Description": "Unauthorized cash withdrawals from project operational accounts.",
+      "Timestamp": "2025-03-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "4d2c3530-1a74-494d-9b28-169704c15acb",
+      "EntityName": "John Lungu",
+      "Severity": "Medium",
+      "Description": "Diversion of grant funds intended for borehole projects in Luanshya.",
+      "Timestamp": "2025-03-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "89d471c2-c06d-4698-b614-e5adb39311d0",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Ghost beneficiaries detected in Ndola community health program.",
+      "Timestamp": "2026-03-14T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Rules": [

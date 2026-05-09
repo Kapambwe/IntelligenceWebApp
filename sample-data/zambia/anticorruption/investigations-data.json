@@ -1,0 +1,73 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Cases": [
+    {
+      "Id": "a2609d42-c025-4f7a-9915-60b93a70e953",
+      "CaseNumber": "ACC-2024-001",
+      "Title": "Ministry of Health Payroll Fraud",
+      "Description": "Investigation into 150 ghost workers in Lusaka district.",
+      "Type": 0,
+      "Priority": 3,
+      "Status": 1,
+      "AssignedTo": "Grace Nkandu",
+      "CreatedAt": "2026-03-13T08:31:08.447638Z",
+      "DueDate": "2026-05-29T08:31:08.447648Z"
+    },
+    {
+      "Id": "acceb6a2-1751-4a5d-b6d7-0d1ab5fe5495",
+      "CaseNumber": "ACC-2024-002",
+      "Title": "Land Allocation Scandal - Livingstone",
+      "Description": "Alleged bribery in commercial land distribution.",
+      "Type": 0,
+      "Priority": 2,
+      "Status": 2,
+      "AssignedTo": "Joseph Banda",
+      "CreatedAt": "2026-03-16T08:31:08.447666Z",
+      "DueDate": "2026-05-23T08:31:08.447672Z"
+    },
+    {
+      "Id": "2f55a6ce-1620-495a-a5fa-7b6b15bb7fa4",
+      "CaseNumber": "ACC-2024-003",
+      "Title": "Tender Collusion - Mukwa Engineering",
+      "Description": "Evidence of kickbacks in feeder road contracts.",
+      "Type": 0,
+      "Priority": 2,
+      "Status": 3,
+      "AssignedTo": "John Smith",
+      "CreatedAt": "2026-04-22T08:31:08.447698Z",
+      "DueDate": "2026-05-16T08:31:08.447704Z"
+    },
+    {
+      "Id": "5b0e7fe9-610c-4358-8382-affab5a08db4",
+      "CaseNumber": "ACC-2024-004",
+      "Title": "Conflict of Interest - Council Official",
+      "Description": "Town clerk linked to sanitation supplier.",
+      "Type": 4,
+      "Priority": 1,
+      "Status": 0,
+      "AssignedTo": "Mary Zulu",
+      "CreatedAt": "2026-03-22T08:31:08.447766Z",
+      "DueDate": "2026-05-28T08:31:08.447775Z"
+    },
+    {
+      "Id": "95900518-b37f-495f-855a-ca7f2ceec8f1",
+      "CaseNumber": "ACC-2024-005",
+      "Title": "Abuse of Office - Education Dept",
+      "Description": "Misuse of donor funds for school infrastructure.",
+      "Type": 0,
+      "Priority": 2,
+      "Status": 1,
+      "AssignedTo": "Emmanuel Phiri",
+      "CreatedAt": "2026-03-22T08:31:08.448017Z",
+      "DueDate": "2026-05-20T08:31:08.448031Z"
+    }
+  ],
+  "CaseDetails": {},
+  "Statistics": {
+    "ActiveCases": 5,
+    "HighPriorityCases": 4,
+    "OverdueCases": 0,
+    "ResolvedCasesThisMonth": 7,
+    "ActiveCasesGrowth": 6.3
+  }
+}

@@ -650,6 +650,231 @@
         "suspicious transactions"
       ],
       "AnnualSpend": 1198439.47
+    },
+    {
+      "Id": "8c430a78-70e6-4c70-81a5-de59e04470de",
+      "Name": "Tazara Freight",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "7b9d123f-5eb9-4c40-9f32-1746b04315b9",
+      "Name": "Mopani Mines",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "8f28c856-2606-4c73-b738-15a4b80ddaab",
+      "Name": "Apex Road Contractors Ltd",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "cdd5ecdf-3105-44cf-a97c-62233c9e0bd9",
+      "Name": "Kennedy Kalaba",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "dc0187c6-473f-415a-8a4d-5baeafd2cf95",
+      "Name": "Moses Bwalya",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "0351781b-6329-4745-83bd-06cea8425517",
+      "Name": "Victoria Falls Power",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "8e65119b-518f-4de2-8e6b-f22e84b9aa8b",
+      "Name": "Hope Nyirenda",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "a1c5ca8b-a0c4-4ec6-897f-81a339a4e62f",
+      "Name": "Kasumbalesa Traders",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "142adae8-950b-4e4c-bed9-299f412fdd81",
+      "Name": "Zambia Sugar Corp",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "cda46afc-9d6c-4036-b1eb-061039fb5d85",
+      "Name": "Ndola Agro",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "db5278a8-f9ea-46f7-b87d-6250d122eccc",
+      "Name": "John Mulenga",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "09d921e6-56e6-4902-a8ff-a349dd4e986c",
+      "Name": "Lombe Mumba",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "041a15b2-3ce7-4001-ac29-409d73533196",
+      "Name": "Levy Tembo",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "23a2c831-9164-42a5-9382-2e7cc1f3d409",
+      "Name": "Mutale Silavwe",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
+    },
+    {
+      "Id": "ea856b20-4d90-4ff3-bc35-25276e90f10c",
+      "Name": "Moses Hichilema",
+      "Country": "Zambia",
+      "Tier": 3,
+      "Category": "manufacturing",
+      "RiskScore": 54.8,
+      "IsCritical": true,
+      "Products": [
+        "suspicious transactions"
+      ],
+      "AnnualSpend": 5019811.03,
+      "Description": null,
+      "Summary": null
     }
   ],
   "Edges": [

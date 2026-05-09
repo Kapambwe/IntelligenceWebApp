@@ -1,0 +1,163 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Alerts": [
+    {
+      "Id": "90f92c3b-8c40-4c13-8a5a-ded0b42b5321",
+      "AlertNumber": "FD-9704",
+      "EntityName": "Zamtel",
+      "PatternType": "Structuring",
+      "FraudScore": 93,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.273605Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "7fe8c402-2f2d-4978-b2fa-44ec0cfdec2c",
+      "AlertNumber": "FD-2911",
+      "EntityName": "Zesco",
+      "PatternType": "Structuring",
+      "FraudScore": 71,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.273644Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "121ff16f-0d28-49ae-b918-69833b5182bf",
+      "AlertNumber": "FD-6523",
+      "EntityName": "Mopani Mines",
+      "PatternType": "Structuring",
+      "FraudScore": 64,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.273659Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "9e4626b5-1751-415a-90a1-0eee4dae050f",
+      "AlertNumber": "FD-8819",
+      "EntityName": "Mukwa Engineering",
+      "PatternType": "Structuring",
+      "FraudScore": 79,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.273674Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "de487a49-e3ae-481e-9602-227fd071c088",
+      "AlertNumber": "FD-3046",
+      "EntityName": "Zesco",
+      "PatternType": "Structuring",
+      "FraudScore": 84,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.273684Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "8bbb71c2-d810-4227-b9a2-19d98c5e3cae",
+      "AlertNumber": "FD-6536",
+      "EntityName": "Mopani Mines",
+      "PatternType": "Structuring",
+      "FraudScore": 93,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.273698Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "0f543705-bdf7-47c8-bc1a-782d458c4ad8",
+      "AlertNumber": "FD-6023",
+      "EntityName": "Mopani Mines",
+      "PatternType": "Structuring",
+      "FraudScore": 73,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.273712Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "a2e3fa25-9617-4cee-827c-78518f4499d6",
+      "AlertNumber": "FD-5483",
+      "EntityName": "Kafue Logistics",
+      "PatternType": "Structuring",
+      "FraudScore": 68,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.273728Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "e6f43632-bf2a-49eb-bf1b-235b20375191",
+      "AlertNumber": "FD-4802",
+      "EntityName": "Zamtel",
+      "PatternType": "Structuring",
+      "FraudScore": 75,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.273743Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "d7ad63c4-a92a-4cc6-9b55-b95363f6389b",
+      "AlertNumber": "FD-6835",
+      "EntityName": "Mukwa Engineering",
+      "PatternType": "Structuring",
+      "FraudScore": 83,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.273756Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    }
+  ],
+  "ActiveModel": {
+    "Name": "Neural Fraud Guard",
+    "Version": "2.1",
+    "Accuracy": 94.5,
+    "PrecisionScore": 92.1,
+    "RecallScore": 89.4,
+    "TrainingDate": "2026-04-25T11:14:39.274214Z"
+  }
+}

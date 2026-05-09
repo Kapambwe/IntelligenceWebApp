@@ -1,0 +1,3850 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "023ff1e0-100b-1fbf-0b33-009b9aa0aa6d",
+      "Name": "Taxpayers - Solwezi",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 40,
+      "CreatedAt": "2024-05-31T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "05390aaa-068d-1c7b-0c2e-001edf959dee",
+      "Name": "Taxpayers - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 71,
+      "CreatedAt": "2024-05-21T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "016fbf95-1652-1c02-1de0-0076c8fcf844",
+      "Name": "Debtors - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 49,
+      "CreatedAt": "2025-08-23T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "03cf1e9c-13a3-23f5-22f8-00212dd13c33",
+      "Name": "Taxpayers - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 46,
+      "CreatedAt": "2024-05-21T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "013e875a-1f88-1ed9-0683-006c481d0bac",
+      "Name": "Debtors - Solwezi",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 29,
+      "CreatedAt": "2025-06-18T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "035a2884-2596-1d45-1c84-006708e7e79d",
+      "Name": "Corporate entities - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 37,
+      "CreatedAt": "2024-08-28T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "04fa3bd8-172a-05b3-0c92-002735045942",
+      "Name": "Individual filers - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 46,
+      "CreatedAt": "2025-02-01T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "010dd0c3-1b8d-09b3-0c70-002425f6f228",
+      "Name": "Corporate entities - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 78,
+      "CreatedAt": "2025-07-05T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "04a634e9-05ce-1378-0be3-0095c224c5cb",
+      "Name": "Taxpayers - Solwezi",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 63,
+      "CreatedAt": "2025-01-03T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "02d81659-2448-174d-17e5-00d6be69e9bd",
+      "Name": "Taxpayers - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 65,
+      "CreatedAt": "2023-11-25T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "038a7ead-25e7-16c8-0410-006996130d74",
+      "Name": "Taxpayers - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 54,
+      "CreatedAt": "2025-06-26T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "02cc5e1b-1ffe-0634-2085-00e299ed2a6e",
+      "Name": "Taxpayers - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 60,
+      "CreatedAt": "2025-02-03T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "04027213-2086-1610-1f63-005a786622e5",
+      "Name": "Individual filers - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 22,
+      "CreatedAt": "2024-12-25T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "0329815d-1701-1ae5-0c8a-00b2646ba7a1",
+      "Name": "Individual filers - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 74,
+      "CreatedAt": "2023-12-19T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "020bfd74-2634-061e-257d-00bca8533542",
+      "Name": "Debtors - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 41,
+      "CreatedAt": "2024-10-24T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "00b2cdba-0b04-1d1b-2090-009f1d47f9a2",
+      "Name": "Individual filers - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 33,
+      "CreatedAt": "2025-09-19T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z"
+    },
+    {
+      "Id": "02e68239-11fa-0847-2118-00210577063d",
+      "Name": "Debtors - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 66,
+      "CreatedAt": "2024-10-01T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "041150e3-1ba2-0ace-0ae4-006aa7bb9cfb",
+      "Name": "Individual filers - Solwezi",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 41,
+      "CreatedAt": "2024-07-31T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z"
+    },
+    {
+      "Id": "019af20d-26e8-0aec-0715-00d4cc315640",
+      "Name": "Individual filers - Solwezi",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 86,
+      "CreatedAt": "2024-05-30T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "02fcd9ed-1f3e-0e80-1c56-0089cda2dbde",
+      "Name": "Debtors - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 22,
+      "CreatedAt": "2024-06-09T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "04a89fe4-0ebf-080e-173f-0081b77ebc26",
+      "Name": "Taxpayers - Solwezi",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 73,
+      "CreatedAt": "2024-04-29T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "051aa650-20ae-0bd3-19e7-007a0f135a51",
+      "Name": "Individual filers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 82,
+      "CreatedAt": "2025-07-20T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "036ff9df-14bb-0836-08df-006c683489cd",
+      "Name": "Taxpayers - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 58,
+      "CreatedAt": "2024-05-30T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "04fd75c0-07c5-0625-1713-00c2ecbeb2d5",
+      "Name": "Taxpayers - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 70,
+      "CreatedAt": "2025-08-26T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "0462fd34-17ee-1f43-1749-00bea9ccde56",
+      "Name": "Individual filers - Solwezi",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 44,
+      "CreatedAt": "2025-01-30T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "03b36dd4-26d2-052e-0ddf-00610b9596d0",
+      "Name": "Corporate entities - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 93,
+      "CreatedAt": "2024-11-03T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z"
+    },
+    {
+      "Id": "047e9a25-1f46-17e1-0987-00730dcd4f47",
+      "Name": "Debtors - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 39,
+      "CreatedAt": "2024-05-18T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "01ff0bb9-0c5d-2363-2128-00c920a3e98b",
+      "Name": "Individual filers - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49,
+      "CreatedAt": "2024-04-27T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z"
+    },
+    {
+      "Id": "028863f7-24cc-1ac1-1d3b-00aaa874d3ff",
+      "Name": "Individual filers - Solwezi",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 36,
+      "CreatedAt": "2025-03-06T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z"
+    },
+    {
+      "Id": "014e22e9-1db8-2177-0c70-0097279ccb54",
+      "Name": "Individual filers - Solwezi",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 72,
+      "CreatedAt": "2025-08-26T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z"
+    },
+    {
+      "Id": "0313acbe-2551-0659-12d0-0068b8fc64d8",
+      "Name": "Corporate entities - Solwezi",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 53,
+      "CreatedAt": "2024-05-12T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "0452c70f-0a80-1bd5-0f59-0035324102e2",
+      "Name": "Individual filers - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 49,
+      "CreatedAt": "2024-09-13T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "03c55d45-2708-1f5c-0f06-0096f3489e6c",
+      "Name": "Individual filers - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 30,
+      "CreatedAt": "2025-09-07T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "027b4c36-04d4-2490-0b86-001916cb057a",
+      "Name": "Taxpayers - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 77,
+      "CreatedAt": "2025-01-17T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z"
+    },
+    {
+      "Id": "022a9bcd-1904-13a5-23d4-00dd2a059aae",
+      "Name": "Corporate entities - Solwezi",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 31,
+      "CreatedAt": "2024-08-04T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "02428312-0729-22f9-2405-0051889ad47c",
+      "Name": "Individual filers - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 88,
+      "CreatedAt": "2025-08-26T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "05b497f7-1897-0c40-1d5b-00a3c0b4a434",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 68,
+      "CreatedAt": "2024-09-25T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z"
+    },
+    {
+      "Id": "02a99976-1a48-1725-0425-00cdda444704",
+      "Name": "Debtors - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 43,
+      "CreatedAt": "2024-06-22T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "02dff97f-1000-201c-26b1-0024ddd04cce",
+      "Name": "Corporate entities - Solwezi",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 88,
+      "CreatedAt": "2024-11-22T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "05d62665-1935-127b-2074-00b7b81f84d9",
+      "Name": "Debtors - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 47,
+      "CreatedAt": "2024-10-04T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z"
+    },
+    {
+      "Id": "026f6ca5-2332-164e-11b0-00bd6415112b",
+      "Name": "Corporate entities - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 29,
+      "CreatedAt": "2025-09-06T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "037f00ef-05ab-08c9-213b-00b019202b7f",
+      "Name": "Taxpayers - Solwezi",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 44,
+      "CreatedAt": "2024-05-20T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "02da71ff-2074-17ba-0b12-0041461e6d07",
+      "Name": "Individual filers - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 49,
+      "CreatedAt": "2024-05-13T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "05ce98d0-22ad-110f-0584-0032ed77cda5",
+      "Name": "Taxpayers - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 86,
+      "CreatedAt": "2025-10-05T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z"
+    },
+    {
+      "Id": "0471a0a7-1e0f-0acd-0e95-0081e229dbbc",
+      "Name": "Taxpayers - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 33,
+      "CreatedAt": "2025-10-06T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "022a1efd-12d9-1fe8-05b1-0060fefbb9c9",
+      "Name": "Individual filers - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 25,
+      "CreatedAt": "2025-08-20T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z"
+    },
+    {
+      "Id": "02a379d2-049a-0771-104d-0092a75166eb",
+      "Name": "Taxpayers - Solwezi",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 78,
+      "CreatedAt": "2024-09-17T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z"
+    },
+    {
+      "Id": "039ce489-1e93-04f8-1291-00be8eb2900b",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 33,
+      "CreatedAt": "2025-04-19T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z"
+    },
+    {
+      "Id": "043a95de-2621-113d-20a4-00e161b3d2fd",
+      "Name": "Taxpayers - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 49,
+      "CreatedAt": "2023-11-19T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z"
+    },
+    {
+      "Id": "02dcf58b-09ef-194a-1109-006118741057",
+      "Name": "Corporate entities - Solwezi",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 82,
+      "CreatedAt": "2025-09-27T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "7e4e5aa4-05e7-46d5-8141-a5a20c00bb99",
+      "Name": "Chileshe Kapwepwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 51.0,
+      "CreatedAt": "2026-04-23T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "2fde9944-e2bb-49ef-9b50-198c0e62e657",
+      "Name": "Kafue Logistics",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 71.0,
+      "CreatedAt": "2025-11-28T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "0240b35f-69dc-4687-9ec2-b3971f374972",
+      "Name": "Kennedy Kalaba",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 76.0,
+      "CreatedAt": "2025-02-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "aa943fd7-527c-44c5-aefd-0cee15c351bf",
+      "Name": "Gift Lungu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 80.0,
+      "CreatedAt": "2025-01-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "f4832940-51e5-4f0f-bedd-bc240592feaf",
+      "Name": "Zamtel",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 93.0,
+      "CreatedAt": "2025-12-06T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "9723a604-9059-4e0a-8693-7ef7117299b9",
+      "Name": "Mary Mwamba",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 74.0,
+      "CreatedAt": "2026-04-14T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "5352fb8e-b4ac-4c0f-aa76-4712b408407f",
+      "Name": "Kennedy Kunda",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 97.0,
+      "CreatedAt": "2025-03-30T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "4b68b51a-d6d0-41e6-bc5a-c98f4e4a05f8",
+      "Name": "Apex Road Contractors",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90.0,
+      "CreatedAt": "2025-09-13T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "de6dc7ac-250a-4afa-ba05-8b37acaaf345",
+      "Name": "Zambia Sugar",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 23.0,
+      "CreatedAt": "2025-06-29T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "5f6dffb4-e190-427a-95bd-369b6cd7db44",
+      "Name": "Mutale Chanda",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 52.0,
+      "CreatedAt": "2025-05-13T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "3d9752e4-4e3c-4466-9b55-8c5972a5b6f3",
+      "Name": "Mutale Sinkala",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 76.0,
+      "CreatedAt": "2025-03-22T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "35b78247-30fc-46cd-a04e-ea79b813a527",
+      "Name": "Zesco",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 23.0,
+      "CreatedAt": "2025-05-30T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "e08e432e-be92-4227-b5f8-cd80a73723ed",
+      "Name": "Victoria Falls Power",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 87.0,
+      "CreatedAt": "2026-05-02T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "8941e9e7-bc34-4c56-93d8-e3b596eedaaa",
+      "Name": "Natwange Traders",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 91.0,
+      "CreatedAt": "2025-05-12T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "3feb14d5-af90-4a42-90e0-8069a735073a",
+      "Name": "Zamtel",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 41.0,
+      "CreatedAt": "2025-05-15T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "023ff1e0-100b-1fbf-0b33-009b9aa0aa6d",
+      "Name": "Taxpayers - Solwezi",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 40,
+      "CreatedAt": "2024-05-31T17:30:31Z",
+      "UpdatedAt": "2026-01-09T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2022-2334",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "debt recovery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Debt recovery",
+          "Severity": "Medium",
+          "Score": 25
+        },
+        {
+          "Name": "Debt recovery",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05390aaa-068d-1c7b-0c2e-001edf959dee",
+      "Name": "Taxpayers - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 71,
+      "CreatedAt": "2024-05-21T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2026-2375",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "debt recovery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Debt recovery",
+          "Severity": "Low",
+          "Score": 30
+        },
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "016fbf95-1652-1c02-1de0-0076c8fcf844",
+      "Name": "Debtors - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 49,
+      "CreatedAt": "2025-08-23T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2022-8093",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Debt recovery",
+          "Severity": "High",
+          "Score": 36
+        },
+        {
+          "Name": "Payment processing",
+          "Severity": "Medium",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03cf1e9c-13a3-23f5-22f8-00212dd13c33",
+      "Name": "Taxpayers - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 46,
+      "CreatedAt": "2024-05-21T17:30:31Z",
+      "UpdatedAt": "2025-12-28T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2026-8926",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "debt recovery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax collection",
+          "Severity": "High",
+          "Score": 45
+        },
+        {
+          "Name": "Payment processing",
+          "Severity": "High",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "013e875a-1f88-1ed9-0683-006c481d0bac",
+      "Name": "Debtors - Solwezi",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 29,
+      "CreatedAt": "2025-06-18T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2024-4109",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "arrears management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Arrears management",
+          "Severity": "Medium",
+          "Score": 23
+        },
+        {
+          "Name": "Debt recovery",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "035a2884-2596-1d45-1c84-006708e7e79d",
+      "Name": "Corporate entities - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 37,
+      "CreatedAt": "2024-08-28T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2022-6314",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "arrears management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Payment processing",
+          "Severity": "Critical",
+          "Score": 20
+        },
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04fa3bd8-172a-05b3-0c92-002735045942",
+      "Name": "Individual filers - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 46,
+      "CreatedAt": "2025-02-01T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2023-8828",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax collection",
+          "Severity": "Low",
+          "Score": 27
+        },
+        {
+          "Name": "Tax collection",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "010dd0c3-1b8d-09b3-0c70-002425f6f228",
+      "Name": "Corporate entities - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 78,
+      "CreatedAt": "2025-07-05T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2022-4068",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "debt recovery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax collection",
+          "Severity": "High",
+          "Score": 35
+        },
+        {
+          "Name": "Debt recovery",
+          "Severity": "Medium",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04a634e9-05ce-1378-0be3-0095c224c5cb",
+      "Name": "Taxpayers - Solwezi",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 63,
+      "CreatedAt": "2025-01-03T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2020-1201",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "arrears management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Debt recovery",
+          "Severity": "Medium",
+          "Score": 30
+        },
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02d81659-2448-174d-17e5-00d6be69e9bd",
+      "Name": "Taxpayers - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 65,
+      "CreatedAt": "2023-11-25T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2024-4826",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Debt recovery",
+          "Severity": "Critical",
+          "Score": 15
+        },
+        {
+          "Name": "Payment processing",
+          "Severity": "High",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "038a7ead-25e7-16c8-0410-006996130d74",
+      "Name": "Taxpayers - Kitwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 54,
+      "CreatedAt": "2025-06-26T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2025-2397",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Debt recovery",
+          "Severity": "High",
+          "Score": 35
+        },
+        {
+          "Name": "Payment processing",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02cc5e1b-1ffe-0634-2085-00e299ed2a6e",
+      "Name": "Taxpayers - Ndola",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 60,
+      "CreatedAt": "2025-02-03T17:30:31Z",
+      "UpdatedAt": "2026-01-07T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2024-3736",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax collection",
+          "Severity": "Medium",
+          "Score": 22
+        },
+        {
+          "Name": "Arrears management",
+          "Severity": "Critical",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04027213-2086-1610-1f63-005a786622e5",
+      "Name": "Individual filers - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 22,
+      "CreatedAt": "2024-12-25T17:30:31Z",
+      "UpdatedAt": "2026-01-19T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2021-2557",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax collection",
+          "Severity": "Low",
+          "Score": 33
+        },
+        {
+          "Name": "Tax collection",
+          "Severity": "Medium",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0329815d-1701-1ae5-0c8a-00b2646ba7a1",
+      "Name": "Individual filers - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 74,
+      "CreatedAt": "2023-12-19T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2020-8416",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax collection",
+          "Severity": "Low",
+          "Score": 38
+        },
+        {
+          "Name": "Tax collection",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "020bfd74-2634-061e-257d-00bca8533542",
+      "Name": "Debtors - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 41,
+      "CreatedAt": "2024-10-24T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2021-7148",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "payment processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax collection",
+          "Severity": "Low",
+          "Score": 12
+        },
+        {
+          "Name": "Tax collection",
+          "Severity": "High",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "00b2cdba-0b04-1d1b-2090-009f1d47f9a2",
+      "Name": "Individual filers - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 33,
+      "CreatedAt": "2025-09-19T17:30:31Z",
+      "UpdatedAt": "2026-01-01T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2026-3683",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "arrears management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Arrears management",
+          "Severity": "Medium",
+          "Score": 33
+        },
+        {
+          "Name": "Payment processing",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02e68239-11fa-0847-2118-00210577063d",
+      "Name": "Debtors - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 66,
+      "CreatedAt": "2024-10-01T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2026-8361",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Arrears management",
+          "Severity": "High",
+          "Score": 29
+        },
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "041150e3-1ba2-0ace-0ae4-006aa7bb9cfb",
+      "Name": "Individual filers - Solwezi",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 41,
+      "CreatedAt": "2024-07-31T17:30:31Z",
+      "UpdatedAt": "2026-01-03T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2026-6084",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Arrears management",
+          "Severity": "Low",
+          "Score": 25
+        },
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "019af20d-26e8-0aec-0715-00d4cc315640",
+      "Name": "Individual filers - Solwezi",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 86,
+      "CreatedAt": "2024-05-30T17:30:31Z",
+      "UpdatedAt": "2025-12-22T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2024-4323",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "arrears management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Payment processing",
+          "Severity": "Critical",
+          "Score": 40
+        },
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Critical",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02fcd9ed-1f3e-0e80-1c56-0089cda2dbde",
+      "Name": "Debtors - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 22,
+      "CreatedAt": "2024-06-09T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2022-9096",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "debt recovery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Debt recovery",
+          "Severity": "High",
+          "Score": 43
+        },
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04a89fe4-0ebf-080e-173f-0081b77ebc26",
+      "Name": "Taxpayers - Solwezi",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 73,
+      "CreatedAt": "2024-04-29T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2022-9711",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Low",
+          "Score": 19
+        },
+        {
+          "Name": "Tax collection",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "051aa650-20ae-0bd3-19e7-007a0f135a51",
+      "Name": "Individual filers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 82,
+      "CreatedAt": "2025-07-20T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2025-8402",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax collection",
+          "Severity": "Medium",
+          "Score": 30
+        },
+        {
+          "Name": "Arrears management",
+          "Severity": "Medium",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "036ff9df-14bb-0836-08df-006c683489cd",
+      "Name": "Taxpayers - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 58,
+      "CreatedAt": "2024-05-30T17:30:31Z",
+      "UpdatedAt": "2025-12-23T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2024-4934",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "debt recovery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Payment processing",
+          "Severity": "High",
+          "Score": 44
+        },
+        {
+          "Name": "Debt recovery",
+          "Severity": "Critical",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04fd75c0-07c5-0625-1713-00c2ecbeb2d5",
+      "Name": "Taxpayers - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 70,
+      "CreatedAt": "2025-08-26T17:30:31Z",
+      "UpdatedAt": "2025-12-25T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2023-9068",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Medium",
+          "Score": 44
+        },
+        {
+          "Name": "Arrears management",
+          "Severity": "High",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0462fd34-17ee-1f43-1749-00bea9ccde56",
+      "Name": "Individual filers - Solwezi",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 44,
+      "CreatedAt": "2025-01-30T17:30:31Z",
+      "UpdatedAt": "2026-01-12T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2020-8926",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "High",
+          "Score": 35
+        },
+        {
+          "Name": "Tax collection",
+          "Severity": "Critical",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03b36dd4-26d2-052e-0ddf-00610b9596d0",
+      "Name": "Corporate entities - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 93,
+      "CreatedAt": "2024-11-03T17:30:31Z",
+      "UpdatedAt": "2026-01-08T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2024-6168",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "arrears management",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax collection",
+          "Severity": "Medium",
+          "Score": 22
+        },
+        {
+          "Name": "Debt recovery",
+          "Severity": "High",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "047e9a25-1f46-17e1-0987-00730dcd4f47",
+      "Name": "Debtors - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 39,
+      "CreatedAt": "2024-05-18T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2023-9038",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "debt recovery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Debt recovery",
+          "Severity": "Low",
+          "Score": 39
+        },
+        {
+          "Name": "Debt recovery",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01ff0bb9-0c5d-2363-2128-00c920a3e98b",
+      "Name": "Individual filers - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49,
+      "CreatedAt": "2024-04-27T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2026-3991",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "payment processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax collection",
+          "Severity": "Medium",
+          "Score": 36
+        },
+        {
+          "Name": "Arrears management",
+          "Severity": "High",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "028863f7-24cc-1ac1-1d3b-00aaa874d3ff",
+      "Name": "Individual filers - Solwezi",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 36,
+      "CreatedAt": "2025-03-06T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2023-8101",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "payment processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Debt recovery",
+          "Severity": "Medium",
+          "Score": 41
+        },
+        {
+          "Name": "Payment processing",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "014e22e9-1db8-2177-0c70-0097279ccb54",
+      "Name": "Individual filers - Solwezi",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 72,
+      "CreatedAt": "2025-08-26T17:30:31Z",
+      "UpdatedAt": "2026-01-18T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2025-8902",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "debt recovery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Arrears management",
+          "Severity": "Medium",
+          "Score": 19
+        },
+        {
+          "Name": "Arrears management",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0313acbe-2551-0659-12d0-0068b8fc64d8",
+      "Name": "Corporate entities - Solwezi",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 53,
+      "CreatedAt": "2024-05-12T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2026-4696",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax collection",
+          "Severity": "Low",
+          "Score": 19
+        },
+        {
+          "Name": "Payment processing",
+          "Severity": "Critical",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0452c70f-0a80-1bd5-0f59-0035324102e2",
+      "Name": "Individual filers - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 49,
+      "CreatedAt": "2024-09-13T17:30:31Z",
+      "UpdatedAt": "2026-01-17T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2025-5328",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "payment processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Solwezi",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Debt recovery",
+          "Severity": "Medium",
+          "Score": 26
+        },
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03c55d45-2708-1f5c-0f06-0096f3489e6c",
+      "Name": "Individual filers - Ndola",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 30,
+      "CreatedAt": "2025-09-07T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2024-3608",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Critical",
+          "Score": 11
+        },
+        {
+          "Name": "Arrears management",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "027b4c36-04d4-2490-0b86-001916cb057a",
+      "Name": "Taxpayers - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 77,
+      "CreatedAt": "2025-01-17T17:30:31Z",
+      "UpdatedAt": "2026-01-16T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2023-1471",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "debt recovery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Medium",
+          "Score": 29
+        },
+        {
+          "Name": "Arrears management",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "022a9bcd-1904-13a5-23d4-00dd2a059aae",
+      "Name": "Corporate entities - Solwezi",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 31,
+      "CreatedAt": "2024-08-04T17:30:31Z",
+      "UpdatedAt": "2026-01-13T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2021-5411",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Arrears management",
+          "Severity": "Low",
+          "Score": 40
+        },
+        {
+          "Name": "Tax collection",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02428312-0729-22f9-2405-0051889ad47c",
+      "Name": "Individual filers - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 88,
+      "CreatedAt": "2025-08-26T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2026-1116",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Payment processing",
+          "Severity": "Medium",
+          "Score": 14
+        },
+        {
+          "Name": "Payment processing",
+          "Severity": "Critical",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05b497f7-1897-0c40-1d5b-00a3c0b4a434",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 68,
+      "CreatedAt": "2024-09-25T17:30:31Z",
+      "UpdatedAt": "2026-01-06T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2020-5033",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "High",
+          "Score": 17
+        },
+        {
+          "Name": "Tax collection",
+          "Severity": "High",
+          "Score": 32
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02a99976-1a48-1725-0425-00cdda444704",
+      "Name": "Debtors - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 43,
+      "CreatedAt": "2024-06-22T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2025-8509",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax collection",
+          "Severity": "High",
+          "Score": 41
+        },
+        {
+          "Name": "Payment processing",
+          "Severity": "Critical",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02dff97f-1000-201c-26b1-0024ddd04cce",
+      "Name": "Corporate entities - Solwezi",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 88,
+      "CreatedAt": "2024-11-22T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2021-8285",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "debt recovery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Payment processing",
+          "Severity": "Low",
+          "Score": 18
+        },
+        {
+          "Name": "Arrears management",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d62665-1935-127b-2074-00b7b81f84d9",
+      "Name": "Debtors - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 47,
+      "CreatedAt": "2024-10-04T17:30:31Z",
+      "UpdatedAt": "2025-12-31T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2020-8727",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "payment processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Payment processing",
+          "Severity": "Low",
+          "Score": 29
+        },
+        {
+          "Name": "Debt recovery",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "026f6ca5-2332-164e-11b0-00bd6415112b",
+      "Name": "Corporate entities - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 29,
+      "CreatedAt": "2025-09-06T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2024-2382",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "debt recovery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Arrears management",
+          "Severity": "Low",
+          "Score": 41
+        },
+        {
+          "Name": "Payment processing",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "037f00ef-05ab-08c9-213b-00b019202b7f",
+      "Name": "Taxpayers - Solwezi",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 44,
+      "CreatedAt": "2024-05-20T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2026-7087",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Low",
+          "Score": 18
+        },
+        {
+          "Name": "Payment processing",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02da71ff-2074-17ba-0b12-0041461e6d07",
+      "Name": "Individual filers - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 49,
+      "CreatedAt": "2024-05-13T17:30:31Z",
+      "UpdatedAt": "2026-01-10T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2025-4972",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "debt recovery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Debt recovery",
+          "Severity": "Medium",
+          "Score": 42
+        },
+        {
+          "Name": "Debt recovery",
+          "Severity": "Critical",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ce98d0-22ad-110f-0584-0032ed77cda5",
+      "Name": "Taxpayers - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 86,
+      "CreatedAt": "2025-10-05T17:30:31Z",
+      "UpdatedAt": "2025-12-24T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2020-1815",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Arrears management",
+          "Severity": "High",
+          "Score": 37
+        },
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0471a0a7-1e0f-0acd-0e95-0081e229dbbc",
+      "Name": "Taxpayers - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 33,
+      "CreatedAt": "2025-10-06T17:30:31Z",
+      "UpdatedAt": "2025-12-21T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2026-5111",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Debt recovery",
+          "Severity": "Medium",
+          "Score": 32
+        },
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Medium",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "022a1efd-12d9-1fe8-05b1-0060fefbb9c9",
+      "Name": "Individual filers - Lusaka",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 25,
+      "CreatedAt": "2025-08-20T17:30:31Z",
+      "UpdatedAt": "2025-12-30T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2020-4477",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "payment processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Arrears management",
+          "Severity": "Critical",
+          "Score": 18
+        },
+        {
+          "Name": "Debt recovery",
+          "Severity": "High",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02a379d2-049a-0771-104d-0092a75166eb",
+      "Name": "Taxpayers - Solwezi",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 78,
+      "CreatedAt": "2024-09-17T17:30:31Z",
+      "UpdatedAt": "2026-01-15T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2021-2017",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "compliance enforcement",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Tax collection",
+          "Severity": "Medium",
+          "Score": 39
+        },
+        {
+          "Name": "Debt recovery",
+          "Severity": "Medium",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "039ce489-1e93-04f8-1291-00be8eb2900b",
+      "Name": "Taxpayers - Lusaka",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 33,
+      "CreatedAt": "2025-04-19T17:30:31Z",
+      "UpdatedAt": "2025-12-20T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2021-1858",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "payment processing",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Payment processing",
+          "Severity": "Low",
+          "Score": 34
+        },
+        {
+          "Name": "Payment processing",
+          "Severity": "Critical",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "043a95de-2621-113d-20a4-00e161b3d2fd",
+      "Name": "Taxpayers - Kitwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 49,
+      "CreatedAt": "2023-11-19T17:30:31Z",
+      "UpdatedAt": "2026-01-05T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2020-5236",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "debt recovery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "Medium",
+          "Score": 35
+        },
+        {
+          "Name": "Payment processing",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02dcf58b-09ef-194a-1109-006118741057",
+      "Name": "Corporate entities - Solwezi",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 82,
+      "CreatedAt": "2025-09-27T17:30:31Z",
+      "UpdatedAt": "2026-01-11T17:30:31Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "REV-2025-7391",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "tax collection",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Revenue Collection",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Debt recovery",
+          "Severity": "Critical",
+          "Score": 40
+        },
+        {
+          "Name": "Compliance enforcement",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:31Z"
+        }
+      ]
+    }
+  ],
+  "Relationships": [
+    {
+      "Id": "9c1e2f09-533b-4a90-ba67-cb1be261bed1",
+      "SourceEntityId": "028863f7-24cc-1ac1-1d3b-00aaa874d3ff",
+      "TargetEntityId": "02dcf58b-09ef-194a-1109-006118741057",
+      "Type": "Ownership",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "f12dbc22-c977-4151-8663-cf19fa9179f5",
+      "SourceEntityId": "028863f7-24cc-1ac1-1d3b-00aaa874d3ff",
+      "TargetEntityId": "02e68239-11fa-0847-2118-00210577063d",
+      "Type": "Family",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "0e34dbd5-65d8-44fa-9f63-a87d53095782",
+      "SourceEntityId": "5f6dffb4-e190-427a-95bd-369b6cd7db44",
+      "TargetEntityId": "051aa650-20ae-0bd3-19e7-007a0f135a51",
+      "Type": "Employment",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "8c2cde57-329c-4af5-90a0-547685a373c7",
+      "SourceEntityId": "04a89fe4-0ebf-080e-173f-0081b77ebc26",
+      "TargetEntityId": "aa943fd7-527c-44c5-aefd-0cee15c351bf",
+      "Type": "Family",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "eb093456-1f4c-4d90-8d0e-b9ca3f9e306f",
+      "SourceEntityId": "047e9a25-1f46-17e1-0987-00730dcd4f47",
+      "TargetEntityId": "02fcd9ed-1f3e-0e80-1c56-0089cda2dbde",
+      "Type": "Financial",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "ed606479-7335-470f-9e72-34fbc9cb53bb",
+      "SourceEntityId": "038a7ead-25e7-16c8-0410-006996130d74",
+      "TargetEntityId": "05b497f7-1897-0c40-1d5b-00a3c0b4a434",
+      "Type": "Ownership",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "21123267-5140-470a-bb26-e971c869b138",
+      "SourceEntityId": "3d9752e4-4e3c-4466-9b55-8c5972a5b6f3",
+      "TargetEntityId": "02d81659-2448-174d-17e5-00d6be69e9bd",
+      "Type": "Family",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "2e4e1760-88e6-47e2-9546-72669b398780",
+      "SourceEntityId": "041150e3-1ba2-0ace-0ae4-006aa7bb9cfb",
+      "TargetEntityId": "5352fb8e-b4ac-4c0f-aa76-4712b408407f",
+      "Type": "Ownership",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "41d02b5d-231d-4a48-8687-3aa7664dc48c",
+      "SourceEntityId": "04027213-2086-1610-1f63-005a786622e5",
+      "TargetEntityId": "014e22e9-1db8-2177-0c70-0097279ccb54",
+      "Type": "Family",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "f2317da4-4bb3-476a-87c0-802fd8b7c76b",
+      "SourceEntityId": "020bfd74-2634-061e-257d-00bca8533542",
+      "TargetEntityId": "03c55d45-2708-1f5c-0f06-0096f3489e6c",
+      "Type": "Ownership",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "b9556b74-2ac0-4c6b-9ff6-7eaa0512a2be",
+      "SourceEntityId": "05b497f7-1897-0c40-1d5b-00a3c0b4a434",
+      "TargetEntityId": "3feb14d5-af90-4a42-90e0-8069a735073a",
+      "Type": "Associate",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "cdcfa342-b850-475f-837b-89b6fc9e333c",
+      "SourceEntityId": "5f6dffb4-e190-427a-95bd-369b6cd7db44",
+      "TargetEntityId": "05ce98d0-22ad-110f-0584-0032ed77cda5",
+      "Type": "Financial",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "1de856f9-2330-4742-b7dd-59384b1ab0be",
+      "SourceEntityId": "01ff0bb9-0c5d-2363-2128-00c920a3e98b",
+      "TargetEntityId": "03c55d45-2708-1f5c-0f06-0096f3489e6c",
+      "Type": "Ownership",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "3abd6cf8-4de9-4f56-b648-cc0da2f8256b",
+      "SourceEntityId": "02428312-0729-22f9-2405-0051889ad47c",
+      "TargetEntityId": "027b4c36-04d4-2490-0b86-001916cb057a",
+      "Type": "Associate",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "5ecee3b7-fa3c-43a1-a0cd-ebb2d840283b",
+      "SourceEntityId": "026f6ca5-2332-164e-11b0-00bd6415112b",
+      "TargetEntityId": "04a634e9-05ce-1378-0be3-0095c224c5cb",
+      "Type": "Associate",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "49529b71-6dcc-43b2-8d7b-a1bfd3e8e176",
+      "SourceEntityId": "aa943fd7-527c-44c5-aefd-0cee15c351bf",
+      "TargetEntityId": "03cf1e9c-13a3-23f5-22f8-00212dd13c33",
+      "Type": "Ownership",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "733c66b9-2631-411b-a3ce-8da27954291a",
+      "SourceEntityId": "01ff0bb9-0c5d-2363-2128-00c920a3e98b",
+      "TargetEntityId": "aa943fd7-527c-44c5-aefd-0cee15c351bf",
+      "Type": "Ownership",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "c7df7130-bf06-43e8-a965-1c6fb2c34cd4",
+      "SourceEntityId": "041150e3-1ba2-0ace-0ae4-006aa7bb9cfb",
+      "TargetEntityId": "02dcf58b-09ef-194a-1109-006118741057",
+      "Type": "Ownership",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "90bda5f4-6d96-4bb1-894e-43c649223b02",
+      "SourceEntityId": "05d62665-1935-127b-2074-00b7b81f84d9",
+      "TargetEntityId": "02428312-0729-22f9-2405-0051889ad47c",
+      "Type": "Financial",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "947932b9-7b80-4f13-b646-46d88638799a",
+      "SourceEntityId": "039ce489-1e93-04f8-1291-00be8eb2900b",
+      "TargetEntityId": "4b68b51a-d6d0-41e6-bc5a-c98f4e4a05f8",
+      "Type": "Employment",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "515a2972-a13d-47d9-87ca-fea277b7f99c",
+      "SourceEntityId": "028863f7-24cc-1ac1-1d3b-00aaa874d3ff",
+      "TargetEntityId": "035a2884-2596-1d45-1c84-006708e7e79d",
+      "Type": "Family",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "6978a48b-c512-44f1-907d-254eec5a791d",
+      "SourceEntityId": "019af20d-26e8-0aec-0715-00d4cc315640",
+      "TargetEntityId": "038a7ead-25e7-16c8-0410-006996130d74",
+      "Type": "Financial",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "c7bb0aa2-5a4b-4f45-ae89-fc9821b73dbf",
+      "SourceEntityId": "00b2cdba-0b04-1d1b-2090-009f1d47f9a2",
+      "TargetEntityId": "022a9bcd-1904-13a5-23d4-00dd2a059aae",
+      "Type": "Employment",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "f3474a23-34c5-4e3f-aba9-939d99fa66b5",
+      "SourceEntityId": "02da71ff-2074-17ba-0b12-0041461e6d07",
+      "TargetEntityId": "035a2884-2596-1d45-1c84-006708e7e79d",
+      "Type": "Family",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "82cc1c5f-190b-4e34-a56c-c410e6373c87",
+      "SourceEntityId": "0471a0a7-1e0f-0acd-0e95-0081e229dbbc",
+      "TargetEntityId": "3d9752e4-4e3c-4466-9b55-8c5972a5b6f3",
+      "Type": "Employment",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "7e904be3-768a-4024-b5e8-334d7090cb68",
+      "SourceEntityId": "7e4e5aa4-05e7-46d5-8141-a5a20c00bb99",
+      "TargetEntityId": "02dcf58b-09ef-194a-1109-006118741057",
+      "Type": "Associate",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "c9aa876b-5494-42e1-9d46-916686ebe3be",
+      "SourceEntityId": "05b497f7-1897-0c40-1d5b-00a3c0b4a434",
+      "TargetEntityId": "05390aaa-068d-1c7b-0c2e-001edf959dee",
+      "Type": "Associate",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "8eaacd18-d27f-4b27-a89f-8691399cd4b7",
+      "SourceEntityId": "0452c70f-0a80-1bd5-0f59-0035324102e2",
+      "TargetEntityId": "03b36dd4-26d2-052e-0ddf-00610b9596d0",
+      "Type": "Employment",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "5ac9f6ce-0862-4730-a867-1163d03b49b7",
+      "SourceEntityId": "aa943fd7-527c-44c5-aefd-0cee15c351bf",
+      "TargetEntityId": "03c55d45-2708-1f5c-0f06-0096f3489e6c",
+      "Type": "Financial",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "1b39197f-cb21-4622-8356-543e98506988",
+      "SourceEntityId": "04fa3bd8-172a-05b3-0c92-002735045942",
+      "TargetEntityId": "f4832940-51e5-4f0f-bedd-bc240592feaf",
+      "Type": "Financial",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "40bd7835-4d87-4f23-8a50-63c3b19e29aa",
+      "SourceEntityId": "019af20d-26e8-0aec-0715-00d4cc315640",
+      "TargetEntityId": "00b2cdba-0b04-1d1b-2090-009f1d47f9a2",
+      "Type": "Family",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "57815a4e-c669-403a-baa8-fc92d3bb191d",
+      "SourceEntityId": "00b2cdba-0b04-1d1b-2090-009f1d47f9a2",
+      "TargetEntityId": "05b497f7-1897-0c40-1d5b-00a3c0b4a434",
+      "Type": "Employment",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    }
+  ]
+}

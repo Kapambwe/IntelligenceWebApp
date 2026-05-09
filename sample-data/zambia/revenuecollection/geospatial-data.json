@@ -1,0 +1,109 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Markers": [
+    {
+      "Id": "87181704-e018-4022-bc06-2032524f47a1",
+      "Name": "Smuggling Incident",
+      "Description": "Unauthorized entry of high-value electronics.",
+      "Latitude": -9.294795575879894,
+      "Longitude": 32.78941480983954,
+      "Location": "Nakonde, Zambia",
+      "MarkerType": "incident",
+      "MarkerColor": "#ef4444",
+      "RiskLevel": 85,
+      "EntityType": "Investigation",
+      "EventDate": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "36f0b42b-e524-4a46-8f7a-539a1687a805",
+      "Name": "Tax Evasion Hub",
+      "Description": "Area with high density of unregistered traders.",
+      "Latitude": -15.423814691987578,
+      "Longitude": 28.26473838686608,
+      "Location": "Lusaka, Zambia",
+      "MarkerType": "hotspot",
+      "MarkerColor": "#f59e0b",
+      "RiskLevel": 65,
+      "EntityType": "Investigation",
+      "EventDate": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "362ba1cd-3fea-404b-af03-3cea3fed0469",
+      "Name": "ZRA Clearance Point",
+      "Description": "Main customs processing zone.",
+      "Latitude": -16.008548915429763,
+      "Longitude": 28.87239547635653,
+      "Location": "Chirundu, Zambia",
+      "MarkerType": "territory",
+      "MarkerColor": "#8b5cf6",
+      "RiskLevel": 20,
+      "EntityType": "Investigation",
+      "EventDate": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "f45c1f1c-04c6-41f9-8e3d-2d3a47164c8d",
+      "Name": "Mining Logistics Center",
+      "Description": "Hub for copper transport monitoring.",
+      "Latitude": -12.995444093551106,
+      "Longitude": 28.622895848053293,
+      "Location": "Ndola, Zambia",
+      "MarkerType": "organization",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 45,
+      "EntityType": "Investigation",
+      "EventDate": "2026-01-10T17:30:30Z"
+    },
+    {
+      "Id": "cd23bf7a-ddfc-4543-9363-b118805b3fe6",
+      "Name": "Customs Broker Office",
+      "Description": "Suspected of falsifying import docs.",
+      "Latitude": -9.31377023473309,
+      "Longitude": 32.7848487466631,
+      "Location": "Nakonde, Zambia",
+      "MarkerType": "organization",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 75,
+      "EntityType": "Investigation",
+      "EventDate": "2026-01-10T17:30:30Z"
+    }
+  ],
+  "Routes": [],
+  "Heatmaps": {
+    "activity": {
+      "Title": "Operational Activity",
+      "Description": "Density of recent incidents and surveillance hits.",
+      "Points": [
+        {
+          "Latitude": -9.294795575879894,
+          "Longitude": 32.78941480983954,
+          "Intensity": 0.85,
+          "Count": 1
+        },
+        {
+          "Latitude": -15.423814691987578,
+          "Longitude": 28.26473838686608,
+          "Intensity": 0.65,
+          "Count": 1
+        },
+        {
+          "Latitude": -16.008548915429763,
+          "Longitude": 28.87239547635653,
+          "Intensity": 0.2,
+          "Count": 1
+        },
+        {
+          "Latitude": -12.995444093551106,
+          "Longitude": 28.622895848053293,
+          "Intensity": 0.45,
+          "Count": 1
+        },
+        {
+          "Latitude": -9.31377023473309,
+          "Longitude": 32.7848487466631,
+          "Intensity": 0.75,
+          "Count": 1
+        }
+      ]
+    }
+  }
+}

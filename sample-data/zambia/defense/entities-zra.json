@@ -450,6 +450,141 @@
       "RiskScore": 76,
       "CreatedAt": "2025-08-09T17:30:30Z",
       "UpdatedAt": "2025-12-25T17:30:30Z"
+    },
+    {
+      "Id": "3e55e6a7-2b16-4e9a-85b5-9cac847009c3",
+      "Name": "Zamtel",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 95.0,
+      "CreatedAt": "2026-02-02T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "46f7ae06-81fa-4a4c-8d07-b65e879678fc",
+      "Name": "Zamtel",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 59.0,
+      "CreatedAt": "2025-05-16T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "23471cfd-c2bb-4d8f-aed9-1dbbc3c846f9",
+      "Name": "Grace Mwanawasa",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 61.0,
+      "CreatedAt": "2025-10-22T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "414ba048-81f1-4732-b4ea-b4a57bfbfb8a",
+      "Name": "Patricia Mumba",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 82.0,
+      "CreatedAt": "2025-10-25T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "edcc826b-360f-4192-ba59-b0f136778997",
+      "Name": "Martha Kapwepwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 69.0,
+      "CreatedAt": "2025-04-02T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "52bd33aa-531e-4a10-9d5d-4a63710d4592",
+      "Name": "Blessing Sinkala",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 85.0,
+      "CreatedAt": "2025-03-19T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "b4215b0d-eef9-4931-9583-b0824fb910dc",
+      "Name": "Mopani Mines",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 53.0,
+      "CreatedAt": "2025-08-04T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "ab359b68-5d5f-4721-b881-0fcd81ad963c",
+      "Name": "Zambia Sugar",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 24.0,
+      "CreatedAt": "2025-10-29T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "4c4bf663-a229-4b48-bdde-184c76bb3273",
+      "Name": "Davies Tembo",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 25.0,
+      "CreatedAt": "2025-07-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "74c18f98-0b31-463f-9a5d-99906d702a1f",
+      "Name": "Chileshe Sata",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 16.0,
+      "CreatedAt": "2025-08-12T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "d425de69-6db8-4649-bc1c-091e719260a3",
+      "Name": "Victoria Falls Power",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 72.0,
+      "CreatedAt": "2025-02-26T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "1be24bd0-a37f-4202-aff3-ee9b757cc90f",
+      "Name": "Mopani Mines",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 67.0,
+      "CreatedAt": "2025-11-21T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "7d495d31-cd17-49cf-80a3-a54b7e0a2be8",
+      "Name": "Davies Mulenga",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 28.0,
+      "CreatedAt": "2025-03-15T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "a55ec751-596e-41ac-a1c9-3c2b528403c1",
+      "Name": "Apex Road Contractors",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49.0,
+      "CreatedAt": "2025-09-10T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "ed327d0d-941e-4b76-8745-0e2f4cd7dcf8",
+      "Name": "Zesco",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 47.0,
+      "CreatedAt": "2025-06-09T00:00:00Z",
+      "Jurisdiction": "Zambia"
     }
   ],
   "Details": [

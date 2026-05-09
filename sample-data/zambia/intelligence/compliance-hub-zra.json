@@ -454,6 +454,126 @@
       "Description": "Intelligence gathering revealed surveillance involving intelligence targets",
       "DetectedAt": "2025-11-20T17:30:30Z",
       "Status": "Investigation"
+    },
+    {
+      "Id": "48b55ffd-6c87-45de-a8b6-471f8187dd80",
+      "EntityName": "Gift Chanda",
+      "Severity": "High",
+      "Description": "Threat assessment regarding Ndola essential infrastructure.",
+      "Timestamp": "2025-04-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7ecf3ff8-331d-463f-b113-bfb7036ce73d",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Medium",
+      "Description": "Threat assessment regarding Kitwe essential infrastructure.",
+      "Timestamp": "2025-01-16T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e9dc9a73-d893-4b77-8cb2-c4714c0c83bf",
+      "EntityName": "Peter Mundia",
+      "Severity": "High",
+      "Description": "Monitoring of clandestine meetings in Nakonde industrial zone.",
+      "Timestamp": "2025-09-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "67fdc617-1851-4bfa-be03-ade76fa11bb8",
+      "EntityName": "Zambia Sugar",
+      "Severity": "High",
+      "Description": "Threat assessment regarding Ndola essential infrastructure.",
+      "Timestamp": "2025-07-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e8e22626-a8cf-4263-8a6e-267d7e8bf6d2",
+      "EntityName": "Natwange Traders",
+      "Severity": "High",
+      "Description": "Threat assessment regarding Mansa essential infrastructure.",
+      "Timestamp": "2026-02-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "13ef03e8-8111-482f-aa13-90685798812a",
+      "EntityName": "John Silavwe",
+      "Severity": "Critical",
+      "Description": "Monitoring of clandestine meetings in Mansa industrial zone.",
+      "Timestamp": "2025-08-17T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d10d3ec9-5069-4057-9495-9eb07aba0a12",
+      "EntityName": "Zesco",
+      "Severity": "Medium",
+      "Description": "Counter-espionage lead involving foreign actors in Mansa.",
+      "Timestamp": "2025-01-17T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "4f7df89b-9c2e-4cc3-8847-77285bd442c4",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "High",
+      "Description": "Tracking of high-value illicit fund movement through Kasumbalesa.",
+      "Timestamp": "2025-09-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "52490417-040f-4d2c-acb8-b5e2c7d0d3f9",
+      "EntityName": "Zambia Sugar",
+      "Severity": "Medium",
+      "Description": "Threat assessment regarding Chipata essential infrastructure.",
+      "Timestamp": "2026-03-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "759e9a2f-68c0-4fdd-bc66-83448abdf3eb",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "High",
+      "Description": "Tracking of high-value illicit fund movement through Solwezi.",
+      "Timestamp": "2025-03-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "045ae939-e7fb-4c6d-95a0-b07af9de4eb5",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "High",
+      "Description": "Threat assessment regarding Sesheke essential infrastructure.",
+      "Timestamp": "2025-11-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6224e7fe-6ef4-4f01-bed7-ce2b2ec016da",
+      "EntityName": "Mainza Kasolo",
+      "Severity": "Critical",
+      "Description": "Threat assessment regarding Luanshya essential infrastructure.",
+      "Timestamp": "2025-07-31T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "15d02e2d-10e8-4d60-b457-663f06ab4b7b",
+      "EntityName": "Zesco",
+      "Severity": "Medium",
+      "Description": "Tracking of high-value illicit fund movement through Mufulira.",
+      "Timestamp": "2025-02-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "0aff3188-8a60-4ed0-bc47-e0d34b6ce1cd",
+      "EntityName": "Sarah Lungu",
+      "Severity": "High",
+      "Description": "Threat assessment regarding Kasumbalesa essential infrastructure.",
+      "Timestamp": "2026-04-16T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "78e2a331-f06d-43ac-8970-fefc4e3093d1",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Threat assessment regarding Chipata essential infrastructure.",
+      "Timestamp": "2025-02-01T00:00:00Z",
+      "Status": "New"
     }
   ],
   "RiskTrends": [

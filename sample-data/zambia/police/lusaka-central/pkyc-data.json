@@ -1,0 +1,150 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "MonitoredEntities": [
+    {
+      "EntityId": "88c9ac03-f1fa-43fd-a85e-f710e788d20a",
+      "EntityName": "Zambia Sugar",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 60,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.269005Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.269023Z",
+      "ActiveAlerts": 2,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "fac42b41-2fdb-46c3-bb5d-172727d10ac2",
+      "EntityName": "Mukwa Engineering",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 11,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.269042Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.269046Z",
+      "ActiveAlerts": 0,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "102a9c59-9908-49c5-b6bb-2fe3ad14155e",
+      "EntityName": "Zesco",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 27,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.269056Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.269059Z",
+      "ActiveAlerts": 1,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "2822b31b-f645-42eb-9804-b539030d325d",
+      "EntityName": "Apex Road Contractors",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 47,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.269069Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.269072Z",
+      "ActiveAlerts": 2,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "42012437-9ac1-4867-af8a-3b6b84cab9b9",
+      "EntityName": "Kafue Logistics",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 76,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.269084Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.269088Z",
+      "ActiveAlerts": 1,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "39da4138-52f3-4385-a6cb-a6a997f15971",
+      "EntityName": "Mukwa Engineering",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 64,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.269101Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.269105Z",
+      "ActiveAlerts": 0,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "1c361654-e091-4ca9-8c09-2d29a7d2942d",
+      "EntityName": "Zambia Sugar",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 38,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.269116Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.269120Z",
+      "ActiveAlerts": 2,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    },
+    {
+      "EntityId": "0ab471cd-d631-43c8-b6fc-d425d0416ad2",
+      "EntityName": "Zamtel",
+      "MonitoringStatus": "Active",
+      "CurrentRiskScore": 44,
+      "PreviousRiskScore": 40,
+      "LastReview": "2026-04-09T11:14:39.269133Z",
+      "NextScheduledReview": "2027-03-05T11:14:39.269138Z",
+      "ActiveAlerts": 1,
+      "RecentChanges": [],
+      "MonitoredDataSources": [
+        "ZRA",
+        "PACRA",
+        "Interpol"
+      ],
+      "IsCompliant": true,
+      "ComplianceIssues": []
+    }
+  ],
+  "ChangeEvents": {}
+}

@@ -800,6 +800,126 @@
       "TransactionId": "TX-WTH-20205842",
       "DetectedAt": "2026-01-02T17:30:31Z",
       "AlertType": "HighValue"
+    },
+    {
+      "Id": "11156a74-3874-4680-8cc4-5b78b449bdd6",
+      "EntityName": "Zesco",
+      "Severity": "Medium",
+      "Description": "Suspicious tender award to Natwange Traders with unverified credentials.",
+      "Timestamp": "2025-05-09T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6d997ede-fc2d-400b-8997-b180589666ce",
+      "EntityName": "Blessing Kapwepwe",
+      "Severity": "Medium",
+      "Description": "Ghost worker payroll detection in Nakonde district office.",
+      "Timestamp": "2025-01-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "5a2a36de-4295-483d-9fe3-c93aecf1a13a",
+      "EntityName": "Mainza Mundia",
+      "Severity": "High",
+      "Description": "Unauthorized amendment of land titles in Mufulira registry.",
+      "Timestamp": "2025-08-25T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c9dafee7-e21c-4a6d-a4db-8288f085a82f",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Critical",
+      "Description": "Suspicious tender award to Mopani Mines with unverified credentials.",
+      "Timestamp": "2025-03-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "fd1f7400-3bb6-410f-9266-dc59e604ec71",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Medium",
+      "Description": "Procurement cycle bypass for Chipata infrastructure project.",
+      "Timestamp": "2025-07-09T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8d1e5624-abdc-4ab5-bb04-17f8a0c9ee0c",
+      "EntityName": "Martha Sata",
+      "Severity": "Critical",
+      "Description": "Unauthorized amendment of land titles in Mongu registry.",
+      "Timestamp": "2026-01-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a47ec341-aea9-4a27-b8f8-611026520c28",
+      "EntityName": "Zamtel",
+      "Severity": "High",
+      "Description": "Double-dipping in teacher allowance system in Kasama.",
+      "Timestamp": "2026-04-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "fee90b42-1bf9-4e2c-adb1-f961d2254be5",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "High",
+      "Description": "Double-dipping in teacher allowance system in Choma.",
+      "Timestamp": "2026-01-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e1c80e8d-2a65-4705-beec-fd44819b1cf2",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Critical",
+      "Description": "Procurement cycle bypass for Mansa infrastructure project.",
+      "Timestamp": "2025-10-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "724d2145-d146-42c1-a69f-0a3f4dfc223e",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Critical",
+      "Description": "Double-dipping in teacher allowance system in Chingola.",
+      "Timestamp": "2025-07-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f10e2a76-6edf-4d67-938b-39f40ac478f5",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Critical",
+      "Description": "Ghost worker payroll detection in Lusaka district office.",
+      "Timestamp": "2025-12-24T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "36691ecc-85b5-48c1-a768-81bb4d42b620",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Unauthorized amendment of land titles in Kasumbalesa registry.",
+      "Timestamp": "2025-06-18T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7a8191f8-b6ba-41e1-ac45-93c6d0ee5d5e",
+      "EntityName": "Mutale Banda",
+      "Severity": "Critical",
+      "Description": "Double-dipping in teacher allowance system in Chingola.",
+      "Timestamp": "2026-04-16T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "070b2c1a-0bad-4696-8b5d-2ae8aa99b95a",
+      "EntityName": "Gift Sata",
+      "Severity": "Medium",
+      "Description": "Suspicious tender award to Apex Road Contractors with unverified credentials.",
+      "Timestamp": "2026-04-17T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c2e3383a-1cc0-4d46-a697-202a8bf7103b",
+      "EntityName": "Zamtel",
+      "Severity": "High",
+      "Description": "Unauthorized amendment of land titles in Nakonde registry.",
+      "Timestamp": "2025-01-09T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Rules": [

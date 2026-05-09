@@ -800,6 +800,126 @@
       "TransactionId": "TX-WTH-20247120",
       "DetectedAt": "2026-01-18T17:30:31Z",
       "AlertType": "Anomaly"
+    },
+    {
+      "Id": "3d33aee3-35a1-4853-b361-a64c177228d5",
+      "EntityName": "Sarah Tembo",
+      "Severity": "Critical",
+      "Description": "Signal jamming incident reported during Solwezi talk show.",
+      "Timestamp": "2026-04-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "cf9aac50-9fd7-41fc-ba17-462cabcb3864",
+      "EntityName": "Grace Mwanawasa",
+      "Severity": "Critical",
+      "Description": "Unauthorized use of protected radio frequencies near Nakonde.",
+      "Timestamp": "2025-01-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c56a28fc-ed47-4e91-9dbb-c078609c162d",
+      "EntityName": "Webby Kunda",
+      "Severity": "Critical",
+      "Description": "Infrastructure vandalism at Livingstone transmitter site.",
+      "Timestamp": "2025-08-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d90ad65d-a1c6-4a25-b119-5af138f01080",
+      "EntityName": "Webby Kapwepwe",
+      "Severity": "Critical",
+      "Description": "Analysis of listener call-in data for public order sentiment.",
+      "Timestamp": "2025-02-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "625d17d3-1198-4819-ad4d-a59b6cc68933",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Analysis of listener call-in data for public order sentiment.",
+      "Timestamp": "2025-12-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "be736b1f-419e-4855-813c-fdd90142e5cc",
+      "EntityName": "Gift Kapwepwe",
+      "Severity": "High",
+      "Description": "Emergency broadcast test failure in Chingola region.",
+      "Timestamp": "2025-06-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "336dc4ee-1167-4267-94a1-a8fcb106c5e0",
+      "EntityName": "James Bwalya",
+      "Severity": "Critical",
+      "Description": "Unauthorized use of protected radio frequencies near Mansa.",
+      "Timestamp": "2025-11-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9388f83c-017f-4e11-a6fc-5a15fb7014ff",
+      "EntityName": "Mary Silavwe",
+      "Severity": "Critical",
+      "Description": "Unauthorized use of protected radio frequencies near Chipata.",
+      "Timestamp": "2025-11-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "964b888a-4ffb-4e8b-a71d-c3c52a85dd65",
+      "EntityName": "Peter Kasolo",
+      "Severity": "High",
+      "Description": "Analysis of listener call-in data for public order sentiment.",
+      "Timestamp": "2025-06-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f9e3f393-3580-485b-91a0-a7a66d5e40e7",
+      "EntityName": "Hope Sata",
+      "Severity": "High",
+      "Description": "Analysis of listener call-in data for public order sentiment.",
+      "Timestamp": "2025-02-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "b74bb473-900c-4391-89a8-3bd5f182a919",
+      "EntityName": "Mopani Mines",
+      "Severity": "Medium",
+      "Description": "Signal jamming incident reported during Sesheke talk show.",
+      "Timestamp": "2025-12-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9f2314c7-18e6-4e18-b9eb-93100f0ed23e",
+      "EntityName": "Hope Chisenga",
+      "Severity": "Medium",
+      "Description": "Unauthorized use of protected radio frequencies near Chipata.",
+      "Timestamp": "2025-02-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "02b1e751-eca7-4387-8308-3310eb188938",
+      "EntityName": "John Kabaso",
+      "Severity": "Critical",
+      "Description": "Signal jamming incident reported during Chingola talk show.",
+      "Timestamp": "2025-08-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "64e1c093-1ca0-4c5e-b258-befa49901d86",
+      "EntityName": "Kafue Logistics",
+      "Severity": "High",
+      "Description": "Signal jamming incident reported during Chipata talk show.",
+      "Timestamp": "2025-06-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "44f9bc91-752b-4524-b9ca-c9c22d8f7f39",
+      "EntityName": "Mutale Kunda",
+      "Severity": "Medium",
+      "Description": "Infrastructure vandalism at Sesheke transmitter site.",
+      "Timestamp": "2026-04-24T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Rules": [

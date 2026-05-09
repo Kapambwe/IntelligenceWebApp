@@ -800,6 +800,126 @@
       "TransactionId": "TX-PAY-20203577",
       "DetectedAt": "2025-12-17T17:30:31Z",
       "AlertType": "Threshold"
+    },
+    {
+      "Id": "ff4129e9-af6c-4bd3-a6a7-78cef7b7f6c8",
+      "EntityName": "Peter Nyirenda",
+      "Severity": "Medium",
+      "Description": "Interception of narcotics shipment at Mansa checkpoint.",
+      "Timestamp": "2026-04-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "51da6c08-5a2e-4feb-8973-d043a88596ec",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Gang activity surge in Lusaka high-density townships.",
+      "Timestamp": "2025-07-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "4de2447e-d49c-46bf-803c-5ac90d5dbe9c",
+      "EntityName": "Davies Silavwe",
+      "Severity": "Critical",
+      "Description": "Organized cattle rustling network operating in Sesheke rural areas.",
+      "Timestamp": "2025-08-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "11037355-4b5a-4f7d-b8a6-072874cf3344",
+      "EntityName": "Mopani Mines",
+      "Severity": "High",
+      "Description": "Organized cattle rustling network operating in Mansa rural areas.",
+      "Timestamp": "2025-09-05T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7adc7094-fa2e-48c9-b174-97c9e5f2bb27",
+      "EntityName": "Peter Mundia",
+      "Severity": "Critical",
+      "Description": "Illegal firearm proliferation linked to syndicate in Mongu.",
+      "Timestamp": "2025-04-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "24e1c6f5-674b-4da2-b374-30f573b184d4",
+      "EntityName": "Martha Mulenga",
+      "Severity": "Medium",
+      "Description": "Interception of narcotics shipment at Ndola checkpoint.",
+      "Timestamp": "2025-10-09T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "10c94187-3564-412e-8089-b84622b66204",
+      "EntityName": "Natwange Traders",
+      "Severity": "High",
+      "Description": "Interception of narcotics shipment at Kasama checkpoint.",
+      "Timestamp": "2025-08-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a874f785-3cf3-490e-9e81-f9dc240fdd1a",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Medium",
+      "Description": "Organized cattle rustling network operating in Mansa rural areas.",
+      "Timestamp": "2025-10-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e1e922c5-0468-42ee-abd1-da170cd7b92a",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Illegal firearm proliferation linked to syndicate in Mansa.",
+      "Timestamp": "2025-12-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "65e1397a-5676-49c5-8a93-3901262b4f23",
+      "EntityName": "Natwange Traders",
+      "Severity": "High",
+      "Description": "Interception of narcotics shipment at Livingstone checkpoint.",
+      "Timestamp": "2025-04-06T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "ed9675f5-4631-410d-8602-b69748a01f78",
+      "EntityName": "Joseph Tembo",
+      "Severity": "High",
+      "Description": "Gang activity surge in Luanshya high-density townships.",
+      "Timestamp": "2025-01-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1fab792d-711a-49eb-8584-c3bb9f18478c",
+      "EntityName": "Mary Banda",
+      "Severity": "Medium",
+      "Description": "Interception of narcotics shipment at Lusaka checkpoint.",
+      "Timestamp": "2025-10-01T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c2d6c114-62bc-4021-a1ac-1db066a71491",
+      "EntityName": "Natwange Traders",
+      "Severity": "High",
+      "Description": "Interception of narcotics shipment at Kitwe checkpoint.",
+      "Timestamp": "2025-01-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "ff3f6277-a90e-4636-9980-5c5439ce66de",
+      "EntityName": "Zesco",
+      "Severity": "Medium",
+      "Description": "Illegal firearm proliferation linked to syndicate in Choma.",
+      "Timestamp": "2025-03-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c22ce68e-c28e-4136-9370-3ec585b88e78",
+      "EntityName": "Zambia Sugar",
+      "Severity": "Medium",
+      "Description": "Organized cattle rustling network operating in Solwezi rural areas.",
+      "Timestamp": "2025-05-23T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Rules": [

@@ -1,0 +1,190 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Profiles": [
+    {
+      "CustomerId": "54a1a5cb-106f-46f2-bb02-3264ea61b94b",
+      "PrimaryEntity": {
+        "Id": "54a1a5cb-106f-46f2-bb02-3264ea61b94b",
+        "Name": "Kafue Logistics",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 46
+      },
+      "TotalAssets": 28634941,
+      "NetWorth": 11774551,
+      "CurrentRiskScore": 83,
+      "FirstInteractionDate": "2024-12-25T11:14:39.225181Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-8894",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.225225Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    },
+    {
+      "CustomerId": "e7eda5bf-746b-4eaa-bc0d-7abe3e207966",
+      "PrimaryEntity": {
+        "Id": "e7eda5bf-746b-4eaa-bc0d-7abe3e207966",
+        "Name": "Mutale Nyirenda",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 55
+      },
+      "TotalAssets": 40456329,
+      "NetWorth": 11253804,
+      "CurrentRiskScore": 39,
+      "FirstInteractionDate": "2024-12-25T11:14:39.225284Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-3195",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.225290Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    },
+    {
+      "CustomerId": "0bd47377-0d42-4dd6-b12d-30cd19bdf8f0",
+      "PrimaryEntity": {
+        "Id": "0bd47377-0d42-4dd6-b12d-30cd19bdf8f0",
+        "Name": "Victoria Falls Power",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 73
+      },
+      "TotalAssets": 45046586,
+      "NetWorth": 10816789,
+      "CurrentRiskScore": 77,
+      "FirstInteractionDate": "2024-12-25T11:14:39.225315Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-7936",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.225320Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    },
+    {
+      "CustomerId": "18eccc03-2c8a-450a-9e66-1ca2b6bf1c44",
+      "PrimaryEntity": {
+        "Id": "18eccc03-2c8a-450a-9e66-1ca2b6bf1c44",
+        "Name": "Lombe Chisenga",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 65
+      },
+      "TotalAssets": 49556689,
+      "NetWorth": 4113454,
+      "CurrentRiskScore": 78,
+      "FirstInteractionDate": "2024-12-25T11:14:39.225333Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-8945",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.225336Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    },
+    {
+      "CustomerId": "d759f7f0-5cbe-49da-9700-aa1443d4eff7",
+      "PrimaryEntity": {
+        "Id": "d759f7f0-5cbe-49da-9700-aa1443d4eff7",
+        "Name": "Grace Lungu",
+        "Type": "Person",
+        "Status": "Active",
+        "RiskScore": 74
+      },
+      "TotalAssets": 11918682,
+      "NetWorth": 3651229,
+      "CurrentRiskScore": 78,
+      "FirstInteractionDate": "2024-12-25T11:14:39.225349Z",
+      "KYCStatus": {
+        "Status": "Verified",
+        "IsCompliant": true
+      },
+      "Accounts": [
+        {
+          "AccountNumber": "ACC-4233",
+          "AccountType": "Business",
+          "Balance": 50000.0,
+          "OpenedDate": "2025-10-21T11:14:39.225352Z",
+          "Status": "Active"
+        }
+      ],
+      "RecentTransactions": [],
+      "RiskHistory": [],
+      "BehavioralAnalytics": {
+        "AverageTransactionAmount": 5000.0,
+        "TransactionsPerMonth": 12,
+        "PreferredChannels": [
+          "Online",
+          "Branch"
+        ]
+      }
+    }
+  ]
+}

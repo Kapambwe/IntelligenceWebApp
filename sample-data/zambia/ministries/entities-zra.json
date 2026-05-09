@@ -450,6 +450,141 @@
       "RiskScore": 96,
       "CreatedAt": "2025-02-06T17:30:31Z",
       "UpdatedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "00b9eade-426d-4e4f-83ce-3cc130f08303",
+      "Name": "Gift Mumba",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 27.0,
+      "CreatedAt": "2025-03-22T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "89822d7d-5136-4ec7-978d-a772a13a8c05",
+      "Name": "Apex Road Contractors",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 23.0,
+      "CreatedAt": "2025-12-20T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "f528e118-4b01-42e9-86e6-cd66f460690d",
+      "Name": "Grace Mwamba",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 70.0,
+      "CreatedAt": "2025-08-28T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "15d4b2e8-6a92-4441-b155-316593c46d09",
+      "Name": "Zamtel",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 73.0,
+      "CreatedAt": "2025-11-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "bb79aac9-6a55-43a3-9c9b-902ac3987c84",
+      "Name": "Mopani Mines",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 73.0,
+      "CreatedAt": "2025-01-13T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "a6de3db3-ad5d-4ebf-a28c-5e787e4914f4",
+      "Name": "Emmanuel Chisenga",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 33.0,
+      "CreatedAt": "2025-05-18T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "72401501-c137-49ce-8559-9fe91fda8935",
+      "Name": "Moses Silavwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 25.0,
+      "CreatedAt": "2025-04-05T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "eba9271a-fbc4-492e-ae08-e9171e1c4c1c",
+      "Name": "Zamtel",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 16.0,
+      "CreatedAt": "2026-02-05T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "41ccf757-d48d-428e-9ecc-da969a431a8e",
+      "Name": "Levy Chanda",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 31.0,
+      "CreatedAt": "2025-06-03T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "f620ada3-b79e-4029-a2fc-53e799455af1",
+      "Name": "Blessing Mundia",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 50.0,
+      "CreatedAt": "2025-03-08T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "3fcd8e31-beb5-4d5a-a50d-6ce77640f77a",
+      "Name": "Apex Road Contractors",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 51.0,
+      "CreatedAt": "2026-02-13T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "a7ac9acc-0655-4e2f-8d18-84dad96358fb",
+      "Name": "Mukwa Engineering",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 18.0,
+      "CreatedAt": "2025-04-21T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "4e9d9163-6a31-4156-8549-da9bd24920d1",
+      "Name": "Kafue Logistics",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49.0,
+      "CreatedAt": "2025-10-13T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "ec0a68d5-da09-4ba1-88a0-fab157f01038",
+      "Name": "Zamtel",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 20.0,
+      "CreatedAt": "2025-07-12T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "04dce6a6-97ef-449f-a3e4-743d4e8bea7f",
+      "Name": "Mopani Mines",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 67.0,
+      "CreatedAt": "2025-03-19T00:00:00Z",
+      "Jurisdiction": "Zambia"
     }
   ],
   "Details": [

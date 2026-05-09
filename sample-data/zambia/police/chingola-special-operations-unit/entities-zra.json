@@ -450,6 +450,141 @@
       "RiskScore": 41,
       "CreatedAt": "2024-02-21T17:30:31Z",
       "UpdatedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "e021d083-8cd8-4a0b-b640-ab37d96b89a5",
+      "Name": "Kafue Logistics",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 62.0,
+      "CreatedAt": "2025-08-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "14c3b446-4980-4888-a5ab-374dc73c4db5",
+      "Name": "Mopani Mines",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 46.0,
+      "CreatedAt": "2025-05-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "519fd102-bff0-472c-8ab7-19f9dd347156",
+      "Name": "Zesco",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 40.0,
+      "CreatedAt": "2026-03-31T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "bbd477cb-aedb-424e-b314-c9f7a4db33de",
+      "Name": "Webby Phiri",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 87.0,
+      "CreatedAt": "2025-07-28T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "23b4fe67-d26d-4be9-8745-fbda001eff61",
+      "Name": "Zesco",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 83.0,
+      "CreatedAt": "2025-07-23T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "2338663d-ab47-4693-bc39-30e5eb300f10",
+      "Name": "Mukwa Engineering",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 78.0,
+      "CreatedAt": "2025-05-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "320656c5-967c-4569-8f41-3738fa97d198",
+      "Name": "Lombe Kalaba",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 63.0,
+      "CreatedAt": "2025-09-22T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "58b5893f-09a3-4793-a52b-a662d7357c0b",
+      "Name": "Mopani Mines",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 22.0,
+      "CreatedAt": "2026-05-04T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "ede52eb9-8e46-4398-8828-62d39370dc7e",
+      "Name": "Davies Mundia",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 85.0,
+      "CreatedAt": "2025-06-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "d401623d-230d-4b50-9295-8987e036ef24",
+      "Name": "Natwange Traders",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 20.0,
+      "CreatedAt": "2026-03-14T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "71708efe-0f9c-4c00-83dc-57b66a8ff8a0",
+      "Name": "Zamtel",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49.0,
+      "CreatedAt": "2025-10-24T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "1ab4c367-34be-44a7-ac2d-22e6379d121f",
+      "Name": "Martha Banda",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 63.0,
+      "CreatedAt": "2025-11-12T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "e23f6cbd-008d-4a25-89da-fa66d1abe955",
+      "Name": "Mopani Mines",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 22.0,
+      "CreatedAt": "2026-02-23T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "bfd9a1dd-e277-41f0-b847-285ad3663be9",
+      "Name": "Sarah Mulenga",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 50.0,
+      "CreatedAt": "2026-03-26T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "45d031d2-c79b-4294-930a-10918789ea63",
+      "Name": "Zambia Sugar",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 79.0,
+      "CreatedAt": "2025-09-20T00:00:00Z",
+      "Jurisdiction": "Zambia"
     }
   ],
   "Details": [
@@ -3452,6 +3587,256 @@
           "CheckedAt": "2026-01-11T17:30:31Z"
         }
       ]
+    }
+  ],
+  "Relationships": [
+    {
+      "Id": "bfb07b5c-9a51-47c9-bfd9-ef28327db516",
+      "SourceEntityId": "23b4fe67-d26d-4be9-8745-fbda001eff61",
+      "TargetEntityId": "1ab4c367-34be-44a7-ac2d-22e6379d121f",
+      "Type": "Associate",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "cf1953e3-d1cf-4f50-8136-5cca42b0cf53",
+      "SourceEntityId": "05175baa-102c-2493-1cba-0056e4a008d4",
+      "TargetEntityId": "1ab4c367-34be-44a7-ac2d-22e6379d121f",
+      "Type": "Associate",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "0f485a96-dbb0-41e1-ae1d-7da8717beb43",
+      "SourceEntityId": "05175baa-102c-2493-1cba-0056e4a008d4",
+      "TargetEntityId": "bfd9a1dd-e277-41f0-b847-285ad3663be9",
+      "Type": "Associate",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "d1e24a71-ae05-41f9-86ce-c7fb4fee10ac",
+      "SourceEntityId": "2338663d-ab47-4693-bc39-30e5eb300f10",
+      "TargetEntityId": "519fd102-bff0-472c-8ab7-19f9dd347156",
+      "Type": "Financial",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "7042af1f-cfa3-4b79-a8fc-919f453649cc",
+      "SourceEntityId": "e021d083-8cd8-4a0b-b640-ab37d96b89a5",
+      "TargetEntityId": "057b6146-05c1-11d3-1206-00ddb47d88f8",
+      "Type": "Ownership",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "bf23ef26-11c9-47cf-9088-075152ff2dc3",
+      "SourceEntityId": "0347489d-0a42-0536-087f-009c2dd9a589",
+      "TargetEntityId": "01d66a2c-1c9e-047f-202f-006d1769739d",
+      "Type": "Employment",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "a9a9fbf4-d8fb-4345-938d-0164b941c982",
+      "SourceEntityId": "02c5c694-1851-1196-08d4-00876ad0ca9c",
+      "TargetEntityId": "00f81a9a-1301-24be-1833-00bdc2e55ea3",
+      "Type": "Financial",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "b35bef4b-b448-4ba7-a3c1-179636b3ad73",
+      "SourceEntityId": "23b4fe67-d26d-4be9-8745-fbda001eff61",
+      "TargetEntityId": "03a5e416-1c33-07ad-17cc-00636116cba6",
+      "Type": "Financial",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "6c2c6348-fc85-4988-9593-da69240e83a5",
+      "SourceEntityId": "03a5e416-1c33-07ad-17cc-00636116cba6",
+      "TargetEntityId": "0397c6f4-14e2-08b1-0e16-0081591e4236",
+      "Type": "Employment",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "176dcdad-9854-46bd-9931-6793575ce5d6",
+      "SourceEntityId": "01084e57-09a7-12d3-061d-007b3be8abc1",
+      "TargetEntityId": "03a332ed-1542-1989-0651-0054ddf26c5a",
+      "Type": "Ownership",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "074efd43-2a54-4320-9d7f-a59ba0cd12db",
+      "SourceEntityId": "45d031d2-c79b-4294-930a-10918789ea63",
+      "TargetEntityId": "03a332ed-1542-1989-0651-0054ddf26c5a",
+      "Type": "Ownership",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "9a7c9381-7a40-47f7-b84f-a78af73e24ad",
+      "SourceEntityId": "14c3b446-4980-4888-a5ab-374dc73c4db5",
+      "TargetEntityId": "01084e57-09a7-12d3-061d-007b3be8abc1",
+      "Type": "Family",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "8ecabc76-7de9-4bf2-a24e-64eea95dc2f2",
+      "SourceEntityId": "028b8f14-1530-142b-0a53-00896d36b188",
+      "TargetEntityId": "01ee63aa-1e19-0ee9-120b-003f5e3947a7",
+      "Type": "Associate",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "b1a23643-db80-4f73-858d-35c6b2e5a1da",
+      "SourceEntityId": "057b6146-05c1-11d3-1206-00ddb47d88f8",
+      "TargetEntityId": "1ab4c367-34be-44a7-ac2d-22e6379d121f",
+      "Type": "Family",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "68a451f2-929d-4aaa-b315-1690b00eade1",
+      "SourceEntityId": "01fb3b32-0f0f-233a-04dd-009d72dce22e",
+      "TargetEntityId": "0220eded-24ec-100c-05cf-0055f78de455",
+      "Type": "Ownership",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "18a1ddb5-a05d-4749-907c-8b10d52564aa",
+      "SourceEntityId": "01f73323-12c4-1b4a-1f9c-00c5a87f47fa",
+      "TargetEntityId": "033f56d7-0bcd-2209-15e3-007897886816",
+      "Type": "Ownership",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "e055b7d9-6587-4413-8a34-86abcb01b78b",
+      "SourceEntityId": "45d031d2-c79b-4294-930a-10918789ea63",
+      "TargetEntityId": "01084e57-09a7-12d3-061d-007b3be8abc1",
+      "Type": "Financial",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "190be7b7-f885-4610-977c-021fcf4b5fab",
+      "SourceEntityId": "0220eded-24ec-100c-05cf-0055f78de455",
+      "TargetEntityId": "03a332ed-1542-1989-0651-0054ddf26c5a",
+      "Type": "Family",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "88b393d8-f984-4d87-bccf-ada442f11bdc",
+      "SourceEntityId": "01d54b45-1260-21e0-0e59-0053bb5c9fd3",
+      "TargetEntityId": "0220eded-24ec-100c-05cf-0055f78de455",
+      "Type": "Associate",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "b93821c0-ad67-470d-a4c2-8864fcb72cb5",
+      "SourceEntityId": "e23f6cbd-008d-4a25-89da-fa66d1abe955",
+      "TargetEntityId": "044783b1-1882-22a0-265c-00a11a8a8e7b",
+      "Type": "Family",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "5ee3b589-4654-438a-836c-00e2b3aa15a1",
+      "SourceEntityId": "01d54b45-1260-21e0-0e59-0053bb5c9fd3",
+      "TargetEntityId": "01d66a2c-1c9e-047f-202f-006d1769739d",
+      "Type": "Associate",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "7b362b86-b2db-453c-b46d-a0e2a639be53",
+      "SourceEntityId": "033f56d7-0bcd-2209-15e3-007897886816",
+      "TargetEntityId": "01d66a2c-1c9e-047f-202f-006d1769739d",
+      "Type": "Ownership",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "5c1b829e-2062-4b47-9d7e-38a4b2386437",
+      "SourceEntityId": "0397c6f4-14e2-08b1-0e16-0081591e4236",
+      "TargetEntityId": "0162d329-0942-1f7e-0bd9-00ce7283bce5",
+      "Type": "Employment",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "807a19cc-e37e-4747-99a0-f4449054c67e",
+      "SourceEntityId": "58b5893f-09a3-4793-a52b-a662d7357c0b",
+      "TargetEntityId": "02f0a1fe-0f19-13db-0c17-0043dc99ec0f",
+      "Type": "Ownership",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "1b48f055-5296-4e0f-af0c-75d009ea64a4",
+      "SourceEntityId": "0220eded-24ec-100c-05cf-0055f78de455",
+      "TargetEntityId": "01eaa3c4-0b66-1d9a-24d6-002ebce50412",
+      "Type": "Family",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "6002c6b8-8b14-4881-aaaa-e5f3fb79a469",
+      "SourceEntityId": "04f350e3-0ba5-0972-1662-0093083bfee0",
+      "TargetEntityId": "05175baa-102c-2493-1cba-0056e4a008d4",
+      "Type": "Ownership",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "aa2beac2-02d7-461a-ba5d-95dd0042bed4",
+      "SourceEntityId": "01eaa3c4-0b66-1d9a-24d6-002ebce50412",
+      "TargetEntityId": "05ecf318-2342-1d93-142e-001edd96e05a",
+      "Type": "Associate",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "b08d1c8e-0353-47c8-8444-dc6638d2a578",
+      "SourceEntityId": "45d031d2-c79b-4294-930a-10918789ea63",
+      "TargetEntityId": "0220eded-24ec-100c-05cf-0055f78de455",
+      "Type": "Employment",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "75fc091c-a6ca-4533-a278-634874fe8fd8",
+      "SourceEntityId": "042af2d1-13ec-0fb6-14e7-00d920000abb",
+      "TargetEntityId": "02b67534-200d-0517-1f29-009ec0e9aa4c",
+      "Type": "Employment",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "412739b2-86c0-4485-a29e-ab8347416a92",
+      "SourceEntityId": "00b538e2-225c-2538-1bd2-00e5ad3af1d5",
+      "TargetEntityId": "58b5893f-09a3-4793-a52b-a662d7357c0b",
+      "Type": "Associate",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "ed5ebead-0d4d-418d-9808-2cae335e4839",
+      "SourceEntityId": "03a332ed-1542-1989-0651-0054ddf26c5a",
+      "TargetEntityId": "23b4fe67-d26d-4be9-8745-fbda001eff61",
+      "Type": "Financial",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
     }
   ]
 }

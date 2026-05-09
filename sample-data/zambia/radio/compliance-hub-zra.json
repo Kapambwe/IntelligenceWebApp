@@ -454,6 +454,126 @@
       "Description": "Investigation revealed investigative reporting involving corporations",
       "DetectedAt": "2025-11-08T17:30:31Z",
       "Status": "Resolved"
+    },
+    {
+      "Id": "e6708298-83af-469a-be25-8b1ade34fb6c",
+      "EntityName": "John Kasolo",
+      "Severity": "High",
+      "Description": "Infrastructure vandalism at Ndola transmitter site.",
+      "Timestamp": "2025-06-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "12d81a31-9b8e-4d16-9dd6-ada22533f7c4",
+      "EntityName": "Zamtel",
+      "Severity": "Medium",
+      "Description": "Emergency broadcast test failure in Mansa region.",
+      "Timestamp": "2025-08-18T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2bb5d9fe-8d23-4d16-a3e3-7aa283cff5dc",
+      "EntityName": "Lombe Kunda",
+      "Severity": "Critical",
+      "Description": "Signal jamming incident reported during Kitwe talk show.",
+      "Timestamp": "2025-04-06T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "316c84db-2e12-476b-aa82-fc83565e848c",
+      "EntityName": "Moses Lungu",
+      "Severity": "High",
+      "Description": "Signal jamming incident reported during Mansa talk show.",
+      "Timestamp": "2025-11-25T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "73b31b01-6a21-43f2-9a5b-653e548c1b03",
+      "EntityName": "James Mwanawasa",
+      "Severity": "Medium",
+      "Description": "Unauthorized use of protected radio frequencies near Luanshya.",
+      "Timestamp": "2026-04-16T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "4522dd5e-3922-4c9a-9801-ed91134205a3",
+      "EntityName": "Blessing Mwanawasa",
+      "Severity": "High",
+      "Description": "Infrastructure vandalism at Solwezi transmitter site.",
+      "Timestamp": "2025-08-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "589bc916-7755-4897-bc90-79c98b5d8485",
+      "EntityName": "Kelvin Mwamba",
+      "Severity": "Critical",
+      "Description": "Signal jamming incident reported during Chingola talk show.",
+      "Timestamp": "2025-05-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "48996279-a3e8-46a1-94f1-1ceedabfa690",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Unauthorized use of protected radio frequencies near Lusaka.",
+      "Timestamp": "2026-01-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "aa0e6fa0-53dc-4f2f-b02b-f81e4ffba4e5",
+      "EntityName": "Peter Mumba",
+      "Severity": "High",
+      "Description": "Signal jamming incident reported during Kasumbalesa talk show.",
+      "Timestamp": "2025-04-09T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d718dfba-5448-4f15-9572-df756217fdd7",
+      "EntityName": "Zamtel",
+      "Severity": "High",
+      "Description": "Signal jamming incident reported during Luanshya talk show.",
+      "Timestamp": "2025-09-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f1e29b1e-8001-4d3e-aa10-2c184f299f62",
+      "EntityName": "Mopani Mines",
+      "Severity": "Critical",
+      "Description": "Infrastructure vandalism at Solwezi transmitter site.",
+      "Timestamp": "2026-01-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f7757147-fa55-4fe4-b131-7c577165e1db",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Analysis of listener call-in data for public order sentiment.",
+      "Timestamp": "2025-08-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c68f82a9-67a8-49e5-8e40-fdc1916ecae1",
+      "EntityName": "Joseph Sinkala",
+      "Severity": "Medium",
+      "Description": "Emergency broadcast test failure in Kabwe region.",
+      "Timestamp": "2026-04-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "ac351e93-d681-4fe4-8f4b-57163b339bfa",
+      "EntityName": "Davies Kalaba",
+      "Severity": "Critical",
+      "Description": "Analysis of listener call-in data for public order sentiment.",
+      "Timestamp": "2025-06-24T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "86c29810-cbb6-414e-9edc-7df5863b722b",
+      "EntityName": "Joseph Kunda",
+      "Severity": "Medium",
+      "Description": "Unauthorized use of protected radio frequencies near Luanshya.",
+      "Timestamp": "2025-08-17T00:00:00Z",
+      "Status": "New"
     }
   ],
   "RiskTrends": [

@@ -1458,6 +1458,126 @@
       "CreatedAt": "2025-12-26T17:30:30Z",
       "TriggeredAt": "2025-10-30T17:30:30Z",
       "IsAcknowledged": true
+    },
+    {
+      "Id": "3c11a2b5-d79b-48f2-8c3b-4d6bfad1705a",
+      "EntityName": "Patricia Lungu",
+      "Severity": "Medium",
+      "Description": "Fraudulent motor vehicle accident claims involving Mopani Mines in Chirundu.",
+      "Timestamp": "2025-04-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "3bb6e0a2-88ba-4746-832d-961a754ea45d",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Medium",
+      "Description": "Staged theft reports for high-value mining equipment in Kabwe.",
+      "Timestamp": "2025-07-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "026b5295-060b-4466-a2c2-7f652981d60f",
+      "EntityName": "Moses Mwamba",
+      "Severity": "Medium",
+      "Description": "Staged theft reports for high-value mining equipment in Lusaka.",
+      "Timestamp": "2025-07-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7dcc0a3a-f813-4867-8636-a77e3e72a777",
+      "EntityName": "Emmanuel Mwanawasa",
+      "Severity": "Critical",
+      "Description": "Life insurance claim using forged death certificates from Mansa clinic.",
+      "Timestamp": "2025-10-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c5438655-bc07-4578-95da-c61e24e996e8",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "High",
+      "Description": "Premium diversion by brokers in Luanshya commercial district.",
+      "Timestamp": "2025-12-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "0d7e7c35-db2f-4fbc-b5d9-ced69abd7dab",
+      "EntityName": "John Banda",
+      "Severity": "Critical",
+      "Description": "Premium diversion by brokers in Choma commercial district.",
+      "Timestamp": "2025-08-24T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "644235af-b4fe-4fe1-81a5-85acc07e383f",
+      "EntityName": "Davies Sata",
+      "Severity": "Critical",
+      "Description": "Premium diversion by brokers in Kasumbalesa commercial district.",
+      "Timestamp": "2025-12-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "de25f8b2-dcfa-406f-ad7f-256082bfce22",
+      "EntityName": "Mainza Mumba",
+      "Severity": "Critical",
+      "Description": "Fraudulent motor vehicle accident claims involving Mukwa Engineering in Mansa.",
+      "Timestamp": "2025-07-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8f8ce0c4-0beb-4c73-a919-1cdc2cce499b",
+      "EntityName": "Savanna Insurance",
+      "Severity": "High",
+      "Description": "Premium diversion by brokers in Luanshya commercial district.",
+      "Timestamp": "2025-08-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "728020ec-9d71-4811-9744-2ef2712bb3c7",
+      "EntityName": "Zesco",
+      "Severity": "High",
+      "Description": "Life insurance claim using forged death certificates from Chipata clinic.",
+      "Timestamp": "2025-03-24T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7a867bb3-1463-4300-ab94-0ff4bfa54e29",
+      "EntityName": "Patricia Sata",
+      "Severity": "High",
+      "Description": "Life insurance claim using forged death certificates from Chipata clinic.",
+      "Timestamp": "2025-10-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9e58e09d-0396-45b0-ae7c-127f20b6be93",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "High",
+      "Description": "Life insurance claim using forged death certificates from Lusaka clinic.",
+      "Timestamp": "2025-07-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7d841744-3cca-41ad-ae2c-cad94e836b62",
+      "EntityName": "AgriLoan Zambia",
+      "Severity": "Critical",
+      "Description": "Staged theft reports for high-value mining equipment in Lusaka.",
+      "Timestamp": "2025-10-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2c2a5204-3a7f-4b2b-9e41-35cb6f2c4cd4",
+      "EntityName": "Hope Chanda",
+      "Severity": "Medium",
+      "Description": "Fraudulent motor vehicle accident claims involving Kafue Logistics in Luanshya.",
+      "Timestamp": "2025-07-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "251638c1-02ff-401b-8902-046f5a0bc939",
+      "EntityName": "John Chisenga",
+      "Severity": "Medium",
+      "Description": "Premium diversion by brokers in Mufulira commercial district.",
+      "Timestamp": "2026-02-08T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Configs": [

@@ -450,6 +450,141 @@
       "RiskScore": 69,
       "CreatedAt": "2024-05-05T17:30:30Z",
       "UpdatedAt": "2026-01-05T17:30:30Z"
+    },
+    {
+      "Id": "3ccbfb35-bf2f-4930-b779-5b21794e42ea",
+      "Name": "Mainza Bwalya",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 37.0,
+      "CreatedAt": "2025-07-26T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "01ca5d22-7c87-4933-aaae-5801f021c841",
+      "Name": "Webby Bwalya",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 92.0,
+      "CreatedAt": "2025-07-18T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "f66e0470-7ae1-40fc-a775-f7559d1bfc04",
+      "Name": "Mukwa Engineering",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 16.0,
+      "CreatedAt": "2026-04-19T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "358cf7f7-9db7-4f63-8934-a383e0942c25",
+      "Name": "Kafue Logistics",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 93.0,
+      "CreatedAt": "2026-03-15T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "3b828f17-642d-412c-a15c-83d318b1923d",
+      "Name": "Joseph Kabaso",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 44.0,
+      "CreatedAt": "2025-05-28T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "38319128-4836-4571-9503-e788f32ac54d",
+      "Name": "Mopani Mines",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 85.0,
+      "CreatedAt": "2025-09-22T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "a6ff0e8c-9a2a-4b83-aac1-481b3eb3cf4d",
+      "Name": "James Tembo",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 30.0,
+      "CreatedAt": "2025-06-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "6728a3c0-c28a-429b-874d-6c0a631dd7ac",
+      "Name": "Sarah Mundia",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 91.0,
+      "CreatedAt": "2025-11-20T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "2687e95b-64de-4730-b865-bdc9bba4cf3a",
+      "Name": "Kafue Logistics",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 55.0,
+      "CreatedAt": "2026-01-30T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "44a77e69-7490-4492-9ec8-b38b881103f3",
+      "Name": "John Kabaso",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 58.0,
+      "CreatedAt": "2025-02-22T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "3c7157b6-67e0-4a32-ba87-d736ea49e5ba",
+      "Name": "Sarah Zulu",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 67.0,
+      "CreatedAt": "2025-02-22T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "d278a839-996a-48a4-8a5b-88f442dd819f",
+      "Name": "Mopani Mines",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 30.0,
+      "CreatedAt": "2025-02-08T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "684c2c1e-2800-49a4-b480-d7c78cfb2f78",
+      "Name": "Hope Mwamba",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 68.0,
+      "CreatedAt": "2025-12-23T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "91edeba0-afc0-4bd8-bb1b-2b64ff906f6e",
+      "Name": "Grace Mulenga",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 93.0,
+      "CreatedAt": "2026-04-07T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "a71f11fb-ff5c-4ebd-935a-8d7514ca55b8",
+      "Name": "Webby Chisenga",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 84.0,
+      "CreatedAt": "2026-04-01T00:00:00Z",
+      "Jurisdiction": "Zambia"
     }
   ],
   "Details": [

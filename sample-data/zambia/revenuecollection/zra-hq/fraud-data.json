@@ -1,0 +1,163 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Alerts": [
+    {
+      "Id": "932220cb-d313-48ac-9ead-2f9ddd85bd8b",
+      "AlertNumber": "FD-7821",
+      "EntityName": "Zesco",
+      "PatternType": "Structuring",
+      "FraudScore": 81,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.227270Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "34f69720-6103-4f23-bce9-300c532e1e9b",
+      "AlertNumber": "FD-2179",
+      "EntityName": "Zamtel",
+      "PatternType": "Structuring",
+      "FraudScore": 89,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.227317Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "9ccb79c3-2645-458b-b0ce-a0df36fbb548",
+      "AlertNumber": "FD-5227",
+      "EntityName": "Zesco",
+      "PatternType": "Structuring",
+      "FraudScore": 90,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.227337Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "1fcb44ae-ed70-47d2-a4ec-cf4f15daf2ce",
+      "AlertNumber": "FD-5724",
+      "EntityName": "Apex Road Contractors",
+      "PatternType": "Structuring",
+      "FraudScore": 67,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.227351Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "f4ff9ce4-452a-4f01-a306-83d8ce883477",
+      "AlertNumber": "FD-6325",
+      "EntityName": "Zambia Sugar",
+      "PatternType": "Structuring",
+      "FraudScore": 98,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.227365Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "da966a73-5d5b-4bba-9e1c-2e4765a664f6",
+      "AlertNumber": "FD-3566",
+      "EntityName": "Zambia Sugar",
+      "PatternType": "Structuring",
+      "FraudScore": 88,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.227378Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "a1298433-3871-4fec-b66d-09b5f5ebb322",
+      "AlertNumber": "FD-5867",
+      "EntityName": "Zamtel",
+      "PatternType": "Structuring",
+      "FraudScore": 69,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.227391Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "c630414e-3de8-4cea-9de0-377b22a37780",
+      "AlertNumber": "FD-6089",
+      "EntityName": "Victoria Falls Power",
+      "PatternType": "Structuring",
+      "FraudScore": 72,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.227403Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "fa6d62c7-5e3e-4238-902a-415d9aed0e48",
+      "AlertNumber": "FD-3894",
+      "EntityName": "Victoria Falls Power",
+      "PatternType": "Structuring",
+      "FraudScore": 77,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.227415Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    },
+    {
+      "Id": "18416486-9e0a-41b2-8a93-b93567f6c958",
+      "AlertNumber": "FD-6320",
+      "EntityName": "Victoria Falls Power",
+      "PatternType": "Structuring",
+      "FraudScore": 77,
+      "RiskLevel": "High",
+      "Status": "New",
+      "DetectedAt": "2026-05-08T11:14:39.227427Z",
+      "ModelVersion": "v1.2.0",
+      "DetectedPatterns": [
+        "High Frequency",
+        "Round Amounts"
+      ]
+    }
+  ],
+  "ActiveModel": {
+    "Name": "Neural Fraud Guard",
+    "Version": "2.1",
+    "Accuracy": 94.5,
+    "PrecisionScore": 92.1,
+    "RecallScore": 89.4,
+    "TrainingDate": "2026-04-25T11:14:39.227990Z"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Cases": [
+    {
+      "Id": "e166a002-3967-4a7d-a2cb-120cf592980d",
+      "CaseNumber": "ZPS-INV-441",
+      "Title": "Aggravated Robbery - Highway Syndicate",
+      "Description": "Armed attacks on commercial trucks near Katete.",
+      "Type": 3,
+      "Priority": 3,
+      "Status": 1,
+      "AssignedTo": "Joseph Banda",
+      "CreatedAt": "2026-04-14T08:31:08.448060Z",
+      "DueDate": "2026-05-27T08:31:08.448067Z"
+    },
+    {
+      "Id": "d9040f7f-6e2c-486f-a6fb-5c0cdd62088e",
+      "CaseNumber": "ZPS-INV-552",
+      "Title": "Illegal Firearm Trafficking",
+      "Description": "Interception of arms cache at Chirundu border.",
+      "Type": 3,
+      "Priority": 2,
+      "Status": 2,
+      "AssignedTo": "Emmanuel Phiri",
+      "CreatedAt": "2026-03-22T08:31:08.448082Z",
+      "DueDate": "2026-05-24T08:31:08.448089Z"
+    },
+    {
+      "Id": "c8d2c767-e6d5-4b34-8594-be3d61b13094",
+      "CaseNumber": "ZPS-INV-663",
+      "Title": "Cattle Rustling Network",
+      "Description": "Large-scale theft of livestock in Southern Province.",
+      "Type": 0,
+      "Priority": 1,
+      "Status": 0,
+      "AssignedTo": "John Smith",
+      "CreatedAt": "2026-04-20T08:31:08.448103Z",
+      "DueDate": "2026-05-29T08:31:08.448109Z"
+    },
+    {
+      "Id": "19d54922-27e7-418d-9b3c-4e99ae1d019f",
+      "CaseNumber": "ZPS-INV-774",
+      "Title": "Cyber Extortion - FinTech Users",
+      "Description": "Targeted phishing attacks on mobile money users.",
+      "Type": 0,
+      "Priority": 2,
+      "Status": 3,
+      "AssignedTo": "Mary Zulu",
+      "CreatedAt": "2026-04-22T08:31:08.448125Z",
+      "DueDate": "2026-05-17T08:31:08.448131Z"
+    },
+    {
+      "Id": "a06bf90e-3585-4c7c-bb73-3a5f57c52c30",
+      "CaseNumber": "ZPS-INV-885",
+      "Title": "Public Order - Illegal Assembly",
+      "Description": "Monitoring of unauthorized protest coordination.",
+      "Type": 4,
+      "Priority": 0,
+      "Status": 5,
+      "AssignedTo": "Grace Nkandu",
+      "CreatedAt": "2026-03-19T08:31:08.448145Z",
+      "DueDate": "2026-05-24T08:31:08.448152Z"
+    }
+  ],
+  "CaseDetails": {},
+  "Statistics": {
+    "ActiveCases": 5,
+    "HighPriorityCases": 3,
+    "OverdueCases": 2,
+    "ResolvedCasesThisMonth": 8,
+    "ActiveCasesGrowth": 6.6
+  }
+}

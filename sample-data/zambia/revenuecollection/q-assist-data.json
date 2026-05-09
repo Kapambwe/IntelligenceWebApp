@@ -1,0 +1,19 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "DashboardSuggestions": [
+    {
+      "Title": "High-Risk Importer Detected",
+      "Description": "Nakonde Border unit flagged undervaluations from Apex Road Contractors.",
+      "ActionUrl": "/entities",
+      "Type": 0
+    },
+    {
+      "Title": "Transfer Pricing Alert",
+      "Description": "Potential profit shifting detected in mining equipment imports.",
+      "ActionUrl": "/investigations",
+      "Type": 1
+    }
+  ],
+  "InvestigationSuggestions": {},
+  "EntitySuggestions": {}
+}

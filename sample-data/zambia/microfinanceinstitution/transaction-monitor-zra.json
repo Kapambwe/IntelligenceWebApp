@@ -800,6 +800,126 @@
       "TransactionId": "TX-DEP-20251239",
       "DetectedAt": "2026-01-05T17:30:30Z",
       "AlertType": "Anomaly"
+    },
+    {
+      "Id": "de9ca26a-57a5-4d92-827f-6cb99a31f18b",
+      "EntityName": "Zesco",
+      "Severity": "Critical",
+      "Description": "Ghost-borrower scheme identified in rural agricultural loan disbursement.",
+      "Timestamp": "2025-10-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "970e926b-c159-4ede-93d5-f740bea0a195",
+      "EntityName": "Zesco",
+      "Severity": "Medium",
+      "Description": "Rapid default on high-value equipment loans by Mukwa Engineering.",
+      "Timestamp": "2025-02-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "db9cb073-94b7-4b38-a377-ffe1667f3762",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Critical",
+      "Description": "Suspected circular lending pattern between related entities in Livingstone.",
+      "Timestamp": "2026-03-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "196849d0-ac00-467f-90e5-1401a30d412c",
+      "EntityName": "James Kabaso",
+      "Severity": "High",
+      "Description": "Multiple loan applications using shared contact details in Nakonde.",
+      "Timestamp": "2025-06-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "5f6599dc-b4e3-4103-ab95-4e6dae32e94a",
+      "EntityName": "Zamtel",
+      "Severity": "Critical",
+      "Description": "Internal collusion to bypass credit scoring for Choma retail sector.",
+      "Timestamp": "2025-11-24T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "adb5f98b-f55b-47a0-a61f-c867664dcac0",
+      "EntityName": "Joseph Lungu",
+      "Severity": "Critical",
+      "Description": "Suspected circular lending pattern between related entities in Luanshya.",
+      "Timestamp": "2025-03-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "ee18c022-8144-4240-a2ef-1050d1d368c0",
+      "EntityName": "Zesco",
+      "Severity": "Critical",
+      "Description": "Internal collusion to bypass credit scoring for Kasumbalesa retail sector.",
+      "Timestamp": "2026-03-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a0c3c6ee-9e8c-4ee9-b9fc-579c8b0a9d25",
+      "EntityName": "Mainza Tembo",
+      "Severity": "High",
+      "Description": "Rapid default on high-value equipment loans by Mopani Mines.",
+      "Timestamp": "2025-02-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e99628b7-954d-45f4-9ad8-c1fa3308cd30",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Suspected circular lending pattern between related entities in Kabwe.",
+      "Timestamp": "2025-03-13T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9ccc2a62-8297-4a93-9ca5-7ae92b078ca2",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Suspected circular lending pattern between related entities in Chingola.",
+      "Timestamp": "2025-06-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "0ce2774b-84f0-41e5-99f0-cd6ea12ec128",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Multiple loan applications using shared contact details in Chipata.",
+      "Timestamp": "2025-03-31T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "72bde895-0432-49ec-b83d-d06e02d2d9c7",
+      "EntityName": "Water for Life",
+      "Severity": "Medium",
+      "Description": "Ghost-borrower scheme identified in rural agricultural loan disbursement.",
+      "Timestamp": "2026-03-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7e6afde7-e405-4d17-8afe-2b359f2d6f4a",
+      "EntityName": "Joseph Sinkala",
+      "Severity": "Medium",
+      "Description": "Ghost-borrower scheme identified in rural agricultural loan disbursement.",
+      "Timestamp": "2025-05-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "cf99ba88-3e47-4a8c-a61d-623e7941f0c2",
+      "EntityName": "Zesco",
+      "Severity": "Medium",
+      "Description": "Multiple loan applications using shared contact details in Nakonde.",
+      "Timestamp": "2026-02-05T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "189c5d8a-f5ed-4d71-99f0-4beb61dd4f47",
+      "EntityName": "Chileshe Phiri",
+      "Severity": "High",
+      "Description": "Ghost-borrower scheme identified in rural agricultural loan disbursement.",
+      "Timestamp": "2025-04-17T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Rules": [

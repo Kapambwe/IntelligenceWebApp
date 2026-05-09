@@ -196,6 +196,366 @@
         "TrueNegatives": 134,
         "FalseNegatives": 23
       }
+    },
+    {
+      "Id": "060dd5d3-de78-424b-a74c-94d25af7150b",
+      "Name": "Graft Risk Model",
+      "Description": "Embezzlement of constituency development funds in Ndola.",
+      "Status": "active",
+      "CreatedAt": "2025-05-01T00:00:00Z",
+      "LastModifiedAt": "2026-01-08T17:30:30Z",
+      "Version": "1.8",
+      "Factors": [
+        {
+          "Id": "052f10aa-24d8-0b99-1ef0-009794fd3282",
+          "Name": "Bribery Indicator",
+          "Description": "Measures corruption risk across political figures",
+          "Category": "geographic",
+          "Weight": 0.11,
+          "MinValue": 0,
+          "MaxValue": 165,
+          "IsEnabled": true
+        },
+        {
+          "Id": "022a2001-1ebf-1d84-1308-00d48633b3ff",
+          "Name": "Corruption Indicator",
+          "Description": "Measures bribery risk across government departments",
+          "Category": "Behavioral",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 169,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00c55bd8-07d4-223a-0a4b-005a39118728",
+          "Name": "Abuse of office Indicator",
+          "Description": "Measures graft risk across public officials",
+          "Category": "Behavioral",
+          "Weight": 0.18,
+          "MinValue": 0,
+          "MaxValue": 109,
+          "IsEnabled": true
+        },
+        {
+          "Id": "051aab67-1778-1d43-081c-0061830721ef",
+          "Name": "Corruption Indicator",
+          "Description": "Measures corruption risk across government departments",
+          "Category": "financial",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 180,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0439446d-1ce8-1e14-0d9e-005405b6b4fc",
+          "Name": "Bribery Indicator",
+          "Description": "Measures illicit enrichment risk across public officials",
+          "Category": "Behavioral",
+          "Weight": 0.19,
+          "MinValue": 0,
+          "MaxValue": 142,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.89,
+        "Precision": 0.76,
+        "Recall": 0.8,
+        "F1Score": 0.88,
+        "TotalPredictions": 549,
+        "TruePositives": 265,
+        "FalsePositives": 21,
+        "TrueNegatives": 159,
+        "FalseNegatives": 40
+      }
+    },
+    {
+      "Id": "5a5976aa-66e5-4024-b921-7e1c9b65f17f",
+      "Name": "Abuse of office Risk Model",
+      "Description": "Suspicious deposits linked to unverified Kitwe road contract.",
+      "Status": "active",
+      "CreatedAt": "2025-09-19T00:00:00Z",
+      "LastModifiedAt": "2026-01-08T17:30:30Z",
+      "Version": "1.8",
+      "Factors": [
+        {
+          "Id": "052f10aa-24d8-0b99-1ef0-009794fd3282",
+          "Name": "Bribery Indicator",
+          "Description": "Measures corruption risk across political figures",
+          "Category": "geographic",
+          "Weight": 0.11,
+          "MinValue": 0,
+          "MaxValue": 165,
+          "IsEnabled": true
+        },
+        {
+          "Id": "022a2001-1ebf-1d84-1308-00d48633b3ff",
+          "Name": "Corruption Indicator",
+          "Description": "Measures bribery risk across government departments",
+          "Category": "Behavioral",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 169,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00c55bd8-07d4-223a-0a4b-005a39118728",
+          "Name": "Abuse of office Indicator",
+          "Description": "Measures graft risk across public officials",
+          "Category": "Behavioral",
+          "Weight": 0.18,
+          "MinValue": 0,
+          "MaxValue": 109,
+          "IsEnabled": true
+        },
+        {
+          "Id": "051aab67-1778-1d43-081c-0061830721ef",
+          "Name": "Corruption Indicator",
+          "Description": "Measures corruption risk across government departments",
+          "Category": "financial",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 180,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0439446d-1ce8-1e14-0d9e-005405b6b4fc",
+          "Name": "Bribery Indicator",
+          "Description": "Measures illicit enrichment risk across public officials",
+          "Category": "Behavioral",
+          "Weight": 0.19,
+          "MinValue": 0,
+          "MaxValue": 142,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.89,
+        "Precision": 0.76,
+        "Recall": 0.8,
+        "F1Score": 0.88,
+        "TotalPredictions": 549,
+        "TruePositives": 265,
+        "FalsePositives": 21,
+        "TrueNegatives": 159,
+        "FalseNegatives": 40
+      }
+    },
+    {
+      "Id": "0162dc18-6884-4d4e-b2b7-b214a9529b31",
+      "Name": "Graft Risk Model",
+      "Description": "Kickback payments traced to offshore account related to infrastructure tender.",
+      "Status": "active",
+      "CreatedAt": "2026-03-06T00:00:00Z",
+      "LastModifiedAt": "2026-01-08T17:30:30Z",
+      "Version": "1.8",
+      "Factors": [
+        {
+          "Id": "052f10aa-24d8-0b99-1ef0-009794fd3282",
+          "Name": "Bribery Indicator",
+          "Description": "Measures corruption risk across political figures",
+          "Category": "geographic",
+          "Weight": 0.11,
+          "MinValue": 0,
+          "MaxValue": 165,
+          "IsEnabled": true
+        },
+        {
+          "Id": "022a2001-1ebf-1d84-1308-00d48633b3ff",
+          "Name": "Corruption Indicator",
+          "Description": "Measures bribery risk across government departments",
+          "Category": "Behavioral",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 169,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00c55bd8-07d4-223a-0a4b-005a39118728",
+          "Name": "Abuse of office Indicator",
+          "Description": "Measures graft risk across public officials",
+          "Category": "Behavioral",
+          "Weight": 0.18,
+          "MinValue": 0,
+          "MaxValue": 109,
+          "IsEnabled": true
+        },
+        {
+          "Id": "051aab67-1778-1d43-081c-0061830721ef",
+          "Name": "Corruption Indicator",
+          "Description": "Measures corruption risk across government departments",
+          "Category": "financial",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 180,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0439446d-1ce8-1e14-0d9e-005405b6b4fc",
+          "Name": "Bribery Indicator",
+          "Description": "Measures illicit enrichment risk across public officials",
+          "Category": "Behavioral",
+          "Weight": 0.19,
+          "MinValue": 0,
+          "MaxValue": 142,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.89,
+        "Precision": 0.76,
+        "Recall": 0.8,
+        "F1Score": 0.88,
+        "TotalPredictions": 549,
+        "TruePositives": 265,
+        "FalsePositives": 21,
+        "TrueNegatives": 159,
+        "FalseNegatives": 40
+      }
+    },
+    {
+      "Id": "f7413a58-0bc0-487d-b353-b5e56401cee9",
+      "Name": "Abuse of office Risk Model",
+      "Description": "Multiple payments to shell companies associated with Ministry of Health procurement.",
+      "Status": "active",
+      "CreatedAt": "2026-01-30T00:00:00Z",
+      "LastModifiedAt": "2026-01-08T17:30:30Z",
+      "Version": "1.8",
+      "Factors": [
+        {
+          "Id": "052f10aa-24d8-0b99-1ef0-009794fd3282",
+          "Name": "Bribery Indicator",
+          "Description": "Measures corruption risk across political figures",
+          "Category": "geographic",
+          "Weight": 0.11,
+          "MinValue": 0,
+          "MaxValue": 165,
+          "IsEnabled": true
+        },
+        {
+          "Id": "022a2001-1ebf-1d84-1308-00d48633b3ff",
+          "Name": "Corruption Indicator",
+          "Description": "Measures bribery risk across government departments",
+          "Category": "Behavioral",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 169,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00c55bd8-07d4-223a-0a4b-005a39118728",
+          "Name": "Abuse of office Indicator",
+          "Description": "Measures graft risk across public officials",
+          "Category": "Behavioral",
+          "Weight": 0.18,
+          "MinValue": 0,
+          "MaxValue": 109,
+          "IsEnabled": true
+        },
+        {
+          "Id": "051aab67-1778-1d43-081c-0061830721ef",
+          "Name": "Corruption Indicator",
+          "Description": "Measures corruption risk across government departments",
+          "Category": "financial",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 180,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0439446d-1ce8-1e14-0d9e-005405b6b4fc",
+          "Name": "Bribery Indicator",
+          "Description": "Measures illicit enrichment risk across public officials",
+          "Category": "Behavioral",
+          "Weight": 0.19,
+          "MinValue": 0,
+          "MaxValue": 142,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.89,
+        "Precision": 0.76,
+        "Recall": 0.8,
+        "F1Score": 0.88,
+        "TotalPredictions": 549,
+        "TruePositives": 265,
+        "FalsePositives": 21,
+        "TrueNegatives": 159,
+        "FalseNegatives": 40
+      }
+    },
+    {
+      "Id": "087fee61-8468-4ba8-8e8d-757560e130e2",
+      "Name": "Graft Risk Model",
+      "Description": "Bribes paid to secure land allocation in Kitwe commercial zone.",
+      "Status": "active",
+      "CreatedAt": "2025-05-14T00:00:00Z",
+      "LastModifiedAt": "2026-01-08T17:30:30Z",
+      "Version": "1.8",
+      "Factors": [
+        {
+          "Id": "052f10aa-24d8-0b99-1ef0-009794fd3282",
+          "Name": "Bribery Indicator",
+          "Description": "Measures corruption risk across political figures",
+          "Category": "geographic",
+          "Weight": 0.11,
+          "MinValue": 0,
+          "MaxValue": 165,
+          "IsEnabled": true
+        },
+        {
+          "Id": "022a2001-1ebf-1d84-1308-00d48633b3ff",
+          "Name": "Corruption Indicator",
+          "Description": "Measures bribery risk across government departments",
+          "Category": "Behavioral",
+          "Weight": 0.37,
+          "MinValue": 0,
+          "MaxValue": 169,
+          "IsEnabled": true
+        },
+        {
+          "Id": "00c55bd8-07d4-223a-0a4b-005a39118728",
+          "Name": "Abuse of office Indicator",
+          "Description": "Measures graft risk across public officials",
+          "Category": "Behavioral",
+          "Weight": 0.18,
+          "MinValue": 0,
+          "MaxValue": 109,
+          "IsEnabled": true
+        },
+        {
+          "Id": "051aab67-1778-1d43-081c-0061830721ef",
+          "Name": "Corruption Indicator",
+          "Description": "Measures corruption risk across government departments",
+          "Category": "financial",
+          "Weight": 0.12,
+          "MinValue": 0,
+          "MaxValue": 180,
+          "IsEnabled": true
+        },
+        {
+          "Id": "0439446d-1ce8-1e14-0d9e-005405b6b4fc",
+          "Name": "Bribery Indicator",
+          "Description": "Measures illicit enrichment risk across public officials",
+          "Category": "Behavioral",
+          "Weight": 0.19,
+          "MinValue": 0,
+          "MaxValue": 142,
+          "IsEnabled": true
+        }
+      ],
+      "Metrics": {
+        "Accuracy": 0.89,
+        "Precision": 0.76,
+        "Recall": 0.8,
+        "F1Score": 0.88,
+        "TotalPredictions": 549,
+        "TruePositives": 265,
+        "FalsePositives": 21,
+        "TrueNegatives": 159,
+        "FalseNegatives": 40
+      }
     }
   ],
   "Statistics": {

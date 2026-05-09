@@ -800,6 +800,126 @@
       "TransactionId": "TX-WTH-20202228",
       "DetectedAt": "2026-01-06T17:30:30Z",
       "AlertType": "Threshold"
+    },
+    {
+      "Id": "fed3b2f4-71bd-4438-961b-10424e324aef",
+      "EntityName": "Joseph Zulu",
+      "Severity": "Medium",
+      "Description": "Suspicious large-value wire transfers to offshore high-risk jurisdictions.",
+      "Timestamp": "2025-08-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6457b2ee-57ad-4472-88af-0a03692a1186",
+      "EntityName": "Blessing Hichilema",
+      "Severity": "Critical",
+      "Description": "Loan application fraud involving ghost identities in Solwezi.",
+      "Timestamp": "2025-05-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a89dd30a-c4e4-4b2a-a089-6d47c3b0868e",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Unauthorized internal access to high-net-worth client data in Ndola.",
+      "Timestamp": "2026-01-05T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "575563b2-3fac-4636-8574-83e49e8a4bc6",
+      "EntityName": "Zamtel",
+      "Severity": "High",
+      "Description": "Unauthorized internal access to high-net-worth client data in Ndola.",
+      "Timestamp": "2026-02-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "22326f44-d82d-4e60-a041-be480cb9cb23",
+      "EntityName": "Martha Chanda",
+      "Severity": "Critical",
+      "Description": "Suspicious large-value wire transfers to offshore high-risk jurisdictions.",
+      "Timestamp": "2025-10-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2469ba5a-ebf6-4dc0-b24e-6f5fae618b60",
+      "EntityName": "Natwange Traders",
+      "Severity": "High",
+      "Description": "Loan application fraud involving ghost identities in Nakonde.",
+      "Timestamp": "2025-02-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7d0ac1df-f95c-4b04-9ffc-7d59ff2deac2",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Account takeover attempt detected at Indo-Zambia Bank Mansa branch.",
+      "Timestamp": "2026-04-25T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2b8180c2-291b-4e24-8d18-67a966cdfb90",
+      "EntityName": "Gift Tembo",
+      "Severity": "High",
+      "Description": "Loan application fraud involving ghost identities in Lusaka.",
+      "Timestamp": "2025-02-25T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1c56a3d1-5afe-4da1-8f55-7f9fc7edc935",
+      "EntityName": "Zesco",
+      "Severity": "Medium",
+      "Description": "Account takeover attempt detected at First Capital Chirundu branch.",
+      "Timestamp": "2025-01-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c78725b5-979d-4683-8af5-6d31affacccf",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Loan application fraud involving ghost identities in Chipata.",
+      "Timestamp": "2025-05-05T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2344f409-9508-414d-8f85-2c4d11d28714",
+      "EntityName": "Joseph Sinkala",
+      "Severity": "Medium",
+      "Description": "Suspicious large-value wire transfers to offshore high-risk jurisdictions.",
+      "Timestamp": "2025-11-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9718dd13-8338-4f1b-804e-1b49dd0a091c",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "High",
+      "Description": "Account takeover attempt detected at Investrust Mansa branch.",
+      "Timestamp": "2025-06-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7053fc2b-7f5a-4af5-bd1d-453f81ef1a76",
+      "EntityName": "Lombe Kabaso",
+      "Severity": "Medium",
+      "Description": "Multiple small-value cash deposits (smurfing) across Standard Chartered branches in Mongu.",
+      "Timestamp": "2025-02-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7791b175-df02-47db-9334-ac771b9b7b50",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "High",
+      "Description": "Unauthorized internal access to high-net-worth client data in Lusaka.",
+      "Timestamp": "2026-01-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "08953698-ee4e-45a8-b0fa-ade929670fd1",
+      "EntityName": "Davies Hichilema",
+      "Severity": "High",
+      "Description": "Unauthorized internal access to high-net-worth client data in Chirundu.",
+      "Timestamp": "2025-05-02T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Rules": [

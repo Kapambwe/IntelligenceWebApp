@@ -450,6 +450,141 @@
       "RiskScore": 92,
       "CreatedAt": "2025-07-30T17:30:30Z",
       "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "cd4423fa-7805-4017-98ff-1047e7caf8f7",
+      "Name": "Moses Kabaso",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 49.0,
+      "CreatedAt": "2025-11-03T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "7bf5a951-301e-4a31-ace3-554975469efc",
+      "Name": "Victoria Falls Power",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 19.0,
+      "CreatedAt": "2025-12-10T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "a91cb243-b1e9-453f-bc2d-a9a0e86d7aa5",
+      "Name": "Zambia Sugar",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 32.0,
+      "CreatedAt": "2026-04-10T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "5352bc08-852f-44ad-9786-b4dcb15f5c96",
+      "Name": "Peter Zulu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 20.0,
+      "CreatedAt": "2025-09-15T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "09772b34-a008-40b3-9017-cd1833ca0d8c",
+      "Name": "Apex Road Contractors",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 20.0,
+      "CreatedAt": "2025-10-31T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "b12f92d1-af7c-40f8-92ae-1dcab89ec83c",
+      "Name": "Natwange Traders",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 68.0,
+      "CreatedAt": "2025-01-04T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "34a3faa0-ce19-43bb-aa79-ec8d4b989ba8",
+      "Name": "Mainza Silavwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 71.0,
+      "CreatedAt": "2025-07-16T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "38f8b228-210b-4a91-8367-7bce1933f6dc",
+      "Name": "Zambia Sugar",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 58.0,
+      "CreatedAt": "2026-02-14T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "d13dd181-d28d-4c74-9cfc-10cf4475abf0",
+      "Name": "Victoria Falls Power",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 67.0,
+      "CreatedAt": "2025-05-05T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "3005a60c-579a-4b53-b476-242ec46ffba3",
+      "Name": "Grace Silavwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 34.0,
+      "CreatedAt": "2025-05-26T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "29b3bfee-a12a-49eb-952d-ff751516ff71",
+      "Name": "Zambia Sugar",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 87.0,
+      "CreatedAt": "2025-02-20T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "49f9231f-0eef-49e6-9111-ad7e6b770653",
+      "Name": "Victoria Falls Power",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 27.0,
+      "CreatedAt": "2026-04-30T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "2f68e509-af14-45b0-9d8a-aa3085b1a074",
+      "Name": "Hope Bwalya",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 63.0,
+      "CreatedAt": "2025-01-15T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "7620ec3f-b0cd-4c32-9665-de4b8c927d45",
+      "Name": "Mukwa Engineering",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 73.0,
+      "CreatedAt": "2026-01-17T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "8d9e075f-fbf7-432b-b996-9ab23f20683e",
+      "Name": "Gift Sinkala",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 54.0,
+      "CreatedAt": "2025-01-13T00:00:00Z",
+      "Jurisdiction": "Zambia"
     }
   ],
   "Details": [

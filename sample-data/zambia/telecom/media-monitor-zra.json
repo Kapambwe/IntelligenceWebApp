@@ -1494,6 +1494,126 @@
       "CreatedAt": "2026-01-06T17:30:31Z",
       "TriggeredAt": "2025-10-22T17:30:31Z",
       "IsAcknowledged": false
+    },
+    {
+      "Id": "c0143870-2ace-4765-a795-b9cb0315389a",
+      "EntityName": "James Mwanawasa",
+      "Severity": "Medium",
+      "Description": "Unusual signal jamming patterns near Chirundu financial district.",
+      "Timestamp": "2025-05-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "aab28878-cd1d-406e-8cf3-d2ed8ae4d197",
+      "EntityName": "Savanna Insurance",
+      "Severity": "High",
+      "Description": "SIM-swap syndicate detected operating in Kasama.",
+      "Timestamp": "2025-01-01T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "476c3b59-88be-4a3e-9fa1-90af89a18822",
+      "EntityName": "Kelvin Banda",
+      "Severity": "Medium",
+      "Description": "Unusual signal jamming patterns near Chirundu financial district.",
+      "Timestamp": "2025-09-09T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "bc2c817d-c153-4537-9a44-ae2d1c191816",
+      "EntityName": "Natwange Traders",
+      "Severity": "Critical",
+      "Description": "Fraudulent bulk registration of SIM cards using fake NRC IDs.",
+      "Timestamp": "2025-07-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "58e357c5-4194-4c15-a660-48f1b96f601e",
+      "EntityName": "John Kapwepwe",
+      "Severity": "High",
+      "Description": "SIM-swap syndicate detected operating in Mongu.",
+      "Timestamp": "2025-08-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e1088804-1c2c-4d70-b650-518589684ef8",
+      "EntityName": "Hope Kasolo",
+      "Severity": "Medium",
+      "Description": "Tower battery and fuel theft reported at Nakonde base station.",
+      "Timestamp": "2025-05-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d70d9645-47df-4aa8-af41-b66b9edb7d0f",
+      "EntityName": "Savanna Insurance",
+      "Severity": "Medium",
+      "Description": "High-volume unauthorized data access from internal Mufulira service account.",
+      "Timestamp": "2025-07-28T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9f8e7c47-4f88-4606-a60a-451a8c1c89b6",
+      "EntityName": "Mutale Phiri",
+      "Severity": "Medium",
+      "Description": "High-volume unauthorized data access from internal Nakonde service account.",
+      "Timestamp": "2026-02-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e9fadfeb-3715-441f-bd99-60d0910ba9f9",
+      "EntityName": "Zamtel",
+      "Severity": "Medium",
+      "Description": "Tower battery and fuel theft reported at Mufulira base station.",
+      "Timestamp": "2025-03-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2d993cd8-35f9-4296-98f9-e1b8184421eb",
+      "EntityName": "Hope Sinkala",
+      "Severity": "Critical",
+      "Description": "SIM-swap syndicate detected operating in Mongu.",
+      "Timestamp": "2025-09-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "0f478b08-f000-484b-b98d-afade1fcbb51",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Unusual signal jamming patterns near Solwezi financial district.",
+      "Timestamp": "2025-03-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "82051205-acd6-472c-9c27-36adac32850b",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Critical",
+      "Description": "Tower battery and fuel theft reported at Nakonde base station.",
+      "Timestamp": "2026-02-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "0031ac71-e2b6-40e2-aaa0-a2e643300356",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "High",
+      "Description": "SIM-swap syndicate detected operating in Chirundu.",
+      "Timestamp": "2026-01-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "87d60c6e-eb59-49a4-9fe1-80290cd7ad32",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Medium",
+      "Description": "Unusual signal jamming patterns near Mufulira financial district.",
+      "Timestamp": "2026-03-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "275d4f74-0071-4c62-8acb-a081a66c741d",
+      "EntityName": "AgriLoan Zambia",
+      "Severity": "Critical",
+      "Description": "Tower battery and fuel theft reported at Solwezi base station.",
+      "Timestamp": "2025-05-30T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Configs": [

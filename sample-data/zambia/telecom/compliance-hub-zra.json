@@ -454,6 +454,126 @@
       "Description": "Subscriber onboarding revealed network operations involving service users",
       "DetectedAt": "2025-11-12T17:30:31Z",
       "Status": "Resolved"
+    },
+    {
+      "Id": "504ce5e6-4064-4a8e-b84b-6524f5012dd8",
+      "EntityName": "Kelvin Banda",
+      "Severity": "Critical",
+      "Description": "Unusual signal jamming patterns near Solwezi financial district.",
+      "Timestamp": "2025-06-13T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "17b8a9b4-7346-429c-a986-6ce5affc066b",
+      "EntityName": "Kennedy Kasolo",
+      "Severity": "High",
+      "Description": "Unusual signal jamming patterns near Kasama financial district.",
+      "Timestamp": "2025-11-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "27845233-ea0b-4990-ae3d-3dd8a835eae4",
+      "EntityName": "Grace Kalaba",
+      "Severity": "Critical",
+      "Description": "Fraudulent bulk registration of SIM cards using fake NRC IDs.",
+      "Timestamp": "2025-09-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "5edc30f5-1314-4c65-8f47-b42214e68e49",
+      "EntityName": "Savanna Insurance",
+      "Severity": "Critical",
+      "Description": "Fraudulent bulk registration of SIM cards using fake NRC IDs.",
+      "Timestamp": "2026-04-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "08df9d50-3542-44fc-a206-d9794b2bdbb8",
+      "EntityName": "Mainza Kasolo",
+      "Severity": "Critical",
+      "Description": "SIM-swap syndicate detected operating in Chipata.",
+      "Timestamp": "2025-04-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "239a70a6-9876-4f42-8b69-ba5b3a9a3e6a",
+      "EntityName": "Levy Zulu",
+      "Severity": "Medium",
+      "Description": "High-volume unauthorized data access from internal Chirundu service account.",
+      "Timestamp": "2025-10-13T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2d2b5217-71c9-426a-b506-6e84a7a3549e",
+      "EntityName": "Zambia Sugar",
+      "Severity": "Medium",
+      "Description": "Fraudulent bulk registration of SIM cards using fake NRC IDs.",
+      "Timestamp": "2025-10-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "112f246c-9a6a-45f4-96e8-bf0dd52e2322",
+      "EntityName": "Moses Chisenga",
+      "Severity": "Critical",
+      "Description": "Tower battery and fuel theft reported at Chirundu base station.",
+      "Timestamp": "2025-12-05T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "09d6dbb2-3bd6-4fdf-a689-8be4644ef318",
+      "EntityName": "Zamtel",
+      "Severity": "High",
+      "Description": "Tower battery and fuel theft reported at Nakonde base station.",
+      "Timestamp": "2025-04-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "bdffffe0-d940-49df-a262-64ee2ad571ff",
+      "EntityName": "Levy Silavwe",
+      "Severity": "Medium",
+      "Description": "Unusual signal jamming patterns near Choma financial district.",
+      "Timestamp": "2025-06-12T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "675ca822-8690-4199-aaf3-28dc8ec7af7c",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "High",
+      "Description": "Fraudulent bulk registration of SIM cards using fake NRC IDs.",
+      "Timestamp": "2025-11-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "120dd04d-c3fe-4dd9-aa15-666169afbc61",
+      "EntityName": "John Mwamba",
+      "Severity": "Critical",
+      "Description": "Unusual signal jamming patterns near Nakonde financial district.",
+      "Timestamp": "2025-12-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "efcaa9eb-9012-47c5-8356-95092ef45a9a",
+      "EntityName": "Zambia Sugar",
+      "Severity": "High",
+      "Description": "High-volume unauthorized data access from internal Chingola service account.",
+      "Timestamp": "2025-11-25T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f5c34b6f-3e0b-4960-8173-d4c934e0f2d9",
+      "EntityName": "Mutale Mundia",
+      "Severity": "Critical",
+      "Description": "Unusual signal jamming patterns near Luanshya financial district.",
+      "Timestamp": "2025-11-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a2570811-77c9-4df0-9c51-dacafa82b8b2",
+      "EntityName": "Hope Mwanawasa",
+      "Severity": "Critical",
+      "Description": "Fraudulent bulk registration of SIM cards using fake NRC IDs.",
+      "Timestamp": "2025-06-03T00:00:00Z",
+      "Status": "New"
     }
   ],
   "RiskTrends": [

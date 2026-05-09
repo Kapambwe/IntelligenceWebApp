@@ -454,6 +454,126 @@
       "Description": "Project monitoring revealed development projects involving donors",
       "DetectedAt": "2025-12-15T17:30:30Z",
       "Status": "Pending"
+    },
+    {
+      "Id": "5885ac99-18fb-48c1-88b7-1e1ed63a61e5",
+      "EntityName": "Patricia Chisenga",
+      "Severity": "High",
+      "Description": "Diversion of grant funds intended for borehole projects in Kasumbalesa.",
+      "Timestamp": "2025-04-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8495c816-85f5-4a7b-8c5f-7a6df3f3d419",
+      "EntityName": "Webby Sinkala",
+      "Severity": "Medium",
+      "Description": "Unauthorized cash withdrawals from project operational accounts.",
+      "Timestamp": "2026-05-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c6903d68-0729-47e1-a1e9-cf8a2a3fc9d4",
+      "EntityName": "James Phiri",
+      "Severity": "Critical",
+      "Description": "Unauthorized cash withdrawals from project operational accounts.",
+      "Timestamp": "2025-03-25T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1bc794f1-4c5d-46dc-bcd4-c36fcc0d06ee",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "Critical",
+      "Description": "Diversion of grant funds intended for borehole projects in Choma.",
+      "Timestamp": "2025-10-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d2a6e38c-726d-43b8-aba6-523527b5055f",
+      "EntityName": "Kennedy Kalaba",
+      "Severity": "High",
+      "Description": "Conflict of interest in tender award to Victoria Falls Power by project coordinator.",
+      "Timestamp": "2025-05-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "bfc2da46-acd1-4ae4-b696-70a0fa1273a7",
+      "EntityName": "Martha Sata",
+      "Severity": "High",
+      "Description": "Ghost beneficiaries detected in Lusaka community health program.",
+      "Timestamp": "2026-01-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6594d3c0-d5e7-4aeb-8469-0902e605eac5",
+      "EntityName": "Kennedy Zulu",
+      "Severity": "Critical",
+      "Description": "Procurement fraud involving inflated invoices from Zesco.",
+      "Timestamp": "2026-02-09T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "75a3f87a-03f2-427e-82c7-44c6d2820f4d",
+      "EntityName": "Zamtel",
+      "Severity": "Medium",
+      "Description": "Ghost beneficiaries detected in Solwezi community health program.",
+      "Timestamp": "2025-10-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2d5f9593-2cdf-457a-a316-80ccddd3cb11",
+      "EntityName": "Blessing Tembo",
+      "Severity": "Medium",
+      "Description": "Diversion of grant funds intended for borehole projects in Nakonde.",
+      "Timestamp": "2025-07-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a75ace8b-c886-47ff-9345-def8ced956fa",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Medium",
+      "Description": "Conflict of interest in tender award to Mukwa Engineering by project coordinator.",
+      "Timestamp": "2025-04-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "cc96cc99-96b2-4816-b114-50ff792cb110",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Ghost beneficiaries detected in Mansa community health program.",
+      "Timestamp": "2026-02-28T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "15483e87-93d8-435e-8de5-4a95c9b8c267",
+      "EntityName": "AgriLoan Zambia",
+      "Severity": "Critical",
+      "Description": "Procurement fraud involving inflated invoices from Natwange Traders.",
+      "Timestamp": "2025-05-24T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "05bebe53-8c9b-46b5-b53b-5411776e4adc",
+      "EntityName": "Zesco",
+      "Severity": "Medium",
+      "Description": "Diversion of grant funds intended for borehole projects in Kabwe.",
+      "Timestamp": "2025-11-06T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1ca8ef3a-a291-43a4-862f-5902f10cb6d3",
+      "EntityName": "Zamtel",
+      "Severity": "High",
+      "Description": "Diversion of grant funds intended for borehole projects in Ndola.",
+      "Timestamp": "2025-09-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "cc530c27-c91c-42f8-b92b-e1dac0a7a373",
+      "EntityName": "Joseph Kasolo",
+      "Severity": "High",
+      "Description": "Diversion of grant funds intended for borehole projects in Chirundu.",
+      "Timestamp": "2026-03-19T00:00:00Z",
+      "Status": "New"
     }
   ],
   "RiskTrends": [

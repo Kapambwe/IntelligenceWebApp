@@ -90,6 +90,141 @@
       "RiskScore": 14.6,
       "CreatedAt": "2025-03-28T08:15:00Z",
       "UpdatedAt": "2026-02-01T09:20:00Z"
+    },
+    {
+      "Id": "4eb11c98-fba0-492d-b376-ed122dfce7cd",
+      "Name": "Natwange Traders",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 40.0,
+      "CreatedAt": "2026-01-03T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "62be7f97-0c39-4ab6-8e75-2ca3655c4ebf",
+      "Name": "Zambia Sugar",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 66.0,
+      "CreatedAt": "2026-01-31T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "1fd05551-4b12-4fbe-9bb5-8f58484baa2c",
+      "Name": "Zesco",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 98.0,
+      "CreatedAt": "2025-01-03T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "3ef1f5bf-9606-48a4-87e8-9c31028da143",
+      "Name": "Catherine Tembo",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 37.0,
+      "CreatedAt": "2025-04-26T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "b03f2e43-a0f6-4674-9b1d-d75bef83b5d2",
+      "Name": "Joseph Mumba",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 45.0,
+      "CreatedAt": "2025-08-18T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "44c618a6-e03c-4cd6-b99b-bbfec0cd8761",
+      "Name": "Apex Road Contractors",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 74.0,
+      "CreatedAt": "2025-04-30T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "1a0d3550-e4d3-4e32-98c4-b49cc4e8a11c",
+      "Name": "Kennedy Mwanawasa",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 69.0,
+      "CreatedAt": "2025-04-21T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "8abc5629-736c-4d38-ad79-82ac148dc874",
+      "Name": "Kennedy Nyirenda",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 93.0,
+      "CreatedAt": "2025-03-17T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "be5cbca7-942c-4e0e-9e99-d5c8eb7e5713",
+      "Name": "Zamtel",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 96.0,
+      "CreatedAt": "2026-03-26T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "3429afda-32b4-4155-8f5f-8d241191422d",
+      "Name": "Zamtel",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 98.0,
+      "CreatedAt": "2026-01-19T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "0f18033c-0c63-447a-9207-3bd77b109e33",
+      "Name": "Zamtel",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 49.0,
+      "CreatedAt": "2025-01-06T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "221a86f1-c313-4c99-91a4-972d70193101",
+      "Name": "Emmanuel Nyirenda",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 19.0,
+      "CreatedAt": "2025-04-10T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "ec4fde72-09a4-4841-9802-2a01966af751",
+      "Name": "Mukwa Engineering",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 56.0,
+      "CreatedAt": "2025-08-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "525f548f-3b6e-4780-a42a-cae9b9f1ab47",
+      "Name": "Kafue Logistics",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 85.0,
+      "CreatedAt": "2025-01-29T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "114aac61-c104-4b64-82ea-1111f013ad93",
+      "Name": "Zamtel",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 44.0,
+      "CreatedAt": "2026-02-08T00:00:00Z",
+      "Jurisdiction": "Zambia"
     }
   ],
   "Details": [
@@ -114,12 +249,36 @@
         }
       ],
       "Attributes": [
-        { "Name": "Full Name", "Value": "Mulemba Chilufya", "IsCore": true },
-        { "Name": "Position", "Value": "Senior Investigative Reporter", "IsCore": true },
-        { "Name": "Employer", "Value": "News Diggers", "IsCore": true },
-        { "Name": "Press Card Number", "Value": "ZAMEC-2024-1187", "IsCore": false },
-        { "Name": "Email", "Value": "m.chilufya@newsdiggers.co.zm", "IsCore": false },
-        { "Name": "Beat", "Value": "Financial Crime and Public Procurement", "IsCore": false }
+        {
+          "Name": "Full Name",
+          "Value": "Mulemba Chilufya",
+          "IsCore": true
+        },
+        {
+          "Name": "Position",
+          "Value": "Senior Investigative Reporter",
+          "IsCore": true
+        },
+        {
+          "Name": "Employer",
+          "Value": "News Diggers",
+          "IsCore": true
+        },
+        {
+          "Name": "Press Card Number",
+          "Value": "ZAMEC-2024-1187",
+          "IsCore": false
+        },
+        {
+          "Name": "Email",
+          "Value": "m.chilufya@newsdiggers.co.zm",
+          "IsCore": false
+        },
+        {
+          "Name": "Beat",
+          "Value": "Financial Crime and Public Procurement",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -152,11 +311,31 @@
         }
       ],
       "Attributes": [
-        { "Name": "Organization Name", "Value": "News Diggers Investigative Unit", "IsCore": true },
-        { "Name": "Registration Number", "Value": "PACRA-2018-ND-4421", "IsCore": true },
-        { "Name": "Address", "Value": "Plot 1286, Addis Ababa Drive, Lusaka", "IsCore": true },
-        { "Name": "Circulation", "Value": "45,000 print copies daily", "IsCore": false },
-        { "Name": "Editor-in-Chief", "Value": "Joseph Mwenda", "IsCore": false }
+        {
+          "Name": "Organization Name",
+          "Value": "News Diggers Investigative Unit",
+          "IsCore": true
+        },
+        {
+          "Name": "Registration Number",
+          "Value": "PACRA-2018-ND-4421",
+          "IsCore": true
+        },
+        {
+          "Name": "Address",
+          "Value": "Plot 1286, Addis Ababa Drive, Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Circulation",
+          "Value": "45,000 print copies daily",
+          "IsCore": false
+        },
+        {
+          "Name": "Editor-in-Chief",
+          "Value": "Joseph Mwenda",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -193,10 +372,26 @@
         }
       ],
       "Attributes": [
-        { "Name": "Full Name", "Value": "Bwalya Mwamba", "IsCore": true },
-        { "Name": "Position", "Value": "Former Permanent Secretary, Ministry of Lands", "IsCore": true },
-        { "Name": "NRC Number", "Value": "112234/56/1", "IsCore": true },
-        { "Name": "Investigation Code", "Value": "ND-INV-2025-012", "IsCore": false }
+        {
+          "Name": "Full Name",
+          "Value": "Bwalya Mwamba",
+          "IsCore": true
+        },
+        {
+          "Name": "Position",
+          "Value": "Former Permanent Secretary, Ministry of Lands",
+          "IsCore": true
+        },
+        {
+          "Name": "NRC Number",
+          "Value": "112234/56/1",
+          "IsCore": true
+        },
+        {
+          "Name": "Investigation Code",
+          "Value": "ND-INV-2025-012",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -229,10 +424,26 @@
         }
       ],
       "Attributes": [
-        { "Name": "Organization Name", "Value": "The Mast Print Investigations Team", "IsCore": true },
-        { "Name": "Parent Publication", "Value": "The Mast Newspaper", "IsCore": true },
-        { "Name": "Address", "Value": "Plot 4926, Bwinjimfumu Road, Rhodes Park, Lusaka", "IsCore": true },
-        { "Name": "Print Circulation", "Value": "28,000 copies daily", "IsCore": false }
+        {
+          "Name": "Organization Name",
+          "Value": "The Mast Print Investigations Team",
+          "IsCore": true
+        },
+        {
+          "Name": "Parent Publication",
+          "Value": "The Mast Newspaper",
+          "IsCore": true
+        },
+        {
+          "Name": "Address",
+          "Value": "Plot 4926, Bwinjimfumu Road, Rhodes Park, Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Print Circulation",
+          "Value": "28,000 copies daily",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -269,10 +480,26 @@
         }
       ],
       "Attributes": [
-        { "Name": "Full Name", "Value": "Chanda Kasonde", "IsCore": true },
-        { "Name": "Occupation", "Value": "Business Executive and Political Donor", "IsCore": true },
-        { "Name": "NRC Number", "Value": "334587/12/1", "IsCore": true },
-        { "Name": "Investigation Status", "Value": "Active - Multi-newspaper collaboration", "IsCore": false }
+        {
+          "Name": "Full Name",
+          "Value": "Chanda Kasonde",
+          "IsCore": true
+        },
+        {
+          "Name": "Occupation",
+          "Value": "Business Executive and Political Donor",
+          "IsCore": true
+        },
+        {
+          "Name": "NRC Number",
+          "Value": "334587/12/1",
+          "IsCore": true
+        },
+        {
+          "Name": "Investigation Status",
+          "Value": "Active - Multi-newspaper collaboration",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -311,10 +538,26 @@
         }
       ],
       "Attributes": [
-        { "Name": "Organization Name", "Value": "Zambia Media Legal Defence Foundation", "IsCore": true },
-        { "Name": "Registration Number", "Value": "PACRA-NGO-2019-0782", "IsCore": true },
-        { "Name": "Address", "Value": "Stand 2374, Nationalist Road, Lusaka", "IsCore": true },
-        { "Name": "Mission", "Value": "Legal defence and source protection for print journalists", "IsCore": false }
+        {
+          "Name": "Organization Name",
+          "Value": "Zambia Media Legal Defence Foundation",
+          "IsCore": true
+        },
+        {
+          "Name": "Registration Number",
+          "Value": "PACRA-NGO-2019-0782",
+          "IsCore": true
+        },
+        {
+          "Name": "Address",
+          "Value": "Stand 2374, Nationalist Road, Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Mission",
+          "Value": "Legal defence and source protection for print journalists",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -346,10 +589,26 @@
         }
       ],
       "Attributes": [
-        { "Name": "Alias", "Value": "ZDM-2025-047", "IsCore": true },
-        { "Name": "Source Type", "Value": "Anonymous Whistleblower", "IsCore": true },
-        { "Name": "Handling Editor", "Value": "investigations@dailymail.co.zm", "IsCore": false },
-        { "Name": "Document Count", "Value": "34 pages of procurement records", "IsCore": false }
+        {
+          "Name": "Alias",
+          "Value": "ZDM-2025-047",
+          "IsCore": true
+        },
+        {
+          "Name": "Source Type",
+          "Value": "Anonymous Whistleblower",
+          "IsCore": true
+        },
+        {
+          "Name": "Handling Editor",
+          "Value": "investigations@dailymail.co.zm",
+          "IsCore": false
+        },
+        {
+          "Name": "Document Count",
+          "Value": "34 pages of procurement records",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -376,10 +635,26 @@
         }
       ],
       "Attributes": [
-        { "Name": "Organization Name", "Value": "Zambia Daily Mail Archive Research Division", "IsCore": true },
-        { "Name": "Parent Publication", "Value": "Zambia Daily Mail", "IsCore": true },
-        { "Name": "Address", "Value": "Nasser Road, P.O. Box 31421, Lusaka", "IsCore": true },
-        { "Name": "Archive Holdings", "Value": "Print editions dating to 1960, microfilm archive", "IsCore": false }
+        {
+          "Name": "Organization Name",
+          "Value": "Zambia Daily Mail Archive Research Division",
+          "IsCore": true
+        },
+        {
+          "Name": "Parent Publication",
+          "Value": "Zambia Daily Mail",
+          "IsCore": true
+        },
+        {
+          "Name": "Address",
+          "Value": "Nasser Road, P.O. Box 31421, Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Archive Holdings",
+          "Value": "Print editions dating to 1960, microfilm archive",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -406,10 +681,26 @@
         }
       ],
       "Attributes": [
-        { "Name": "Full Name", "Value": "Patrick Mwanawasa III", "IsCore": true },
-        { "Name": "Occupation", "Value": "Private Sector Consultant", "IsCore": true },
-        { "Name": "NRC Number", "Value": "445123/78/1", "IsCore": true },
-        { "Name": "Clearance Reference", "Value": "TM-CLR-2025-089", "IsCore": false }
+        {
+          "Name": "Full Name",
+          "Value": "Patrick Mwanawasa III",
+          "IsCore": true
+        },
+        {
+          "Name": "Occupation",
+          "Value": "Private Sector Consultant",
+          "IsCore": true
+        },
+        {
+          "Name": "NRC Number",
+          "Value": "445123/78/1",
+          "IsCore": true
+        },
+        {
+          "Name": "Clearance Reference",
+          "Value": "TM-CLR-2025-089",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {
@@ -442,10 +733,26 @@
         }
       ],
       "Attributes": [
-        { "Name": "Organization Name", "Value": "Times of Zambia FOIA Compliance Desk", "IsCore": true },
-        { "Name": "Parent Publication", "Value": "Times of Zambia", "IsCore": true },
-        { "Name": "Address", "Value": "Lumumba Road, P.O. Box 30394, Lusaka", "IsCore": true },
-        { "Name": "Active FOIA Requests", "Value": "23 pending requests across 8 ministries", "IsCore": false }
+        {
+          "Name": "Organization Name",
+          "Value": "Times of Zambia FOIA Compliance Desk",
+          "IsCore": true
+        },
+        {
+          "Name": "Parent Publication",
+          "Value": "Times of Zambia",
+          "IsCore": true
+        },
+        {
+          "Name": "Address",
+          "Value": "Lumumba Road, P.O. Box 30394, Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Active FOIA Requests",
+          "Value": "23 pending requests across 8 ministries",
+          "IsCore": false
+        }
       ],
       "ScreeningResults": [
         {

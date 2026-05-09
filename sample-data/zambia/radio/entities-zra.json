@@ -450,6 +450,141 @@
       "RiskScore": 45,
       "CreatedAt": "2025-05-24T17:30:31Z",
       "UpdatedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "c383187d-ec7e-4bad-9c1e-5301b6d451b4",
+      "Name": "Mukwa Engineering",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 33.0,
+      "CreatedAt": "2025-08-08T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "375cb1a5-51e5-437b-83b1-4e901326789c",
+      "Name": "Zamtel",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 29.0,
+      "CreatedAt": "2025-05-09T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "19b27cd0-b246-4ead-9443-4196899235cd",
+      "Name": "Zesco",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 44.0,
+      "CreatedAt": "2025-06-05T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "92388d1d-6f84-471e-99f6-d8ec8ff1a9d6",
+      "Name": "Victoria Falls Power",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 29.0,
+      "CreatedAt": "2026-04-05T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "9d4560fa-d42a-4c78-bae8-ebaead56113c",
+      "Name": "Joseph Zulu",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 31.0,
+      "CreatedAt": "2026-03-19T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "b5dbe6b6-773b-47c3-b5aa-9f4ee18523f3",
+      "Name": "Zesco",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 81.0,
+      "CreatedAt": "2025-01-01T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "efc411a8-7177-4f7e-a94b-709e516d0578",
+      "Name": "Kennedy Mwanawasa",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 30.0,
+      "CreatedAt": "2025-08-14T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "6051e925-97de-4e6b-b530-b76e3cf8df6f",
+      "Name": "Victoria Falls Power",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 55.0,
+      "CreatedAt": "2026-01-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "88bb3e68-023b-4644-9089-5c7d46752f13",
+      "Name": "Apex Road Contractors",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 70.0,
+      "CreatedAt": "2025-07-24T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "68c7906e-b0a3-4fe7-8bb3-6f05f2df437a",
+      "Name": "Zamtel",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 49.0,
+      "CreatedAt": "2025-01-01T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "7feeb120-2231-4f2f-bb4d-2e607c033250",
+      "Name": "Kennedy Kalaba",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 97.0,
+      "CreatedAt": "2025-11-05T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "7aeabbb9-b0e2-4210-bf01-6ceb90a99730",
+      "Name": "Mopani Mines",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 80.0,
+      "CreatedAt": "2025-03-20T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "a23f1f35-8e59-410f-946c-2e0f3d9133bb",
+      "Name": "Kelvin Silavwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 54.0,
+      "CreatedAt": "2025-05-17T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "1708003d-461c-44dc-94d8-1016c8dbd256",
+      "Name": "Blessing Silavwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 82.0,
+      "CreatedAt": "2026-03-11T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "f999b707-60b5-4c18-962a-e5fbcbf1de0b",
+      "Name": "Zambia Sugar",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 64.0,
+      "CreatedAt": "2026-02-15T00:00:00Z",
+      "Jurisdiction": "Zambia"
     }
   ],
   "Details": [

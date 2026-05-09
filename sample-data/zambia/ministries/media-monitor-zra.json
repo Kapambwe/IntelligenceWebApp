@@ -1482,6 +1482,126 @@
       "CreatedAt": "2025-11-24T17:30:31Z",
       "TriggeredAt": "2025-11-02T17:30:31Z",
       "IsAcknowledged": false
+    },
+    {
+      "Id": "428cda9f-370b-4a9d-bff9-de3fd9df93fa",
+      "EntityName": "Sarah Tembo",
+      "Severity": "Critical",
+      "Description": "Procurement cycle bypass for Chirundu infrastructure project.",
+      "Timestamp": "2026-05-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2fa9782f-539c-46b7-ae57-de803f3941a6",
+      "EntityName": "Joseph Hichilema",
+      "Severity": "Medium",
+      "Description": "Double-dipping in teacher allowance system in Chirundu.",
+      "Timestamp": "2025-01-25T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e6f1c496-2ba6-4324-8c9b-a7cbfde090df",
+      "EntityName": "Davies Mulenga",
+      "Severity": "Medium",
+      "Description": "Procurement cycle bypass for Sesheke infrastructure project.",
+      "Timestamp": "2026-04-16T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "fb3cb59c-8572-4ba0-9583-68de8a036e45",
+      "EntityName": "Mary Mulenga",
+      "Severity": "High",
+      "Description": "Ghost worker payroll detection in Lusaka district office.",
+      "Timestamp": "2025-05-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "38890df3-36ae-42b1-83d6-69ae7a773428",
+      "EntityName": "Catherine Kasolo",
+      "Severity": "High",
+      "Description": "Unauthorized amendment of land titles in Kabwe registry.",
+      "Timestamp": "2025-06-18T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "80086a97-675f-4eea-9299-c6f95ca17529",
+      "EntityName": "Grace Mwanawasa",
+      "Severity": "High",
+      "Description": "Ghost worker payroll detection in Luanshya district office.",
+      "Timestamp": "2025-05-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8d3cac52-99e5-444c-b1c7-230d374e00d8",
+      "EntityName": "Zambia Sugar",
+      "Severity": "Critical",
+      "Description": "Ghost worker payroll detection in Ndola district office.",
+      "Timestamp": "2026-03-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6706c050-af4b-48a2-9c92-e4f1ef2da145",
+      "EntityName": "Mutale Tembo",
+      "Severity": "Medium",
+      "Description": "Double-dipping in teacher allowance system in Luanshya.",
+      "Timestamp": "2025-12-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "ee6bcfff-7950-4285-b7f7-b319b4b66e84",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Medium",
+      "Description": "Ghost worker payroll detection in Choma district office.",
+      "Timestamp": "2025-06-05T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f64b179d-c345-4947-b5da-82b668f26c04",
+      "EntityName": "Natwange Traders",
+      "Severity": "Critical",
+      "Description": "Ghost worker payroll detection in Kabwe district office.",
+      "Timestamp": "2025-07-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6744f0d5-d736-45d4-8322-ca64238f27e4",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Double-dipping in teacher allowance system in Kitwe.",
+      "Timestamp": "2025-09-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "01597948-1981-4473-b7a1-e775765ca34b",
+      "EntityName": "Blessing Nyirenda",
+      "Severity": "Medium",
+      "Description": "Ghost worker payroll detection in Kasumbalesa district office.",
+      "Timestamp": "2025-10-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a41cfda4-9bad-47be-a7a0-4af738b3b602",
+      "EntityName": "Natwange Traders",
+      "Severity": "High",
+      "Description": "Double-dipping in teacher allowance system in Kabwe.",
+      "Timestamp": "2025-06-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c7c36f50-9a2c-4bf6-9ca8-50fec71ff5c4",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Critical",
+      "Description": "Suspicious tender award to Victoria Falls Power with unverified credentials.",
+      "Timestamp": "2025-07-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "0818b6da-d100-4831-a992-9cb79e74b63f",
+      "EntityName": "Chileshe Mundia",
+      "Severity": "Medium",
+      "Description": "Procurement cycle bypass for Livingstone infrastructure project.",
+      "Timestamp": "2025-08-02T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Configs": [

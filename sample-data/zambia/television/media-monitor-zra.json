@@ -1434,6 +1434,126 @@
       "CreatedAt": "2026-01-01T17:30:31Z",
       "TriggeredAt": "2025-11-08T17:30:31Z",
       "IsAcknowledged": false
+    },
+    {
+      "Id": "3067f649-a2bb-48aa-bad7-388dbdacc02b",
+      "EntityName": "Mopani Mines",
+      "Severity": "Medium",
+      "Description": "Intercepted illegal broadcast signal originating from Mufulira.",
+      "Timestamp": "2026-01-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8bd657b1-9f4d-464d-bf3f-f0dc72b935c1",
+      "EntityName": "Mopani Mines",
+      "Severity": "Medium",
+      "Description": "Sentiment analysis of live debate regarding Solwezi mining policy.",
+      "Timestamp": "2026-01-05T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "0dac77c6-225e-488d-a303-7944aaf1765e",
+      "EntityName": "Hope Chanda",
+      "Severity": "Medium",
+      "Description": "Security breach at Mufulira broadcasting studios.",
+      "Timestamp": "2026-01-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "421337b3-7e73-4a27-98ec-df0914572c44",
+      "EntityName": "Natwange Traders",
+      "Severity": "Critical",
+      "Description": "Intercepted illegal broadcast signal originating from Mufulira.",
+      "Timestamp": "2026-02-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "5e7e18f3-2362-4b5d-9f23-8de90b41321f",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Critical",
+      "Description": "Asset theft from mobile production unit in Kasumbalesa.",
+      "Timestamp": "2025-12-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f15a60c5-04fc-425b-a3d8-2cc2d14bc505",
+      "EntityName": "Emmanuel Tembo",
+      "Severity": "Critical",
+      "Description": "Security breach at Kasama broadcasting studios.",
+      "Timestamp": "2026-01-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7b2bd23a-03a6-4708-b27d-d19d683650b7",
+      "EntityName": "Kafue Logistics",
+      "Severity": "High",
+      "Description": "Intercepted illegal broadcast signal originating from Nakonde.",
+      "Timestamp": "2025-04-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "0fc83fe7-cbb1-4458-a6f1-3e4b36591cce",
+      "EntityName": "Moses Banda",
+      "Severity": "High",
+      "Description": "Security breach at Livingstone broadcasting studios.",
+      "Timestamp": "2026-01-16T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2c3e4c12-ae39-4668-a26f-7805ea39c6bf",
+      "EntityName": "Mopani Mines",
+      "Severity": "High",
+      "Description": "Intercepted illegal broadcast signal originating from Solwezi.",
+      "Timestamp": "2025-07-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "421c5499-5087-478e-9e30-a426c1ca958a",
+      "EntityName": "Moses Silavwe",
+      "Severity": "Critical",
+      "Description": "Asset theft from mobile production unit in Mufulira.",
+      "Timestamp": "2025-11-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d8b17631-54cc-4e38-a4b8-bccadd64354f",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Medium",
+      "Description": "Security breach at Chirundu broadcasting studios.",
+      "Timestamp": "2025-05-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "99902d90-4535-43ff-adbb-bd5f8ab507e5",
+      "EntityName": "Levy Kunda",
+      "Severity": "Medium",
+      "Description": "Deep-fake video detection targeting Kasama public officials.",
+      "Timestamp": "2025-12-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "cc6b2f31-3c1c-464f-a6c4-63b93888ecf7",
+      "EntityName": "Mutale Tembo",
+      "Severity": "Critical",
+      "Description": "Sentiment analysis of live debate regarding Sesheke mining policy.",
+      "Timestamp": "2025-11-27T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "218f6920-9bf2-42fb-bb94-b95f5a7669f9",
+      "EntityName": "Mopani Mines",
+      "Severity": "Medium",
+      "Description": "Security breach at Livingstone broadcasting studios.",
+      "Timestamp": "2025-09-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "b26aba5b-79a0-44e5-858b-22ff11d46780",
+      "EntityName": "Blessing Nyirenda",
+      "Severity": "Critical",
+      "Description": "Security breach at Lusaka broadcasting studios.",
+      "Timestamp": "2025-03-26T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Configs": [

@@ -1470,6 +1470,126 @@
       "CreatedAt": "2025-11-21T17:30:30Z",
       "TriggeredAt": "2025-10-21T17:30:30Z",
       "IsAcknowledged": true
+    },
+    {
+      "Id": "32f7fafe-4bc8-478d-86e9-1992bdd48df3",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Medium",
+      "Description": "Counter-espionage lead involving foreign actors in Kasumbalesa.",
+      "Timestamp": "2025-06-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "53225c57-7d95-4869-964b-3cd42aedd79a",
+      "EntityName": "Zamtel",
+      "Severity": "Medium",
+      "Description": "Monitoring of clandestine meetings in Chingola industrial zone.",
+      "Timestamp": "2025-05-28T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c5f2afd8-40af-4dfa-aaab-244839b2d7a8",
+      "EntityName": "Grace Mwanawasa",
+      "Severity": "High",
+      "Description": "Tracking of high-value illicit fund movement through Kabwe.",
+      "Timestamp": "2025-09-13T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "27d1b01f-d9ee-4b53-95b8-401a5c49d833",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "High",
+      "Description": "Monitoring of clandestine meetings in Lusaka industrial zone.",
+      "Timestamp": "2025-09-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6bf24ce9-4e88-4697-bdfa-b31f869f7189",
+      "EntityName": "Mopani Mines",
+      "Severity": "Critical",
+      "Description": "Counter-espionage lead involving foreign actors in Mufulira.",
+      "Timestamp": "2026-04-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "12c95cbd-6da0-4f0a-8900-e837d59aeedf",
+      "EntityName": "Chileshe Sinkala",
+      "Severity": "Medium",
+      "Description": "Counter-espionage lead involving foreign actors in Chingola.",
+      "Timestamp": "2025-11-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "bed22cc1-a349-4373-86ac-8627938c22cf",
+      "EntityName": "Patricia Kapwepwe",
+      "Severity": "High",
+      "Description": "Monitoring of clandestine meetings in Ndola industrial zone.",
+      "Timestamp": "2026-05-05T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1ca9d4a7-aaf9-4fab-bc50-d7b112844cf1",
+      "EntityName": "Grace Kunda",
+      "Severity": "High",
+      "Description": "Counter-espionage lead involving foreign actors in Sesheke.",
+      "Timestamp": "2025-12-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "91f11859-d6f2-40e8-98b1-858d29468211",
+      "EntityName": "Sarah Nyirenda",
+      "Severity": "Medium",
+      "Description": "Threat assessment regarding Kasumbalesa essential infrastructure.",
+      "Timestamp": "2025-11-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "38fa475f-2e49-421f-98cb-405da5f29f22",
+      "EntityName": "Lombe Mwanawasa",
+      "Severity": "Medium",
+      "Description": "Counter-espionage lead involving foreign actors in Choma.",
+      "Timestamp": "2025-08-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "56374a58-c776-42ae-bc3e-efa9fe729572",
+      "EntityName": "Zesco",
+      "Severity": "High",
+      "Description": "Detection of encrypted comms near high-security Kabwe sites.",
+      "Timestamp": "2025-07-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "c78d6289-820a-4ef5-b8bf-c9aa246f2369",
+      "EntityName": "Moses Mumba",
+      "Severity": "Critical",
+      "Description": "Threat assessment regarding Kitwe essential infrastructure.",
+      "Timestamp": "2026-03-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1ebac1e9-105f-4fb7-a90e-b7d5d45c84dd",
+      "EntityName": "Apex Road Contractors",
+      "Severity": "High",
+      "Description": "Tracking of high-value illicit fund movement through Kitwe.",
+      "Timestamp": "2026-03-06T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "b9aac255-bf78-4d43-b965-961f0b9f5dc8",
+      "EntityName": "Natwange Traders",
+      "Severity": "Critical",
+      "Description": "Tracking of high-value illicit fund movement through Kabwe.",
+      "Timestamp": "2025-10-30T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "97dd519d-3a3e-4508-ae86-ba038a3933ac",
+      "EntityName": "Moses Kunda",
+      "Severity": "Medium",
+      "Description": "Tracking of high-value illicit fund movement through Choma.",
+      "Timestamp": "2025-06-15T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Configs": [

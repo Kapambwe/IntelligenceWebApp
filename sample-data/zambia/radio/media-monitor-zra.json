@@ -1518,6 +1518,126 @@
       "CreatedAt": "2025-11-06T17:30:31Z",
       "TriggeredAt": "2025-12-03T17:30:31Z",
       "IsAcknowledged": true
+    },
+    {
+      "Id": "757678c2-465b-4632-820b-a8cd1422a971",
+      "EntityName": "Mainza Kasolo",
+      "Severity": "High",
+      "Description": "Unauthorized use of protected radio frequencies near Kabwe.",
+      "Timestamp": "2025-12-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7f42cb06-3ec3-40f1-ad8a-f9a494c64650",
+      "EntityName": "John Kalaba",
+      "Severity": "High",
+      "Description": "Emergency broadcast test failure in Mansa region.",
+      "Timestamp": "2026-02-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d8a891a3-18dc-4e14-b899-891ce1173003",
+      "EntityName": "Zambia Sugar",
+      "Severity": "High",
+      "Description": "Emergency broadcast test failure in Nakonde region.",
+      "Timestamp": "2025-10-09T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "ecb900a5-ba4b-4525-9778-d3470f88ead2",
+      "EntityName": "Lombe Kunda",
+      "Severity": "Medium",
+      "Description": "Signal jamming incident reported during Chingola talk show.",
+      "Timestamp": "2026-01-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "35e47940-23c8-47b2-8426-43089e8b120f",
+      "EntityName": "Moses Kabaso",
+      "Severity": "Critical",
+      "Description": "Signal jamming incident reported during Luanshya talk show.",
+      "Timestamp": "2025-10-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "dc1f4440-a4e1-4b7b-8799-e72ede344046",
+      "EntityName": "James Phiri",
+      "Severity": "Medium",
+      "Description": "Analysis of listener call-in data for public order sentiment.",
+      "Timestamp": "2026-03-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e7f443e8-2fab-403f-9583-2c4b1c8fb536",
+      "EntityName": "Catherine Lungu",
+      "Severity": "High",
+      "Description": "Signal jamming incident reported during Mongu talk show.",
+      "Timestamp": "2025-07-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "515c0e5f-25af-4b22-8c89-6670d4b78732",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Analysis of listener call-in data for public order sentiment.",
+      "Timestamp": "2026-04-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9f283704-db82-4020-9acd-65326c9ac8f4",
+      "EntityName": "Catherine Sata",
+      "Severity": "Medium",
+      "Description": "Unauthorized use of protected radio frequencies near Lusaka.",
+      "Timestamp": "2025-02-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f1d06d43-49de-4975-afca-d728cdc07b02",
+      "EntityName": "Natwange Traders",
+      "Severity": "High",
+      "Description": "Analysis of listener call-in data for public order sentiment.",
+      "Timestamp": "2026-01-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e433e349-0908-4bc4-b634-b0714871c27d",
+      "EntityName": "Natwange Traders",
+      "Severity": "Medium",
+      "Description": "Signal jamming incident reported during Chingola talk show.",
+      "Timestamp": "2026-04-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "d8b82a71-31e8-482f-acc3-9b4fe6ed793b",
+      "EntityName": "Zesco",
+      "Severity": "Medium",
+      "Description": "Signal jamming incident reported during Chipata talk show.",
+      "Timestamp": "2025-12-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1e85195b-dd05-4037-8c33-cd7ed8cb7044",
+      "EntityName": "Levy Banda",
+      "Severity": "High",
+      "Description": "Infrastructure vandalism at Nakonde transmitter site.",
+      "Timestamp": "2025-10-18T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "647b344f-422e-4fb2-82be-816d5af7eef2",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Medium",
+      "Description": "Analysis of listener call-in data for public order sentiment.",
+      "Timestamp": "2025-07-24T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "29614e1c-4c8a-42a6-b271-04e8914ffd38",
+      "EntityName": "Gift Sata",
+      "Severity": "Medium",
+      "Description": "Signal jamming incident reported during Lusaka talk show.",
+      "Timestamp": "2025-03-09T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Configs": [

@@ -2,7 +2,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "Zambia Defence Force Headquarters",
+    "DisplayName": "Defense Unit Kabwe",
     "Country": "Zambia",
     "Headquarters": "Kansenshi, Ndola, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -42,7 +42,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "Zambia Army Command",
+    "DisplayName": "Defense Unit Kasama",
     "Country": "Zambia",
     "Headquarters": "Ndola, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -82,7 +82,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "Zambia Air Force Command",
+    "DisplayName": "Defense Unit Livingstone",
     "Country": "Zambia",
     "Headquarters": "Ndola, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -122,7 +122,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "Defence Engineering Unit",
+    "DisplayName": "Defense Unit Chirundu",
     "Country": "Zambia",
     "Headquarters": "Lusaka, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -162,7 +162,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "Military Intelligence Division",
+    "DisplayName": "Defense Unit Chingola",
     "Country": "Zambia",
     "Headquarters": "Livingstone, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -202,7 +202,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "Special Forces Unit",
+    "DisplayName": "Defense Unit Kasumbalesa",
     "Country": "Zambia",
     "Headquarters": "Livingstone, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -242,7 +242,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "Border Security Battalion",
+    "DisplayName": "Defense Unit Kasumbalesa",
     "Country": "Zambia",
     "Headquarters": "Ndola, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -282,7 +282,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "Defence Logistics Command",
+    "DisplayName": "Defense Unit Nakonde",
     "Country": "Zambia",
     "Headquarters": "Livingstone, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -322,7 +322,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "Military Police Division",
+    "DisplayName": "Defense Unit Chirundu",
     "Country": "Zambia",
     "Headquarters": "Livingstone, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -362,7 +362,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "Defence Cyber Unit",
+    "DisplayName": "Defense Unit Mansa",
     "Country": "Zambia",
     "Headquarters": "Lusaka, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -402,7 +402,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Ndola Battalion 1",
+    "DisplayName": "Defense Unit Chingola",
     "Country": "Zambia",
     "Headquarters": "Ndola, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -442,7 +442,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Mongu Battalion 2",
+    "DisplayName": "Defense Unit Chirundu",
     "Country": "Zambia",
     "Headquarters": "Mongu, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -482,7 +482,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Mazabuka Battalion 3",
+    "DisplayName": "Defense Unit Choma",
     "Country": "Zambia",
     "Headquarters": "Mazabuka, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -522,7 +522,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Lundazi Battalion 4",
+    "DisplayName": "Defense Unit Nakonde",
     "Country": "Zambia",
     "Headquarters": "Lundazi, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -562,7 +562,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Chingola Battalion 5",
+    "DisplayName": "Defense Unit Solwezi",
     "Country": "Zambia",
     "Headquarters": "Chingola, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -602,7 +602,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Chingola Battalion 6",
+    "DisplayName": "Defense Unit Mongu",
     "Country": "Zambia",
     "Headquarters": "Chingola, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -642,7 +642,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Chingola Battalion 7",
+    "DisplayName": "Defense Unit Lusaka",
     "Country": "Zambia",
     "Headquarters": "Chingola, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -682,7 +682,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Kafue Battalion 8",
+    "DisplayName": "Defense Unit Solwezi",
     "Country": "Zambia",
     "Headquarters": "Kafue, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -722,7 +722,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Kitwe Battalion 9",
+    "DisplayName": "Defense Unit Livingstone",
     "Country": "Zambia",
     "Headquarters": "Kitwe, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -762,7 +762,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Choma Battalion 10",
+    "DisplayName": "Defense Unit Livingstone",
     "Country": "Zambia",
     "Headquarters": "Choma, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -802,7 +802,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Mansa Battalion 11",
+    "DisplayName": "Defense Unit Solwezi",
     "Country": "Zambia",
     "Headquarters": "Mansa, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -842,7 +842,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Chingola Battalion 12",
+    "DisplayName": "Defense Unit Mongu",
     "Country": "Zambia",
     "Headquarters": "Chingola, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -882,7 +882,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Mazabuka Battalion 13",
+    "DisplayName": "Defense Unit Choma",
     "Country": "Zambia",
     "Headquarters": "Mazabuka, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -922,7 +922,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Lundazi Battalion 14",
+    "DisplayName": "Defense Unit Mufulira",
     "Country": "Zambia",
     "Headquarters": "Lundazi, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -962,7 +962,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Mbala Battalion 15",
+    "DisplayName": "Defense Unit Nakonde",
     "Country": "Zambia",
     "Headquarters": "Mbala, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1002,7 +1002,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Lundazi Battalion 16",
+    "DisplayName": "Defense Unit Solwezi",
     "Country": "Zambia",
     "Headquarters": "Lundazi, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1042,7 +1042,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Chipata Battalion 17",
+    "DisplayName": "Defense Unit Lusaka",
     "Country": "Zambia",
     "Headquarters": "Chipata, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1082,7 +1082,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Livingstone Battalion 18",
+    "DisplayName": "Defense Unit Mufulira",
     "Country": "Zambia",
     "Headquarters": "Livingstone, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1122,7 +1122,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Choma Battalion 19",
+    "DisplayName": "Defense Unit Chingola",
     "Country": "Zambia",
     "Headquarters": "Choma, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1162,7 +1162,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Mbala Battalion 20",
+    "DisplayName": "Defense Unit Choma",
     "Country": "Zambia",
     "Headquarters": "Mbala, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1202,7 +1202,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Monze Battalion 21",
+    "DisplayName": "Defense Unit Kitwe",
     "Country": "Zambia",
     "Headquarters": "Monze, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1242,7 +1242,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Choma Battalion 22",
+    "DisplayName": "Defense Unit Kabwe",
     "Country": "Zambia",
     "Headquarters": "Choma, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1282,7 +1282,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Kabwe Battalion 23",
+    "DisplayName": "Defense Unit Kitwe",
     "Country": "Zambia",
     "Headquarters": "Kabwe, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1322,7 +1322,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Kabwe Battalion 24",
+    "DisplayName": "Defense Unit Solwezi",
     "Country": "Zambia",
     "Headquarters": "Kabwe, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1362,7 +1362,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Lusaka Battalion 25",
+    "DisplayName": "Defense Unit Luanshya",
     "Country": "Zambia",
     "Headquarters": "Lusaka, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1402,7 +1402,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Mazabuka Battalion 26",
+    "DisplayName": "Defense Unit Chipata",
     "Country": "Zambia",
     "Headquarters": "Mazabuka, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1442,7 +1442,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Solwezi Battalion 27",
+    "DisplayName": "Defense Unit Kasama",
     "Country": "Zambia",
     "Headquarters": "Solwezi, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1482,7 +1482,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Mansa Battalion 28",
+    "DisplayName": "Defense Unit Chingola",
     "Country": "Zambia",
     "Headquarters": "Mansa, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1522,7 +1522,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Kitwe Battalion 29",
+    "DisplayName": "Defense Unit Luanshya",
     "Country": "Zambia",
     "Headquarters": "Kitwe, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1562,7 +1562,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Mufulira Battalion 30",
+    "DisplayName": "Defense Unit Mufulira",
     "Country": "Zambia",
     "Headquarters": "Mufulira, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1602,7 +1602,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Chipata Battalion 31",
+    "DisplayName": "Defense Unit Livingstone",
     "Country": "Zambia",
     "Headquarters": "Chipata, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1642,7 +1642,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Choma Battalion 32",
+    "DisplayName": "Defense Unit Nakonde",
     "Country": "Zambia",
     "Headquarters": "Choma, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1682,7 +1682,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Choma Battalion 33",
+    "DisplayName": "Defense Unit Kasama",
     "Country": "Zambia",
     "Headquarters": "Choma, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1722,7 +1722,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Choma Battalion 34",
+    "DisplayName": "Defense Unit Ndola",
     "Country": "Zambia",
     "Headquarters": "Choma, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1762,7 +1762,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Choma Battalion 35",
+    "DisplayName": "Defense Unit Kasumbalesa",
     "Country": "Zambia",
     "Headquarters": "Choma, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1802,7 +1802,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Monze Battalion 36",
+    "DisplayName": "Defense Unit Choma",
     "Country": "Zambia",
     "Headquarters": "Monze, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1842,7 +1842,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Mazabuka Battalion 37",
+    "DisplayName": "Defense Unit Chipata",
     "Country": "Zambia",
     "Headquarters": "Mazabuka, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1882,7 +1882,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Kasama Battalion 38",
+    "DisplayName": "Defense Unit Chipata",
     "Country": "Zambia",
     "Headquarters": "Kasama, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1922,7 +1922,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Mongu Battalion 39",
+    "DisplayName": "Defense Unit Chingola",
     "Country": "Zambia",
     "Headquarters": "Mongu, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",
@@ -1962,7 +1962,7 @@
   {
     "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
     "SubOrganizationType": "Defense",
-    "DisplayName": "ZDF Mansa Battalion 40",
+    "DisplayName": "Defense Unit Sesheke",
     "Country": "Zambia",
     "Headquarters": "Mansa, Zambia",
     "Mandate": "Protect Zambia from external threats, assist civil authorities during emergencies, and safeguard infrastructure.",

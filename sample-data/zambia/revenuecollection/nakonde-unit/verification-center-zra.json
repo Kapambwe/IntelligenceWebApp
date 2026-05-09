@@ -1,0 +1,1178 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Verifications": [
+    {
+      "Id": "040314ac-1dd9-2573-1f7b-0032a8ceed87",
+      "EntityId": "052f4e81-1970-2536-205b-009abb96a39a",
+      "EntityName": "Individual filers - Ndola",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2026-01-17T17:30:31Z",
+      "Notes": "Payment tracking for tax collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03cf9093-223d-1c33-0ba7-004ac7f21aee",
+      "EntityId": "022159ff-18c9-04d0-133b-001c0af00281",
+      "EntityName": "Corporate entities - Kitwe",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2026-01-08T17:30:31Z",
+      "Notes": "Arrears recovery for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-28T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-23T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "049428d3-1dfa-204d-1589-00405ef0b737",
+      "EntityId": "03da49a4-063c-17c8-0408-002a1b6dc65e",
+      "EntityName": "Debtors - Ndola",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2026-01-12T17:30:31Z",
+      "Notes": "Reconciliation for payment processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-09T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-28T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0360fd11-2005-16ac-0a17-005407521474",
+      "EntityId": "01f09169-201b-0432-2222-0071816b2d06",
+      "EntityName": "Individual filers - Solwezi",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-04T17:30:31Z",
+      "Notes": "Arrears recovery for compliance enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-02T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "04484243-071f-1b68-1de6-008d3630eec6",
+      "EntityId": "05660642-18a5-1a5a-087a-00b6dd87af69",
+      "EntityName": "Individual filers - Solwezi",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2026-01-04T17:30:31Z",
+      "Notes": "Payment tracking for debt recovery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-15T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-20T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04fa2eec-14ee-0b0b-1eb8-008a3b231379",
+      "EntityId": "0305033b-0ea5-0a33-0a16-004ec258ad34",
+      "EntityName": "Corporate entities - Ndola",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-11-10T17:30:31Z",
+      "Notes": "Collection for debt recovery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-01T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-19T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0154ee82-04bc-0d07-0439-0044b332fa9c",
+      "EntityId": "021fa371-1ce1-1cdd-26f0-001a11e9fddc",
+      "EntityName": "Corporate entities - Lusaka",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-01T17:30:31Z",
+      "Notes": "Reconciliation for debt recovery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-17T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-13T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05734bfb-0bee-26a8-202d-006c152c1107",
+      "EntityId": "05631819-1541-115d-17fe-003d67caaa99",
+      "EntityName": "Individual filers - Solwezi",
+      "Type": "address",
+      "Status": "failed",
+      "CreatedAt": "2025-11-25T17:30:31Z",
+      "Notes": "Enforcement for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "05265bfd-174d-180b-15a7-001fcbcccdd8",
+      "EntityId": "03594acb-0f70-086f-19a3-0081b4ddbbe0",
+      "EntityName": "Individual filers - Kitwe",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-10-27T17:30:31Z",
+      "Notes": "Payment tracking for compliance enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-12T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-31T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "04b735ca-1e7c-1e4b-1408-006e04082ffb",
+      "EntityId": "00c43934-1e2f-1654-0418-004a36b4e753",
+      "EntityName": "Taxpayers - Kitwe",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-13T17:30:31Z",
+      "Notes": "Reconciliation for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-02T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "050d41ee-262b-1fc0-1b72-002c6b9e2e62",
+      "EntityId": "04a6cd36-215b-1f59-1c00-0052019d2178",
+      "EntityName": "Debtors - Livingstone",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-17T17:30:31Z",
+      "Notes": "Arrears recovery for tax collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-11T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-07T17:30:31Z"
+    },
+    {
+      "Id": "03aa28bf-1b81-0594-164c-0030a07d7f22",
+      "EntityId": "010e96fc-11ff-1738-0b90-008ee9a114b7",
+      "EntityName": "Individual filers - Livingstone",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-12-25T17:30:31Z",
+      "Notes": "Enforcement for compliance enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-25T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-28T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-22T17:30:31Z"
+    },
+    {
+      "Id": "0327b7dc-0435-0af1-1d5b-0040d6710f7f",
+      "EntityId": "00b44a70-23f3-1785-22c2-001e01fc4370",
+      "EntityName": "Taxpayers - Ndola",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-26T17:30:31Z",
+      "Notes": "Payment tracking for tax collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-07T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "05c1ab0e-1add-05f4-21c5-00274792b3e5",
+      "EntityId": "05789e87-0c1e-1305-0664-006613f8ea28",
+      "EntityName": "Individual filers - Solwezi",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2026-01-14T17:30:31Z",
+      "Notes": "Reconciliation for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-03T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-25T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0127ab69-0908-110b-1f84-00a71a2212b8",
+      "EntityId": "038c1f55-2132-0c90-239b-00de6b6c6580",
+      "EntityName": "Debtors - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-11-26T17:30:31Z",
+      "Notes": "Reconciliation for payment processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-07T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2026-01-19T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0403d1ac-2018-05d6-21f7-005ce52d008d",
+      "EntityId": "05d92c15-1109-1025-0cfd-009c91bde9e9",
+      "EntityName": "Debtors - Ndola",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-01T17:30:31Z",
+      "Notes": "Payment tracking for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-30T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-19T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-21T17:30:31Z"
+    },
+    {
+      "Id": "01de553f-0e79-203e-14bc-00b68aea1b66",
+      "EntityId": "02f11101-0cf1-2197-11bc-00427fd127b9",
+      "EntityName": "Taxpayers - Livingstone",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2026-01-14T17:30:31Z",
+      "Notes": "Reconciliation for payment processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-27T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-11-27T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-28T17:30:31Z"
+    },
+    {
+      "Id": "05cfe9c0-0f56-14ab-083d-004158af1f98",
+      "EntityId": "05367ac7-1f46-0f9e-2279-0072953b350e",
+      "EntityName": "Corporate entities - Ndola",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-09T17:30:31Z",
+      "Notes": "Payment tracking for debt recovery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-22T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-04T17:30:31Z"
+    },
+    {
+      "Id": "05063ea7-18a4-1c46-1bf9-00622dc0a19f",
+      "EntityId": "01e48b56-0f52-1262-0b29-00b2350da4f0",
+      "EntityName": "Corporate entities - Livingstone",
+      "Type": "document",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-24T17:30:31Z",
+      "Notes": "Reconciliation for tax collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-21T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0332c317-1281-09b8-2122-0094cc477996",
+      "EntityId": "041e9c08-1771-15d4-16c2-00d3a8a9f49c",
+      "EntityName": "Debtors - Kitwe",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2025-12-10T17:30:31Z",
+      "Notes": "Enforcement for tax collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-14T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03ee8ed2-233b-1b3d-0a5f-003e2b94cbd8",
+      "EntityId": "05aea3c7-1466-2047-22f0-00223416a4d9",
+      "EntityName": "Individual filers - Livingstone",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-11-27T17:30:31Z",
+      "Notes": "Reconciliation for debt recovery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-31T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "048875a2-1dc6-141d-0b0b-008beeefe57b",
+      "EntityId": "0136558c-0ff1-0ad9-189d-00e0e34c1c59",
+      "EntityName": "Corporate entities - Livingstone",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-25T17:30:31Z",
+      "Notes": "Reconciliation for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-11-23T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": "Matched",
+          "CompletedAt": "2025-11-27T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-14T17:30:31Z"
+    },
+    {
+      "Id": "05d339df-126d-1ab6-14ee-002a25210e72",
+      "EntityId": "00e25902-046e-21c3-2567-00547334fd9b",
+      "EntityName": "Individual filers - Livingstone",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-14T17:30:31Z",
+      "Notes": "Enforcement for compliance enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-25T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-17T17:30:31Z"
+    },
+    {
+      "Id": "05ebab68-1ead-1e2b-1a1d-00cb79c827ff",
+      "EntityId": "022ab796-176a-1b6b-055d-00dc48a4373e",
+      "EntityName": "Individual filers - Ndola",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2026-01-12T17:30:31Z",
+      "Notes": "Collection for tax collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-14T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": "2025-12-19T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "05608f79-1579-0571-0bda-001799354b91",
+      "EntityId": "04339db0-084b-1fbc-0e16-009a348a37df",
+      "EntityName": "Corporate entities - Lusaka",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-05T17:30:31Z",
+      "Notes": "Payment tracking for compliance enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-20T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2025-12-21T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f7faa7-0c01-140b-17af-0055921583e9",
+      "EntityId": "01924689-1ec6-0776-1d2f-009c659f68f5",
+      "EntityName": "Debtors - Lusaka",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2025-11-14T17:30:31Z",
+      "Notes": "Payment tracking for compliance enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-10T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-06T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-23T17:30:31Z"
+    },
+    {
+      "Id": "057deb1c-105c-0c7a-0a3c-00192ba7ad19",
+      "EntityId": "01d1b17a-24ce-19b8-1c5f-00250d3b7560",
+      "EntityName": "Taxpayers - Lusaka",
+      "Type": "address",
+      "Status": "inProgress",
+      "CreatedAt": "2025-10-22T17:30:31Z",
+      "Notes": "Reconciliation for compliance enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-01T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-26T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f519c1-1683-08f1-1d50-009b3deefc83",
+      "EntityId": "049262e8-0fd3-0db4-18b9-00b9ee19638d",
+      "EntityName": "Corporate entities - Ndola",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2025-11-11T17:30:31Z",
+      "Notes": "Arrears recovery for debt recovery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-05T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-04T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04559b39-18a8-1586-2177-00180319f5c0",
+      "EntityId": "0498aec0-10b8-0850-0664-001dab31179f",
+      "EntityName": "Corporate entities - Solwezi",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-11-09T17:30:31Z",
+      "Notes": "Payment tracking for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-12T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-09T17:30:31Z"
+    },
+    {
+      "Id": "0483a482-1184-173c-18ec-00a443f2e057",
+      "EntityId": "028f55bc-1739-0897-05a8-00a09883c80c",
+      "EntityName": "Corporate entities - Lusaka",
+      "Type": "financial",
+      "Status": "pending",
+      "CreatedAt": "2025-11-27T17:30:31Z",
+      "Notes": "Reconciliation for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-30T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "041e3d04-1ecf-1f45-1473-004fcab926a7",
+      "EntityId": "00e97f20-2398-0950-1132-006e3373dc35",
+      "EntityName": "Individual filers - Lusaka",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-06T17:30:31Z",
+      "Notes": "Payment tracking for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-14T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0226439f-239d-079f-26ad-00b39a9158ee",
+      "EntityId": "04049c86-1748-24c2-1bdf-00e03735b35c",
+      "EntityName": "Taxpayers - Livingstone",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-15T17:30:31Z",
+      "Notes": "Arrears recovery for compliance enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-11-21T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-07T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "0119f1e5-1490-18bb-1977-00d99906ee07",
+      "EntityId": "05cce166-103d-1f75-21ec-00b433b1a892",
+      "EntityName": "Debtors - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-03T17:30:31Z",
+      "Notes": "Reconciliation for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-03T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-30T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "01492de1-19b8-0807-2033-0037205061a1",
+      "EntityId": "031b3ad8-071e-23a7-1b3c-0044939dfaf1",
+      "EntityName": "Taxpayers - Livingstone",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2026-01-14T17:30:31Z",
+      "Notes": "Collection for tax collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-09T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-12T17:30:31Z"
+    },
+    {
+      "Id": "01851e3f-19e6-0a9a-16a5-00df0c39ba74",
+      "EntityId": "0465982b-095d-107c-07a5-00b7706b8f24",
+      "EntityName": "Taxpayers - Lusaka",
+      "Type": "identity",
+      "Status": "failed",
+      "CreatedAt": "2025-11-16T17:30:31Z",
+      "Notes": "Payment tracking for payment processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-08T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "completed",
+          "Result": "No hits",
+          "CompletedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "0461b3b9-0fe5-1376-089a-0043809187e8",
+      "EntityId": "02c34f3c-198f-13da-1f62-008b799746c2",
+      "EntityName": "Individual filers - Lusaka",
+      "Type": "address",
+      "Status": "completed",
+      "CreatedAt": "2025-11-16T17:30:31Z",
+      "Notes": "Collection for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-25T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2025-12-25T17:30:31Z"
+    },
+    {
+      "Id": "055a84ba-0721-268b-0d45-00d093f61828",
+      "EntityId": "054475ff-0eb4-0903-0828-00d48e696c57",
+      "EntityName": "Corporate entities - Solwezi",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-11-29T17:30:31Z",
+      "Notes": "Collection for payment processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-12T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "inProgress",
+          "Result": "No hits",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03216004-0e8a-1a33-0ad5-00e171f4a43e",
+      "EntityId": "050c11ca-1c87-2383-1244-00d382ae818a",
+      "EntityName": "Debtors - Lusaka",
+      "Type": "address",
+      "Status": "pending",
+      "CreatedAt": "2025-12-16T17:30:31Z",
+      "Notes": "Arrears recovery for compliance enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-02T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-17T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03738057-1487-05cb-2219-001a3674748f",
+      "EntityId": "01b924c2-1dec-0524-1dc6-00d43559a385",
+      "EntityName": "Taxpayers - Livingstone",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2025-12-22T17:30:31Z",
+      "Notes": "Payment tracking for compliance enforcement verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "02a9a159-0a52-1598-0401-0076998ac6f7",
+      "EntityId": "03d50637-0ce6-1c1a-2534-00a34f349a33",
+      "EntityName": "Corporate entities - Ndola",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2026-01-10T17:30:31Z",
+      "Notes": "Payment tracking for debt recovery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2026-01-04T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "0205a518-0f35-12f7-0b96-00805ced6aa3",
+      "EntityId": "01690c9d-1cda-10c5-1739-00274d210436",
+      "EntityName": "Debtors - Kitwe",
+      "Type": "financial",
+      "Status": "failed",
+      "CreatedAt": "2025-12-05T17:30:31Z",
+      "Notes": "Reconciliation for debt recovery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-12T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-25T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04e62434-0629-2544-1241-00c0b3aba351",
+      "EntityId": "012a6ec9-119d-1efb-2579-0096ddefe14f",
+      "EntityName": "Corporate entities - Kitwe",
+      "Type": "identity",
+      "Status": "pending",
+      "CreatedAt": "2026-01-01T17:30:31Z",
+      "Notes": "Arrears recovery for debt recovery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Failed",
+          "CompletedAt": "2025-12-30T17:30:31Z"
+        },
+        {
+          "Name": "Physical Visit",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2025-12-14T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "025635ae-0dc1-1704-12fb-005c3b76b36a",
+      "EntityId": "03da2bcc-15a3-1d32-26ab-007683f4664f",
+      "EntityName": "Corporate entities - Livingstone",
+      "Type": "identity",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-11T17:30:31Z",
+      "Notes": "Payment tracking for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-28T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-11-29T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "04cb2a18-2662-0e60-04d7-0017a42d5e18",
+      "EntityId": "043bdec1-1a46-1334-13a1-00c6c13ad1a6",
+      "EntityName": "Corporate entities - Kitwe",
+      "Type": "document",
+      "Status": "completed",
+      "CreatedAt": "2025-12-17T17:30:31Z",
+      "Notes": "Arrears recovery for payment processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-07T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": null
+        }
+      ],
+      "CompletedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "0390a478-1e4c-1311-0ef6-00afc4331881",
+      "EntityId": "03fc2a35-22b1-0cb6-15b3-005ba983cb2b",
+      "EntityName": "Corporate entities - Ndola",
+      "Type": "identity",
+      "Status": "completed",
+      "CreatedAt": "2026-01-18T17:30:31Z",
+      "Notes": "Arrears recovery for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2025-12-23T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": null,
+          "CompletedAt": "2025-12-17T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2026-01-19T17:30:31Z"
+    },
+    {
+      "Id": "03d8689c-197a-0b1f-0b9e-00be64fd20df",
+      "EntityId": "03a451e9-1f7d-1845-0e48-00528b0c79c6",
+      "EntityName": "Debtors - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-10-28T17:30:31Z",
+      "Notes": "Reconciliation for debt recovery verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-15T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "pending",
+          "Result": null,
+          "CompletedAt": null
+        }
+      ]
+    },
+    {
+      "Id": "03d6ff79-21ba-0e0e-19ac-001e62400206",
+      "EntityId": "0183ea5f-0b8e-078b-1ef9-00d9db8893bb",
+      "EntityName": "Individual filers - Lusaka",
+      "Type": "financial",
+      "Status": "inProgress",
+      "CreatedAt": "2026-01-05T17:30:31Z",
+      "Notes": "Reconciliation for tax collection verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-19T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Matched",
+          "CompletedAt": "2026-01-03T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "053de7d1-0a03-2682-1f2c-0076cb120a4d",
+      "EntityId": "02d07abc-150e-16b0-1ffc-002c7dfb69c2",
+      "EntityName": "Debtors - Lusaka",
+      "Type": "document",
+      "Status": "pending",
+      "CreatedAt": "2025-12-03T17:30:31Z",
+      "Notes": "Arrears recovery for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Verified",
+          "CompletedAt": "2026-01-13T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": null,
+          "CompletedAt": "2026-01-05T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "031f2b7a-14b8-24e0-17a0-0054d13613ce",
+      "EntityId": "04e73027-12f5-1199-0c44-003f7aa049b0",
+      "EntityName": "Debtors - Ndola",
+      "Type": "document",
+      "Status": "failed",
+      "CreatedAt": "2025-11-18T17:30:31Z",
+      "Notes": "Enforcement for payment processing verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-18T17:30:31Z"
+        },
+        {
+          "Name": "Sanctions Screening",
+          "Status": "completed",
+          "Result": "Matched",
+          "CompletedAt": "2025-12-29T17:30:31Z"
+        }
+      ]
+    },
+    {
+      "Id": "03f5d468-085b-21c4-174d-00b54a256160",
+      "EntityId": "0249bd38-2161-0961-18a8-0060167a59dc",
+      "EntityName": "Debtors - Ndola",
+      "Type": "financial",
+      "Status": "completed",
+      "CreatedAt": "2026-01-13T17:30:31Z",
+      "Notes": "Collection for arrears management verification",
+      "Steps": [
+        {
+          "Name": "Document Verification",
+          "Status": "completed",
+          "Result": "Pending",
+          "CompletedAt": "2025-11-24T17:30:31Z"
+        },
+        {
+          "Name": "Background Check",
+          "Status": "inProgress",
+          "Result": "Pending",
+          "CompletedAt": "2025-12-10T17:30:31Z"
+        }
+      ],
+      "CompletedAt": "2025-12-25T17:30:31Z"
+    }
+  ],
+  "Statistics": {
+    "TotalVerifications": 50,
+    "Completed": 17,
+    "Pending": 23,
+    "Failed": 10
+  }
+}

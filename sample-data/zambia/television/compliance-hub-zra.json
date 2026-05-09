@@ -70,18 +70,168 @@
       "CreatedAt": "2026-01-15T08:00:00Z",
       "DetectedAt": "2026-01-15T07:30:00Z",
       "Status": "Open"
+    },
+    {
+      "Id": "729e59ba-e941-4ce3-a37f-ee1e27469ddb",
+      "EntityName": "Kafue Logistics",
+      "Severity": "Critical",
+      "Description": "Sentiment analysis of live debate regarding Solwezi mining policy.",
+      "Timestamp": "2025-01-22T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "877dec94-a645-4782-ad39-191f6f978102",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Asset theft from mobile production unit in Kasama.",
+      "Timestamp": "2025-08-29T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1beda209-995f-4528-a8d2-de22a0e0c6a7",
+      "EntityName": "Zamtel",
+      "Severity": "Critical",
+      "Description": "Deep-fake video detection targeting Ndola public officials.",
+      "Timestamp": "2025-12-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8d584972-947d-4844-9fe1-0fc7bb8a3d0f",
+      "EntityName": "Zesco",
+      "Severity": "High",
+      "Description": "Deep-fake video detection targeting Kasumbalesa public officials.",
+      "Timestamp": "2026-05-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a88ffab3-05e5-4cdb-8860-1154fee71ec4",
+      "EntityName": "Gift Kasolo",
+      "Severity": "High",
+      "Description": "Security breach at Kasama broadcasting studios.",
+      "Timestamp": "2026-02-16T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "130b5c58-7317-4b0b-95ad-287c74562432",
+      "EntityName": "Lombe Hichilema",
+      "Severity": "Critical",
+      "Description": "Security breach at Lusaka broadcasting studios.",
+      "Timestamp": "2025-11-02T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "5c6ca50e-3b7b-4d92-ad50-9216cb36a231",
+      "EntityName": "Peter Bwalya",
+      "Severity": "Medium",
+      "Description": "Deep-fake video detection targeting Luanshya public officials.",
+      "Timestamp": "2025-07-17T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "25e80286-2f78-435a-bfc7-0e88a0792b8a",
+      "EntityName": "Sarah Kapwepwe",
+      "Severity": "Medium",
+      "Description": "Security breach at Mufulira broadcasting studios.",
+      "Timestamp": "2025-06-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "dd516556-b827-4e0a-a731-1a959ce7de89",
+      "EntityName": "Zamtel",
+      "Severity": "Medium",
+      "Description": "Security breach at Mansa broadcasting studios.",
+      "Timestamp": "2025-07-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6d2544ac-a500-41f4-ac0c-f8696b0005e7",
+      "EntityName": "Sarah Kalaba",
+      "Severity": "High",
+      "Description": "Sentiment analysis of live debate regarding Chingola mining policy.",
+      "Timestamp": "2025-01-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a13e9446-6111-4d8d-987b-c3baf233d3bc",
+      "EntityName": "Zamtel",
+      "Severity": "Critical",
+      "Description": "Deep-fake video detection targeting Kasama public officials.",
+      "Timestamp": "2025-09-06T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1ce20202-544b-4346-beed-4c4e62b85d42",
+      "EntityName": "Levy Mwamba",
+      "Severity": "Critical",
+      "Description": "Security breach at Mongu broadcasting studios.",
+      "Timestamp": "2025-02-09T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "36007ad9-3e6e-4a32-ba0b-f004cb9fe3a3",
+      "EntityName": "Patricia Silavwe",
+      "Severity": "Medium",
+      "Description": "Asset theft from mobile production unit in Sesheke.",
+      "Timestamp": "2025-03-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "52734358-98c8-4771-93f1-36f5cb2d90d8",
+      "EntityName": "Hope Lungu",
+      "Severity": "Critical",
+      "Description": "Security breach at Sesheke broadcasting studios.",
+      "Timestamp": "2025-02-24T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1abec47c-8d82-454d-a6a4-fce940762247",
+      "EntityName": "Zambia Sugar",
+      "Severity": "High",
+      "Description": "Intercepted illegal broadcast signal originating from Ndola.",
+      "Timestamp": "2026-01-04T00:00:00Z",
+      "Status": "New"
     }
   ],
   "RiskTrends": [
-    { "Date": "2025-05-01T00:00:00Z", "RiskScore": 32 },
-    { "Date": "2025-06-01T00:00:00Z", "RiskScore": 35 },
-    { "Date": "2025-07-01T00:00:00Z", "RiskScore": 41 },
-    { "Date": "2025-08-01T00:00:00Z", "RiskScore": 48 },
-    { "Date": "2025-09-01T00:00:00Z", "RiskScore": 52 },
-    { "Date": "2025-10-01T00:00:00Z", "RiskScore": 58 },
-    { "Date": "2025-11-01T00:00:00Z", "RiskScore": 55 },
-    { "Date": "2025-12-01T00:00:00Z", "RiskScore": 62 },
-    { "Date": "2026-01-01T00:00:00Z", "RiskScore": 67 },
-    { "Date": "2026-02-01T00:00:00Z", "RiskScore": 71 }
+    {
+      "Date": "2025-05-01T00:00:00Z",
+      "RiskScore": 32
+    },
+    {
+      "Date": "2025-06-01T00:00:00Z",
+      "RiskScore": 35
+    },
+    {
+      "Date": "2025-07-01T00:00:00Z",
+      "RiskScore": 41
+    },
+    {
+      "Date": "2025-08-01T00:00:00Z",
+      "RiskScore": 48
+    },
+    {
+      "Date": "2025-09-01T00:00:00Z",
+      "RiskScore": 52
+    },
+    {
+      "Date": "2025-10-01T00:00:00Z",
+      "RiskScore": 58
+    },
+    {
+      "Date": "2025-11-01T00:00:00Z",
+      "RiskScore": 55
+    },
+    {
+      "Date": "2025-12-01T00:00:00Z",
+      "RiskScore": 62
+    },
+    {
+      "Date": "2026-01-01T00:00:00Z",
+      "RiskScore": 67
+    },
+    {
+      "Date": "2026-02-01T00:00:00Z",
+      "RiskScore": 71
+    }
   ]
 }

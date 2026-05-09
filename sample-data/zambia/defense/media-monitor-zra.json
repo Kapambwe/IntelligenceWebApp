@@ -1518,6 +1518,126 @@
       "CreatedAt": "2025-10-25T17:30:30Z",
       "TriggeredAt": "2025-11-10T17:30:30Z",
       "IsAcknowledged": false
+    },
+    {
+      "Id": "c75ead8a-3f0c-49bb-b6d5-da320c19bf7e",
+      "EntityName": "Levy Kabaso",
+      "Severity": "High",
+      "Description": "Unauthorized drone activity detected near Kasama airbase.",
+      "Timestamp": "2025-12-28T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "7b09178c-1e69-4855-8c32-eb5edcff8f90",
+      "EntityName": "Natwange Traders",
+      "Severity": "Critical",
+      "Description": "Theft of military supplies from stores in Lusaka.",
+      "Timestamp": "2025-08-03T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "e6e9a047-a153-4e18-9188-06949c94f2d4",
+      "EntityName": "Peter Bwalya",
+      "Severity": "Critical",
+      "Description": "Monitoring of suspicious communications near strategic Nakonde assets.",
+      "Timestamp": "2026-01-18T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "18132412-64f3-4a14-a7b5-e5ee80c713ac",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "Medium",
+      "Description": "Joint ops with police regarding firearm smuggling in Mufulira.",
+      "Timestamp": "2026-01-14T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "03b6e390-528a-4c59-b895-1537744dfa81",
+      "EntityName": "Martha Zulu",
+      "Severity": "Critical",
+      "Description": "Joint ops with police regarding firearm smuggling in Luanshya.",
+      "Timestamp": "2026-02-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "fae61ab4-d8f2-4365-bb34-fde8b8ea658a",
+      "EntityName": "Davies Kalaba",
+      "Severity": "High",
+      "Description": "Joint ops with police regarding firearm smuggling in Luanshya.",
+      "Timestamp": "2025-09-08T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "a44b13d6-596b-4780-9ba0-675876f21e01",
+      "EntityName": "Zesco",
+      "Severity": "High",
+      "Description": "Unauthorized drone activity detected near Lusaka airbase.",
+      "Timestamp": "2025-11-10T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "675437f7-c550-4faf-8e8e-7d1fad22ef68",
+      "EntityName": "John Tembo",
+      "Severity": "Medium",
+      "Description": "Theft of military supplies from stores in Lusaka.",
+      "Timestamp": "2026-04-26T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "388670fe-b85c-4bec-aed1-da062fb823be",
+      "EntityName": "Emmanuel Mulenga",
+      "Severity": "Critical",
+      "Description": "Monitoring of suspicious communications near strategic Kabwe assets.",
+      "Timestamp": "2025-05-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "6787e196-39db-452c-be3e-ddc3e6bdc473",
+      "EntityName": "Zesco",
+      "Severity": "High",
+      "Description": "Monitoring of suspicious communications near strategic Kasumbalesa assets.",
+      "Timestamp": "2026-01-28T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "2da19c1b-705b-4e7a-812d-8c660d8f81b1",
+      "EntityName": "Zesco",
+      "Severity": "Medium",
+      "Description": "Joint ops with police regarding firearm smuggling in Sesheke.",
+      "Timestamp": "2025-01-23T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "9ff247ff-abb3-4e84-8820-0b04523f6d9a",
+      "EntityName": "Chileshe Kasolo",
+      "Severity": "High",
+      "Description": "Unauthorized drone activity detected near Kitwe airbase.",
+      "Timestamp": "2025-11-05T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "566f402b-718d-41ed-8a74-d7399e010997",
+      "EntityName": "Mukwa Engineering",
+      "Severity": "High",
+      "Description": "Theft of military supplies from stores in Chirundu.",
+      "Timestamp": "2026-04-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f550aa93-a0f2-4a26-a32c-7b815578fcac",
+      "EntityName": "Levy Tembo",
+      "Severity": "Critical",
+      "Description": "Joint ops with police regarding firearm smuggling in Chipata.",
+      "Timestamp": "2026-01-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "8695dbb8-07de-496d-b3b1-b9e2e00573f3",
+      "EntityName": "Mary Banda",
+      "Severity": "Medium",
+      "Description": "Unauthorized drone activity detected near Kabwe airbase.",
+      "Timestamp": "2025-12-25T00:00:00Z",
+      "Status": "New"
     }
   ],
   "Configs": [

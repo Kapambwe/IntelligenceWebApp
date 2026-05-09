@@ -450,6 +450,141 @@
       "RiskScore": 82,
       "CreatedAt": "2025-09-27T17:30:31Z",
       "UpdatedAt": "2026-01-11T17:30:31Z"
+    },
+    {
+      "Id": "7e4e5aa4-05e7-46d5-8141-a5a20c00bb99",
+      "Name": "Chileshe Kapwepwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 51.0,
+      "CreatedAt": "2026-04-23T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "2fde9944-e2bb-49ef-9b50-198c0e62e657",
+      "Name": "Kafue Logistics",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 71.0,
+      "CreatedAt": "2025-11-28T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "0240b35f-69dc-4687-9ec2-b3971f374972",
+      "Name": "Kennedy Kalaba",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 76.0,
+      "CreatedAt": "2025-02-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "aa943fd7-527c-44c5-aefd-0cee15c351bf",
+      "Name": "Gift Lungu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 80.0,
+      "CreatedAt": "2025-01-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "f4832940-51e5-4f0f-bedd-bc240592feaf",
+      "Name": "Zamtel",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 93.0,
+      "CreatedAt": "2025-12-06T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "9723a604-9059-4e0a-8693-7ef7117299b9",
+      "Name": "Mary Mwamba",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 74.0,
+      "CreatedAt": "2026-04-14T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "5352fb8e-b4ac-4c0f-aa76-4712b408407f",
+      "Name": "Kennedy Kunda",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 97.0,
+      "CreatedAt": "2025-03-30T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "4b68b51a-d6d0-41e6-bc5a-c98f4e4a05f8",
+      "Name": "Apex Road Contractors",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 90.0,
+      "CreatedAt": "2025-09-13T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "de6dc7ac-250a-4afa-ba05-8b37acaaf345",
+      "Name": "Zambia Sugar",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 23.0,
+      "CreatedAt": "2025-06-29T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "5f6dffb4-e190-427a-95bd-369b6cd7db44",
+      "Name": "Mutale Chanda",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 52.0,
+      "CreatedAt": "2025-05-13T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "3d9752e4-4e3c-4466-9b55-8c5972a5b6f3",
+      "Name": "Mutale Sinkala",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 76.0,
+      "CreatedAt": "2025-03-22T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "35b78247-30fc-46cd-a04e-ea79b813a527",
+      "Name": "Zesco",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 23.0,
+      "CreatedAt": "2025-05-30T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "e08e432e-be92-4227-b5f8-cd80a73723ed",
+      "Name": "Victoria Falls Power",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 87.0,
+      "CreatedAt": "2026-05-02T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "8941e9e7-bc34-4c56-93d8-e3b596eedaaa",
+      "Name": "Natwange Traders",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 91.0,
+      "CreatedAt": "2025-05-12T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "3feb14d5-af90-4a42-90e0-8069a735073a",
+      "Name": "Zamtel",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 41.0,
+      "CreatedAt": "2025-05-15T00:00:00Z",
+      "Jurisdiction": "Zambia"
     }
   ],
   "Details": [

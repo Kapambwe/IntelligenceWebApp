@@ -454,6 +454,126 @@
       "Description": "Logistics management revealed security operations involving security personnel",
       "DetectedAt": "2025-10-31T17:30:30Z",
       "Status": "Escalated"
+    },
+    {
+      "Id": "089ef4b7-fab1-42d5-93f7-d99d3c4f483b",
+      "EntityName": "James Lungu",
+      "Severity": "Critical",
+      "Description": "Joint ops with police regarding firearm smuggling in Luanshya.",
+      "Timestamp": "2026-01-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "4450c84b-3922-4d7e-882a-c72bf673ee12",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Critical",
+      "Description": "Monitoring of suspicious communications near strategic Ndola assets.",
+      "Timestamp": "2026-04-11T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "ac415b25-36e9-45d5-858e-b085039830ec",
+      "EntityName": "Levy Silavwe",
+      "Severity": "Medium",
+      "Description": "Unauthorized drone activity detected near Nakonde airbase.",
+      "Timestamp": "2026-02-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "bed5c38d-15e4-4706-a1a9-194453dfbe8e",
+      "EntityName": "Zambia Sugar",
+      "Severity": "High",
+      "Description": "Monitoring of suspicious communications near strategic Kasama assets.",
+      "Timestamp": "2025-06-19T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "93bc3ba1-9c61-4375-a9ba-71d786ae9f10",
+      "EntityName": "Zambia Sugar",
+      "Severity": "High",
+      "Description": "Border patrol report of illegal incursions near Chirundu.",
+      "Timestamp": "2026-05-01T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "5c0496ed-ae31-4faa-968d-ca511bd1da41",
+      "EntityName": "John Mwamba",
+      "Severity": "High",
+      "Description": "Joint ops with police regarding firearm smuggling in Luanshya.",
+      "Timestamp": "2025-04-01T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "1867018d-ee85-4761-ad5b-3cc3258dcfef",
+      "EntityName": "Zamtel",
+      "Severity": "Critical",
+      "Description": "Monitoring of suspicious communications near strategic Solwezi assets.",
+      "Timestamp": "2026-05-04T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "73e8fa82-bf3d-47d3-8ae6-14ab2de282e7",
+      "EntityName": "Mutale Kalaba",
+      "Severity": "High",
+      "Description": "Monitoring of suspicious communications near strategic Chingola assets.",
+      "Timestamp": "2026-01-18T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "bf6ef5d6-6d46-4fab-b03e-9ccbfe97e621",
+      "EntityName": "Mainza Chisenga",
+      "Severity": "Medium",
+      "Description": "Monitoring of suspicious communications near strategic Solwezi assets.",
+      "Timestamp": "2026-02-13T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "3ba49f57-8352-4563-8cb6-8f82b68bd6c8",
+      "EntityName": "Chileshe Kasolo",
+      "Severity": "Critical",
+      "Description": "Joint ops with police regarding firearm smuggling in Chingola.",
+      "Timestamp": "2025-04-20T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "23966426-0583-42d2-b6e4-341f42724373",
+      "EntityName": "Mopani Mines",
+      "Severity": "High",
+      "Description": "Joint ops with police regarding firearm smuggling in Kasumbalesa.",
+      "Timestamp": "2025-08-17T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "b0c737f4-c645-4d60-900d-b87f756fd3fc",
+      "EntityName": "Catherine Kabaso",
+      "Severity": "Medium",
+      "Description": "Theft of military supplies from stores in Chingola.",
+      "Timestamp": "2025-12-21T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "16d9b5ba-a94b-4d47-a279-c9d549922fdd",
+      "EntityName": "Patricia Kalaba",
+      "Severity": "High",
+      "Description": "Border patrol report of illegal incursions near Mansa.",
+      "Timestamp": "2025-08-15T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "414d54a6-3811-4e02-95d4-70478bbda3f8",
+      "EntityName": "Victoria Falls Power",
+      "Severity": "Medium",
+      "Description": "Unauthorized drone activity detected near Choma airbase.",
+      "Timestamp": "2025-07-07T00:00:00Z",
+      "Status": "New"
+    },
+    {
+      "Id": "f376486c-3704-4776-87da-b4a116b6f7aa",
+      "EntityName": "Peter Mwamba",
+      "Severity": "Medium",
+      "Description": "Unauthorized drone activity detected near Chingola airbase.",
+      "Timestamp": "2025-01-01T00:00:00Z",
+      "Status": "New"
     }
   ],
   "RiskTrends": [

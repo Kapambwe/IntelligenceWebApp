@@ -1,0 +1,27 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Connectors": [
+    {
+      "Id": "10b6ba3b-b615-41fa-94fb-4ef6e8d4eec9",
+      "Name": "PACRA Business Registry",
+      "Description": "Direct link to Zambian company registrar.",
+      "Type": "API",
+      "Status": "Active",
+      "DataSource": "PACRA",
+      "IsEnabled": true,
+      "RecordsImported": 12450,
+      "LastSync": "2026-05-08T11:14:39.270237Z"
+    },
+    {
+      "Id": "bccbae97-7689-48c2-9c95-808d680da8e1",
+      "Name": "ZRA Tax Database",
+      "Description": "Tax compliance and VAT return data.",
+      "Type": "Database",
+      "Status": "Active",
+      "DataSource": "ZRA",
+      "IsEnabled": true,
+      "RecordsImported": 89200,
+      "LastSync": "2026-05-07T11:14:39.270265Z"
+    }
+  ]
+}

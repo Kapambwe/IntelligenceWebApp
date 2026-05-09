@@ -1,0 +1,75 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Analyses": [
+    {
+      "Id": "df395f2c-3eb8-4499-a333-32562caf5f57",
+      "EntityId": "d0a23959-6c7c-402b-bbd6-b57cd25051ef",
+      "EntityName": "Mukwa Engineering",
+      "ShellCompanyScore": 88.5,
+      "RiskLevel": "High",
+      "DetectedIndicators": [
+        0,
+        2,
+        4
+      ],
+      "CreatedAt": "2026-05-04T11:15:15.756354Z",
+      "UpdatedAt": "2026-05-08T11:15:15.756373Z"
+    },
+    {
+      "Id": "fdbf7069-18f2-4570-8203-3dbcceae91b7",
+      "EntityId": "a3fd38db-ac3f-4158-8cb9-a703b0f10089",
+      "EntityName": "Apex Road Contractors",
+      "ShellCompanyScore": 88.5,
+      "RiskLevel": "High",
+      "DetectedIndicators": [
+        0,
+        2,
+        4
+      ],
+      "CreatedAt": "2026-05-04T11:15:15.756396Z",
+      "UpdatedAt": "2026-05-08T11:15:15.756400Z"
+    },
+    {
+      "Id": "be08b3d6-8417-4b60-8d80-2ba624954e71",
+      "EntityId": "7123fff9-82f2-490c-b018-b1682bf08059",
+      "EntityName": "Apex Road Contractors",
+      "ShellCompanyScore": 88.5,
+      "RiskLevel": "High",
+      "DetectedIndicators": [
+        0,
+        2,
+        4
+      ],
+      "CreatedAt": "2026-05-04T11:15:15.756421Z",
+      "UpdatedAt": "2026-05-08T11:15:15.756425Z"
+    },
+    {
+      "Id": "659db2ec-8201-490b-bb42-e1535a773b7a",
+      "EntityId": "dbdb1874-ade1-43ea-aa57-b1304dfc41f1",
+      "EntityName": "Mukwa Engineering",
+      "ShellCompanyScore": 88.5,
+      "RiskLevel": "High",
+      "DetectedIndicators": [
+        0,
+        2,
+        4
+      ],
+      "CreatedAt": "2026-05-04T11:15:15.756443Z",
+      "UpdatedAt": "2026-05-08T11:15:15.756448Z"
+    },
+    {
+      "Id": "a4368df9-3a7e-473c-b558-4e031cd64085",
+      "EntityId": "c925df25-5f90-4367-a6ba-4fafb17d54f8",
+      "EntityName": "Mukwa Engineering",
+      "ShellCompanyScore": 88.5,
+      "RiskLevel": "High",
+      "DetectedIndicators": [
+        0,
+        2,
+        4
+      ],
+      "CreatedAt": "2026-05-04T11:15:15.756465Z",
+      "UpdatedAt": "2026-05-08T11:15:15.756470Z"
+    }
+  ]
+}

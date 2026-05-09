@@ -3,7 +3,7 @@
   "Entities": [
     {
       "Id": "0524c794-249b-0712-06ad-00e34345700e",
-      "Name": "Government departments - Ndola",
+      "Name": "Chileshe Nyirenda",
       "Type": "individual",
       "Status": "investigation",
       "RiskScore": 48,
@@ -12,7 +12,7 @@
     },
     {
       "Id": "00b8aab9-1e45-20fd-1af9-00759f347d0e",
-      "Name": "Government departments - Kabwe",
+      "Name": "Zambia Medicines Regulatory Authority",
       "Type": "organization",
       "Status": "active",
       "RiskScore": 23,
@@ -21,7 +21,7 @@
     },
     {
       "Id": "0349e629-2070-261b-20cb-0082c9d01899",
-      "Name": "Contractors - Kitwe",
+      "Name": "Apex Road Contractors Ltd",
       "Type": "organization",
       "Status": "investigation",
       "RiskScore": 31,
@@ -30,7 +30,7 @@
     },
     {
       "Id": "0393d500-07bd-2455-1c3c-00ae306303c8",
-      "Name": "Contractors - Livingstone",
+      "Name": "John Banda",
       "Type": "individual",
       "Status": "cleared",
       "RiskScore": 82,
@@ -39,7 +39,7 @@
     },
     {
       "Id": "05091ced-1964-07b3-1c59-00a12bcb04b5",
-      "Name": "Contractors - Livingstone",
+      "Name": "Apex Road Contractors Ltd",
       "Type": "organization",
       "Status": "cleared",
       "RiskScore": 29,
@@ -48,7 +48,7 @@
     },
     {
       "Id": "05bcf357-164b-0fe4-25b5-008bdc7a4cef",
-      "Name": "Government departments - Kitwe",
+      "Name": "Mary Mulenga",
       "Type": "individual",
       "Status": "investigation",
       "RiskScore": 94,
@@ -57,7 +57,7 @@
     },
     {
       "Id": "010b3dec-10a7-137f-1b84-008f5d4ff9dc",
-      "Name": "Public officials - Livingstone",
+      "Name": "Ministry of Infrastructure",
       "Type": "organization",
       "Status": "active",
       "RiskScore": 50,
@@ -66,7 +66,7 @@
     },
     {
       "Id": "00a47d87-1732-239c-23fa-00617084a98e",
-      "Name": "Public officials - Livingstone",
+      "Name": "Road Development Agency",
       "Type": "organization",
       "Status": "active",
       "RiskScore": 92,
@@ -75,7 +75,7 @@
     },
     {
       "Id": "03be7fa0-0a1c-08f0-1cb5-005f467224fd",
-      "Name": "Contractors - Livingstone",
+      "Name": "Sarah Mulenga",
       "Type": "individual",
       "Status": "active",
       "RiskScore": 85,
@@ -84,7 +84,7 @@
     },
     {
       "Id": "01512691-1df0-0734-0e76-007e4d436a7c",
-      "Name": "Political figures - Ndola",
+      "Name": "Peter Tembo",
       "Type": "individual",
       "Status": "investigation",
       "RiskScore": 25,
@@ -93,7 +93,7 @@
     },
     {
       "Id": "03468051-0b89-17dc-1460-00cd89d39789",
-      "Name": "Public officials - Ndola",
+      "Name": "Copperbelt Suppliers",
       "Type": "organization",
       "Status": "cleared",
       "RiskScore": 39,
@@ -102,7 +102,7 @@
     },
     {
       "Id": "02177a45-0765-25bf-0ac0-00c19804de07",
-      "Name": "Public officials - Ndola",
+      "Name": "Kafue Logistics",
       "Type": "organization",
       "Status": "cleared",
       "RiskScore": 34,
@@ -111,7 +111,7 @@
     },
     {
       "Id": "00d5e780-1ecd-16c4-130e-00536f6a7b2f",
-      "Name": "Political figures - Ndola",
+      "Name": "Peter Tembo",
       "Type": "individual",
       "Status": "cleared",
       "RiskScore": 67,
@@ -120,7 +120,7 @@
     },
     {
       "Id": "0366b954-2353-0c03-255a-008527ad63ec",
-      "Name": "Political figures - Kitwe",
+      "Name": "Martha Sinkala",
       "Type": "individual",
       "Status": "suspended",
       "RiskScore": 69,
@@ -129,7 +129,7 @@
     },
     {
       "Id": "03fa9486-2172-14ca-08ee-00d2deee16df",
-      "Name": "Contractors - Livingstone",
+      "Name": "Ndola Agro",
       "Type": "organization",
       "Status": "cleared",
       "RiskScore": 31,
@@ -138,7 +138,7 @@
     },
     {
       "Id": "01f9d781-14af-21dd-17c0-007de920dd3b",
-      "Name": "Political figures - Ndola",
+      "Name": "Martha Chisenga",
       "Type": "individual",
       "Status": "active",
       "RiskScore": 20,
@@ -147,7 +147,7 @@
     },
     {
       "Id": "010f9ac7-0eb1-0518-0c44-00a489f86402",
-      "Name": "Public officials - Livingstone",
+      "Name": "John Lungu",
       "Type": "individual",
       "Status": "suspended",
       "RiskScore": 34,
@@ -156,7 +156,7 @@
     },
     {
       "Id": "01a42174-0a51-1dc2-1dd3-00dae5b6e410",
-      "Name": "Contractors - Kitwe",
+      "Name": "Chileshe Sinkala",
       "Type": "individual",
       "Status": "active",
       "RiskScore": 49,
@@ -165,7 +165,7 @@
     },
     {
       "Id": "036387de-1cee-0f35-07f6-0040c4072ba4",
-      "Name": "Political figures - Lusaka",
+      "Name": "John Nyirenda",
       "Type": "individual",
       "Status": "investigation",
       "RiskScore": 68,
@@ -174,7 +174,7 @@
     },
     {
       "Id": "00a27004-06f9-083e-064a-00ab827c4001",
-      "Name": "Public officials - Kabwe",
+      "Name": "Eagle Eye Security",
       "Type": "organization",
       "Status": "cleared",
       "RiskScore": 49,
@@ -183,7 +183,7 @@
     },
     {
       "Id": "059f45d3-1cfe-0c86-2276-00a9fd386d37",
-      "Name": "Contractors - Kabwe",
+      "Name": "Kafue Logistics",
       "Type": "organization",
       "Status": "active",
       "RiskScore": 99,
@@ -192,7 +192,7 @@
     },
     {
       "Id": "02c94650-16a1-1084-0901-009a5b4324f4",
-      "Name": "Political figures - Ndola",
+      "Name": "Peter Nyirenda",
       "Type": "individual",
       "Status": "cleared",
       "RiskScore": 60,
@@ -201,7 +201,7 @@
     },
     {
       "Id": "01e72f4c-0932-1281-14ef-008dac171551",
-      "Name": "Political figures - Lusaka",
+      "Name": "James Bwalya",
       "Type": "individual",
       "Status": "investigation",
       "RiskScore": 43,
@@ -210,7 +210,7 @@
     },
     {
       "Id": "05d99250-270b-0fa9-09de-00b1dc3d920b",
-      "Name": "Contractors - Livingstone",
+      "Name": "Grace Phiri",
       "Type": "individual",
       "Status": "investigation",
       "RiskScore": 43,
@@ -219,7 +219,7 @@
     },
     {
       "Id": "0261ea81-0b76-2321-24d6-003588d9d533",
-      "Name": "Public officials - Ndola",
+      "Name": "Ministry of Local Government",
       "Type": "organization",
       "Status": "active",
       "RiskScore": 65,
@@ -228,7 +228,7 @@
     },
     {
       "Id": "0412b527-19c1-21f0-1f20-0020b7613156",
-      "Name": "Contractors - Kabwe",
+      "Name": "Moses Chisenga",
       "Type": "individual",
       "Status": "cleared",
       "RiskScore": 75,
@@ -237,7 +237,7 @@
     },
     {
       "Id": "01a46db3-1352-1b60-2692-0075cac9b799",
-      "Name": "Contractors - Kabwe",
+      "Name": "Eagle Eye Security",
       "Type": "organization",
       "Status": "suspended",
       "RiskScore": 56,
@@ -246,7 +246,7 @@
     },
     {
       "Id": "010c70e7-15f0-09ac-078d-00c2fb87a5cb",
-      "Name": "Public officials - Lusaka",
+      "Name": "Luangwa Imports",
       "Type": "organization",
       "Status": "investigation",
       "RiskScore": 93,
@@ -255,7 +255,7 @@
     },
     {
       "Id": "0305d62f-1800-0e0f-1406-003bfca8977c",
-      "Name": "Political figures - Kabwe",
+      "Name": "Eagle Eye Security",
       "Type": "organization",
       "Status": "investigation",
       "RiskScore": 97,
@@ -264,7 +264,7 @@
     },
     {
       "Id": "04fcfffc-1218-213d-158f-001eeea60cfb",
-      "Name": "Contractors - Lusaka",
+      "Name": "Kafue Logistics",
       "Type": "organization",
       "Status": "cleared",
       "RiskScore": 62,
@@ -273,7 +273,7 @@
     },
     {
       "Id": "0571d938-0c48-25be-0627-009d04068208",
-      "Name": "Contractors - Lusaka",
+      "Name": "Joseph Phiri",
       "Type": "individual",
       "Status": "investigation",
       "RiskScore": 30,
@@ -282,7 +282,7 @@
     },
     {
       "Id": "01734d65-179d-0f8c-10f2-0086ac27481a",
-      "Name": "Government departments - Kitwe",
+      "Name": "Zambia Medicines Regulatory Authority",
       "Type": "organization",
       "Status": "suspended",
       "RiskScore": 92,
@@ -291,7 +291,7 @@
     },
     {
       "Id": "02f8b106-0bc3-0503-0fa0-003a13f9082e",
-      "Name": "Political figures - Kitwe",
+      "Name": "Luangwa Imports",
       "Type": "organization",
       "Status": "cleared",
       "RiskScore": 44,
@@ -300,7 +300,7 @@
     },
     {
       "Id": "02b085e1-256a-0848-17cf-007991905b8b",
-      "Name": "Political figures - Kitwe",
+      "Name": "Mary Banda",
       "Type": "individual",
       "Status": "investigation",
       "RiskScore": 34,
@@ -309,7 +309,7 @@
     },
     {
       "Id": "009b21db-234a-0d47-09e7-0034ab10db67",
-      "Name": "Contractors - Kitwe",
+      "Name": "Sarah Chisenga",
       "Type": "individual",
       "Status": "active",
       "RiskScore": 37,
@@ -318,7 +318,7 @@
     },
     {
       "Id": "01456af4-0896-0c02-08e8-006069d19cbe",
-      "Name": "Government departments - Kabwe",
+      "Name": "John Mwamba",
       "Type": "individual",
       "Status": "suspended",
       "RiskScore": 98,
@@ -327,7 +327,7 @@
     },
     {
       "Id": "0278952b-108a-239b-13b3-007b5ef6efba",
-      "Name": "Government departments - Livingstone",
+      "Name": "Chileshe Zulu",
       "Type": "individual",
       "Status": "active",
       "RiskScore": 53,
@@ -336,7 +336,7 @@
     },
     {
       "Id": "051a1b09-2455-157a-2407-00d240086ea1",
-      "Name": "Political figures - Ndola",
+      "Name": "Ministry of Infrastructure",
       "Type": "organization",
       "Status": "cleared",
       "RiskScore": 88,
@@ -345,7 +345,7 @@
     },
     {
       "Id": "00d9ab29-20ba-1f0b-0cb8-008ac2f51e5e",
-      "Name": "Political figures - Ndola",
+      "Name": "Martha Zulu",
       "Type": "individual",
       "Status": "investigation",
       "RiskScore": 50,
@@ -354,7 +354,7 @@
     },
     {
       "Id": "05ce28c4-132b-22ba-0b40-00ab1b0f9770",
-      "Name": "Political figures - Kabwe",
+      "Name": "Grace Mumba",
       "Type": "individual",
       "Status": "investigation",
       "RiskScore": 23,
@@ -363,7 +363,7 @@
     },
     {
       "Id": "059bff33-1b1d-14a9-1252-005eff619168",
-      "Name": "Government departments - Ndola",
+      "Name": "Lusaka City Council",
       "Type": "organization",
       "Status": "suspended",
       "RiskScore": 93,
@@ -372,7 +372,7 @@
     },
     {
       "Id": "00e208fd-0b1b-221a-1c5b-008180be75db",
-      "Name": "Contractors - Ndola",
+      "Name": "Kafue Logistics",
       "Type": "organization",
       "Status": "cleared",
       "RiskScore": 54,
@@ -381,7 +381,7 @@
     },
     {
       "Id": "03d35f4c-1e28-14ba-1b8e-00538d2150a5",
-      "Name": "Public officials - Lusaka",
+      "Name": "Joseph Mulenga",
       "Type": "individual",
       "Status": "cleared",
       "RiskScore": 95,
@@ -390,7 +390,7 @@
     },
     {
       "Id": "052a486e-20d0-1667-1066-005b78133389",
-      "Name": "Government departments - Ndola",
+      "Name": "Joseph Phiri",
       "Type": "individual",
       "Status": "cleared",
       "RiskScore": 48,
@@ -399,7 +399,7 @@
     },
     {
       "Id": "017bac5e-09d8-174a-0872-00994871c266",
-      "Name": "Government departments - Kitwe",
+      "Name": "Moses Mwamba",
       "Type": "individual",
       "Status": "suspended",
       "RiskScore": 84,
@@ -408,7 +408,7 @@
     },
     {
       "Id": "028f459c-1856-1b53-1aa2-00be59933c17",
-      "Name": "Contractors - Livingstone",
+      "Name": "Mary Banda",
       "Type": "individual",
       "Status": "cleared",
       "RiskScore": 48,
@@ -417,7 +417,7 @@
     },
     {
       "Id": "00a6a931-14ce-08a3-0695-008bc53f7ef9",
-      "Name": "Government departments - Lusaka",
+      "Name": "Lusaka City Council",
       "Type": "organization",
       "Status": "cleared",
       "RiskScore": 87,
@@ -426,7 +426,7 @@
     },
     {
       "Id": "0359f240-1bbd-269c-16e9-0030faa013b2",
-      "Name": "Political figures - Ndola",
+      "Name": "Mutale Sinkala",
       "Type": "individual",
       "Status": "cleared",
       "RiskScore": 24,
@@ -435,7 +435,7 @@
     },
     {
       "Id": "027a875c-098f-1142-1725-008ac0bc3d78",
-      "Name": "Public officials - Livingstone",
+      "Name": "Ministry of Agriculture",
       "Type": "organization",
       "Status": "cleared",
       "RiskScore": 50,
@@ -444,12 +444,192 @@
     },
     {
       "Id": "051848f4-1899-1d98-0fcd-0025d0304ec8",
-      "Name": "Public officials - Ndola",
+      "Name": "Lusaka City Council",
       "Type": "organization",
       "Status": "active",
       "RiskScore": 40,
       "CreatedAt": "2025-02-20T17:30:30Z",
       "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "fb5cf044-a408-414d-9e1a-fc92bf54137d",
+      "Name": "Sarah Sinkala",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 85.0,
+      "CreatedAt": "2026-01-02T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "b9fb526b-c95f-4cad-8791-4fc75cc80b23",
+      "Name": "Emmanuel Lungu",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 10.0,
+      "CreatedAt": "2025-11-10T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "58d9630c-49d5-40d1-8aab-513c5bc5c6fe",
+      "Name": "Victoria Falls Power",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 24.0,
+      "CreatedAt": "2025-06-17T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "bfff40f1-ee03-4783-92f5-2de9a57f4079",
+      "Name": "Ndola Agro",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 47.0,
+      "CreatedAt": "2026-03-05T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "4498b971-5d68-4b9e-acc3-beb5e0186ff9",
+      "Name": "Mainza Mulenga",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 80.0,
+      "CreatedAt": "2025-04-09T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "2f296fdf-f91d-4cfd-ad58-ddff72ea3776",
+      "Name": "Martha Hichilema",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 76.0,
+      "CreatedAt": "2026-03-14T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "9aa4214f-371e-49a2-903b-9ffe900f11c5",
+      "Name": "Ndola Agro",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 69.0,
+      "CreatedAt": "2025-09-25T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "395e3d29-8021-43b8-85a9-6d3914b7c901",
+      "Name": "Joseph Nyirenda",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 85.0,
+      "CreatedAt": "2026-03-10T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "1a624c08-7636-4cbd-a294-8e9b526eec01",
+      "Name": "Joseph Phiri",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 57.0,
+      "CreatedAt": "2025-12-17T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "eee0bbad-c82f-4882-9df3-4a3d44781645",
+      "Name": "Zambia Sugar Corp",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 84.0,
+      "CreatedAt": "2026-02-09T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "b8dec995-b3ea-4b27-a9e9-58d05fc3baaa",
+      "Name": "Apex Road Contractors Ltd",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 56.0,
+      "CreatedAt": "2025-12-03T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "98b0fe51-3569-4f7c-8821-c63ce1bd2612",
+      "Name": "Mainza Chisenga",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 38.0,
+      "CreatedAt": "2025-12-06T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "fc7de05f-c48a-446b-bfa3-a5a58d76e685",
+      "Name": "Catherine Mumba",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 68.0,
+      "CreatedAt": "2025-01-11T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "1bdf6bd6-715f-499c-a137-da825c57b718",
+      "Name": "Mutale Mundia",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 56.0,
+      "CreatedAt": "2025-06-16T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "3380ce1a-9a77-4035-a927-e041521b0b4c",
+      "Name": "Victoria Falls Power",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 99.0,
+      "CreatedAt": "2025-01-22T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "4e79ae55-c769-445b-b84e-4550d0f19438",
+      "Name": "Southern Cross Enterprises",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 22.0,
+      "CreatedAt": "2025-10-31T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "1fc49ccd-afc7-44ca-b062-19ff930c5b99",
+      "Name": "Mainza Chanda",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 29.0,
+      "CreatedAt": "2025-06-24T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "90230a5c-0393-4f22-a754-846465d86cda",
+      "Name": "Zambezi General Dealers",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 83.0,
+      "CreatedAt": "2025-06-24T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "263654df-d67d-4084-81c3-81a8efd0952d",
+      "Name": "Mukwa Engineering",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 52.0,
+      "CreatedAt": "2025-12-07T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "d1e36124-2299-481e-a1d8-144e3b041260",
+      "Name": "Kennedy Sinkala",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 38.0,
+      "CreatedAt": "2025-09-13T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
     }
   ],
   "Details": [

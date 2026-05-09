@@ -1,0 +1,3919 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Entities": [
+    {
+      "Id": "0524c794-249b-0712-06ad-00e34345700e",
+      "Name": "Chileshe Nyirenda",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 48,
+      "CreatedAt": "2025-06-22T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "00b8aab9-1e45-20fd-1af9-00759f347d0e",
+      "Name": "Zambia Medicines Regulatory Authority",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 23,
+      "CreatedAt": "2025-07-12T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z"
+    },
+    {
+      "Id": "0349e629-2070-261b-20cb-0082c9d01899",
+      "Name": "Apex Road Contractors Ltd",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 31,
+      "CreatedAt": "2024-03-04T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z"
+    },
+    {
+      "Id": "0393d500-07bd-2455-1c3c-00ae306303c8",
+      "Name": "John Banda",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 82,
+      "CreatedAt": "2023-11-20T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z"
+    },
+    {
+      "Id": "05091ced-1964-07b3-1c59-00a12bcb04b5",
+      "Name": "Apex Road Contractors Ltd",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 29,
+      "CreatedAt": "2024-11-30T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z"
+    },
+    {
+      "Id": "05bcf357-164b-0fe4-25b5-008bdc7a4cef",
+      "Name": "Mary Mulenga",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 94,
+      "CreatedAt": "2025-07-06T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "010b3dec-10a7-137f-1b84-008f5d4ff9dc",
+      "Name": "Ministry of Infrastructure",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 50,
+      "CreatedAt": "2024-04-12T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "00a47d87-1732-239c-23fa-00617084a98e",
+      "Name": "Road Development Agency",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 92,
+      "CreatedAt": "2025-05-05T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z"
+    },
+    {
+      "Id": "03be7fa0-0a1c-08f0-1cb5-005f467224fd",
+      "Name": "Sarah Mulenga",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 85,
+      "CreatedAt": "2024-02-26T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z"
+    },
+    {
+      "Id": "01512691-1df0-0734-0e76-007e4d436a7c",
+      "Name": "Peter Tembo",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 25,
+      "CreatedAt": "2024-11-29T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "03468051-0b89-17dc-1460-00cd89d39789",
+      "Name": "Copperbelt Suppliers",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 39,
+      "CreatedAt": "2025-05-23T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "02177a45-0765-25bf-0ac0-00c19804de07",
+      "Name": "Kafue Logistics",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 34,
+      "CreatedAt": "2023-12-11T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "00d5e780-1ecd-16c4-130e-00536f6a7b2f",
+      "Name": "Peter Tembo",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 67,
+      "CreatedAt": "2024-11-24T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "0366b954-2353-0c03-255a-008527ad63ec",
+      "Name": "Martha Sinkala",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 69,
+      "CreatedAt": "2024-08-27T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "03fa9486-2172-14ca-08ee-00d2deee16df",
+      "Name": "Ndola Agro",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 31,
+      "CreatedAt": "2024-06-22T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "01f9d781-14af-21dd-17c0-007de920dd3b",
+      "Name": "Martha Chisenga",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 20,
+      "CreatedAt": "2024-04-27T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "010f9ac7-0eb1-0518-0c44-00a489f86402",
+      "Name": "John Lungu",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 34,
+      "CreatedAt": "2025-04-05T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "01a42174-0a51-1dc2-1dd3-00dae5b6e410",
+      "Name": "Chileshe Sinkala",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49,
+      "CreatedAt": "2025-02-21T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z"
+    },
+    {
+      "Id": "036387de-1cee-0f35-07f6-0040c4072ba4",
+      "Name": "John Nyirenda",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 68,
+      "CreatedAt": "2024-03-05T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z"
+    },
+    {
+      "Id": "00a27004-06f9-083e-064a-00ab827c4001",
+      "Name": "Eagle Eye Security",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 49,
+      "CreatedAt": "2023-12-05T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "059f45d3-1cfe-0c86-2276-00a9fd386d37",
+      "Name": "Kafue Logistics",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 99,
+      "CreatedAt": "2024-08-20T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z"
+    },
+    {
+      "Id": "02c94650-16a1-1084-0901-009a5b4324f4",
+      "Name": "Peter Nyirenda",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 60,
+      "CreatedAt": "2024-02-17T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z"
+    },
+    {
+      "Id": "01e72f4c-0932-1281-14ef-008dac171551",
+      "Name": "James Bwalya",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 43,
+      "CreatedAt": "2025-08-03T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "05d99250-270b-0fa9-09de-00b1dc3d920b",
+      "Name": "Grace Phiri",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 43,
+      "CreatedAt": "2025-04-01T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z"
+    },
+    {
+      "Id": "0261ea81-0b76-2321-24d6-003588d9d533",
+      "Name": "Ministry of Local Government",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 65,
+      "CreatedAt": "2023-11-24T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "0412b527-19c1-21f0-1f20-0020b7613156",
+      "Name": "Moses Chisenga",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 75,
+      "CreatedAt": "2024-11-21T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "01a46db3-1352-1b60-2692-0075cac9b799",
+      "Name": "Eagle Eye Security",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 56,
+      "CreatedAt": "2023-11-19T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "010c70e7-15f0-09ac-078d-00c2fb87a5cb",
+      "Name": "Luangwa Imports",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 93,
+      "CreatedAt": "2024-06-04T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z"
+    },
+    {
+      "Id": "0305d62f-1800-0e0f-1406-003bfca8977c",
+      "Name": "Eagle Eye Security",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 97,
+      "CreatedAt": "2024-08-23T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z"
+    },
+    {
+      "Id": "04fcfffc-1218-213d-158f-001eeea60cfb",
+      "Name": "Kafue Logistics",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 62,
+      "CreatedAt": "2025-08-07T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "0571d938-0c48-25be-0627-009d04068208",
+      "Name": "Joseph Phiri",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 30,
+      "CreatedAt": "2024-06-30T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "01734d65-179d-0f8c-10f2-0086ac27481a",
+      "Name": "Zambia Medicines Regulatory Authority",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 92,
+      "CreatedAt": "2024-06-06T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "02f8b106-0bc3-0503-0fa0-003a13f9082e",
+      "Name": "Luangwa Imports",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 44,
+      "CreatedAt": "2025-02-20T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z"
+    },
+    {
+      "Id": "02b085e1-256a-0848-17cf-007991905b8b",
+      "Name": "Mary Banda",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 34,
+      "CreatedAt": "2024-03-18T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z"
+    },
+    {
+      "Id": "009b21db-234a-0d47-09e7-0034ab10db67",
+      "Name": "Sarah Chisenga",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 37,
+      "CreatedAt": "2023-12-18T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z"
+    },
+    {
+      "Id": "01456af4-0896-0c02-08e8-006069d19cbe",
+      "Name": "John Mwamba",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 98,
+      "CreatedAt": "2024-11-01T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z"
+    },
+    {
+      "Id": "0278952b-108a-239b-13b3-007b5ef6efba",
+      "Name": "Chileshe Zulu",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 53,
+      "CreatedAt": "2024-09-21T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "051a1b09-2455-157a-2407-00d240086ea1",
+      "Name": "Ministry of Infrastructure",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 88,
+      "CreatedAt": "2025-06-27T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z"
+    },
+    {
+      "Id": "00d9ab29-20ba-1f0b-0cb8-008ac2f51e5e",
+      "Name": "Martha Zulu",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 50,
+      "CreatedAt": "2024-02-28T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z"
+    },
+    {
+      "Id": "05ce28c4-132b-22ba-0b40-00ab1b0f9770",
+      "Name": "Grace Mumba",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 23,
+      "CreatedAt": "2025-06-04T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z"
+    },
+    {
+      "Id": "059bff33-1b1d-14a9-1252-005eff619168",
+      "Name": "Lusaka City Council",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2025-04-30T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z"
+    },
+    {
+      "Id": "00e208fd-0b1b-221a-1c5b-008180be75db",
+      "Name": "Kafue Logistics",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 54,
+      "CreatedAt": "2024-04-20T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "03d35f4c-1e28-14ba-1b8e-00538d2150a5",
+      "Name": "Joseph Mulenga",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 95,
+      "CreatedAt": "2024-03-12T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z"
+    },
+    {
+      "Id": "052a486e-20d0-1667-1066-005b78133389",
+      "Name": "Joseph Phiri",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2025-03-24T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "017bac5e-09d8-174a-0872-00994871c266",
+      "Name": "Moses Mwamba",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 84,
+      "CreatedAt": "2024-03-03T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z"
+    },
+    {
+      "Id": "028f459c-1856-1b53-1aa2-00be59933c17",
+      "Name": "Mary Banda",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2025-09-07T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "00a6a931-14ce-08a3-0695-008bc53f7ef9",
+      "Name": "Lusaka City Council",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 87,
+      "CreatedAt": "2025-10-02T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z"
+    },
+    {
+      "Id": "0359f240-1bbd-269c-16e9-0030faa013b2",
+      "Name": "Mutale Sinkala",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 24,
+      "CreatedAt": "2024-06-02T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z"
+    },
+    {
+      "Id": "027a875c-098f-1142-1725-008ac0bc3d78",
+      "Name": "Ministry of Agriculture",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 50,
+      "CreatedAt": "2024-04-15T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z"
+    },
+    {
+      "Id": "051848f4-1899-1d98-0fcd-0025d0304ec8",
+      "Name": "Lusaka City Council",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 40,
+      "CreatedAt": "2025-02-20T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z"
+    },
+    {
+      "Id": "fb5cf044-a408-414d-9e1a-fc92bf54137d",
+      "Name": "Sarah Sinkala",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 85.0,
+      "CreatedAt": "2026-01-02T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "b9fb526b-c95f-4cad-8791-4fc75cc80b23",
+      "Name": "Emmanuel Lungu",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 10.0,
+      "CreatedAt": "2025-11-10T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "58d9630c-49d5-40d1-8aab-513c5bc5c6fe",
+      "Name": "Victoria Falls Power",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 24.0,
+      "CreatedAt": "2025-06-17T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "bfff40f1-ee03-4783-92f5-2de9a57f4079",
+      "Name": "Ndola Agro",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 47.0,
+      "CreatedAt": "2026-03-05T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "4498b971-5d68-4b9e-acc3-beb5e0186ff9",
+      "Name": "Mainza Mulenga",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 80.0,
+      "CreatedAt": "2025-04-09T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "2f296fdf-f91d-4cfd-ad58-ddff72ea3776",
+      "Name": "Martha Hichilema",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 76.0,
+      "CreatedAt": "2026-03-14T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "9aa4214f-371e-49a2-903b-9ffe900f11c5",
+      "Name": "Ndola Agro",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 69.0,
+      "CreatedAt": "2025-09-25T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "395e3d29-8021-43b8-85a9-6d3914b7c901",
+      "Name": "Joseph Nyirenda",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 85.0,
+      "CreatedAt": "2026-03-10T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "1a624c08-7636-4cbd-a294-8e9b526eec01",
+      "Name": "Joseph Phiri",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 57.0,
+      "CreatedAt": "2025-12-17T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "eee0bbad-c82f-4882-9df3-4a3d44781645",
+      "Name": "Zambia Sugar Corp",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 84.0,
+      "CreatedAt": "2026-02-09T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "b8dec995-b3ea-4b27-a9e9-58d05fc3baaa",
+      "Name": "Apex Road Contractors Ltd",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 56.0,
+      "CreatedAt": "2025-12-03T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "98b0fe51-3569-4f7c-8821-c63ce1bd2612",
+      "Name": "Mainza Chisenga",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 38.0,
+      "CreatedAt": "2025-12-06T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "fc7de05f-c48a-446b-bfa3-a5a58d76e685",
+      "Name": "Catherine Mumba",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 68.0,
+      "CreatedAt": "2025-01-11T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "1bdf6bd6-715f-499c-a137-da825c57b718",
+      "Name": "Mutale Mundia",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 56.0,
+      "CreatedAt": "2025-06-16T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "3380ce1a-9a77-4035-a927-e041521b0b4c",
+      "Name": "Victoria Falls Power",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 99.0,
+      "CreatedAt": "2025-01-22T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "4e79ae55-c769-445b-b84e-4550d0f19438",
+      "Name": "Southern Cross Enterprises",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 22.0,
+      "CreatedAt": "2025-10-31T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "1fc49ccd-afc7-44ca-b062-19ff930c5b99",
+      "Name": "Mainza Chanda",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 29.0,
+      "CreatedAt": "2025-06-24T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "90230a5c-0393-4f22-a754-846465d86cda",
+      "Name": "Zambezi General Dealers",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 83.0,
+      "CreatedAt": "2025-06-24T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "263654df-d67d-4084-81c3-81a8efd0952d",
+      "Name": "Mukwa Engineering",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 52.0,
+      "CreatedAt": "2025-12-07T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    },
+    {
+      "Id": "d1e36124-2299-481e-a1d8-144e3b041260",
+      "Name": "Kennedy Sinkala",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 38.0,
+      "CreatedAt": "2025-09-13T00:00:00Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z"
+    }
+  ],
+  "Details": [
+    {
+      "Id": "0524c794-249b-0712-06ad-00e34345700e",
+      "Name": "Government departments - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 48,
+      "CreatedAt": "2025-06-22T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2025-8773",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "abuse of office",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "High",
+          "Score": 15
+        },
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00b8aab9-1e45-20fd-1af9-00759f347d0e",
+      "Name": "Government departments - Kabwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 23,
+      "CreatedAt": "2025-07-12T17:30:30Z",
+      "UpdatedAt": "2026-01-18T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2025-7923",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "graft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Graft",
+          "Severity": "Critical",
+          "Score": 10
+        },
+        {
+          "Name": "Corruption",
+          "Severity": "Critical",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0349e629-2070-261b-20cb-0082c9d01899",
+      "Name": "Contractors - Kitwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 31,
+      "CreatedAt": "2024-03-04T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2022-2132",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "graft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption",
+          "Severity": "Critical",
+          "Score": 38
+        },
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Medium",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0393d500-07bd-2455-1c3c-00ae306303c8",
+      "Name": "Contractors - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 82,
+      "CreatedAt": "2023-11-20T17:30:30Z",
+      "UpdatedAt": "2026-01-02T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2020-7766",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "abuse of office",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Low",
+          "Score": 40
+        },
+        {
+          "Name": "Bribery",
+          "Severity": "Medium",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05091ced-1964-07b3-1c59-00a12bcb04b5",
+      "Name": "Contractors - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 29,
+      "CreatedAt": "2024-11-30T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2025-2545",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "bribery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Graft",
+          "Severity": "Medium",
+          "Score": 17
+        },
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Medium",
+          "Score": 25
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05bcf357-164b-0fe4-25b5-008bdc7a4cef",
+      "Name": "Government departments - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 94,
+      "CreatedAt": "2025-07-06T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2022-3083",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "abuse of office",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Abuse of office",
+          "Severity": "Low",
+          "Score": 25
+        },
+        {
+          "Name": "Abuse of office",
+          "Severity": "Medium",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "010b3dec-10a7-137f-1b84-008f5d4ff9dc",
+      "Name": "Public officials - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 50,
+      "CreatedAt": "2024-04-12T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2020-7612",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Abuse of office",
+          "Severity": "High",
+          "Score": 16
+        },
+        {
+          "Name": "Abuse of office",
+          "Severity": "Critical",
+          "Score": 15
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a47d87-1732-239c-23fa-00617084a98e",
+      "Name": "Public officials - Livingstone",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 92,
+      "CreatedAt": "2025-05-05T17:30:30Z",
+      "UpdatedAt": "2026-01-15T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2022-7466",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Low",
+          "Score": 44
+        },
+        {
+          "Name": "Abuse of office",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03be7fa0-0a1c-08f0-1cb5-005f467224fd",
+      "Name": "Contractors - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 85,
+      "CreatedAt": "2024-02-26T17:30:30Z",
+      "UpdatedAt": "2026-01-12T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2021-1209",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Graft",
+          "Severity": "Critical",
+          "Score": 25
+        },
+        {
+          "Name": "Bribery",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01512691-1df0-0734-0e76-007e4d436a7c",
+      "Name": "Political figures - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 25,
+      "CreatedAt": "2024-11-29T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2026-1145",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Graft",
+          "Severity": "Medium",
+          "Score": 23
+        },
+        {
+          "Name": "Abuse of office",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03468051-0b89-17dc-1460-00cd89d39789",
+      "Name": "Public officials - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 39,
+      "CreatedAt": "2025-05-23T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2024-7799",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "abuse of office",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Critical",
+          "Score": 45
+        },
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02177a45-0765-25bf-0ac0-00c19804de07",
+      "Name": "Public officials - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 34,
+      "CreatedAt": "2023-12-11T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2021-2715",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Abuse of office",
+          "Severity": "High",
+          "Score": 28
+        },
+        {
+          "Name": "Graft",
+          "Severity": "Critical",
+          "Score": 30
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00d5e780-1ecd-16c4-130e-00536f6a7b2f",
+      "Name": "Political figures - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 67,
+      "CreatedAt": "2024-11-24T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2020-2870",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Graft",
+          "Severity": "Critical",
+          "Score": 24
+        },
+        {
+          "Name": "Corruption",
+          "Severity": "Medium",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0366b954-2353-0c03-255a-008527ad63ec",
+      "Name": "Political figures - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 69,
+      "CreatedAt": "2024-08-27T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2024-5591",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Abuse of office",
+          "Severity": "Medium",
+          "Score": 45
+        },
+        {
+          "Name": "Abuse of office",
+          "Severity": "Medium",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03fa9486-2172-14ca-08ee-00d2deee16df",
+      "Name": "Contractors - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 31,
+      "CreatedAt": "2024-06-22T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2024-2581",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "graft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Graft",
+          "Severity": "High",
+          "Score": 13
+        },
+        {
+          "Name": "Bribery",
+          "Severity": "High",
+          "Score": 29
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01f9d781-14af-21dd-17c0-007de920dd3b",
+      "Name": "Political figures - Ndola",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 20,
+      "CreatedAt": "2024-04-27T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2020-8362",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Bribery",
+          "Severity": "Low",
+          "Score": 36
+        },
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Medium",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "010f9ac7-0eb1-0518-0c44-00a489f86402",
+      "Name": "Public officials - Livingstone",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 34,
+      "CreatedAt": "2025-04-05T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2020-5250",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Abuse of office",
+          "Severity": "Critical",
+          "Score": 12
+        },
+        {
+          "Name": "Graft",
+          "Severity": "High",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01a42174-0a51-1dc2-1dd3-00dae5b6e410",
+      "Name": "Contractors - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 49,
+      "CreatedAt": "2025-02-21T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2022-5901",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption",
+          "Severity": "Critical",
+          "Score": 13
+        },
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "High",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "036387de-1cee-0f35-07f6-0040c4072ba4",
+      "Name": "Political figures - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 68,
+      "CreatedAt": "2024-03-05T17:30:30Z",
+      "UpdatedAt": "2026-01-14T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2024-6673",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Critical",
+          "Score": 15
+        },
+        {
+          "Name": "Abuse of office",
+          "Severity": "Medium",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a27004-06f9-083e-064a-00ab827c4001",
+      "Name": "Public officials - Kabwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 49,
+      "CreatedAt": "2023-12-05T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2021-1069",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "abuse of office",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption",
+          "Severity": "High",
+          "Score": 16
+        },
+        {
+          "Name": "Abuse of office",
+          "Severity": "High",
+          "Score": 31
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "059f45d3-1cfe-0c86-2276-00a9fd386d37",
+      "Name": "Contractors - Kabwe",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 99,
+      "CreatedAt": "2024-08-20T17:30:30Z",
+      "UpdatedAt": "2025-12-28T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2020-4738",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "bribery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption",
+          "Severity": "Critical",
+          "Score": 33
+        },
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Critical",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02c94650-16a1-1084-0901-009a5b4324f4",
+      "Name": "Political figures - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 60,
+      "CreatedAt": "2024-02-17T17:30:30Z",
+      "UpdatedAt": "2026-01-08T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2024-9732",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "graft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Low",
+          "Score": 28
+        },
+        {
+          "Name": "Abuse of office",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01e72f4c-0932-1281-14ef-008dac171551",
+      "Name": "Political figures - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 43,
+      "CreatedAt": "2025-08-03T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2020-6082",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "abuse of office",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Bribery",
+          "Severity": "Critical",
+          "Score": 42
+        },
+        {
+          "Name": "Corruption",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05d99250-270b-0fa9-09de-00b1dc3d920b",
+      "Name": "Contractors - Livingstone",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 43,
+      "CreatedAt": "2025-04-01T17:30:30Z",
+      "UpdatedAt": "2026-01-19T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2026-1339",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Bribery",
+          "Severity": "High",
+          "Score": 44
+        },
+        {
+          "Name": "Abuse of office",
+          "Severity": "High",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0261ea81-0b76-2321-24d6-003588d9d533",
+      "Name": "Public officials - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 65,
+      "CreatedAt": "2023-11-24T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2020-1226",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "abuse of office",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Bribery",
+          "Severity": "Critical",
+          "Score": 17
+        },
+        {
+          "Name": "Bribery",
+          "Severity": "High",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0412b527-19c1-21f0-1f20-0020b7613156",
+      "Name": "Contractors - Kabwe",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 75,
+      "CreatedAt": "2024-11-21T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2026-5192",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption",
+          "Severity": "Low",
+          "Score": 33
+        },
+        {
+          "Name": "Graft",
+          "Severity": "High",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01a46db3-1352-1b60-2692-0075cac9b799",
+      "Name": "Contractors - Kabwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 56,
+      "CreatedAt": "2023-11-19T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2023-4441",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "bribery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption",
+          "Severity": "Low",
+          "Score": 21
+        },
+        {
+          "Name": "Graft",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "010c70e7-15f0-09ac-078d-00c2fb87a5cb",
+      "Name": "Public officials - Lusaka",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 93,
+      "CreatedAt": "2024-06-04T17:30:30Z",
+      "UpdatedAt": "2026-01-03T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2022-4872",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Graft",
+          "Severity": "Medium",
+          "Score": 20
+        },
+        {
+          "Name": "Graft",
+          "Severity": "Medium",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0305d62f-1800-0e0f-1406-003bfca8977c",
+      "Name": "Political figures - Kabwe",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 97,
+      "CreatedAt": "2024-08-23T17:30:30Z",
+      "UpdatedAt": "2026-01-01T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2021-2659",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "bribery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Graft",
+          "Severity": "High",
+          "Score": 21
+        },
+        {
+          "Name": "Graft",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "04fcfffc-1218-213d-158f-001eeea60cfb",
+      "Name": "Contractors - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 62,
+      "CreatedAt": "2025-08-07T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2023-2630",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "bribery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Bribery",
+          "Severity": "Critical",
+          "Score": 22
+        },
+        {
+          "Name": "Graft",
+          "Severity": "High",
+          "Score": 23
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0571d938-0c48-25be-0627-009d04068208",
+      "Name": "Contractors - Lusaka",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 30,
+      "CreatedAt": "2024-06-30T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2021-8962",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Abuse of office",
+          "Severity": "Medium",
+          "Score": 35
+        },
+        {
+          "Name": "Graft",
+          "Severity": "High",
+          "Score": 34
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01734d65-179d-0f8c-10f2-0086ac27481a",
+      "Name": "Government departments - Kitwe",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 92,
+      "CreatedAt": "2024-06-06T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2024-1104",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "abuse of office",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Graft",
+          "Severity": "High",
+          "Score": 20
+        },
+        {
+          "Name": "Corruption",
+          "Severity": "Critical",
+          "Score": 26
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02f8b106-0bc3-0503-0fa0-003a13f9082e",
+      "Name": "Political figures - Kitwe",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 44,
+      "CreatedAt": "2025-02-20T17:30:30Z",
+      "UpdatedAt": "2025-12-30T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2025-6214",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Ndola",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption",
+          "Severity": "High",
+          "Score": 14
+        },
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "02b085e1-256a-0848-17cf-007991905b8b",
+      "Name": "Political figures - Kitwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 34,
+      "CreatedAt": "2024-03-18T17:30:30Z",
+      "UpdatedAt": "2026-01-11T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2023-7034",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "graft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Low",
+          "Score": 23
+        },
+        {
+          "Name": "Corruption",
+          "Severity": "High",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-09T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "009b21db-234a-0d47-09e7-0034ab10db67",
+      "Name": "Contractors - Kitwe",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 37,
+      "CreatedAt": "2023-12-18T17:30:30Z",
+      "UpdatedAt": "2026-01-13T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2021-2193",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "graft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Graft",
+          "Severity": "Critical",
+          "Score": 19
+        },
+        {
+          "Name": "Graft",
+          "Severity": "Medium",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-13T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "01456af4-0896-0c02-08e8-006069d19cbe",
+      "Name": "Government departments - Kabwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 98,
+      "CreatedAt": "2024-11-01T17:30:30Z",
+      "UpdatedAt": "2025-12-23T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2026-7209",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Abuse of office",
+          "Severity": "High",
+          "Score": 19
+        },
+        {
+          "Name": "Graft",
+          "Severity": "High",
+          "Score": 28
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0278952b-108a-239b-13b3-007b5ef6efba",
+      "Name": "Government departments - Livingstone",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 53,
+      "CreatedAt": "2024-09-21T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2024-6885",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "abuse of office",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Bribery",
+          "Severity": "High",
+          "Score": 10
+        },
+        {
+          "Name": "Graft",
+          "Severity": "High",
+          "Score": 16
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "051a1b09-2455-157a-2407-00d240086ea1",
+      "Name": "Political figures - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 88,
+      "CreatedAt": "2025-06-27T17:30:30Z",
+      "UpdatedAt": "2026-01-17T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2026-9295",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "graft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Abuse of office",
+          "Severity": "Low",
+          "Score": 42
+        },
+        {
+          "Name": "Abuse of office",
+          "Severity": "High",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00d9ab29-20ba-1f0b-0cb8-008ac2f51e5e",
+      "Name": "Political figures - Ndola",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 50,
+      "CreatedAt": "2024-02-28T17:30:30Z",
+      "UpdatedAt": "2025-12-27T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2021-3518",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "High",
+          "Score": 43
+        },
+        {
+          "Name": "Graft",
+          "Severity": "High",
+          "Score": 19
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-17T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "05ce28c4-132b-22ba-0b40-00ab1b0f9770",
+      "Name": "Political figures - Kabwe",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 23,
+      "CreatedAt": "2025-06-04T17:30:30Z",
+      "UpdatedAt": "2026-01-04T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2020-4772",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "bribery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Graft",
+          "Severity": "Low",
+          "Score": 28
+        },
+        {
+          "Name": "Bribery",
+          "Severity": "Medium",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "059bff33-1b1d-14a9-1252-005eff619168",
+      "Name": "Government departments - Ndola",
+      "Type": "organization",
+      "Status": "suspended",
+      "RiskScore": 93,
+      "CreatedAt": "2025-04-30T17:30:30Z",
+      "UpdatedAt": "2025-12-31T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2021-1434",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "abuse of office",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption",
+          "Severity": "High",
+          "Score": 16
+        },
+        {
+          "Name": "Corruption",
+          "Severity": "Critical",
+          "Score": 33
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-14T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-18T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00e208fd-0b1b-221a-1c5b-008180be75db",
+      "Name": "Contractors - Ndola",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 54,
+      "CreatedAt": "2024-04-20T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2024-7614",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "abuse of office",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Medium",
+          "Score": 19
+        },
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "High",
+          "Score": 22
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-10T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "03d35f4c-1e28-14ba-1b8e-00538d2150a5",
+      "Name": "Public officials - Lusaka",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 95,
+      "CreatedAt": "2024-03-12T17:30:30Z",
+      "UpdatedAt": "2025-12-25T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2023-4012",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "corruption",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kabwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Critical",
+          "Score": 10
+        },
+        {
+          "Name": "Graft",
+          "Severity": "Critical",
+          "Score": 35
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "052a486e-20d0-1667-1066-005b78133389",
+      "Name": "Government departments - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2025-03-24T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2020-4096",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption",
+          "Severity": "Medium",
+          "Score": 21
+        },
+        {
+          "Name": "Abuse of office",
+          "Severity": "High",
+          "Score": 20
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "017bac5e-09d8-174a-0872-00994871c266",
+      "Name": "Government departments - Kitwe",
+      "Type": "individual",
+      "Status": "suspended",
+      "RiskScore": 84,
+      "CreatedAt": "2024-03-03T17:30:30Z",
+      "UpdatedAt": "2025-12-24T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2025-7647",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "abuse of office",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Critical",
+          "Score": 39
+        },
+        {
+          "Name": "Corruption",
+          "Severity": "Medium",
+          "Score": 24
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-08T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "028f459c-1856-1b53-1aa2-00be59933c17",
+      "Name": "Contractors - Livingstone",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 48,
+      "CreatedAt": "2025-09-07T17:30:30Z",
+      "UpdatedAt": "2026-01-07T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2020-5958",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "graft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Abuse of office",
+          "Severity": "Low",
+          "Score": 33
+        },
+        {
+          "Name": "Corruption",
+          "Severity": "High",
+          "Score": 17
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "00a6a931-14ce-08a3-0695-008bc53f7ef9",
+      "Name": "Government departments - Lusaka",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 87,
+      "CreatedAt": "2025-10-02T17:30:30Z",
+      "UpdatedAt": "2026-01-16T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2020-9002",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Livingstone",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Bribery",
+          "Severity": "Low",
+          "Score": 10
+        },
+        {
+          "Name": "Graft",
+          "Severity": "Medium",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-16T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-05T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "0359f240-1bbd-269c-16e9-0030faa013b2",
+      "Name": "Political figures - Ndola",
+      "Type": "individual",
+      "Status": "cleared",
+      "RiskScore": 24,
+      "CreatedAt": "2024-06-02T17:30:30Z",
+      "UpdatedAt": "2025-12-26T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2025-9136",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "illicit enrichment",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Lusaka",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Illicit enrichment",
+          "Severity": "Critical",
+          "Score": 15
+        },
+        {
+          "Name": "Graft",
+          "Severity": "Critical",
+          "Score": 18
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-06T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "027a875c-098f-1142-1725-008ac0bc3d78",
+      "Name": "Public officials - Livingstone",
+      "Type": "organization",
+      "Status": "cleared",
+      "RiskScore": 50,
+      "CreatedAt": "2024-04-15T17:30:30Z",
+      "UpdatedAt": "2026-01-09T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2025-9612",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "bribery",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Corruption",
+          "Severity": "Medium",
+          "Score": 24
+        },
+        {
+          "Name": "Abuse of office",
+          "Severity": "Medium",
+          "Score": 21
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": false,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-04T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-07T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "Id": "051848f4-1899-1d98-0fcd-0025d0304ec8",
+      "Name": "Public officials - Ndola",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 40,
+      "CreatedAt": "2025-02-20T17:30:30Z",
+      "UpdatedAt": "2025-12-29T17:30:30Z",
+      "Attributes": [
+        {
+          "Name": "Case Number",
+          "Value": "ANT-2020-7491",
+          "IsCore": true
+        },
+        {
+          "Name": "Primary Activity",
+          "Value": "graft",
+          "IsCore": true
+        },
+        {
+          "Name": "Location",
+          "Value": "Kitwe",
+          "IsCore": true
+        },
+        {
+          "Name": "Department",
+          "Value": "Anti-Corruption Commission",
+          "IsCore": false
+        }
+      ],
+      "RiskFactors": [
+        {
+          "Name": "Graft",
+          "Severity": "Low",
+          "Score": 24
+        },
+        {
+          "Name": "Graft",
+          "Severity": "Medium",
+          "Score": 27
+        }
+      ],
+      "ScreeningResults": [
+        {
+          "ScreeningType": "Criminal Record",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-12T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Sanctions",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-11T17:30:30Z"
+        },
+        {
+          "ScreeningType": "Adverse Media",
+          "HasMatch": true,
+          "CheckedAt": "2026-01-15T17:30:30Z"
+        }
+      ]
+    }
+  ],
+  "Relationships": [
+    {
+      "Id": "f8fe0dfb-8be7-4379-9742-c59f53c53af1",
+      "SourceEntityId": "0359f240-1bbd-269c-16e9-0030faa013b2",
+      "TargetEntityId": "0393d500-07bd-2455-1c3c-00ae306303c8",
+      "Type": "Ownership",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "8aff15c1-8903-4153-97ea-36fd929e3dab",
+      "SourceEntityId": "02177a45-0765-25bf-0ac0-00c19804de07",
+      "TargetEntityId": "05ce28c4-132b-22ba-0b40-00ab1b0f9770",
+      "Type": "Employment",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "b8fc9fdd-a8e3-4534-9a12-7fa1f7ff7a6f",
+      "SourceEntityId": "02f8b106-0bc3-0503-0fa0-003a13f9082e",
+      "TargetEntityId": "0393d500-07bd-2455-1c3c-00ae306303c8",
+      "Type": "Financial",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "6034d81d-7525-409d-b060-4815976a14b0",
+      "SourceEntityId": "90230a5c-0393-4f22-a754-846465d86cda",
+      "TargetEntityId": "98b0fe51-3569-4f7c-8821-c63ce1bd2612",
+      "Type": "Financial",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "5ef62e89-0ee4-44df-86e5-725f1339a8bd",
+      "SourceEntityId": "01512691-1df0-0734-0e76-007e4d436a7c",
+      "TargetEntityId": "4e79ae55-c769-445b-b84e-4550d0f19438",
+      "Type": "Associate",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "7971f13c-4832-4185-8ca4-4b2e9b4422a6",
+      "SourceEntityId": "01a46db3-1352-1b60-2692-0075cac9b799",
+      "TargetEntityId": "0349e629-2070-261b-20cb-0082c9d01899",
+      "Type": "Financial",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "5e72e667-5f52-415e-9a5c-668e20e0929d",
+      "SourceEntityId": "010c70e7-15f0-09ac-078d-00c2fb87a5cb",
+      "TargetEntityId": "0366b954-2353-0c03-255a-008527ad63ec",
+      "Type": "Financial",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "3fb6bcb5-7810-4553-a67c-1a9f18c82b90",
+      "SourceEntityId": "0359f240-1bbd-269c-16e9-0030faa013b2",
+      "TargetEntityId": "05bcf357-164b-0fe4-25b5-008bdc7a4cef",
+      "Type": "Employment",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "c56850fb-6517-4f5a-8207-f3623d3062e9",
+      "SourceEntityId": "9aa4214f-371e-49a2-903b-9ffe900f11c5",
+      "TargetEntityId": "01a46db3-1352-1b60-2692-0075cac9b799",
+      "Type": "Financial",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "3764598c-989b-4b85-88af-4bfc437c90af",
+      "SourceEntityId": "263654df-d67d-4084-81c3-81a8efd0952d",
+      "TargetEntityId": "03d35f4c-1e28-14ba-1b8e-00538d2150a5",
+      "Type": "Family",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "25fdd699-e8ae-4f76-b688-abfa4a88317e",
+      "SourceEntityId": "fb5cf044-a408-414d-9e1a-fc92bf54137d",
+      "TargetEntityId": "04fcfffc-1218-213d-158f-001eeea60cfb",
+      "Type": "Associate",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "95d7c9ce-8c94-4e80-9cdd-e7ecd00fed47",
+      "SourceEntityId": "90230a5c-0393-4f22-a754-846465d86cda",
+      "TargetEntityId": "0393d500-07bd-2455-1c3c-00ae306303c8",
+      "Type": "Employment",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "ab4b8c1c-1ffd-415f-9faf-17cbab97873f",
+      "SourceEntityId": "0393d500-07bd-2455-1c3c-00ae306303c8",
+      "TargetEntityId": "98b0fe51-3569-4f7c-8821-c63ce1bd2612",
+      "Type": "Financial",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "cf2a4c05-c477-4f84-95ff-2a757b16bea6",
+      "SourceEntityId": "b8dec995-b3ea-4b27-a9e9-58d05fc3baaa",
+      "TargetEntityId": "0524c794-249b-0712-06ad-00e34345700e",
+      "Type": "Associate",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "b70fb7c6-5fb1-470f-8b80-ed3894b37bd9",
+      "SourceEntityId": "01456af4-0896-0c02-08e8-006069d19cbe",
+      "TargetEntityId": "0261ea81-0b76-2321-24d6-003588d9d533",
+      "Type": "Associate",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "b02ae16e-ad80-484f-85f0-0418559d0f46",
+      "SourceEntityId": "1fc49ccd-afc7-44ca-b062-19ff930c5b99",
+      "TargetEntityId": "1bdf6bd6-715f-499c-a137-da825c57b718",
+      "Type": "Employment",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "51697757-d54f-4820-bbb3-ec2e2fb1548d",
+      "SourceEntityId": "05ce28c4-132b-22ba-0b40-00ab1b0f9770",
+      "TargetEntityId": "027a875c-098f-1142-1725-008ac0bc3d78",
+      "Type": "Associate",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "b5a4bd93-e4da-400a-b4de-9f99d9d36310",
+      "SourceEntityId": "1bdf6bd6-715f-499c-a137-da825c57b718",
+      "TargetEntityId": "059bff33-1b1d-14a9-1252-005eff619168",
+      "Type": "Employment",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "95ebe4d6-1b52-405c-8dc9-2ce0258f6b68",
+      "SourceEntityId": "00d9ab29-20ba-1f0b-0cb8-008ac2f51e5e",
+      "TargetEntityId": "02177a45-0765-25bf-0ac0-00c19804de07",
+      "Type": "Family",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "55f5f1fc-5c85-49db-afff-69489c667c79",
+      "SourceEntityId": "05bcf357-164b-0fe4-25b5-008bdc7a4cef",
+      "TargetEntityId": "b9fb526b-c95f-4cad-8791-4fc75cc80b23",
+      "Type": "Employment",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "93295bd3-f5c5-43c9-97a4-79fa5c799ba4",
+      "SourceEntityId": "90230a5c-0393-4f22-a754-846465d86cda",
+      "TargetEntityId": "02b085e1-256a-0848-17cf-007991905b8b",
+      "Type": "Employment",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "a3193c29-80f2-41e6-bf31-7ac055b5f751",
+      "SourceEntityId": "01a46db3-1352-1b60-2692-0075cac9b799",
+      "TargetEntityId": "58d9630c-49d5-40d1-8aab-513c5bc5c6fe",
+      "Type": "Ownership",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "d8186f93-42c0-4531-a40d-e21cc0f53c44",
+      "SourceEntityId": "0366b954-2353-0c03-255a-008527ad63ec",
+      "TargetEntityId": "010c70e7-15f0-09ac-078d-00c2fb87a5cb",
+      "Type": "Ownership",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "a28eba84-33e3-4853-a183-5f53d3b3d90b",
+      "SourceEntityId": "027a875c-098f-1142-1725-008ac0bc3d78",
+      "TargetEntityId": "98b0fe51-3569-4f7c-8821-c63ce1bd2612",
+      "Type": "Associate",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "974be614-d88c-4c66-958a-61e446d6b53b",
+      "SourceEntityId": "036387de-1cee-0f35-07f6-0040c4072ba4",
+      "TargetEntityId": "0305d62f-1800-0e0f-1406-003bfca8977c",
+      "Type": "Ownership",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "e9e04d93-ca7e-4f0f-bc69-f6770b68e2e0",
+      "SourceEntityId": "02177a45-0765-25bf-0ac0-00c19804de07",
+      "TargetEntityId": "0571d938-0c48-25be-0627-009d04068208",
+      "Type": "Family",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "4cf0231b-876d-4443-b89d-32cd2a7dd932",
+      "SourceEntityId": "1fc49ccd-afc7-44ca-b062-19ff930c5b99",
+      "TargetEntityId": "1a624c08-7636-4cbd-a294-8e9b526eec01",
+      "Type": "Associate",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "b40af588-c0ec-407b-abe1-f1ea468569bb",
+      "SourceEntityId": "b8dec995-b3ea-4b27-a9e9-58d05fc3baaa",
+      "TargetEntityId": "017bac5e-09d8-174a-0872-00994871c266",
+      "Type": "Financial",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "2188f2d9-ee65-47c0-a6d6-610f7ee81b07",
+      "SourceEntityId": "fb5cf044-a408-414d-9e1a-fc92bf54137d",
+      "TargetEntityId": "4e79ae55-c769-445b-b84e-4550d0f19438",
+      "Type": "Ownership",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "7f71d7d8-01ac-490e-a14a-cd071cc4ad11",
+      "SourceEntityId": "0571d938-0c48-25be-0627-009d04068208",
+      "TargetEntityId": "01512691-1df0-0734-0e76-007e4d436a7c",
+      "Type": "Financial",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "6c1dc4ea-b2ee-42aa-a302-ae5799218f6d",
+      "SourceEntityId": "00b8aab9-1e45-20fd-1af9-00759f347d0e",
+      "TargetEntityId": "051848f4-1899-1d98-0fcd-0025d0304ec8",
+      "Type": "Family",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "ce007e18-7281-4d93-9a64-2589208046c5",
+      "SourceEntityId": "00b8aab9-1e45-20fd-1af9-00759f347d0e",
+      "TargetEntityId": "fb5cf044-a408-414d-9e1a-fc92bf54137d",
+      "Type": "Ownership",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "fb47077b-6253-4de6-ac1d-1c30f97fecd7",
+      "SourceEntityId": "00d9ab29-20ba-1f0b-0cb8-008ac2f51e5e",
+      "TargetEntityId": "58d9630c-49d5-40d1-8aab-513c5bc5c6fe",
+      "Type": "Financial",
+      "Strength": "Medium",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "3c725c14-92b7-4ebb-a613-a2c79056393b",
+      "SourceEntityId": "d1e36124-2299-481e-a1d8-144e3b041260",
+      "TargetEntityId": "0349e629-2070-261b-20cb-0082c9d01899",
+      "Type": "Associate",
+      "Strength": "Strong",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    },
+    {
+      "Id": "917cf391-386b-4b1a-9caf-7046c0613757",
+      "SourceEntityId": "052a486e-20d0-1667-1066-005b78133389",
+      "TargetEntityId": "009b21db-234a-0d47-09e7-0034ab10db67",
+      "Type": "Associate",
+      "Strength": "Weak",
+      "CreatedAt": "2026-01-10T17:30:31Z"
+    }
+  ]
+}

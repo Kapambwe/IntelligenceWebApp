@@ -450,6 +450,141 @@
       "RiskScore": 69,
       "CreatedAt": "2024-11-20T17:30:31Z",
       "UpdatedAt": "2026-01-13T17:30:31Z"
+    },
+    {
+      "Id": "418f0c86-fd4c-49f6-9d1b-8f51bcb7d72e",
+      "Name": "Mainza Hichilema",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 71.0,
+      "CreatedAt": "2025-09-02T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "9eb29806-cfbe-407d-a61c-0c658b1144ce",
+      "Name": "James Kabaso",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 20.0,
+      "CreatedAt": "2025-07-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "f8c44808-a10b-4648-969c-1939bd1fd699",
+      "Name": "Savanna Insurance",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 72.0,
+      "CreatedAt": "2026-03-08T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "f494c566-d248-4fd3-a80d-5e0923f0220b",
+      "Name": "Savanna Insurance",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 98.0,
+      "CreatedAt": "2025-05-29T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "8300796e-5ee8-44a7-8554-64b86a449b17",
+      "Name": "Mukwa Engineering",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 74.0,
+      "CreatedAt": "2025-07-01T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "0e123b15-4062-46b7-b68f-b864d5eaba00",
+      "Name": "Kennedy Hichilema",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 81.0,
+      "CreatedAt": "2026-01-23T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "05a4451a-4a49-4b66-bd67-623b1ad15ba7",
+      "Name": "Apex Road Contractors",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 32.0,
+      "CreatedAt": "2025-01-17T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "f8ef7dba-f45e-4098-a903-c675207cb3ae",
+      "Name": "Mainza Hichilema",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 19.0,
+      "CreatedAt": "2025-05-17T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "30f16cc3-0a0b-4d66-8097-a012a7ea7e80",
+      "Name": "Victoria Falls Power",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 84.0,
+      "CreatedAt": "2025-07-26T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "fb5e54fa-4fe4-4ab4-8541-6283df07e6fb",
+      "Name": "Kafue Logistics",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 78.0,
+      "CreatedAt": "2025-07-28T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "d036ce30-7b41-490c-9097-f3cc8d599f86",
+      "Name": "AgriLoan Zambia",
+      "Type": "individual",
+      "Status": "active",
+      "RiskScore": 76.0,
+      "CreatedAt": "2025-12-08T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "d7018bc2-2f26-4eec-87ae-0c5d3b14edab",
+      "Name": "Savanna Insurance",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 32.0,
+      "CreatedAt": "2026-04-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "ce635860-4472-4fd2-b96f-ffe487f901e5",
+      "Name": "Catherine Hichilema",
+      "Type": "individual",
+      "Status": "investigation",
+      "RiskScore": 27.0,
+      "CreatedAt": "2026-02-02T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "fc6b7ade-315c-4e3e-9c6b-d3c235111576",
+      "Name": "Joseph Kunda",
+      "Type": "organization",
+      "Status": "active",
+      "RiskScore": 29.0,
+      "CreatedAt": "2025-11-27T00:00:00Z",
+      "Jurisdiction": "Zambia"
+    },
+    {
+      "Id": "43ccf2c8-a0e8-4640-9fe0-1d253285dadc",
+      "Name": "James Mumba",
+      "Type": "organization",
+      "Status": "investigation",
+      "RiskScore": 60.0,
+      "CreatedAt": "2026-01-18T00:00:00Z",
+      "Jurisdiction": "Zambia"
     }
   ],
   "Details": [

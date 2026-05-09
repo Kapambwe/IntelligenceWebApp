@@ -1,0 +1,39 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Cases": [
+    {
+      "Id": "9844e118-772a-42ef-93a0-746fe3b2609a",
+      "CaseNumber": "HT-528",
+      "Title": "Suspicious Labor Movement",
+      "Description": "Detected unusual group travel patterns consistent with labor trafficking.",
+      "Status": 1,
+      "Priority": 2,
+      "EstimatedVictimCount": 12,
+      "TraffickingRoute": "Zambia -> South Africa",
+      "AssignedTo": "Det. Banda"
+    },
+    {
+      "Id": "bef3f981-b2ba-4534-b02c-ade8baec245f",
+      "CaseNumber": "HT-607",
+      "Title": "Suspicious Labor Movement",
+      "Description": "Detected unusual group travel patterns consistent with labor trafficking.",
+      "Status": 1,
+      "Priority": 2,
+      "EstimatedVictimCount": 12,
+      "TraffickingRoute": "Zambia -> South Africa",
+      "AssignedTo": "Det. Banda"
+    },
+    {
+      "Id": "5d37bf60-4016-4f63-9a82-53f3ffcecd07",
+      "CaseNumber": "HT-556",
+      "Title": "Suspicious Labor Movement",
+      "Description": "Detected unusual group travel patterns consistent with labor trafficking.",
+      "Status": 1,
+      "Priority": 2,
+      "EstimatedVictimCount": 12,
+      "TraffickingRoute": "Zambia -> South Africa",
+      "AssignedTo": "Det. Banda"
+    }
+  ],
+  "VictimProfiles": {}
+}
