@@ -1,5 +1,72 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "e1d2c3b4-a5b6-4c7d-8e9f-0a1b2c3d4e5f",
+      "Name": "Procurement Overpricing",
+      "Description": "Analyzing price variance for specialized military hardware compared to international benchmarks.",
+      "CreatedAt": "2024-05-10T09:00:00Z",
+      "LastModified": "2024-05-11T11:00:00Z",
+      "CreatedBy": "Defense Audit",
+      "NodeCount": 92,
+      "EdgeCount": 165,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Procurement", "Audit", "Hardware"]
+    },
+    {
+      "Id": "f1e2d3c4-b5a6-4d7e-8f9a-0b1c2d3e4f5a",
+      "Name": "Intelligence Leak Investigation",
+      "Description": "Mapping document access and communication patterns following the southern border tactical leak.",
+      "CreatedAt": "2024-05-12T14:30:00Z",
+      "LastModified": "2024-05-13T09:15:00Z",
+      "CreatedBy": "Military Intelligence",
+      "NodeCount": 45,
+      "EdgeCount": 78,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Intelligence", "Security", "Counter-Intel"]
+    },
+    {
+      "Id": "b1a0c2d3-e4f5-4a6b-7c8d-9e0f1a2b3c4d",
+      "Name": "Strategic Asset Protection",
+      "Description": "Network mapping of civilian and commercial interests surrounding high-security installations.",
+      "CreatedAt": "2024-05-14T10:00:00Z",
+      "LastModified": "2024-05-14T10:00:00Z",
+      "CreatedBy": "Ops Planning",
+      "NodeCount": 150,
+      "EdgeCount": 280,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["Assets", "Strategic", "Protection"]
+    },
+    {
+      "Id": "c4d3e2f1-b0a9-4c8d-7e6f-5a4b3c2d1e0f",
+      "Name": "Border Security Vulnerability",
+      "Description": "Analyzing human terrain and informal economy links near the northern border crossing.",
+      "CreatedAt": "2024-05-16T11:45:00Z",
+      "LastModified": "2024-05-17T13:20:00Z",
+      "CreatedBy": "Border Command",
+      "NodeCount": 88,
+      "EdgeCount": 142,
+      "Layout": "breadthfirst",
+      "RootEntities": [],
+      "Tags": ["Border", "Security", "Vulnerability"]
+    },
+    {
+      "Id": "d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5a",
+      "Name": "Military Supply Chain Audit",
+      "Description": "Tracing the fulfillment of the 2023 uniforms and logistics contract through sub-vendors.",
+      "CreatedAt": "2024-05-19T16:00:00Z",
+      "LastModified": "2024-05-19T16:00:00Z",
+      "CreatedBy": "Logistics Command",
+      "NodeCount": 115,
+      "EdgeCount": 210,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Logistics", "Audit", "Supply-Chain"]
+    }
+  ],
   "Algorithms": [
     {
       "Name": "LogisticsPath",

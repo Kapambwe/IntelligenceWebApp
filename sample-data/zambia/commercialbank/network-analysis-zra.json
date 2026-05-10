@@ -1,5 +1,72 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e",
+      "Name": "Smurfing Pattern Discovery",
+      "Description": "Identifying clusters of multiple small cash deposits followed by immediate wire transfers to a single offshore account.",
+      "CreatedAt": "2024-05-10T10:00:00Z",
+      "LastModified": "2024-05-11T12:00:00Z",
+      "CreatedBy": "AML Unit",
+      "NodeCount": 145,
+      "EdgeCount": 260,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["AML", "Smurfing", "Financial-Crime"]
+    },
+    {
+      "Id": "f1a2b3c4-d5e6-4a7b-8c9d-0e1f2a3b4c5d",
+      "Name": "Retail Fraud Ring",
+      "Description": "Mapping shared phone numbers and addresses across dozens of defaulted personal loan applications.",
+      "CreatedAt": "2024-05-12T09:15:00Z",
+      "LastModified": "2024-05-13T14:30:00Z",
+      "CreatedBy": "Fraud Risk",
+      "NodeCount": 72,
+      "EdgeCount": 118,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Fraud", "Retail", "Identity-Theft"]
+    },
+    {
+      "Id": "e5d4c3b2-a1f0-4e3d-8c7b-6a5b4c3d2e1f",
+      "Name": "Employee Internal Collusion",
+      "Description": "Analyzing system access logs and transaction approvals linking bank staff to high-risk customer profiles.",
+      "CreatedAt": "2024-05-14T08:00:00Z",
+      "LastModified": "2024-05-14T08:00:00Z",
+      "CreatedBy": "Internal Investigations",
+      "NodeCount": 35,
+      "EdgeCount": 54,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["Internal", "Collusion", "Integrity"]
+    },
+    {
+      "Id": "d1c2b3a4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "Name": "Large Scale Money Laundering",
+      "Description": "Complex network analysis of shell companies and professional intermediaries facilitating illicit fund movements.",
+      "CreatedAt": "2024-05-16T11:20:00Z",
+      "LastModified": "2024-05-17T16:45:00Z",
+      "CreatedBy": "Special Investigations",
+      "NodeCount": 210,
+      "EdgeCount": 435,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["AML", "Money-Laundering", "Complex"]
+    },
+    {
+      "Id": "c7b8a9d0-e1f2-4a3b-8c4d-5e6f7a8b9c0d",
+      "Name": "Trade-Based Money Laundering",
+      "Description": "Correlation of import/export invoices with bank payment patterns to identify over-invoicing schemes.",
+      "CreatedAt": "2024-05-18T14:00:00Z",
+      "LastModified": "2024-05-18T15:30:00Z",
+      "CreatedBy": "Trade Finance Compliance",
+      "NodeCount": 88,
+      "EdgeCount": 142,
+      "Layout": "grid",
+      "RootEntities": [],
+      "Tags": ["TBML", "Trade", "Compliance"]
+    }
+  ],
   "Algorithms": [
     {
       "Name": "Transaction monitoringPath",

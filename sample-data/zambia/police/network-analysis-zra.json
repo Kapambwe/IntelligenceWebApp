@@ -1,5 +1,72 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "7e8f9a0b-1c2d-4e3f-90a1-b2c3d4e5f6a7",
+      "Name": "Copperbelt Mineral Smuggling",
+      "Description": "Cross-border tracing of illicit copper concentrates and warehouse intermediary links.",
+      "CreatedAt": "2024-05-15T09:00:00Z",
+      "LastModified": "2024-05-16T11:00:00Z",
+      "CreatedBy": "Special Ops Unit",
+      "NodeCount": 120,
+      "EdgeCount": 210,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Mining", "Smuggling", "Copperbelt"]
+    },
+    {
+      "Id": "c4d3e2f1-b0a9-4c8d-7e6f-5a4b3c2d1e0f",
+      "Name": "Lusaka Hijacking Network",
+      "Description": "Mapping the correlation between stolen vehicle reports and chop-shop distribution points.",
+      "CreatedAt": "2024-05-16T14:30:00Z",
+      "LastModified": "2024-05-17T09:15:00Z",
+      "CreatedBy": "Criminal Investigation",
+      "NodeCount": 55,
+      "EdgeCount": 89,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Auto-Theft", "Organized-Crime", "Lusaka"]
+    },
+    {
+      "Id": "b1a0c2d3-e4f5-4a6b-7c8d-9e0f1a2b3c4d",
+      "Name": "Wildlife Trafficking Ring",
+      "Description": "Analysis of poaching syndicates operating in Kafue National Park and export logistics.",
+      "CreatedAt": "2024-05-17T10:00:00Z",
+      "LastModified": "2024-05-17T10:00:00Z",
+      "CreatedBy": "Anti-Poaching Dept",
+      "NodeCount": 42,
+      "EdgeCount": 65,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["Wildlife", "Trafficking", "Interpol"]
+    },
+    {
+      "Id": "a9b8c7d6-e5f4-4321-b0a9-c8d7e6f5a4b3",
+      "Name": "Cybercrime Hub Investigation",
+      "Description": "Tracing IP addresses and local bank account links for phishing operations in Roma.",
+      "CreatedAt": "2024-05-18T11:45:00Z",
+      "LastModified": "2024-05-19T13:20:00Z",
+      "CreatedBy": "Cyber Crime Unit",
+      "NodeCount": 38,
+      "EdgeCount": 54,
+      "Layout": "breadthfirst",
+      "RootEntities": [],
+      "Tags": ["Cybercrime", "Phishing", "Financial"]
+    },
+    {
+      "Id": "f1e2d3c4-b5a6-4a7b-8c9d-0e1f2a3b4c5d",
+      "Name": "Border Contraband Flow",
+      "Description": "Movement analysis of undocumented goods through unofficial crossing points near Nakonde.",
+      "CreatedAt": "2024-05-19T16:00:00Z",
+      "LastModified": "2024-05-19T16:00:00Z",
+      "CreatedBy": "Border Police",
+      "NodeCount": 72,
+      "EdgeCount": 134,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Border-Security", "Contraband", "Trade"]
+    }
+  ],
   "Algorithms": [
     {
       "Name": "Drug traffickingPath",

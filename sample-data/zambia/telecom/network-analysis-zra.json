@@ -1,5 +1,72 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "3d1a4e5c-2b7a-4c1e-9d8b-6f0a1e2d3c4b",
+      "Name": "Tower Battery Theft Ring",
+      "Description": "Analysis of coordinated theft of backup batteries across rural towers in Central Province.",
+      "CreatedAt": "2024-05-10T10:00:00Z",
+      "LastModified": "2024-05-10T12:00:00Z",
+      "CreatedBy": "Security Ops",
+      "NodeCount": 45,
+      "EdgeCount": 78,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Infrastructure", "Zambia", "Theft"]
+    },
+    {
+      "Id": "a5e2d1c4-b7f3-4e9a-8c0d-1e2f3a4b5c6d",
+      "Name": "SIM Swap Syndicate Analysis",
+      "Description": "Investigation into social engineering patterns and internal accomplice links in SIM swap fraud.",
+      "CreatedAt": "2024-05-11T09:15:00Z",
+      "LastModified": "2024-05-12T14:30:00Z",
+      "CreatedBy": "Fraud Dept",
+      "NodeCount": 32,
+      "EdgeCount": 56,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Fraud", "SIM-Swap", "Internal"]
+    },
+    {
+      "Id": "f9b0d2e1-a6c4-4b5d-9e8f-7a6b5c4d3e2f",
+      "Name": "Illegal VoIP Gateway Discovery",
+      "Description": "Tracing unauthorized international call termination through grey market gateways.",
+      "CreatedAt": "2024-05-12T08:00:00Z",
+      "LastModified": "2024-05-12T08:00:00Z",
+      "CreatedBy": "Network Integrity",
+      "NodeCount": 18,
+      "EdgeCount": 24,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["VoIP", "Revenue-Assurance", "Illegal-Bypass"]
+    },
+    {
+      "Id": "c7a8b9d0-e1f2-4a3b-8c4d-5e6f7a8b9c0d",
+      "Name": "Mobile Money Fraud Trace",
+      "Description": "Mapping the flow of funds from victim accounts to cash-out points in various markets.",
+      "CreatedAt": "2024-05-13T11:20:00Z",
+      "LastModified": "2024-05-14T16:45:00Z",
+      "CreatedBy": "Risk Management",
+      "NodeCount": 65,
+      "EdgeCount": 112,
+      "Layout": "breadthfirst",
+      "RootEntities": [],
+      "Tags": ["Mobile-Money", "AML", "Fraud"]
+    },
+    {
+      "Id": "d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5a",
+      "Name": "Network Outage Correlation",
+      "Description": "Analysis of cascading failures and root cause identification for the Southern Region outage.",
+      "CreatedAt": "2024-05-14T14:00:00Z",
+      "LastModified": "2024-05-14T15:30:00Z",
+      "CreatedBy": "Network Ops",
+      "NodeCount": 28,
+      "EdgeCount": 42,
+      "Layout": "grid",
+      "RootEntities": [],
+      "Tags": ["Operational", "Root-Cause", "Reliability"]
+    }
+  ],
   "Algorithms": [
     {
       "Name": "Service deliveryPath",

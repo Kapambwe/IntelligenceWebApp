@@ -1,56 +1,89 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "12345678-90ab-4cde-f123-4567890abcde",
+      "Name": "Corruption Source Mapping",
+      "Description": "Network analysis of whistleblower disclosures to identify cross-departmental corruption patterns.",
+      "CreatedAt": "2024-05-10T10:00:00Z",
+      "LastModified": "2024-05-10T12:00:00Z",
+      "CreatedBy": "Investigative Desk",
+      "NodeCount": 65,
+      "EdgeCount": 112,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Corruption", "Whistleblower", "Investigation"]
+    },
+    {
+      "Id": "23456789-0abc-4def-0123-4567890abcde",
+      "Name": "Political Funding Trace",
+      "Description": "Tracing private donor contributions to political campaigns and subsequent contract awards.",
+      "CreatedAt": "2024-05-11T09:00:00Z",
+      "LastModified": "2024-05-11T15:30:00Z",
+      "CreatedBy": "Political Editor",
+      "NodeCount": 84,
+      "EdgeCount": 156,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Politics", "Funding", "Contracts"]
+    },
+    {
+      "Id": "34567890-abcd-4ef0-1234-567890abcdef",
+      "Name": "Investigative Lead Cross-Referencing",
+      "Description": "Mapping connections between independent investigative leads in the mining sector.",
+      "CreatedAt": "2024-05-12T08:00:00Z",
+      "LastModified": "2024-05-12T10:00:00Z",
+      "CreatedBy": "Editor-in-Chief",
+      "NodeCount": 38,
+      "EdgeCount": 62,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["Mining", "Leads", "Journalism"]
+    },
+    {
+      "Id": "4567890a-bcde-4f12-3456-7890abcdef12",
+      "Name": "Public Interest Disclosure Analysis",
+      "Description": "Analysis of institutional resistance patterns to Freedom of Information requests.",
+      "CreatedAt": "2024-05-13T14:00:00Z",
+      "LastModified": "2024-05-14T09:00:00Z",
+      "CreatedBy": "Legal Team",
+      "NodeCount": 110,
+      "EdgeCount": 195,
+      "Layout": "breadthfirst",
+      "RootEntities": [],
+      "Tags": ["FOI", "Public Interest", "Transparency"]
+    },
+    {
+      "Id": "567890ab-cdef-4012-3456-7890abcdef23",
+      "Name": "Media Ownership Transparency",
+      "Description": "Investigating hidden beneficial ownership of emerging digital media outlets.",
+      "CreatedAt": "2024-05-15T11:00:00Z",
+      "LastModified": "2024-05-15T16:00:00Z",
+      "CreatedBy": "Business Desk",
+      "NodeCount": 42,
+      "EdgeCount": 78,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Ownership", "Media", "Digital"]
+    }
+  ],
   "Algorithms": [
     {
-      "Name": "Shell Company Ownership Network",
-      "Summary": "Mapped 7 dormant shell companies linked to investigation subject Chanda Kasonde through FOIA-obtained PACRA registration records and archival research of historical print newspaper filings. Network reveals layered ownership structure using family members and former business associates across Lusaka, Copperbelt, and Southern provinces.",
+      "Name": "SourcePath",
+      "Summary": "Identified 6-step link between offshore accounts and local procurement officials via 3rd party consultants",
       "HighlightedNodes": [
-        "f5e6a7b8-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
-        "d3c4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
-        "b7a8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
-        "e0d1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a"
+        "02318f30-1108-1e10-1ef8-00a91b18302d",
+        "050527fd-0a7c-25ca-0e4d-00922c8c196b",
+        "04a7da80-1ac3-0f1a-25db-001f4482becc"
       ]
     },
     {
-      "Name": "Source Reliability Scoring Network",
-      "Summary": "Analysis of 42 anonymous and named sources across five Zambian print newspapers. Scored source reliability based on document corroboration rates, tip accuracy over time, and independent verification through FOIA cross-referencing. Identified 8 high-reliability sources and 3 sources requiring additional credibility assessment before print publication.",
+      "Name": "ConflictDetection",
+      "Summary": "Detected direct family links between 2 board members and 4 major government contractors",
       "HighlightedNodes": [
-        "b1a2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
-        "b7a8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
-        "c2b3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
-        "e4d5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
-        "c8b9d0e1-2f3a-4b5c-6d7e-8f9a0b1c2d3e"
-      ]
-    },
-    {
-      "Name": "Political Donor-Procurement Beneficiary Map",
-      "Summary": "Cross-referenced political campaign donation records obtained via FOIA with government procurement award data from archival print records. Identified 14 instances where major political donors received government contracts within 12 months of documented donations. Network spans 3 ministries and 22 individual entities.",
-      "HighlightedNodes": [
-        "f5e6a7b8-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
-        "d3c4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
-        "d9c0e1f2-3a4b-5c6d-7e8f-9a0b1c2d3e4f"
-      ]
-    },
-    {
-      "Name": "Cross-Border Trade Misinvoicing Chain",
-      "Summary": "Mapped trade invoice discrepancies between Zambian customs declarations and corresponding export records from DRC and Tanzania. Print investigation data combined with ICIJ partnership database reveals 5 key intermediary companies facilitating systematic under-declaration of copper and cobalt export values.",
-      "HighlightedNodes": [
-        "c2b3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
-        "e4d5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
-        "e0d1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
-        "b1a2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
-      ]
-    },
-    {
-      "Name": "Journalist-Editor Investigation Collaboration Graph",
-      "Summary": "Visualised working relationships between investigative journalists and editors across News Diggers, The Mast, Daily Nation, Times of Zambia, and Zambia Daily Mail for operational security assessment. Identified information flow patterns and potential leak points in the multi-newspaper print collaboration on the Copperbelt mining investigation.",
-      "HighlightedNodes": [
-        "b1a2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
-        "c2b3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
-        "e4d5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
-        "a6f7b8c9-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
-        "c8b9d0e1-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
-        "e0d1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a"
+        "0261c257-1239-0fbb-25c0-002b43237178",
+        "02e00d7d-219b-1753-1de2-00d6403c921a",
+        "014f69a9-1191-1df4-192c-00820b3ac7f9"
       ]
     }
   ]

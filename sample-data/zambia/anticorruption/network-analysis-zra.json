@@ -1,5 +1,72 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "f7b3e2a1-1234-4a5b-9876-c0d1e2f3a4b5",
+      "Name": "Public Procurement Bid Rigging",
+      "Description": "Investigation into collusive bidding patterns among a cluster of construction firms for feeder road contracts.",
+      "CreatedAt": "2024-05-10T10:00:00Z",
+      "LastModified": "2024-05-10T12:00:00Z",
+      "CreatedBy": "Senior Investigator",
+      "NodeCount": 85,
+      "EdgeCount": 142,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Procurement", "Corruption", "Construction"]
+    },
+    {
+      "Id": "a9c8d7b6-5432-4e3f-8a2b-1c0d9e8f7a6b",
+      "Name": "Land Allocation Bribery",
+      "Description": "Mapping the links between council officials and private developers in suspicious residential land titles.",
+      "CreatedAt": "2024-05-11T09:15:00Z",
+      "LastModified": "2024-05-12T14:30:00Z",
+      "CreatedBy": "Land Crimes Unit",
+      "NodeCount": 56,
+      "EdgeCount": 88,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Land", "Bribery", "Council"]
+    },
+    {
+      "Id": "e5f4d3c2-b1a0-4c2d-9e8f-7a6b5c4d3e2f",
+      "Name": "Judicial Corruption Probe",
+      "Description": "Tracing indirect payment flows to legal intermediaries in high-profile commercial disputes.",
+      "CreatedAt": "2024-05-12T08:00:00Z",
+      "LastModified": "2024-05-12T08:00:00Z",
+      "CreatedBy": "Intelligence Unit",
+      "NodeCount": 42,
+      "EdgeCount": 65,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["Judiciary", "Integrity", "High-Profile"]
+    },
+    {
+      "Id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "Name": "Fuel Subsidy Fraud",
+      "Description": "Analysis of delivery notes and payment triggers for non-existent fuel shipments to rural depots.",
+      "CreatedAt": "2024-05-13T11:20:00Z",
+      "LastModified": "2024-05-14T16:45:00Z",
+      "CreatedBy": "Economic Crimes",
+      "NodeCount": 110,
+      "EdgeCount": 198,
+      "Layout": "breadthfirst",
+      "RootEntities": [],
+      "Tags": ["Energy", "Fraud", "Subsidy"]
+    },
+    {
+      "Id": "d1e2f3a4-b5c6-4a7b-8c9d-0e1f2a3b4c5d",
+      "Name": "Ministry Kickback Scheme",
+      "Description": "Identifying the 'bagman' network used for distributing kickbacks from specialized supply contracts.",
+      "CreatedAt": "2024-05-14T14:00:00Z",
+      "LastModified": "2024-05-14T15:30:00Z",
+      "CreatedBy": "Task Force",
+      "NodeCount": 65,
+      "EdgeCount": 112,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Ministry", "Kickbacks", "Procurement"]
+    }
+  ],
   "Algorithms": [
     {
       "Name": "CorruptionPath",
@@ -53,106 +120,6 @@
         "056fc057-25fa-10b9-0be8-00729d24121a",
         "012d5f2e-1973-24fb-0610-00a5460c3c49",
         "043eb254-112a-2547-156f-00daa36737a6"
-      ]
-    },
-    {
-      "Name": "Apex Road Contractors Ltd",
-      "Summary": "Unexplained wealth of District Commissioner inconsistent with declared income.",
-      "HighlightedNodes": [
-        "0465c76e-1da8-26a6-1e51-00d3b297b612",
-        "010a3621-094d-2618-230d-00e3dc29fbf1",
-        "04cc0f74-1aea-1864-1721-00c5436961a9",
-        "03bfcc8a-04cf-1528-1e23-00410b270ea3"
-      ]
-    },
-    {
-      "Name": "Kennedy Bwalya",
-      "Summary": "Kickback payments traced to offshore account related to infrastructure tender.",
-      "HighlightedNodes": [
-        "0465c76e-1da8-26a6-1e51-00d3b297b612",
-        "010a3621-094d-2618-230d-00e3dc29fbf1",
-        "04cc0f74-1aea-1864-1721-00c5436961a9",
-        "03bfcc8a-04cf-1528-1e23-00410b270ea3"
-      ]
-    },
-    {
-      "Name": "Grace Bwalya",
-      "Summary": "Bribes paid to secure land allocation in Solwezi commercial zone.",
-      "HighlightedNodes": [
-        "0465c76e-1da8-26a6-1e51-00d3b297b612",
-        "010a3621-094d-2618-230d-00e3dc29fbf1",
-        "04cc0f74-1aea-1864-1721-00c5436961a9",
-        "03bfcc8a-04cf-1528-1e23-00410b270ea3"
-      ]
-    },
-    {
-      "Name": "Lombe Nyirenda",
-      "Summary": "Unexplained wealth of Permanent Secretary inconsistent with declared income.",
-      "HighlightedNodes": [
-        "0465c76e-1da8-26a6-1e51-00d3b297b612",
-        "010a3621-094d-2618-230d-00e3dc29fbf1",
-        "04cc0f74-1aea-1864-1721-00c5436961a9",
-        "03bfcc8a-04cf-1528-1e23-00410b270ea3"
-      ]
-    },
-    {
-      "Name": "Victoria Falls Power",
-      "Summary": "Collusion between Copperbelt Suppliers and Zamtel in awarding tender.",
-      "HighlightedNodes": [
-        "0465c76e-1da8-26a6-1e51-00d3b297b612",
-        "010a3621-094d-2618-230d-00e3dc29fbf1",
-        "04cc0f74-1aea-1864-1721-00c5436961a9",
-        "03bfcc8a-04cf-1528-1e23-00410b270ea3"
-      ]
-    },
-    {
-      "Name": "James Mumba",
-      "Summary": "Suspicious deposits linked to unverified Livingstone road contract.",
-      "HighlightedNodes": [
-        "0465c76e-1da8-26a6-1e51-00d3b297b612",
-        "010a3621-094d-2618-230d-00e3dc29fbf1",
-        "04cc0f74-1aea-1864-1721-00c5436961a9",
-        "03bfcc8a-04cf-1528-1e23-00410b270ea3"
-      ]
-    },
-    {
-      "Name": "Zambezi General Dealers",
-      "Summary": "Bribes paid to secure land allocation in Kitwe commercial zone.",
-      "HighlightedNodes": [
-        "0465c76e-1da8-26a6-1e51-00d3b297b612",
-        "010a3621-094d-2618-230d-00e3dc29fbf1",
-        "04cc0f74-1aea-1864-1721-00c5436961a9",
-        "03bfcc8a-04cf-1528-1e23-00410b270ea3"
-      ]
-    },
-    {
-      "Name": "Eagle Eye Security",
-      "Summary": "Irregular cash withdrawals matching the timeline of the Ministry of Education fertilizer distribution.",
-      "HighlightedNodes": [
-        "0465c76e-1da8-26a6-1e51-00d3b297b612",
-        "010a3621-094d-2618-230d-00e3dc29fbf1",
-        "04cc0f74-1aea-1864-1721-00c5436961a9",
-        "03bfcc8a-04cf-1528-1e23-00410b270ea3"
-      ]
-    },
-    {
-      "Name": "Moses Bwalya",
-      "Summary": "Suspicious deposits linked to unverified Chingola road contract.",
-      "HighlightedNodes": [
-        "0465c76e-1da8-26a6-1e51-00d3b297b612",
-        "010a3621-094d-2618-230d-00e3dc29fbf1",
-        "04cc0f74-1aea-1864-1721-00c5436961a9",
-        "03bfcc8a-04cf-1528-1e23-00410b270ea3"
-      ]
-    },
-    {
-      "Name": "Joseph Tembo",
-      "Summary": "Kickback payments traced to offshore account related to infrastructure tender.",
-      "HighlightedNodes": [
-        "0465c76e-1da8-26a6-1e51-00d3b297b612",
-        "010a3621-094d-2618-230d-00e3dc29fbf1",
-        "04cc0f74-1aea-1864-1721-00c5436961a9",
-        "03bfcc8a-04cf-1528-1e23-00410b270ea3"
       ]
     }
   ]

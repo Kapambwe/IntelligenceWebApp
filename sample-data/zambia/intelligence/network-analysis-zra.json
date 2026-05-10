@@ -1,9 +1,76 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "Name": "Foreign Influence Operation",
+      "Description": "Mapping clandestine funding flows from foreign entities to local political organizations.",
+      "CreatedAt": "2024-05-10T10:00:00Z",
+      "LastModified": "2024-05-10T12:00:00Z",
+      "CreatedBy": "Operations Directorate",
+      "NodeCount": 120,
+      "EdgeCount": 245,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Intelligence", "Foreign Influence", "Security"]
+    },
+    {
+      "Id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+      "Name": "State Resource Diversion",
+      "Description": "Tracing the unauthorized movement of strategic government assets to private offshore accounts.",
+      "CreatedAt": "2024-05-11T09:00:00Z",
+      "LastModified": "2024-05-11T15:30:00Z",
+      "CreatedBy": "Financial Intel Wing",
+      "NodeCount": 85,
+      "EdgeCount": 156,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Graft", "National Security", "Assets"]
+    },
+    {
+      "Id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "Name": "Border Security Threat Mapping",
+      "Description": "Analyzing smuggling networks and unauthorized entry points along the northern border.",
+      "CreatedAt": "2024-05-12T08:00:00Z",
+      "LastModified": "2024-05-12T10:00:00Z",
+      "CreatedBy": "Border Control Intelligence",
+      "NodeCount": 150,
+      "EdgeCount": 312,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["Border", "Smuggling", "Threats"]
+    },
+    {
+      "Id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+      "Name": "Cyber Espionage Attribution",
+      "Description": "Technical mapping of command-and-control infrastructure used in targeting government servers.",
+      "CreatedAt": "2024-05-13T14:00:00Z",
+      "LastModified": "2024-05-14T09:00:00Z",
+      "CreatedBy": "Cyber Security Division",
+      "NodeCount": 210,
+      "EdgeCount": 450,
+      "Layout": "breadthfirst",
+      "RootEntities": [],
+      "Tags": ["Cyber", "Espionage", "Attribution"]
+    },
+    {
+      "Id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+      "Name": "Political Stability Assessment",
+      "Description": "Network analysis of social media influencers and their links to extremist organizations.",
+      "CreatedAt": "2024-05-15T11:00:00Z",
+      "LastModified": "2024-05-15T16:00:00Z",
+      "CreatedBy": "Domestic Analysis",
+      "NodeCount": 340,
+      "EdgeCount": 890,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Stability", "Social Media", "Extremism"]
+    }
+  ],
   "Algorithms": [
     {
-      "Name": "National securityPath",
-      "Summary": "Identified 6-step pattern linking persons of interest to threat assessment in Nakonde",
+      "Name": "InfluencePath",
+      "Summary": "Identified 6-step pattern linking foreign bank accounts to local political consultants",
       "HighlightedNodes": [
         "042b77c0-159c-0578-1592-008377a9275f",
         "050b9300-1412-0706-048b-007773a30ef4",
@@ -14,43 +81,12 @@
       ]
     },
     {
-      "Name": "Counter-intelligencePath",
-      "Summary": "Identified 5-step pattern linking security threats to strategic intelligence in Copperbelt",
+      "Name": "AssetTrace",
+      "Summary": "Detected hidden ownership of luxury properties through 3 layers of shell companies",
       "HighlightedNodes": [
         "018cb6f6-0958-21f7-1604-00770529244f",
         "00c9def1-1d8c-1c23-253d-0045a4625245",
-        "05550699-069c-105c-20d5-003454830790",
-        "0233b959-1301-1fc4-1000-0037757a53f9",
-        "0295b79f-1563-1825-10c2-00a48892ebbc"
-      ]
-    },
-    {
-      "Name": "Counter-intelligencePath",
-      "Summary": "Identified 3-step pattern linking intelligence targets to counter-intelligence in Copperbelt",
-      "HighlightedNodes": [
-        "017b2220-1353-08dc-2443-00d777b69c47",
-        "03ba94d8-0d91-14c4-176d-0099b57a5f02",
-        "03b4f5e8-1f04-199f-0737-00bd2368e7db"
-      ]
-    },
-    {
-      "Name": "Threat assessmentPath",
-      "Summary": "Identified 5-step pattern linking persons of interest to threat assessment in Livingstone",
-      "HighlightedNodes": [
-        "036d1d81-1ee4-1036-2235-00cfe7f485c9",
-        "0120a75d-17fb-2254-0cfd-0040eb5085fb",
-        "009d9a0b-249e-1487-189d-009c80133681",
-        "0106b7ad-11dd-0bbd-20ab-0081f2ed700a",
-        "02a0a83b-230a-20aa-1dc5-00e1e1c19b72"
-      ]
-    },
-    {
-      "Name": "Strategic intelligencePath",
-      "Summary": "Identified 3-step pattern linking intelligence targets to national security in Copperbelt",
-      "HighlightedNodes": [
-        "0431a605-0859-20a6-2407-00accd7d5d30",
-        "0370dcbe-14f6-0c19-0e4c-00380097de88",
-        "0126785a-0fed-06cf-0c9a-00a7f857623d"
+        "05550699-069c-105c-20d5-003454830790"
       ]
     }
   ]

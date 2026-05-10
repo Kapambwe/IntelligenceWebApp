@@ -1,5 +1,72 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "9e8d7c6b-5a4b-4c3d-2e1f-0a9b8c7d6e5f",
+      "Name": "Nakonde Import Undervaluation",
+      "Description": "Analysis of clearance agents and importers consistently declaring below-market values for heavy machinery.",
+      "CreatedAt": "2024-05-10T08:00:00Z",
+      "LastModified": "2024-05-10T10:30:00Z",
+      "CreatedBy": "Customs Audit",
+      "NodeCount": 85,
+      "EdgeCount": 142,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Customs", "Import", "Nakonde"]
+    },
+    {
+      "Id": "1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+      "Name": "Mining Transfer Pricing",
+      "Description": "Tracing management fee flows and related-party transactions in the Copperbelt mining sector.",
+      "CreatedAt": "2024-05-12T11:00:00Z",
+      "LastModified": "2024-05-13T09:00:00Z",
+      "CreatedBy": "International Tax",
+      "NodeCount": 110,
+      "EdgeCount": 195,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Mining", "Tax", "Transfer-Pricing"]
+    },
+    {
+      "Id": "f1e2d3c4-b5c6-4d7e-8f9a-0b1c2d3e4f5a",
+      "Name": "VAT Carousel Scheme",
+      "Description": "Identification of missing trader networks claiming illegal VAT refunds through circular invoicing.",
+      "CreatedAt": "2024-05-14T15:00:00Z",
+      "LastModified": "2024-05-15T16:30:00Z",
+      "CreatedBy": "VAT Fraud Unit",
+      "NodeCount": 94,
+      "EdgeCount": 168,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["VAT", "Fraud", "Carousel"]
+    },
+    {
+      "Id": "2d3e4f5a-6b7c-4d8e-9f0a-1b2c3d4e5f6a",
+      "Name": "Real Estate Tax Evasion",
+      "Description": "Mapping beneficial ownership of high-value properties in Lusaka against declared rental income.",
+      "CreatedAt": "2024-05-16T10:15:00Z",
+      "LastModified": "2024-05-16T14:45:00Z",
+      "CreatedBy": "Domestic Taxes",
+      "NodeCount": 67,
+      "EdgeCount": 92,
+      "Layout": "breadthfirst",
+      "RootEntities": [],
+      "Tags": ["Real-Estate", "Income-Tax", "Lusaka"]
+    },
+    {
+      "Id": "c4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
+      "Name": "High Net Worth Individual Audit",
+      "Description": "Deep dive into the lifestyle and asset links of prominent taxpayers with minimal tax declarations.",
+      "CreatedAt": "2024-05-18T09:30:00Z",
+      "LastModified": "2024-05-18T09:30:00Z",
+      "CreatedBy": "Specialized Audit",
+      "NodeCount": 48,
+      "EdgeCount": 75,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["HNWI", "Audit", "Compliance"]
+    }
+  ],
   "Algorithms": [
     {
       "Name": "Arrears managementPath",

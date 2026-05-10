@@ -1,61 +1,90 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "Name": "Infrastructure Grant Misuse",
+      "Description": "Tracing the flow of specialized infrastructure grants to unqualified sub-contractors and shell companies.",
+      "CreatedAt": "2024-05-10T10:00:00Z",
+      "LastModified": "2024-05-10T12:00:00Z",
+      "CreatedBy": "Public Accounts Committee",
+      "NodeCount": 115,
+      "EdgeCount": 182,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Infrastructure", "Grants", "Misuse"]
+    },
+    {
+      "Id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "Name": "Salary Advance Fraud",
+      "Description": "Analysis of systematic abuse of salary advance policies by a group of administrative officers.",
+      "CreatedAt": "2024-05-11T09:00:00Z",
+      "LastModified": "2024-05-11T15:30:00Z",
+      "CreatedBy": "HR Integrity Unit",
+      "NodeCount": 68,
+      "EdgeCount": 94,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Payroll", "Fraud", "Administration"]
+    },
+    {
+      "Id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+      "Name": "Ghost Worker Detection",
+      "Description": "Identifying redundant payroll entries and shared bank accounts across multiple government departments.",
+      "CreatedAt": "2024-05-12T08:00:00Z",
+      "LastModified": "2024-05-12T10:00:00Z",
+      "CreatedBy": "Smart Zambia Institute",
+      "NodeCount": 450,
+      "EdgeCount": 780,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["Payroll", "Ghost Workers", "Audit"]
+    },
+    {
+      "Id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+      "Name": "Procurement Kickback Network",
+      "Description": "Mapping the links between procurement officers and a recurring list of preferred suppliers.",
+      "CreatedAt": "2024-05-13T14:00:00Z",
+      "LastModified": "2024-05-14T09:00:00Z",
+      "CreatedBy": "Anti-Corruption Wing",
+      "NodeCount": 92,
+      "EdgeCount": 145,
+      "Layout": "breadthfirst",
+      "RootEntities": [],
+      "Tags": ["Procurement", "Kickbacks", "Suppliers"]
+    },
+    {
+      "Id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "Name": "Project Fund Diversion",
+      "Description": "Investigation into the transfer of donor-funded project capital to unrelated private ventures.",
+      "CreatedAt": "2024-05-15T11:00:00Z",
+      "LastModified": "2024-05-15T16:00:00Z",
+      "CreatedBy": "Donor Liaison Office",
+      "NodeCount": 74,
+      "EdgeCount": 112,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Project Funding", "Diversion", "Transparency"]
+    }
+  ],
   "Algorithms": [
     {
-      "Name": "Public procurementPath",
-      "Summary": "Identified 6-step pattern linking beneficiaries to policy compliance in Northern Province",
+      "Name": "KickbackPath",
+      "Summary": "Identified 5-step pattern linking ministerial approvals to offshore consultant payments",
       "HighlightedNodes": [
-        "01927587-261c-13f1-0f4c-0070f6c62617",
-        "00cef2e6-0a19-2469-0e01-0098fbcb04ce",
-        "0434b5eb-0e51-0b09-1530-006a9c1823db",
-        "00cd6c41-15b3-1942-0be8-004f3954f8dc",
-        "033df489-1dec-0a10-1d99-007bb077856e",
-        "03fdfc09-1b65-2636-0d6e-002367326d0d"
+        "02318f30-1108-1e10-1ef8-00a91b18302d",
+        "050527fd-0a7c-25ca-0e4d-00922c8c196b",
+        "04a7da80-1ac3-0f1a-25db-001f4482becc",
+        "0261c257-1239-0fbb-25c0-002b43237178"
       ]
     },
     {
-      "Name": "Policy compliancePath",
-      "Summary": "Identified 5-step pattern linking contractors to service delivery in provincial offices",
+      "Name": "GhostDetection",
+      "Summary": "Detected 12 payroll entries sharing the same biometric ID across 3 ministries",
       "HighlightedNodes": [
-        "0408e50b-2077-0977-0927-00d7147c0747",
-        "05c4628f-05be-11ca-0952-001ead86c3e3",
-        "043bde53-23ef-17cc-1ec3-00e09fb1a88d",
-        "047c69be-169b-1257-1c98-00317127f463",
-        "02af6798-15bc-156a-074c-00ceaaced69a"
-      ]
-    },
-    {
-      "Name": "Program implementationPath",
-      "Summary": "Identified 5-step pattern linking beneficiaries to public procurement in Lusaka",
-      "HighlightedNodes": [
-        "01f88e88-2169-0acd-084c-007686e901cb",
-        "043cdb58-1a61-1d8b-222b-00989e1c643b",
-        "04d77851-2598-1196-14e2-00aae931b896",
-        "02e989e1-0781-0d58-066d-00dfbd69b262",
-        "03099e0f-1bab-0d40-1a9e-009e1722db95"
-      ]
-    },
-    {
-      "Name": "Budget executionPath",
-      "Summary": "Identified 5-step pattern linking beneficiaries to budget execution in Western Province",
-      "HighlightedNodes": [
-        "026a8bf3-0dde-1379-0470-00b54fb3e439",
-        "01c4c1e3-24a1-0cd7-1a43-0036b4253e3c",
-        "016c6759-253b-0779-1c81-00723696c70f",
-        "03a35737-1f51-256b-1dd6-00a54d29c23a",
-        "04d8fe30-09a0-1566-143f-00bd2f1db85b"
-      ]
-    },
-    {
-      "Name": "Program implementationPath",
-      "Summary": "Identified 6-step pattern linking government departments to budget execution in Western Province",
-      "HighlightedNodes": [
-        "049edfa7-0b94-0863-0c77-002087674885",
-        "01d58a43-1586-09ad-0771-00756480d6a6",
-        "04fcec2d-23f3-2397-14e3-0055b80d6bfb",
-        "00ee0d12-0e7c-1d7e-07da-008256c06de0",
-        "0226dc71-14bf-246c-190c-00279eda48dd",
-        "03b7f457-24e2-199b-10b9-00785cb7ebb6"
+        "02e00d7d-219b-1753-1de2-00d6403c921a",
+        "014f69a9-1191-1df4-192c-00820b3ac7f9",
+        "01d68c5d-136c-18e7-07cc-00af59bde778"
       ]
     }
   ]

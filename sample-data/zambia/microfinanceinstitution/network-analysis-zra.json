@@ -1,55 +1,89 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "f1a2b3c4-d5e6-4a7b-8c9d-0e1f2a3b4c5d",
+      "Name": "Ghost Borrower Scheme",
+      "Description": "Identification of non-existent borrowers used by branch staff to siphon small-scale loan disbursements.",
+      "CreatedAt": "2024-05-10T10:00:00Z",
+      "LastModified": "2024-05-10T12:00:00Z",
+      "CreatedBy": "Internal Audit",
+      "NodeCount": 55,
+      "EdgeCount": 92,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Microfinance", "Fraud", "Ghost Borrowers"]
+    },
+    {
+      "Id": "e2b3c4d5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "Name": "Rural Loan Recovery Fraud",
+      "Description": "Tracing cash collections by field officers that were never remitted to the central accounts.",
+      "CreatedAt": "2024-05-11T09:00:00Z",
+      "LastModified": "2024-05-11T15:30:00Z",
+      "CreatedBy": "Compliance Manager",
+      "NodeCount": 42,
+      "EdgeCount": 68,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Rural", "Cash Theft", "Zambia"]
+    },
+    {
+      "Id": "d3c4d5e6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+      "Name": "Internal Loan Embezzlement",
+      "Description": "Analyzing unauthorized adjustments to staff loan accounts and interest rate manipulations.",
+      "CreatedAt": "2024-05-12T08:00:00Z",
+      "LastModified": "2024-05-12T10:00:00Z",
+      "CreatedBy": "Risk Department",
+      "NodeCount": 24,
+      "EdgeCount": 35,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["Internal", "Embezzlement", "Staff"]
+    },
+    {
+      "Id": "c4d5e6f7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+      "Name": "Multiple Lending Over-indebtedness",
+      "Description": "Mapping borrowers with undisclosed loans across multiple MFI providers to assess systemic risk.",
+      "CreatedAt": "2024-05-13T14:00:00Z",
+      "LastModified": "2024-05-14T09:00:00Z",
+      "CreatedBy": "Credit Risk Unit",
+      "NodeCount": 130,
+      "EdgeCount": 210,
+      "Layout": "breadthfirst",
+      "RootEntities": [],
+      "Tags": ["Credit Risk", "Over-indebtedness", "MFI"]
+    },
+    {
+      "Id": "b5e6f7a8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "Name": "Payroll Deduction Diversion",
+      "Description": "Investigation into the delayed remittance of payroll deductions from corporate employers.",
+      "CreatedAt": "2024-05-15T11:00:00Z",
+      "LastModified": "2024-05-15T16:00:00Z",
+      "CreatedBy": "Finance Directorate",
+      "NodeCount": 36,
+      "EdgeCount": 54,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Payroll", "Remittance", "Employer"]
+    }
+  ],
   "Algorithms": [
     {
-      "Name": "Savings mobilizationPath",
-      "Summary": "Identified 4-step pattern linking individual borrowers to microloans in Kitwe",
+      "Name": "GhostPath",
+      "Summary": "Identified 4-step pattern linking a single phone number to 8 different loan applications",
       "HighlightedNodes": [
-        "00f1343c-1c01-0920-1cd5-008086f1a4b5",
-        "00f4a3cf-26a1-1f06-185f-009c1d574f23",
-        "02036522-0926-0ca6-0892-009c2f6b03a0",
-        "01d2d39c-231f-2702-0ce9-00800a3fe736"
+        "02318f30-1108-1e10-1ef8-00a91b18302d",
+        "050527fd-0a7c-25ca-0e4d-00922c8c196b",
+        "04a7da80-1ac3-0f1a-25db-001f4482becc"
       ]
     },
     {
-      "Name": "Financial inclusionPath",
-      "Summary": "Identified 4-step pattern linking small businesses to credit risk in Lusaka",
+      "Name": "LendingCycle",
+      "Summary": "Detected circular debt pattern where loans are used to pay off other MFI obligations",
       "HighlightedNodes": [
-        "04aaa46d-1fbf-1beb-1338-0068752ac87f",
-        "0205556f-1f61-21cb-2270-0082d1eaf6b2",
-        "02c6c260-083a-0b73-160a-00ae35a03269",
-        "02ab4830-1bf5-16f1-2163-00d69ef8fc4b"
-      ]
-    },
-    {
-      "Name": "Sme lendingPath",
-      "Summary": "Identified 5-step pattern linking individual borrowers to savings mobilization in Mongu",
-      "HighlightedNodes": [
-        "05e0e495-15a2-15c7-156e-007d304b462d",
-        "059a74d5-14ac-1544-092e-00cac949307a",
-        "024b4031-1182-12e4-1688-003d413c9f6e",
-        "046c9f93-0a1e-095b-1925-00df82b8ded2",
-        "015889e7-1402-2427-05ec-002497d92ecb"
-      ]
-    },
-    {
-      "Name": "MicroloansPath",
-      "Summary": "Identified 3-step pattern linking small businesses to savings mobilization in Kasama",
-      "HighlightedNodes": [
-        "019b2eb8-146b-1ffd-0f6f-00479906660a",
-        "019e414d-1e94-19f2-1fc1-00c124d4042b",
-        "03f9389a-1daf-1b55-0b13-00dfda9bf451"
-      ]
-    },
-    {
-      "Name": "Savings mobilizationPath",
-      "Summary": "Identified 5-step pattern linking savings groups to SME lending in Kasama",
-      "HighlightedNodes": [
-        "046778c9-1bcb-165e-0d66-00c15f8754a2",
-        "028d66be-06d3-04a8-1a73-0061351ac1d5",
-        "03eebe0a-2511-2197-18c1-0050b42ae4f4",
-        "053952d0-23b7-15d9-09d1-0078b5105f5b",
-        "03a7dd20-133e-0e41-1b4c-0046e89a1d9c"
+        "0261c257-1239-0fbb-25c0-002b43237178",
+        "02e00d7d-219b-1753-1de2-00d6403c921a",
+        "014f69a9-1191-1df4-192c-00820b3ac7f9"
       ]
     }
   ]

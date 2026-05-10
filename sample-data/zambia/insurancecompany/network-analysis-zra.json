@@ -1,55 +1,91 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3d4b1d",
+      "Name": "Staged Accident Syndicate",
+      "Description": "Analysis of recurring claimants and witnesses across multiple motor insurance claims in the Copperbelt region.",
+      "CreatedAt": "2024-05-10T10:00:00Z",
+      "LastModified": "2024-05-10T12:00:00Z",
+      "CreatedBy": "Claims Integrity Unit",
+      "NodeCount": 45,
+      "EdgeCount": 78,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Insurance", "Fraud", "Syndicate"]
+    },
+    {
+      "Id": "8c2deb4d-3b7d-4bad-9bdd-2b0d7b3d4b2d",
+      "Name": "False Medical Claims Ring",
+      "Description": "Tracing links between private clinics and policyholders for inflated medical reimbursement claims.",
+      "CreatedAt": "2024-05-11T09:00:00Z",
+      "LastModified": "2024-05-11T15:30:00Z",
+      "CreatedBy": "Special Investigations",
+      "NodeCount": 32,
+      "EdgeCount": 56,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Medical", "Fraud", "Zambia"]
+    },
+    {
+      "Id": "7d3deb4d-3b7d-4bad-9bdd-2b0d7b3d4b3d",
+      "Name": "Life Insurance Beneficiary Fraud",
+      "Description": "Investigation into suspicious beneficiary changes and rapid claims following policy inception.",
+      "CreatedAt": "2024-05-12T08:00:00Z",
+      "LastModified": "2024-05-12T10:00:00Z",
+      "CreatedBy": "Audit Department",
+      "NodeCount": 18,
+      "EdgeCount": 24,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["Life Insurance", "Beneficiary", "Investigation"]
+    },
+    {
+      "Id": "6e4deb4d-3b7d-4bad-9bdd-2b0d7b3d4b4d",
+      "Name": "Reinsurance Premium Laundering",
+      "Description": "Mapping complex offshore premium transfers and suspicious reinsurance treaty structures.",
+      "CreatedAt": "2024-05-13T14:00:00Z",
+      "LastModified": "2024-05-14T09:00:00Z",
+      "CreatedBy": "Compliance Officer",
+      "NodeCount": 64,
+      "EdgeCount": 112,
+      "Layout": "breadthfirst",
+      "RootEntities": [],
+      "Tags": ["Reinsurance", "Money Laundering", "Financial"]
+    },
+    {
+      "Id": "5f5deb4d-3b7d-4bad-9bdd-2b0d7b3d4b5d",
+      "Name": "Broker Commission Rebating",
+      "Description": "Identifying illegal kickbacks and commission sharing between brokers and corporate clients.",
+      "CreatedAt": "2024-05-15T11:00:00Z",
+      "LastModified": "2024-05-15T16:00:00Z",
+      "CreatedBy": "Market Conduct Unit",
+      "NodeCount": 28,
+      "EdgeCount": 42,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Broker", "Ethics", "Kickbacks"]
+    }
+  ],
   "Algorithms": [
     {
-      "Name": "UnderwritingPath",
-      "Summary": "Identified 3-step pattern linking corporate clients to underwriting in Kitwe",
+      "Name": "FraudPath",
+      "Summary": "Identified 5-step pattern linking multiple accident scenes to a single repair shop",
       "HighlightedNodes": [
         "02318f30-1108-1e10-1ef8-00a91b18302d",
         "050527fd-0a7c-25ca-0e4d-00922c8c196b",
-        "04a7da80-1ac3-0f1a-25db-001f4482becc"
-      ]
-    },
-    {
-      "Name": "Insurance fraudPath",
-      "Summary": "Identified 4-step pattern linking claimants to claims processing in Ndola",
-      "HighlightedNodes": [
+        "04a7da80-1ac3-0f1a-25db-001f4482becc",
         "0261c257-1239-0fbb-25c0-002b43237178",
-        "02e00d7d-219b-1753-1de2-00d6403c921a",
+        "02e00d7d-219b-1753-1de2-00d6403c921a"
+      ]
+    },
+    {
+      "Name": "ClaimRing",
+      "Summary": "Detected circular relationship between 3 medical professionals and 12 policyholders",
+      "HighlightedNodes": [
         "014f69a9-1191-1df4-192c-00820b3ac7f9",
-        "01d68c5d-136c-18e7-07cc-00af59bde778"
-      ]
-    },
-    {
-      "Name": "Policy managementPath",
-      "Summary": "Identified 4-step pattern linking policyholders to insurance fraud in Kitwe",
-      "HighlightedNodes": [
-        "00a3eff9-0e6e-1807-0702-00d26fbeafeb",
-        "037a7a6d-0a0e-09a3-0d89-00a6426b9c69",
-        "04af6fbd-15cc-1005-1029-00e8565743c6",
-        "0283c172-06f3-1f2f-1f4e-00481068295c"
-      ]
-    },
-    {
-      "Name": "Policy managementPath",
-      "Summary": "Identified 4-step pattern linking corporate clients to underwriting in Kitwe",
-      "HighlightedNodes": [
-        "045348a9-1eb5-0ce6-1ef1-00b4f3de2ddc",
-        "04c7de61-15ee-15ae-1331-0085f326c7be",
-        "04613165-2687-0c31-097e-002e373e319b",
-        "037cf058-235a-0a4b-2521-008527f1be7c"
-      ]
-    },
-    {
-      "Name": "UnderwritingPath",
-      "Summary": "Identified 6-step pattern linking policyholders to policy management in Kabwe",
-      "HighlightedNodes": [
-        "01a3706c-2613-173e-24c5-00367d3e3cb0",
-        "02cbac3a-12a9-15fe-078c-00cd3be9909c",
-        "02bb8037-058e-0cb2-1e39-00584bd0466d",
-        "033ec8d0-1f4b-1006-25f1-00d38b12ee69",
-        "028adc01-21aa-2480-19c0-00dc0821cd6c",
-        "01b6eed4-0c41-172f-213f-002c58a38674"
+        "01d68c5d-136c-18e7-07cc-00af59bde778",
+        "00a3eff9-0e6e-1807-0702-00d26fbeafeb"
       ]
     }
   ]

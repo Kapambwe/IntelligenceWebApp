@@ -1,57 +1,77 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "7d9b4b0e-1c2a-4f8a-9d3c-5b6e7f8a9b0c",
+      "Name": "Broadcast License Bribery",
+      "Description": "Mapping payments to regulatory officials for illegal license allocation",
+      "CreatedAt": "2024-05-10T09:00:00Z",
+      "LastModified": "2024-05-10T14:30:00Z",
+      "CreatedBy": "Media Investigator",
+      "NodeCount": 24,
+      "EdgeCount": 42,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Corruption", "Radio", "Zambia"]
+    },
+    {
+      "Id": "8e0c5c1f-2d3b-5f9b-0e4d-6c7f8a9b0c1d",
+      "Name": "Frequency Interference Dispute",
+      "Description": "Analysis of signal overlap and undisclosed ownership links",
+      "CreatedAt": "2024-05-08T11:20:00Z",
+      "LastModified": "2024-05-09T16:15:00Z",
+      "CreatedBy": "Technical Auditor",
+      "NodeCount": 18,
+      "EdgeCount": 31,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Spectrum", "Radio", "Zambia"]
+    },
+    {
+      "Id": "9f1d6d20-3e4c-6fa1-1f5e-7d8f9a0b1c2d",
+      "Name": "Advertising Revenue Embezzlement",
+      "Description": "Tracing missing corporate ad spend through shell agencies",
+      "CreatedAt": "2024-05-05T14:00:00Z",
+      "LastModified": "2024-05-07T10:45:00Z",
+      "CreatedBy": "Financial Analyst",
+      "NodeCount": 35,
+      "EdgeCount": 58,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["Fraud", "Radio", "Zambia"]
+    },
+    {
+      "Id": "a02e7e31-4f5d-7fb2-206f-8e9f0a1b2c3d",
+      "Name": "Community Station Grant Misuse",
+      "Description": "Investigation into rural media funding diversion to local politicians",
+      "CreatedAt": "2024-05-01T10:00:00Z",
+      "LastModified": "2024-05-04T12:00:00Z",
+      "CreatedBy": "Grant Auditor",
+      "NodeCount": 12,
+      "EdgeCount": 19,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Grants", "Radio", "Zambia"]
+    },
+    {
+      "Id": "b13f8f42-506e-8fc3-3170-9fa01b2c3d4e",
+      "Name": "Political Airtime Bias Analysis",
+      "Description": "Network of undisclosed political sponsorships and free airtime nodes",
+      "CreatedAt": "2024-04-28T15:30:00Z",
+      "LastModified": "2024-05-02T09:20:00Z",
+      "CreatedBy": "Compliance Officer",
+      "NodeCount": 45,
+      "EdgeCount": 82,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Politics", "Radio", "Zambia"]
+    }
+  ],
   "Algorithms": [
     {
-      "Name": "Investigative reportingPath",
-      "Summary": "Identified 5-step pattern linking news subjects to investigative reporting in Chipata",
-      "HighlightedNodes": [
-        "00e20ed5-0bce-1464-1b86-00ca6682e399",
-        "034da9aa-0aac-0b55-2661-00c8e73e943f",
-        "04116913-13e6-22b7-05f1-00a58bc03745",
-        "03f939d0-19ce-0869-1407-00299fb1e67b",
-        "01713421-12c2-20b4-05c4-00a328e796f0"
-      ]
-    },
-    {
-      "Name": "Community engagementPath",
-      "Summary": "Identified 4-step pattern linking corporations to news broadcasting in nationwide broadcast",
-      "HighlightedNodes": [
-        "03e7fd5a-147b-1c63-0e7a-00d76ec3facb",
-        "00b3b29f-0ab7-0fe0-1aea-00a9bc771202",
-        "019f7604-1f7b-2101-0c09-001b2e66df1b",
-        "01c2095d-1173-1c1c-26fb-005b65ca824d"
-      ]
-    },
-    {
-      "Name": "Investigative reportingPath",
-      "Summary": "Identified 5-step pattern linking news subjects to investigative reporting in Kitwe",
-      "HighlightedNodes": [
-        "05572853-13e0-0fb4-259f-00da56c6ca0e",
-        "018dfae2-22de-0ef7-06b4-00d4f330de68",
-        "013ddc61-2425-12a4-1247-0072a52d7fb6",
-        "00a8f847-137f-1c1f-1ebb-008e85f59a5a",
-        "047b2e84-1865-2203-1bc9-00a62c1ebac6"
-      ]
-    },
-    {
-      "Name": "Public awarenessPath",
-      "Summary": "Identified 4-step pattern linking news subjects to accountability in nationwide broadcast",
-      "HighlightedNodes": [
-        "018b4da1-223c-162c-206f-003009df43bf",
-        "041fab83-13cf-05fb-1f07-0060c9844c6f",
-        "05009d21-1f1e-1258-150b-0071864dd9a1",
-        "00b0fd49-0c31-26b8-0807-006f1aff7847"
-      ]
-    },
-    {
-      "Name": "Investigative reportingPath",
-      "Summary": "Identified 4-step pattern linking community leaders to news broadcasting in Kitwe",
-      "HighlightedNodes": [
-        "018f4a26-1b9b-0ce2-0c6b-00369c91bb12",
-        "031dd97f-059a-25f2-103f-005f0b4a9497",
-        "015b9857-0dbf-07b6-1b0d-00a7de4ae46c",
-        "00b8c65d-2587-0f4c-12a8-006f2d910bc6"
-      ]
+      "Name": "License Payment Trace",
+      "Summary": "Detected 4-hop chain from station owner to ministry clerk",
+      "HighlightedNodes": []
     }
   ]
 }

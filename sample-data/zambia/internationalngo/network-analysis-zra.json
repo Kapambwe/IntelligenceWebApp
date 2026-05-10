@@ -1,5 +1,72 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "Name": "Donor Fund Diversion Trace",
+      "Description": "Tracking the flow of grant funds from head office to sub-implementing partners and final cash withdrawals.",
+      "CreatedAt": "2024-05-10T09:00:00Z",
+      "LastModified": "2024-05-11T11:00:00Z",
+      "CreatedBy": "Internal Audit",
+      "NodeCount": 64,
+      "EdgeCount": 98,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Grants", "Audit", "Financial"]
+    },
+    {
+      "Id": "f1e2d3c4-b5a6-4a7b-8c9d-0e1f2a3b4c5d",
+      "Name": "Ghost Project Procurement",
+      "Description": "Identifying procurement patterns where suppliers are linked to former employees for non-existent field projects.",
+      "CreatedAt": "2024-05-12T14:30:00Z",
+      "LastModified": "2024-05-13T09:15:00Z",
+      "CreatedBy": "Compliance Dept",
+      "NodeCount": 42,
+      "EdgeCount": 75,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Procurement", "Fraud", "Ghost-Projects"]
+    },
+    {
+      "Id": "b1a0c2d3-e4f5-4a6b-7c8d-9e0f1a2b3c4d",
+      "Name": "Relief Supply Leakage",
+      "Description": "Mapping the distribution chain of food aid and identifying points of unauthorized diversion to local markets.",
+      "CreatedAt": "2024-05-14T10:00:00Z",
+      "LastModified": "2024-05-14T10:00:00Z",
+      "CreatedBy": "Logistics Monitor",
+      "NodeCount": 88,
+      "EdgeCount": 156,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["Relief", "Supply-Chain", "Leakage"]
+    },
+    {
+      "Id": "c4d3e2f1-b0a9-4c8d-7e6f-5a4b3c2d1e0f",
+      "Name": "Grant Mismanagement Analysis",
+      "Description": "Reviewing expenditure overlaps across multiple donor-funded programs in the Western Province.",
+      "CreatedAt": "2024-05-16T11:45:00Z",
+      "LastModified": "2024-05-17T13:20:00Z",
+      "CreatedBy": "Program Finance",
+      "NodeCount": 56,
+      "EdgeCount": 82,
+      "Layout": "breadthfirst",
+      "RootEntities": [],
+      "Tags": ["Programs", "Finance", "Audit"]
+    },
+    {
+      "Id": "d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5a",
+      "Name": "Payroll Padding Discovery",
+      "Description": "Cross-referencing NRC numbers and bank accounts for field-based casual workers across multiple sites.",
+      "CreatedAt": "2024-05-19T16:00:00Z",
+      "LastModified": "2024-05-19T16:00:00Z",
+      "CreatedBy": "HR Compliance",
+      "NodeCount": 120,
+      "EdgeCount": 230,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Payroll", "HR", "Fraud"]
+    }
+  ],
   "Algorithms": [
     {
       "Name": "Development projectsPath",

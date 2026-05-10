@@ -1,5 +1,72 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Sessions": [
+    {
+      "Id": "f1e2d3c4-b5a6-4c7d-8e9f-0a1b2c3d4e5f",
+      "Name": "Suspicious Transaction Hub",
+      "Description": "Identifying high-volume transaction nodes that bridge multiple disparate business sectors.",
+      "CreatedAt": "2024-05-10T10:00:00Z",
+      "LastModified": "2024-05-11T12:00:00Z",
+      "CreatedBy": "FIC Analyst",
+      "NodeCount": 110,
+      "EdgeCount": 245,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["STR", "Hub-Analysis", "Financial"]
+    },
+    {
+      "Id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "Name": "Shell Company Network",
+      "Description": "Mapping shared directors and registered addresses for entities with zero operational history but high turnover.",
+      "CreatedAt": "2024-05-12T09:15:00Z",
+      "LastModified": "2024-05-13T14:30:00Z",
+      "CreatedBy": "Corporate Intelligence",
+      "NodeCount": 65,
+      "EdgeCount": 112,
+      "Layout": "concentric",
+      "RootEntities": [],
+      "Tags": ["Shell-Companies", "Beneficial-Ownership", "AML"]
+    },
+    {
+      "Id": "e5d4c3b2-a1f0-4e3d-8c7b-6a5b4c3d2e1f",
+      "Name": "PEP Asset Tracing",
+      "Description": "Deep dive into the local asset holdings and proxy-linked businesses of Politically Exposed Persons.",
+      "CreatedAt": "2024-05-14T08:00:00Z",
+      "LastModified": "2024-05-14T08:00:00Z",
+      "CreatedBy": "Special Projects",
+      "NodeCount": 42,
+      "EdgeCount": 68,
+      "Layout": "dagre",
+      "RootEntities": [],
+      "Tags": ["PEP", "Asset-Tracing", "Corruption"]
+    },
+    {
+      "Id": "d1c2b3a4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "Name": "Crypto-Currency Laundering",
+      "Description": "Tracing off-ramp patterns from digital exchanges to local bank accounts in small increments.",
+      "CreatedAt": "2024-05-16T11:20:00Z",
+      "LastModified": "2024-05-17T16:45:00Z",
+      "CreatedBy": "Cyber Finance",
+      "NodeCount": 38,
+      "EdgeCount": 54,
+      "Layout": "breadthfirst",
+      "RootEntities": [],
+      "Tags": ["Crypto", "AML", "Cyber"]
+    },
+    {
+      "Id": "c7b8a9d0-e1f2-4a3b-8c4d-5e6f7a8b9c0d",
+      "Name": "Cross-Border Cash Movement",
+      "Description": "Analyzing currency exchange patterns near border posts and corresponding bank deposits.",
+      "CreatedAt": "2024-05-18T14:00:00Z",
+      "LastModified": "2024-05-18T15:30:00Z",
+      "CreatedBy": "Border Intel",
+      "NodeCount": 82,
+      "EdgeCount": 134,
+      "Layout": "cose",
+      "RootEntities": [],
+      "Tags": ["Cash", "Cross-Border", "Trade"]
+    }
+  ],
   "Algorithms": [
     {
       "Name": "Money launderingPath",
@@ -55,126 +122,6 @@
         "02f50bb4-1ca2-052f-132f-004c82632c42",
         "049dc599-1f61-1b8d-1047-00a2c0a5f225"
       ]
-    },
-    {
-      "Name": "Catherine Chisenga",
-      "Summary": "Rapid fund layering through multiple accounts at Investrust.",
-      "HighlightedNodes": [
-        "053b0dbf-26bb-1c89-1093-005948d70ca8",
-        "04c301cb-19d5-0a6f-1824-00d9fc35d0f0",
-        "01c52aa3-1187-1fba-1bcf-00d33a258e38",
-        "013816a3-0a35-07ed-11bf-001db3f83477",
-        "00c06ddc-1f61-17e0-1590-0045b021ffc6"
-      ],
-      "Description": null
-    },
-    {
-      "Name": "Lombe Sinkala",
-      "Summary": "Rapid fund layering through multiple accounts at First Capital.",
-      "HighlightedNodes": [
-        "053b0dbf-26bb-1c89-1093-005948d70ca8",
-        "04c301cb-19d5-0a6f-1824-00d9fc35d0f0",
-        "01c52aa3-1187-1fba-1bcf-00d33a258e38",
-        "013816a3-0a35-07ed-11bf-001db3f83477",
-        "00c06ddc-1f61-17e0-1590-0045b021ffc6"
-      ],
-      "Description": null
-    },
-    {
-      "Name": "Sarah Phiri",
-      "Summary": "Potential sanctions evasion involving Southern Cross Enterprises and regional neighbors.",
-      "HighlightedNodes": [
-        "053b0dbf-26bb-1c89-1093-005948d70ca8",
-        "04c301cb-19d5-0a6f-1824-00d9fc35d0f0",
-        "01c52aa3-1187-1fba-1bcf-00d33a258e38",
-        "013816a3-0a35-07ed-11bf-001db3f83477",
-        "00c06ddc-1f61-17e0-1590-0045b021ffc6"
-      ],
-      "Description": null
-    },
-    {
-      "Name": "Lombe Sata",
-      "Summary": "Purchase of luxury property in Livingstone residential areas with unexplained cash.",
-      "HighlightedNodes": [
-        "053b0dbf-26bb-1c89-1093-005948d70ca8",
-        "04c301cb-19d5-0a6f-1824-00d9fc35d0f0",
-        "01c52aa3-1187-1fba-1bcf-00d33a258e38",
-        "013816a3-0a35-07ed-11bf-001db3f83477",
-        "00c06ddc-1f61-17e0-1590-0045b021ffc6"
-      ],
-      "Description": null
-    },
-    {
-      "Name": "Martha Phiri",
-      "Summary": "Potential sanctions evasion involving Ndola Agro and regional neighbors.",
-      "HighlightedNodes": [
-        "053b0dbf-26bb-1c89-1093-005948d70ca8",
-        "04c301cb-19d5-0a6f-1824-00d9fc35d0f0",
-        "01c52aa3-1187-1fba-1bcf-00d33a258e38",
-        "013816a3-0a35-07ed-11bf-001db3f83477",
-        "00c06ddc-1f61-17e0-1590-0045b021ffc6"
-      ],
-      "Description": null
-    },
-    {
-      "Name": "Joseph Mulenga",
-      "Summary": "Structuring of cash deposits (smurfing) at Indo-Zambia Bank branches in Mufulira.",
-      "HighlightedNodes": [
-        "053b0dbf-26bb-1c89-1093-005948d70ca8",
-        "04c301cb-19d5-0a6f-1824-00d9fc35d0f0",
-        "01c52aa3-1187-1fba-1bcf-00d33a258e38",
-        "013816a3-0a35-07ed-11bf-001db3f83477",
-        "00c06ddc-1f61-17e0-1590-0045b021ffc6"
-      ],
-      "Description": null
-    },
-    {
-      "Name": "Mainza Kasolo",
-      "Summary": "Trade-based money laundering linked to Ndola Agro mineral exports via Mufulira border.",
-      "HighlightedNodes": [
-        "053b0dbf-26bb-1c89-1093-005948d70ca8",
-        "04c301cb-19d5-0a6f-1824-00d9fc35d0f0",
-        "01c52aa3-1187-1fba-1bcf-00d33a258e38",
-        "013816a3-0a35-07ed-11bf-001db3f83477",
-        "00c06ddc-1f61-17e0-1590-0045b021ffc6"
-      ],
-      "Description": null
-    },
-    {
-      "Name": "Sarah Mulenga",
-      "Summary": "Purchase of luxury property in Ndola residential areas with unexplained cash.",
-      "HighlightedNodes": [
-        "053b0dbf-26bb-1c89-1093-005948d70ca8",
-        "04c301cb-19d5-0a6f-1824-00d9fc35d0f0",
-        "01c52aa3-1187-1fba-1bcf-00d33a258e38",
-        "013816a3-0a35-07ed-11bf-001db3f83477",
-        "00c06ddc-1f61-17e0-1590-0045b021ffc6"
-      ],
-      "Description": null
-    },
-    {
-      "Name": "Grace Tembo",
-      "Summary": "Structuring of cash deposits (smurfing) at Indo-Zambia Bank branches in Luanshya.",
-      "HighlightedNodes": [
-        "053b0dbf-26bb-1c89-1093-005948d70ca8",
-        "04c301cb-19d5-0a6f-1824-00d9fc35d0f0",
-        "01c52aa3-1187-1fba-1bcf-00d33a258e38",
-        "013816a3-0a35-07ed-11bf-001db3f83477",
-        "00c06ddc-1f61-17e0-1590-0045b021ffc6"
-      ],
-      "Description": null
-    },
-    {
-      "Name": "Zambia Sugar Corp",
-      "Summary": "Suspicious high-value cross-border transfers by KCM Suppliers with no verified business purpose.",
-      "HighlightedNodes": [
-        "053b0dbf-26bb-1c89-1093-005948d70ca8",
-        "04c301cb-19d5-0a6f-1824-00d9fc35d0f0",
-        "01c52aa3-1187-1fba-1bcf-00d33a258e38",
-        "013816a3-0a35-07ed-11bf-001db3f83477",
-        "00c06ddc-1f61-17e0-1590-0045b021ffc6"
-      ],
-      "Description": null
     }
   ]
 }
