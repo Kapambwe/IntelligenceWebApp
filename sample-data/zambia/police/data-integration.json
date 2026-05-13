@@ -2,26 +2,72 @@
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
   "Connectors": [
     {
-      "Id": "10b6ba3b-b615-41fa-94fb-4ef6e8d4eec9",
-      "Name": "PACRA Business Registry",
-      "Description": "Direct link to Zambian company registrar.",
+      "Id": "2c0d6c31-5e31-4f90-9f7a-0e2d4eaa1001",
+      "Name": "Zambia Police Case Import",
+      "Description": "Imports incident, arrest, and case-status updates from the national case management feed.",
       "Type": "API",
       "Status": "Active",
-      "DataSource": "PACRA",
+      "LastSync": "2026-05-08T10:52:00Z",
+      "NextSync": "2026-05-08T11:42:00Z",
+      "RecordsImported": 1280,
+      "RecordsFailed": 2,
+      "DataSource": "Internal Case Management",
       "IsEnabled": true,
-      "RecordsImported": 12450,
-      "LastSync": "2026-05-08T11:14:39.270237Z"
+      "Configuration": {
+        "Region": "National",
+        "Priority": "High"
+      }
     },
     {
-      "Id": "bccbae97-7689-48c2-9c95-808d680da8e1",
-      "Name": "ZRA Tax Database",
-      "Description": "Tax compliance and VAT return data.",
+      "Id": "3c0d6c31-5e31-4f90-9f7a-0e2d4eaa1002",
+      "Name": "BoZ Suspicious Activity Feed",
+      "Description": "Syncs high-risk banking alerts and account monitoring events for law enforcement review.",
       "Type": "Database",
       "Status": "Active",
-      "DataSource": "ZRA",
+      "LastSync": "2026-05-08T10:33:00Z",
+      "NextSync": "2026-05-08T11:33:00Z",
+      "RecordsImported": 864,
+      "RecordsFailed": 0,
+      "DataSource": "Bank of Zambia",
       "IsEnabled": true,
-      "RecordsImported": 89200,
-      "LastSync": "2026-05-07T11:14:39.270265Z"
+      "Configuration": {
+        "Database": "boz-monitoring",
+        "Mode": "Incremental"
+      }
+    },
+    {
+      "Id": "4c0d6c31-5e31-4f90-9f7a-0e2d4eaa1003",
+      "Name": "Police File Intake",
+      "Description": "Daily file import for regional stations uploading scanned evidence and witness logs.",
+      "Type": "FileImport",
+      "Status": "Error",
+      "LastSync": "2026-05-08T09:15:00Z",
+      "NextSync": "2026-05-08T12:15:00Z",
+      "RecordsImported": 0,
+      "RecordsFailed": 14,
+      "DataSource": "Regional Station Files",
+      "IsEnabled": true,
+      "Configuration": {
+        "FilePattern": "*.csv",
+        "Folder": "/data/police/incoming"
+      }
+    },
+    {
+      "Id": "5c0d6c31-5e31-4f90-9f7a-0e2d4eaa1004",
+      "Name": "Financial Intelligence Watchlist",
+      "Description": "Pushes sanctions, watchlist, and fraud referral updates into the case workspace.",
+      "Type": "API",
+      "Status": "Inactive",
+      "LastSync": "2026-05-07T11:00:00Z",
+      "NextSync": null,
+      "RecordsImported": 316,
+      "RecordsFailed": 1,
+      "DataSource": "Financial Intelligence Centre",
+      "IsEnabled": false,
+      "Configuration": {
+        "Mode": "Paused",
+        "Retry": "Disabled"
+      }
     }
   ]
 }

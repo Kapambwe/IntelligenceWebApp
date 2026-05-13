@@ -3,161 +3,248 @@
   "Alerts": [
     {
       "Id": "2a1b2b0e-dae7-464d-afa7-76b36f3616bf",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-08T11:14:39Z",
+      "UpdatedAt": "2026-05-08T11:14:39Z",
       "AlertNumber": "FD-2813",
-      "EntityName": "Zambia Sugar",
+      "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+      "EntityName": "Zambezi General Dealers",
       "PatternType": "Structuring",
-      "FraudScore": 80,
+      "ConfidenceScore": 91,
+      "FraudScore": 88,
       "RiskLevel": "High",
-      "Status": "New",
-      "DetectedAt": "2026-05-08T11:14:39.266339Z",
-      "ModelVersion": "v1.2.0",
+      "ModelVersion": "v2.1.0",
       "DetectedPatterns": [
-        "High Frequency",
-        "Round Amounts"
-      ]
+        "High frequency deposits",
+        "Round amount cash activity"
+      ],
+      "FeatureScores": {
+        "CashDepositFrequency": 0.86,
+        "RelatedPartyTransfer": 0.77
+      },
+      "RecommendedActions": [
+        "Review source of funds",
+        "Escalate to financial crimes unit"
+      ],
+      "RequiresManualReview": true,
+      "AutoBlocked": false,
+      "Status": "UnderReview",
+      "AssignedTo": "Det. Banda",
+      "Resolution": "",
+      "ResolvedAt": null,
+      "DetectedAt": "2026-05-08T09:10:00Z",
+      "DetectionSource": "Bank monitoring",
+      "AdditionalData": {
+        "Branch": "Lusaka Central"
+      }
     },
     {
       "Id": "39259e02-e5b9-44e4-b11e-e5171d2c9def",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-08T11:14:39Z",
+      "UpdatedAt": "2026-05-08T11:14:39Z",
       "AlertNumber": "FD-9576",
-      "EntityName": "Zambia Sugar",
-      "PatternType": "Structuring",
-      "FraudScore": 65,
-      "RiskLevel": "High",
-      "Status": "New",
-      "DetectedAt": "2026-05-08T11:14:39.266452Z",
-      "ModelVersion": "v1.2.0",
+      "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+      "EntityName": "Apex Road Contractors",
+      "PatternType": "AccountTakeover",
+      "ConfidenceScore": 84,
+      "FraudScore": 82,
+      "RiskLevel": "Critical",
+      "ModelVersion": "v2.1.0",
       "DetectedPatterns": [
-        "High Frequency",
-        "Round Amounts"
-      ]
+        "Credential change",
+        "Device mismatch"
+      ],
+      "FeatureScores": {
+        "LoginVelocity": 0.74,
+        "DeviceChange": 0.91
+      },
+      "RecommendedActions": [
+        "Freeze online access",
+        "Force password reset"
+      ],
+      "RequiresManualReview": true,
+      "AutoBlocked": true,
+      "Status": "New",
+      "AssignedTo": "",
+      "Resolution": "",
+      "ResolvedAt": null,
+      "DetectedAt": "2026-05-08T09:25:00Z",
+      "DetectionSource": "IAM monitoring",
+      "AdditionalData": {
+        "IPRegion": "Copperbelt"
+      }
     },
     {
       "Id": "5747a416-162c-41b5-87bc-024792d9df15",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-08T11:14:39Z",
+      "UpdatedAt": "2026-05-08T11:14:39Z",
       "AlertNumber": "FD-9861",
-      "EntityName": "Zamtel",
-      "PatternType": "Structuring",
-      "FraudScore": 79,
+      "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4003",
+      "EntityName": "Copperbelt Importers Network",
+      "PatternType": "GeographicAnomaly",
+      "ConfidenceScore": 79,
+      "FraudScore": 76,
       "RiskLevel": "High",
-      "Status": "New",
-      "DetectedAt": "2026-05-08T11:14:39.266529Z",
-      "ModelVersion": "v1.2.0",
+      "ModelVersion": "v2.1.0",
       "DetectedPatterns": [
-        "High Frequency",
-        "Round Amounts"
-      ]
+        "Unusual cross-border routing",
+        "Trade mismatch"
+      ],
+      "FeatureScores": {
+        "LocationMismatch": 0.84,
+        "TradeVolumeVariance": 0.67
+      },
+      "RecommendedActions": [
+        "Verify shipping documents",
+        "Check customs declarations"
+      ],
+      "RequiresManualReview": true,
+      "AutoBlocked": false,
+      "Status": "New",
+      "AssignedTo": "Analyst Phiri",
+      "Resolution": "",
+      "ResolvedAt": null,
+      "DetectedAt": "2026-05-08T09:40:00Z",
+      "DetectionSource": "Trade monitoring",
+      "AdditionalData": {
+        "Route": "Ndola to Chirundu"
+      }
     },
     {
       "Id": "2b35dba0-f1a6-4259-b879-a12402b6f575",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-08T11:14:39Z",
+      "UpdatedAt": "2026-05-08T11:14:39Z",
       "AlertNumber": "FD-1216",
-      "EntityName": "Natwange Traders",
-      "PatternType": "Structuring",
-      "FraudScore": 66,
-      "RiskLevel": "High",
-      "Status": "New",
-      "DetectedAt": "2026-05-08T11:14:39.266702Z",
-      "ModelVersion": "v1.2.0",
+      "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+      "EntityName": "Apex Road Contractors",
+      "PatternType": "VelocityAnomaly",
+      "ConfidenceScore": 73,
+      "FraudScore": 69,
+      "RiskLevel": "Medium",
+      "ModelVersion": "v2.1.0",
       "DetectedPatterns": [
-        "High Frequency",
-        "Round Amounts"
-      ]
+        "Rapid payment bursts",
+        "Weekend transfers"
+      ],
+      "FeatureScores": {
+        "VelocityScore": 0.79,
+        "ChannelMix": 0.61
+      },
+      "RecommendedActions": [
+        "Review payment batch logs",
+        "Monitor counterparties"
+      ],
+      "RequiresManualReview": true,
+      "AutoBlocked": false,
+      "Status": "UnderReview",
+      "AssignedTo": "Det. Banda",
+      "Resolution": "",
+      "ResolvedAt": null,
+      "DetectedAt": "2026-05-08T10:05:00Z",
+      "DetectionSource": "Payments engine",
+      "AdditionalData": {
+        "BatchId": "PAY-2241"
+      }
     },
     {
       "Id": "d5477267-1c7f-4d1c-af82-c39a30ae95b0",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-08T11:14:39Z",
+      "UpdatedAt": "2026-05-08T11:14:39Z",
       "AlertNumber": "FD-4166",
-      "EntityName": "Natwange Traders",
-      "PatternType": "Structuring",
-      "FraudScore": 90,
+      "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4003",
+      "EntityName": "Copperbelt Importers Network",
+      "PatternType": "SyntheticIdentity",
+      "ConfidenceScore": 81,
+      "FraudScore": 85,
       "RiskLevel": "High",
-      "Status": "New",
-      "DetectedAt": "2026-05-08T11:14:39.266752Z",
-      "ModelVersion": "v1.2.0",
+      "ModelVersion": "v2.1.0",
       "DetectedPatterns": [
-        "High Frequency",
-        "Round Amounts"
-      ]
+        "New device",
+        "Mismatched registration data"
+      ],
+      "FeatureScores": {
+        "IdentityMismatch": 0.88,
+        "DocumentReuse": 0.74
+      },
+      "RecommendedActions": [
+        "Request identity documents",
+        "Escalate to KYC review"
+      ],
+      "RequiresManualReview": true,
+      "AutoBlocked": false,
+      "Status": "New",
+      "AssignedTo": "",
+      "Resolution": "",
+      "ResolvedAt": null,
+      "DetectedAt": "2026-05-08T10:22:00Z",
+      "DetectionSource": "Account opening screening",
+      "AdditionalData": {
+        "SourceSystem": "Onboarding portal"
+      }
     },
     {
       "Id": "121618d8-cc6d-4a18-80f9-01b21c5c0fef",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-08T11:14:39Z",
+      "UpdatedAt": "2026-05-08T11:14:39Z",
       "AlertNumber": "FD-3443",
-      "EntityName": "Victoria Falls Power",
-      "PatternType": "Structuring",
-      "FraudScore": 78,
+      "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+      "EntityName": "Zambezi General Dealers",
+      "PatternType": "FirstPartyFraud",
+      "ConfidenceScore": 77,
+      "FraudScore": 74,
       "RiskLevel": "High",
-      "Status": "New",
-      "DetectedAt": "2026-05-08T11:14:39.266787Z",
-      "ModelVersion": "v1.2.0",
+      "ModelVersion": "v2.1.0",
       "DetectedPatterns": [
-        "High Frequency",
-        "Round Amounts"
-      ]
-    },
-    {
-      "Id": "d6329740-657d-432b-8b86-57a5421f9325",
-      "AlertNumber": "FD-5350",
-      "EntityName": "Zamtel",
-      "PatternType": "Structuring",
-      "FraudScore": 70,
-      "RiskLevel": "High",
+        "Chargeback spikes",
+        "Customer dispute clustering"
+      ],
+      "FeatureScores": {
+        "DisputeRate": 0.69,
+        "RefundVelocity": 0.58
+      },
+      "RecommendedActions": [
+        "Open dispute investigation",
+        "Review transaction metadata"
+      ],
+      "RequiresManualReview": true,
+      "AutoBlocked": false,
       "Status": "New",
-      "DetectedAt": "2026-05-08T11:14:39.266818Z",
-      "ModelVersion": "v1.2.0",
-      "DetectedPatterns": [
-        "High Frequency",
-        "Round Amounts"
-      ]
-    },
-    {
-      "Id": "fe16f983-4da7-4124-9584-52b344042c21",
-      "AlertNumber": "FD-2378",
-      "EntityName": "Victoria Falls Power",
-      "PatternType": "Structuring",
-      "FraudScore": 72,
-      "RiskLevel": "High",
-      "Status": "New",
-      "DetectedAt": "2026-05-08T11:14:39.266849Z",
-      "ModelVersion": "v1.2.0",
-      "DetectedPatterns": [
-        "High Frequency",
-        "Round Amounts"
-      ]
-    },
-    {
-      "Id": "07f15053-1860-4c66-afae-0ab7efe6efa5",
-      "AlertNumber": "FD-8844",
-      "EntityName": "Mopani Mines",
-      "PatternType": "Structuring",
-      "FraudScore": 94,
-      "RiskLevel": "High",
-      "Status": "New",
-      "DetectedAt": "2026-05-08T11:14:39.266882Z",
-      "ModelVersion": "v1.2.0",
-      "DetectedPatterns": [
-        "High Frequency",
-        "Round Amounts"
-      ]
-    },
-    {
-      "Id": "6e450f94-5644-48a7-a8e7-6985b94710b6",
-      "AlertNumber": "FD-6979",
-      "EntityName": "Zesco",
-      "PatternType": "Structuring",
-      "FraudScore": 87,
-      "RiskLevel": "High",
-      "Status": "New",
-      "DetectedAt": "2026-05-08T11:14:39.266936Z",
-      "ModelVersion": "v1.2.0",
-      "DetectedPatterns": [
-        "High Frequency",
-        "Round Amounts"
-      ]
+      "AssignedTo": "Analyst Phiri",
+      "Resolution": "",
+      "ResolvedAt": null,
+      "DetectedAt": "2026-05-08T10:40:00Z",
+      "DetectionSource": "Merchant risk engine",
+      "AdditionalData": {
+        "Channel": "E-commerce"
+      }
     }
   ],
   "ActiveModel": {
+    "Id": "6d450f94-5644-48a7-a8e7-6985b94710b6",
     "Name": "Neural Fraud Guard",
     "Version": "2.1",
     "Accuracy": 94.5,
+    "TrainingDate": "2026-04-25T11:14:39Z",
+    "DeploymentDate": "2026-05-01T00:00:00Z",
+    "IsActive": true,
+    "FeatureImportance": {
+      "VelocityScore": 0.28,
+      "IdentityMismatch": 0.24,
+      "CashDepositFrequency": 0.22,
+      "DeviceChange": 0.18,
+      "TradeVolumeVariance": 0.08
+    },
+    "LowRiskThreshold": 30,
+    "MediumRiskThreshold": 60,
+    "HighRiskThreshold": 80,
+    "TotalPredictions": 14500,
     "PrecisionScore": 92.1,
     "RecallScore": 89.4,
-    "TrainingDate": "2026-04-25T11:14:39.268023Z"
+    "F1Score": 90.7
   }
 }

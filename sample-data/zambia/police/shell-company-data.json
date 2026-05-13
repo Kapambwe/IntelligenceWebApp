@@ -3,73 +3,224 @@
   "Analyses": [
     {
       "Id": "a12b17d9-3f06-4d91-a526-e8e8ce7753fe",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-04T11:15:15Z",
+      "UpdatedAt": "2026-05-08T11:15:15Z",
       "EntityId": "91ce0ba7-27a0-45b0-ab73-5e5d1190cb2a",
       "EntityName": "Zambezi General Dealers",
+      "EntityType": "Organization",
+      "Jurisdiction": "Lusaka, Zambia",
       "ShellCompanyScore": 88.5,
       "RiskLevel": "High",
       "DetectedIndicators": [
-        0,
-        2,
-        4
+        "MinimalPhysicalPresence",
+        "CircularOwnership",
+        "UnusualTransactions"
       ],
-      "CreatedAt": "2026-05-04T11:15:15.766983Z",
-      "UpdatedAt": "2026-05-08T11:15:15.767010Z"
+      "HasMinimalPhysicalPresence": true,
+      "PhysicalPresenceNotes": "Shared office with minimal signage and no warehouse inventory observed.",
+      "HasCircularOwnership": true,
+      "OwnershipStructureNotes": "Beneficial owners overlap with related construction and logistics firms.",
+      "InHighRiskJurisdiction": false,
+      "HighRiskJurisdictions": [],
+      "HasNomineeDirectors": true,
+      "NomineeDirectorCount": 2,
+      "NomineeDirectorNames": [
+        "M. Phiri",
+        "J. Banda"
+      ],
+      "IsDormant": false,
+      "ActivityNotes": "Low staff presence but frequent outbound payments.",
+      "LastActivityDate": "2026-05-06T00:00:00Z",
+      "HasRapidFormationDissolution": false,
+      "FormationDate": "2023-09-12T00:00:00Z",
+      "DissolutionDate": null,
+      "DaysActive": 960,
+      "HasUnusualTransactions": true,
+      "TransactionPatternNotes": "Round-value transfers to related counterparties with weak commercial support.",
+      "AverageTransactionAmount": 38500,
+      "SuspiciousTransactionCount": 7,
+      "Recommendations": [
+        "Conduct beneficial ownership verification",
+        "Inspect registered premises",
+        "Review intercompany payments"
+      ],
+      "RequiresEnhancedDueDiligence": true,
+      "RecommendAccountClosure": false
     },
     {
       "Id": "c42b4b43-6463-4ba3-be0b-08e9852c54a9",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-04T11:15:15Z",
+      "UpdatedAt": "2026-05-08T11:15:15Z",
       "EntityId": "a496a0f8-ee32-445a-a605-7977b62a28d1",
       "EntityName": "Apex Road Contractors",
-      "ShellCompanyScore": 88.5,
+      "EntityType": "Organization",
+      "Jurisdiction": "Copperbelt, Zambia",
+      "ShellCompanyScore": 81.2,
       "RiskLevel": "High",
       "DetectedIndicators": [
-        0,
-        2,
-        4
+        "CircularOwnership",
+        "NomineeDirectors"
       ],
-      "CreatedAt": "2026-05-04T11:15:15.767040Z",
-      "UpdatedAt": "2026-05-08T11:15:15.767045Z"
+      "HasMinimalPhysicalPresence": false,
+      "PhysicalPresenceNotes": "Registered office exists but operations appear to be subcontracted.",
+      "HasCircularOwnership": true,
+      "OwnershipStructureNotes": "Network overlaps with two dormant holding companies.",
+      "InHighRiskJurisdiction": false,
+      "HighRiskJurisdictions": [],
+      "HasNomineeDirectors": true,
+      "NomineeDirectorCount": 1,
+      "NomineeDirectorNames": [
+        "R. Zulu"
+      ],
+      "IsDormant": false,
+      "ActivityNotes": "Project invoices continue despite limited payroll footprint.",
+      "LastActivityDate": "2026-05-07T00:00:00Z",
+      "HasRapidFormationDissolution": false,
+      "FormationDate": "2024-02-14T00:00:00Z",
+      "DissolutionDate": null,
+      "DaysActive": 812,
+      "HasUnusualTransactions": true,
+      "TransactionPatternNotes": "High volume of pass-through payments to related vendors.",
+      "AverageTransactionAmount": 27900,
+      "SuspiciousTransactionCount": 5,
+      "Recommendations": [
+        "Review corporate registry filings",
+        "Check director appointment history"
+      ],
+      "RequiresEnhancedDueDiligence": true,
+      "RecommendAccountClosure": false
     },
     {
       "Id": "46362662-c9d3-4388-98a7-c5490bdb17f0",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-04T11:15:15Z",
+      "UpdatedAt": "2026-05-08T11:15:15Z",
       "EntityId": "db0f6f3c-de5c-4ae0-b816-bdfc9d4cee2a",
-      "EntityName": "Zambezi General Dealers",
-      "ShellCompanyScore": 88.5,
-      "RiskLevel": "High",
+      "EntityName": "Copperbelt Importers Network",
+      "EntityType": "Organization",
+      "Jurisdiction": "Mufulira, Zambia",
+      "ShellCompanyScore": 72.8,
+      "RiskLevel": "Medium",
       "DetectedIndicators": [
-        0,
-        2,
-        4
+        "DormantActivity",
+        "UnusualTransactions"
       ],
-      "CreatedAt": "2026-05-04T11:15:15.767060Z",
-      "UpdatedAt": "2026-05-08T11:15:15.767064Z"
+      "HasMinimalPhysicalPresence": false,
+      "PhysicalPresenceNotes": "Small office and little operational evidence.",
+      "HasCircularOwnership": false,
+      "OwnershipStructureNotes": "Ownership appears nominally straightforward but under review.",
+      "InHighRiskJurisdiction": false,
+      "HighRiskJurisdictions": [],
+      "HasNomineeDirectors": false,
+      "NomineeDirectorCount": 0,
+      "NomineeDirectorNames": [],
+      "IsDormant": true,
+      "ActivityNotes": "Minimal trading activity outside of a single monthly shipment cycle.",
+      "LastActivityDate": "2026-04-30T00:00:00Z",
+      "HasRapidFormationDissolution": false,
+      "FormationDate": "2021-07-19T00:00:00Z",
+      "DissolutionDate": null,
+      "DaysActive": 1758,
+      "HasUnusualTransactions": true,
+      "TransactionPatternNotes": "Trade finance and cargo releases do not match declared turnover.",
+      "AverageTransactionAmount": 14200,
+      "SuspiciousTransactionCount": 3,
+      "Recommendations": [
+        "Request trade documentation",
+        "Match cargo and payment records"
+      ],
+      "RequiresEnhancedDueDiligence": false,
+      "RecommendAccountClosure": false
     },
     {
       "Id": "79523c7b-a5d2-4548-89af-d75101c31bce",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-04T11:15:15Z",
+      "UpdatedAt": "2026-05-08T11:15:15Z",
       "EntityId": "1e416e13-2a8e-4d0a-94db-00b6987f5490",
-      "EntityName": "Apex Road Contractors",
-      "ShellCompanyScore": 88.5,
+      "EntityName": "Mufulira Holdings Ltd",
+      "EntityType": "Organization",
+      "Jurisdiction": "Mufulira, Zambia",
+      "ShellCompanyScore": 86.3,
       "RiskLevel": "High",
       "DetectedIndicators": [
-        0,
-        2,
-        4
+        "RapidFormationDissolution",
+        "HighRiskJurisdiction"
       ],
-      "CreatedAt": "2026-05-04T11:15:15.767118Z",
-      "UpdatedAt": "2026-05-08T11:15:15.767143Z"
+      "HasMinimalPhysicalPresence": true,
+      "PhysicalPresenceNotes": "No visible trading activity at listed address.",
+      "HasCircularOwnership": false,
+      "OwnershipStructureNotes": "Several directors also serve in related transport firms.",
+      "InHighRiskJurisdiction": true,
+      "HighRiskJurisdictions": [
+        "British Virgin Islands"
+      ],
+      "HasNomineeDirectors": true,
+      "NomineeDirectorCount": 1,
+      "NomineeDirectorNames": [
+        "A. Mwansa"
+      ],
+      "IsDormant": false,
+      "ActivityNotes": "Recently formed entity with rapid account movement.",
+      "LastActivityDate": "2026-05-07T00:00:00Z",
+      "HasRapidFormationDissolution": true,
+      "FormationDate": "2025-11-03T00:00:00Z",
+      "DissolutionDate": null,
+      "DaysActive": 188,
+      "HasUnusualTransactions": true,
+      "TransactionPatternNotes": "Immediate cross-border transfers after incorporation.",
+      "AverageTransactionAmount": 45600,
+      "SuspiciousTransactionCount": 4,
+      "Recommendations": [
+        "Review incorporation history",
+        "Check offshore counterparties"
+      ],
+      "RequiresEnhancedDueDiligence": true,
+      "RecommendAccountClosure": false
     },
     {
       "Id": "1d72a768-6e09-48ee-aea7-57d96b1a26ad",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-04T11:15:15Z",
+      "UpdatedAt": "2026-05-08T11:15:15Z",
       "EntityId": "36703d7b-ec07-4905-a122-e9c86a7c9099",
-      "EntityName": "Apex Road Contractors",
-      "ShellCompanyScore": 88.5,
+      "EntityName": "Kafue Logistics Group",
+      "EntityType": "Organization",
+      "Jurisdiction": "Kafue, Zambia",
+      "ShellCompanyScore": 78.9,
       "RiskLevel": "High",
       "DetectedIndicators": [
-        0,
-        2,
-        4
+        "MinimalPhysicalPresence",
+        "UnusualTransactions"
       ],
-      "CreatedAt": "2026-05-04T11:15:15.767193Z",
-      "UpdatedAt": "2026-05-08T11:15:15.767198Z"
+      "HasMinimalPhysicalPresence": true,
+      "PhysicalPresenceNotes": "Warehouse subleased and largely empty.",
+      "HasCircularOwnership": false,
+      "OwnershipStructureNotes": "Ownership structure contains multiple inactive partners.",
+      "InHighRiskJurisdiction": false,
+      "HighRiskJurisdictions": [],
+      "HasNomineeDirectors": false,
+      "NomineeDirectorCount": 0,
+      "NomineeDirectorNames": [],
+      "IsDormant": false,
+      "ActivityNotes": "Low operational footprint compared with turnover.",
+      "LastActivityDate": "2026-05-06T00:00:00Z",
+      "HasRapidFormationDissolution": false,
+      "FormationDate": "2023-03-09T00:00:00Z",
+      "DissolutionDate": null,
+      "DaysActive": 1168,
+      "HasUnusualTransactions": true,
+      "TransactionPatternNotes": "Unexpected high-value shipments through a small logistics footprint.",
+      "AverageTransactionAmount": 31900,
+      "SuspiciousTransactionCount": 6,
+      "Recommendations": [
+        "Perform site inspection",
+        "Compare cargo manifests to invoice values"
+      ],
+      "RequiresEnhancedDueDiligence": true,
+      "RecommendAccountClosure": false
     }
   ]
 }

@@ -1,14 +1,102 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
-  "Events": [],
+  "Events": [
+    {
+      "Id": "7280982c-8948-4bca-b55f-8c9706902123",
+      "EventDate": "2026-03-12T08:20:00Z",
+      "EventType": "Transaction",
+      "Title": "Cash deposit at Lusaka branch",
+      "Description": "Structured deposit routed into the Zambezi General Dealers account.",
+      "RelatedEntities": [
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4001"
+      ],
+      "RelatedEntityNames": [
+        "Zambezi General Dealers"
+      ],
+      "Source": "Bank alert",
+      "Confidence": 92,
+      "Category": "Transaction",
+      "Metadata": {
+        "Amount": "30000",
+        "Currency": "ZMW"
+      }
+    },
+    {
+      "Id": "7280982c-8948-4bca-b55f-8c9706902124",
+      "EventDate": "2026-03-18T10:45:00Z",
+      "EventType": "Communication",
+      "Title": "Phone contact with vendor",
+      "Description": "Analyst logged a call requesting invoices and ownership documents.",
+      "RelatedEntities": [
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4002"
+      ],
+      "RelatedEntityNames": [
+        "Zambezi General Dealers",
+        "Apex Road Contractors"
+      ],
+      "Source": "Field interview",
+      "Confidence": 88,
+      "Category": "Communication",
+      "Metadata": {
+        "Channel": "Telephone",
+        "Agent": "Analyst Phiri"
+      }
+    },
+    {
+      "Id": "7280982c-8948-4bca-b55f-8c9706902125",
+      "EventDate": "2026-04-04T15:00:00Z",
+      "EventType": "Document",
+      "Title": "Ownership update filed",
+      "Description": "Beneficial ownership record updated after director change.",
+      "RelatedEntities": [
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4001"
+      ],
+      "RelatedEntityNames": [
+        "Zambezi General Dealers"
+      ],
+      "Source": "Registry feed",
+      "Confidence": 95,
+      "Category": "Document",
+      "Metadata": {
+        "DocumentType": "Ownership",
+        "Status": "Pending verification"
+      }
+    },
+    {
+      "Id": "7280982c-8948-4bca-b55f-8c9706902126",
+      "EventDate": "2026-05-05T13:10:00Z",
+      "EventType": "Investigation",
+      "Title": "Site visit completed",
+      "Description": "Field team confirmed limited physical footprint at the registered office.",
+      "RelatedEntities": [
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4001"
+      ],
+      "RelatedEntityNames": [
+        "Zambezi General Dealers"
+      ],
+      "Source": "Zambia Police",
+      "Confidence": 90,
+      "Category": "Investigation",
+      "Metadata": {
+        "Location": "Lusaka, Zambia",
+        "Outcome": "Low visible activity"
+      }
+    }
+  ],
   "Timelines": [
     {
       "Id": "7280982c-8948-4bca-b55f-8c9706902122",
       "Title": "Corruption Cycle Reconstruction",
       "Description": "Visualizing the movement of tender funds through offshore intermediaries.",
-      "StartDate": "2026-03-10T11:15:15.768661Z",
-      "EndDate": "2026-05-09T11:15:15.768684Z",
-      "TotalEvents": 12,
+      "EntityIds": [
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4002"
+      ],
+      "StartDate": "2026-03-12T00:00:00Z",
+      "EndDate": "2026-05-05T00:00:00Z",
+      "Events": [],
+      "TotalEvents": 4,
       "CreatedAt": "2026-05-08T11:15:15.768689Z",
       "CreatedBy": "Analyst Zulu"
     }

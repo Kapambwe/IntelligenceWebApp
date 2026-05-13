@@ -2,149 +2,129 @@
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
   "MonitoredEntities": [
     {
-      "EntityId": "88c9ac03-f1fa-43fd-a85e-f710e788d20a",
-      "EntityName": "Zambia Sugar",
-      "MonitoringStatus": "Active",
-      "CurrentRiskScore": 60,
-      "PreviousRiskScore": 40,
-      "LastReview": "2026-04-09T11:14:39.269005Z",
-      "NextScheduledReview": "2027-03-05T11:14:39.269023Z",
-      "ActiveAlerts": 2,
-      "RecentChanges": [],
+      "Id": "b1c8f1ef-1a1e-4ed8-9c5d-6d6d0e2f5001",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "EntityId": "b1c8f1ef-1a1e-4ed8-9c5d-6d6d0e2f5001",
+      "EntityName": "Zambezi General Dealers",
+      "LastReview": "2026-04-10T00:00:00Z",
+      "NextScheduledReview": "2026-05-24T00:00:00Z",
       "MonitoredDataSources": [
-        "ZRA",
-        "PACRA",
-        "Interpol"
+        "KYC Registry",
+        "Banking Alerts",
+        "Case Management"
       ],
-      "IsCompliant": true,
-      "ComplianceIssues": []
+      "CurrentRiskScore": 84.2,
+      "PreviousRiskScore": 76.8,
+      "TriggerReviewRequired": true,
+      "TriggerReason": "Risk score increased after related-party transfer escalation.",
+      "RecentChanges": [],
+      "MonitoringStatus": "Active",
+      "IsCompliant": false,
+      "ComplianceIssues": [
+        "Beneficial ownership needs confirmation",
+        "Registered office inspection incomplete"
+      ],
+      "ActiveAlerts": 3,
+      "ResolvedAlerts": 1,
+      "LastAlertDate": "2026-05-06T00:00:00Z"
     },
     {
-      "EntityId": "fac42b41-2fdb-46c3-bb5d-172727d10ac2",
-      "EntityName": "Mukwa Engineering",
-      "MonitoringStatus": "Active",
-      "CurrentRiskScore": 11,
-      "PreviousRiskScore": 40,
-      "LastReview": "2026-04-09T11:14:39.269042Z",
-      "NextScheduledReview": "2027-03-05T11:14:39.269046Z",
-      "ActiveAlerts": 0,
-      "RecentChanges": [],
-      "MonitoredDataSources": [
-        "ZRA",
-        "PACRA",
-        "Interpol"
-      ],
-      "IsCompliant": true,
-      "ComplianceIssues": []
-    },
-    {
-      "EntityId": "102a9c59-9908-49c5-b6bb-2fe3ad14155e",
-      "EntityName": "Zesco",
-      "MonitoringStatus": "Active",
-      "CurrentRiskScore": 27,
-      "PreviousRiskScore": 40,
-      "LastReview": "2026-04-09T11:14:39.269056Z",
-      "NextScheduledReview": "2027-03-05T11:14:39.269059Z",
-      "ActiveAlerts": 1,
-      "RecentChanges": [],
-      "MonitoredDataSources": [
-        "ZRA",
-        "PACRA",
-        "Interpol"
-      ],
-      "IsCompliant": true,
-      "ComplianceIssues": []
-    },
-    {
-      "EntityId": "2822b31b-f645-42eb-9804-b539030d325d",
+      "Id": "b1c8f1ef-1a1e-4ed8-9c5d-6d6d0e2f5002",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "EntityId": "b1c8f1ef-1a1e-4ed8-9c5d-6d6d0e2f5002",
       "EntityName": "Apex Road Contractors",
-      "MonitoringStatus": "Active",
-      "CurrentRiskScore": 47,
-      "PreviousRiskScore": 40,
-      "LastReview": "2026-04-09T11:14:39.269069Z",
-      "NextScheduledReview": "2027-03-05T11:14:39.269072Z",
-      "ActiveAlerts": 2,
-      "RecentChanges": [],
+      "LastReview": "2026-04-18T00:00:00Z",
+      "NextScheduledReview": "2026-06-01T00:00:00Z",
       "MonitoredDataSources": [
-        "ZRA",
-        "PACRA",
-        "Interpol"
+        "Procurement Feed",
+        "Tax Filings",
+        "Bank Alerts"
       ],
-      "IsCompliant": true,
-      "ComplianceIssues": []
-    },
-    {
-      "EntityId": "42012437-9ac1-4867-af8a-3b6b84cab9b9",
-      "EntityName": "Kafue Logistics",
+      "CurrentRiskScore": 78.1,
+      "PreviousRiskScore": 70.4,
+      "TriggerReviewRequired": false,
+      "TriggerReason": "",
+      "RecentChanges": [],
       "MonitoringStatus": "Active",
-      "CurrentRiskScore": 76,
-      "PreviousRiskScore": 40,
-      "LastReview": "2026-04-09T11:14:39.269084Z",
-      "NextScheduledReview": "2027-03-05T11:14:39.269088Z",
+      "IsCompliant": true,
+      "ComplianceIssues": [],
       "ActiveAlerts": 1,
-      "RecentChanges": [],
-      "MonitoredDataSources": [
-        "ZRA",
-        "PACRA",
-        "Interpol"
-      ],
-      "IsCompliant": true,
-      "ComplianceIssues": []
+      "ResolvedAlerts": 2,
+      "LastAlertDate": "2026-04-29T00:00:00Z"
     },
     {
-      "EntityId": "39da4138-52f3-4385-a6cb-a6a997f15971",
-      "EntityName": "Mukwa Engineering",
-      "MonitoringStatus": "Active",
-      "CurrentRiskScore": 64,
-      "PreviousRiskScore": 40,
-      "LastReview": "2026-04-09T11:14:39.269101Z",
-      "NextScheduledReview": "2027-03-05T11:14:39.269105Z",
-      "ActiveAlerts": 0,
-      "RecentChanges": [],
+      "Id": "b1c8f1ef-1a1e-4ed8-9c5d-6d6d0e2f5003",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "EntityId": "b1c8f1ef-1a1e-4ed8-9c5d-6d6d0e2f5003",
+      "EntityName": "Copperbelt Importers Network",
+      "LastReview": "2026-04-24T00:00:00Z",
+      "NextScheduledReview": null,
       "MonitoredDataSources": [
-        "ZRA",
-        "PACRA",
-        "Interpol"
+        "Trade Data",
+        "Border Reports",
+        "Sanctions Screening"
       ],
-      "IsCompliant": true,
-      "ComplianceIssues": []
-    },
-    {
-      "EntityId": "1c361654-e091-4ca9-8c09-2d29a7d2942d",
-      "EntityName": "Zambia Sugar",
+      "CurrentRiskScore": 69.5,
+      "PreviousRiskScore": 61.2,
+      "TriggerReviewRequired": true,
+      "TriggerReason": "Cross-border activity and new counterparties require review.",
+      "RecentChanges": [],
       "MonitoringStatus": "Active",
-      "CurrentRiskScore": 38,
-      "PreviousRiskScore": 40,
-      "LastReview": "2026-04-09T11:14:39.269116Z",
-      "NextScheduledReview": "2027-03-05T11:14:39.269120Z",
+      "IsCompliant": false,
+      "ComplianceIssues": [
+        "New counterparty not yet screened"
+      ],
       "ActiveAlerts": 2,
-      "RecentChanges": [],
-      "MonitoredDataSources": [
-        "ZRA",
-        "PACRA",
-        "Interpol"
-      ],
-      "IsCompliant": true,
-      "ComplianceIssues": []
-    },
-    {
-      "EntityId": "0ab471cd-d631-43c8-b6fc-d425d0416ad2",
-      "EntityName": "Zamtel",
-      "MonitoringStatus": "Active",
-      "CurrentRiskScore": 44,
-      "PreviousRiskScore": 40,
-      "LastReview": "2026-04-09T11:14:39.269133Z",
-      "NextScheduledReview": "2027-03-05T11:14:39.269138Z",
-      "ActiveAlerts": 1,
-      "RecentChanges": [],
-      "MonitoredDataSources": [
-        "ZRA",
-        "PACRA",
-        "Interpol"
-      ],
-      "IsCompliant": true,
-      "ComplianceIssues": []
+      "ResolvedAlerts": 0,
+      "LastAlertDate": "2026-05-07T00:00:00Z"
     }
   ],
-  "ChangeEvents": {}
+  "ChangeEvents": {
+    "b1c8f1ef-1a1e-4ed8-9c5d-6d6d0e2f5001": [
+      {
+        "Id": "b1c8f1ef-1a1e-4ed8-9c5d-6d6d0e2f5011",
+        "ChangeDate": "2026-05-03T00:00:00Z",
+        "ChangeType": "RiskScoreChange",
+        "FieldChanged": "CurrentRiskScore",
+        "OldValue": "76.8",
+        "NewValue": "84.2",
+        "Source": "Risk engine",
+        "Impact": "High",
+        "RequiresAction": true,
+        "Reviewed": false,
+        "ReviewedBy": "",
+        "ReviewedAt": null
+      },
+      {
+        "Id": "b1c8f1ef-1a1e-4ed8-9c5d-6d6d0e2f5012",
+        "ChangeDate": "2026-05-01T00:00:00Z",
+        "ChangeType": "ComplianceIssue",
+        "FieldChanged": "BeneficialOwnership",
+        "OldValue": "Verified",
+        "NewValue": "Pending refresh",
+        "Source": "KYC review",
+        "Impact": "Medium",
+        "RequiresAction": true,
+        "Reviewed": true,
+        "ReviewedBy": "Det. Banda",
+        "ReviewedAt": "2026-05-02T00:00:00Z"
+      }
+    ],
+    "b1c8f1ef-1a1e-4ed8-9c5d-6d6d0e2f5003": [
+      {
+        "Id": "b1c8f1ef-1a1e-4ed8-9c5d-6d6d0e2f5021",
+        "ChangeDate": "2026-05-07T00:00:00Z",
+        "ChangeType": "NewAlert",
+        "FieldChanged": "AlertCount",
+        "OldValue": "2",
+        "NewValue": "3",
+        "Source": "Alert engine",
+        "Impact": "Medium",
+        "RequiresAction": true,
+        "Reviewed": false,
+        "ReviewedBy": "",
+        "ReviewedAt": null
+      }
+    ]
+  }
 }

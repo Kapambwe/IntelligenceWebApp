@@ -3,51 +3,192 @@
   "Activities": [
     {
       "Id": "6f200889-8871-4bab-9a0c-db02f787029e",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-07T11:15:15Z",
+      "UpdatedAt": "2026-05-08T11:15:15Z",
       "ActivityNumber": "GA-310",
       "GangName": "Lusaka Syndicate",
-      "ActivityType": 2,
-      "ThreatLevel": 3,
+      "ActivityType": "OrganizedViolence",
+      "ThreatLevel": "High",
       "Description": "Aggravated robbery series involving commercial cargo.",
       "Location": "Garden Compound, Lusaka",
-      "OccurredAt": "2026-05-07T11:15:15.765078Z",
-      "ConfidenceScore": 85.0
+      "GeoCoordinates": "-15.4130,28.2900",
+      "OccurredAt": "2026-05-07T11:15:15Z",
+      "KnownMembers": [
+        "K. Mwale",
+        "J. Banda"
+      ],
+      "LeadershipHierarchy": [
+        "Leader",
+        "Enforcer"
+      ],
+      "Territory": "Lusaka Central",
+      "RivalGangs": [
+        "Copperbelt Cartel"
+      ],
+      "AlliedGangs": [],
+      "CasualtyCount": 1,
+      "EstimatedValue": 125000,
+      "LawEnforcementNotified": true,
+      "IntelligenceSources": [
+        "Field reports",
+        "CCTV"
+      ],
+      "ConfidenceScore": 85,
+      "VerifiedByMultipleSources": true,
+      "LinkedCases": [],
+      "LinkedEntities": []
     },
     {
       "Id": "ff8abdbf-0db6-4ea7-91e0-fc051444fa00",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-07T11:15:15Z",
+      "UpdatedAt": "2026-05-08T11:15:15Z",
       "ActivityNumber": "GA-670",
-      "GangName": "Lusaka Syndicate",
-      "ActivityType": 2,
-      "ThreatLevel": 3,
-      "Description": "Aggravated robbery series involving commercial cargo.",
-      "Location": "Garden Compound, Lusaka",
-      "OccurredAt": "2026-05-07T11:15:15.765121Z",
-      "ConfidenceScore": 85.0
+      "GangName": "Copperbelt Cartel",
+      "ActivityType": "DrugTrafficking",
+      "ThreatLevel": "Critical",
+      "Description": "Courier network linked to concealed narcotics shipments.",
+      "Location": "Kitwe, Zambia",
+      "GeoCoordinates": "-12.8020,28.2130",
+      "OccurredAt": "2026-05-06T15:10:00Z",
+      "KnownMembers": [
+        "R. Chanda",
+        "P. Ng'ambi"
+      ],
+      "LeadershipHierarchy": [
+        "Coordinator",
+        "Courier lead"
+      ],
+      "Territory": "Copperbelt",
+      "RivalGangs": [
+        "Lusaka Syndicate"
+      ],
+      "AlliedGangs": [],
+      "CasualtyCount": 0,
+      "EstimatedValue": 210000,
+      "LawEnforcementNotified": true,
+      "IntelligenceSources": [
+        "Informants",
+        "Vehicle tracking"
+      ],
+      "ConfidenceScore": 91,
+      "VerifiedByMultipleSources": true,
+      "LinkedCases": [],
+      "LinkedEntities": []
     },
     {
       "Id": "11bbf1e0-d294-48d7-927e-019322d20019",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-07T11:15:15Z",
+      "UpdatedAt": "2026-05-08T11:15:15Z",
       "ActivityNumber": "GA-258",
-      "GangName": "Lusaka Syndicate",
-      "ActivityType": 2,
-      "ThreatLevel": 3,
-      "Description": "Aggravated robbery series involving commercial cargo.",
-      "Location": "Garden Compound, Lusaka",
-      "OccurredAt": "2026-05-07T11:15:15.765138Z",
-      "ConfidenceScore": 85.0
+      "GangName": "Ndola Crew",
+      "ActivityType": "Recruitment",
+      "ThreatLevel": "Medium",
+      "Description": "Recruitment attempts at transport terminals.",
+      "Location": "Ndola Intercity Bus Station",
+      "GeoCoordinates": "-12.9680,28.6360",
+      "OccurredAt": "2026-05-05T09:40:00Z",
+      "KnownMembers": [
+        "T. Mulenga"
+      ],
+      "LeadershipHierarchy": [
+        "Recruiter"
+      ],
+      "Territory": "Ndola",
+      "RivalGangs": [],
+      "AlliedGangs": [
+        "Lusaka Syndicate"
+      ],
+      "CasualtyCount": 0,
+      "EstimatedValue": 15000,
+      "LawEnforcementNotified": true,
+      "IntelligenceSources": [
+        "Station surveillance"
+      ],
+      "ConfidenceScore": 73,
+      "VerifiedByMultipleSources": false,
+      "LinkedCases": [],
+      "LinkedEntities": []
     },
     {
       "Id": "2eba5a8f-e118-405d-9abb-3c36a375b71b",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-07T11:15:15Z",
+      "UpdatedAt": "2026-05-08T11:15:15Z",
       "ActivityNumber": "GA-841",
-      "GangName": "Lusaka Syndicate",
-      "ActivityType": 2,
-      "ThreatLevel": 3,
-      "Description": "Aggravated robbery series involving commercial cargo.",
-      "Location": "Garden Compound, Lusaka",
-      "OccurredAt": "2026-05-07T11:15:15.765151Z",
-      "ConfidenceScore": 85.0
+      "GangName": "Border Crew",
+      "ActivityType": "TerritorialDispute",
+      "ThreatLevel": "High",
+      "Description": "Dispute over route control near the border crossing.",
+      "Location": "Chirundu, Zambia",
+      "GeoCoordinates": "-16.8270,28.9630",
+      "OccurredAt": "2026-05-04T17:25:00Z",
+      "KnownMembers": [
+        "M. Phiri",
+        "S. Tembo"
+      ],
+      "LeadershipHierarchy": [
+        "Area controller"
+      ],
+      "Territory": "Southern border corridor",
+      "RivalGangs": [
+        "Lusaka Syndicate"
+      ],
+      "AlliedGangs": [],
+      "CasualtyCount": 2,
+      "EstimatedValue": 46000,
+      "LawEnforcementNotified": true,
+      "IntelligenceSources": [
+        "Border patrol",
+        "Witness statements"
+      ],
+      "ConfidenceScore": 82,
+      "VerifiedByMultipleSources": true,
+      "LinkedCases": [],
+      "LinkedEntities": []
+    },
+    {
+      "Id": "9ef4b0cd-8a10-4cc0-b6c1-2f2f3f4b5001",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-07T11:15:15Z",
+      "UpdatedAt": "2026-05-08T11:15:15Z",
+      "ActivityNumber": "GA-912",
+      "GangName": "Copperbelt Cartel",
+      "ActivityType": "MoneyLaundering",
+      "ThreatLevel": "High",
+      "Description": "Cash recycling through small retail outlets.",
+      "Location": "Mufulira, Zambia",
+      "GeoCoordinates": "-12.5500,28.2400",
+      "OccurredAt": "2026-05-03T13:00:00Z",
+      "KnownMembers": [
+        "R. Chanda"
+      ],
+      "LeadershipHierarchy": [
+        "Finance handler"
+      ],
+      "Territory": "Copperbelt",
+      "RivalGangs": [],
+      "AlliedGangs": [
+        "Border Crew"
+      ],
+      "CasualtyCount": 0,
+      "EstimatedValue": 98000,
+      "LawEnforcementNotified": false,
+      "IntelligenceSources": [
+        "Bank anomaly reports"
+      ],
+      "ConfidenceScore": 88,
+      "VerifiedByMultipleSources": true,
+      "LinkedCases": [],
+      "LinkedEntities": []
     }
   ],
   "KnownGangs": [
     "Lusaka Syndicate",
-    "Copperbelt Cartel"
+    "Copperbelt Cartel",
+    "Ndola Crew",
+    "Border Crew"
   ]
 }

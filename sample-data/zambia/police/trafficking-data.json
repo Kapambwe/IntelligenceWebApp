@@ -3,36 +3,229 @@
   "Cases": [
     {
       "Id": "1d739176-a99e-415e-8d79-2153ebb08267",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-03T00:00:00Z",
+      "UpdatedAt": "2026-05-08T00:00:00Z",
       "CaseNumber": "HT-179",
       "Title": "Suspicious Labor Movement",
       "Description": "Detected unusual group travel patterns consistent with labor trafficking.",
-      "Status": 1,
-      "Priority": 2,
+      "Type": "HumanTrafficking",
+      "Priority": "High",
+      "Status": "InProgress",
+      "AssignedTo": "Det. Banda",
       "EstimatedVictimCount": 12,
+      "VictimDemographics": [
+        "Young adults",
+        "Cross-border migrants"
+      ],
+      "Indicators": [
+        "SuspiciousEmployment",
+        "MovementRestrictions",
+        "ForcedLabor"
+      ],
       "TraffickingRoute": "Zambia -> South Africa",
-      "AssignedTo": "Det. Banda"
+      "OriginCountries": [
+        "Zambia"
+      ],
+      "TransitCountries": [
+        "Botswana"
+      ],
+      "DestinationCountries": [
+        "South Africa"
+      ],
+      "SuspectedPerpetrators": 4,
+      "PerpetratorProfiles": [
+        "Recruitment broker",
+        "Transport coordinator"
+      ],
+      "OrganizedCrimeInvolvement": true,
+      "EstimatedRevenue": 250000,
+      "MoneyLaunderingMethods": [
+        "Cash pickup",
+        "Shell companies"
+      ],
+      "DueDate": "2026-05-20T00:00:00Z",
+      "ClosedAt": null,
+      "LinkedEntities": 5,
+      "EvidenceCount": 9
     },
     {
       "Id": "b187ae10-2245-4ef8-a376-1a04d387dc61",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-02T00:00:00Z",
+      "UpdatedAt": "2026-05-08T00:00:00Z",
       "CaseNumber": "HT-707",
-      "Title": "Suspicious Labor Movement",
-      "Description": "Detected unusual group travel patterns consistent with labor trafficking.",
-      "Status": 1,
-      "Priority": 2,
-      "EstimatedVictimCount": 12,
-      "TraffickingRoute": "Zambia -> South Africa",
-      "AssignedTo": "Det. Banda"
+      "Title": "Domestic Servitude Network",
+      "Description": "Pattern of household recruitment with restricted movement and withheld wages.",
+      "Type": "HumanTrafficking",
+      "Priority": "Medium",
+      "Status": "UnderReview",
+      "AssignedTo": "Det. Banda",
+      "EstimatedVictimCount": 7,
+      "VictimDemographics": [
+        "Women",
+        "Teenagers"
+      ],
+      "Indicators": [
+        "MovementRestrictions",
+        "PsychologicalControl"
+      ],
+      "TraffickingRoute": "Lusaka -> Livingstone",
+      "OriginCountries": [
+        "Zambia"
+      ],
+      "TransitCountries": [],
+      "DestinationCountries": [
+        "Zambia"
+      ],
+      "SuspectedPerpetrators": 2,
+      "PerpetratorProfiles": [
+        "Domestic recruiter"
+      ],
+      "OrganizedCrimeInvolvement": false,
+      "EstimatedRevenue": 68000,
+      "MoneyLaunderingMethods": [
+        "Bank transfers"
+      ],
+      "DueDate": "2026-05-25T00:00:00Z",
+      "ClosedAt": null,
+      "LinkedEntities": 2,
+      "EvidenceCount": 4
     },
     {
       "Id": "33b0a933-4569-40af-bb19-898afd4fe750",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-05-01T00:00:00Z",
+      "UpdatedAt": "2026-05-08T00:00:00Z",
       "CaseNumber": "HT-371",
-      "Title": "Suspicious Labor Movement",
-      "Description": "Detected unusual group travel patterns consistent with labor trafficking.",
-      "Status": 1,
-      "Priority": 2,
-      "EstimatedVictimCount": 12,
-      "TraffickingRoute": "Zambia -> South Africa",
-      "AssignedTo": "Det. Banda"
+      "Title": "Cross-Border Employment Scam",
+      "Description": "Recruitment adverts used to move victims through fake job placements.",
+      "Type": "HumanTrafficking",
+      "Priority": "High",
+      "Status": "Escalated",
+      "AssignedTo": "Det. Banda",
+      "EstimatedVictimCount": 9,
+      "VictimDemographics": [
+        "Job seekers"
+      ],
+      "Indicators": [
+        "SuspiciousEmployment",
+        "DocumentControl",
+        "DebtBondage"
+      ],
+      "TraffickingRoute": "Zambia -> Namibia",
+      "OriginCountries": [
+        "Zambia"
+      ],
+      "TransitCountries": [
+        "Botswana"
+      ],
+      "DestinationCountries": [
+        "Namibia"
+      ],
+      "SuspectedPerpetrators": 3,
+      "PerpetratorProfiles": [
+        "Recruiter",
+        "Travel facilitator"
+      ],
+      "OrganizedCrimeInvolvement": true,
+      "EstimatedRevenue": 142000,
+      "MoneyLaunderingMethods": [
+        "Mobile money",
+        "Front business"
+      ],
+      "DueDate": "2026-05-18T00:00:00Z",
+      "ClosedAt": null,
+      "LinkedEntities": 4,
+      "EvidenceCount": 6
+    },
+    {
+      "Id": "c4a0c3ad-0e22-4c2b-8d52-1a2c9a2f5001",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-04-29T00:00:00Z",
+      "UpdatedAt": "2026-05-08T00:00:00Z",
+      "CaseNumber": "HT-812",
+      "Title": "Forced Labor at Farm Compound",
+      "Description": "Workers report confiscated documents and wages withheld by supervisors.",
+      "Type": "HumanTrafficking",
+      "Priority": "Critical",
+      "Status": "Open",
+      "AssignedTo": "Det. Banda",
+      "EstimatedVictimCount": 15,
+      "VictimDemographics": [
+        "Migrant laborers",
+        "Seasonal workers"
+      ],
+      "Indicators": [
+        "ForcedLabor",
+        "DocumentControl",
+        "IsolationFromFamily"
+      ],
+      "TraffickingRoute": "Northern Province -> Copperbelt",
+      "OriginCountries": [
+        "Zambia"
+      ],
+      "TransitCountries": [],
+      "DestinationCountries": [
+        "Zambia"
+      ],
+      "SuspectedPerpetrators": 5,
+      "PerpetratorProfiles": [
+        "Farm manager",
+        "Recruitment broker"
+      ],
+      "OrganizedCrimeInvolvement": true,
+      "EstimatedRevenue": 320000,
+      "MoneyLaunderingMethods": [
+        "Cash-based payroll",
+        "Front business"
+      ],
+      "DueDate": "2026-05-16T00:00:00Z",
+      "ClosedAt": null,
+      "LinkedEntities": 6,
+      "EvidenceCount": 11
+    },
+    {
+      "Id": "6b3eb1b2-5c7f-4f5c-9d57-2c2d5f5e6002",
+      "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+      "CreatedAt": "2026-04-28T00:00:00Z",
+      "UpdatedAt": "2026-05-08T00:00:00Z",
+      "CaseNumber": "HT-944",
+      "Title": "Online Recruitment Grooming",
+      "Description": "Social media recruitment lures victims with false employment offers.",
+      "Type": "HumanTrafficking",
+      "Priority": "Medium",
+      "Status": "UnderReview",
+      "AssignedTo": "Det. Banda",
+      "EstimatedVictimCount": 4,
+      "VictimDemographics": [
+        "Young women"
+      ],
+      "Indicators": [
+        "PsychologicalControl",
+        "VictimProfile"
+      ],
+      "TraffickingRoute": "Lusaka -> Remote Accommodation",
+      "OriginCountries": [
+        "Zambia"
+      ],
+      "TransitCountries": [],
+      "DestinationCountries": [
+        "Zambia"
+      ],
+      "SuspectedPerpetrators": 2,
+      "PerpetratorProfiles": [
+        "Online recruiter"
+      ],
+      "OrganizedCrimeInvolvement": false,
+      "EstimatedRevenue": 54000,
+      "MoneyLaunderingMethods": [
+        "Mobile money"
+      ],
+      "DueDate": "2026-05-24T00:00:00Z",
+      "ClosedAt": null,
+      "LinkedEntities": 1,
+      "EvidenceCount": 3
     }
   ],
   "VictimProfiles": {}

@@ -3,107 +3,206 @@
   "Markers": [
     {
       "Id": "5cc3b65a-df78-4bff-93d1-90c7082197dd",
-      "Name": "Armed Robbery Site",
-      "Description": "Recent heist on commercial truck.",
-      "Latitude": -15.376072917257103,
-      "Longitude": 28.17955452184082,
-      "Location": "Katete, Zambia",
+      "Name": "Lusaka Cash Pickup",
+      "Description": "Structured withdrawal linked to a suspected laundering network.",
+      "Latitude": -15.3875,
+      "Longitude": 28.3228,
+      "Location": "Lusaka, Zambia",
+      "Country": "Zambia",
       "MarkerType": "incident",
       "MarkerColor": "#ef4444",
-      "RiskLevel": 90,
-      "EntityType": "Investigation",
-      "EventDate": "2026-01-10T17:30:30Z"
+      "RiskLevel": 92,
+      "EntityType": "Case",
+      "EventDate": "2026-05-05T08:10:00Z",
+      "Properties": {
+        "CaseNumber": "FR-1024"
+      }
     },
     {
       "Id": "1601c089-6a8d-482d-8e3c-8768108ad407",
-      "Name": "Illegal Firearms Cache",
-      "Description": "Arms shipment intercepted.",
-      "Latitude": -16.039548034243236,
-      "Longitude": 28.865262951194882,
-      "Location": "Chirundu, Zambia",
-      "MarkerType": "incident",
-      "MarkerColor": "#ef4444",
-      "RiskLevel": 98,
-      "EntityType": "Investigation",
-      "EventDate": "2026-01-10T17:30:30Z"
+      "Name": "Ndola Recruitment Hub",
+      "Description": "Suspicious recruitment activity linked to trafficking indicators.",
+      "Latitude": -12.9693,
+      "Longitude": 28.6358,
+      "Location": "Ndola, Zambia",
+      "Country": "Zambia",
+      "MarkerType": "hotspot",
+      "MarkerColor": "#f59e0b",
+      "RiskLevel": 77,
+      "EntityType": "Activity",
+      "EventDate": "2026-05-04T11:00:00Z",
+      "Properties": {
+        "Source": "Field observation"
+      }
     },
     {
       "Id": "96ea5095-d07e-403a-a2d4-7185c6c9b9f9",
-      "Name": "Gang Territory",
-      "Description": "Known zone for C5 Syndicate activity.",
-      "Latitude": -15.414740053891684,
-      "Longitude": 28.260470428678673,
-      "Location": "Lusaka, Zambia",
-      "MarkerType": "territory",
-      "MarkerColor": "#8b5cf6",
-      "RiskLevel": 75,
-      "EntityType": "Investigation",
-      "EventDate": "2026-01-10T17:30:30Z"
+      "Name": "Border Transit Node",
+      "Description": "Cross-border movement point used by a transport intermediary.",
+      "Latitude": -16.8283,
+      "Longitude": 29.0657,
+      "Location": "Chirundu, Zambia",
+      "Country": "Zambia",
+      "MarkerType": "route",
+      "MarkerColor": "#3b82f6",
+      "RiskLevel": 68,
+      "EntityType": "Activity",
+      "EventDate": "2026-05-03T15:40:00Z",
+      "Properties": {
+        "RouteId": "route-south"
+      }
     },
     {
       "Id": "a3a47e81-808a-47ed-802f-8a085a90496d",
-      "Name": "Suspect Safehouse",
-      "Description": "Frequent meetings of known associates.",
-      "Latitude": -12.969904356553176,
-      "Longitude": 28.64416732332571,
-      "Location": "Ndola, Zambia",
-      "MarkerType": "hotspot",
-      "MarkerColor": "#f59e0b",
-      "RiskLevel": 68,
+      "Name": "Copperbelt Safe House",
+      "Description": "Frequent nighttime visits observed at the safe house location.",
+      "Latitude": -12.8206,
+      "Longitude": 28.2130,
+      "Location": "Kitwe, Zambia",
+      "Country": "Zambia",
+      "MarkerType": "territory",
+      "MarkerColor": "#8b5cf6",
+      "RiskLevel": 63,
       "EntityType": "Investigation",
-      "EventDate": "2026-01-10T17:30:30Z"
+      "EventDate": "2026-05-02T20:30:00Z",
+      "Properties": {
+        "ObservedPattern": "Night visits"
+      }
     },
     {
       "Id": "9e5de8b2-2500-41a2-8e5c-eba14819bfde",
-      "Name": "Police Outpost",
-      "Description": "Rapid response unit location.",
-      "Latitude": -12.170370325509088,
-      "Longitude": 26.40773575451401,
+      "Name": "Solwezi Intercept Site",
+      "Description": "Police checkpoint associated with a recent interdiction.",
+      "Latitude": -12.1790,
+      "Longitude": 26.3994,
       "Location": "Solwezi, Zambia",
-      "MarkerType": "territory",
-      "MarkerColor": "#8b5cf6",
-      "RiskLevel": 10,
+      "Country": "Zambia",
+      "MarkerType": "incident",
+      "MarkerColor": "#ef4444",
+      "RiskLevel": 20,
       "EntityType": "Investigation",
-      "EventDate": "2026-01-10T17:30:30Z"
+      "EventDate": "2026-05-06T06:25:00Z",
+      "Properties": {
+        "Outcome": "Seizure completed"
+      }
+    },
+    {
+      "Id": "d8ab5e3a-a1b6-4e8d-b8c4-1a1c2d3e4f55",
+      "Name": "Livingstone Money Mule Node",
+      "Description": "ATM cluster used to withdraw proceeds after fraud alerts.",
+      "Latitude": -17.8419,
+      "Longitude": 25.8543,
+      "Location": "Livingstone, Zambia",
+      "Country": "Zambia",
+      "MarkerType": "hotspot",
+      "MarkerColor": "#f59e0b",
+      "RiskLevel": 71,
+      "EntityType": "Activity",
+      "EventDate": "2026-05-04T09:05:00Z",
+      "Properties": {
+        "Network": "ATM withdrawals"
+      }
     }
   ],
-  "Routes": [],
-  "Heatmaps": {
-    "activity": {
-      "Title": "Operational Activity",
-      "Description": "Density of recent incidents and surveillance hits.",
+  "Routes": [
+    {
+      "Id": "2aaf8f3e-4ae9-4c3a-9c3a-2d3a3e3f4a10",
+      "Name": "Southbound Trafficking Corridor",
       "Points": [
         {
-          "Latitude": -15.376072917257103,
-          "Longitude": 28.17955452184082,
-          "Intensity": 0.9,
-          "Count": 1
+          "Latitude": -15.3875,
+          "Longitude": 28.3228,
+          "Location": "Lusaka, Zambia",
+          "PointType": "Origin",
+          "Order": 1
         },
         {
-          "Latitude": -16.039548034243236,
-          "Longitude": 28.865262951194882,
-          "Intensity": 0.98,
-          "Count": 1
+          "Latitude": -16.8265,
+          "Longitude": 29.0740,
+          "Location": "Chirundu, Zambia",
+          "PointType": "Transit",
+          "Order": 2
         },
         {
-          "Latitude": -15.414740053891684,
-          "Longitude": 28.260470428678673,
-          "Intensity": 0.75,
-          "Count": 1
+          "Latitude": -20.1540,
+          "Longitude": 28.5867,
+          "Location": "Bulawayo Corridor",
+          "PointType": "Destination",
+          "Order": 3
+        }
+      ],
+      "EstimatedVictimCount": 14,
+      "RiskScore": 86,
+      "IsActive": true
+    },
+    {
+      "Id": "3b1b4f2a-3df5-4d9a-98f8-2b2b3c3d4e20",
+      "Name": "Copperbelt Logistics Loop",
+      "Points": [
+        {
+          "Latitude": -12.9693,
+          "Longitude": 28.6358,
+          "Location": "Ndola, Zambia",
+          "PointType": "Origin",
+          "Order": 1
         },
         {
-          "Latitude": -12.969904356553176,
-          "Longitude": 28.64416732332571,
+          "Latitude": -12.8206,
+          "Longitude": 28.2130,
+          "Location": "Kitwe, Zambia",
+          "PointType": "Transit",
+          "Order": 2
+        },
+        {
+          "Latitude": -12.1790,
+          "Longitude": 26.3994,
+          "Location": "Solwezi, Zambia",
+          "PointType": "Destination",
+          "Order": 3
+        }
+      ],
+      "EstimatedVictimCount": 6,
+      "RiskScore": 63,
+      "IsActive": true
+    }
+  ],
+  "Heatmaps": {
+    "activity": {
+      "Points": [
+        {
+          "Latitude": -15.3875,
+          "Longitude": 28.3228,
+          "Intensity": 0.92,
+          "Count": 3
+        },
+        {
+          "Latitude": -12.9693,
+          "Longitude": 28.6358,
+          "Intensity": 0.77,
+          "Count": 2
+        },
+        {
+          "Latitude": -16.8265,
+          "Longitude": 29.0740,
           "Intensity": 0.68,
-          "Count": 1
+          "Count": 2
         },
         {
-          "Latitude": -12.170370325509088,
-          "Longitude": 26.40773575451401,
-          "Intensity": 0.1,
+          "Latitude": -17.8419,
+          "Longitude": 25.8543,
+          "Intensity": 0.71,
+          "Count": 2
+        },
+        {
+          "Latitude": -12.1790,
+          "Longitude": 26.3994,
+          "Intensity": 0.2,
           "Count": 1
         }
-      ]
+      ],
+      "Title": "Operational Activity",
+      "Description": "Density of recent incidents and surveillance hits.",
+      "GeneratedAt": "2026-05-08T11:15:15Z"
     }
   }
 }

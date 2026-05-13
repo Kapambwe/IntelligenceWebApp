@@ -1,6 +1,43 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
   "SanctionsResults": {},
-  "PepResults": {},
+  "PepResults": {
+    "bbd477cb-aedb-424e-b314-c9f7a4db33de": {
+      "EntityId": "bbd477cb-aedb-424e-b314-c9f7a4db33de",
+      "Status": "Match",
+      "IsPep": true,
+      "Position": "Provincial Minister",
+      "Country": "Zambia",
+      "PepLevel": "National",
+      "LastScreenedAt": "2026-05-08T10:20:00Z"
+    },
+    "1ab4c367-34be-44a7-ac2d-22e6379d121f": {
+      "EntityId": "1ab4c367-34be-44a7-ac2d-22e6379d121f",
+      "Status": "Match",
+      "IsPep": true,
+      "Position": "Board Chair",
+      "Country": "Zambia",
+      "PepLevel": "Regional",
+      "LastScreenedAt": "2026-05-08T10:25:00Z"
+    },
+    "d401623d-230d-4b50-9295-8987e036ef24": {
+      "EntityId": "d401623d-230d-4b50-9295-8987e036ef24",
+      "Status": "Clear",
+      "IsPep": false,
+      "Position": null,
+      "Country": "Zambia",
+      "PepLevel": "None",
+      "LastScreenedAt": "2026-05-08T10:27:00Z"
+    },
+    "2338663d-ab47-4693-bc39-30e5eb300f10": {
+      "EntityId": "2338663d-ab47-4693-bc39-30e5eb300f10",
+      "Status": "Clear",
+      "IsPep": false,
+      "Position": null,
+      "Country": "Zambia",
+      "PepLevel": "None",
+      "LastScreenedAt": "2026-05-08T10:28:00Z"
+    }
+  },
   "AmlResults": {}
 }
