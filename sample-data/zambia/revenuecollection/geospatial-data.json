@@ -67,7 +67,70 @@
       "EventDate": "2026-01-10T17:30:30Z"
     }
   ],
-  "Routes": [],
+  "Routes": [
+    {
+      "Id": "11e2f6b9-0f22-4c16-8fd4-100000000001",
+      "Name": "Nakonde Corridor Route",
+      "Points": [
+        {
+          "Latitude": -9.294795575879894,
+          "Longitude": 32.78941480983954,
+          "Location": "Nakonde, Zambia",
+          "PointType": "Origin",
+          "Order": 1
+        },
+        {
+          "Latitude": -15.4166667,
+          "Longitude": 28.2833333,
+          "Location": "Lusaka, Zambia",
+          "PointType": "Transit",
+          "Order": 2
+        },
+        {
+          "Latitude": -16.8,
+          "Longitude": 29.68,
+          "Location": "Chirundu, Zambia",
+          "PointType": "Destination",
+          "Order": 3
+        }
+      ],
+      "EstimatedVictimCount": 6,
+      "RiskScore": 82.0,
+      "IsActive": true
+    },
+    {
+      "Id": "11e2f6b9-0f22-4c16-8fd4-100000000002",
+      "Name": "Lusaka Revenue Loop",
+      "Points": [],
+      "EstimatedVictimCount": 4,
+      "RiskScore": 68.0,
+      "IsActive": true
+    },
+    {
+      "Id": "11e2f6b9-0f22-4c16-8fd4-100000000003",
+      "Name": "Copperbelt Trade Spur",
+      "Points": [],
+      "EstimatedVictimCount": 5,
+      "RiskScore": 74.0,
+      "IsActive": true
+    },
+    {
+      "Id": "11e2f6b9-0f22-4c16-8fd4-100000000004",
+      "Name": "Border Clearance Route",
+      "Points": [],
+      "EstimatedVictimCount": 7,
+      "RiskScore": 79.0,
+      "IsActive": false
+    },
+    {
+      "Id": "11e2f6b9-0f22-4c16-8fd4-100000000005",
+      "Name": "Mining Export Corridor",
+      "Points": [],
+      "EstimatedVictimCount": 8,
+      "RiskScore": 71.0,
+      "IsActive": true
+    }
+  ],
   "Heatmaps": {
     "activity": {
       "Title": "Operational Activity",
@@ -103,6 +166,35 @@
           "Intensity": 0.75,
           "Count": 1
         }
+      ]
+    },
+    "revenue": {
+      "Title": "Revenue Pressure",
+      "Description": "Branches and corridors with high collections risk.",
+      "Points": [
+        { "Latitude": -15.4166667, "Longitude": 28.2833333, "Intensity": 0.72, "Count": 2 },
+        { "Latitude": -12.995444093551106, "Longitude": 28.622895848053293, "Intensity": 0.58, "Count": 2 }
+      ]
+    },
+    "border": {
+      "Title": "Border Corridor",
+      "Description": "Border crossings with repeated customs anomalies.",
+      "Points": [
+        { "Latitude": -9.294795575879894, "Longitude": 32.78941480983954, "Intensity": 0.9, "Count": 3 }
+      ]
+    },
+    "refunds": {
+      "Title": "VAT Refund Concentration",
+      "Description": "Refund-heavy districts requiring review.",
+      "Points": [
+        { "Latitude": -15.406, "Longitude": 28.277, "Intensity": 0.64, "Count": 2 }
+      ]
+    },
+    "compliance": {
+      "Title": "Compliance Review",
+      "Description": "Locations with elevated screening and audit activity.",
+      "Points": [
+        { "Latitude": -16.8, "Longitude": 29.68, "Intensity": 0.55, "Count": 1 }
       ]
     }
   }

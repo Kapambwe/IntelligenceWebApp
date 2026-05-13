@@ -1,4 +1,122 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
-  "Clusters": []
+  "Clusters": [
+    {
+      "Id": "bcb9e6a1-7d6c-4c9b-9b65-4c1a6ec1f001",
+      "Name": "Lusaka Invoice Ring",
+      "Color": "#ef4444",
+      "Size": 14,
+      "RiskScore": 92,
+      "EntityIds": [
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4002"
+      ],
+      "Statistics": {
+        "TotalNodes": 14,
+        "TotalEdges": 24,
+        "Density": 0.78,
+        "AverageRiskScore": 89.4,
+        "HighRiskEntities": 9
+      },
+      "IsExpanded": true,
+      "BoundaryPoints": [
+        { "X": 28.262, "Y": -15.411 },
+        { "X": 28.279, "Y": -15.405 },
+        { "X": 28.286, "Y": -15.418 }
+      ]
+    },
+    {
+      "Id": "f0a5f5e8-8b2f-45ad-b0d1-0f9f2b9b1002",
+      "Name": "Nakonde Border Traders",
+      "Color": "#f59e0b",
+      "Size": 11,
+      "RiskScore": 81,
+      "EntityIds": [
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4003"
+      ],
+      "Statistics": {
+        "TotalNodes": 11,
+        "TotalEdges": 17,
+        "Density": 0.61,
+        "AverageRiskScore": 76.2,
+        "HighRiskEntities": 6
+      },
+      "IsExpanded": false,
+      "BoundaryPoints": [
+        { "X": 32.765, "Y": -9.303 },
+        { "X": 32.779, "Y": -9.297 },
+        { "X": 32.786, "Y": -9.310 }
+      ]
+    },
+    {
+      "Id": "9ec8b5a7-9c2e-45c4-8c80-0bb0d3a5d003",
+      "Name": "Copperbelt Settlements",
+      "Color": "#3b82f6",
+      "Size": 9,
+      "RiskScore": 67,
+      "EntityIds": [
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4002"
+      ],
+      "Statistics": {
+        "TotalNodes": 9,
+        "TotalEdges": 12,
+        "Density": 0.53,
+        "AverageRiskScore": 61.8,
+        "HighRiskEntities": 4
+      },
+      "IsExpanded": false,
+      "BoundaryPoints": [
+        { "X": 28.432, "Y": -12.812 },
+        { "X": 28.448, "Y": -12.804 },
+        { "X": 28.441, "Y": -12.823 }
+      ]
+    },
+    {
+      "Id": "2bd3cb1e-5e8e-4d6c-86bc-3b1d8ac2b004",
+      "Name": "Customs Broker Network",
+      "Color": "#10b981",
+      "Size": 8,
+      "RiskScore": 74,
+      "EntityIds": [
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4003"
+      ],
+      "Statistics": {
+        "TotalNodes": 8,
+        "TotalEdges": 11,
+        "Density": 0.49,
+        "AverageRiskScore": 72.1,
+        "HighRiskEntities": 5
+      },
+      "IsExpanded": false,
+      "BoundaryPoints": [
+        { "X": 32.784, "Y": -9.314 },
+        { "X": 32.792, "Y": -9.307 },
+        { "X": 32.800, "Y": -9.318 }
+      ]
+    },
+    {
+      "Id": "7d6c9c43-1f5b-4a66-bce6-44dd2b5f2005",
+      "Name": "VAT Refund Watchlist",
+      "Color": "#8b5cf6",
+      "Size": 6,
+      "RiskScore": 59,
+      "EntityIds": [
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4001"
+      ],
+      "Statistics": {
+        "TotalNodes": 6,
+        "TotalEdges": 7,
+        "Density": 0.42,
+        "AverageRiskScore": 55.7,
+        "HighRiskEntities": 2
+      },
+      "IsExpanded": false,
+      "BoundaryPoints": [
+        { "X": 28.270, "Y": -15.423 },
+        { "X": 28.281, "Y": -15.419 },
+        { "X": 28.274, "Y": -15.430 }
+      ]
+    }
+  ]
 }

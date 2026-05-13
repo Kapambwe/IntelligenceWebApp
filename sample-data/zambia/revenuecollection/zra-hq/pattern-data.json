@@ -1,5 +1,97 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
-  "AvailablePatterns": [],
-  "Instances": {}
+  "AvailablePatterns": [
+    {
+      "PatternType": "Circular",
+      "Name": "Circular Transfer Loop",
+      "Description": "Payments routed through related entities and back to origin.",
+      "Icon": "loop",
+      "Parameters": {}
+    },
+    {
+      "PatternType": "Layering",
+      "Name": "Layered Settlement Trail",
+      "Description": "Funds broken into layered payments before tax settlement.",
+      "Icon": "layers",
+      "Parameters": {}
+    },
+    {
+      "PatternType": "Smurfing",
+      "Name": "Split Cash Deposits",
+      "Description": "Cash deposits split across branches to avoid reporting thresholds.",
+      "Icon": "split",
+      "Parameters": {}
+    },
+    {
+      "PatternType": "UTurns",
+      "Name": "U-Turn Payments",
+      "Description": "Outgoing payments returned after short circular hops.",
+      "Icon": "arrow-u-turn",
+      "Parameters": {}
+    },
+    {
+      "PatternType": "FanOut",
+      "Name": "Distributor Fan-Out",
+      "Description": "Single source distributing to many linked counterparties.",
+      "Icon": "share",
+      "Parameters": {}
+    }
+  ],
+  "Instances": {
+    "Circular": [
+      {
+        "Id": "7a8f2b6c-5d1c-4c4d-a111-aaaa00000001",
+        "PatternType": "Circular",
+        "EntityIds": [],
+        "EdgeIds": [],
+        "RiskScore": 88,
+        "DetectedDate": "2026-05-08T08:00:00Z",
+        "Metadata": {}
+      }
+    ],
+    "Layering": [
+      {
+        "Id": "7a8f2b6c-5d1c-4c4d-a111-aaaa00000002",
+        "PatternType": "Layering",
+        "EntityIds": [],
+        "EdgeIds": [],
+        "RiskScore": 84,
+        "DetectedDate": "2026-05-08T08:05:00Z",
+        "Metadata": {}
+      }
+    ],
+    "Smurfing": [
+      {
+        "Id": "7a8f2b6c-5d1c-4c4d-a111-aaaa00000003",
+        "PatternType": "Smurfing",
+        "EntityIds": [],
+        "EdgeIds": [],
+        "RiskScore": 79,
+        "DetectedDate": "2026-05-08T08:10:00Z",
+        "Metadata": {}
+      }
+    ],
+    "UTurns": [
+      {
+        "Id": "7a8f2b6c-5d1c-4c4d-a111-aaaa00000004",
+        "PatternType": "UTurns",
+        "EntityIds": [],
+        "EdgeIds": [],
+        "RiskScore": 72,
+        "DetectedDate": "2026-05-08T08:15:00Z",
+        "Metadata": {}
+      }
+    ],
+    "FanOut": [
+      {
+        "Id": "7a8f2b6c-5d1c-4c4d-a111-aaaa00000005",
+        "PatternType": "FanOut",
+        "EntityIds": [],
+        "EdgeIds": [],
+        "RiskScore": 70,
+        "DetectedDate": "2026-05-08T08:20:00Z",
+        "Metadata": {}
+      }
+    ]
+  }
 }

@@ -1,16 +1,57 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
   "Groups": [
-    {
-      "Id": "transactions",
-      "Content": "Transactions",
-      "Order": 1
-    },
-    {
-      "Id": "incidents",
-      "Content": "Incidents",
-      "Order": 2
-    }
+    { "Id": "collections", "Content": "Collections", "Order": 1 },
+    { "Id": "refunds", "Content": "Refunds", "Order": 2 },
+    { "Id": "audit", "Content": "Audit", "Order": 3 },
+    { "Id": "compliance", "Content": "Compliance", "Order": 4 },
+    { "Id": "border", "Content": "Border", "Order": 5 }
   ],
-  "EntityTimelines": {}
+  "EntityTimelines": {
+    "f90e31f5-69a2-4b6f-ae18-6c78d31d4001": [
+      {
+        "Id": "timeline-1",
+        "Content": "Tax return filed",
+        "Start": "2026-03-10T08:00:00Z",
+        "Type": "milestone",
+        "Group": "collections"
+      }
+    ],
+    "f90e31f5-69a2-4b6f-ae18-6c78d31d4002": [
+      {
+        "Id": "timeline-2",
+        "Content": "Customs hold released",
+        "Start": "2026-03-12T09:00:00Z",
+        "Type": "event",
+        "Group": "border"
+      }
+    ],
+    "f90e31f5-69a2-4b6f-ae18-6c78d31d4003": [
+      {
+        "Id": "timeline-3",
+        "Content": "PEP screening updated",
+        "Start": "2026-04-02T08:00:00Z",
+        "Type": "milestone",
+        "Group": "compliance"
+      }
+    ],
+    "bbd477cb-aedb-424e-b314-c9f7a4db33de": [
+      {
+        "Id": "timeline-4",
+        "Content": "Refund review completed",
+        "Start": "2026-04-10T12:30:00Z",
+        "Type": "event",
+        "Group": "refunds"
+      }
+    ],
+    "1ab4c367-34be-44a7-ac2d-22e6379d121f": [
+      {
+        "Id": "timeline-5",
+        "Content": "Audit field visit",
+        "Start": "2026-04-20T15:00:00Z",
+        "Type": "event",
+        "Group": "audit"
+      }
+    ]
+  }
 }

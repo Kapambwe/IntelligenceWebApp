@@ -1,0 +1,308 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Scenarios": [
+    {
+      "Intent": "FindBusinessRelationships",
+      "Triggers": ["do business with", "business relationships", "works with", "connected to"],
+      "Answer": "I found 12 people and 7 companies connected to {target}.",
+      "CaseId": "6e2b636b-a321-4da1-872e-d2dc5cdc71ce",
+      "Evidence": [
+        {
+          "Title": "Direct business network",
+          "Description": "{target} is linked to suppliers, directors, and payment counterparties in Lusaka and Copperbelt.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "{target}",
+          "EntityType": "Person",
+          "Confidence": 0.91
+        },
+        {
+          "Title": "Shared control",
+          "Description": "Two companies share a director and a registered address used for invoice settlement.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Kafue Logistics",
+          "EntityType": "Organization",
+          "Confidence": 0.84
+        }
+      ],
+      "Links": [
+        {
+          "Title": "Open business network graph",
+          "Type": "graph",
+          "Url": "/analytics/network?entityId={resolvedEntityId}"
+        },
+        {
+          "Title": "Open investigation graph",
+          "Type": "graph",
+          "Url": "/investigation-v1/{resolvedEntityId}"
+        },
+        {
+          "Title": "Open investigations dashboard",
+          "Type": "report",
+          "Url": "/investigations/{caseId}"
+        }
+      ]
+    },
+    {
+      "Intent": "FindHiddenConnections",
+      "Triggers": ["hidden connection", "hidden connections", "shared address", "shared phone", "same phone"],
+      "Answer": "I found 8 hidden connections around {target} that are not obvious from the first hop.",
+      "CaseId": "222663a8-51ae-43e6-b510-cc446eea433c",
+      "Evidence": [
+        {
+          "Title": "Shared address cluster",
+          "Description": "Three entities share the same office address, reception line, and PO box.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Lusaka Gateway Holdings",
+          "EntityType": "Organization",
+          "Confidence": 0.88
+        },
+        {
+          "Title": "Common phone number",
+          "Description": "A shared contact number links a director and two trading companies.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Chisamba Trading",
+          "EntityType": "Organization",
+          "Confidence": 0.81
+        }
+      ],
+      "Links": [
+        {
+          "Title": "Open hidden connections graph",
+          "Type": "graph",
+          "Url": "/entities/{resolvedEntityId}/network"
+        },
+        {
+          "Title": "Open investigation graph",
+          "Type": "graph",
+          "Url": "/investigation-v1/{resolvedEntityId}"
+        }
+      ]
+    },
+    {
+      "Intent": "TraceMoneyFlow",
+      "Triggers": ["money flow", "trace money", "payment path", "fund flow", "money trail"],
+      "Answer": "I traced 5 payment hops for {target} and identified one high-risk endpoint.",
+      "CaseId": "a2c815bb-6c3b-40f7-a455-14036199e5d6",
+      "Evidence": [
+        {
+          "Title": "Inbound payment chain",
+          "Description": "Funds moved from a trading account into a logistics broker before being split into smaller transfers.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Zambezi Logistics",
+          "EntityType": "Organization",
+          "Confidence": 0.9
+        },
+        {
+          "Title": "Cash withdrawal",
+          "Description": "A cash withdrawal followed the final transfer within 24 hours.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Kasama Cash Centre",
+          "EntityType": "Organization",
+          "Confidence": 0.77
+        }
+      ],
+      "Links": [
+        {
+          "Title": "Open suspicious payment paths",
+          "Type": "graph",
+          "Url": "/entities/{resolvedEntityId}/network-v2"
+        },
+        {
+          "Title": "Open investigation graph",
+          "Type": "graph",
+          "Url": "/investigation-v1/{resolvedEntityId}"
+        },
+        {
+          "Title": "Open investigations dashboard",
+          "Type": "report",
+          "Url": "/investigations/{caseId}"
+        }
+      ]
+    },
+    {
+      "Intent": "DetectCollusion",
+      "Triggers": ["collusion", "co-bidder", "bid rigging", "same tender", "tender"],
+      "Answer": "I found 4 bidders with overlapping signals that suggest possible collusion around {target}.",
+      "CaseId": "fd32526e-d586-4802-8c71-f8bc53622f3c",
+      "Evidence": [
+        {
+          "Title": "Shared tender metadata",
+          "Description": "Two bidders submitted documents from the same workstation and IP range.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Procurement Bid Group",
+          "EntityType": "Organization",
+          "Confidence": 0.87
+        },
+        {
+          "Title": "Co-bidder pattern",
+          "Description": "The same pair of entities repeatedly bid together and alternated the lead bidder role.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Kabwe Construction",
+          "EntityType": "Organization",
+          "Confidence": 0.83
+        }
+      ],
+      "Links": [
+        {
+          "Title": "Open collusion graph",
+          "Type": "graph",
+          "Url": "/analytics/network?entityId={resolvedEntityId}"
+        },
+        {
+          "Title": "Open network analysis",
+          "Type": "graph",
+          "Url": "/entities/{resolvedEntityId}/network"
+        }
+      ]
+    },
+    {
+      "Intent": "FindShellCompanies",
+      "Triggers": ["shell company", "shell companies", "beneficial owner", "same address", "same director"],
+      "Answer": "I identified 6 shell-company indicators connected to {target}.",
+      "CaseId": "5e3266d8-bff6-421c-95d5-d37f17324337",
+      "Evidence": [
+        {
+          "Title": "Dormant registration",
+          "Description": "The entity is registered but has limited staff, no public web presence, and low transaction volume.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Mansa Holdings",
+          "EntityType": "Organization",
+          "Confidence": 0.9
+        },
+        {
+          "Title": "Shared director chain",
+          "Description": "One director appears across several newly formed companies with the same office address.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Luanshya Ventures",
+          "EntityType": "Organization",
+          "Confidence": 0.85
+        }
+      ],
+      "Links": [
+        {
+          "Title": "Open shell-company graph",
+          "Type": "graph",
+          "Url": "/investigation-v1/{resolvedEntityId}"
+        },
+        {
+          "Title": "Open investigations dashboard",
+          "Type": "report",
+          "Url": "/investigations/{caseId}"
+        }
+      ]
+    },
+    {
+      "Intent": "DetectCircularPayments",
+      "Triggers": ["circular payment", "round trip", "round-trip", "cycle", "cycle detection"],
+      "Answer": "I found 3 circular payment loops involving {target}.",
+      "CaseId": "6e2b636b-a321-4da1-872e-d2dc5cdc71ce",
+      "Evidence": [
+        {
+          "Title": "Round-trip transfer",
+          "Description": "Funds returned to the originating cluster after passing through two intermediaries.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Circular Payments Cluster A",
+          "EntityType": "Organization",
+          "Confidence": 0.88
+        },
+        {
+          "Title": "Same counterparty reuse",
+          "Description": "The same counterparty appears on both incoming and outgoing sides of the route.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Nyimba Traders",
+          "EntityType": "Organization",
+          "Confidence": 0.81
+        }
+      ],
+      "Links": [
+        {
+          "Title": "Open suspicious payment paths",
+          "Type": "graph",
+          "Url": "/entities/{resolvedEntityId}/network-v2"
+        },
+        {
+          "Title": "Open investigation graph",
+          "Type": "graph",
+          "Url": "/investigation-v1/{resolvedEntityId}"
+        }
+      ]
+    },
+    {
+      "Intent": "RankHighRiskEntities",
+      "Triggers": ["rank", "risk", "high risk", "highest risk"],
+      "Answer": "I ranked 8 high-risk entities related to {target}.",
+      "CaseId": "222663a8-51ae-43e6-b510-cc446eea433c",
+      "Evidence": [
+        {
+          "Title": "Top risk node",
+          "Description": "One entity has a high centrality score and multiple compliance red flags.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Risk Node One",
+          "EntityType": "Organization",
+          "Confidence": 0.93
+        },
+        {
+          "Title": "PEP-linked entity",
+          "Description": "The scoring model elevated an entity with a PEP association and recent cash activity.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Risk Node Two",
+          "EntityType": "Organization",
+          "Confidence": 0.88
+        }
+      ],
+      "Links": [
+        {
+          "Title": "Open risk ranking graph",
+          "Type": "graph",
+          "Url": "/entities/{resolvedEntityId}/network"
+        },
+        {
+          "Title": "Open investigations dashboard",
+          "Type": "report",
+          "Url": "/investigations/{caseId}"
+        }
+      ]
+    },
+    {
+      "Intent": "ExplainSuspiciousNetwork",
+      "Triggers": ["suspicious network", "why linked", "explain network", "show network"],
+      "Answer": "I found 11 connected entities around {target} and highlighted the suspicious links.",
+      "CaseId": "fd32526e-d586-4802-8c71-f8bc53622f3c",
+      "Evidence": [
+        {
+          "Title": "Suspicious hub",
+          "Description": "One entity acts as a hub between unrelated companies and repeated cash deposits.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Suspicious Hub",
+          "EntityType": "Organization",
+          "Confidence": 0.9
+        },
+        {
+          "Title": "Weak documentary support",
+          "Description": "Several relationships are supported only by address and phone matches.",
+          "Source": "SampleData.Zambia.RevenueCollection",
+          "EntityName": "Support Link One",
+          "EntityType": "Organization",
+          "Confidence": 0.77
+        }
+      ],
+      "Links": [
+        {
+          "Title": "Open business network graph",
+          "Type": "graph",
+          "Url": "/analytics/network?entityId={resolvedEntityId}"
+        },
+        {
+          "Title": "Open network analysis",
+          "Type": "graph",
+          "Url": "/investigation-v1/{resolvedEntityId}"
+        },
+        {
+          "Title": "Open investigations dashboard",
+          "Type": "report",
+          "Url": "/investigations/{caseId}"
+        }
+      ]
+    }
+  ]
+}

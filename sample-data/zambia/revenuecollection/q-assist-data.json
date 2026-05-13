@@ -12,8 +12,128 @@
       "Description": "Potential profit shifting detected in mining equipment imports.",
       "ActionUrl": "/investigations",
       "Type": 1
+    },
+    {
+      "Title": "VAT Refund Anomaly",
+      "Description": "Suspicious refund pattern across repeated monthly submissions.",
+      "ActionUrl": "/transactions",
+      "Type": 2
+    },
+    {
+      "Title": "Cash Deposit Spike",
+      "Description": "Multiple branch deposits just below reporting thresholds.",
+      "ActionUrl": "/fraud",
+      "Type": 3
+    },
+    {
+      "Title": "Border Corridor Watchlist",
+      "Description": "Entities linked to cross-border duty avoidance routes.",
+      "ActionUrl": "/geospatial",
+      "Type": 4
     }
   ],
-  "InvestigationSuggestions": {},
-  "EntitySuggestions": {}
+  "InvestigationSuggestions": {
+    "6e2b636b-a321-4da1-872e-d2dc5cdc71ce": [
+      {
+        "Title": "Review invoice trail",
+        "Description": "Trace the linked vendor chain and confirm supporting contracts.",
+        "Text": "Review invoice trail",
+        "ActionUrl": "/investigations",
+        "Confidence": 0.91,
+        "Type": 1
+      }
+    ],
+    "222663a8-51ae-43e6-b510-cc446eea433c": [
+      {
+        "Title": "Check customs alignment",
+        "Description": "Compare duty declarations against manifest values.",
+        "Text": "Check customs alignment",
+        "ActionUrl": "/investigations",
+        "Confidence": 0.88,
+        "Type": 1
+      }
+    ],
+    "a2c815bb-6c3b-40f7-a455-14036199e5d6": [
+      {
+        "Title": "Scan related parties",
+        "Description": "Look for shared directors and PEP links.",
+        "Text": "Scan related parties",
+        "ActionUrl": "/compliance",
+        "Confidence": 0.86,
+        "Type": 0
+      }
+    ],
+    "fd32526e-d586-4802-8c71-f8bc53622f3c": [
+      {
+        "Title": "Track cash deposits",
+        "Description": "Check for repeated structuring across branches.",
+        "Text": "Track cash deposits",
+        "ActionUrl": "/fraud",
+        "Confidence": 0.84,
+        "Type": 3
+      }
+    ],
+    "5e3266d8-bff6-421c-95d5-d37f17324337": [
+      {
+        "Title": "Map corridor route",
+        "Description": "Validate movement across the border corridor.",
+        "Text": "Map corridor route",
+        "ActionUrl": "/geospatial",
+        "Confidence": 0.83,
+        "Type": 4
+      }
+    ]
+  },
+  "EntitySuggestions": {
+    "6e2b636b-a321-4da1-872e-d2dc5cdc71ce": [
+      {
+        "Title": "Screen beneficial owners",
+        "Description": "Confirm any politically exposed relationships.",
+        "Text": "Screen beneficial owners",
+        "ActionUrl": "/screening",
+        "Confidence": 0.9,
+        "Type": 0
+      }
+    ],
+    "222663a8-51ae-43e6-b510-cc446eea433c": [
+      {
+        "Title": "Review payment channels",
+        "Description": "Identify branch and mobile-money concentration.",
+        "Text": "Review payment channels",
+        "ActionUrl": "/transactions",
+        "Confidence": 0.87,
+        "Type": 2
+      }
+    ],
+    "a2c815bb-6c3b-40f7-a455-14036199e5d6": [
+      {
+        "Title": "Check import history",
+        "Description": "Compare historical filings with current risk score.",
+        "Text": "Check import history",
+        "ActionUrl": "/entities",
+        "Confidence": 0.85,
+        "Type": 1
+      }
+    ],
+    "fd32526e-d586-4802-8c71-f8bc53622f3c": [
+      {
+        "Title": "Inspect related alerts",
+        "Description": "Look for linked fraud and compliance alerts.",
+        "Text": "Inspect related alerts",
+        "ActionUrl": "/alerts",
+        "Confidence": 0.84,
+        "Type": 3
+      }
+    ],
+    "5e3266d8-bff6-421c-95d5-d37f17324337": [
+      {
+        "Title": "Open geospatial view",
+        "Description": "Show the customs and transit route footprint.",
+        "Text": "Open geospatial view",
+        "ActionUrl": "/geospatial",
+        "Confidence": 0.82,
+        "Type": 4
+      }
+    ]
+  }
 }

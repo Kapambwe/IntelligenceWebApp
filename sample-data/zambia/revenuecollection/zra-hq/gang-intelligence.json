@@ -44,10 +44,24 @@
       "Location": "Garden Compound, Lusaka",
       "OccurredAt": "2026-05-07T11:15:15.755074Z",
       "ConfidenceScore": 85.0
+    },
+    {
+      "Id": "5d1d8a7c-0d7b-4b70-b12a-cf0c3b37d19e",
+      "ActivityNumber": "GA-612",
+      "GangName": "Copperbelt Cartel",
+      "ActivityType": 4,
+      "ThreatLevel": 4,
+      "Description": "Extortion report tied to fuel levy collection routes.",
+      "Location": "Kitwe, Zambia",
+      "OccurredAt": "2026-05-08T08:45:00Z",
+      "ConfidenceScore": 91.0
     }
   ],
   "KnownGangs": [
     "Lusaka Syndicate",
-    "Copperbelt Cartel"
+    "Copperbelt Cartel",
+    "Northern Corridor Smuggling Cell",
+    "Border Stamps Crew",
+    "Receipt Launderers"
   ]
 }

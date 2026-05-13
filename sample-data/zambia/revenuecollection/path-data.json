@@ -1,4 +1,71 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
-  "Paths": []
+  "Paths": [
+    {
+      "Id": "b1b1d1d1-1111-4111-8111-111111111101",
+      "EntityIds": [
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+        "f90e31f5-69a2-4b6f-ae18-6c78d31d4003"
+      ],
+      "EdgeIds": [],
+      "Length": 2,
+      "TotalWeight": 1.2,
+      "RiskScore": 88,
+      "Steps": [
+        {
+          "StepNumber": 1,
+          "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+          "EntityName": "Zambezi General Dealers",
+          "EntityType": "organization",
+          "RelationshipType": "supplier",
+          "Description": "Primary filer to vendor path."
+        },
+        {
+          "StepNumber": 2,
+          "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "EntityName": "Apex Road Contractors",
+          "EntityType": "organization",
+          "RelationshipType": "contractor",
+          "Description": "Vendor receiving tax-linked payments."
+        }
+      ]
+    },
+    {
+      "Id": "b1b1d1d1-1111-4111-8111-111111111102",
+      "EntityIds": [ "f90e31f5-69a2-4b6f-ae18-6c78d31d4002", "f90e31f5-69a2-4b6f-ae18-6c78d31d4003" ],
+      "EdgeIds": [],
+      "Length": 3,
+      "TotalWeight": 1.5,
+      "RiskScore": 74,
+      "Steps": []
+    },
+    {
+      "Id": "b1b1d1d1-1111-4111-8111-111111111103",
+      "EntityIds": [ "f90e31f5-69a2-4b6f-ae18-6c78d31d4003", "f90e31f5-69a2-4b6f-ae18-6c78d31d4001" ],
+      "EdgeIds": [],
+      "Length": 4,
+      "TotalWeight": 2.1,
+      "RiskScore": 68,
+      "Steps": []
+    },
+    {
+      "Id": "b1b1d1d1-1111-4111-8111-111111111104",
+      "EntityIds": [ "f90e31f5-69a2-4b6f-ae18-6c78d31d4001" ],
+      "EdgeIds": [],
+      "Length": 2,
+      "TotalWeight": 0.9,
+      "RiskScore": 55,
+      "Steps": []
+    },
+    {
+      "Id": "b1b1d1d1-1111-4111-8111-111111111105",
+      "EntityIds": [ "f90e31f5-69a2-4b6f-ae18-6c78d31d4002" ],
+      "EdgeIds": [],
+      "Length": 5,
+      "TotalWeight": 2.8,
+      "RiskScore": 81,
+      "Steps": []
+    }
+  ]
 }

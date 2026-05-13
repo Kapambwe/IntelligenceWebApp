@@ -1,5 +1,212 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
-  "Presets": [],
-  "SavedFilters": []
+  "Presets": [
+    {
+      "Id": "a8f4e8f0-9f4a-4ad0-a316-2f6b3f1c3001",
+      "Name": "High Risk Importers",
+      "Description": "Entities with elevated customs and VAT exposure.",
+      "Icon": "warning",
+      "Filter": {
+        "Id": "b0d4c6fb-0b85-4f14-a2d2-1d64d3f7d101",
+        "Operator": 0,
+        "Conditions": [
+          {
+            "Id": "c1b3e8c4-1d2c-4c6a-88c3-7d3ad5f7c201",
+            "Field": "RiskScore",
+            "Operator": 4,
+            "Value": 75,
+            "DataType": "number"
+          }
+        ],
+        "SubGroups": []
+      }
+    },
+    {
+      "Id": "a8f4e8f0-9f4a-4ad0-a316-2f6b3f1c3002",
+      "Name": "Cash Intensive Traders",
+      "Description": "Businesses with repeated cash-heavy tax payments.",
+      "Icon": "cash",
+      "Filter": {
+        "Id": "b0d4c6fb-0b85-4f14-a2d2-1d64d3f7d102",
+        "Operator": 0,
+        "Conditions": [
+          {
+            "Id": "c1b3e8c4-1d2c-4c6a-88c3-7d3ad5f7c202",
+            "Field": "PaymentMethod",
+            "Operator": 0,
+            "Value": "Cash",
+            "DataType": "string"
+          }
+        ],
+        "SubGroups": []
+      }
+    },
+    {
+      "Id": "a8f4e8f0-9f4a-4ad0-a316-2f6b3f1c3003",
+      "Name": "Border Corridor Watch",
+      "Description": "Entities operating in border districts with trade anomalies.",
+      "Icon": "map",
+      "Filter": {
+        "Id": "b0d4c6fb-0b85-4f14-a2d2-1d64d3f7d103",
+        "Operator": 0,
+        "Conditions": [
+          {
+            "Id": "c1b3e8c4-1d2c-4c6a-88c3-7d3ad5f7c203",
+            "Field": "Location",
+            "Operator": 6,
+            "Value": "Border",
+            "DataType": "string"
+          }
+        ],
+        "SubGroups": []
+      }
+    },
+    {
+      "Id": "a8f4e8f0-9f4a-4ad0-a316-2f6b3f1c3004",
+      "Name": "PEP Linked Filers",
+      "Description": "Entities screened as politically exposed or related.",
+      "Icon": "shield",
+      "Filter": {
+        "Id": "b0d4c6fb-0b85-4f14-a2d2-1d64d3f7d104",
+        "Operator": 0,
+        "Conditions": [
+          {
+            "Id": "c1b3e8c4-1d2c-4c6a-88c3-7d3ad5f7c204",
+            "Field": "PepStatus",
+            "Operator": 0,
+            "Value": "Match",
+            "DataType": "string"
+          }
+        ],
+        "SubGroups": []
+      }
+    },
+    {
+      "Id": "a8f4e8f0-9f4a-4ad0-a316-2f6b3f1c3005",
+      "Name": "Recent Audit Queue",
+      "Description": "Latest cases opened for revenue review.",
+      "Icon": "clock",
+      "Filter": {
+        "Id": "b0d4c6fb-0b85-4f14-a2d2-1d64d3f7d105",
+        "Operator": 0,
+        "Conditions": [
+          {
+            "Id": "c1b3e8c4-1d2c-4c6a-88c3-7d3ad5f7c205",
+            "Field": "CreatedAt",
+            "Operator": 4,
+            "Value": "2026-01-01T00:00:00Z",
+            "DataType": "date"
+          }
+        ],
+        "SubGroups": []
+      }
+    }
+  ],
+  "SavedFilters": [
+    {
+      "Id": "d2d5b2d3-0f83-4c82-8d31-9b8b1f6a4001",
+      "Name": "Lusaka High Risk",
+      "RootGroup": {
+        "Id": "e2f4c2d1-1b1b-4e4f-8f9f-1a2c3d4e5001",
+        "Operator": 0,
+        "Conditions": [
+          {
+            "Id": "f3f2c1c0-9e9e-4d4d-8c8c-0b0a1a1a6001",
+            "Field": "Jurisdiction",
+            "Operator": 0,
+            "Value": "Lusaka",
+            "DataType": "string"
+          }
+        ],
+        "SubGroups": []
+      },
+      "CreatedDate": "2026-05-01T10:00:00Z",
+      "CreatedBy": "Analyst Zulu",
+      "IsPreset": false
+    },
+    {
+      "Id": "d2d5b2d3-0f83-4c82-8d31-9b8b1f6a4002",
+      "Name": "Border Duty Review",
+      "RootGroup": {
+        "Id": "e2f4c2d1-1b1b-4e4f-8f9f-1a2c3d4e5002",
+        "Operator": 0,
+        "Conditions": [
+          {
+            "Id": "f3f2c1c0-9e9e-4d4d-8c8c-0b0a1a1a6002",
+            "Field": "Location",
+            "Operator": 6,
+            "Value": "Border",
+            "DataType": "string"
+          }
+        ],
+        "SubGroups": []
+      },
+      "CreatedDate": "2026-05-02T10:00:00Z",
+      "CreatedBy": "Analyst Banda",
+      "IsPreset": false
+    },
+    {
+      "Id": "d2d5b2d3-0f83-4c82-8d31-9b8b1f6a4003",
+      "Name": "Cash Deposit Review",
+      "RootGroup": {
+        "Id": "e2f4c2d1-1b1b-4e4f-8f9f-1a2c3d4e5003",
+        "Operator": 0,
+        "Conditions": [
+          {
+            "Id": "f3f2c1c0-9e9e-4d4d-8c8c-0b0a1a1a6003",
+            "Field": "PaymentMethod",
+            "Operator": 0,
+            "Value": "Cash",
+            "DataType": "string"
+          }
+        ],
+        "SubGroups": []
+      },
+      "CreatedDate": "2026-05-03T10:00:00Z",
+      "CreatedBy": "Analyst Phiri",
+      "IsPreset": false
+    },
+    {
+      "Id": "d2d5b2d3-0f83-4c82-8d31-9b8b1f6a4004",
+      "Name": "PEP Screening Queue",
+      "RootGroup": {
+        "Id": "e2f4c2d1-1b1b-4e4f-8f9f-1a2c3d4e5004",
+        "Operator": 0,
+        "Conditions": [
+          {
+            "Id": "f3f2c1c0-9e9e-4d4d-8c8c-0b0a1a1a6004",
+            "Field": "PepStatus",
+            "Operator": 0,
+            "Value": "Match",
+            "DataType": "string"
+          }
+        ],
+        "SubGroups": []
+      },
+      "CreatedDate": "2026-05-04T10:00:00Z",
+      "CreatedBy": "Analyst Mwewa",
+      "IsPreset": false
+    },
+    {
+      "Id": "d2d5b2d3-0f83-4c82-8d31-9b8b1f6a4005",
+      "Name": "Fresh Cases",
+      "RootGroup": {
+        "Id": "e2f4c2d1-1b1b-4e4f-8f9f-1a2c3d4e5005",
+        "Operator": 0,
+        "Conditions": [
+          {
+            "Id": "f3f2c1c0-9e9e-4d4d-8c8c-0b0a1a1a6005",
+            "Field": "CreatedAt",
+            "Operator": 4,
+            "Value": "2026-01-01T00:00:00Z",
+            "DataType": "date"
+          }
+        ],
+        "SubGroups": []
+      },
+      "CreatedDate": "2026-05-05T10:00:00Z",
+      "CreatedBy": "Analyst Zulu",
+      "IsPreset": false
+    }
+  ]
 }

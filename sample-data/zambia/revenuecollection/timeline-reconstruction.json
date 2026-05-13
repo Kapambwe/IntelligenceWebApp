@@ -1,6 +1,47 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
-  "Events": [],
+  "Events": [
+    {
+      "Id": "c1f0f0f0-1a1a-4a4a-8b8b-000000000001",
+      "Content": "Tax invoice issued",
+      "Description": "Invoice created for customs-cleared goods.",
+      "Start": "2026-03-10T09:00:00Z",
+      "Type": "milestone",
+      "Group": "collection"
+    },
+    {
+      "Id": "c1f0f0f0-1a1a-4a4a-8b8b-000000000002",
+      "Content": "Cash deposit recorded",
+      "Description": "Branch deposit posted to the payer account.",
+      "Start": "2026-03-12T11:30:00Z",
+      "Type": "event",
+      "Group": "cash"
+    },
+    {
+      "Id": "c1f0f0f0-1a1a-4a4a-8b8b-000000000003",
+      "Content": "Refund approved",
+      "Description": "VAT refund released after manual review.",
+      "Start": "2026-03-18T14:45:00Z",
+      "Type": "event",
+      "Group": "refunds"
+    },
+    {
+      "Id": "c1f0f0f0-1a1a-4a4a-8b8b-000000000004",
+      "Content": "PEP screening updated",
+      "Description": "New screening result arrived for the beneficial owner.",
+      "Start": "2026-04-02T08:15:00Z",
+      "Type": "milestone",
+      "Group": "compliance"
+    },
+    {
+      "Id": "c1f0f0f0-1a1a-4a4a-8b8b-000000000005",
+      "Content": "Field visit completed",
+      "Description": "Site verification captured operating footprint.",
+      "Start": "2026-04-20T16:00:00Z",
+      "Type": "event",
+      "Group": "field"
+    }
+  ],
   "Timelines": [
     {
       "Id": "b5f9f9f7-3576-4db8-a706-976c1912229f",
@@ -11,6 +52,46 @@
       "TotalEvents": 12,
       "CreatedAt": "2026-05-08T11:15:15.757586Z",
       "CreatedBy": "Analyst Zulu"
+    },
+    {
+      "Id": "b5f9f9f7-3576-4db8-a706-976c191222aa",
+      "Title": "Customs Release Trail",
+      "Description": "Cross-border clearance, payment, and audit milestones.",
+      "StartDate": "2026-02-10T11:15:15.757560Z",
+      "EndDate": "2026-05-01T11:15:15.757580Z",
+      "TotalEvents": 8,
+      "CreatedAt": "2026-05-08T11:16:15.757586Z",
+      "CreatedBy": "Analyst Banda"
+    },
+    {
+      "Id": "b5f9f9f7-3576-4db8-a706-976c191222ab",
+      "Title": "VAT Refund Journey",
+      "Description": "Refund submission and payment release sequence.",
+      "StartDate": "2026-03-01T11:15:15.757560Z",
+      "EndDate": "2026-04-30T11:15:15.757580Z",
+      "TotalEvents": 6,
+      "CreatedAt": "2026-05-08T11:17:15.757586Z",
+      "CreatedBy": "Analyst Phiri"
+    },
+    {
+      "Id": "b5f9f9f7-3576-4db8-a706-976c191222ac",
+      "Title": "PEP Review Sequence",
+      "Description": "Screening and escalation timeline for exposed entities.",
+      "StartDate": "2026-01-10T11:15:15.757560Z",
+      "EndDate": "2026-05-08T11:15:15.757580Z",
+      "TotalEvents": 9,
+      "CreatedAt": "2026-05-08T11:18:15.757586Z",
+      "CreatedBy": "Analyst Zulu"
+    },
+    {
+      "Id": "b5f9f9f7-3576-4db8-a706-976c191222ad",
+      "Title": "Border Inspection Timeline",
+      "Description": "Inspection, hold, and release steps for corridor cargo.",
+      "StartDate": "2026-02-01T11:15:15.757560Z",
+      "EndDate": "2026-05-05T11:15:15.757580Z",
+      "TotalEvents": 7,
+      "CreatedAt": "2026-05-08T11:19:15.757586Z",
+      "CreatedBy": "Analyst Mwewa"
     }
   ]
 }

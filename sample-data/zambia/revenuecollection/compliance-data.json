@@ -1,6 +1,165 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
-  "SanctionsResults": {},
-  "PepResults": {},
-  "AmlResults": {}
+  "SanctionsResults": {
+    "f90e31f5-69a2-4b6f-ae18-6c78d31d4001": {
+      "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+      "Status": "Clear",
+      "Matches": [],
+      "LastScreenedAt": "2026-05-08T09:00:00Z"
+    },
+    "f90e31f5-69a2-4b6f-ae18-6c78d31d4002": {
+      "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+      "Status": "Clear",
+      "Matches": [],
+      "LastScreenedAt": "2026-05-08T09:05:00Z"
+    },
+    "f90e31f5-69a2-4b6f-ae18-6c78d31d4003": {
+      "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4003",
+      "Status": "Clear",
+      "Matches": [],
+      "LastScreenedAt": "2026-05-08T09:10:00Z"
+    },
+    "bbd477cb-aedb-424e-b314-c9f7a4db33de": {
+      "EntityId": "bbd477cb-aedb-424e-b314-c9f7a4db33de",
+      "Status": "Match",
+      "Matches": [
+        {
+          "ListName": "ZRA Sanctions Watch",
+          "MatchedName": "Provincial Minister",
+          "MatchScore": 95.0,
+          "Country": "Zambia",
+          "DateAdded": "2025-12-01T00:00:00Z"
+        }
+      ],
+      "LastScreenedAt": "2026-05-08T10:20:00Z"
+    },
+    "1ab4c367-34be-44a7-ac2d-22e6379d121f": {
+      "EntityId": "1ab4c367-34be-44a7-ac2d-22e6379d121f",
+      "Status": "Match",
+      "Matches": [
+        {
+          "ListName": "ZRA Sanctions Watch",
+          "MatchedName": "Board Chair",
+          "MatchScore": 88.0,
+          "Country": "Zambia",
+          "DateAdded": "2025-12-01T00:00:00Z"
+        }
+      ],
+      "LastScreenedAt": "2026-05-08T10:25:00Z"
+    }
+  },
+  "PepResults": {
+    "bbd477cb-aedb-424e-b314-c9f7a4db33de": {
+      "EntityId": "bbd477cb-aedb-424e-b314-c9f7a4db33de",
+      "Status": "Match",
+      "IsPep": true,
+      "Position": "Provincial Minister",
+      "Country": "Zambia",
+      "PepLevel": "National",
+      "LastScreenedAt": "2026-05-08T10:20:00Z"
+    },
+    "1ab4c367-34be-44a7-ac2d-22e6379d121f": {
+      "EntityId": "1ab4c367-34be-44a7-ac2d-22e6379d121f",
+      "Status": "Match",
+      "IsPep": true,
+      "Position": "Board Chair",
+      "Country": "Zambia",
+      "PepLevel": "Regional",
+      "LastScreenedAt": "2026-05-08T10:25:00Z"
+    },
+    "d401623d-230d-4b50-9295-8987e036ef24": {
+      "EntityId": "d401623d-230d-4b50-9295-8987e036ef24",
+      "Status": "Clear",
+      "IsPep": false,
+      "Position": null,
+      "Country": "Zambia",
+      "PepLevel": "None",
+      "LastScreenedAt": "2026-05-08T10:27:00Z"
+    },
+    "2338663d-ab47-4693-bc39-30e5eb300f10": {
+      "EntityId": "2338663d-ab47-4693-bc39-30e5eb300f10",
+      "Status": "Clear",
+      "IsPep": false,
+      "Position": null,
+      "Country": "Zambia",
+      "PepLevel": "None",
+      "LastScreenedAt": "2026-05-08T10:28:00Z"
+    },
+    "e8f7aa21-6a91-4d82-9f73-5a21d7f2a111": {
+      "EntityId": "e8f7aa21-6a91-4d82-9f73-5a21d7f2a111",
+      "Status": "Match",
+      "IsPep": true,
+      "Position": "Permanent Secretary",
+      "Country": "Zambia",
+      "PepLevel": "National",
+      "LastScreenedAt": "2026-05-08T10:31:00Z"
+    }
+  },
+  "AmlResults": {
+    "f90e31f5-69a2-4b6f-ae18-6c78d31d4001": {
+      "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+      "RiskScore": 18.0,
+      "RiskLevel": "Low",
+      "RiskFactors": [
+        {
+          "Description": "Regular tax remittance history.",
+          "Weight": 0.2,
+          "Category": "behavioral"
+        }
+      ],
+      "CalculatedAt": "2026-05-08T09:00:00Z"
+    },
+    "f90e31f5-69a2-4b6f-ae18-6c78d31d4002": {
+      "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+      "RiskScore": 34.0,
+      "RiskLevel": "Medium",
+      "RiskFactors": [
+        {
+          "Description": "Frequent cash deposits across multiple branches.",
+          "Weight": 0.4,
+          "Category": "transaction"
+        }
+      ],
+      "CalculatedAt": "2026-05-08T09:05:00Z"
+    },
+    "f90e31f5-69a2-4b6f-ae18-6c78d31d4003": {
+      "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4003",
+      "RiskScore": 41.0,
+      "RiskLevel": "Medium",
+      "RiskFactors": [
+        {
+          "Description": "Cross-border trade activity with inconsistent invoices.",
+          "Weight": 0.5,
+          "Category": "trade"
+        }
+      ],
+      "CalculatedAt": "2026-05-08T09:10:00Z"
+    },
+    "bbd477cb-aedb-424e-b314-c9f7a4db33de": {
+      "EntityId": "bbd477cb-aedb-424e-b314-c9f7a4db33de",
+      "RiskScore": 74.0,
+      "RiskLevel": "High",
+      "RiskFactors": [
+        {
+          "Description": "PEP relationship and contract awarding risk.",
+          "Weight": 0.8,
+          "Category": "governance"
+        }
+      ],
+      "CalculatedAt": "2026-05-08T10:20:00Z"
+    },
+    "1ab4c367-34be-44a7-ac2d-22e6379d121f": {
+      "EntityId": "1ab4c367-34be-44a7-ac2d-22e6379d121f",
+      "RiskScore": 69.0,
+      "RiskLevel": "High",
+      "RiskFactors": [
+        {
+          "Description": "Board-level exposure linked to procurement approvals.",
+          "Weight": 0.7,
+          "Category": "governance"
+        }
+      ],
+      "CalculatedAt": "2026-05-08T10:25:00Z"
+    }
+  }
 }
