@@ -1,4 +1,166 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
-  "Flows": []
+  "Flows": [
+    {
+      "SourceEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+      "SourceEntityName": "Zambezi General Dealers",
+      "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+      "TargetEntityName": "Apex Road Contractors",
+      "TotalAmount": 4850000.00,
+      "TransactionCount": 18,
+      "FirstTransaction": "2025-11-10T08:00:00Z",
+      "LastTransaction": "2026-04-08T14:30:00Z",
+      "RiskScore": 88,
+      "Transactions": [
+        {
+          "Id": "cf000001-0000-4000-8000-000000000001",
+          "Date": "2026-03-10T09:15:00Z",
+          "Amount": 425000.00,
+          "Type": "VAT Payment",
+          "Status": "Cleared",
+          "Description": "Quarterly VAT remittance linked to roadworks contract.",
+          "SourceEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+          "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "IsFlagged": false,
+          "RiskScore": 42
+        },
+        {
+          "Id": "cf000001-0000-4000-8000-000000000002",
+          "Date": "2026-03-22T11:00:00Z",
+          "Amount": 890000.00,
+          "Type": "Contract Payment",
+          "Status": "Flagged",
+          "Description": "Large contract payment without matching purchase order.",
+          "SourceEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+          "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "IsFlagged": true,
+          "RiskScore": 91
+        },
+        {
+          "Id": "cf000001-0000-4000-8000-000000000003",
+          "Date": "2026-04-08T14:30:00Z",
+          "Amount": 650000.00,
+          "Type": "Wire Transfer",
+          "Status": "Under Review",
+          "Description": "Follow-up payment after customs hold release.",
+          "SourceEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+          "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "IsFlagged": true,
+          "RiskScore": 76
+        }
+      ]
+    },
+    {
+      "SourceEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+      "SourceEntityName": "Apex Road Contractors",
+      "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4003",
+      "TargetEntityName": "Lusaka Import Holdings",
+      "TotalAmount": 9200000.00,
+      "TransactionCount": 24,
+      "FirstTransaction": "2025-09-01T07:00:00Z",
+      "LastTransaction": "2026-04-08T16:20:00Z",
+      "RiskScore": 92,
+      "Transactions": [
+        {
+          "Id": "cf000002-0000-4000-8000-000000000001",
+          "Date": "2026-02-14T10:00:00Z",
+          "Amount": 1200000.00,
+          "Type": "Equipment Import",
+          "Status": "Cleared",
+          "Description": "Heavy machinery import payment.",
+          "SourceEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4003",
+          "IsFlagged": false,
+          "RiskScore": 55
+        },
+        {
+          "Id": "cf000002-0000-4000-8000-000000000002",
+          "Date": "2026-04-08T16:20:00Z",
+          "Amount": 4999999.00,
+          "Type": "International Wire",
+          "Status": "Blocked",
+          "Description": "Payment blocked — threshold proximity alert.",
+          "SourceEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4003",
+          "IsFlagged": true,
+          "RiskScore": 95
+        }
+      ]
+    },
+    {
+      "SourceEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4003",
+      "SourceEntityName": "Lusaka Import Holdings",
+      "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+      "TargetEntityName": "Zambezi General Dealers",
+      "TotalAmount": 2100000.00,
+      "TransactionCount": 9,
+      "FirstTransaction": "2026-01-05T12:00:00Z",
+      "LastTransaction": "2026-03-28T09:45:00Z",
+      "RiskScore": 74,
+      "Transactions": [
+        {
+          "Id": "cf000003-0000-4000-8000-000000000001",
+          "Date": "2026-03-28T09:45:00Z",
+          "Amount": 380000.00,
+          "Type": "Refund",
+          "Status": "Flagged",
+          "Description": "Circular refund pattern detected in tax settlement chain.",
+          "SourceEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4003",
+          "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+          "IsFlagged": true,
+          "RiskScore": 82
+        }
+      ]
+    },
+    {
+      "SourceEntityId": "00000000-0000-0000-0000-000000000001",
+      "SourceEntityName": "Chanda Mwamba",
+      "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+      "TargetEntityName": "Apex Road Contractors",
+      "TotalAmount": 680000.00,
+      "TransactionCount": 6,
+      "FirstTransaction": "2026-01-20T08:00:00Z",
+      "LastTransaction": "2026-03-15T10:30:00Z",
+      "RiskScore": 85,
+      "Transactions": [
+        {
+          "Id": "cf000004-0000-4000-8000-000000000001",
+          "Date": "2026-03-15T10:30:00Z",
+          "Amount": 245000.00,
+          "Type": "Wire Transfer",
+          "Status": "Flagged",
+          "Description": "Personal transfer to company with shared directorship.",
+          "SourceEntityId": "00000000-0000-0000-0000-000000000001",
+          "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "IsFlagged": true,
+          "RiskScore": 87
+        }
+      ]
+    },
+    {
+      "SourceEntityId": "d0a23959-6c7c-402b-bbd6-b57cd25051ef",
+      "SourceEntityName": "Mukwa Engineering",
+      "TargetEntityId": "016fbf95-1652-1c02-1de0-0076c8fcf844",
+      "TargetEntityName": "Debtors - Livingstone",
+      "TotalAmount": 1450000.00,
+      "TransactionCount": 11,
+      "FirstTransaction": "2025-12-01T06:00:00Z",
+      "LastTransaction": "2026-04-10T12:30:00Z",
+      "RiskScore": 58,
+      "Transactions": [
+        {
+          "Id": "cf000005-0000-4000-8000-000000000001",
+          "Date": "2026-04-10T12:30:00Z",
+          "Amount": 175000.00,
+          "Type": "Tax Settlement",
+          "Status": "Cleared",
+          "Description": "Arrears settlement payment after audit field visit.",
+          "SourceEntityId": "d0a23959-6c7c-402b-bbd6-b57cd25051ef",
+          "TargetEntityId": "016fbf95-1652-1c02-1de0-0076c8fcf844",
+          "IsFlagged": false,
+          "RiskScore": 35
+        }
+      ]
+    }
+  ]
 }

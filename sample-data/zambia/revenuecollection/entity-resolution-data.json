@@ -1,0 +1,107 @@
+{
+  "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
+  "Suggestions": [
+    {
+      "Id": "b1000001-0000-4000-8000-000000000001",
+      "SourceRecord": {
+        "Id": "b2000001-0000-4000-8000-000000000001",
+        "Name": "Global Trade Solutions Ltd",
+        "Type": "Organization",
+        "RiskScore": 45,
+        "Jurisdiction": "Zambia",
+        "Status": "Active"
+      },
+      "TargetRecord": {
+        "Id": "b2000001-0000-4000-8000-000000000002",
+        "Name": "Global Trade Solutions (Z) Limited",
+        "Type": "Organization",
+        "RiskScore": 42,
+        "Jurisdiction": "Zambia",
+        "Status": "Active"
+      },
+      "ConfidenceScore": 0.91,
+      "MatchReasons": [
+        {
+          "Field": "Name",
+          "Reason": "Fuzzy Match: 93%",
+          "FieldScore": 0.93,
+          "IsOverlapping": true
+        },
+        {
+          "Field": "Token",
+          "Reason": "Jaccard Index: 0.75",
+          "FieldScore": 0.75,
+          "IsOverlapping": true
+        }
+      ],
+      "Status": "Pending",
+      "SuggestedAt": "2026-05-01T08:00:00Z"
+    },
+    {
+      "Id": "b1000001-0000-4000-8000-000000000002",
+      "SourceRecord": {
+        "Id": "b2000002-0000-4000-8000-000000000001",
+        "Name": "Chileshe Mwamba",
+        "Type": "Person",
+        "RiskScore": 15,
+        "Jurisdiction": "Zambia",
+        "Status": "Active"
+      },
+      "TargetRecord": {
+        "Id": "b2000002-0000-4000-8000-000000000002",
+        "Name": "C. Mwamba",
+        "Type": "Person",
+        "RiskScore": 12,
+        "Jurisdiction": "Zambia",
+        "Status": "Active"
+      },
+      "ConfidenceScore": 0.78,
+      "MatchReasons": [
+        {
+          "Field": "Name",
+          "Reason": "Fuzzy Match: 82%",
+          "FieldScore": 0.82,
+          "IsOverlapping": true
+        }
+      ],
+      "Status": "Pending",
+      "SuggestedAt": "2026-05-02T10:30:00Z"
+    },
+    {
+      "Id": "b1000001-0000-4000-8000-000000000003",
+      "SourceRecord": {
+        "Id": "b2000003-0000-4000-8000-000000000001",
+        "Name": "Mukwa Mining Corp",
+        "Type": "Organization",
+        "RiskScore": 85,
+        "Jurisdiction": "BVI",
+        "Status": "Active"
+      },
+      "TargetRecord": {
+        "Id": "b2000003-0000-4000-8000-000000000002",
+        "Name": "Mukwa Mining & Exploration",
+        "Type": "Organization",
+        "RiskScore": 20,
+        "Jurisdiction": "Zambia",
+        "Status": "Active"
+      },
+      "ConfidenceScore": 0.72,
+      "MatchReasons": [
+        {
+          "Field": "Name",
+          "Reason": "Fuzzy Match: 76%",
+          "FieldScore": 0.76,
+          "IsOverlapping": true
+        },
+        {
+          "Field": "Vector",
+          "Reason": "Cosine Similarity: 0.68",
+          "FieldScore": 0.68,
+          "IsOverlapping": true
+        }
+      ],
+      "Status": "Pending",
+      "SuggestedAt": "2026-05-03T14:15:00Z"
+    }
+  ]
+}

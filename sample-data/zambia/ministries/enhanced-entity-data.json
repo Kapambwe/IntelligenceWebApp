@@ -1,4 +1,382 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
-  "Entities": {}
+  "Entities": {
+    "00000000-0000-0000-0000-000000000001": {
+      "Id": "00000000-0000-0000-0000-000000000001",
+      "Name": "Chanda Mwamba",
+      "Type": "Person",
+      "Status": "Flagged",
+      "RiskScore": 87,
+      "RiskBreakdown": {
+        "AmlRisk": 82,
+        "FraudRisk": 91,
+        "SanctionsRisk": 45,
+        "KycRisk": 78,
+        "ContributingFactors": [
+          {
+            "Factor": "PEP Association",
+            "Weight": 35,
+            "Description": "Linked to politically exposed persons through shared directorships."
+          },
+          {
+            "Factor": "Cash-Intensive Activity",
+            "Weight": 28,
+            "Description": "Repeated large cash deposits below reporting thresholds."
+          }
+        ]
+      },
+      "Attributes": [
+        { "Name": "National ID", "Value": "123456/78/1", "Category": "Identity" },
+        { "Name": "Province", "Value": "Copperbelt", "Category": "Location" },
+        { "Name": "Occupation", "Value": "Mining Contractor", "Category": "Profile" }
+      ],
+      "Transactions": [
+        {
+          "Id": "a1000001-0000-4000-8000-000000000001",
+          "Date": "2026-03-15T10:30:00Z",
+          "Amount": 245000.00,
+          "Currency": "ZMW",
+          "Type": "Wire Transfer",
+          "SourceEntityId": "00000000-0000-0000-0000-000000000001",
+          "SourceEntityName": "Chanda Mwamba",
+          "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "TargetEntityName": "Apex Road Contractors",
+          "Status": "Flagged",
+          "Flags": [ "Structuring", "High Value" ]
+        },
+        {
+          "Id": "a1000001-0000-4000-8000-000000000002",
+          "Date": "2026-03-18T14:00:00Z",
+          "Amount": 98000.00,
+          "Currency": "ZMW",
+          "Type": "Cash Deposit",
+          "SourceEntityId": "00000000-0000-0000-0000-000000000001",
+          "SourceEntityName": "Chanda Mwamba",
+          "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+          "TargetEntityName": "Zambezi General Dealers",
+          "Status": "Under Review",
+          "Flags": [ "Cash Intensive" ]
+        }
+      ],
+      "Documents": [
+        {
+          "Id": "d1000001-0000-4000-8000-000000000001",
+          "Name": "National Registration Card.pdf",
+          "Type": "Identity",
+          "UploadedDate": "2025-11-02T09:00:00Z",
+          "UploadedBy": "analyst@zra.gov.zm",
+          "Size": 245760,
+          "Status": "Verified"
+        }
+      ],
+      "Relationships": [
+        {
+          "RelationshipId": "a1000001-0000-4000-8000-000000000001",
+          "ConnectedEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "ConnectedEntityName": "Apex Road Contractors",
+          "ConnectedEntityType": "Organization",
+          "RelationshipType": "Director",
+          "Strength": 85,
+          "StartDate": "2023-06-01T00:00:00Z",
+          "TransactionCount": 14
+        }
+      ],
+      "Notes": [
+        {
+          "Id": "a1000002-0000-4000-8000-000000000001",
+          "Content": "Subject flagged after unusual payment pattern to related contractors.",
+          "Author": "Investigator A. Banda",
+          "CreatedDate": "2026-03-20T08:00:00Z",
+          "IsPinned": true
+        }
+      ],
+      "ActivityLog": [
+        {
+          "Id": "a1000003-0000-4000-8000-000000000001",
+          "Timestamp": "2026-03-20T08:05:00Z",
+          "Action": "Risk Score Updated",
+          "User": "system",
+          "Details": "Risk score increased from 72 to 87 after alert correlation."
+        }
+      ],
+      "Metrics": {
+        "TotalTransactions": 24,
+        "TotalAmount": 1845000.00,
+        "ActiveRelationships": 3,
+        "LastActivity": "2026-03-18T14:00:00Z"
+      },
+      "Badges": [ "Alert", "Watchlist", "PEP" ]
+    },
+    "00000000-0000-0000-0000-000000000002": {
+      "Id": "00000000-0000-0000-0000-000000000002",
+      "Name": "Copperbelt Finance Holdings Ltd",
+      "Type": "Organization",
+      "Status": "UnderReview",
+      "RiskScore": 64,
+      "RiskBreakdown": {
+        "AmlRisk": 58,
+        "FraudRisk": 62,
+        "SanctionsRisk": 22,
+        "KycRisk": 71,
+        "ContributingFactors": [
+          {
+            "Factor": "Complex Ownership",
+            "Weight": 40,
+            "Description": "Multi-layer offshore holding structure identified."
+          }
+        ]
+      },
+      "Attributes": [
+        { "Name": "TPIN", "Value": "1002345678", "Category": "Tax" },
+        { "Name": "Industry", "Value": "Financial Services", "Category": "Profile" },
+        { "Name": "Employees", "Value": "142", "Category": "Operations" }
+      ],
+      "Transactions": [
+        {
+          "Id": "a2000002-0000-4000-8000-000000000001",
+          "Date": "2026-04-01T11:00:00Z",
+          "Amount": 1250000.00,
+          "Currency": "ZMW",
+          "Type": "Intercompany Transfer",
+          "SourceEntityId": "00000000-0000-0000-0000-000000000002",
+          "SourceEntityName": "Copperbelt Finance Holdings Ltd",
+          "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4003",
+          "TargetEntityName": "Lusaka Import Holdings",
+          "Status": "Cleared",
+          "Flags": []
+        }
+      ],
+      "Documents": [
+        {
+          "Id": "d2000002-0000-4000-8000-000000000001",
+          "Name": "Certificate of Incorporation.pdf",
+          "Type": "Corporate",
+          "UploadedDate": "2025-08-15T10:00:00Z",
+          "UploadedBy": "compliance@zra.gov.zm",
+          "Size": 512000,
+          "Status": "Verified"
+        }
+      ],
+      "Relationships": [
+        {
+          "RelationshipId": "a2000002-0000-4000-8000-000000000001",
+          "ConnectedEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+          "ConnectedEntityName": "Zambezi General Dealers",
+          "ConnectedEntityType": "Organization",
+          "RelationshipType": "Subsidiary",
+          "Strength": 72,
+          "StartDate": "2022-01-15T00:00:00Z",
+          "TransactionCount": 38
+        }
+      ],
+      "Notes": [],
+      "ActivityLog": [
+        {
+          "Id": "a2000003-0000-4000-8000-000000000001",
+          "Timestamp": "2026-04-02T09:00:00Z",
+          "Action": "KYC Review Started",
+          "User": "analyst@zra.gov.zm",
+          "Details": "Periodic review triggered by ownership change filing."
+        }
+      ],
+      "Metrics": {
+        "TotalTransactions": 156,
+        "TotalAmount": 24800000.00,
+        "ActiveRelationships": 8,
+        "LastActivity": "2026-04-01T11:00:00Z"
+      },
+      "Badges": [ "Under Review" ]
+    },
+    "00000000-0000-0000-0000-000000000003": {
+      "Id": "00000000-0000-0000-0000-000000000003",
+      "Name": "ACC-7742 Business Account",
+      "Type": "Account",
+      "Status": "Flagged",
+      "RiskScore": 79,
+      "RiskBreakdown": {
+        "AmlRisk": 74,
+        "FraudRisk": 85,
+        "SanctionsRisk": 12,
+        "KycRisk": 55,
+        "ContributingFactors": [
+          {
+            "Factor": "Rapid In-Out Flows",
+            "Weight": 45,
+            "Description": "Funds received and disbursed within 24 hours on multiple occasions."
+          }
+        ]
+      },
+      "Attributes": [
+        { "Name": "Account Number", "Value": "ACC-7742", "Category": "Banking" },
+        { "Name": "Bank", "Value": "Zambia Commercial Bank", "Category": "Banking" },
+        { "Name": "Account Type", "Value": "Business Current", "Category": "Banking" }
+      ],
+      "Transactions": [
+        {
+          "Id": "a3000003-0000-4000-8000-000000000001",
+          "Date": "2026-04-05T07:45:00Z",
+          "Amount": 450000.00,
+          "Currency": "ZMW",
+          "Type": "Deposit",
+          "SourceEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+          "SourceEntityName": "Zambezi General Dealers",
+          "TargetEntityId": "00000000-0000-0000-0000-000000000003",
+          "TargetEntityName": "ACC-7742 Business Account",
+          "Status": "Flagged",
+          "Flags": [ "Velocity" ]
+        }
+      ],
+      "Documents": [],
+      "Relationships": [
+        {
+          "RelationshipId": "a3000003-0000-4000-8000-000000000001",
+          "ConnectedEntityId": "d0a23959-6c7c-402b-bbd6-b57cd25051ef",
+          "ConnectedEntityName": "Mukwa Engineering",
+          "ConnectedEntityType": "Organization",
+          "RelationshipType": "Account Holder",
+          "Strength": 95,
+          "StartDate": "2021-03-10T00:00:00Z",
+          "TransactionCount": 210
+        }
+      ],
+      "Notes": [
+        {
+          "Id": "a3000004-0000-4000-8000-000000000001",
+          "Content": "Account frozen pending investigation into layering activity.",
+          "Author": "Fraud Unit",
+          "CreatedDate": "2026-04-06T12:00:00Z",
+          "IsPinned": true
+        }
+      ],
+      "ActivityLog": [],
+      "Metrics": {
+        "TotalTransactions": 210,
+        "TotalAmount": 9850000.00,
+        "ActiveRelationships": 2,
+        "LastActivity": "2026-04-05T07:45:00Z"
+      },
+      "Badges": [ "Flag", "Frozen" ]
+    },
+    "00000000-0000-0000-0000-000000000004": {
+      "Id": "00000000-0000-0000-0000-000000000004",
+      "Name": "TXN-2026-04821",
+      "Type": "Transaction",
+      "Status": "Investigation",
+      "RiskScore": 92,
+      "RiskBreakdown": {
+        "AmlRisk": 88,
+        "FraudRisk": 95,
+        "SanctionsRisk": 30,
+        "KycRisk": 40,
+        "ContributingFactors": [
+          {
+            "Factor": "Threshold Avoidance",
+            "Weight": 50,
+            "Description": "Amount structured just below mandatory reporting limit."
+          },
+          {
+            "Factor": "High-Risk Corridor",
+            "Weight": 30,
+            "Description": "Payment routed through known high-risk jurisdiction."
+          }
+        ]
+      },
+      "Attributes": [
+        { "Name": "Reference", "Value": "TXN-2026-04821", "Category": "Transaction" },
+        { "Name": "Channel", "Value": "SWIFT", "Category": "Transaction" },
+        { "Name": "Purpose", "Value": "Equipment Purchase", "Category": "Transaction" }
+      ],
+      "Transactions": [
+        {
+          "Id": "00000000-0000-0000-0000-000000000004",
+          "Date": "2026-04-08T16:20:00Z",
+          "Amount": 4999999.00,
+          "Currency": "ZMW",
+          "Type": "International Wire",
+          "SourceEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "SourceEntityName": "Apex Road Contractors",
+          "TargetEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4003",
+          "TargetEntityName": "Lusaka Import Holdings",
+          "Status": "Blocked",
+          "Flags": [ "Structuring", "International", "High Value" ]
+        }
+      ],
+      "Documents": [
+        {
+          "Id": "d4000004-0000-4000-8000-000000000001",
+          "Name": "Invoice_INV-8821.pdf",
+          "Type": "Supporting Document",
+          "UploadedDate": "2026-04-08T16:25:00Z",
+          "UploadedBy": "apex.road@example.com",
+          "Size": 128000,
+          "Status": "Pending Review"
+        }
+      ],
+      "Relationships": [],
+      "Notes": [],
+      "ActivityLog": [
+        {
+          "Id": "a4000004-0000-4000-8000-000000000001",
+          "Timestamp": "2026-04-08T16:30:00Z",
+          "Action": "Transaction Blocked",
+          "User": "system",
+          "Details": "Auto-blocked by AML rules engine — threshold proximity alert."
+        }
+      ],
+      "Metrics": {
+        "TotalTransactions": 1,
+        "TotalAmount": 4999999.00,
+        "ActiveRelationships": 0,
+        "LastActivity": "2026-04-08T16:20:00Z"
+      },
+      "Badges": [ "Alert", "Blocked" ]
+    },
+    "f90e31f5-69a2-4b6f-ae18-6c78d31d4002": {
+      "Id": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+      "Name": "Apex Road Contractors",
+      "Type": "Organization",
+      "Status": "Flagged",
+      "RiskScore": 81,
+      "RiskBreakdown": {
+        "AmlRisk": 76,
+        "FraudRisk": 84,
+        "SanctionsRisk": 18,
+        "KycRisk": 65,
+        "ContributingFactors": [
+          {
+            "Factor": "Shell Company Indicators",
+            "Weight": 42,
+            "Description": "Minimal staff, high transaction volume relative to declared turnover."
+          }
+        ]
+      },
+      "Attributes": [
+        { "Name": "TPIN", "Value": "1009876543", "Category": "Tax" },
+        { "Name": "Sector", "Value": "Construction", "Category": "Profile" }
+      ],
+      "Transactions": [],
+      "Documents": [],
+      "Relationships": [
+        {
+          "RelationshipId": "af902002-0000-4000-8000-000000000001",
+          "ConnectedEntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4001",
+          "ConnectedEntityName": "Zambezi General Dealers",
+          "ConnectedEntityType": "Organization",
+          "RelationshipType": "Supplier",
+          "Strength": 78,
+          "StartDate": "2022-08-01T00:00:00Z",
+          "TransactionCount": 52
+        }
+      ],
+      "Notes": [],
+      "ActivityLog": [],
+      "Metrics": {
+        "TotalTransactions": 52,
+        "TotalAmount": 12400000.00,
+        "ActiveRelationships": 4,
+        "LastActivity": "2026-04-08T16:20:00Z"
+      },
+      "Badges": [ "Shell Risk", "Watchlist" ]
+    }
+  }
 }

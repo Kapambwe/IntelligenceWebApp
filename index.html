@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>IntelligenceWebApp</title>
     <base href="/IntelligenceWebApp/" />
-    <link href="_framework/dotnet.auwpcya5t0.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-flnlVFijE9SaaRS7hvQuzZ4BK/1729cW8t3ICfIXtlk=" />
+    <link href="_framework/dotnet.n8aeaxh89c.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-V6kkPJF2W1InMAW+iJyha2SCAAI1ftWZcaPHiUsLEYM=" />
     <!-- Preconnect to external domains for faster resource loading -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -49,21 +49,21 @@
 
     <script type="importmap">{
   "imports": {
-    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.zxhwjtv6sc.js",
-    "./_framework/dotnet.js": "./_framework/dotnet.auwpcya5t0.js",
-    "./_framework/dotnet.native.js": "./_framework/dotnet.native.qzqg0e4gr5.js",
-    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.peu2mfb29t.js"
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.w3qd1tpl0e.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.n8aeaxh89c.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.vzj2a6aakt.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.zbexyp8zrs.js"
   },
   "scopes": {},
   "integrity": {
-    "./_framework/blazor.webassembly.js": "sha256-1xlHuu1iNOJiMMz2BCq95uekwHf6pdpTcgVNKVBboPs=",
-    "./_framework/blazor.webassembly.zxhwjtv6sc.js": "sha256-1xlHuu1iNOJiMMz2BCq95uekwHf6pdpTcgVNKVBboPs=",
-    "./_framework/dotnet.auwpcya5t0.js": "sha256-flnlVFijE9SaaRS7hvQuzZ4BK/1729cW8t3ICfIXtlk=",
-    "./_framework/dotnet.js": "sha256-flnlVFijE9SaaRS7hvQuzZ4BK/1729cW8t3ICfIXtlk=",
-    "./_framework/dotnet.native.js": "sha256-WtsvFu5I/dyGINvqrZB2ramvMjMqZX5Cw9DfDvTH9bI=",
-    "./_framework/dotnet.native.qzqg0e4gr5.js": "sha256-WtsvFu5I/dyGINvqrZB2ramvMjMqZX5Cw9DfDvTH9bI=",
-    "./_framework/dotnet.runtime.js": "sha256-cajUr4vA/MpLPWj3omULUOwEQw3i8CE2n8AmDheqWBM=",
-    "./_framework/dotnet.runtime.peu2mfb29t.js": "sha256-cajUr4vA/MpLPWj3omULUOwEQw3i8CE2n8AmDheqWBM="
+    "./_framework/blazor.webassembly.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/blazor.webassembly.w3qd1tpl0e.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/dotnet.js": "sha256-V6kkPJF2W1InMAW+iJyha2SCAAI1ftWZcaPHiUsLEYM=",
+    "./_framework/dotnet.n8aeaxh89c.js": "sha256-V6kkPJF2W1InMAW+iJyha2SCAAI1ftWZcaPHiUsLEYM=",
+    "./_framework/dotnet.native.js": "sha256-RezASHv+dbqV50cFnld76YiLhk4B+BjMAKs/euUdNyE=",
+    "./_framework/dotnet.native.vzj2a6aakt.js": "sha256-RezASHv+dbqV50cFnld76YiLhk4B+BjMAKs/euUdNyE=",
+    "./_framework/dotnet.runtime.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40=",
+    "./_framework/dotnet.runtime.zbexyp8zrs.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40="
   }
 }</script>
     <!-- Fallback for browsers with JS disabled -->
@@ -93,8 +93,20 @@
         <span class="dismiss">🗙</span>
     </div>
 
-    <!-- Critical: Blazor framework must load first -->
-    <script src="_framework/blazor.webassembly.zxhwjtv6sc.js"></script>
+    <!-- Critical: Blazor framework must load first.
+         autostart=false so L3 can pass ?env=Testing (loads appsettings.Testing.json).
+         Without an explicit env, Blazor uses the Blazor-Environment header as usual. -->
+    <script src="_framework/blazor.webassembly.w3qd1tpl0e.js" autostart="false"></script>
+    <script>
+        (function () {
+            var env = new URLSearchParams(window.location.search).get('env');
+            var start = (window.Blazor && window.Blazor.start)
+                ? window.Blazor.start(env ? { environment: env } : undefined)
+                : Promise.resolve();
+            if (start && typeof start.catch === 'function')
+                start.catch(function (err) { console.error('Blazor.start failed', err); });
+        })();
+    </script>
     <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
 
     <!-- Helper scripts - defer loading -->

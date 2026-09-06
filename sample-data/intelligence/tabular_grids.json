@@ -1,0 +1,138 @@
+{
+  "generatedAtUtc": "2026-09-06T07:37:24.2990058Z",
+  "description": "Tabular Data Grid Export (Contact List Excluded per Privacy Settings)",
+  "tables": {
+    "companiesTable": [
+      {
+        "id": "org-company-european-investment-bank",
+        "companyName": "European Investment Bank",
+        "industry": "Freight Transport, Logistics \u0026 Infrastructure",
+        "businessDescription": "Die EIB Global, der Gesch\u00E4ftsbereich der Europ\u00E4ischen Investitionsbank (EIB) f\u00FCr Entwicklungsfinanzierung, hat mit S\u00FCdafrikas staatlichem Transport- und Logistikunternehmen Transnet einen Kredit \u00FCber 350 Millionen Euro unterzeichnet. Bei der Unterzeichnung in Johannesburg waren S\u00FCdafrikas Pr\u00E4sident Cyril Ramaphosa, EU-Kommissionspr\u00E4sidentin Ursula von der Leyen und EIB-Vertreter Andrew McDowell anwesend.",
+        "jurisdiction": "South Africa"
+      }
+    ],
+    "personsTable": [
+      {
+        "id": "ent-person-eib-global-unterst\u00FCtzt-gr\u00FCne-wende-in-s\u00FCdafrika-mit-rahmendarlehen-von-350-mio-euro-an-transnet",
+        "name": "EIB GLOBAL UNTERST\u00DCTZT GR\u00DCNE WENDE IN S\u00DCDAFRIKA MIT RAHMENDARLEHEN VON 350 MIO. EURO AN TRANSNET",
+        "title": "Public Representative",
+        "constituency": "Federal Republic of Nigeria",
+        "country": "Nigeria",
+        "city": "Abuja",
+        "address": "National Assembly Complex, Three Arms Zone, Abuja"
+      },
+      {
+        "id": "ent-person-eib-global-supports-south-africa-s-green-transition-with-350-million-framework-loan-for-transnet",
+        "name": "EIB GLOBAL SUPPORTS SOUTH AFRICA\u2019S GREEN TRANSITION WITH \u20AC350 MILLION FRAMEWORK LOAN FOR TRANSNET",
+        "title": "Public Representative",
+        "constituency": "Federal Republic of Nigeria",
+        "country": "Nigeria",
+        "city": "Abuja",
+        "address": "National Assembly Complex, Three Arms Zone, Abuja"
+      },
+      {
+        "id": "ent-person-the-eib-in-sub-saharan-africa",
+        "name": "THE EIB IN SUB-SAHARAN AFRICA",
+        "title": "Public Representative",
+        "constituency": "Federal Republic of Nigeria",
+        "country": "Nigeria",
+        "city": "Abuja",
+        "address": "National Assembly Complex, Three Arms Zone, Abuja"
+      },
+      {
+        "id": "ent-person-bei-monde-en-afrique-du-sud-350-millions-d-eur-pour-la-transition-verte",
+        "name": "BEI MONDE EN AFRIQUE DU SUD : 350 MILLIONS D\u2019EUR POUR LA TRANSITION VERTE",
+        "title": "Public Representative",
+        "constituency": "Federal Republic of Nigeria",
+        "country": "Nigeria",
+        "city": "Abuja",
+        "address": "National Assembly Complex, Three Arms Zone, Abuja"
+      }
+    ],
+    "contactPointsTable": [],
+    "locationsTable": [
+      {
+        "id": "loc-country-nigeria",
+        "name": "Nigeria",
+        "locationType": "Country",
+        "capital": null,
+        "regionOrZone": null
+      },
+      {
+        "id": "loc-city-abuja",
+        "name": "Abuja",
+        "locationType": "City",
+        "capital": null,
+        "regionOrZone": null
+      }
+    ],
+    "relationshipsTable": [
+      {
+        "edgeId": "edge-abuja-in-nigeria",
+        "sourceNodeId": "loc-city-abuja",
+        "targetNodeId": "loc-country-nigeria",
+        "relationshipType": "LOCATED_IN"
+      },
+      {
+        "edgeId": "edge-nass-in-abuja",
+        "sourceNodeId": "gov-body-nass",
+        "targetNodeId": "loc-city-abuja",
+        "relationshipType": "HEADQUARTERED_IN"
+      },
+      {
+        "edgeId": "edge-ent-person-eib-global-unterst\u00FCtzt-gr\u00FCne-wende-in-s\u00FCdafrika-mit-rahmendarlehen-von-350-mio-euro-an-transnet-member-nass",
+        "sourceNodeId": "ent-person-eib-global-unterst\u00FCtzt-gr\u00FCne-wende-in-s\u00FCdafrika-mit-rahmendarlehen-von-350-mio-euro-an-transnet",
+        "targetNodeId": "gov-body-nass",
+        "relationshipType": "MEMBER_OF"
+      },
+      {
+        "edgeId": "edge-ent-person-eib-global-unterst\u00FCtzt-gr\u00FCne-wende-in-s\u00FCdafrika-mit-rahmendarlehen-von-350-mio-euro-an-transnet-citizen-ng",
+        "sourceNodeId": "ent-person-eib-global-unterst\u00FCtzt-gr\u00FCne-wende-in-s\u00FCdafrika-mit-rahmendarlehen-von-350-mio-euro-an-transnet",
+        "targetNodeId": "loc-country-nigeria",
+        "relationshipType": "CITIZEN_OF"
+      },
+      {
+        "edgeId": "edge-loc-email-n-panta-eib-org-domain-nass",
+        "sourceNodeId": "loc-email-n-panta-eib-org",
+        "targetNodeId": "gov-body-nass",
+        "relationshipType": "OFFICIAL_CONTACT_OF"
+      },
+      {
+        "edgeId": "edge-ent-person-eib-global-supports-south-africa-s-green-transition-with-350-million-framework-loan-for-transnet-member-nass",
+        "sourceNodeId": "ent-person-eib-global-supports-south-africa-s-green-transition-with-350-million-framework-loan-for-transnet",
+        "targetNodeId": "gov-body-nass",
+        "relationshipType": "MEMBER_OF"
+      },
+      {
+        "edgeId": "edge-ent-person-eib-global-supports-south-africa-s-green-transition-with-350-million-framework-loan-for-transnet-citizen-ng",
+        "sourceNodeId": "ent-person-eib-global-supports-south-africa-s-green-transition-with-350-million-framework-loan-for-transnet",
+        "targetNodeId": "loc-country-nigeria",
+        "relationshipType": "CITIZEN_OF"
+      },
+      {
+        "edgeId": "edge-ent-person-the-eib-in-sub-saharan-africa-member-nass",
+        "sourceNodeId": "ent-person-the-eib-in-sub-saharan-africa",
+        "targetNodeId": "gov-body-nass",
+        "relationshipType": "MEMBER_OF"
+      },
+      {
+        "edgeId": "edge-ent-person-the-eib-in-sub-saharan-africa-citizen-ng",
+        "sourceNodeId": "ent-person-the-eib-in-sub-saharan-africa",
+        "targetNodeId": "loc-country-nigeria",
+        "relationshipType": "CITIZEN_OF"
+      },
+      {
+        "edgeId": "edge-ent-person-bei-monde-en-afrique-du-sud-350-millions-d-eur-pour-la-transition-verte-member-nass",
+        "sourceNodeId": "ent-person-bei-monde-en-afrique-du-sud-350-millions-d-eur-pour-la-transition-verte",
+        "targetNodeId": "gov-body-nass",
+        "relationshipType": "MEMBER_OF"
+      },
+      {
+        "edgeId": "edge-ent-person-bei-monde-en-afrique-du-sud-350-millions-d-eur-pour-la-transition-verte-citizen-ng",
+        "sourceNodeId": "ent-person-bei-monde-en-afrique-du-sud-350-millions-d-eur-pour-la-transition-verte",
+        "targetNodeId": "loc-country-nigeria",
+        "relationshipType": "CITIZEN_OF"
+      }
+    ]
+  }
+}

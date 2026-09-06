@@ -62,7 +62,62 @@
       "DueDate": "2026-05-28T08:31:08.447506Z"
     }
   ],
-  "CaseDetails": {},
+  "CaseDetails": {
+    "6e2b636b-a321-4da1-872e-d2dc5cdc71ce": {
+      "Id": "6e2b636b-a321-4da1-872e-d2dc5cdc71ce",
+      "CaseNumber": "REV-8472",
+      "Title": "VAT Evasion - Copperbelt Retail",
+      "Description": "Suspicious VAT returns from major hardware group.",
+      "Type": 0,
+      "Priority": 2,
+      "Status": 1,
+      "AssignedTo": "John Smith",
+      "CreatedAt": "2026-03-29T08:31:08.447207Z",
+      "DueDate": "2026-05-23T08:31:08.447322Z",
+      "EvidenceCount": 2,
+      "TeamMembers": [ "John Smith", "Mary Zulu" ],
+      "Tags": [ "vat", "retail", "copperbelt" ],
+      "LinkedEntities": [
+        {
+          "Id": "023ff1e0-100b-1fbf-0b33-009b9aa0aa6d",
+          "Name": "Taxpayers - Solwezi",
+          "Type": "individual",
+          "Status": "cleared",
+          "RiskScore": 40,
+          "CreatedAt": "2024-05-31T17:30:31Z",
+          "UpdatedAt": "2026-01-09T17:30:31Z"
+        }
+      ],
+      "RecentEvidence": [
+        {
+          "Id": "11111111-1111-4111-8111-111111111111",
+          "Title": "VAT return discrepancy schedule",
+          "Type": "Document",
+          "AddedBy": "John Smith",
+          "AddedAt": "2026-04-01T10:00:00Z"
+        }
+      ],
+      "RecentActivity": [
+        {
+          "id": "22222222-2222-4222-8222-222222222222",
+          "action": "CaseOpened",
+          "description": "Investigation opened from screening alert",
+          "category": "Lifecycle",
+          "performedBy": "John Smith",
+          "performedAt": "2026-03-29T08:31:08Z"
+        }
+      ],
+      "AiSuggestions": [
+        {
+          "Title": "Review related entities",
+          "Description": "Two linked taxpayers show similar filing patterns.",
+          "Text": "Expand entity network around Solwezi taxpayers.",
+          "Confidence": 0.82,
+          "Type": 3
+        }
+      ]
+    }
+  },
   "Statistics": {
     "ActiveCases": 5,
     "HighPriorityCases": 3,

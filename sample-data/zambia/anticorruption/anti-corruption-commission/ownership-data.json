@@ -1,4 +1,334 @@
 {
   "TenantId": "a1e3e9be-9634-4c98-8dab-c34a24110faf",
-  "OwnershipStructures": {}
+  "OwnershipStructures": {
+    "f90e31f5-69a2-4b6f-ae18-6c78d31d4002": {
+      "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+      "EntityName": "Apex Road Contractors",
+      "Nodes": [
+        {
+          "Id": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "Name": "Apex Road Contractors",
+          "Type": "Company",
+          "Country": "Zambia",
+          "IsUBO": false,
+          "TotalOwnershipPercentage": 0,
+          "RiskLevel": "High"
+        },
+        {
+          "Id": "b1000001-0000-4000-8000-000000000001",
+          "Name": "Copperbelt Holdings Ltd",
+          "Type": "Company",
+          "Country": "Zambia",
+          "IsUBO": false,
+          "TotalOwnershipPercentage": 60,
+          "RiskLevel": "Medium"
+        },
+        {
+          "Id": "b1000001-0000-4000-8000-000000000002",
+          "Name": "Offshore Ventures BVI",
+          "Type": "Company",
+          "Country": "British Virgin Islands",
+          "IsUBO": false,
+          "TotalOwnershipPercentage": 25,
+          "RiskLevel": "High"
+        },
+        {
+          "Id": "b1000001-0000-4000-8000-000000000003",
+          "Name": "James Mutale",
+          "Type": "Individual",
+          "Country": "Zambia",
+          "IsUBO": true,
+          "TotalOwnershipPercentage": 15,
+          "RiskLevel": "High"
+        },
+        {
+          "Id": "b1000001-0000-4000-8000-000000000004",
+          "Name": "Grace Banda",
+          "Type": "Individual",
+          "Country": "Zambia",
+          "IsUBO": true,
+          "TotalOwnershipPercentage": 45,
+          "RiskLevel": "Medium"
+        }
+      ],
+      "Edges": [
+        {
+          "Id": "e1000001-0000-4000-8000-000000000001",
+          "FromNodeId": "b1000001-0000-4000-8000-000000000001",
+          "ToNodeId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "OwnershipPercentage": 60,
+          "Type": "Direct",
+          "EffectiveDate": "2020-03-15T00:00:00Z",
+          "IsDirect": true
+        },
+        {
+          "Id": "e1000001-0000-4000-8000-000000000002",
+          "FromNodeId": "b1000001-0000-4000-8000-000000000002",
+          "ToNodeId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "OwnershipPercentage": 25,
+          "Type": "Indirect",
+          "EffectiveDate": "2021-07-01T00:00:00Z",
+          "IsDirect": false
+        },
+        {
+          "Id": "e1000001-0000-4000-8000-000000000003",
+          "FromNodeId": "b1000001-0000-4000-8000-000000000004",
+          "ToNodeId": "b1000001-0000-4000-8000-000000000001",
+          "OwnershipPercentage": 75,
+          "Type": "Voting",
+          "EffectiveDate": "2019-11-20T00:00:00Z",
+          "IsDirect": true
+        },
+        {
+          "Id": "e1000001-0000-4000-8000-000000000004",
+          "FromNodeId": "b1000001-0000-4000-8000-000000000003",
+          "ToNodeId": "b1000001-0000-4000-8000-000000000002",
+          "OwnershipPercentage": 100,
+          "Type": "Control",
+          "EffectiveDate": "2022-01-10T00:00:00Z",
+          "IsDirect": true
+        }
+      ],
+      "UBOs": [
+        {
+          "Id": "b1000001-0000-4000-8000-000000000004",
+          "Name": "Grace Banda",
+          "Type": "Individual",
+          "TotalOwnershipPercentage": 45,
+          "Country": "Zambia",
+          "IsPEP": true,
+          "IsSanctioned": false,
+          "RiskLevel": "High",
+          "OwnershipPaths": [
+            {
+              "Path": [ "Grace Banda", "Copperbelt Holdings Ltd", "Apex Road Contractors" ],
+              "CalculatedPercentage": 45,
+              "Depth": 2
+            }
+          ]
+        },
+        {
+          "Id": "b1000001-0000-4000-8000-000000000003",
+          "Name": "James Mutale",
+          "Type": "Individual",
+          "TotalOwnershipPercentage": 25,
+          "Country": "Zambia",
+          "IsPEP": false,
+          "IsSanctioned": false,
+          "RiskLevel": "High",
+          "OwnershipPaths": [
+            {
+              "Path": [ "James Mutale", "Offshore Ventures BVI", "Apex Road Contractors" ],
+              "CalculatedPercentage": 25,
+              "Depth": 2
+            }
+          ]
+        }
+      ],
+      "Assets": [
+        {
+          "Id": "ab100001-0000-4000-8000-000000000001",
+          "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "EntityName": "Apex Road Contractors",
+          "AssetType": "Real Estate",
+          "AssetName": "Ndola Warehouse Complex",
+          "Description": "Industrial warehouse and equipment yard.",
+          "EstimatedValue": 8500000.00,
+          "Currency": "ZMW",
+          "Location": "Ndola, Copperbelt",
+          "AcquisitionDate": "2019-06-01T00:00:00Z",
+          "OwnershipType": "Wholly Owned",
+          "OwnershipPercentage": 100,
+          "Status": "Active",
+          "IsEncumbered": true,
+          "EncumbranceDetails": "Mortgage with Zambia Commercial Bank",
+          "LastValuationDate": "2025-12-01T00:00:00Z",
+          "ValuationMethod": "Market Comparison"
+        },
+        {
+          "Id": "ab100001-0000-4000-8000-000000000002",
+          "EntityId": "f90e31f5-69a2-4b6f-ae18-6c78d31d4002",
+          "EntityName": "Apex Road Contractors",
+          "AssetType": "Equipment",
+          "AssetName": "Road Construction Fleet",
+          "Description": "12 heavy vehicles and asphalt plant.",
+          "EstimatedValue": 4200000.00,
+          "Currency": "ZMW",
+          "Location": "Kitwe, Copperbelt",
+          "AcquisitionDate": "2021-03-15T00:00:00Z",
+          "OwnershipType": "Leased",
+          "OwnershipPercentage": 100,
+          "Status": "Active",
+          "IsEncumbered": false,
+          "LastValuationDate": "2025-10-15T00:00:00Z",
+          "ValuationMethod": "Depreciated Cost"
+        }
+      ]
+    },
+    "d0a23959-6c7c-402b-bbd6-b57cd25051ef": {
+      "EntityId": "d0a23959-6c7c-402b-bbd6-b57cd25051ef",
+      "EntityName": "Mukwa Engineering",
+      "Nodes": [
+        {
+          "Id": "d0a23959-6c7c-402b-bbd6-b57cd25051ef",
+          "Name": "Mukwa Engineering",
+          "Type": "Company",
+          "Country": "Zambia",
+          "IsUBO": false,
+          "TotalOwnershipPercentage": 0,
+          "RiskLevel": "High"
+        },
+        {
+          "Id": "b2000001-0000-4000-8000-000000000001",
+          "Name": "Peter Chilufya",
+          "Type": "Individual",
+          "Country": "Zambia",
+          "IsUBO": true,
+          "TotalOwnershipPercentage": 70,
+          "RiskLevel": "Medium"
+        },
+        {
+          "Id": "b2000001-0000-4000-8000-000000000002",
+          "Name": "Mukwa Family Trust",
+          "Type": "Trust",
+          "Country": "Zambia",
+          "IsUBO": false,
+          "TotalOwnershipPercentage": 30,
+          "RiskLevel": "Low"
+        }
+      ],
+      "Edges": [
+        {
+          "Id": "e2000001-0000-4000-8000-000000000001",
+          "FromNodeId": "b2000001-0000-4000-8000-000000000001",
+          "ToNodeId": "d0a23959-6c7c-402b-bbd6-b57cd25051ef",
+          "OwnershipPercentage": 70,
+          "Type": "Direct",
+          "EffectiveDate": "2018-04-01T00:00:00Z",
+          "IsDirect": true
+        },
+        {
+          "Id": "e2000001-0000-4000-8000-000000000002",
+          "FromNodeId": "b2000001-0000-4000-8000-000000000002",
+          "ToNodeId": "d0a23959-6c7c-402b-bbd6-b57cd25051ef",
+          "OwnershipPercentage": 30,
+          "Type": "Economic",
+          "EffectiveDate": "2020-09-01T00:00:00Z",
+          "IsDirect": true
+        }
+      ],
+      "UBOs": [
+        {
+          "Id": "b2000001-0000-4000-8000-000000000001",
+          "Name": "Peter Chilufya",
+          "Type": "Individual",
+          "TotalOwnershipPercentage": 70,
+          "Country": "Zambia",
+          "IsPEP": false,
+          "IsSanctioned": false,
+          "RiskLevel": "Medium",
+          "OwnershipPaths": [
+            {
+              "Path": [ "Peter Chilufya", "Mukwa Engineering" ],
+              "CalculatedPercentage": 70,
+              "Depth": 1
+            }
+          ]
+        }
+      ],
+      "Assets": [
+        {
+          "Id": "ab200001-0000-4000-8000-000000000001",
+          "EntityId": "d0a23959-6c7c-402b-bbd6-b57cd25051ef",
+          "EntityName": "Mukwa Engineering",
+          "AssetType": "Intellectual Property",
+          "AssetName": "Engineering Patents Portfolio",
+          "Description": "3 registered engineering process patents.",
+          "EstimatedValue": 1200000.00,
+          "Currency": "ZMW",
+          "Location": "Lusaka",
+          "AcquisitionDate": "2017-02-01T00:00:00Z",
+          "OwnershipType": "Wholly Owned",
+          "OwnershipPercentage": 100,
+          "Status": "Active",
+          "IsEncumbered": false,
+          "LastValuationDate": "2025-08-01T00:00:00Z",
+          "ValuationMethod": "Income Approach"
+        }
+      ]
+    },
+    "016fbf95-1652-1c02-1de0-0076c8fcf844": {
+      "EntityId": "016fbf95-1652-1c02-1de0-0076c8fcf844",
+      "EntityName": "Debtors - Livingstone",
+      "Nodes": [
+        {
+          "Id": "016fbf95-1652-1c02-1de0-0076c8fcf844",
+          "Name": "Debtors - Livingstone",
+          "Type": "Company",
+          "Country": "Zambia",
+          "IsUBO": false,
+          "TotalOwnershipPercentage": 0,
+          "RiskLevel": "Low"
+        },
+        {
+          "Id": "b3000001-0000-4000-8000-000000000001",
+          "Name": "Livingstone Trading Co.",
+          "Type": "Company",
+          "Country": "Zambia",
+          "IsUBO": false,
+          "TotalOwnershipPercentage": 100,
+          "RiskLevel": "Low"
+        },
+        {
+          "Id": "b3000001-0000-4000-8000-000000000002",
+          "Name": "Sarah Mwanza",
+          "Type": "Individual",
+          "Country": "Zambia",
+          "IsUBO": true,
+          "TotalOwnershipPercentage": 100,
+          "RiskLevel": "Low"
+        }
+      ],
+      "Edges": [
+        {
+          "Id": "e3000001-0000-4000-8000-000000000001",
+          "FromNodeId": "b3000001-0000-4000-8000-000000000001",
+          "ToNodeId": "016fbf95-1652-1c02-1de0-0076c8fcf844",
+          "OwnershipPercentage": 100,
+          "Type": "Direct",
+          "EffectiveDate": "2015-01-01T00:00:00Z",
+          "IsDirect": true
+        },
+        {
+          "Id": "e3000001-0000-4000-8000-000000000002",
+          "FromNodeId": "b3000001-0000-4000-8000-000000000002",
+          "ToNodeId": "b3000001-0000-4000-8000-000000000001",
+          "OwnershipPercentage": 100,
+          "Type": "Direct",
+          "EffectiveDate": "2015-01-01T00:00:00Z",
+          "IsDirect": true
+        }
+      ],
+      "UBOs": [
+        {
+          "Id": "b3000001-0000-4000-8000-000000000002",
+          "Name": "Sarah Mwanza",
+          "Type": "Individual",
+          "TotalOwnershipPercentage": 100,
+          "Country": "Zambia",
+          "IsPEP": false,
+          "IsSanctioned": false,
+          "RiskLevel": "Low",
+          "OwnershipPaths": [
+            {
+              "Path": [ "Sarah Mwanza", "Livingstone Trading Co.", "Debtors - Livingstone" ],
+              "CalculatedPercentage": 100,
+              "Depth": 2
+            }
+          ]
+        }
+      ],
+      "Assets": []
+    }
+  }
 }
